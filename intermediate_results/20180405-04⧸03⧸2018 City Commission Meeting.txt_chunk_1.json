@@ -1,0 +1,27 @@
+{
+  "open_ended_analysis": {
+    "error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+  },
+  "directed_analysis": {
+    "error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 6,
+      "speaking_time": {
+        "Transcription and Diarization for 20180405-04\u29f803\u29f82018 City Commission Meeting.mp4": 6.5,
+        "Commissioner Usha Reddi": 1350.94,
+        "City Manager": 792.0,
+        "Commissioner Jerred McKee": 42.0,
+        "Commissioner Wynn Butler": 139.0,
+        "Mayor Linda Morse": 710.5600000000001
+      }
+    },
+    "patterns": {
+      "error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+    }
+  },
+  "emergent_patterns": {
+    "error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+  }
+}

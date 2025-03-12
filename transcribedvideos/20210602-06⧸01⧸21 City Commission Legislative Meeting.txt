@@ -1,0 +1,4425 @@
+Transcription and Diarization for 20210602-06⧸01⧸21 City Commission Legislative Meeting.mp4
+==================================================
+
+Mayor Butler:
+Start: 00:00:00.000
+End: 00:00:07.080
+Duration: 7.080 seconds
+Text: Okay, welcome to the Manhattan City Commission meeting for Tuesday, June 1st, and we'll begin
+--------------------------------------------------
+Mayor Butler:
+Start: 00:00:07.080
+End: 00:00:08.080
+Duration: 1.000 seconds
+Text: with a pledge of allegiance.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:08.080
+End: 00:00:16.760
+Duration: 8.680 seconds
+Text: I pledge allegiance to the flag of the United States of America and to the Republic for
+--------------------------------------------------
+City Clerk:
+Start: 00:00:16.760
+End: 00:00:25.480
+Duration: 8.720 seconds
+Text: which it stands, one nation under God, indivisible with liberty and justice for all.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:00:26.480
+End: 00:00:31.880
+Duration: 5.400 seconds
+Text: Okay, since this is the first meeting of the month, we have open public comments.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:00:31.880
+End: 00:00:37.480
+Duration: 5.600 seconds
+Text: Anyone can make a public comment on any item that is not on tonight's agenda.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:00:37.480
+End: 00:00:41.680
+Duration: 4.200 seconds
+Text: So is there anyone here that wishes to make a public comment on an item that is not on
+--------------------------------------------------
+Mayor Butler:
+Start: 00:00:41.680
+End: 00:00:43.680
+Duration: 2.000 seconds
+Text: the agenda for tonight?
+--------------------------------------------------
+Mayor Butler:
+Start: 00:00:43.680
+End: 00:00:51.680
+Duration: 8.000 seconds
+Text: Okay, seeing no one will move on to Commissioner comments.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:00:52.680
+End: 00:00:54.680
+Duration: 2.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:00:54.680
+End: 00:00:59.680
+Duration: 5.000 seconds
+Text: I did want to say, I hope everybody had a wonderful Memorial Day weekend.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:00:59.680
+End: 00:01:05.680
+Duration: 6.000 seconds
+Text: I think there was a lot of traveling going on and also in the rain we had the pool open
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:01:05.680
+End: 00:01:07.680
+Duration: 2.000 seconds
+Text: for a little bit of time, but not too long.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:01:07.680
+End: 00:01:11.680
+Duration: 4.000 seconds
+Text: But I did want to say some of the things about pool temperatures and when they're open
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:01:11.680
+End: 00:01:16.680
+Duration: 5.000 seconds
+Text: and when they're not, and Ron can correct me in the places that I'm incorrect.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:01:16.680
+End: 00:01:18.680
+Duration: 2.000 seconds
+Text: I'm sure there's plenty of that here.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:01:18.680
+End: 00:01:24.680
+Duration: 6.000 seconds
+Text: I think if it's sunny and 70 degrees, pools are open, 75 and cloudy, pools are open.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:01:24.680
+End: 00:01:28.680
+Duration: 4.000 seconds
+Text: And I think the water temperature has to be, is it 60 degrees?
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:01:28.680
+End: 00:01:31.680
+Duration: 3.000 seconds
+Text: Higher than 60 degrees for pools to be open.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:01:31.680
+End: 00:01:34.680
+Duration: 3.000 seconds
+Text: We were hoping to have them open this weekend, that didn't happen.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:01:34.680
+End: 00:01:39.680
+Duration: 5.000 seconds
+Text: I know families and children are very eager to go and swim in our pools.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:01:39.680
+End: 00:01:43.680
+Duration: 4.000 seconds
+Text: The splash park is open, so go ahead and take advantage of that during this time.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:01:43.680
+End: 00:01:46.680
+Duration: 3.000 seconds
+Text: But hopefully we get everybody into the pools as soon as possible.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:01:46.680
+End: 00:01:49.680
+Duration: 3.000 seconds
+Text: With that, thank you for being here this evening.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:01:55.680
+End: 00:02:03.680
+Duration: 8.000 seconds
+Text: The City of Manhattan and several commissioners are partners with the University
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:02:03.680
+End: 00:02:07.680
+Duration: 4.000 seconds
+Text: in something called the International Town and Gown Association.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:02:07.680
+End: 00:02:09.680
+Duration: 2.000 seconds
+Text: We have a local group that meets.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:02:09.680
+End: 00:02:15.680
+Duration: 6.000 seconds
+Text: And so there was a national conference on Zoom, and that was my first national conference.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:02:15.680
+End: 00:02:18.680
+Duration: 3.000 seconds
+Text: I may not do another one.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:02:18.680
+End: 00:02:21.680
+Duration: 3.000 seconds
+Text: It's just really clunky.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:02:21.680
+End: 00:02:30.680
+Duration: 9.000 seconds
+Text: But it was, it's an opportunity to share and to learn from other communities and other universities
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:02:30.680
+End: 00:02:33.680
+Duration: 3.000 seconds
+Text: about what they have done during COVID.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:02:33.680
+End: 00:02:42.680
+Duration: 9.000 seconds
+Text: And I guess one of the takeaways that I got was to don't forget to talk to the students in your university and in your town.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:02:42.680
+End: 00:02:48.680
+Duration: 6.000 seconds
+Text: And some of the students on this conference call said that.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:02:48.680
+End: 00:02:56.680
+Duration: 8.000 seconds
+Text: So I'm bringing it back to all of us so that as we proceed, we are careful to work with the students in our communities.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:02:56.680
+End: 00:03:00.680
+Duration: 4.000 seconds
+Text: And that's all I just wanted to mention that.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:03:00.680
+End: 00:03:05.680
+Duration: 5.000 seconds
+Text: Okay, I wanted to congratulate Parks and Rec for making certain that the pool's got open.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:03:05.680
+End: 00:03:09.680
+Duration: 4.000 seconds
+Text: And also the 35 folks that showed up Saturday for two hours.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:03:09.680
+End: 00:03:15.680
+Duration: 6.000 seconds
+Text: I think they got a polar bear club award or something for jumping in the water because it was quite, quite chilly.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:03:15.680
+End: 00:03:25.680
+Duration: 10.000 seconds
+Text: And the other thing of note, yesterday again, Parks and Rec, Frank Trace and the city band had the first performance out in the park.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:03:25.680
+End: 00:03:28.680
+Duration: 3.000 seconds
+Text: And it was also the hundred years of the band.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:03:28.680
+End: 00:03:32.680
+Duration: 4.000 seconds
+Text: The band having, you know, been started in 1920.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:03:32.680
+End: 00:03:34.680
+Duration: 2.000 seconds
+Text: So quite a milestone event.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:03:34.680
+End: 00:03:38.680
+Duration: 4.000 seconds
+Text: There were also some hearty souls that brave the weather that were out there.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:03:38.680
+End: 00:03:42.680
+Duration: 4.000 seconds
+Text: It's pretty good crowd. So great concert last night.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:03:42.680
+End: 00:03:47.680
+Duration: 5.000 seconds
+Text: Okay, we'll move on to the next item on the agenda, which is the consent agenda.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:03:47.680
+End: 00:03:56.680
+Duration: 9.000 seconds
+Text: The items on the consent agenda are those of a routine and housekeeping nature or those items, which have previously been reviewed by the city commission.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:03:56.680
+End: 00:04:00.680
+Duration: 4.000 seconds
+Text: The commissioner may request an item be moved to the end of the general agenda.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:04:00.680
+End: 00:04:09.680
+Duration: 9.000 seconds
+Text: Does the commission have any questions or comments on any of the consent agenda items?
+--------------------------------------------------
+Mayor Butler:
+Start: 00:04:09.680
+End: 00:04:17.680
+Duration: 8.000 seconds
+Text: Okay, seeing none, there are any public comments on the consent agenda items.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:04:17.680
+End: 00:04:20.680
+Duration: 3.000 seconds
+Text: Okay, seeing none, I guess we can move right on to a motion.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:04:20.680
+End: 00:04:26.680
+Duration: 6.000 seconds
+Text: Mayor, I move that we approve the consent agenda as distributed.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:26.680
+End: 00:04:28.680
+Duration: 2.000 seconds
+Text: Second.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:04:28.680
+End: 00:04:34.680
+Duration: 6.000 seconds
+Text: Okay, city clerk, could you please call the rule?
+--------------------------------------------------
+City Clerk:
+Start: 00:04:34.680
+End: 00:04:36.680
+Duration: 2.000 seconds
+Text: Mayor Butler.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:36.680
+End: 00:04:37.680
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:04:37.680
+End: 00:04:38.680
+Duration: 1.000 seconds
+Text: Commissioner Moors.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:38.680
+End: 00:04:39.680
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:39.680
+End: 00:04:40.680
+Duration: 1.000 seconds
+Text: Commissioner Hadasol.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:40.680
+End: 00:04:41.680
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:41.680
+End: 00:04:42.680
+Duration: 1.000 seconds
+Text: Commissioner Estabra.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:42.680
+End: 00:04:43.680
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:04:43.680
+End: 00:04:45.680
+Duration: 2.000 seconds
+Text: Commissioner Reddy.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:45.680
+End: 00:04:46.680
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:04:46.680
+End: 00:04:49.680
+Duration: 3.000 seconds
+Text: Motion carries 5-0.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:04:49.680
+End: 00:04:55.680
+Duration: 6.000 seconds
+Text: Okay, then we'll move on to the next item on the agenda, which is a public hearing.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:04:55.680
+End: 00:05:12.680
+Duration: 17.000 seconds
+Text: We consider an amendment to the South Project Area Redevelopment Project Plan, and special bond project plan for the Manhattan Downtown Redevelopment District, and Jason Hilgers, Deputy City Manager will take it from there.
+--------------------------------------------------
+City Manager:
+Start: 00:05:12.680
+End: 00:05:15.680
+Duration: 3.000 seconds
+Text: Thank you, Mayor, commissioners.
+--------------------------------------------------
+City Manager:
+Start: 00:05:15.680
+End: 00:05:24.680
+Duration: 9.000 seconds
+Text: This evening we have a redevelopment plan, amendment, as you mentioned in the agenda item, that will really look at the South Redevelopment Area.
+--------------------------------------------------
+City Manager:
+Start: 00:05:24.680
+End: 00:05:35.680
+Duration: 11.000 seconds
+Text: This is an area bounded by Pierre Street on the north, Fourth Street on the west, and Tuttle Creek Boulevard, or Fort Rally Bar, sorry, on the south and on the east.
+--------------------------------------------------
+City Manager:
+Start: 00:05:35.680
+End: 00:05:49.680
+Duration: 14.000 seconds
+Text: This is an area where Discovery Center, our Hilton Garden Inn, our conference center, and Kennelwood Inn and Suites, and Holiday Inn Express are all located, along with our mixed use building, and an apartment building.
+--------------------------------------------------
+City Manager:
+Start: 00:05:49.680
+End: 00:05:56.680
+Duration: 7.000 seconds
+Text: Actually, the Fairfield Inn, the other corner building, escapes me right now, is an idea.
+--------------------------------------------------
+City Manager:
+Start: 00:05:56.680
+End: 00:06:06.680
+Duration: 10.000 seconds
+Text: Anyway, that building is also included. So, the amendment is focused on allowing another use.
+--------------------------------------------------
+City Manager:
+Start: 00:06:06.680
+End: 00:06:14.680
+Duration: 8.000 seconds
+Text: So, we have an additional building, the Museum of Art and Light, which will be presented on by the applicant this evening.
+--------------------------------------------------
+City Manager:
+Start: 00:06:14.680
+End: 00:06:19.680
+Duration: 5.000 seconds
+Text: But I just want to give you a little bit of background, let you know where we're at with respect to Starbonds.
+--------------------------------------------------
+City Manager:
+Start: 00:06:19.680
+End: 00:06:31.680
+Duration: 12.000 seconds
+Text: So, we issued $50 million in Starbonds in 2009. That primarily was for the construction of the Discovery Center, acquiring land, building half of the parking garage, the Blueworth Park, and some south infrastructure.
+--------------------------------------------------
+City Manager:
+Start: 00:06:31.680
+End: 00:06:48.680
+Duration: 17.000 seconds
+Text: Those bonds will be paid off this year. If you recall, back in 2018, we actually approached you with a different Starbond proposal, off-Cimble Avenue, to construct a museum and a Jocency to K-State Athletics, K-State Foundation.
+--------------------------------------------------
+City Manager:
+Start: 00:06:48.680
+End: 00:06:58.680
+Duration: 10.000 seconds
+Text: It was in reference to the Bill Snyder-type museum. You all did approve that. We expanded the district, and we looked at that concept.
+--------------------------------------------------
+City Manager:
+Start: 00:06:58.680
+End: 00:07:07.680
+Duration: 9.000 seconds
+Text: We obviously didn't move forward with that project. The Secretary of Commerce ended up not supporting that fully. So, it ended up coming off the table.
+--------------------------------------------------
+City Manager:
+Start: 00:07:07.680
+End: 00:07:12.680
+Duration: 5.000 seconds
+Text: But it would have done essentially the same thing. The life of the district runs through 2026.
+--------------------------------------------------
+City Manager:
+Start: 00:07:12.680
+End: 00:07:33.680
+Duration: 21.000 seconds
+Text: So, we can capture revenues through the end of 26, even into the first couple months at 27 before it expires. So, there's always been this potential for five, five and a half years of revenue that could somehow be held within our community and spent and dedicated towards a qualifying project.
+--------------------------------------------------
+City Manager:
+Start: 00:07:34.680
+End: 00:07:40.680
+Duration: 6.000 seconds
+Text: Starbonds are supported by state sales tax generated from both the North End and the South End.
+--------------------------------------------------
+City Manager:
+Start: 00:07:40.680
+End: 00:07:49.680
+Duration: 9.000 seconds
+Text: State sales tax. That's 6.5% that the state collects from all the businesses on the North and South.
+--------------------------------------------------
+City Manager:
+Start: 00:07:49.680
+End: 00:07:58.680
+Duration: 9.000 seconds
+Text: We dedicate our local sales tax, our 1% and our portion of the county sales tax, just on the South Area.
+--------------------------------------------------
+City Manager:
+Start: 00:07:59.680
+End: 00:08:08.680
+Duration: 9.000 seconds
+Text: Our Northern sales tax go towards our tiff bonds. The Southern sales for the local only stay within that district for Starbonds.
+--------------------------------------------------
+City Manager:
+Start: 00:08:08.680
+End: 00:08:18.680
+Duration: 10.000 seconds
+Text: The state also required us to put in 90 grand a year in transit gas tax. That was when we added the two hotels instead of a mixed use type of development.
+--------------------------------------------------
+City Manager:
+Start: 00:08:18.680
+End: 00:08:25.680
+Duration: 7.000 seconds
+Text: They required we put in the revenue to the equivalent of the 90 grand.
+--------------------------------------------------
+City Manager:
+Start: 00:08:25.680
+End: 00:08:34.680
+Duration: 9.000 seconds
+Text: So, since 06, that annual revenue generated for Starbonds has ranged anywhere from 5 million a year to 6 million a year.
+--------------------------------------------------
+City Manager:
+Start: 00:08:34.680
+End: 00:08:45.680
+Duration: 11.000 seconds
+Text: Our portion, that local portion on the South End has averaged just over 106,820 dollars since 09.
+--------------------------------------------------
+City Manager:
+Start: 00:08:45.680
+End: 00:08:50.680
+Duration: 5.000 seconds
+Text: It's fluctuated every year. That transient gas tax and another 90K.
+--------------------------------------------------
+City Manager:
+Start: 00:08:50.680
+End: 00:09:00.680
+Duration: 10.000 seconds
+Text: So, we're looking at just about $200,000 a year that comes from city revenues, pledge-stored Starbonds for the next 5 and a half, 6 years.
+--------------------------------------------------
+City Manager:
+Start: 00:09:00.680
+End: 00:09:14.680
+Duration: 14.000 seconds
+Text: The city backed those bonds in 09 with a moral obligation, meaning if revenues didn't materialize and the principal interest is due, the city would have had to come up with those revenues at any time between 09 and 09.
+--------------------------------------------------
+City Manager:
+Start: 00:09:14.680
+End: 00:09:21.680
+Duration: 7.000 seconds
+Text: And 2021. Fortunately, we never had to do that.
+--------------------------------------------------
+City Manager:
+Start: 00:09:21.680
+End: 00:09:28.680
+Duration: 7.000 seconds
+Text: Future Starbonds, we anticipate issuing if this project moves forward.
+--------------------------------------------------
+City Manager:
+Start: 00:09:28.680
+End: 00:09:41.680
+Duration: 13.000 seconds
+Text: We do not anticipate a moral obligation on these bonds. That would expire with the existing and we're looking at issuing something down the road that would not have that moral law.
+--------------------------------------------------
+City Manager:
+Start: 00:09:41.680
+End: 00:09:55.680
+Duration: 14.000 seconds
+Text: That anticipation of that $200,000 dedicated through end of 26, beginning of 27 would be expected of the city along with the state's portion as well.
+--------------------------------------------------
+City Manager:
+Start: 00:09:55.680
+End: 00:10:02.680
+Duration: 7.000 seconds
+Text: We anticipate that issuance could take place in the next 920 days if things moved along.
+--------------------------------------------------
+City Manager:
+Start: 00:10:02.680
+End: 00:10:05.680
+Duration: 3.000 seconds
+Text: And likely structured as a private placement.
+--------------------------------------------------
+City Manager:
+Start: 00:10:05.680
+End: 00:10:08.680
+Duration: 3.000 seconds
+Text: So, we're looking at the state's portion of the city.
+--------------------------------------------------
+City Manager:
+Start: 00:10:08.680
+End: 00:10:11.680
+Duration: 3.000 seconds
+Text: We're looking at the state's portion of the city.
+--------------------------------------------------
+City Manager:
+Start: 00:10:11.680
+End: 00:10:14.680
+Duration: 3.000 seconds
+Text: We're looking at the state's portion of the city.
+--------------------------------------------------
+City Manager:
+Start: 00:10:14.680
+End: 00:10:17.680
+Duration: 3.000 seconds
+Text: We're looking at the state's portion of the city.
+--------------------------------------------------
+City Manager:
+Start: 00:10:17.680
+End: 00:10:20.680
+Duration: 3.000 seconds
+Text: We're looking at the state's portion of the city.
+--------------------------------------------------
+City Manager:
+Start: 00:10:20.680
+End: 00:10:23.680
+Duration: 3.000 seconds
+Text: We're looking at the state's portion of the city.
+--------------------------------------------------
+City Manager:
+Start: 00:10:23.680
+End: 00:10:26.680
+Duration: 3.000 seconds
+Text: We're looking at the state's portion of the city.
+--------------------------------------------------
+City Manager:
+Start: 00:10:26.680
+End: 00:10:29.680
+Duration: 3.000 seconds
+Text: We're looking at the state's portion of the city.
+--------------------------------------------------
+City Clerk:
+Start: 00:10:29.680
+End: 00:10:32.680
+Duration: 3.000 seconds
+Text: We're looking at the state's portion of the city.
+--------------------------------------------------
+City Manager:
+Start: 00:10:32.680
+End: 00:10:39.680
+Duration: 7.000 seconds
+Text: The problem tracing to Brian are seeking an amendment to the South Project Plan for the addition of their virtual museum of art and light.
+--------------------------------------------------
+City Manager:
+Start: 00:10:39.680
+End: 00:10:45.680
+Duration: 6.000 seconds
+Text: They're looking for our participation and willingness to allow the development next to the Discovery Center.
+--------------------------------------------------
+City Manager:
+Start: 00:10:45.680
+End: 00:10:49.680
+Duration: 4.000 seconds
+Text: And they have explored several sites and areas of Manhattan.
+--------------------------------------------------
+City Manager:
+Start: 00:10:49.680
+End: 00:10:53.680
+Duration: 4.000 seconds
+Text: There's been something they've been working on for about three years.
+--------------------------------------------------
+City Manager:
+Start: 00:10:53.680
+End: 00:10:57.680
+Duration: 4.000 seconds
+Text: The site and just the coordination has been a real challenge.
+--------------------------------------------------
+City Manager:
+Start: 00:10:57.680
+End: 00:11:01.680
+Duration: 4.000 seconds
+Text: I think they'll expand on that for you this evening.
+--------------------------------------------------
+City Manager:
+Start: 00:11:01.680
+End: 00:11:08.680
+Duration: 7.000 seconds
+Text: And here we are talking about potentially this facility within the South Red Development Area.
+--------------------------------------------------
+City Manager:
+Start: 00:11:08.680
+End: 00:11:13.680
+Duration: 5.000 seconds
+Text: We've talked to them about everything from Aggieville to downtown.
+--------------------------------------------------
+City Manager:
+Start: 00:11:13.680
+End: 00:11:19.680
+Duration: 6.000 seconds
+Text: It's just been a real struggle to find enough space to put this type of facility.
+--------------------------------------------------
+City Manager:
+Start: 00:11:19.680
+End: 00:11:24.680
+Duration: 5.000 seconds
+Text: Obviously, if you don't control the land, now you're looking at large acquisition costs.
+--------------------------------------------------
+City Manager:
+Start: 00:11:24.680
+End: 00:11:29.680
+Duration: 5.000 seconds
+Text: If you have to acquire buildings and tear them down, either an Aggieville in downtown,
+--------------------------------------------------
+City Manager:
+Start: 00:11:29.680
+End: 00:11:33.680
+Duration: 4.000 seconds
+Text: or having real struggles doing that, that's not easy to do.
+--------------------------------------------------
+City Manager:
+Start: 00:11:33.680
+End: 00:11:42.680
+Duration: 9.000 seconds
+Text: So they're just hurdles after hurdle after hurdle, which really led us to property that the city owns, property that the city already has in the district.
+--------------------------------------------------
+City Manager:
+Start: 00:11:42.680
+End: 00:11:47.680
+Duration: 5.000 seconds
+Text: You really start to narrow your options.
+--------------------------------------------------
+City Manager:
+Start: 00:11:47.680
+End: 00:11:52.680
+Duration: 5.000 seconds
+Text: So a plan to amend this evening must be adopted by public hearing and ordinance.
+--------------------------------------------------
+City Manager:
+Start: 00:11:52.680
+End: 00:11:55.680
+Duration: 3.000 seconds
+Text: So we have scheduled hearing obviously tonight.
+--------------------------------------------------
+City Manager:
+Start: 00:11:55.680
+End: 00:12:01.680
+Duration: 6.000 seconds
+Text: So we're not reading of that ordinance is scheduled for June 1st and the 15th.
+--------------------------------------------------
+City Manager:
+Start: 00:12:01.680
+End: 00:12:05.680
+Duration: 4.000 seconds
+Text: So we need a super majority that requires two thirds of the vote of the commission.
+--------------------------------------------------
+City Manager:
+Start: 00:12:05.680
+End: 00:12:08.680
+Duration: 3.000 seconds
+Text: Two descending votes would kill it.
+--------------------------------------------------
+City Manager:
+Start: 00:12:08.680
+End: 00:12:10.680
+Duration: 2.000 seconds
+Text: So it's not a simple majority.
+--------------------------------------------------
+City Manager:
+Start: 00:12:10.680
+End: 00:12:14.680
+Duration: 4.000 seconds
+Text: So we need four out of the five to support it to move it forward.
+--------------------------------------------------
+City Manager:
+Start: 00:12:14.680
+End: 00:12:20.680
+Duration: 6.000 seconds
+Text: As I mentioned, this will require the Secretary of Commerce to authorize this project.
+--------------------------------------------------
+City Manager:
+Start: 00:12:20.680
+End: 00:12:24.680
+Duration: 4.000 seconds
+Text: So we're going to have a process, the governing body is being looked at to host a hearing.
+--------------------------------------------------
+City Manager:
+Start: 00:12:24.680
+End: 00:12:31.680
+Duration: 7.000 seconds
+Text: We noticed everyone within the district, all the tenants, all the owners, all the businesses of the hearing.
+--------------------------------------------------
+City Manager:
+Start: 00:12:31.680
+End: 00:12:38.680
+Duration: 7.000 seconds
+Text: They're welcome to come this evening and discuss any issues that they may have with this amendment.
+--------------------------------------------------
+City Manager:
+Start: 00:12:38.680
+End: 00:12:41.680
+Duration: 3.000 seconds
+Text: There's a pre and final development agreement.
+--------------------------------------------------
+City Manager:
+Start: 00:12:41.680
+End: 00:12:46.680
+Duration: 5.000 seconds
+Text: We did put a draft of the pre development agreement in your packet this evening.
+--------------------------------------------------
+City Manager:
+Start: 00:12:46.680
+End: 00:12:50.680
+Duration: 4.000 seconds
+Text: So we're going to have a lot of issues that we need to talk about.
+--------------------------------------------------
+City Manager:
+Start: 00:12:50.680
+End: 00:12:57.680
+Duration: 7.000 seconds
+Text: Everything from the land transfer to zoning, which is a PUD, which you all have been part of PUDs before.
+--------------------------------------------------
+City Manager:
+Start: 00:12:57.680
+End: 00:12:58.680
+Duration: 1.000 seconds
+Text: They're very detailed.
+--------------------------------------------------
+City Manager:
+Start: 00:12:58.680
+End: 00:13:01.680
+Duration: 3.000 seconds
+Text: We have existing design guidelines on the south end.
+--------------------------------------------------
+City Manager:
+Start: 00:13:01.680
+End: 00:13:05.680
+Duration: 4.000 seconds
+Text: So the facility needs to be reviewed from that perspective as well.
+--------------------------------------------------
+City Manager:
+Start: 00:13:05.680
+End: 00:13:08.680
+Duration: 3.000 seconds
+Text: Infrastructure, we have some challenges.
+--------------------------------------------------
+City Manager:
+Start: 00:13:08.680
+End: 00:13:10.680
+Duration: 2.000 seconds
+Text: We have some geothermal wells.
+--------------------------------------------------
+City Manager:
+Start: 00:13:10.680
+End: 00:13:15.680
+Duration: 5.000 seconds
+Text: We have some storm drainage and we have private utilities all running underneath.
+--------------------------------------------------
+City Manager:
+Start: 00:13:15.680
+End: 00:13:18.680
+Duration: 3.000 seconds
+Text: We have some of our heat lot that we're talking about.
+--------------------------------------------------
+City Manager:
+Start: 00:13:18.680
+End: 00:13:20.680
+Duration: 2.000 seconds
+Text: There'll be a map here shortly.
+--------------------------------------------------
+City Manager:
+Start: 00:13:20.680
+End: 00:13:29.680
+Duration: 9.000 seconds
+Text: And I apologize for not having that early, but we are talking about that parking area, south and east of the Discovery Center between it and the Camelwood and the Suites.
+--------------------------------------------------
+City Manager:
+Start: 00:13:29.680
+End: 00:13:38.680
+Duration: 9.000 seconds
+Text: Future action would also include the city issuing star bonds formally, again, structured in a way.
+--------------------------------------------------
+City Manager:
+Start: 00:13:38.680
+End: 00:13:50.680
+Duration: 12.000 seconds
+Text: That moral of that future risk, but it would have the dedication of an annual revenue stream that the city would realize if star bonds went away of around $200,000 a year.
+--------------------------------------------------
+City Manager:
+Start: 00:13:50.680
+End: 00:13:53.680
+Duration: 3.000 seconds
+Text: And then that final design, both above ground and below ground.
+--------------------------------------------------
+City Manager:
+Start: 00:13:53.680
+End: 00:14:04.680
+Duration: 11.000 seconds
+Text: And that will take some time before we obviously get into the PUD amendment and then eventually into construction potentially.
+--------------------------------------------------
+City Manager:
+Start: 00:14:04.680
+End: 00:14:10.680
+Duration: 6.000 seconds
+Text: At this point, I was going to turn it over to Mark Abbott, who is legal counsel for the DeBriens.
+--------------------------------------------------
+City Manager:
+Start: 00:14:10.680
+End: 00:14:13.680
+Duration: 3.000 seconds
+Text: I think he has a short presentation he'd like to run through.
+--------------------------------------------------
+City Manager:
+Start: 00:14:13.680
+End: 00:14:18.680
+Duration: 5.000 seconds
+Text: If you have questions for me now, I'd be happy to take those or we can wait till the end.
+--------------------------------------------------
+City Manager:
+Start: 00:14:18.680
+End: 00:14:19.680
+Duration: 1.000 seconds
+Text: It's up to you, Mayor.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:14:19.680
+End: 00:14:22.680
+Duration: 3.000 seconds
+Text: Just want to clarify one of the budget things because I got questions on that.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:14:22.680
+End: 00:14:33.680
+Duration: 11.000 seconds
+Text: Now, based on the charts you just showed there, the city would in fact, over 5.5 years, be investing between 1.1 and 1.2 million dollars in the project.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:14:33.680
+End: 00:14:40.680
+Duration: 7.000 seconds
+Text: Because that would be the transit guest tax money and the sales tax money that would go into the city coffers.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:14:40.680
+End: 00:14:45.680
+Duration: 5.000 seconds
+Text: You know, at the end of this year, if the star bonds have been paid off, is that correct?
+--------------------------------------------------
+City Manager:
+Start: 00:14:45.680
+End: 00:14:52.680
+Duration: 7.000 seconds
+Text: It is correct. And it's the same discussion we had with the Snyder type of museum and this one that I highlighted earlier.
+--------------------------------------------------
+City Manager:
+Start: 00:14:52.680
+End: 00:14:59.680
+Duration: 7.000 seconds
+Text: Conleveraged 23 million of additional star bonds of which you're right. A million of it is local money.
+--------------------------------------------------
+City Manager:
+Start: 00:14:59.680
+End: 00:15:02.680
+Duration: 3.000 seconds
+Text: That could go towards another project.
+--------------------------------------------------
+City Manager:
+Start: 00:15:02.680
+End: 00:15:07.680
+Duration: 5.000 seconds
+Text: You've got 21 million coming in privately to finance this.
+--------------------------------------------------
+City Manager:
+Start: 00:15:07.680
+End: 00:15:12.680
+Duration: 5.000 seconds
+Text: So it's leveraging a $43, $44 million investment in our community.
+--------------------------------------------------
+City Manager:
+Start: 00:15:12.680
+End: 00:15:21.680
+Duration: 9.000 seconds
+Text: And I'll let them expand on this, but they don't have a reliance or an expectation that the city would operate this facility.
+--------------------------------------------------
+City Manager:
+Start: 00:15:21.680
+End: 00:15:31.680
+Duration: 10.000 seconds
+Text: It would be a public, not-for-profit type of venture. I'm sorry, a private, not-for-profit type of venture that would not be part of the city and its operations.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:15:31.680
+End: 00:15:35.680
+Duration: 4.000 seconds
+Text: And of course, we wouldn't have captured this 6% of those state sales tax anyway.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:15:35.680
+End: 00:15:36.680
+Duration: 1.000 seconds
+Text: Correct.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:15:36.680
+End: 00:15:38.680
+Duration: 2.000 seconds
+Text: Even when the star bonds are paid off.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:15:38.680
+End: 00:15:47.680
+Duration: 9.000 seconds
+Text: So I just wanted to, because I got those questions from folks over the week and I just wanted to be sure it was clear that, you know, when you sift through the 200 pages of documents,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:15:47.680
+End: 00:15:55.680
+Duration: 8.000 seconds
+Text: it boils down to somewhere in the neighborhood of $1.1 to $1.2 million at worst that the city would be investing in the project,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:15:55.680
+End: 00:16:02.680
+Duration: 7.000 seconds
+Text: which would be the loss of transit gas tax and sales tax that would have ended up in other city accounts.
+--------------------------------------------------
+City Manager:
+Start: 00:16:02.680
+End: 00:16:08.680
+Duration: 6.000 seconds
+Text: Yeah, and that $200,000 is obviously reached the average that it is today over time.
+--------------------------------------------------
+City Manager:
+Start: 00:16:08.680
+End: 00:16:14.680
+Duration: 6.000 seconds
+Text: When we first started making those debt payments in 2009, 2010, 2011, it wasn't that high.
+--------------------------------------------------
+City Manager:
+Start: 00:16:14.680
+End: 00:16:20.680
+Duration: 6.000 seconds
+Text: It's obviously grown over time. All that revenue was coming from new development within the community.
+--------------------------------------------------
+City Manager:
+Start: 00:16:20.680
+End: 00:16:27.680
+Duration: 7.000 seconds
+Text: The state has allowed us and the tip bonds have been supported by as well to capture over that period of time.
+--------------------------------------------------
+City Manager:
+Start: 00:16:27.680
+End: 00:16:38.680
+Duration: 11.000 seconds
+Text: You're truly looking at this from a five-year window. Do you make that investment for five more to leverage that additional 43 in private and state money investment?
+--------------------------------------------------
+City Manager:
+Start: 00:16:39.680
+End: 00:16:42.680
+Duration: 3.000 seconds
+Text: Any other questions before Mark?
+--------------------------------------------------
+City Clerk:
+Start: 00:16:42.680
+End: 00:16:45.680
+Duration: 3.000 seconds
+Text: All right.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:45.680
+End: 00:16:52.680
+Duration: 7.000 seconds
+Text: All right.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:52.680
+End: 00:16:55.680
+Duration: 3.000 seconds
+Text: Please mark.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:55.680
+End: 00:16:58.680
+Duration: 3.000 seconds
+Text: Thanks.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:16:58.680
+End: 00:17:00.680
+Duration: 2.000 seconds
+Text: Is it the exact same folder?
+--------------------------------------------------
+City Manager:
+Start: 00:17:00.680
+End: 00:17:03.680
+Duration: 3.000 seconds
+Text: I can fold up when you're ready.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:17:03.680
+End: 00:17:08.680
+Duration: 5.000 seconds
+Text: I'll go through the first floor.
+--------------------------------------------------
+City Manager:
+Start: 00:17:08.680
+End: 00:17:14.680
+Duration: 6.000 seconds
+Text: If it's the same, you'll just use the idea.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:14.680
+End: 00:17:23.680
+Duration: 9.000 seconds
+Text: All right.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:17:23.680
+End: 00:17:28.680
+Duration: 5.000 seconds
+Text: Mayor, commission members, thank you for your time and I.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:17:28.680
+End: 00:17:32.680
+Duration: 4.000 seconds
+Text: One thing that I would like to first start off with, my name is Mark Abbott with Pulse and LAPC.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:17:32.680
+End: 00:17:37.680
+Duration: 5.000 seconds
+Text: We are in 900 attorney law firm, 18 different offices.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:17:37.680
+End: 00:17:45.680
+Duration: 8.000 seconds
+Text: I look, I office out of the Kansas City office here on behalf of the development team, Bob and Tracy DeBrine.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:17:45.680
+End: 00:17:50.680
+Duration: 5.000 seconds
+Text: I'd first like to take a step back and talk about what is the purpose of Star Bond.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:17:50.680
+End: 00:17:55.680
+Duration: 5.000 seconds
+Text: You have experience with them. You have a project that is already operating bonds that are getting ready to pay off.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:17:55.680
+End: 00:17:58.680
+Duration: 3.000 seconds
+Text: But what is the purpose behind the Star Bond Act?
+--------------------------------------------------
+Mark Abbott:
+Start: 00:17:58.680
+End: 00:18:04.680
+Duration: 6.000 seconds
+Text: The purpose of the Star Bond Act is to draw in visitors who then come and spend money from out of state.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:18:04.680
+End: 00:18:18.680
+Duration: 14.000 seconds
+Text: So not just capturing the economic activity that would already be present at the location, but we are required to obtain a third party feasibility study that shows that a certain percentage of the visitors
+--------------------------------------------------
+Mark Abbott:
+Start: 00:18:18.680
+End: 00:18:22.680
+Duration: 4.000 seconds
+Text: want estimates the number of visitors that are projected for a particular project.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:18:22.680
+End: 00:18:29.680
+Duration: 7.000 seconds
+Text: Two, the number of those visitors that are going to be from outside of a 100 mile radius.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:18:29.680
+End: 00:18:37.680
+Duration: 8.000 seconds
+Text: And then three, the number of visitors, what is the percentage of those that are going to be outside of the state of Kansas?
+--------------------------------------------------
+Mark Abbott:
+Start: 00:18:37.680
+End: 00:18:49.680
+Duration: 12.000 seconds
+Text: The $200,000 number of what the city would be contributing to the project, that is if those funds were to go to the city.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:18:49.680
+End: 00:19:00.680
+Duration: 11.000 seconds
+Text: Those funds are going to be supplemented if they are invested in the project by the sales taxes and the economic activity that occurs as a result of this facility.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:19:00.680
+End: 00:19:18.680
+Duration: 18.000 seconds
+Text: So just because the city is contributing those funds that they would otherwise receive in their coffers if the bonds were paid off does not mean that those funds aren't going to be replaced by the new revenue stream from the 75,000 visitors that are becoming to our facility.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:19:18.680
+End: 00:19:28.680
+Duration: 10.000 seconds
+Text: So if I could go through the project, we first start off with just a rendering of the exterior.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:19:28.680
+End: 00:19:45.680
+Duration: 17.000 seconds
+Text: Again, the development team, Bob and Tracy DeBrien, LK architecture and the law company have assisted with some of the project renderings, some of the initial project cost estimates and just figuring out what the scope of the project would be.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:19:45.680
+End: 00:19:59.680
+Duration: 14.000 seconds
+Text: So here is the Discovery Center, here is the proposed location for the project and Jason was accurate previously.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:19:59.680
+End: 00:20:05.680
+Duration: 6.000 seconds
+Text: We have looked at other sites, we have tried to find what space is available within the Starbon district.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:20:05.680
+End: 00:20:13.680
+Duration: 8.000 seconds
+Text: That is one of the requirements of the Starbon act is that we look, we be located within the district.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:20:13.680
+End: 00:20:21.680
+Duration: 8.000 seconds
+Text: Property within the district for a project of this size of 50,000 square foot facility is limited.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:20:21.680
+End: 00:20:28.680
+Duration: 7.000 seconds
+Text: So this is the site that is available to us, the only one that would make it feasible.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:20:28.680
+End: 00:20:47.680
+Duration: 19.000 seconds
+Text: So what is the project? The project in this place would be a world class museum, 50,000 square foot facility, all-toe project costs of construction and donated artwork and a down payment in excess of $43 million.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:20:47.680
+End: 00:21:11.680
+Duration: 24.000 seconds
+Text: Bob and Tracy actually had this idea for a multimedia interactive museum and then discovered that there was a museum of that type in Paris and I'm going to butcher the name but that until you know that the one is in Paris and the next slide will show you exactly what the concept is.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:21:11.680
+End: 00:21:18.680
+Duration: 7.000 seconds
+Text: The museum will essentially have two different sides, we'll show some interior rendering in a second.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:21:18.680
+End: 00:21:31.680
+Duration: 13.000 seconds
+Text: One side being the multimedia interactive displays, the other side being more traditional works of our paintings and statues and what you're accustomed to seeing in our museums.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:21:31.680
+End: 00:22:00.680
+Duration: 29.000 seconds
+Text: One of the requirements of the state is that the museum be funded by an endowment that when combined with the net operating revenues is sufficient to guarantee long term viability of the facility that the Secretary of Commerce, one of his big concerns, was is there enough of an endowment to continue operations or if the state contributes all of these sales tax dollars is the facility likely.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:22:00.680
+End: 00:22:13.680
+Duration: 13.000 seconds
+Text: So that is one of the requirements that it be funded by an endowment proven up by a third party revenue study that is sufficient to guarantee long term viability of the project.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:13.680
+End: 00:22:19.680
+Duration: 6.000 seconds
+Text: So if you want to go ahead and we'll let this ad play.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:19.680
+End: 00:22:27.680
+Duration: 8.000 seconds
+Text: Unfortunately, it can't skip.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:27.680
+End: 00:22:45.680
+Duration: 18.000 seconds
+Text: London to Van Gogh's The Starry Night, no matter the time of day, from southern French harbours and fields to scenes from his native Holland, 500 of Vincent Van Gogh's works will be lighting up the French capitals at the L'Aide de Mier in a ten-month exhibition.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:45.680
+End: 00:22:59.680
+Duration: 14.000 seconds
+Text: Here behind me you can see his paintings of sunflowers. They're like sunlight. In fact, the digital projection, the highlight of this colour and this subject which only Van Gogh perfectly mastered.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:59.680
+End: 00:23:08.680
+Duration: 9.000 seconds
+Text: The show uses technology developed in 2012 to combine art and music into an immersive experience.
+--------------------------------------------------
+City Clerk:
+Start: 00:23:09.680
+End: 00:23:17.680
+Duration: 8.000 seconds
+Text: By enlarging it like this we can see the substance, we see the strokes of the paintbrush, the thickness that we normally don't get to see.
+--------------------------------------------------
+City Clerk:
+Start: 00:23:17.680
+End: 00:23:24.680
+Duration: 7.000 seconds
+Text: Another effect of the exhibition's scale, visitors are almost literally drawn into the painting.
+--------------------------------------------------
+City Clerk:
+Start: 00:23:24.680
+End: 00:23:31.680
+Duration: 7.000 seconds
+Text: The audience here are actors, they're part of the show, their shadows play with the images.
+--------------------------------------------------
+City Clerk:
+Start: 00:23:31.680
+End: 00:23:43.680
+Duration: 12.000 seconds
+Text: An immersive charm that so far been a hit with the public. The studio's last show dedicated to Austrian painter Gustav Klimt drew in well over a million visitors.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:23:46.680
+End: 00:23:51.680
+Duration: 5.000 seconds
+Text: I'm going to go back and just take a minute to combine art and music and just so I can highlight something.
+--------------------------------------------------
+City Clerk:
+Start: 00:23:51.680
+End: 00:24:00.680
+Duration: 9.000 seconds
+Text: By enlarging it like this we can see the substance, we see the strokes of the paintbrush, the thickness that we normally don't get to see.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:24:01.680
+End: 00:24:16.680
+Duration: 15.000 seconds
+Text: This is a great example of the vision of the project. You are not viewing art from a distance, you are not viewing a painting, you are immersed in the actual piece of artwork.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:24:16.680
+End: 00:24:24.680
+Duration: 8.000 seconds
+Text: There will be discussions of the time period in which the piece was created.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:24:24.680
+End: 00:24:36.680
+Duration: 12.000 seconds
+Text: There will be narratives on who the artist was while was going on in the artist's life so that you are a part of the presentation of the materials.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:24:36.680
+End: 00:24:45.680
+Duration: 9.000 seconds
+Text: Today's generation of kids being raised on multimedia, PowerPoint, everyone's better, everyone's kids are better on the computer than they are.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:24:45.680
+End: 00:24:55.680
+Duration: 10.000 seconds
+Text: This is going to attract a new generation of the public that otherwise wouldn't be attracted to traditional types of museums.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:24:55.680
+End: 00:25:03.680
+Duration: 8.000 seconds
+Text: This shows exactly what it would be like to be immersed in the presentation.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:25:15.680
+End: 00:25:41.680
+Duration: 26.000 seconds
+Text: This is an artistic rendering of the facility.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:25:41.680
+End: 00:25:49.680
+Duration: 8.000 seconds
+Text: This shows the location of the southeast of the Discovery Center, the Cimax Theory of Rendering.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:25:49.680
+End: 00:26:03.680
+Duration: 14.000 seconds
+Text: This cross section shows what I was describing earlier. This would be the multimedia interactive presentation portion of the facility.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:26:03.680
+End: 00:26:25.680
+Duration: 22.000 seconds
+Text: These floors would have more traditional works of art. Then there would also be gift shops, space available for painting classes, other types of educational type activities.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:26:25.680
+End: 00:26:37.680
+Duration: 12.000 seconds
+Text: In working with our architect and contractors, these are the preliminary development costs for the project.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:26:37.680
+End: 00:26:45.680
+Duration: 8.000 seconds
+Text: The cost of the land, there is an appraisal that is being attained.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:26:45.680
+End: 00:27:14.680
+Duration: 29.000 seconds
+Text: For the hard costs, soft costs and those pieces of equipment that are incorporated into the facility, approximately $23 million within personal property, and the value of artwork that would be donated, and then I will show the anticipated amount of the required operations and down which would be donated to the facility to guarantee operations.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:27:14.680
+End: 00:27:31.680
+Duration: 17.000 seconds
+Text: What are the benefits to the city? The benefits to the city are trying in more visitors to the city. Those that aren't already coming to the city, what project can Manhattan support in order to bring more economic activity to the city?
+--------------------------------------------------
+Mark Abbott:
+Start: 00:27:31.680
+End: 00:27:48.680
+Duration: 17.000 seconds
+Text: This project would invest an excess of $43 million in the city of Manhattan. There would be guaranteed long-term operations from the endowment. This would be a one-of-a-kind, unique cultural and educational facility.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:27:48.680
+End: 00:28:02.680
+Duration: 14.000 seconds
+Text: The type that there is no other interactive museum like this in the world, not just in the state, not just in the Midwest, but in the world, except for right now, except for the one in Paris.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:28:02.680
+End: 00:28:22.680
+Duration: 20.000 seconds
+Text: The departments are willing to, they have had this vision, they have had this dream for several years, and now in the midst of COVID-19, all the economic activity that has slowed down, they are willing to put their funds into this project to benefit the city.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:28:22.680
+End: 00:28:33.680
+Duration: 11.000 seconds
+Text: It would complement the Discovery Center in kind of building on the educational and cultural aspect that is already present in that area.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:28:33.680
+End: 00:28:48.680
+Duration: 15.000 seconds
+Text: And then also transforming an underutilized piece of real estate that's owned by the city, that it's serving a purpose right now as surface parking, which is a public purpose.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:28:48.680
+End: 00:29:00.680
+Duration: 12.000 seconds
+Text: But would the city wish to make perhaps better use of the project in generating economic activity and drawing more visitors to the city?
+--------------------------------------------------
+Mark Abbott:
+Start: 00:29:04.680
+End: 00:29:23.680
+Duration: 19.000 seconds
+Text: So the two requests that are, would be considered on the 15th, the two requests are remaining the existing South Project Area Redevelopment Project Plan to approve this project, and then approve of the pre-development agreement, like Jason described.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:29:23.680
+End: 00:29:38.680
+Duration: 15.000 seconds
+Text: This just sets out, this is generally the primary material terms that would need to be negotiated and then incorporated into a future development agreement.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:29:38.680
+End: 00:29:50.680
+Duration: 12.000 seconds
+Text: And I am happy to answer any questions anyone may have.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:29:50.680
+End: 00:30:09.680
+Duration: 19.000 seconds
+Text: I don't know if it's for you or for Jason, what is the plan to replace that parking?
+--------------------------------------------------
+Mark Abbott:
+Start: 00:30:09.680
+End: 00:30:16.680
+Duration: 7.000 seconds
+Text: You just have people walk the block and a half over to the parking garage, because there's no other place correct for surface parking.
+--------------------------------------------------
+City Manager:
+Start: 00:30:16.680
+End: 00:30:24.680
+Duration: 8.000 seconds
+Text: Yeah, and it's something that we need to, we had the topic come up before just had a managed parking down there.
+--------------------------------------------------
+City Manager:
+Start: 00:30:24.680
+End: 00:30:30.680
+Duration: 6.000 seconds
+Text: We have a few areas that are managed by three hour. It's around the mixed use building.
+--------------------------------------------------
+City Manager:
+Start: 00:30:30.680
+End: 00:30:42.680
+Duration: 12.000 seconds
+Text: The parking that is adjacent to the Discovery Center, the parking that is, and get up some maps, is free.
+--------------------------------------------------
+City Manager:
+Start: 00:30:42.680
+End: 00:30:47.680
+Duration: 5.000 seconds
+Text: And it's all day, it's not regulated, the candle woods is part of a benefit district.
+--------------------------------------------------
+City Manager:
+Start: 00:30:47.680
+End: 00:30:59.680
+Duration: 12.000 seconds
+Text: So it's a public parking lot that's being financed by both the city and the candle wood, the same with the mixed use building next to Blue Earth.
+--------------------------------------------------
+City Manager:
+Start: 00:30:59.680
+End: 00:31:02.680
+Duration: 3.000 seconds
+Text: I don't even know where to plan that.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:31:02.680
+End: 00:31:12.680
+Duration: 10.000 seconds
+Text: And how far into the, it said something about K dot, we have to take a little bit of K dot right away is, it looks like the map here just shows the parking lot period.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:31:12.680
+End: 00:31:16.680
+Duration: 4.000 seconds
+Text: We're taking more than just the parking lot correct.
+--------------------------------------------------
+City Manager:
+Start: 00:31:16.680
+End: 00:31:18.680
+Duration: 2.000 seconds
+Text: Yeah, yeah, so it'll.
+--------------------------------------------------
+City Manager:
+Start: 00:31:18.680
+End: 00:31:25.680
+Duration: 7.000 seconds
+Text: It starts to creep into, you know, this area that we're going to have to approach K dot about.
+--------------------------------------------------
+City Manager:
+Start: 00:31:25.680
+End: 00:31:30.680
+Duration: 5.000 seconds
+Text: Normally they'd like to see a 50 feet away from there right away.
+--------------------------------------------------
+City Manager:
+Start: 00:31:30.680
+End: 00:31:41.680
+Duration: 11.000 seconds
+Text: If you recall, when we built Pierre up to the on and off ramp K 177, there's a line that goes through this thing about here and,
+--------------------------------------------------
+City Manager:
+Start: 00:31:41.680
+End: 00:31:48.680
+Duration: 7.000 seconds
+Text: you know, we've been trying to live with the Nash behind me could probably tell him we're accurately, but this is about the line between K dot and city.
+--------------------------------------------------
+City Manager:
+Start: 00:31:48.680
+End: 00:31:53.680
+Duration: 5.000 seconds
+Text: So there is some area of K dot that we're going to encroach upon.
+--------------------------------------------------
+City Manager:
+Start: 00:31:53.680
+End: 00:31:56.680
+Duration: 3.000 seconds
+Text: We started some of those discussions.
+--------------------------------------------------
+City Manager:
+Start: 00:31:56.680
+End: 00:31:58.680
+Duration: 2.000 seconds
+Text: You know, we feel optimistic.
+--------------------------------------------------
+City Manager:
+Start: 00:31:58.680
+End: 00:32:00.680
+Duration: 2.000 seconds
+Text: We can work out those details.
+--------------------------------------------------
+City Manager:
+Start: 00:32:00.680
+End: 00:32:02.680
+Duration: 2.000 seconds
+Text: West stars got some transformers here.
+--------------------------------------------------
+City Manager:
+Start: 00:32:02.680
+End: 00:32:06.680
+Duration: 4.000 seconds
+Text: As I mentioned, there's a geothermal well that runs through the middle of this thing.
+--------------------------------------------------
+City Manager:
+Start: 00:32:06.680
+End: 00:32:12.680
+Duration: 6.000 seconds
+Text: It's a storm drainage that takes a very big pipe and dumps it into the river and the Kansas River.
+--------------------------------------------------
+City Manager:
+Start: 00:32:12.680
+End: 00:32:15.680
+Duration: 3.000 seconds
+Text: So there's some site challenges we'll have to work through.
+--------------------------------------------------
+City Manager:
+Start: 00:32:15.680
+End: 00:32:24.680
+Duration: 9.000 seconds
+Text: Parking that wise, you know, we got a 430 stall parking garage that for the most part fills up with large conferences, large military balls.
+--------------------------------------------------
+City Manager:
+Start: 00:32:24.680
+End: 00:32:34.680
+Duration: 10.000 seconds
+Text: Other than that, there's not a lot of activity there other than the Friday and Saturday night activity that people would rather not take place in this garage.
+--------------------------------------------------
+City Manager:
+Start: 00:32:34.680
+End: 00:32:41.680
+Duration: 7.000 seconds
+Text: And there's a way to address that and, you know, there's a way to address all the public parking in this area.
+--------------------------------------------------
+City Manager:
+Start: 00:32:41.680
+End: 00:32:45.680
+Duration: 4.000 seconds
+Text: It could be much more enhanced from a parking management standpoint.
+--------------------------------------------------
+City Manager:
+Start: 00:32:45.680
+End: 00:32:48.680
+Duration: 3.000 seconds
+Text: But this is going to drive some of that.
+--------------------------------------------------
+City Manager:
+Start: 00:32:48.680
+End: 00:32:53.680
+Duration: 5.000 seconds
+Text: There's roughly, you know, 85, 90 stalls in this area.
+--------------------------------------------------
+City Manager:
+Start: 00:32:53.680
+End: 00:33:01.680
+Duration: 8.000 seconds
+Text: So when the Discovery Center is busy and the candle would end in sweets is busy, this area is congested with parking.
+--------------------------------------------------
+City Manager:
+Start: 00:33:01.680
+End: 00:33:07.680
+Duration: 6.000 seconds
+Text: Those things don't overlap all the time. You know, the Discovery Center gets its peaks.
+--------------------------------------------------
+City Manager:
+Start: 00:33:07.680
+End: 00:33:11.680
+Duration: 4.000 seconds
+Text: But you have weekends where you do have some conflicts.
+--------------------------------------------------
+City Manager:
+Start: 00:33:11.680
+End: 00:33:21.680
+Duration: 10.000 seconds
+Text: So it'll push those 85, 90 folks more than likely onto the street and we'd like to manage it in a way to get them into the garage.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:33:21.680
+End: 00:33:29.680
+Duration: 8.000 seconds
+Text: The tunnel to the depot parking is still available, which would be closer if they've had the foresight to go there instead.
+--------------------------------------------------
+City Manager:
+Start: 00:33:29.680
+End: 00:33:38.680
+Duration: 9.000 seconds
+Text: Yeah, if you can navigate getting into the depot and getting out, which usually takes a local history of at least 20 years before you're able to pull that off.
+--------------------------------------------------
+City Manager:
+Start: 00:33:38.680
+End: 00:33:42.680
+Duration: 4.000 seconds
+Text: But yeah, you could.
+--------------------------------------------------
+City Manager:
+Start: 00:33:42.680
+End: 00:33:44.680
+Duration: 2.000 seconds
+Text: It's a tough site to get to.
+--------------------------------------------------
+City Manager:
+Start: 00:33:44.680
+End: 00:33:51.680
+Duration: 7.000 seconds
+Text: But yes, you know, we feel like there's ample parking. It may not be directly adjacent.
+--------------------------------------------------
+City Manager:
+Start: 00:33:51.680
+End: 00:34:00.680
+Duration: 9.000 seconds
+Text: But you know, I think that's one of the better walks in Manhattan along the third street, along Blue Earth Park and along our conference center in our hotel.
+--------------------------------------------------
+City Manager:
+Start: 00:34:00.680
+End: 00:34:12.680
+Duration: 12.000 seconds
+Text: We have a lot of people that go to conferences here, stay in these all three of these all four of these hotels that walk all the way to points and enjoy an evening at one of our restaurants or shops and go into the mall.
+--------------------------------------------------
+City Manager:
+Start: 00:34:12.680
+End: 00:34:18.680
+Duration: 6.000 seconds
+Text: So I have all the confidence in the world to make this destination and to make this destination.
+--------------------------------------------------
+City Manager:
+Start: 00:34:18.680
+End: 00:34:30.680
+Duration: 12.000 seconds
+Text: It's a lot shorter walk and it's a much it's just a great walk next to a two million dollar acre park that we've invested in and our community loves.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:34:30.680
+End: 00:34:36.680
+Duration: 6.000 seconds
+Text: Jason, tell me a little bit about I asked on this earlier. It's a tiff district.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:34:36.680
+End: 00:34:45.680
+Duration: 9.000 seconds
+Text: So does it go until 2027 or does it go beyond that and what happens after the expires?
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:34:45.680
+End: 00:34:47.680
+Duration: 2.000 seconds
+Text: What happens to that money?
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:34:47.680
+End: 00:34:53.680
+Duration: 6.000 seconds
+Text: My thinking is those property taxes go to city and county, which we are capturing right now.
+--------------------------------------------------
+City Manager:
+Start: 00:34:53.680
+End: 00:34:59.680
+Duration: 6.000 seconds
+Text: So the tiff star district is essentially the same district.
+--------------------------------------------------
+City Manager:
+Start: 00:34:59.680
+End: 00:35:06.680
+Duration: 7.000 seconds
+Text: This is the area which I described as the southern area is the area that we're talking about tonight.
+--------------------------------------------------
+City Manager:
+Start: 00:35:06.680
+End: 00:35:15.680
+Duration: 9.000 seconds
+Text: It's bordered by Pierre, fourth Fort Riley Boulevard. This is the southern end of our tiff and our star district.
+--------------------------------------------------
+City Manager:
+Start: 00:35:15.680
+End: 00:35:22.680
+Duration: 7.000 seconds
+Text: The northern piece is Levinworth, TCB, Blumont, Forest Street.
+--------------------------------------------------
+City Manager:
+Start: 00:35:22.680
+End: 00:35:27.680
+Duration: 5.000 seconds
+Text: So since 2006 we've had boundaries around both of these areas.
+--------------------------------------------------
+City Manager:
+Start: 00:35:27.680
+End: 00:35:37.680
+Duration: 10.000 seconds
+Text: We, the city collect property tax, all property tax, the entire mill that be property tax with the exception of the 20 that goes to the state that's not tiff eligible.
+--------------------------------------------------
+City Manager:
+Start: 00:35:37.680
+End: 00:35:40.680
+Duration: 3.000 seconds
+Text: We capture all the incremental property tax.
+--------------------------------------------------
+City Manager:
+Start: 00:35:40.680
+End: 00:35:47.680
+Duration: 7.000 seconds
+Text: So when that base went in in 06 school district, county, they still get that revenue as does the city.
+--------------------------------------------------
+City Manager:
+Start: 00:35:47.680
+End: 00:35:49.680
+Duration: 2.000 seconds
+Text: It's the incremental growth.
+--------------------------------------------------
+City Manager:
+Start: 00:35:49.680
+End: 00:35:59.680
+Duration: 10.000 seconds
+Text: So since 06 we've had growth, it's held payoff of our $17 million in tiff bonds and it continues to do that.
+--------------------------------------------------
+City Manager:
+Start: 00:35:59.680
+End: 00:36:06.680
+Duration: 7.000 seconds
+Text: That's property tax, that's our share of the local sales tax generated on the north end.
+--------------------------------------------------
+City Manager:
+Start: 00:36:06.680
+End: 00:36:13.680
+Duration: 7.000 seconds
+Text: The star bonds are supported by the state sales tax generated on both the north and the south end.
+--------------------------------------------------
+City Manager:
+Start: 00:36:13.680
+End: 00:36:19.680
+Duration: 6.000 seconds
+Text: Our local sales tax support the star bonds on the south end.
+--------------------------------------------------
+City Manager:
+Start: 00:36:19.680
+End: 00:36:25.680
+Duration: 6.000 seconds
+Text: So the tiff slash star district all have a life through 2026.
+--------------------------------------------------
+City Manager:
+Start: 00:36:25.680
+End: 00:36:30.680
+Duration: 5.000 seconds
+Text: We talk about revenue streams towards the end, towards the beginning of 2027.
+--------------------------------------------------
+City Manager:
+Start: 00:36:30.680
+End: 00:36:38.680
+Duration: 8.000 seconds
+Text: A lot of that is because we get two, we get revenues two months late and December 2026 revenues will bleed into 2027.
+--------------------------------------------------
+City Manager:
+Start: 00:36:38.680
+End: 00:36:44.680
+Duration: 6.000 seconds
+Text: So they'll still come in through February, March, even sometimes April, you'll get them four months later.
+--------------------------------------------------
+City Manager:
+Start: 00:36:44.680
+End: 00:36:49.680
+Duration: 5.000 seconds
+Text: So when we talk about going into 27, it's really more about the revenue streams.
+--------------------------------------------------
+City Manager:
+Start: 00:36:49.680
+End: 00:37:00.680
+Duration: 11.000 seconds
+Text: We will continue through the first few months of 27, but the expiration of the district for both tiff and star will be 2026 unless we don't renew the star bonds.
+--------------------------------------------------
+City Manager:
+Start: 00:37:00.680
+End: 00:37:04.680
+Duration: 4.000 seconds
+Text: Then the star bond district would expire this year.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:37:04.680
+End: 00:37:18.680
+Duration: 14.000 seconds
+Text: So my question is, well, that's part of the question, but if they build it there within a time frame before 2026 and it's completed, let's say 2025 or whatever it might be, do we collect the tiff money on that?
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:37:18.680
+End: 00:37:20.680
+Duration: 2.000 seconds
+Text: Is it still in a tiff district?
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:37:20.680
+End: 00:37:21.680
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:37:21.680
+End: 00:37:25.680
+Duration: 4.000 seconds
+Text: So we would be collecting that tiff, capturing that tiff revenue.
+--------------------------------------------------
+City Manager:
+Start: 00:37:25.680
+End: 00:37:28.680
+Duration: 3.000 seconds
+Text: It will not generate property tax.
+--------------------------------------------------
+City Manager:
+Start: 00:37:28.680
+End: 00:37:30.680
+Duration: 2.000 seconds
+Text: So the facility they proposed.
+--------------------------------------------------
+City Manager:
+Start: 00:37:30.680
+End: 00:37:33.680
+Duration: 3.000 seconds
+Text: Okay, that's the private, not for profit.
+--------------------------------------------------
+City Manager:
+Start: 00:37:33.680
+End: 00:37:37.680
+Duration: 4.000 seconds
+Text: They intended form an LLC that would be property tax exempt.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:37:37.680
+End: 00:37:39.680
+Duration: 2.000 seconds
+Text: Okay, that's good to know.
+--------------------------------------------------
+City Manager:
+Start: 00:37:39.680
+End: 00:37:40.680
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Manager:
+Start: 00:37:40.680
+End: 00:37:59.680
+Duration: 19.000 seconds
+Text: And it was another reason why I didn't necessarily advocate that they go take something else off the tax rolls and put this facility in great investments, great asset to the community, but if something else is generating in his value at five or 10 million, and we take that off, that does her.
+--------------------------------------------------
+City Manager:
+Start: 00:37:59.680
+End: 00:38:01.680
+Duration: 2.000 seconds
+Text: Property tax revenue.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:38:01.680
+End: 00:38:05.680
+Duration: 4.000 seconds
+Text: So are they tax exempt forever or?
+--------------------------------------------------
+City Manager:
+Start: 00:38:05.680
+End: 00:38:10.680
+Duration: 5.000 seconds
+Text: Well, these types of facilities have to go through that board of tax appeals just like any other facility.
+--------------------------------------------------
+City Manager:
+Start: 00:38:10.680
+End: 00:38:17.680
+Duration: 7.000 seconds
+Text: So, you know, according to the state statutes, they'll determine the state will determine and the county will determine whether or not it's tax exempt.
+--------------------------------------------------
+City Manager:
+Start: 00:38:17.680
+End: 00:38:19.680
+Duration: 2.000 seconds
+Text: They fully anticipate they'll be tax exempt.
+--------------------------------------------------
+City Manager:
+Start: 00:38:19.680
+End: 00:38:23.680
+Duration: 4.000 seconds
+Text: I don't think they anticipate generating any profit here.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:38:23.680
+End: 00:38:24.680
+Duration: 1.000 seconds
+Text: Okay, thank you.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:38:25.680
+End: 00:38:28.680
+Duration: 3.000 seconds
+Text: So you're saying, yeah, currently the parking lot generates no property tax.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:38:28.680
+End: 00:38:29.680
+Duration: 1.000 seconds
+Text: Correct.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:38:29.680
+End: 00:38:30.680
+Duration: 1.000 seconds
+Text: In the future, it will generate no property tax.
+--------------------------------------------------
+City Clerk:
+Start: 00:38:30.680
+End: 00:38:31.680
+Duration: 1.000 seconds
+Text: Correct.
+--------------------------------------------------
+Mark Abbott:
+Start: 00:38:31.680
+End: 00:38:40.680
+Duration: 9.000 seconds
+Text: But we will eventually get some sales tax and hopefully increase in other transient guest tax where people stay in coming and going.
+--------------------------------------------------
+City Manager:
+Start: 00:38:40.680
+End: 00:38:42.680
+Duration: 2.000 seconds
+Text: Yeah, and I'm not sure how much they plan to charge.
+--------------------------------------------------
+City Manager:
+Start: 00:38:42.680
+End: 00:38:43.680
+Duration: 1.000 seconds
+Text: That's a factor.
+--------------------------------------------------
+City Manager:
+Start: 00:38:43.680
+End: 00:38:45.680
+Duration: 2.000 seconds
+Text: And let's say they charge ten bucks ahead.
+--------------------------------------------------
+City Manager:
+Start: 00:38:45.680
+End: 00:38:47.680
+Duration: 2.000 seconds
+Text: They do get $75,000.
+--------------------------------------------------
+City Manager:
+Start: 00:38:47.680
+End: 00:38:53.680
+Duration: 6.000 seconds
+Text: You know, they're going to get $750,000 and revenue 8.95% of that will be captured.
+--------------------------------------------------
+City Manager:
+Start: 00:38:53.680
+End: 00:38:55.680
+Duration: 2.000 seconds
+Text: We'll get 1.3 of that.
+--------------------------------------------------
+City Manager:
+Start: 00:38:55.680
+End: 00:38:56.680
+Duration: 1.000 seconds
+Text: So you can do the math.
+--------------------------------------------------
+City Manager:
+Start: 00:38:56.680
+End: 00:38:58.680
+Duration: 2.000 seconds
+Text: I mean, there is a return.
+--------------------------------------------------
+City Manager:
+Start: 00:38:58.680
+End: 00:39:00.680
+Duration: 2.000 seconds
+Text: Now, it's where they go to shop.
+--------------------------------------------------
+City Manager:
+Start: 00:39:00.680
+End: 00:39:02.680
+Duration: 2.000 seconds
+Text: It's where they go to stay the night.
+--------------------------------------------------
+City Manager:
+Start: 00:39:02.680
+End: 00:39:04.680
+Duration: 2.000 seconds
+Text: It's where, it's what else they're doing in town.
+--------------------------------------------------
+City Manager:
+Start: 00:39:04.680
+End: 00:39:09.680
+Duration: 5.000 seconds
+Text: You know, having it as an anchor right by our anchor, our catalyst of the Discovery Center.
+--------------------------------------------------
+City Manager:
+Start: 00:39:09.680
+End: 00:39:15.680
+Duration: 6.000 seconds
+Text: We believe we'll bring quite an energy to this area and really generate, you know, a two-for-one type of deal.
+--------------------------------------------------
+City Manager:
+Start: 00:39:15.680
+End: 00:39:18.680
+Duration: 3.000 seconds
+Text: Possibly even expand into the next day.
+--------------------------------------------------
+City Manager:
+Start: 00:39:18.680
+End: 00:39:24.680
+Duration: 6.000 seconds
+Text: So if folks are in town doing something and they're going to go to the Discovery Center, they're also going to go to the Art and Light Museum.
+--------------------------------------------------
+City Manager:
+Start: 00:39:24.680
+End: 00:39:31.680
+Duration: 7.000 seconds
+Text: It's an experience that pretty unique of each other too that could attract a pretty healthy crowd.
+--------------------------------------------------
+City Manager:
+Start: 00:39:38.680
+End: 00:39:42.680
+Duration: 4.000 seconds
+Text: Any other technical issues I can answer at this time?
+--------------------------------------------------
+Mayor Butler:
+Start: 00:39:42.680
+End: 00:39:45.680
+Duration: 3.000 seconds
+Text: Okay, if there's no other questions on the commission, now we can go ahead.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:39:45.680
+End: 00:39:50.680
+Duration: 5.000 seconds
+Text: The public hearing, we did have one speaker, James Roberts, who signed up in advance.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:39:50.680
+End: 00:39:56.680
+Duration: 6.000 seconds
+Text: If you'd like to come forward and speak, you can do so.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:39:56.680
+End: 00:40:00.680
+Duration: 4.000 seconds
+Text: There's James here.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:40:00.680
+End: 00:40:02.680
+Duration: 2.000 seconds
+Text: Apparently not.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:40:02.680
+End: 00:40:04.680
+Duration: 2.000 seconds
+Text: We signed up on the sheet here.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:40:04.680
+End: 00:40:08.680
+Duration: 4.000 seconds
+Text: Is there anyone else that wishes to make a comment?
+--------------------------------------------------
+Mayor Butler:
+Start: 00:40:08.680
+End: 00:40:11.680
+Duration: 3.000 seconds
+Text: The public hearing?
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:40:13.680
+End: 00:40:15.680
+Duration: 2.000 seconds
+Text: Hi, my name is Mary Bethree.
+--------------------------------------------------
+City Clerk:
+Start: 00:40:15.680
+End: 00:40:17.680
+Duration: 2.000 seconds
+Text: I live in 2008, Ivy Drive.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:40:17.680
+End: 00:40:20.680
+Duration: 3.000 seconds
+Text: I just have a few questions.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:40:20.680
+End: 00:40:29.680
+Duration: 9.000 seconds
+Text: Why does a new Art Museum not go through the Arts and Humanities Board, which I thought would be the Procedure Foreign Art Museum?
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:40:30.680
+End: 00:40:41.680
+Duration: 11.000 seconds
+Text: Of course, I am very much a fan of the Discovery Center, so it is kind of difficult to understand building it there, so then two museums would have no parking lot.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:40:41.680
+End: 00:40:49.680
+Duration: 8.000 seconds
+Text: I understand people will walk, but the mall parking lot is sitting there unused, concrete everywhere.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:40:49.680
+End: 00:40:57.680
+Duration: 8.000 seconds
+Text: It would be a much more logical place, I think, possibly to look at, but maybe it's not in the district.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:40:57.680
+End: 00:41:08.680
+Duration: 11.000 seconds
+Text: Just recognize that this Art Museum will affect all the other nonprofits in the community, the zoo, the Discovery Center, the beach.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:41:08.680
+End: 00:41:21.680
+Duration: 13.000 seconds
+Text: It's a real, you know, it's a wonderful idea, but it comes with, can we really work really well?
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:41:22.680
+End: 00:41:27.680
+Duration: 5.000 seconds
+Text: In their information, they always talk about the 75,000 annual visitors.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:41:27.680
+End: 00:41:36.680
+Duration: 9.000 seconds
+Text: The Discovery Center in 2018 did have 75,000 people come, but only 40,000 were paying customers.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:41:36.680
+End: 00:41:42.680
+Duration: 6.000 seconds
+Text: They have people come in that are not paying through other different events.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:41:42.680
+End: 00:41:49.680
+Duration: 7.000 seconds
+Text: So I just wanted to question the process, but I do appreciate it.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:41:49.680
+End: 00:41:52.680
+Duration: 3.000 seconds
+Text: So I sign in here too.
+--------------------------------------------------
+City Clerk:
+Start: 00:41:52.680
+End: 00:41:53.680
+Duration: 1.000 seconds
+Text: I guess.
+--------------------------------------------------
+City Clerk:
+Start: 00:41:53.680
+End: 00:42:22.680
+Duration: 29.000 seconds
+Text: Good evening, commissioners. I'm Karen Hibbert. I'm the vice president of the Chamber and director of the Convention of Visitors Bureau.
+--------------------------------------------------
+City Clerk:
+Start: 00:42:22.680
+End: 00:42:33.680
+Duration: 11.000 seconds
+Text: Manhattan is a destination. Prior to COVID, Manhattan welcomed the on and average 350,000 visitors to a year to our community.
+--------------------------------------------------
+City Clerk:
+Start: 00:42:33.680
+End: 00:42:42.680
+Duration: 9.000 seconds
+Text: Research conducted in 2016 by Randall Travel Marketing validated the reasons visitors come to Manhattan in the surrounding region.
+--------------------------------------------------
+City Clerk:
+Start: 00:42:42.680
+End: 00:42:52.680
+Duration: 10.000 seconds
+Text: Kansas State University related experiences, football weekends, they come to experience the Flint Hills and to visit family and friends.
+--------------------------------------------------
+City Clerk:
+Start: 00:42:52.680
+End: 00:43:04.680
+Duration: 12.000 seconds
+Text: 38% of our visitors are baby boomers, ranging in ages from 50 to 70, followed by 29% of our visitors in the age range of 22 to 39.
+--------------------------------------------------
+City Clerk:
+Start: 00:43:05.680
+End: 00:43:25.680
+Duration: 20.000 seconds
+Text: What do visitors do during their stay? According to our research, 70% of them die in out, 42% shop, 65% enjoy Kansas State University, and 25% of those visitors visit the Flint Hills Discovery Center.
+--------------------------------------------------
+City Clerk:
+Start: 00:43:26.680
+End: 00:43:36.680
+Duration: 10.000 seconds
+Text: Average visitors spend during their stay, $312 a day. Attractions are a key tool to bring visitors to town.
+--------------------------------------------------
+City Clerk:
+Start: 00:43:36.680
+End: 00:43:51.680
+Duration: 15.000 seconds
+Text: The Flint Hills Discovery Center welcomes about 70,000 visitors yearly through their doors. Those visitors then shop, dine, explore, and spend more time in our community, leaving their dollars behind.
+--------------------------------------------------
+City Clerk:
+Start: 00:43:51.680
+End: 00:44:04.680
+Duration: 13.000 seconds
+Text: The Manhattan Area Chamber of Commerce appreciates the vision Bob and Tracy DeBrion have had for our community. Art inspires, art teaches, art attracts.
+--------------------------------------------------
+City Clerk:
+Start: 00:44:04.680
+End: 00:44:17.680
+Duration: 13.000 seconds
+Text: Early studies estimate the art and light museum will attract 75,000 visitors yearly, with 27% coming from outside of Kansas. Again, these visitors will leave behind dollars.
+--------------------------------------------------
+City Clerk:
+Start: 00:44:18.680
+End: 00:44:37.680
+Duration: 19.000 seconds
+Text: We're excited about this opportunity to use Star-Bong proceeds for a new Manhattan attraction. In addition to its economic impact on our community, we also appreciate the commitment that no additional city funds would be used for the museum operations. This is a double win for Manhattan.
+--------------------------------------------------
+City Clerk:
+Start: 00:44:38.680
+End: 00:44:50.680
+Duration: 12.000 seconds
+Text: Because of this double win scenario for our community, the Manhattan Area Chamber of Commerce Board of Directors voted to support the city's recommendation action place before you this season this evening.
+--------------------------------------------------
+City Clerk:
+Start: 00:44:50.680
+End: 00:45:05.680
+Duration: 15.000 seconds
+Text: The ability to keep a visitor in our community beyond four hours increases the opportunity for that visitor to dedicate more time in our community, possibly spending the night and enhancing their average visitor spend.
+--------------------------------------------------
+City Clerk:
+Start: 00:45:05.680
+End: 00:45:12.680
+Duration: 7.000 seconds
+Text: Thank you to Bryant for your love of art and for your love of Manhattan, Kansas. Thank you.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:45:21.680
+End: 00:45:26.680
+Duration: 5.000 seconds
+Text: Good evening. I'm Monica McFarland. I'm at 213 Parker Drive.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:45:26.680
+End: 00:45:44.680
+Duration: 18.000 seconds
+Text: I was really interested in this museum because I don't know if most of you know about it, but KC actually has a visiting exhibit coming through for the Van Gogh White Immersion. My husband and I looked at it and it's in December. It's only the month of December. Every Saturday is sold out.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:45:45.680
+End: 00:45:56.680
+Duration: 11.000 seconds
+Text: There is limited weekends availability on Sundays and during the week it's already filling up. So I think this is something that a lot of people are very interested in.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:45:56.680
+End: 00:46:07.680
+Duration: 11.000 seconds
+Text: I think it would be something that could draw a lot of people to the community to look at and be part of. It looks like an amazing thing to walk through and see.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:46:07.680
+End: 00:46:14.680
+Duration: 7.000 seconds
+Text: And if you know we do something and see what it looks like in KC, I'm still going to go try to go somewhere in the week.
+--------------------------------------------------
+Commissioner Moors:
+Start: 00:46:14.680
+End: 00:46:25.680
+Duration: 11.000 seconds
+Text: But if that's something that's here that we can do ourselves and it's not just a temporary thing, but we can draw that type of crowd here. I think that would be really great for our city.
+--------------------------------------------------
+City Clerk:
+Start: 00:46:25.680
+End: 00:46:30.680
+Duration: 5.000 seconds
+Text: I'm sorry.
+--------------------------------------------------
+City Clerk:
+Start: 00:46:30.680
+End: 00:46:50.680
+Duration: 20.000 seconds
+Text: I assume I need to put my name and all that in there. So good evening. My name is Brad Everett on the GM, the Hilton Garden Inn and part owner of the Fairfell Inn down the district.
+--------------------------------------------------
+City Clerk:
+Start: 00:46:51.680
+End: 00:46:56.680
+Duration: 5.000 seconds
+Text: I'm just going to put down Hilton. That's fine. You guys know where to find me.
+--------------------------------------------------
+City Clerk:
+Start: 00:46:56.680
+End: 00:47:14.680
+Duration: 18.000 seconds
+Text: I start off I want to thank the DeBriens and Mr. Howell. I think especially Mr. Howell has been a pillar for the community and giving way beyond a lot of our expectations and strengthening Manhattan to the position which it is.
+--------------------------------------------------
+City Clerk:
+Start: 00:47:15.680
+End: 00:47:27.680
+Duration: 12.000 seconds
+Text: So to that, I thank you. I was on the commission at one point and we had the Discovery Center. I know there are those that are passionate about it and Karen's one of them.
+--------------------------------------------------
+City Clerk:
+Start: 00:47:27.680
+End: 00:47:43.680
+Duration: 16.000 seconds
+Text: Unfortunately, it has not been as successful as we had wished. That's separate. I think this is certainly an opportunity to provide another venue that hopefully would provide.
+--------------------------------------------------
+City Clerk:
+Start: 00:47:43.680
+End: 00:47:53.680
+Duration: 10.000 seconds
+Text: Some more strength to an attraction and provide a little bit more of interest for Manhattan for visiting. Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:47:53.680
+End: 00:48:06.680
+Duration: 13.000 seconds
+Text: The main concern I'm having with the placement is right now we're compressing the parking. We have the parking rods is Jason pointed out over 400 parking stalls.
+--------------------------------------------------
+City Clerk:
+Start: 00:48:06.680
+End: 00:48:21.680
+Duration: 15.000 seconds
+Text: I think you're also aware of the convention center. We just expanded 50% can handle up to 2100 guests. What do you do? Is it every day that those 2100 come in? No, they don't Jason.
+--------------------------------------------------
+City Clerk:
+Start: 00:48:21.680
+End: 00:48:32.680
+Duration: 11.000 seconds
+Text: Do we have a military ball every day? No, we don't. But because the size we're getting now the ability to have multiple conventions in that area.
+--------------------------------------------------
+City Clerk:
+Start: 00:48:32.680
+End: 00:48:45.680
+Duration: 13.000 seconds
+Text: We are going to be by large pretty good, but with the guests that are compressing that area and taking up the parking, it's going to go over the waves and take up his parking stalls.
+--------------------------------------------------
+City Clerk:
+Start: 00:48:45.680
+End: 00:48:54.680
+Duration: 9.000 seconds
+Text: And the can do it. All the parking stalls they've now been shoved south in front of their door and over the hall they express.
+--------------------------------------------------
+City Clerk:
+Start: 00:48:54.680
+End: 00:49:03.680
+Duration: 9.000 seconds
+Text: These guests are going to not have the convenience of pulling right up and staying at their hotel.
+--------------------------------------------------
+City Clerk:
+Start: 00:49:03.680
+End: 00:49:12.680
+Duration: 9.000 seconds
+Text: Guests enjoy doing that. It's raining. It's going to be convenient for me. So hopefully frankly they'll leave those two hotels and come over to mine.
+--------------------------------------------------
+City Clerk:
+Start: 00:49:12.680
+End: 00:49:22.680
+Duration: 10.000 seconds
+Text: Because we're looking to add on to the 40 rooms. But being a good neighbor, which I frankly feel that we are down there, I am concerned. I see calling over there.
+--------------------------------------------------
+City Clerk:
+Start: 00:49:22.680
+End: 00:49:41.680
+Duration: 19.000 seconds
+Text: I do want them to be successful because they are paying property tax. He's got millions of dollars invested down there. And it's easy for us to go ahead and basically shove another piece that was not planned when we were doing that development when I was on the commission was a problem.
+--------------------------------------------------
+City Clerk:
+Start: 00:49:41.680
+End: 00:49:51.680
+Duration: 10.000 seconds
+Text: But taking the star bonds and that's something that Jason Godlove you going all the way up to Kay State to stretch them up there. That was creative. I appreciate it.
+--------------------------------------------------
+City Clerk:
+Start: 00:49:51.680
+End: 00:50:03.680
+Duration: 12.000 seconds
+Text: But maybe it will work. It will leverage and we'll make lemonade out of it. But I'm really, really concerned for Collins property, which God knows why I'm saying that now.
+--------------------------------------------------
+City Clerk:
+Start: 00:50:03.680
+End: 00:50:14.680
+Duration: 11.000 seconds
+Text: But also the hall they express it really is going to go ahead and force people down that garage and when we do have multiple events and we are coming out thank God of COVID.
+--------------------------------------------------
+City Clerk:
+Start: 00:50:14.680
+End: 00:50:22.680
+Duration: 8.000 seconds
+Text: We're not going to have the parking down there and we're going to be known as a place that we can certainly host in a car and but we can't provide the parking.
+--------------------------------------------------
+City Clerk:
+Start: 00:50:22.680
+End: 00:50:32.680
+Duration: 10.000 seconds
+Text: We're going to be up and down. You know, and elsewhere and we're going to hear about it. So I just think that placement is everything.
+--------------------------------------------------
+City Clerk:
+Start: 00:50:32.680
+End: 00:50:43.680
+Duration: 11.000 seconds
+Text: There is some synergy down there. But I think with the lack of parking and how much and even staging it during construction. If we're not worried about calling, go for it.
+--------------------------------------------------
+City Clerk:
+Start: 00:50:43.680
+End: 00:51:06.680
+Duration: 23.000 seconds
+Text: But I think right now it's just too much for that little space. And I think my suggestion is going over the by the not over the by the by the by the but across the street and have it right behind a J's and have it as something that ends up transitioning us from the downtown district down as you're walking towards the discovery center.
+--------------------------------------------------
+City Clerk:
+Start: 00:51:06.680
+End: 00:51:17.680
+Duration: 11.000 seconds
+Text: It's going to be a sort of a catty corner or across maybe the fearful then. I don't know if it's going to work or not, but I just don't feel that we've got the parking available once we get that place and up and running.
+--------------------------------------------------
+City Clerk:
+Start: 00:51:17.680
+End: 00:51:21.680
+Duration: 4.000 seconds
+Text: But at least want to provide my two cents on it. So thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:51:36.680
+End: 00:51:48.680
+Duration: 12.000 seconds
+Text: Good evening. I'm Gwen Riffle.
+--------------------------------------------------
+City Clerk:
+Start: 00:51:48.680
+End: 00:51:59.680
+Duration: 11.000 seconds
+Text: I'm a owner developer of the Blue Earth mixed use building in the South redevelopment district.
+--------------------------------------------------
+City Clerk:
+Start: 00:51:59.680
+End: 00:52:14.680
+Duration: 15.000 seconds
+Text: The project that's being proposed is an outstanding project. I commend the Brian's and Phil how for bringing this to our community because it's a great asset for the community.
+--------------------------------------------------
+City Clerk:
+Start: 00:52:14.680
+End: 00:52:37.680
+Duration: 23.000 seconds
+Text: I'm in the state of the location. I've been in real estate my entire career 50 years now. And this particular location in my view is not the ideal location for a better location would be at our gateway entry into the city being at 3rd and Pierre at the northwest corner.
+--------------------------------------------------
+City Clerk:
+Start: 00:52:37.680
+End: 00:52:49.680
+Duration: 12.000 seconds
+Text: This was a project when we were looking working on downtown redevelopment where this particular corner was going to be a key development site for the gateway into the city.
+--------------------------------------------------
+City Clerk:
+Start: 00:52:49.680
+End: 00:53:03.680
+Duration: 14.000 seconds
+Text: And that's what I'm going to remind you of that we looked at that when we're doing the downtown redevelopment and that northwest corner was identified as a gateway entry element.
+--------------------------------------------------
+City Clerk:
+Start: 00:53:03.680
+End: 00:53:21.680
+Duration: 18.000 seconds
+Text: When the proposed South development project came about the parking garage was presented in the location that it is at the very south end a joining Fort Riley Boulevard.
+--------------------------------------------------
+City Clerk:
+Start: 00:53:21.680
+End: 00:53:29.680
+Duration: 8.000 seconds
+Text: I had approached the city commission at that time and suggested that it was the wrong location. It should be at the north end.
+--------------------------------------------------
+City Clerk:
+Start: 00:53:29.680
+End: 00:53:43.680
+Duration: 14.000 seconds
+Text: I was told at the time I was too late to make that kind of a suggestion. And here we are living with what was created. If the garage was at the north end, it certainly would have enhanced this kind of proposal that's coming before you now.
+--------------------------------------------------
+City Clerk:
+Start: 00:53:43.680
+End: 00:53:55.680
+Duration: 12.000 seconds
+Text: But that's water into the bridge. So here we are. And we've got a wonderful project that can be brought to the community, but I'm suggesting that there's a better location for it.
+--------------------------------------------------
+City Clerk:
+Start: 00:53:55.680
+End: 00:54:12.680
+Duration: 17.000 seconds
+Text: There's no question with regards to taking 80 plus or minus surface parking spaces out of that particular south end development is going to have an impact on surface parking on the remaining surface parking lots being the camelwood and the holiday end.
+--------------------------------------------------
+City Clerk:
+Start: 00:54:12.680
+End: 00:54:25.680
+Duration: 13.000 seconds
+Text: And our mixed use building. That's undue pressure and it's going to frankly cause undue harm with regards to the negative impact on those existing businesses.
+--------------------------------------------------
+City Clerk:
+Start: 00:54:25.680
+End: 00:54:35.680
+Duration: 10.000 seconds
+Text: A PUD amendment is supposed to improve the PUD. I view this as not improving the PUD.
+--------------------------------------------------
+City Clerk:
+Start: 00:54:35.680
+End: 00:54:54.680
+Duration: 19.000 seconds
+Text: So I ask you to take a serious look at putting this at a true gateway intersection where the public is going to see this beautiful building and project that it deserves to be versus putting it in the back of the corner of the north part.
+--------------------------------------------------
+City Clerk:
+Start: 00:54:54.680
+End: 00:55:03.680
+Duration: 9.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:55:05.680
+End: 00:55:33.680
+Duration: 28.000 seconds
+Text: Good evening. I'm Wade Rodina. I own the Rodina's big house in the
+--------------------------------------------------
+City Clerk:
+Start: 00:55:33.680
+End: 00:55:54.680
+Duration: 21.000 seconds
+Text: middle of the road. My primary concern here is the location. The project is unbelievable. Thank you for bringing it to my hand. But you know the first gentleman characterized as is the right spot for the only spot for this spot is in the
+--------------------------------------------------
+City Clerk:
+Start: 00:55:54.680
+End: 00:56:04.680
+Duration: 10.000 seconds
+Text: middle of the road. I'm not going to be able to see the spot in the middle of the road. I'm not going to be able to see the spot in the middle of the road.
+--------------------------------------------------
+City Clerk:
+Start: 00:56:04.680
+End: 00:56:21.680
+Duration: 17.000 seconds
+Text: I put a half million dollars in my own and to screw up the parking which is not optimal now is short-sighted. It is a great building. Why not make sure everyone who drives the town sees it.
+--------------------------------------------------
+City Clerk:
+Start: 00:56:21.680
+End: 00:56:29.680
+Duration: 8.000 seconds
+Text: It's hidden where they're proposing it right now. So it's a compromise all the way through. So it's also a great opportunity.
+--------------------------------------------------
+City Clerk:
+Start: 00:56:29.680
+End: 00:56:39.680
+Duration: 10.000 seconds
+Text: I hope you think really hard about getting this thing out of town but not in that location. It's the wrong spot. Thanks.
+--------------------------------------------------
+City Clerk:
+Start: 00:56:59.680
+End: 00:57:25.680
+Duration: 26.000 seconds
+Text: Hi. My name is Colin Noble and I live at 1641 Anderson Avenue. The big holiday in. I am the guy and I have those two hotels they comfort in on the holiday and express.
+--------------------------------------------------
+City Clerk:
+Start: 00:57:25.680
+End: 00:57:41.680
+Duration: 16.000 seconds
+Text: So I've kind of got a very interested party here. Some next door to it. But I was with Bob and Tracy a couple of years ago we went to Paris and I saw this show there in Paris.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:57:41.680
+End: 00:57:53.680
+Duration: 12.000 seconds
+Text: The guys have all praised it but they're understating it. It is fantastic and it definitely would be a terrific draw for Manhattan.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:57:53.680
+End: 00:58:02.680
+Duration: 9.000 seconds
+Text: You may remember a couple of years ago we had the survey done in Manhattan to see what could be done to help the hotels and so on.
+--------------------------------------------------
+City Clerk:
+Start: 00:58:02.680
+End: 00:58:14.680
+Duration: 12.000 seconds
+Text: The report came back that said you don't need any more hotels. You need things to come to town. You need events. You need something for people to come and see and that sort of stuff.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:58:14.680
+End: 00:58:28.680
+Duration: 14.000 seconds
+Text: If you look what has happened since the university has slipped their numbers of retreats a bit and things like the big countries downpied which was a huge event for hotels.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:58:28.680
+End: 00:58:38.680
+Duration: 10.000 seconds
+Text: Absolutely you get charged with your dreamt of and they were fighting over the rooms. It was wonderful and there's nothing that has come close to replacing that.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:58:38.680
+End: 00:58:58.680
+Duration: 20.000 seconds
+Text: However this is definitely going to help because this is something highly unusual. It means a big lot of money. $46 million or $43 million. It's a huge investment and you can imagine that if investing out of money it is something super special.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:58:58.680
+End: 00:59:15.680
+Duration: 17.000 seconds
+Text: The guys have all mentioned that maybe one of the hiccups here is that we've got to look into as the parking. If no doubt will affect that area is there a way to offset it or help it?
+--------------------------------------------------
+Mayor Butler:
+Start: 00:59:15.680
+End: 00:59:24.680
+Duration: 9.000 seconds
+Text: We should look into that a bit more I think. Other than that I can tell you guys this is terrific and my hat's off to the De Bruyans.
+--------------------------------------------------
+City Clerk:
+Start: 00:59:24.680
+End: 00:59:38.680
+Duration: 14.000 seconds
+Text: This is a big deal and you can't help say thanks to everybody. Well done De Bruyans, well done everybody. It's a wonderful thing. Let's see how we can get it done but don't forget the parking particularly at the counterwood.
+--------------------------------------------------
+City Clerk:
+Start: 00:59:54.680
+End: 01:00:19.680
+Duration: 25.000 seconds
+Text: It's been a while since I've been in this room. I wanted to just say a few things and keep in with what's going on tonight.
+--------------------------------------------------
+City Clerk:
+Start: 01:00:19.680
+End: 01:00:47.680
+Duration: 28.000 seconds
+Text: I can't say anything more than has been so instead. But I do want to put my support to the project. It's something that's new and different for Manhattan. Manhattan has done so many things in all ways that you can imagine over the past decade, 20 years goes back to when we were here in this room watching some new projects develop.
+--------------------------------------------------
+City Clerk:
+Start: 01:00:47.680
+End: 01:01:01.680
+Duration: 14.000 seconds
+Text: But this business is something new and incredibly nice for Manhattan. It will really I think put us on the record of saying this is where we want to be.
+--------------------------------------------------
+City Clerk:
+Start: 01:01:01.680
+End: 01:01:16.680
+Duration: 15.000 seconds
+Text: We are a town of significance and we want to be known as that. And I think that's the way it will be viewed. It takes a lot of money. The money is apparently going to be there from every standpoint that I can hear.
+--------------------------------------------------
+City Clerk:
+Start: 01:01:16.680
+End: 01:01:31.680
+Duration: 15.000 seconds
+Text: I think the parking business will be a problem. It's a shame that that would be the reason that we rejected. If several members of the commission are going to have to be agreed to this, that puts it a little bit in jeopardy I think.
+--------------------------------------------------
+City Clerk:
+Start: 01:01:31.680
+End: 01:01:46.680
+Duration: 15.000 seconds
+Text: But I don't want to be a player. I want Manhattan to be looked upon as an unusual community that has the wherewithal to make it happen. And we've seen the big view and we want to make it go.
+--------------------------------------------------
+City Clerk:
+Start: 01:01:46.680
+End: 01:01:56.680
+Duration: 10.000 seconds
+Text: I think that that could well happen this time. I don't want it to be lost. I want it to take it and go with it. So I think we can find it.
+--------------------------------------------------
+City Clerk:
+Start: 01:01:56.680
+End: 01:02:11.680
+Duration: 15.000 seconds
+Text: If it can't be where it is and the parking becomes a major player, that's the shame of it. Because I think something like this will make Manhattan that place that people will come to for the purpose of it. That's good to be back. Thank you.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:02:16.680
+End: 01:02:23.680
+Duration: 7.000 seconds
+Text: Are there any other comments that anyone would like to make at the public hearing?
+--------------------------------------------------
+Mayor Butler:
+Start: 01:02:24.680
+End: 01:02:41.680
+Duration: 17.000 seconds
+Text: Seeing none. And I guess the individual that signed up, James Roberts is still not in the audience. We won't get his comment tonight. And at that point we'll close the public hearing portion of the meeting.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:02:42.680
+End: 01:02:47.680
+Duration: 5.000 seconds
+Text: Any other commissioner comments or follow on questions?
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:02:47.680
+End: 01:03:02.680
+Duration: 15.000 seconds
+Text: I have some comments and questions. One of the reasons for this placing of courses for the star bonds. So Jason, is there another area where we can still capture the star bonds other than the specific area that we are discussing tonight?
+--------------------------------------------------
+City Manager:
+Start: 01:03:02.680
+End: 01:03:20.680
+Duration: 18.000 seconds
+Text: Well, like we did on Kimball, you can always expand the district. The secretary at the time wanted it contiguous. So that's really a big reason why the museum up on Kimball got denied.
+--------------------------------------------------
+City Manager:
+Start: 01:03:20.680
+End: 01:03:34.680
+Duration: 14.000 seconds
+Text: There's certain language within the statute that his interpretation was basically it needs to be contiguous. So our district boundaries are those two north in south in either it's in it or it's contiguous to it right next to it.
+--------------------------------------------------
+City Manager:
+Start: 01:03:34.680
+End: 01:03:43.680
+Duration: 9.000 seconds
+Text: There was discussion about going up to the mall and you know I wasn't part of those discussions. I believe the developer and the mall talked about options.
+--------------------------------------------------
+City Manager:
+Start: 01:03:43.680
+End: 01:03:53.680
+Duration: 10.000 seconds
+Text: You got to understand land underneath the mall is owned by the city, but it's in us. I think there's in your 70 of a 99 year lease that has value.
+--------------------------------------------------
+City Manager:
+Start: 01:03:53.680
+End: 01:04:11.680
+Duration: 18.000 seconds
+Text: I don't know where the mall stands on giving up that land. It would be a three party agreement that would probably be fairly complex to carve off a piece sell it back to the developer compensate the mall and then the city obviously it's the asset as well.
+--------------------------------------------------
+City Manager:
+Start: 01:04:11.680
+End: 01:04:26.680
+Duration: 15.000 seconds
+Text: So we we haven't all three been in a room to negotiate what the expectations would be the only conversation I've ever had and it's when we restructured the last time with the mall was just are they interested in buying it.
+--------------------------------------------------
+City Manager:
+Start: 01:04:26.680
+End: 01:04:39.680
+Duration: 13.000 seconds
+Text: Are we interested in selling it? You know it's the land underneath it's an asset. It has value today that's far greater than it was in the mid 80s when they negotiated that deal.
+--------------------------------------------------
+City Manager:
+Start: 01:04:39.680
+End: 01:04:50.680
+Duration: 11.000 seconds
+Text: And you've got 70 some years 60 some years left you know are we at a point as a community we want to get rid of that as an asset. That's a completely different discussion.
+--------------------------------------------------
+City Manager:
+Start: 01:04:50.680
+End: 01:05:03.680
+Duration: 13.000 seconds
+Text: But it is part of what the alternative has been suggested tonight and they explored themselves and it's complicated. You know that we got into that discussion that let us back down here.
+--------------------------------------------------
+City Manager:
+Start: 01:05:03.680
+End: 01:05:13.680
+Duration: 10.000 seconds
+Text: I'm not going to sit here and say it's ideal. We I hope I always hope we have parking challenges. That means things are successful and things are going.
+--------------------------------------------------
+City Manager:
+Start: 01:05:13.680
+End: 01:05:23.680
+Duration: 10.000 seconds
+Text: You know I've sat down with all four of those gentlemen and we've talked about parking on this out then before about charging at that garage about managing that parking in a different way.
+--------------------------------------------------
+City Manager:
+Start: 01:05:23.680
+End: 01:05:40.680
+Duration: 17.000 seconds
+Text: There are challenges and they're correct. They have times where things are going to bust at the seams. And even in discussions with the developer how can we get people from that garage to the discovery from that garage to the new art and light museum.
+--------------------------------------------------
+City Manager:
+Start: 01:05:40.680
+End: 01:05:52.680
+Duration: 12.000 seconds
+Text: There could be different ways. Ward Morgan tried a different way with a golf cart type of transportation possibly something like that could be looked into if we really need those additional stalls somewhere.
+--------------------------------------------------
+City Manager:
+Start: 01:05:52.680
+End: 01:06:02.680
+Duration: 10.000 seconds
+Text: There's about 1200 of them around that mall that could be accessed utilized and shuttle people back and forth. I would love that problem. I really would.
+--------------------------------------------------
+City Manager:
+Start: 01:06:02.680
+End: 01:06:11.680
+Duration: 9.000 seconds
+Text: And I think that the area would if we're busted at the seams looking for places to park. We do have some adjacencies.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:06:11.680
+End: 01:06:20.680
+Duration: 9.000 seconds
+Text: Thank you. That was my only question. I think you know when I'm upon hearing about the museum.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:06:20.680
+End: 01:06:30.680
+Duration: 10.000 seconds
+Text: Just hearing here and there I wasn't sure how it feel about it and then after having a discussion with the librarians. I was in with the concept.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:06:30.680
+End: 01:06:39.680
+Duration: 9.000 seconds
+Text: I think having not only local and regional artwork but national and international artwork here in the city of Manhattan.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:06:39.680
+End: 01:06:49.680
+Duration: 10.000 seconds
+Text: It's one of those things as a teacher you also believe in exposure exposure exposure. Our kids are exposed to the prairie, to Johnny Caugh, everything Kansas.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:06:49.680
+End: 01:06:56.680
+Duration: 7.000 seconds
+Text: But this brings in that culture from the world to Manhattan and that's where competing with is the world.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:06:56.680
+End: 01:07:08.680
+Duration: 12.000 seconds
+Text: So we need people to recognize Manhattan and bring their businesses here, have their vacations here and I think this type of project does that.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:07:08.680
+End: 01:07:16.680
+Duration: 8.000 seconds
+Text: And even if we approve it tonight with this issue, there are so many caveats to this before it even comes to reality.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:07:16.680
+End: 01:07:25.680
+Duration: 9.000 seconds
+Text: We also approved the Bill Snyder Museum and it wasn't a go. The Star Bonds issues did not go very far with that.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:07:25.680
+End: 01:07:29.680
+Duration: 4.000 seconds
+Text: And we also had a lot of community input for it and against it.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:07:29.680
+End: 01:07:42.680
+Duration: 13.000 seconds
+Text: I have a lot of friends right now in this hall which both sides have really good ideas and the reason for doing it and maybe moving to another spot.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:07:42.680
+End: 01:07:57.680
+Duration: 15.000 seconds
+Text: But the concept is very intriguing. I would like to pursue it. I think having the endowment in place, the private funding that's there, the operational costs being taken care of and having visitors come and spend their money here as well as visiting.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:07:57.680
+End: 01:08:06.680
+Duration: 9.000 seconds
+Text: And enjoying Manhattan for the cultural aspect of it, the art, we are always discussing art and how much more art we need in the city of Manhattan.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:08:06.680
+End: 01:08:17.680
+Duration: 11.000 seconds
+Text: And I think this does that. There is an appetite for art pieces and just the exhibits and the outlet that it provides for mental health alone.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:08:17.680
+End: 01:08:29.680
+Duration: 12.000 seconds
+Text: I think the Kansas State University, somebody was saying that it accepts mostly local art or Kansas art. So not like a van Gogh or something from out of Kansas even onto the university where they can display it.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:08:29.680
+End: 01:08:38.680
+Duration: 9.000 seconds
+Text: So I think this has lots of positives so much so that I'm willing to take a risk and move forward with it this evening.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:08:38.680
+End: 01:08:45.680
+Duration: 7.000 seconds
+Text: And there are so many pieces that need to come together. And if parking is the biggest issue we are talking about, we can address that.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:08:45.680
+End: 01:08:51.680
+Duration: 6.000 seconds
+Text: We can address the parking issue. But I think that it's like Jason was saying that is a good problem to have.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:08:51.680
+End: 01:09:00.680
+Duration: 9.000 seconds
+Text: I don't like going to, I used to go to a grocery store, you know, I used to go to Dillens, but then I would go to, I forgot what it was, food for less or something over there.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:09:00.680
+End: 01:09:06.680
+Duration: 6.000 seconds
+Text: And I said, oh, good, there is so much parking, I'll just go here first. That's not what a business should be having.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:09:06.680
+End: 01:09:14.680
+Duration: 8.000 seconds
+Text: That means nobody is going there. Therefore there are only four cars there. You want it to be packed, you want it to be thriving, you want it to be robust.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:09:14.680
+End: 01:09:23.680
+Duration: 9.000 seconds
+Text: And you want people to come here because of that. And I think that's what we're going to see. And that's my hope for this community that we have a robust, vibrant community.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:09:23.680
+End: 01:09:38.680
+Duration: 15.000 seconds
+Text: And I think this does that. Before anything happens, this is just one of the first pieces to that bigger puzzle. And I really appreciate the private funding that's coming towards this millions and millions of dollars are being invested by people that believe in this project.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:09:38.680
+End: 01:09:46.680
+Duration: 8.000 seconds
+Text: And you don't see that very often. And I would like for us to embrace it and give it a chance and see what happens.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:09:46.680
+End: 01:09:56.680
+Duration: 10.000 seconds
+Text: So, Jason, I wanted to just clarify a couple things because one of the comments made tonight was, well, you know, why are we doing this now? Why didn't it go before the arts board and all that?
+--------------------------------------------------
+Mayor Butler:
+Start: 01:09:56.680
+End: 01:10:05.680
+Duration: 9.000 seconds
+Text: And of course, the reason is there's a deadline. I mean, the reason we put it on here for the next couple of meetings is the rules on the star bonds change in July.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:10:05.680
+End: 01:10:07.680
+Duration: 2.000 seconds
+Text: So maybe we should address that.
+--------------------------------------------------
+City Manager:
+Start: 01:10:07.680
+End: 01:10:18.680
+Duration: 11.000 seconds
+Text: They do. And I'll probably have Garth or Mark address those because they're the attorneys. They watch the legislation. Probably more fluent on the old six version of the star bonds that I am today.
+--------------------------------------------------
+City Manager:
+Start: 01:10:18.680
+End: 01:10:25.680
+Duration: 7.000 seconds
+Text: So Garth, if you wouldn't mind or Mark, you guys probably address that easier than I.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:10:25.680
+End: 01:10:34.680
+Duration: 9.000 seconds
+Text: Because that's important that everybody watching gets gets the point. There is why you know, it's not like we tried to speed this up just to speed it up. There was a logical reason for doing so.
+--------------------------------------------------
+City Clerk:
+Start: 01:10:34.680
+End: 01:10:48.680
+Duration: 14.000 seconds
+Text: That's correct. Mayor commissioners, Garth, Herman with Gilmore and Bell, the city spawn council. As you mentioned that the star bond legislation did get some tweaks made to it during this legislative session.
+--------------------------------------------------
+City Clerk:
+Start: 01:10:48.680
+End: 01:10:53.680
+Duration: 5.000 seconds
+Text: Some of those changes going to affect starting July 1st of this year.
+--------------------------------------------------
+City Clerk:
+Start: 01:10:53.680
+End: 01:11:15.680
+Duration: 22.000 seconds
+Text: So part of what the process has been with regards to this project and doing the amendment and going through the process to amend the existing project development plan is so that in essence, the old rules that are in place right now that rules that the city has been a body by since 2006, 2007.
+--------------------------------------------------
+City Clerk:
+Start: 01:11:15.680
+End: 01:11:26.680
+Duration: 11.000 seconds
+Text: When the star bond district and the star bond, the original project plan was created and improved that those same rules will apply to this new project as well.
+--------------------------------------------------
+City Clerk:
+Start: 01:11:26.680
+End: 01:11:44.680
+Duration: 18.000 seconds
+Text: Now there are some additional requirements that the state has requested that apply to this project amendment, even though they're not say legally required, but just under the under the abundance of kind of transparency and kind of going along the way towards meeting the spirit of the new law.
+--------------------------------------------------
+City Clerk:
+Start: 01:11:44.680
+End: 01:11:58.680
+Duration: 14.000 seconds
+Text: But that has been part of the discussion with the timing and the process for doing this is so that some of those those old laws that are still in effect right now that those will apply to this project amendment.
+--------------------------------------------------
+City Clerk:
+Start: 01:11:58.680
+End: 01:12:13.680
+Duration: 15.000 seconds
+Text: And that's why we're taking these steps to try to get this done at these two meetings in June so that basically everything with regards to the project plan process is completed prior to that July 1st.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:12:14.680
+End: 01:12:26.680
+Duration: 12.000 seconds
+Text: Okay, that answers that question. Then the other one Jason is more, I mean, we're basically getting it possible to pursue the star bonds if we vote on this to with the state.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:12:26.680
+End: 01:12:36.680
+Duration: 10.000 seconds
+Text: But we're not formalizing anything else as in parking actual architecture of the building, even the location of the building for that matter. That's all still for further discussion correct.
+--------------------------------------------------
+City Manager:
+Start: 01:12:36.680
+End: 01:12:43.680
+Duration: 7.000 seconds
+Text: Very much so and that pre-development agreement to your packets and I lays out a lot of the areas that we need to work through.
+--------------------------------------------------
+City Manager:
+Start: 01:12:43.680
+End: 01:12:55.680
+Duration: 12.000 seconds
+Text: There will be a final development agreement 30, 60 days down the road where we can come together and negotiate some terms and bring those back to you dealing with the land acquisition as you mentioned.
+--------------------------------------------------
+City Manager:
+Start: 01:12:55.680
+End: 01:13:03.680
+Duration: 8.000 seconds
+Text: We're having it appraised. We're looking at it from a value standpoint. Just what it's worth. That needs to be factored into the agreement.
+--------------------------------------------------
+City Manager:
+Start: 01:13:03.680
+End: 01:13:13.680
+Duration: 10.000 seconds
+Text: The zoning clearly does. We've talked about the PUD amendment. It'll look at everything from the building facades to the location parking impacted.
+--------------------------------------------------
+City Manager:
+Start: 01:13:13.680
+End: 01:13:22.680
+Duration: 9.000 seconds
+Text: I appreciate Gwen's comment too about where we were when we established this thing. We all, you know, I don't disagree with them.
+--------------------------------------------------
+City Manager:
+Start: 01:13:22.680
+End: 01:13:30.680
+Duration: 8.000 seconds
+Text: We would have loved to have that garage on the north end of that thing. But where did the conference center and the hotel ended up being the biggest user at the time and the driver.
+--------------------------------------------------
+City Manager:
+Start: 01:13:30.680
+End: 01:13:40.680
+Duration: 10.000 seconds
+Text: It made a lot of sense to have that and leverage that investment too. With that, yes, there's a lot of other issues. There's a low grade as we mentioned above grade.
+--------------------------------------------------
+City Manager:
+Start: 01:13:40.680
+End: 01:13:48.680
+Duration: 8.000 seconds
+Text: So there's quite a process to unfold here. Final design on there in more expense, more investment to get us to that point.
+--------------------------------------------------
+City Manager:
+Start: 01:13:48.680
+End: 01:13:57.680
+Duration: 9.000 seconds
+Text: They have to go design this thing to get us answers and finalize that in a way that they can actually submit a PUD amendment application.
+--------------------------------------------------
+City Manager:
+Start: 01:13:57.680
+End: 01:14:03.680
+Duration: 6.000 seconds
+Text: There's a lot of detail that goes along with that. So they'll be preparing that in addition to many other documents.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:14:03.680
+End: 01:14:13.680
+Duration: 10.000 seconds
+Text: Okay. So just to focus on the specific vote tonight, which is star bomb. We do that. Does that then confine the location of the building to that specific south end somewhere?
+--------------------------------------------------
+City Manager:
+Start: 01:14:13.680
+End: 01:14:24.680
+Duration: 11.000 seconds
+Text: This project plan describes the use. It has a general description. When you see, I mean, what other alternative would there be commissioner that you can think of?
+--------------------------------------------------
+City Manager:
+Start: 01:14:24.680
+End: 01:14:31.680
+Duration: 7.000 seconds
+Text: I mean, there's a parking lot behind the hill. And it's not ours. I mean, it's just there's really not a whole lot of other space.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:14:31.680
+End: 01:14:39.680
+Duration: 8.000 seconds
+Text: I'm thinking in my mind, you know, we're getting ready to build new city shops. And we got some old city shops sitting over on the other side of Fort Riley Boulevard.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:14:39.680
+End: 01:14:42.680
+Duration: 3.000 seconds
+Text: I don't know if the building at fifth or not, but that's city property.
+--------------------------------------------------
+City Manager:
+Start: 01:14:42.680
+End: 01:14:54.680
+Duration: 12.000 seconds
+Text: And that's again, back to the secretary's interpretation that he wants it contiguous. Now, you can expand that district down and go through a process to do that.
+--------------------------------------------------
+City Manager:
+Start: 01:14:54.680
+End: 01:15:00.680
+Duration: 6.000 seconds
+Text: Be a lot of debate about just that location, but continue.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:15:00.680
+End: 01:15:04.680
+Duration: 4.000 seconds
+Text: I just want to know if there's any flexibility after we do this tonight. That's really what the question.
+--------------------------------------------------
+City Manager:
+Start: 01:15:04.680
+End: 01:15:11.680
+Duration: 7.000 seconds
+Text: Yeah, we would have to we'd have to start over if you're not going to put it in this area to start over with a district boundary expansion.
+--------------------------------------------------
+City Manager:
+Start: 01:15:11.680
+End: 01:15:13.680
+Duration: 2.000 seconds
+Text: If you're going somewhere else.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:15:13.680
+End: 01:15:26.680
+Duration: 13.000 seconds
+Text: Okay, that answers the question because I know there's a lot of things we're not going to sell tonight. I mean step one is if we expand the district, then we can get the commerce department to determine whether they're even going to go with the bonds.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:15:26.680
+End: 01:15:29.680
+Duration: 3.000 seconds
+Text: And then we have to cross the other teas after that.
+--------------------------------------------------
+City Manager:
+Start: 01:15:29.680
+End: 01:15:44.680
+Duration: 15.000 seconds
+Text: The amendments of the plan will move this down the road. If the amendment fails and we want to look at another site to expand the district or another amendment, it'll take an additional notification process and we'll start over.
+--------------------------------------------------
+City Manager:
+Start: 01:15:44.680
+End: 01:15:50.680
+Duration: 6.000 seconds
+Text: We'll be into August, September, even if we can find a site that works.
+--------------------------------------------------
+City Manager:
+Start: 01:15:50.680
+End: 01:16:04.680
+Duration: 14.000 seconds
+Text: Everything you think of short of what we own property is going to require negotiation of some sort to buy something, expand that district and you're looking at three or four months minimum.
+--------------------------------------------------
+Mark Abbott:
+Start: 01:16:04.680
+End: 01:16:13.680
+Duration: 9.000 seconds
+Text: Okay, I don't see there. So the Secretary of Commerce, have they given you any idea when they'll make a decision?
+--------------------------------------------------
+City Manager:
+Start: 01:16:13.680
+End: 01:16:22.680
+Duration: 9.000 seconds
+Text: No, Joe with Gilmore and Bill indicated they thought this month, so within the next week or two, they would have an official letter out to the librarians.
+--------------------------------------------------
+Mark Abbott:
+Start: 01:16:22.680
+End: 01:16:24.680
+Duration: 2.000 seconds
+Text: Okay, all right, you can have a seat.
+--------------------------------------------------
+Mark Abbott:
+Start: 01:16:24.680
+End: 01:16:33.680
+Duration: 9.000 seconds
+Text: So when I first saw the first YouTube video, it's like, wow, that is something exciting. That will bring people to Manhattan.
+--------------------------------------------------
+Mark Abbott:
+Start: 01:16:33.680
+End: 01:16:49.680
+Duration: 16.000 seconds
+Text: I think it's something I go to and drag everybody that came to town to it also because it really is a, if it turns out like the Orte de laid, whatever it is in France, we want that in Manhattan.
+--------------------------------------------------
+Mark Abbott:
+Start: 01:16:49.680
+End: 01:16:58.680
+Duration: 9.000 seconds
+Text: I don't, I don't, that's why I asked the first question about the parking because obviously that's going to be an issue we've got to try to address and I don't know.
+--------------------------------------------------
+Mark Abbott:
+Start: 01:16:58.680
+End: 01:17:10.680
+Duration: 12.000 seconds
+Text: There's no easy solution to New York, he would have thought of that so then we can start having a little more creative, but the concern that no one's going to see it is totally un-based because it's five stories tall.
+--------------------------------------------------
+Mark Abbott:
+Start: 01:17:10.680
+End: 01:17:17.680
+Duration: 7.000 seconds
+Text: It's going to tower over the Discovery Center even and so when people come across the bridge, they're going to see it.
+--------------------------------------------------
+Mark Abbott:
+Start: 01:17:17.680
+End: 01:17:34.680
+Duration: 17.000 seconds
+Text: It's not tucked away in some corner hidden where people got to go find it. They're going to find it and they're going to see it right away and if it's not sure exactly which direction the, that initial screen, that looks like it's probably facing to the west and south there is something they won't necessarily see.
+--------------------------------------------------
+Mark Abbott:
+Start: 01:17:34.680
+End: 01:17:48.680
+Duration: 14.000 seconds
+Text: I can't come on over the viaduct but they'll see it when they're heading on four other boulevards so I like it. I think it's a great use of the additional star bond funding. We just have to work out some of the details.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:17:49.680
+End: 01:18:06.680
+Duration: 17.000 seconds
+Text: My reaction is that I'm delighted that the donors have come forward with a project like this. I'm amazed at it and that I have asked everybody I know, are you sure there's no real cost of the city?
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:18:06.680
+End: 01:18:18.680
+Duration: 12.000 seconds
+Text: Is this really true? Because most proposals come to us and want two or three or five million in economic development money from our fund.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:18:18.680
+End: 01:18:38.680
+Duration: 20.000 seconds
+Text: And so this is a real different kind of a proposal. I, I, the, this is an attraction and that's I'm sure what stimulates the star bond interest.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:18:38.680
+End: 01:18:54.680
+Duration: 16.000 seconds
+Text: I don't really want to constrict or cause the Flint Hills Discovery Center to decline but I don't think it will. I think that these two can work almost different audiences but it can still work.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:18:54.680
+End: 01:19:09.680
+Duration: 15.000 seconds
+Text: I was thinking, you know, when you have another child, you work them into the family and you love them and that's what I think we're going to do with another art venue here in the community.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:19:09.680
+End: 01:19:28.680
+Duration: 19.000 seconds
+Text: I think where it doesn't detract as I, I mean, it doesn't detract from the other art venues we have here. They're not alike and so I don't see the, the comp, you know, there's some measure of competition but it isn't huge.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:19:28.680
+End: 01:19:57.680
+Duration: 29.000 seconds
+Text: And I, I do as the city negotiates. I do have some concern about Blue Earth Plaza and I've just, I don't want it turned into a parking lot. I want it to be the integrity of that open space to be respected and it would be really easy to compromise it and I hope that's not what happens.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:19:57.680
+End: 01:20:26.680
+Duration: 29.000 seconds
+Text: I think that would object to that but as this, as the city negotiates, it sounds like this is pretty fast track as you negotiate and so I'd like for us to know before a city commission meeting where it's either up or down. I'd like to know what your, some of the issues that you discuss or have some options on choices on.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:20:26.680
+End: 01:20:41.680
+Duration: 15.000 seconds
+Text: But I'm, you know, I think it's a wonderful attraction for our community. I just can't, I think of any, parking is an issue, parking is an issue in Aggieville.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:20:41.680
+End: 01:20:55.680
+Duration: 14.000 seconds
+Text: We're having, we're building a parking garage there. We already have one here. When I go to other communities, frequently you have to walk a block or two to get to where you want to go.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:20:55.680
+End: 01:21:11.680
+Duration: 16.000 seconds
+Text: And I think where you want to go and downtown link and is what I remember the most, most recently. And so it's, I don't think it's the end of the world and I think we'll learn to live with it and we'll adjust and we might not like it always.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:21:11.680
+End: 01:21:27.680
+Duration: 16.000 seconds
+Text: But as I get older, I like to park closer. And, but I also know that we, there's a reality and I don't think we can pull off a project like this in less than 30 days at another location.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:21:27.680
+End: 01:21:34.680
+Duration: 7.000 seconds
+Text: So I'm supportive of tonight's business.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:21:34.680
+End: 01:21:47.680
+Duration: 13.000 seconds
+Text: When I first saw the project, I was impressed with it. I think, you know, I've seen some of these, you know, I call them holographs sort of displays at other locations. And I think I think it's a worthwhile draw.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:21:47.680
+End: 01:22:01.680
+Duration: 14.000 seconds
+Text: My only concern was I thought originally, you know, there really wouldn't be any city investment. But there's really three things that came up tonight that are concerned that I think are important that we need to resolve that there is basically about a $1.2 million city investment.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:22:01.680
+End: 01:22:17.680
+Duration: 16.000 seconds
+Text: When you look at the amount of tax dollars that we could have put in to our system and that probably needs to be addressed parking. There could be some solutions to that and also location, which could be, you know, handled by design of the building.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:22:17.680
+End: 01:22:23.680
+Duration: 6.000 seconds
+Text: There's various ways to address that. And I think the future actions need to address those three things.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:22:23.680
+End: 01:22:31.680
+Duration: 8.000 seconds
+Text: But what's important to me tonight is because we have this deadline of July that we need to move on with the star bond process. And I'm committed to that.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:22:31.680
+End: 01:22:42.680
+Duration: 11.000 seconds
+Text: But all the other details, you know, those are future actions. And I think those three have to be addressed this city consequence of having to lose 1.2 million.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:22:42.680
+End: 01:22:55.680
+Duration: 13.000 seconds
+Text: The parking solution location. And I really appreciate all of you that own businesses there, especially Colin, you seem to be willing to go along with this, even though it affects your hotel probably more than anyone else.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:22:55.680
+End: 01:23:09.680
+Duration: 14.000 seconds
+Text: And so that tells me that that's probably good reason to go ahead and let's move on and get the star bond thing through the Department of Commerce. And then we'll see if we can cross some teas and dot some eyes on the other issues in the next few weeks.
+--------------------------------------------------
+Mark Abbott:
+Start: 01:23:10.680
+End: 01:23:12.680
+Duration: 2.000 seconds
+Text: Two more comments quick.
+--------------------------------------------------
+Mark Abbott:
+Start: 01:23:12.680
+End: 01:23:23.680
+Duration: 11.000 seconds
+Text: Yeah, I will trade 1.2 million for 43 million every week if I could. And I realize, and the good thing about the city's investment, it's a one shot deal.
+--------------------------------------------------
+Mark Abbott:
+Start: 01:23:23.680
+End: 01:23:30.680
+Duration: 7.000 seconds
+Text: It's not a four or five hundred thousand dollar drag every year, like the zoo or like the Discovery Center or the millions of dollars a year.
+--------------------------------------------------
+Mark Abbott:
+Start: 01:23:30.680
+End: 01:23:45.680
+Duration: 15.000 seconds
+Text: The parks and recreation is a is a negative drag to the city because those are things that people want. And so the nice thing about this is it's sort of a one shot investment by the community to get 40 times our money back there.
+--------------------------------------------------
+Mark Abbott:
+Start: 01:23:45.680
+End: 01:23:55.680
+Duration: 10.000 seconds
+Text: And the second thing is you're concerned about museum goers or museum goers. If they're going to go to that museum, they're going to that one. And then we're going to go to that one because they're museum goers.
+--------------------------------------------------
+Mark Abbott:
+Start: 01:23:55.680
+End: 01:24:06.680
+Duration: 11.000 seconds
+Text: I'm not a museum goer much. So you have one a years enough for me, but the people that go to museums are going to go to everyone that they can put their heavy hands on because that's what they do.
+--------------------------------------------------
+Mark Abbott:
+Start: 01:24:06.680
+End: 01:24:16.680
+Duration: 10.000 seconds
+Text: And so when they get out of the one, they're going to go into the next one. If not that day, the next day. And then they'll probably realize, hey, these are kind of cool. I bet K states got some museums I could go to also.
+--------------------------------------------------
+Mark Abbott:
+Start: 01:24:16.680
+End: 01:24:32.680
+Duration: 16.000 seconds
+Text: And so there's yeah, we just have to hope that we can start getting charter buses of museum goers to come to town and see all of them because that's one thing I'm convinced of that you get one, get them to go to one they'll go to the other.
+--------------------------------------------------
+City Clerk:
+Start: 01:24:32.680
+End: 01:24:45.680
+Duration: 13.000 seconds
+Text: I'll try to be a little brief. I think this is the right time in the right place. I hope with with a lot of the right people involved, I think we can make it work.
+--------------------------------------------------
+City Clerk:
+Start: 01:24:45.680
+End: 01:24:52.680
+Duration: 7.000 seconds
+Text: So I'll absolutely support this. And when I saw when I saw the presentation initially.
+--------------------------------------------------
+City Clerk:
+Start: 01:24:52.680
+End: 01:25:20.680
+Duration: 28.000 seconds
+Text: I thought of my kids. I thought of how interested they would be in something like that and how when we've gone to other museums, they've been given packets of information or things to try to get them engaged with the art where this is flipping that upside down and they're the engagement is built into the design.
+--------------------------------------------------
+City Clerk:
+Start: 01:25:20.680
+End: 01:25:33.680
+Duration: 13.000 seconds
+Text: And it is innovative. It is for thinking. I think it meets also for me. It was important to talk about the star bonds being an attraction being something that draws people in.
+--------------------------------------------------
+City Clerk:
+Start: 01:25:33.680
+End: 01:25:45.680
+Duration: 12.000 seconds
+Text: What does that we talk there's a lot of different things that draw people to Manhattan. Often it's it's the university or football or whatever those things it's not always art.
+--------------------------------------------------
+City Clerk:
+Start: 01:25:45.680
+End: 01:25:59.680
+Duration: 14.000 seconds
+Text: But there is a special place in I shared this with the Brian's that my first time ever coming to Manhattan was for that music competition marching band that K state host.
+--------------------------------------------------
+City Clerk:
+Start: 01:25:59.680
+End: 01:26:23.680
+Duration: 24.000 seconds
+Text: And that coming from Dodged City that was also one of the first times I ever saw trees and something that was green let alone Manhattan itself. But I just think about all the the missions that our community has been given to look west looked to rural areas, looked to places and being anchor to inspire other people to come visit.
+--------------------------------------------------
+City Clerk:
+Start: 01:26:23.680
+End: 01:26:37.680
+Duration: 14.000 seconds
+Text: And this truly I think part of the intent of the what a star bond does so absolutely this would fit in that it's a it's a unique beacon to our region and maybe maybe the United States at least for a while.
+--------------------------------------------------
+City Clerk:
+Start: 01:26:37.680
+End: 01:26:50.680
+Duration: 13.000 seconds
+Text: So I fully supported them really happy you guys have you took calling with you to see it in Paris so he can't be upset about it being next door to him.
+--------------------------------------------------
+Mark Abbott:
+Start: 01:26:50.680
+End: 01:27:06.680
+Duration: 16.000 seconds
+Text: Okay, well, no, I guess we can entertain a motion here mayor. I moved that we approved first reading of an ordinance approving the project plan amendment to the South Project area redevelopment project plan and special bond project plan for the Manhattan downtown redevelopment district for the Manhattan Museum of Art and Light.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:27:06.680
+End: 01:27:11.680
+Duration: 5.000 seconds
+Text: Second, can we have a motion the second city clerk could you please call the role.
+--------------------------------------------------
+City Clerk:
+Start: 01:27:12.680
+End: 01:27:28.680
+Duration: 16.000 seconds
+Text: Commissioner Morris. Yes, Commissioner Hattiesall. Yes, Commissioner Estabrick. Yes, Commissioner Ready. Yes, Mayor Butler. Yes, motion carries five to zero.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:27:28.680
+End: 01:27:43.680
+Duration: 15.000 seconds
+Text: We'll move on to the general agenda, which we have just one item.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:27:43.680
+End: 01:27:54.680
+Duration: 11.000 seconds
+Text: And that is to consider proposal and design agreement to develop a concept and feasibility study for an indoor aquatic facility and Jason you're back up to bat again.
+--------------------------------------------------
+City Manager:
+Start: 01:27:54.680
+End: 01:28:11.680
+Duration: 17.000 seconds
+Text: I am thank you mayor. About a month ago the commission received a letter from a aquatic group. This is a group of Manhattan citizens that have formed requesting the city explore and indoor aquatic facility.
+--------------------------------------------------
+City Manager:
+Start: 01:28:11.680
+End: 01:28:24.680
+Duration: 13.000 seconds
+Text: They put together a team of Anderson night architects councilman huntsucker which is an aquatic specialist and then the count Gordon construction.
+--------------------------------------------------
+City Manager:
+Start: 01:28:24.680
+End: 01:28:36.680
+Duration: 12.000 seconds
+Text: They've outlined a scope and a fee and they've prepared themselves as a team to deliver that one component of that as a needs analysis which will look back.
+--------------------------------------------------
+City Manager:
+Start: 01:28:36.680
+End: 01:28:43.680
+Duration: 7.000 seconds
+Text: We have a couple different studies you know within the last five six years that we can reference and they have reference.
+--------------------------------------------------
+City Manager:
+Start: 01:28:43.680
+End: 01:28:53.680
+Duration: 10.000 seconds
+Text: There's stakeholders throughout the community. We've got a lot of things happening within or water. Obviously you've got K state and then editorial and no longer operating.
+--------------------------------------------------
+City Manager:
+Start: 01:28:53.680
+End: 01:29:03.680
+Duration: 10.000 seconds
+Text: You've got Genesis now with five lanes that are available. We have a high school swim team that doesn't really have a venue. We have a man had Marlins team that doesn't have an indoor venue.
+--------------------------------------------------
+City Manager:
+Start: 01:29:03.680
+End: 01:29:14.680
+Duration: 11.000 seconds
+Text: There's a lot of traveling going on right now. So there's an opportunity for community input. But then they would prepare a concept and site plan based on that feedback.
+--------------------------------------------------
+City Manager:
+Start: 01:29:14.680
+End: 01:29:27.680
+Duration: 13.000 seconds
+Text: They have mentioned the steering committee. I think Tracy did that in large part because of the 40 to 44 person indoor recreation center committee we had that you all appointed that helped us through process.
+--------------------------------------------------
+City Manager:
+Start: 01:29:27.680
+End: 01:29:37.680
+Duration: 10.000 seconds
+Text: If you'd like to do something similar you can give us that direction we'll put it out and get some interest and see who'd like to serve and then you could appoint them at a future time.
+--------------------------------------------------
+City Manager:
+Start: 01:29:37.680
+End: 01:29:51.680
+Duration: 14.000 seconds
+Text: The indoor the study continues with opinion a probable cost so they'll look at construction but they'll also look at a feasibility study in that probable cost will be designed professional services.
+--------------------------------------------------
+City Manager:
+Start: 01:29:51.680
+End: 01:30:07.680
+Duration: 16.000 seconds
+Text: The feasibility study will get more into the revenue and the expense side of things. So this is really where a lot of heart-run might be when it comes to an indoor facility it's year round. It's water. We got to keep people safe. That requires resources.
+--------------------------------------------------
+City Manager:
+Start: 01:30:07.680
+End: 01:30:22.680
+Duration: 15.000 seconds
+Text: When you think about our outdoor pools and we joke around about the 20 some guards it's true. You've got a lot of different areas within those outdoor venues to watch. Those indoor venues can be structured and designed in a way where you're going to have far less guards.
+--------------------------------------------------
+City Manager:
+Start: 01:30:22.680
+End: 01:30:31.680
+Duration: 9.000 seconds
+Text: I know Tracy, Swam and Chad and multiple people in here of Swam with that with two or three guards watching three bodies of water.
+--------------------------------------------------
+City Manager:
+Start: 01:30:31.680
+End: 01:30:40.680
+Duration: 9.000 seconds
+Text: It can be done if it's designed appropriately and I think they'll take a shot at that. Not only impact are our expense side of things but they'll look at those concepts too.
+--------------------------------------------------
+City Manager:
+Start: 01:30:40.680
+End: 01:30:51.680
+Duration: 11.000 seconds
+Text: So this evening we're looking for authorization to go ahead and have city staff finalize that professional services contract. They have proposed to do this for $15,000.
+--------------------------------------------------
+City Manager:
+Start: 01:30:51.680
+End: 01:31:05.680
+Duration: 14.000 seconds
+Text: I think they've given the city a pretty special deal here. Normally we would pay over $100,000 for this type of work. I do think you're looking at a multi-million type of facility.
+--------------------------------------------------
+City Manager:
+Start: 01:31:05.680
+End: 01:31:12.680
+Duration: 7.000 seconds
+Text: If it's anywhere near where we were, I can't remember if it's 06 or 07 when we had the ballot question that failed.
+--------------------------------------------------
+City Manager:
+Start: 01:31:12.680
+End: 01:31:21.680
+Duration: 9.000 seconds
+Text: But since then we've looked it into our aquatics a couple more times. It was a top four in the strategic facilities improvement plan from the community and the surveys.
+--------------------------------------------------
+City Manager:
+Start: 01:31:21.680
+End: 01:31:26.680
+Duration: 5.000 seconds
+Text: So there's a lot of interest out there. But we've proposed to fund this from the special park and rec fund this evening.
+--------------------------------------------------
+City Manager:
+Start: 01:31:26.680
+End: 01:31:35.680
+Duration: 9.000 seconds
+Text: So with that, we haven't answered any questions. I know you all have had a lot of time to digest that letter and different conversations.
+--------------------------------------------------
+City Manager:
+Start: 01:31:35.680
+End: 01:31:44.680
+Duration: 9.000 seconds
+Text: So I know I'm here to answer questions. Traces here as well for this team and other members of the aquatic group or in the audience too.
+--------------------------------------------------
+Mark Abbott:
+Start: 01:31:44.680
+End: 01:31:49.680
+Duration: 5.000 seconds
+Text: Just to refresh my memory, where does the money for the special park and rec fund come from?
+--------------------------------------------------
+City Manager:
+Start: 01:31:49.680
+End: 01:31:52.680
+Duration: 3.000 seconds
+Text: It's our third of that special alcohol.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:31:52.680
+End: 01:32:15.680
+Duration: 23.000 seconds
+Text: Thanks, Jason. I don't have a problem with the $15,000. I think like you said, it is unusual when you have somebody else putting in 100,000, 120,000 of a pro bono to do this.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:32:15.680
+End: 01:32:23.680
+Duration: 8.000 seconds
+Text: And that means there's a strong belief in this. And the community has often gone back and forth within indoor aquatic center.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:32:23.680
+End: 01:32:30.680
+Duration: 7.000 seconds
+Text: I think with the auditorium not being there anymore, I don't know what kind of partnership we can have with Kansas State University.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:32:30.680
+End: 01:32:41.680
+Duration: 11.000 seconds
+Text: But I think this kind of study, I hope they look into lifeguards, maintenance, indoor pools require different types of maintenance, humidity, water, all of these things.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:32:41.680
+End: 01:32:49.680
+Duration: 8.000 seconds
+Text: And one of the things we want to be cautious of is if our community uses it, what would the membership fee look like?
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:32:49.680
+End: 01:32:57.680
+Duration: 8.000 seconds
+Text: Because that's where we need to figure out operational costs. Building a structure is a little bit easier than the operational piece of it, which is ongoing.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:32:57.680
+End: 01:33:07.680
+Duration: 10.000 seconds
+Text: And one of the things with the auditorium is you can smell the chlorine. And I don't know if that's what it was supposed to be like for an indoor one.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:33:07.680
+End: 01:33:18.680
+Duration: 11.000 seconds
+Text: But it was just so much. But you can also feel so much moisture that you know it's impacting that infrastructure that's there.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:33:18.680
+End: 01:33:24.680
+Duration: 6.000 seconds
+Text: So I want to know not just the building cost, like I said, that's going to be the easy part, but the maintenance and the operational costs.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:33:24.680
+End: 01:33:36.680
+Duration: 12.000 seconds
+Text: And I hope that's what the study does. That's what's going to move this forward to what the community can have and enjoy, not only for 10 years, but 20 years and 30 years down the road.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:33:36.680
+End: 01:33:42.680
+Duration: 6.000 seconds
+Text: And I think there will be questions about what you close city, you know, Seaco pool. How do we know you can manage this pool?
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:33:42.680
+End: 01:33:49.680
+Duration: 7.000 seconds
+Text: Those are questions that has to address, you know, what kind of lifeguards are we looking at? Is it going to be open just 95? Is it going to be open on weekends?
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:33:49.680
+End: 01:33:59.680
+Duration: 10.000 seconds
+Text: What do tournaments look like? And do they need different types of, have different types of needs? Where will it be located? Is it going to be at Seaco Park?
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:33:59.680
+End: 01:34:12.680
+Duration: 13.000 seconds
+Text: All of these things I hope we can get the answers to. And for that kind of study, investing $15,000 seems reasonable.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:34:12.680
+End: 01:34:20.680
+Duration: 8.000 seconds
+Text: Now we didn't have anybody sign up for a public comment. Is there anyone in the audience who would like to speak to this issue?
+--------------------------------------------------
+Mayor Butler:
+Start: 01:34:20.680
+End: 01:34:23.680
+Duration: 3.000 seconds
+Text: I'm sure Tracy wants to speak.
+--------------------------------------------------
+City Clerk:
+Start: 01:34:23.680
+End: 01:34:28.680
+Duration: 5.000 seconds
+Text: I don't want to speak, but I'll come up. I'm not coding.
+--------------------------------------------------
+City Clerk:
+Start: 01:34:28.680
+End: 01:34:41.680
+Duration: 13.000 seconds
+Text: Tracy Anderson with Anderson Eyed Architects, 25 or 5 Anderson Avenue. See if I can get one more Anderson in there somewhere.
+--------------------------------------------------
+City Clerk:
+Start: 01:34:41.680
+End: 01:34:57.680
+Duration: 16.000 seconds
+Text: I don't really have anything more to add. You should. You're absolutely right. The study has to address all those things. And that's our intent to do.
+--------------------------------------------------
+City Clerk:
+Start: 01:34:57.680
+End: 01:35:07.680
+Duration: 10.000 seconds
+Text: We have to know what, when, and how. Is what I think we have to get to. So I'm happy to stand here and answer any other questions you might have.
+--------------------------------------------------
+City Clerk:
+Start: 01:35:07.680
+End: 01:35:15.680
+Duration: 8.000 seconds
+Text: But beyond what the group of us that spoke about a month ago here said, I don't know that I need to say anything else.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:35:15.680
+End: 01:35:22.680
+Duration: 7.000 seconds
+Text: I wanted to ask just a couple of quick things. One, well the feasibility study because I did get this question from a number of people.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:35:22.680
+End: 01:35:30.680
+Duration: 8.000 seconds
+Text: I think we can include an investigation of possibly covering an existing city pool.
+--------------------------------------------------
+City Clerk:
+Start: 01:35:30.680
+End: 01:35:38.680
+Duration: 8.000 seconds
+Text: We haven't talked about that, but could we explore that? I think we could reevaluate that.
+--------------------------------------------------
+City Clerk:
+Start: 01:35:38.680
+End: 01:35:49.680
+Duration: 11.000 seconds
+Text: I know Bruce in his study in 2017 looked at at least covering a portion of city park pool. And that was met with sort of a no go.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:35:49.680
+End: 01:35:59.680
+Duration: 10.000 seconds
+Text: On the reason was, you know, as we talked, it looked like a shoe box being pulled over top of it and of course didn't like that. So maybe a different design. But I don't think we should rule that out.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:35:59.680
+End: 01:36:11.680
+Duration: 12.000 seconds
+Text: I did get an email from our previous parks and Rec Director who sent it to me to remind me that there were footings there and at one point in time when he was here long before my time on the commission.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:36:11.680
+End: 01:36:17.680
+Duration: 6.000 seconds
+Text: That that had been considered. So I want to be sure that's at least some place in this feasibility study.
+--------------------------------------------------
+City Clerk:
+Start: 01:36:17.680
+End: 01:36:20.680
+Duration: 3.000 seconds
+Text: Okay. Yeah. We can certainly address that.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:36:20.680
+End: 01:36:27.680
+Duration: 7.000 seconds
+Text: And then the other question was the group. Is there any plans to try to raise some private funds to help build this thing?
+--------------------------------------------------
+City Clerk:
+Start: 01:36:27.680
+End: 01:36:40.680
+Duration: 13.000 seconds
+Text: You know, we've had conversations with folks like Vern Hendrix. And I think once we know the what and possibly the win is maybe even more important.
+--------------------------------------------------
+City Clerk:
+Start: 01:36:40.680
+End: 01:36:48.680
+Duration: 8.000 seconds
+Text: I think he's willing to go to the public or the private sector and see. Are people willing to donate towards this?
+--------------------------------------------------
+City Clerk:
+Start: 01:36:48.680
+End: 01:36:53.680
+Duration: 5.000 seconds
+Text: Nobody's obviously saying anything today, but certainly.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:36:53.680
+End: 01:37:00.680
+Duration: 7.000 seconds
+Text: Okay. So that possibility is still there. And then of course also partnerships perhaps with the school district to a certain extent.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:37:00.680
+End: 01:37:05.680
+Duration: 5.000 seconds
+Text: And then the other thing that I see like Jason said this was number four on the survey before.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:37:05.680
+End: 01:37:11.680
+Duration: 6.000 seconds
+Text: But number one was the indoor basketball courts and we built those. I think this is going to move up.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:37:11.680
+End: 01:37:15.680
+Duration: 4.000 seconds
+Text: And it seems to have been on the list for all the strategic planning meetings that we've had.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:37:15.680
+End: 01:37:19.680
+Duration: 4.000 seconds
+Text: A lot of people, you know, marked it as one of the items they wanted to see happen.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:37:19.680
+End: 01:37:25.680
+Duration: 6.000 seconds
+Text: So I think it's going to bubble to the surface. But of course, you know, funding is always going to be the big issue.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:37:25.680
+End: 01:37:42.680
+Duration: 17.000 seconds
+Text: And it may get back to a valid issue on quality of life, whatever. But but I think, you know, paying $15,000 for about a hundred to $120,000 feasibility study is a worthwhile investment, especially since it's, you know, coming out of the parts and right fund there.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:37:42.680
+End: 01:37:49.680
+Duration: 7.000 seconds
+Text: It's not property tax. We've got the money. Any city can handle it. So if that's the case, I think we should go with it.
+--------------------------------------------------
+City Clerk:
+Start: 01:37:49.680
+End: 01:37:59.680
+Duration: 10.000 seconds
+Text: I agree with you. I think we've literally addressed the top three now. So this is literally up at number one in my opinion.
+--------------------------------------------------
+City Clerk:
+Start: 01:37:59.680
+End: 01:38:16.680
+Duration: 17.000 seconds
+Text: I have a question. More in the win category of how long this feasibility study would explore, I guess, different scenarios where and how that would get to.
+--------------------------------------------------
+City Clerk:
+Start: 01:38:16.680
+End: 01:38:29.680
+Duration: 13.000 seconds
+Text: If in my opinion, the win would be the 2023, 2024 window. This will point us in that direction. It's not going to point us to a 2033 type of scenario, right?
+--------------------------------------------------
+City Clerk:
+Start: 01:38:29.680
+End: 01:38:44.680
+Duration: 15.000 seconds
+Text: I sure hope not. Yeah. I mean, I, if you talked to anybody that we've been talking to you the sooner or the better. So, you know, we anticipate the study taking four to five months.
+--------------------------------------------------
+City Clerk:
+Start: 01:38:44.680
+End: 01:38:52.680
+Duration: 8.000 seconds
+Text: So, I think we're going to be able to come back to you with a how a win and a, or a, what a win and a how.
+--------------------------------------------------
+City Clerk:
+Start: 01:38:52.680
+End: 01:39:02.680
+Duration: 10.000 seconds
+Text: So, and I don't know Jason, I don't want to speak incorrectly here, but I guess that's some clarity. There's going to be, sorry, it didn't mean no.
+--------------------------------------------------
+City Clerk:
+Start: 01:39:02.680
+End: 01:39:12.680
+Duration: 10.000 seconds
+Text: I mean, the how is one, how do we build it where those funds come from and how do we operate it and maintain it over the next 20, 30 plus years.
+--------------------------------------------------
+City Clerk:
+Start: 01:39:12.680
+End: 01:39:23.680
+Duration: 11.000 seconds
+Text: And that all has to be in my mind a part of that study so that we can sit here and come to you or Jason can stand here in front of you and say, here's how we can pay for this thing.
+--------------------------------------------------
+City Clerk:
+Start: 01:39:23.680
+End: 01:39:30.680
+Duration: 7.000 seconds
+Text: And here's how we can run it. So there's going to be lots of discussions. We have to have with city staff and others to figure that out.
+--------------------------------------------------
+City Clerk:
+Start: 01:39:30.680
+End: 01:39:41.680
+Duration: 11.000 seconds
+Text: So, I think just for the expectations of the community to understand that on one hand we are talking about a museum that might go up soon.
+--------------------------------------------------
+City Clerk:
+Start: 01:39:41.680
+End: 01:39:53.680
+Duration: 12.000 seconds
+Text: On the other hand, we're talking about a study about a pool that the soonest it could possibly be is somewhere later in 2023 or 2024.
+--------------------------------------------------
+City Clerk:
+Start: 01:39:53.680
+End: 01:39:57.680
+Duration: 4.000 seconds
+Text: If everything was done in a hasty way.
+--------------------------------------------------
+City Clerk:
+Start: 01:39:57.680
+End: 01:40:09.680
+Duration: 12.000 seconds
+Text: I would say, and again, Jason will correct me if I'm wrong, I would say that's probably accurate. We're probably even once the facilities or the feasibility studies done.
+--------------------------------------------------
+City Clerk:
+Start: 01:40:09.680
+End: 01:40:23.680
+Duration: 14.000 seconds
+Text: Gosh, if you guys turn around and said, let's do it the next day. I mean, there's almost a year worth of design and documentation and then another year worth of construction. So we're already in that time frame.
+--------------------------------------------------
+Mark Abbott:
+Start: 01:40:23.680
+End: 01:40:33.680
+Duration: 10.000 seconds
+Text: Let's say the whole second. So when what is the sort of the target date to get the feasibility study completed? I didn't look through my whole packet tonight.
+--------------------------------------------------
+City Clerk:
+Start: 01:40:33.680
+End: 01:40:50.680
+Duration: 17.000 seconds
+Text: Well, I think this fall. Yeah, yeah. I mean, if it's four to six months and maybe we could shrink that a little bit, but we'd sure like to have it back in front of you by the end of this year at the absolute latest.
+--------------------------------------------------
+City Clerk:
+Start: 01:40:50.680
+End: 01:41:00.680
+Duration: 10.000 seconds
+Text: And so we can try to figure out how we move forward. And you know, if it gets approved tonight, there's going to be a month of getting contracts in place or whatever.
+--------------------------------------------------
+City Clerk:
+Start: 01:41:00.680
+End: 01:41:08.680
+Duration: 8.000 seconds
+Text: And then if you're going to appoint a steering committee and all of those other things have to happen before we can really get going.
+--------------------------------------------------
+Mark Abbott:
+Start: 01:41:08.680
+End: 01:41:24.680
+Duration: 16.000 seconds
+Text: So I was going to make a comment. You want to talk to him? Anybody? Do you go ahead? Well, I just, I think we should try to partner with K state, but not with the university with the foundation.
+--------------------------------------------------
+Mark Abbott:
+Start: 01:41:24.680
+End: 01:41:45.680
+Duration: 21.000 seconds
+Text: And I've heard other people tell me that a lot of these other cities that are kicking our butt, whether it's Ames or Lincoln or Fayetteville or is that their university foundation is investing in their community in a meaningful way that benefits both the community and the college and the students and everything like that.
+--------------------------------------------------
+Mark Abbott:
+Start: 01:41:45.680
+End: 01:41:57.680
+Duration: 12.000 seconds
+Text: I would call on the K state foundation to this would be might be a good project if you get to that point because obviously they would K state university would want a place for their students to swim.
+--------------------------------------------------
+Mark Abbott:
+Start: 01:41:57.680
+End: 01:42:10.680
+Duration: 13.000 seconds
+Text: University ain't got no money. Foundations got a pile of money. And I would last think this would be a great opportunity for them to step up and invest in our community instead of just making more money for themselves all the time.
+--------------------------------------------------
+Mark Abbott:
+Start: 01:42:10.680
+End: 01:42:21.680
+Duration: 11.000 seconds
+Text: It would be nice to have them make that initial that other investment into our community to help the community and the students and the university and the faculty likes to swim too.
+--------------------------------------------------
+Mark Abbott:
+Start: 01:42:21.680
+End: 01:42:35.680
+Duration: 14.000 seconds
+Text: And the other part of my comment would be we can't just build an indoor aquatics facility for the hundred kids who swim in the marlins and the things and the 50 of you geezers that insist on staying in shape.
+--------------------------------------------------
+Mark Abbott:
+Start: 01:42:35.680
+End: 01:42:47.680
+Duration: 12.000 seconds
+Text: And so there's there has to be other things to get Joe blow into the into the pool and into the water because if push comes to shove and we have to put it on a ballot or something to vote on it.
+--------------------------------------------------
+Mark Abbott:
+Start: 01:42:47.680
+End: 01:42:57.680
+Duration: 10.000 seconds
+Text: You ain't going to win with 275 votes of people who swim a lot. It's going to have to be something a lot of people get excited about and I'm not sure what that missing link is.
+--------------------------------------------------
+City Manager:
+Start: 01:42:57.680
+End: 01:43:11.680
+Duration: 14.000 seconds
+Text: I think a lot of that circles back to the stakeholder groups and you talk with the health community medical just about all rehab has a potential in water.
+--------------------------------------------------
+City Manager:
+Start: 01:43:11.680
+End: 01:43:24.680
+Duration: 13.000 seconds
+Text: You get the university students you've got you've got a lot of different groups out there that we feel like we're part of the discussion limitations at the university and the anatomy.
+--------------------------------------------------
+City Manager:
+Start: 01:43:24.680
+End: 01:43:34.680
+Duration: 10.000 seconds
+Text: I'm just giving it age. It's just location. Even even the fees associated with it weren't easy to understand or how you could actually go about doing it.
+--------------------------------------------------
+City Manager:
+Start: 01:43:34.680
+End: 01:43:49.680
+Duration: 15.000 seconds
+Text: But I do think there there's an opportunity to identify all those stakeholders bring them to the table and look at what does this thing have to look like in order to gain your interest, you know, I think you're spot on commissioner.
+--------------------------------------------------
+City Manager:
+Start: 01:43:49.680
+End: 01:43:55.680
+Duration: 6.000 seconds
+Text: It's us needing to go out and listen and understand what the community wants and what they're willing to support.
+--------------------------------------------------
+City Clerk:
+Start: 01:43:59.680
+End: 01:44:04.680
+Duration: 5.000 seconds
+Text: Thank you, Mayor. Good evening, Commissioner. Chad Bunger, 3228 LL.A.
+--------------------------------------------------
+City Clerk:
+Start: 01:44:04.680
+End: 01:44:08.680
+Duration: 4.000 seconds
+Text: I'd pick you back on what Jason just said there and to your point.
+--------------------------------------------------
+City Clerk:
+Start: 01:44:08.680
+End: 01:44:17.680
+Duration: 9.000 seconds
+Text: Our group, although we're made up of mostly parents with kids that like to swim laps and be competitive swimmers,
+--------------------------------------------------
+City Clerk:
+Start: 01:44:17.680
+End: 01:44:21.680
+Duration: 4.000 seconds
+Text: we're going to go with the Marlins of the high school or both.
+--------------------------------------------------
+City Clerk:
+Start: 01:44:21.680
+End: 01:44:29.680
+Duration: 8.000 seconds
+Text: We've been truly committed this whole time to try to create an aquatic center that anybody in the city of Manhattan can use.
+--------------------------------------------------
+City Clerk:
+Start: 01:44:29.680
+End: 01:44:42.680
+Duration: 13.000 seconds
+Text: And not just it's a rectangle of water and you have to go make your own fun or figure out your own way for exercise, but truly a facility that meets everybody's needs.
+--------------------------------------------------
+City Clerk:
+Start: 01:44:42.680
+End: 01:44:52.680
+Duration: 10.000 seconds
+Text: And so, yeah, we're all made up of laps swimmers or parents of laps swimmers, but we really want to create a center that's inclusive of everybody.
+--------------------------------------------------
+City Clerk:
+Start: 01:44:52.680
+End: 01:45:02.680
+Duration: 10.000 seconds
+Text: So to that point, that's what we really hope out of this feasibility study is not just how big of a rectangle it should be, but what other bodies of water, what other features should go in that structure.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:45:02.680
+End: 01:45:12.680
+Duration: 10.000 seconds
+Text: Just generally, I certainly want to pursue the feasibility study.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:45:12.680
+End: 01:45:22.680
+Duration: 10.000 seconds
+Text: Because I think there are some answers in there for our questions, we have to better define what we're talking about.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:45:22.680
+End: 01:45:28.680
+Duration: 6.000 seconds
+Text: Because otherwise we're just going to commit a lot of money and not have direction.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:45:28.680
+End: 01:45:46.680
+Duration: 18.000 seconds
+Text: Having said that, I also am, I'm anxious to get some of these debt projects off of our plate and have some of them actually expire so that we don't just keep adding and adding.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:45:46.680
+End: 01:45:51.680
+Duration: 5.000 seconds
+Text: So I'm not going to be upset if this doesn't happen in the next year.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:45:51.680
+End: 01:46:06.680
+Duration: 15.000 seconds
+Text: I mean, we've got to, I'm anxious to get the North Campus corridor out of our way because it sucks so much money from our resources as a city.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:46:06.680
+End: 01:46:10.680
+Duration: 4.000 seconds
+Text: We could have had several aquatic centers.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:46:10.680
+End: 01:46:13.680
+Duration: 3.000 seconds
+Text: So it's about us.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:46:13.680
+End: 01:46:24.680
+Duration: 11.000 seconds
+Text: And so I thought after we got through with the Joint Maintenance Facility, I would just say, now let's wait a little bit folks, you know, we've got.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:46:24.680
+End: 01:46:29.680
+Duration: 5.000 seconds
+Text: And I appreciate the covered pool. I know we needed in the community.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:46:29.680
+End: 01:46:37.680
+Duration: 8.000 seconds
+Text: I want it to, I want it to be a shared responsibility.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:46:37.680
+End: 01:46:46.680
+Duration: 9.000 seconds
+Text: So I don't, I want K state, the school district, I even go to the county and ask them for somebody.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:46:46.680
+End: 01:46:53.680
+Duration: 7.000 seconds
+Text: It has to be shared and don't take no first no or the second no for an answer.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:46:53.680
+End: 01:47:02.680
+Duration: 9.000 seconds
+Text: Go to somebody else and try to get some cooperation because this is truly going to be a regional kind of thing.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:47:02.680
+End: 01:47:06.680
+Duration: 4.000 seconds
+Text: And I also don't think we need a Cadillac.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:47:06.680
+End: 01:47:12.680
+Duration: 6.000 seconds
+Text: Maybe Cadillacs aren't that desirable. The Mercedes.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:47:12.680
+End: 01:47:15.680
+Duration: 3.000 seconds
+Text: I think we want something very functional.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:47:15.680
+End: 01:47:22.680
+Duration: 7.000 seconds
+Text: I would not object to covering the city park pool or Seaco.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:47:22.680
+End: 01:47:25.680
+Duration: 3.000 seconds
+Text: I'm sure somebody's going to tell us that can't do that.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:47:25.680
+End: 01:47:35.680
+Duration: 10.000 seconds
+Text: But I know that other communities have built them and they are so proud of them and they are well used.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:47:35.680
+End: 01:47:37.680
+Duration: 2.000 seconds
+Text: And ours will be too.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:47:37.680
+End: 01:47:41.680
+Duration: 4.000 seconds
+Text: So I'm supportive. I want certainly the feasibility study.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:47:41.680
+End: 01:47:48.680
+Duration: 7.000 seconds
+Text: It just depends on the ultimate dollar amount and what the amenities are that are in it.
+--------------------------------------------------
+Commissioner Moors:
+Start: 01:47:48.680
+End: 01:47:55.680
+Duration: 7.000 seconds
+Text: How much they cost. So to be resolved.
+--------------------------------------------------
+City Clerk:
+Start: 01:47:55.680
+End: 01:47:59.680
+Duration: 4.000 seconds
+Text: Mara make a motion.
+--------------------------------------------------
+City Clerk:
+Start: 01:47:59.680
+End: 01:48:03.680
+Duration: 4.000 seconds
+Text: Move that we authorize city administration to finalize.
+--------------------------------------------------
+City Clerk:
+Start: 01:48:03.680
+End: 01:48:14.680
+Duration: 11.000 seconds
+Text: And the mayor and city clerk to execute an agreement for professional engineering services with Anderson Knight architects of Manhattan, Kansas in the amount of 15,000 for an indoor aquatic center.
+--------------------------------------------------
+Mark Abbott:
+Start: 01:48:14.680
+End: 01:48:16.680
+Duration: 2.000 seconds
+Text: I'll second it.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:48:16.680
+End: 01:48:21.680
+Duration: 5.000 seconds
+Text: Okay, we have a motion in a second city clerk. Could you please call the roll.
+--------------------------------------------------
+City Clerk:
+Start: 01:48:21.680
+End: 01:48:23.680
+Duration: 2.000 seconds
+Text: Commissioner Hadisol. Yes.
+--------------------------------------------------
+City Clerk:
+Start: 01:48:23.680
+End: 01:48:26.680
+Duration: 3.000 seconds
+Text: Commissioner Estherbrook. Yes.
+--------------------------------------------------
+City Clerk:
+Start: 01:48:26.680
+End: 01:48:30.680
+Duration: 4.000 seconds
+Text: Commissioner Reddy. Yes. Mayor Butler. Yes.
+--------------------------------------------------
+City Clerk:
+Start: 01:48:30.680
+End: 01:48:33.680
+Duration: 3.000 seconds
+Text: Commissioner Morris. Yes.
+--------------------------------------------------
+City Clerk:
+Start: 01:48:33.680
+End: 01:48:38.680
+Duration: 5.000 seconds
+Text: Motion carries 5 to 0.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:48:38.680
+End: 01:48:45.680
+Duration: 7.000 seconds
+Text: Okay, and that brings us to the conclusion of the agenda so the meeting is adjourned. Thank you for tuning in tonight.
+--------------------------------------------------
+City Clerk:
+Start: 01:49:08.680
+End: 01:49:15.680
+Duration: 7.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:49:38.680
+End: 01:49:45.680
+Duration: 7.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:50:08.680
+End: 01:50:15.680
+Duration: 7.000 seconds
+Text: Thank you.
+--------------------------------------------------

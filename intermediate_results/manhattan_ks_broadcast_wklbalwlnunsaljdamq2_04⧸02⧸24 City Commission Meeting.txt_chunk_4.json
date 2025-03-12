@@ -1,0 +1,25 @@
+{
+  "open_ended_analysis": {
+    "error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+  },
+  "directed_analysis": {
+    "error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 4,
+      "speaking_time": {
+        "Mayor Wynn Butler": 209.35999999999996,
+        "Adrian Tucker, Parking Services Manager": 150.96,
+        "Commissioner Adam Jack": 156.48000000000002,
+        "Commissioner Mc": 189.43999999999997
+      }
+    },
+    "patterns": {
+      "error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+    }
+  },
+  "emergent_patterns": {
+    "error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+  }
+}

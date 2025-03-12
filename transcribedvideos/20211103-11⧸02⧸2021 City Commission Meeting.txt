@@ -1,0 +1,3309 @@
+Transcription and Diarization for 20211103-11⧸02⧸2021 City Commission Meeting.mp4
+==================================================
+
+Commissioner Butler:
+Start: 00:00:00.000
+End: 00:00:07.440
+Duration: 7.440 seconds
+Text: Okay, it is 7 p.m., and it's time to start the City Commission meeting for Tuesday, November
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:07.440
+End: 00:00:12.200
+Duration: 4.760 seconds
+Text: 2nd, 2021, and we will begin with the Pledge of Allegiance.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:12.200
+End: 00:00:13.600
+Duration: 1.400 seconds
+Text: So please stand and join me.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:00:13.600
+End: 00:00:21.640
+Duration: 8.040 seconds
+Text: I pledge allegiance to the flag of the United States of America and to the Republic for
+--------------------------------------------------
+Mayor Butler:
+Start: 00:00:21.640
+End: 00:00:29.000
+Duration: 7.360 seconds
+Text: which it stands, one nation under God, indivisible, with liberty and justice for all.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:29.000
+End: 00:00:38.520
+Duration: 9.520 seconds
+Text: Okay, now this is the first meeting of the month which is always open for public comments
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:38.520
+End: 00:00:43.600
+Duration: 5.080 seconds
+Text: and citizens can sign up in advance or they can just come to the meeting and make a public
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:43.600
+End: 00:00:44.800
+Duration: 1.200 seconds
+Text: comment.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:44.800
+End: 00:00:51.560
+Duration: 6.760 seconds
+Text: We had one individual sign up in advance online to speak, so we'll start with Justin
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:51.560
+End: 00:00:55.200
+Duration: 3.640 seconds
+Text: Yury if you're here.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:55.200
+End: 00:00:57.240
+Duration: 2.040 seconds
+Text: Is Justin present?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:57.240
+End: 00:01:01.960
+Duration: 4.720 seconds
+Text: Okay, not seeing him at this point.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:01.960
+End: 00:01:03.800
+Duration: 1.840 seconds
+Text: Is there anyone else that would like to speak?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:03.800
+End: 00:01:08.720
+Duration: 4.920 seconds
+Text: It would be on any topic that is not currently on the agenda or the consent agenda.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:08.720
+End: 00:01:12.080
+Duration: 3.360 seconds
+Text: Just come forward and state your name and sign in.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:12.080
+End: 00:01:14.080
+Duration: 2.000 seconds
+Text: And you're limited to five minutes.
+--------------------------------------------------
+City Clerk:
+Start: 00:01:14.080
+End: 00:01:21.080
+Duration: 7.000 seconds
+Text: I'll try to make it that fast.
+--------------------------------------------------
+City Clerk:
+Start: 00:01:21.080
+End: 00:01:38.240
+Duration: 17.160 seconds
+Text: Hi, how are you doing tonight?
+--------------------------------------------------
+City Clerk:
+Start: 00:01:38.240
+End: 00:01:40.760
+Duration: 2.520 seconds
+Text: So my name is Richard Smith.
+--------------------------------------------------
+City Clerk:
+Start: 00:01:40.760
+End: 00:01:44.000
+Duration: 3.240 seconds
+Text: I live on Kimbell Avenue.
+--------------------------------------------------
+City Clerk:
+Start: 00:01:44.000
+End: 00:01:50.880
+Duration: 6.880 seconds
+Text: I'm a 23 year retired combat veteran from Fort Riley.
+--------------------------------------------------
+City Clerk:
+Start: 00:01:50.880
+End: 00:01:59.580
+Duration: 8.700 seconds
+Text: In 2011, my wife and I decided to buy our beautiful home here in Manhattan on Kimbell
+--------------------------------------------------
+City Clerk:
+Start: 00:01:59.580
+End: 00:02:00.880
+Duration: 1.300 seconds
+Text: Avenue.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:00.880
+End: 00:02:03.080
+Duration: 2.200 seconds
+Text: Our daughter was going to K-State.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:03.080
+End: 00:02:05.960
+Duration: 2.880 seconds
+Text: She was from Germany and I was born and raised in Canada.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:05.960
+End: 00:02:12.400
+Duration: 6.440 seconds
+Text: That's how we were neither of us were going back to those places and we chose this city
+--------------------------------------------------
+City Clerk:
+Start: 00:02:12.400
+End: 00:02:14.440
+Duration: 2.040 seconds
+Text: as our home.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:14.440
+End: 00:02:22.160
+Duration: 7.720 seconds
+Text: Now when I bought my home, I attested to what every American attested, which is the right
+--------------------------------------------------
+City Clerk:
+Start: 00:02:22.160
+End: 00:02:24.880
+Duration: 2.720 seconds
+Text: to life, liberty and happiness, right?
+--------------------------------------------------
+City Clerk:
+Start: 00:02:24.880
+End: 00:02:34.520
+Duration: 9.640 seconds
+Text: I mean, the one thing that we as Americans try to achieve in our lifetime is to purchase,
+--------------------------------------------------
+City Clerk:
+Start: 00:02:34.520
+End: 00:02:38.880
+Duration: 4.360 seconds
+Text: own and operate our piece of property.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:38.880
+End: 00:02:44.760
+Duration: 5.880 seconds
+Text: It's the only thing that we have truly that we can call ours.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:44.760
+End: 00:02:48.880
+Duration: 4.120 seconds
+Text: And that's for every American, right?
+--------------------------------------------------
+City Clerk:
+Start: 00:02:48.880
+End: 00:02:55.520
+Duration: 6.640 seconds
+Text: So to my surprise, I started noticing this year, my wife passed away last year.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:55.520
+End: 00:03:00.880
+Duration: 5.360 seconds
+Text: And this whole last year has been about me reinventing myself, trying to find new ways
+--------------------------------------------------
+City Clerk:
+Start: 00:03:00.880
+End: 00:03:06.120
+Duration: 5.240 seconds
+Text: to live this new life that I've been thrown into.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:06.120
+End: 00:03:14.360
+Duration: 8.240 seconds
+Text: But in the process of doing that, I've been getting things thrown at me that just are
+--------------------------------------------------
+City Clerk:
+Start: 00:03:14.360
+End: 00:03:18.280
+Duration: 3.920 seconds
+Text: not making any rational sense to me.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:18.280
+End: 00:03:24.960
+Duration: 6.680 seconds
+Text: And I'm hoping you can explain this better than the people at Code Enforcement because
+--------------------------------------------------
+City Clerk:
+Start: 00:03:24.960
+End: 00:03:33.120
+Duration: 8.160 seconds
+Text: even they had to go research to make sure that they were right in what they were saying.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:33.120
+End: 00:03:37.640
+Duration: 4.520 seconds
+Text: And the thing is, this is what I've been throwing at me so far.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:37.640
+End: 00:03:42.080
+Duration: 4.440 seconds
+Text: I've been doing a lot of renovations at my house, nothing that needed permits.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:42.080
+End: 00:03:45.840
+Duration: 3.760 seconds
+Text: It was all cosmetic stuff.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:45.840
+End: 00:03:52.840
+Duration: 7.000 seconds
+Text: In my backyard, I took out an old shed and I was going to put a work shed in my backyard.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:52.840
+End: 00:03:56.560
+Duration: 3.720 seconds
+Text: And I was told that if it's over 200 square feet, I need to permit that.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:56.560
+End: 00:03:59.040
+Duration: 2.480 seconds
+Text: No water, no electricity going to it.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:59.040
+End: 00:04:04.280
+Duration: 5.240 seconds
+Text: Refab sold by these people selling them all around Kansas, right?
+--------------------------------------------------
+City Clerk:
+Start: 00:04:04.280
+End: 00:04:07.720
+Duration: 3.440 seconds
+Text: I need a permit for that.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:07.720
+End: 00:04:15.880
+Duration: 8.160 seconds
+Text: So I went to a smaller shed to accommodate city policies.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:15.880
+End: 00:04:27.120
+Duration: 11.240 seconds
+Text: I put in the background pool in my backyard, 18 by 9 foot, 5 and a half feet deep.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:27.120
+End: 00:04:33.840
+Duration: 6.720 seconds
+Text: And I was told that if I leave that up over the year, I have to permit that in a fenced
+--------------------------------------------------
+City Clerk:
+Start: 00:04:33.840
+End: 00:04:37.960
+Duration: 4.120 seconds
+Text: in yard.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:37.960
+End: 00:04:42.600
+Duration: 4.640 seconds
+Text: Well this is not the America I fought for.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:42.600
+End: 00:04:47.920
+Duration: 5.320 seconds
+Text: So then about a 35 foot travel trailer.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:47.920
+End: 00:04:51.400
+Duration: 3.480 seconds
+Text: My driveway is on Kimball Avenue.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:51.400
+End: 00:04:55.200
+Duration: 3.800 seconds
+Text: And you all know what Kimball Avenue is like.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:55.200
+End: 00:04:57.080
+Duration: 1.880 seconds
+Text: It's a granimal during traffic hour.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:57.080
+End: 00:05:01.560
+Duration: 4.480 seconds
+Text: And it's a granimal outside traffic hour.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:01.560
+End: 00:05:06.080
+Duration: 4.520 seconds
+Text: So the 35 foot trailer, I can't back into my driveway.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:06.080
+End: 00:05:11.920
+Duration: 5.840 seconds
+Text: Because if I do that, then the tongue of the trail is going to hang over the sidewalk.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:11.920
+End: 00:05:15.120
+Duration: 3.200 seconds
+Text: That's a ticket, right?
+--------------------------------------------------
+City Clerk:
+Start: 00:05:15.120
+End: 00:05:20.200
+Duration: 5.080 seconds
+Text: I can't pull it in head on and I know that definitively now because I tried to do that
+--------------------------------------------------
+City Clerk:
+Start: 00:05:20.200
+End: 00:05:24.840
+Duration: 4.640 seconds
+Text: when I came back from my trip last weekend and did about $10,000 worth of damage to my
+--------------------------------------------------
+City Clerk:
+Start: 00:05:24.840
+End: 00:05:34.400
+Duration: 9.560 seconds
+Text: trailer, my house and my truck, trying to accommodate policy set for the council.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:34.400
+End: 00:05:39.040
+Duration: 4.640 seconds
+Text: But when I park my trailer, temporarily, understand the word temporary here.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:39.040
+End: 00:05:46.680
+Duration: 7.640 seconds
+Text: Temporarily, on my grass, in my front yard, running the length of my house so that I can
+--------------------------------------------------
+City Clerk:
+Start: 00:05:46.680
+End: 00:05:51.560
+Duration: 4.880 seconds
+Text: upload or offload from a trip.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:51.560
+End: 00:06:01.960
+Duration: 10.400 seconds
+Text: That's a ticket because I'm parking a trailer on my grass.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:01.960
+End: 00:06:10.160
+Duration: 8.200 seconds
+Text: So it's becoming very apparent to me now in the last, since the summer, basically, that
+--------------------------------------------------
+City Clerk:
+Start: 00:06:10.160
+End: 00:06:15.760
+Duration: 5.600 seconds
+Text: we don't have the rights afforded to us, the ones that I fought for, the ones that this
+--------------------------------------------------
+City Clerk:
+Start: 00:06:15.760
+End: 00:06:22.880
+Duration: 7.120 seconds
+Text: gentleman fought for, to life, liberty, and the pursuit of happiness.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:22.880
+End: 00:06:29.560
+Duration: 6.680 seconds
+Text: We have to abide by a section of people up here who, I'm assuming you guys all have,
+--------------------------------------------------
+City Clerk:
+Start: 00:06:29.560
+End: 00:06:33.240
+Duration: 3.680 seconds
+Text: you know, $500,000 home made bigger, right?
+--------------------------------------------------
+City Clerk:
+Start: 00:06:33.240
+End: 00:06:38.880
+Duration: 5.640 seconds
+Text: With lots of acreage that you can do whatever you want with, maybe you have on street parking,
+--------------------------------------------------
+City Clerk:
+Start: 00:06:38.880
+End: 00:06:40.200
+Duration: 1.320 seconds
+Text: which I don't.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:40.200
+End: 00:06:45.680
+Duration: 5.480 seconds
+Text: Maybe you have alley access, which I don't.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:45.680
+End: 00:06:51.440
+Duration: 5.760 seconds
+Text: Maybe you have an in-ground pool that you paid for and put in your property that your
+--------------------------------------------------
+City Clerk:
+Start: 00:06:51.440
+End: 00:06:54.400
+Duration: 2.960 seconds
+Text: paying taxes on, right?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:06:54.400
+End: 00:06:55.880
+Duration: 1.480 seconds
+Text: Could you please wrap it up, though?
+--------------------------------------------------
+City Clerk:
+Start: 00:06:55.880
+End: 00:06:56.880
+Duration: 1.000 seconds
+Text: Right.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:56.880
+End: 00:06:59.800
+Duration: 2.920 seconds
+Text: So I'm going to need some clarification here.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:59.800
+End: 00:07:04.880
+Duration: 5.080 seconds
+Text: Why is this number one not being enforced throughout the city, to parking?
+--------------------------------------------------
+City Clerk:
+Start: 00:07:04.880
+End: 00:07:06.200
+Duration: 1.320 seconds
+Text: Parking is my primary.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:06.200
+End: 00:07:08.520
+Duration: 2.320 seconds
+Text: Why is it not being enforced throughout the city?
+--------------------------------------------------
+City Clerk:
+Start: 00:07:08.520
+End: 00:07:18.560
+Duration: 10.040 seconds
+Text: My $4,500 a year in taxes are not going to adequately enforce policies that you create
+--------------------------------------------------
+City Clerk:
+Start: 00:07:18.560
+End: 00:07:20.600
+Duration: 2.040 seconds
+Text: than why you creating them.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:07:20.600
+End: 00:07:21.600
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:07:21.600
+End: 00:07:25.400
+Duration: 3.800 seconds
+Text: What we have to do is we don't have, you know, dialogue with the public speakers, but
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:07:25.400
+End: 00:07:29.000
+Duration: 3.600 seconds
+Text: well, this is part of the Manhattan Developmental Code that you're talking about.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:29.000
+End: 00:07:33.280
+Duration: 4.280 seconds
+Text: Even the people who are set to tell you what kind of buildings you can put up, where
+--------------------------------------------------
+City Clerk:
+Start: 00:07:33.280
+End: 00:07:34.920
+Duration: 1.640 seconds
+Text: you can put them up, how water.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:07:34.920
+End: 00:07:38.880
+Duration: 3.960 seconds
+Text: You've taken a note of that and what will happen is we'll have to do some further research
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:07:38.880
+End: 00:07:40.480
+Duration: 1.600 seconds
+Text: and the staff will get back with you.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:40.480
+End: 00:07:43.120
+Duration: 2.640 seconds
+Text: Well, I can tell you this is my perspective, sir.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:43.120
+End: 00:07:48.880
+Duration: 5.760 seconds
+Text: I was very busy over the coming months, ensuring that code enforcement is following all the
+--------------------------------------------------
+City Clerk:
+Start: 00:07:48.880
+End: 00:07:51.160
+Duration: 2.280 seconds
+Text: policies that you have set forward.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:51.160
+End: 00:07:53.720
+Duration: 2.560 seconds
+Text: That's a volunteer job for me now.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:53.720
+End: 00:07:56.880
+Duration: 3.160 seconds
+Text: And I can assure you you'll be here for me a lot.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:07:56.880
+End: 00:07:57.880
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:07:57.880
+End: 00:07:58.880
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:07:58.880
+End: 00:08:01.000
+Duration: 2.120 seconds
+Text: Is there anyone else that would like to speak tonight?
+--------------------------------------------------
+Mayor Butler:
+Start: 00:08:01.000
+End: 00:08:06.480
+Duration: 5.480 seconds
+Text: I'd like to make sure that you know that right now we're under one set of codes.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:08:06.480
+End: 00:08:09.760
+Duration: 3.280 seconds
+Text: And in the near future, we're going to be adopting new codes.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:08:09.760
+End: 00:08:12.320
+Duration: 2.560 seconds
+Text: So there's a thing you can take that code.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:08:12.320
+End: 00:08:18.840
+Duration: 6.520 seconds
+Text: So I just want you to do the research on the future code.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:08:18.840
+End: 00:08:22.320
+Duration: 3.480 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:08:22.320
+End: 00:08:27.520
+Duration: 5.200 seconds
+Text: I think if you can state your name and address for me.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:08:27.520
+End: 00:08:29.120
+Duration: 1.600 seconds
+Text: My name is Justin Yeary.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:08:29.120
+End: 00:08:34.840
+Duration: 5.720 seconds
+Text: I live on 701 9th Street Unit 7 over off of Blumont, Nagiville.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:08:34.840
+End: 00:08:41.160
+Duration: 6.320 seconds
+Text: 31 years old, parent of two children to go to Blumont as well as a seven-year army veteran
+--------------------------------------------------
+Justin Yeary:
+Start: 00:08:41.160
+End: 00:08:44.000
+Duration: 2.840 seconds
+Text: myself and as well as a student at K-State.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:08:44.000
+End: 00:08:47.200
+Duration: 3.200 seconds
+Text: So I'm coming at for you from today.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:08:47.200
+End: 00:08:52.000
+Duration: 4.800 seconds
+Text: The first, there's basically two things I want to come and address to the council today.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:08:52.000
+End: 00:08:57.880
+Duration: 5.880 seconds
+Text: The first one is to air some grievances that I noticed about the proposed extension of
+--------------------------------------------------
+Justin Yeary:
+Start: 00:08:57.880
+End: 00:09:01.240
+Duration: 3.360 seconds
+Text: the sales tax, which we all voted on the ballot today.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:09:01.240
+End: 00:09:04.840
+Duration: 3.600 seconds
+Text: And second of all, I'd like to keep the commentary productive instead of just complaining.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:09:04.840
+End: 00:09:09.200
+Duration: 4.360 seconds
+Text: So because I have an issue at this, I wanted to propose some alternative revenue sources
+--------------------------------------------------
+Justin Yeary:
+Start: 00:09:09.200
+End: 00:09:15.880
+Duration: 6.680 seconds
+Text: for the council to consider when they are looking for future revenues for government projects.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:09:15.880
+End: 00:09:18.080
+Duration: 2.200 seconds
+Text: So my main concern regarding the sales tax.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:18.080
+End: 00:09:22.120
+Duration: 4.040 seconds
+Text: I normally don't interrupt, but you're referring to the county tax.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:22.120
+End: 00:09:25.160
+Duration: 3.040 seconds
+Text: This city commission has no control over that.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:26.120
+End: 00:09:30.600
+Duration: 4.480 seconds
+Text: So you probably want to make an appointment to address the county commission?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:30.600
+End: 00:09:34.560
+Duration: 3.960 seconds
+Text: If that tax passes, that's strictly a county thing.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:34.560
+End: 00:09:35.560
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:35.560
+End: 00:09:36.600
+Duration: 1.040 seconds
+Text: You have absolutely no control over that.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:09:36.600
+End: 00:09:40.680
+Duration: 4.080 seconds
+Text: I still would like to then, I can see over the first part, I'd like to bring up some
+--------------------------------------------------
+Justin Yeary:
+Start: 00:09:40.680
+End: 00:09:44.240
+Duration: 3.560 seconds
+Text: alternative revenue proposals then.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:09:44.240
+End: 00:09:49.520
+Duration: 5.280 seconds
+Text: So first alternative revenue proposal I'd like to recommend is a reallocating dollars
+--------------------------------------------------
+Justin Yeary:
+Start: 00:09:49.520
+End: 00:09:51.160
+Duration: 1.640 seconds
+Text: that are already being spent.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:09:51.160
+End: 00:09:56.560
+Duration: 5.400 seconds
+Text: I think that's something that the city commission can get behind because you're not raising
+--------------------------------------------------
+Justin Yeary:
+Start: 00:09:56.560
+End: 00:09:59.280
+Duration: 2.720 seconds
+Text: any taxes on taxpayers, you're just shifting around the money.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:09:59.280
+End: 00:10:00.640
+Duration: 1.360 seconds
+Text: It's already there.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:10:00.640
+End: 00:10:05.160
+Duration: 4.520 seconds
+Text: So naturally that raised question, what's the money I'm talking about?
+--------------------------------------------------
+Justin Yeary:
+Start: 00:10:05.160
+End: 00:10:10.680
+Duration: 5.520 seconds
+Text: I would like the city commission to look into the Riley County Police Department budget.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:10:10.680
+End: 00:10:13.680
+Duration: 3.000 seconds
+Text: Because I was looking over that budget line by line, right?
+--------------------------------------------------
+Justin Yeary:
+Start: 00:10:13.680
+End: 00:10:17.320
+Duration: 3.640 seconds
+Text: And there are some expenses on there that really stood out to me.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:10:17.320
+End: 00:10:23.200
+Duration: 5.880 seconds
+Text: This one is $200,000 spent on the, that's the actual expenditure on firearms and ammunition.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:10:23.200
+End: 00:10:28.360
+Duration: 5.160 seconds
+Text: I thought we had a police department, not a standing army in Riley County.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:10:28.360
+End: 00:10:33.920
+Duration: 5.560 seconds
+Text: And then I also noticed there was a $300,000 expense for vehicles.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:10:33.920
+End: 00:10:37.240
+Duration: 3.320 seconds
+Text: That's not putting maintenance because maintenance is a separate line item.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:10:37.240
+End: 00:10:40.160
+Duration: 2.920 seconds
+Text: But I'm like, what kind of vehicles are they buying an M-Rap?
+--------------------------------------------------
+Justin Yeary:
+Start: 00:10:40.160
+End: 00:10:45.600
+Duration: 5.440 seconds
+Text: When I was in the army, you know, it wasn't, now I've been deployed to Iraq.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:10:45.600
+End: 00:10:47.400
+Duration: 1.800 seconds
+Text: And hadn't is not Iraq.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:10:47.400
+End: 00:10:52.240
+Duration: 4.840 seconds
+Text: There is no reason to be arming our police department as if they are a standing army.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:10:52.240
+End: 00:10:58.760
+Duration: 6.520 seconds
+Text: So if we could, that's $500,000 right there, you could do a lot of that with the community.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:10:58.760
+End: 00:11:03.360
+Duration: 4.600 seconds
+Text: And then as far as actually raising revenue rather than shifting around money that's already
+--------------------------------------------------
+Justin Yeary:
+Start: 00:11:03.360
+End: 00:11:06.240
+Duration: 2.880 seconds
+Text: being spent.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:11:06.240
+End: 00:11:12.120
+Duration: 5.880 seconds
+Text: So I have some ideas for a progressive kinds of taxation that the council should consider.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:11:12.120
+End: 00:11:16.360
+Duration: 4.240 seconds
+Text: Because, you know, I was saying with the sales tax, I think it's unfair to lower income
+--------------------------------------------------
+Justin Yeary:
+Start: 00:11:16.360
+End: 00:11:17.560
+Duration: 1.200 seconds
+Text: people.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:11:17.560
+End: 00:11:23.040
+Duration: 5.480 seconds
+Text: So, because it's like disproportionate to how much money they're making is how much they
+--------------------------------------------------
+Justin Yeary:
+Start: 00:11:23.040
+End: 00:11:25.080
+Duration: 2.040 seconds
+Text: spend on a sales tax.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:11:25.080
+End: 00:11:31.040
+Duration: 5.960 seconds
+Text: So my first proposal would be, there's a lot of nice single family homes in the city.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:11:31.040
+End: 00:11:35.680
+Duration: 4.640 seconds
+Text: And I mean, I don't want to like take away homes from like regular people or whatever.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:11:35.680
+End: 00:11:40.480
+Duration: 4.800 seconds
+Text: But if you got like a home, say like $500,000, say like one of those homes by the country
+--------------------------------------------------
+Justin Yeary:
+Start: 00:11:40.480
+End: 00:11:41.920
+Duration: 1.440 seconds
+Text: club, I would find the hill.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:11:41.920
+End: 00:11:44.600
+Duration: 2.680 seconds
+Text: Probably afford to pay a little bit more taxes.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:11:44.600
+End: 00:11:47.800
+Duration: 3.200 seconds
+Text: That's my first proposal.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:11:47.800
+End: 00:11:52.040
+Duration: 4.240 seconds
+Text: And by the way, I noticed that $0.55 of every property tax dollar goes to the Riley County
+--------------------------------------------------
+Justin Yeary:
+Start: 00:11:52.040
+End: 00:11:56.120
+Duration: 4.080 seconds
+Text: Police Department, just, you know, to make that public record.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:11:56.120
+End: 00:11:59.200
+Duration: 3.080 seconds
+Text: And then second of all, you know, city income tax, right?
+--------------------------------------------------
+Justin Yeary:
+Start: 00:11:59.200
+End: 00:12:02.840
+Duration: 3.640 seconds
+Text: Anyone making more than six figures, pay a little income tax because you're benefiting
+--------------------------------------------------
+Justin Yeary:
+Start: 00:12:02.840
+End: 00:12:04.840
+Duration: 2.000 seconds
+Text: from living in the community.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:12:04.840
+End: 00:12:09.960
+Duration: 5.120 seconds
+Text: And I think those are all just general things, forms of taxation that would be a lot more
+--------------------------------------------------
+Justin Yeary:
+Start: 00:12:09.960
+End: 00:12:18.400
+Duration: 8.440 seconds
+Text: fair to the most vulnerable, needy, and least able to afford paying taxes in our community.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:12:18.400
+End: 00:12:22.680
+Duration: 4.280 seconds
+Text: So in closing, I like to, you know, I believe I identify a problem.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:12:22.680
+End: 00:12:24.760
+Duration: 2.080 seconds
+Text: I should bring forth a solution with it.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:12:24.760
+End: 00:12:28.640
+Duration: 3.880 seconds
+Text: I hope that I brought forth some solutions to the problems that I've identified.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:12:28.640
+End: 00:12:31.320
+Duration: 2.680 seconds
+Text: Thank you for your time and consideration.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:12:31.320
+End: 00:12:34.320
+Duration: 3.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:12:34.320
+End: 00:12:39.440
+Duration: 5.120 seconds
+Text: Is there anyone else that would like to make open public comment this evening?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:12:39.440
+End: 00:12:43.360
+Duration: 3.920 seconds
+Text: So just come up to the microphone and state your name and address.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:12:43.360
+End: 00:12:45.360
+Duration: 2.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:12:45.360
+End: 00:12:49.680
+Duration: 4.320 seconds
+Text: Seeing none, we'll close public comment and go to Commissioner comments.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:12:49.680
+End: 00:12:52.360
+Duration: 2.680 seconds
+Text: I can start with Commissioner Reddy.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:12:52.360
+End: 00:12:53.360
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:12:53.360
+End: 00:12:54.360
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:12:54.360
+End: 00:12:57.520
+Duration: 3.160 seconds
+Text: Nothing major really except you'll probably talk about it.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:12:57.520
+End: 00:12:59.400
+Duration: 1.880 seconds
+Text: We're not going to have a meeting next week on Tuesday.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:12:59.400
+End: 00:13:06.200
+Duration: 6.800 seconds
+Text: But I want to say we have the Veterans Day Parade and Manhattan, typically is one of the
+--------------------------------------------------
+Mayor Butler:
+Start: 00:13:06.200
+End: 00:13:10.560
+Duration: 4.360 seconds
+Text: few communities that has the largest Veterans Day Parade and hopefully you'll be able to
+--------------------------------------------------
+Mayor Butler:
+Start: 00:13:10.560
+End: 00:13:12.680
+Duration: 2.120 seconds
+Text: participate at some level.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:13:12.680
+End: 00:13:17.000
+Duration: 4.320 seconds
+Text: They have several different activities going on with the breakfast as well as the parade
+--------------------------------------------------
+Mayor Butler:
+Start: 00:13:17.000
+End: 00:13:24.280
+Duration: 7.280 seconds
+Text: itself and other ways to recognize all the good things that we have, like I was mentioned
+--------------------------------------------------
+Mayor Butler:
+Start: 00:13:24.280
+End: 00:13:25.280
+Duration: 1.000 seconds
+Text: before.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:13:25.280
+End: 00:13:29.720
+Duration: 4.440 seconds
+Text: So if you can't participate, watch and usually we have students participating in the Veterans
+--------------------------------------------------
+Mayor Butler:
+Start: 00:13:29.720
+End: 00:13:31.080
+Duration: 1.360 seconds
+Text: Day Parade as well.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:13:31.080
+End: 00:13:32.600
+Duration: 1.520 seconds
+Text: So that's all I have to say.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:13:32.600
+End: 00:13:33.600
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:13:33.600
+End: 00:13:42.400
+Duration: 8.800 seconds
+Text: I don't have anything to report other than there's been a few more arrivals from Afghan
+--------------------------------------------------
+Mayor Butler:
+Start: 00:13:42.400
+End: 00:13:55.480
+Duration: 13.080 seconds
+Text: resettlement and everything else is going forward.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:13:55.480
+End: 00:14:04.720
+Duration: 9.240 seconds
+Text: I just know that the city crews are starting to get ready for the holiday season.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:14:04.720
+End: 00:14:09.960
+Duration: 5.240 seconds
+Text: They're working on the lights in the Blue Earth Plaza area and when reported earlier in
+--------------------------------------------------
+Mayor Butler:
+Start: 00:14:09.960
+End: 00:14:11.520
+Duration: 1.560 seconds
+Text: the downtown area.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:14:11.520
+End: 00:14:12.760
+Duration: 1.240 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:14:12.760
+End: 00:14:23.560
+Duration: 10.800 seconds
+Text: And so the preparations take a while and it'll be another interesting year for our downtown
+--------------------------------------------------
+Mayor Butler:
+Start: 00:14:23.560
+End: 00:14:26.160
+Duration: 2.600 seconds
+Text: and Daggyville commercial areas.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:14:26.160
+End: 00:14:37.040
+Duration: 10.880 seconds
+Text: I'd also like to say that the city has received some, I think, CDBG money for income limited
+--------------------------------------------------
+Mayor Butler:
+Start: 00:14:37.040
+End: 00:14:44.000
+Duration: 6.960 seconds
+Text: people to repair or fix their homes.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:14:44.000
+End: 00:14:48.040
+Duration: 4.040 seconds
+Text: Maybe it's a furnace, maybe it's a roof, maybe.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:14:48.040
+End: 00:14:56.120
+Duration: 8.080 seconds
+Text: So if you meet the income limits and they aren't that high, they're not, a lot of people
+--------------------------------------------------
+Mayor Butler:
+Start: 00:14:56.120
+End: 00:14:57.880
+Duration: 1.760 seconds
+Text: could meet them.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:14:57.880
+End: 00:14:59.920
+Duration: 2.040 seconds
+Text: Check out the city's website.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:14:59.920
+End: 00:15:02.920
+Duration: 3.000 seconds
+Text: I think it's under community development probably.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:15:02.920
+End: 00:15:06.720
+Duration: 3.800 seconds
+Text: And consider making an application.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:15:06.720
+End: 00:15:13.680
+Duration: 6.960 seconds
+Text: Give it a shot and see what happens because we want, especially the lower and I want
+--------------------------------------------------
+Mayor Butler:
+Start: 00:15:13.680
+End: 00:15:21.440
+Duration: 7.760 seconds
+Text: to appeal to lower income people to use that money because if we wait till the end,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:15:21.440
+End: 00:15:26.520
+Duration: 5.080 seconds
+Text: then it's not always targeted to that lower, the lower income people.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:15:26.520
+End: 00:15:28.320
+Duration: 1.800 seconds
+Text: We try to use it up somehow.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:15:28.320
+End: 00:15:30.480
+Duration: 2.160 seconds
+Text: So do that.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:15:30.480
+End: 00:15:33.080
+Duration: 2.600 seconds
+Text: It's a way to help.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:15:33.080
+End: 00:15:37.040
+Duration: 3.960 seconds
+Text: Mobile home courts are, mobile homes are even eligible.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:15:37.040
+End: 00:15:39.440
+Duration: 2.400 seconds
+Text: So just think about it.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:15:39.440
+End: 00:15:42.960
+Duration: 3.520 seconds
+Text: Sometimes it takes a little while to think something through and make a decision to do
+--------------------------------------------------
+Mayor Butler:
+Start: 00:15:42.960
+End: 00:15:43.960
+Duration: 1.000 seconds
+Text: it.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:15:43.960
+End: 00:15:44.960
+Duration: 1.000 seconds
+Text: So jump in.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:44.960
+End: 00:15:45.960
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:15:45.960
+End: 00:15:47.960
+Duration: 2.000 seconds
+Text: I just take the Veterans Day Parade.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:15:47.960
+End: 00:15:48.960
+Duration: 1.000 seconds
+Text: It'll be at 9.30.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:15:48.960
+End: 00:15:50.720
+Duration: 1.760 seconds
+Text: It'll be a big event.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:15:50.720
+End: 00:15:55.080
+Duration: 4.360 seconds
+Text: We have a good time every year and I think this year the theme is they're honoring Desert
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:15:55.080
+End: 00:15:56.080
+Duration: 1.000 seconds
+Text: Storm veterans.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:15:56.080
+End: 00:15:58.440
+Duration: 2.360 seconds
+Text: It's been 30 years since Desert Storm.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:15:58.440
+End: 00:16:00.280
+Duration: 1.840 seconds
+Text: So that's their theme this time.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:16:00.280
+End: 00:16:02.600
+Duration: 2.320 seconds
+Text: There'll be some events in City Park.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:16:02.600
+End: 00:16:06.000
+Duration: 3.400 seconds
+Text: So let's move on now to the consent agenda.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:16:06.000
+End: 00:16:10.120
+Duration: 4.120 seconds
+Text: Items on the consent agenda are those of a routine and housekeeping nature or those items
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:16:10.120
+End: 00:16:14.320
+Duration: 4.200 seconds
+Text: which have previously been reviewed by the City Commission.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:16:14.320
+End: 00:16:18.000
+Duration: 3.680 seconds
+Text: The Commissioner may request and I may move to the end of the general agenda.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:16:18.000
+End: 00:16:22.800
+Duration: 4.800 seconds
+Text: Does the commission have any questions or comments on any of the consent agenda items?
+--------------------------------------------------
+Mayor Butler:
+Start: 00:16:22.800
+End: 00:16:23.800
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:16:23.800
+End: 00:16:31.440
+Duration: 7.640 seconds
+Text: I will be using myself on the appointment for the Housing Authority, which is item
+--------------------------------------------------
+Mayor Butler:
+Start: 00:16:31.440
+End: 00:16:37.200
+Duration: 5.760 seconds
+Text: FD and that is because of my employment with the Housing Authority.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:16:37.200
+End: 00:16:39.920
+Duration: 2.720 seconds
+Text: I'd just like to.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:16:39.920
+End: 00:16:46.120
+Duration: 6.200 seconds
+Text: I'd like to make a point that on item D, which is the business improvement services fees
+--------------------------------------------------
+Mayor Butler:
+Start: 00:16:46.120
+End: 00:16:51.320
+Duration: 5.200 seconds
+Text: for Aguivill and downtown, the rates are not going up, right?
+--------------------------------------------------
+Mayor Butler:
+Start: 00:16:51.320
+End: 00:16:56.360
+Duration: 5.040 seconds
+Text: We're just we are obligated to publish it and consider it every year.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:16:56.360
+End: 00:17:03.160
+Duration: 6.800 seconds
+Text: So that's important that the businesses and the community know that.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:17:03.160
+End: 00:17:09.840
+Duration: 6.680 seconds
+Text: And I'm excited about the Butterfield project and Browning having the water line there.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:17:09.840
+End: 00:17:16.720
+Duration: 6.880 seconds
+Text: Those and in the Butterfield area, it will even involve the streets because those water
+--------------------------------------------------
+Mayor Butler:
+Start: 00:17:16.720
+End: 00:17:19.280
+Duration: 2.560 seconds
+Text: lines are under the streets.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:17:19.280
+End: 00:17:24.040
+Duration: 4.760 seconds
+Text: And if you know that particular area, it has been needed for a number of years.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:17:24.040
+End: 00:17:30.120
+Duration: 6.080 seconds
+Text: So I'm excited to see that finally coming to that Northview area.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:17:30.120
+End: 00:17:31.120
+Duration: 1.000 seconds
+Text: With that.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:17:31.120
+End: 00:17:32.120
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:17:32.120
+End: 00:17:35.920
+Duration: 3.800 seconds
+Text: Seeing no other Commissioner comments, is there anyone in the public that would like to
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:17:35.920
+End: 00:17:40.120
+Duration: 4.200 seconds
+Text: make a comment on any of the consent agenda items?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:17:40.120
+End: 00:17:47.000
+Duration: 6.880 seconds
+Text: Seeing none, we'll close comments on the consent agenda and we can entertain a motion.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:17:47.000
+End: 00:17:52.120
+Duration: 5.120 seconds
+Text: Mayor, I would move that we adopt the consent agenda as it was distributed.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:17:52.120
+End: 00:17:53.120
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:17:53.120
+End: 00:17:56.400
+Duration: 3.280 seconds
+Text: With do I have to say no, he'll do that.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:17:56.400
+End: 00:17:57.400
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:17:57.400
+End: 00:17:58.400
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:17:58.400
+End: 00:18:00.000
+Duration: 1.600 seconds
+Text: So we have a motion and a second.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:18:00.000
+End: 00:18:02.000
+Duration: 2.000 seconds
+Text: City clerk, could you please call the roll?
+--------------------------------------------------
+City Clerk:
+Start: 00:18:02.000
+End: 00:18:03.000
+Duration: 1.000 seconds
+Text: Mayor Butler.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:18:03.000
+End: 00:18:04.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:04.240
+End: 00:18:05.240
+Duration: 1.000 seconds
+Text: Commissioner Morse.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:18:05.240
+End: 00:18:06.240
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:06.240
+End: 00:18:07.240
+Duration: 1.000 seconds
+Text: Commissioner Hassel.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:07.240
+End: 00:18:08.240
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:08.240
+End: 00:18:09.560
+Duration: 1.320 seconds
+Text: Commissioner Estabra.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:18:09.560
+End: 00:18:15.320
+Duration: 5.760 seconds
+Text: Yes, except recuse myself on that item that addresses the housing authority.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:18:15.320
+End: 00:18:16.640
+Duration: 1.320 seconds
+Text: Commissioner Ready.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:18:16.640
+End: 00:18:17.800
+Duration: 1.160 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:17.800
+End: 00:18:25.640
+Duration: 7.840 seconds
+Text: Motion carries five to zero with the exception of item F1D, which carries four to zero to one.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:18:25.640
+End: 00:18:26.640
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:18:26.640
+End: 00:18:28.680
+Duration: 2.040 seconds
+Text: Then we'll move on to the general agenda.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:18:28.680
+End: 00:18:35.040
+Duration: 6.360 seconds
+Text: We just have one item on the agenda tonight and that's presentation of the 2020 City audit
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:18:35.040
+End: 00:18:47.320
+Duration: 12.280 seconds
+Text: and Reena Neal, the Director of Finance, is going to take it from there.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:47.320
+End: 00:18:49.120
+Duration: 1.800 seconds
+Text: Good evening, Mayor and Commissioners.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:49.120
+End: 00:18:55.560
+Duration: 6.440 seconds
+Text: Tonight, I will present the results of the 2020 City audit.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:55.560
+End: 00:19:00.600
+Duration: 5.040 seconds
+Text: For the past two years, the Finance Department has worked closely with AGH, Allen Gibbs and
+--------------------------------------------------
+City Clerk:
+Start: 00:19:00.600
+End: 00:19:05.560
+Duration: 4.960 seconds
+Text: who look at them, which are tall Kansas, to ensure we are prepared for audits.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:05.560
+End: 00:19:07.560
+Duration: 2.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:07.560
+End: 00:19:21.080
+Duration: 13.520 seconds
+Text: The 2020 audit is the first year of a five year agreement with our auditors, VT and co-certified
+--------------------------------------------------
+City Clerk:
+Start: 00:19:21.080
+End: 00:19:22.080
+Duration: 1.000 seconds
+Text: public accountants.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:22.080
+End: 00:19:25.520
+Duration: 3.440 seconds
+Text: We have on the call with us Emily Sheldon, the manager.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:25.520
+End: 00:19:28.980
+Duration: 3.460 seconds
+Text: I would like to thank the City, the manager's office and the members of the municipal audit
+--------------------------------------------------
+City Clerk:
+Start: 00:19:28.980
+End: 00:19:31.360
+Duration: 2.380 seconds
+Text: committee for their support and leadership.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:31.360
+End: 00:19:35.600
+Duration: 4.240 seconds
+Text: I would also like to thank the finance staff and the other city staff for their contributions
+--------------------------------------------------
+City Clerk:
+Start: 00:19:35.600
+End: 00:19:39.840
+Duration: 4.240 seconds
+Text: in compiling the information needed to complete the audit and financial report.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:39.840
+End: 00:19:44.920
+Duration: 5.080 seconds
+Text: A special thank you to AGH for their guidance and support and VT and co-for their professionalism,
+--------------------------------------------------
+City Clerk:
+Start: 00:19:44.920
+End: 00:19:49.040
+Duration: 4.120 seconds
+Text: patience and constant communication throughout the process.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:49.040
+End: 00:19:54.720
+Duration: 5.680 seconds
+Text: In your packet, we are four documents for your review, the independent auditors report,
+--------------------------------------------------
+City Clerk:
+Start: 00:19:54.720
+End: 00:19:59.600
+Duration: 4.880 seconds
+Text: a report to the city commission, the passenger facility charge report regarding the airport
+--------------------------------------------------
+City Clerk:
+Start: 00:19:59.600
+End: 00:20:04.480
+Duration: 4.880 seconds
+Text: fees and then our annual comprehensive financial report.
+--------------------------------------------------
+City Clerk:
+Start: 00:20:04.480
+End: 00:20:09.580
+Duration: 5.100 seconds
+Text: The actual document, the financial report is posted on the city's website, it's over
+--------------------------------------------------
+City Clerk:
+Start: 00:20:09.580
+End: 00:20:15.360
+Duration: 5.780 seconds
+Text: 160 pages, so that was not included in your packet.
+--------------------------------------------------
+City Clerk:
+Start: 00:20:15.360
+End: 00:20:18.800
+Duration: 3.440 seconds
+Text: I am pleased to announce the results of the 2020 city audit.
+--------------------------------------------------
+City Clerk:
+Start: 00:20:18.800
+End: 00:20:22.960
+Duration: 4.160 seconds
+Text: The financial statements were presented fairly in all material respects and according to
+--------------------------------------------------
+City Clerk:
+Start: 00:20:22.960
+End: 00:20:27.920
+Duration: 4.960 seconds
+Text: the generally accepted accounting principles, the city received an unmodified opinion, which
+--------------------------------------------------
+City Clerk:
+Start: 00:20:27.920
+End: 00:20:32.240
+Duration: 4.320 seconds
+Text: is the highest audit opinion, and the city eliminated the prior significant efficiency
+--------------------------------------------------
+City Clerk:
+Start: 00:20:32.240
+End: 00:20:33.720
+Duration: 1.480 seconds
+Text: related to payroll.
+--------------------------------------------------
+City Clerk:
+Start: 00:20:33.720
+End: 00:20:41.080
+Duration: 7.360 seconds
+Text: The city had no internal control deficiencies.
+--------------------------------------------------
+City Clerk:
+Start: 00:20:41.080
+End: 00:20:46.000
+Duration: 4.920 seconds
+Text: While the entire financial report is of importance, there are three sections I just want you to
+--------------------------------------------------
+City Clerk:
+Start: 00:20:46.000
+End: 00:20:51.520
+Duration: 5.520 seconds
+Text: make note of and review from time to time is the financial section that notes to the
+--------------------------------------------------
+City Clerk:
+Start: 00:20:51.520
+End: 00:20:56.960
+Duration: 5.440 seconds
+Text: financial statements, which the financial section includes all of those financial statements
+--------------------------------------------------
+City Clerk:
+Start: 00:20:56.960
+End: 00:20:59.080
+Duration: 2.120 seconds
+Text: and then our single audit section.
+--------------------------------------------------
+City Clerk:
+Start: 00:20:59.080
+End: 00:21:06.040
+Duration: 6.960 seconds
+Text: These documents are used by a lot of external parties to review and evaluate the city's
+--------------------------------------------------
+City Clerk:
+Start: 00:21:06.040
+End: 00:21:08.320
+Duration: 2.280 seconds
+Text: finances.
+--------------------------------------------------
+City Clerk:
+Start: 00:21:08.320
+End: 00:21:15.200
+Duration: 6.880 seconds
+Text: I would like to highlight the single audit section, which is related to our federal awards.
+--------------------------------------------------
+City Clerk:
+Start: 00:21:15.200
+End: 00:21:20.680
+Duration: 5.480 seconds
+Text: We received no material weaknesses identified related to the federal grants that the city
+--------------------------------------------------
+City Clerk:
+Start: 00:21:20.680
+End: 00:21:21.680
+Duration: 1.000 seconds
+Text: receives.
+--------------------------------------------------
+City Clerk:
+Start: 00:21:21.680
+End: 00:21:29.280
+Duration: 7.600 seconds
+Text: In 2020, the city had $6.8 million in federal expenditures related to those agencies and
+--------------------------------------------------
+City Clerk:
+Start: 00:21:29.280
+End: 00:21:37.320
+Duration: 8.040 seconds
+Text: the majority of the money came from COVID-19 Coronavirus relief fund, $4.2 million worth.
+--------------------------------------------------
+City Clerk:
+Start: 00:21:37.320
+End: 00:21:46.320
+Duration: 9.000 seconds
+Text: This slide is just providing you with information regarding how we're going to prepare for our
+--------------------------------------------------
+City Clerk:
+Start: 00:21:46.320
+End: 00:21:48.120
+Duration: 1.800 seconds
+Text: 2021 audit.
+--------------------------------------------------
+City Clerk:
+Start: 00:21:48.120
+End: 00:21:51.960
+Duration: 3.840 seconds
+Text: We'll be meeting with departments in November and December to discuss the grants that
+--------------------------------------------------
+City Clerk:
+Start: 00:21:51.960
+End: 00:21:55.720
+Duration: 3.760 seconds
+Text: they received in 2021 to prepare for that single audit.
+--------------------------------------------------
+City Clerk:
+Start: 00:21:55.720
+End: 00:22:00.080
+Duration: 4.360 seconds
+Text: And then we will also collect information from all of the departments regarding GASB 87,
+--------------------------------------------------
+City Clerk:
+Start: 00:22:00.080
+End: 00:22:02.760
+Duration: 2.680 seconds
+Text: which is a new lease obligation pronouncement.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:02.760
+End: 00:22:10.360
+Duration: 7.600 seconds
+Text: So we have a lot of leases throughout the city, vehicles and equipment as well as our airport
+--------------------------------------------------
+City Clerk:
+Start: 00:22:10.360
+End: 00:22:12.120
+Duration: 1.760 seconds
+Text: hangers and towers and things like that.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:12.120
+End: 00:22:17.920
+Duration: 5.800 seconds
+Text: So we'll have to collect all that information and then work with our auditors and our financial
+--------------------------------------------------
+City Clerk:
+Start: 00:22:17.920
+End: 00:22:23.000
+Duration: 5.080 seconds
+Text: consultants with AGH to determine how we're going to present that in the financial statements.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:23.000
+End: 00:22:30.160
+Duration: 7.160 seconds
+Text: We'll have a meeting with our AGH contact in BT and Co on Friday to just set timeline and
+--------------------------------------------------
+City Clerk:
+Start: 00:22:30.160
+End: 00:22:32.360
+Duration: 2.200 seconds
+Text: expectations for next year.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:32.360
+End: 00:22:38.360
+Duration: 6.000 seconds
+Text: We have started to have our weekly meetings with AGH to discuss our audit plan and then the
+--------------------------------------------------
+City Clerk:
+Start: 00:22:38.360
+End: 00:22:42.040
+Duration: 3.680 seconds
+Text: municipal audit committee has planned two meetings prior to the audit next year.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:42.040
+End: 00:22:47.640
+Duration: 5.600 seconds
+Text: The first will be in January and the next one will be in April.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:47.640
+End: 00:22:50.440
+Duration: 2.800 seconds
+Text: Dr. Higgins, he is the chair of the municipal audit committee.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:50.440
+End: 00:22:55.160
+Duration: 4.720 seconds
+Text: He is here to provide remarks and an update from the municipal audit committee.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:55.160
+End: 00:22:59.960
+Duration: 4.800 seconds
+Text: And as I mentioned earlier, we also have Emily Sheldon on the call in case you have questions
+--------------------------------------------------
+City Clerk:
+Start: 00:22:59.960
+End: 00:23:00.960
+Duration: 1.000 seconds
+Text: for her.
+--------------------------------------------------
+City Clerk:
+Start: 00:23:00.960
+End: 00:23:05.960
+Duration: 5.000 seconds
+Text: A special thank you again to our members of the municipal audit committee, Jane Blengood,
+--------------------------------------------------
+City Clerk:
+Start: 00:23:05.960
+End: 00:23:09.960
+Duration: 4.000 seconds
+Text: Commissioner Mark Hadasal and Rich Jankovitch for their support.
+--------------------------------------------------
+City Clerk:
+Start: 00:23:09.960
+End: 00:23:10.960
+Duration: 1.000 seconds
+Text: Dr. Higgins.
+--------------------------------------------------
+City Clerk:
+Start: 00:23:10.960
+End: 00:23:13.960
+Duration: 3.000 seconds
+Text: Okay, thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:23:13.960
+End: 00:23:17.960
+Duration: 4.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:23:17.960
+End: 00:23:24.960
+Duration: 7.000 seconds
+Text: Thank you, Rina.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:23:24.960
+End: 00:23:31.160
+Duration: 6.200 seconds
+Text: And thank you, commissioners, for having us here again as members of the audit committee.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:23:31.160
+End: 00:23:39.000
+Duration: 7.840 seconds
+Text: Just as a little history, the audit committee started back in 2011 to review the results
+--------------------------------------------------
+Justin Yeary:
+Start: 00:23:39.000
+End: 00:23:45.880
+Duration: 6.880 seconds
+Text: from the audit also to provide guidance regarding issues that may arise out of the audit but
+--------------------------------------------------
+Justin Yeary:
+Start: 00:23:45.880
+End: 00:23:50.600
+Duration: 4.720 seconds
+Text: also to help guide the actual audit process as it goes.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:23:50.600
+End: 00:23:55.600
+Duration: 5.000 seconds
+Text: And I have been fortunate enough to have been involved with this for quite a while now
+--------------------------------------------------
+Justin Yeary:
+Start: 00:23:55.600
+End: 00:24:00.720
+Duration: 5.120 seconds
+Text: and always enjoy working with the city finance staff.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:24:00.720
+End: 00:24:06.560
+Duration: 5.840 seconds
+Text: I would like to have a big thank you to Rina, Neil and her staff for all that she does.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:24:06.560
+End: 00:24:11.520
+Duration: 4.960 seconds
+Text: I know it has been a difficult couple of years with a lot of transitions and they have
+--------------------------------------------------
+Justin Yeary:
+Start: 00:24:11.520
+End: 00:24:14.600
+Duration: 3.080 seconds
+Text: done an outstanding job just keeping up.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:24:14.600
+End: 00:24:19.040
+Duration: 4.440 seconds
+Text: And it is a very difficult thing to do and I will talk a little bit about the importance
+--------------------------------------------------
+Justin Yeary:
+Start: 00:24:19.040
+End: 00:24:20.040
+Duration: 1.000 seconds
+Text: of it.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:24:20.760
+End: 00:24:26.400
+Duration: 5.640 seconds
+Text: I would also like to thank our committee, Jean Bloodgood, Rich Jankovitch and Commissioner
+--------------------------------------------------
+Justin Yeary:
+Start: 00:24:26.400
+End: 00:24:29.480
+Duration: 3.080 seconds
+Text: Hattisall for serving on that committee.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:24:29.480
+End: 00:24:33.080
+Duration: 3.600 seconds
+Text: And as Rina said, it was a great report.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:24:33.080
+End: 00:24:34.240
+Duration: 1.160 seconds
+Text: We reviewed the report.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:24:34.240
+End: 00:24:41.960
+Duration: 7.720 seconds
+Text: We reviewed the steps getting there and everything seemed to go very well.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:24:41.960
+End: 00:24:46.720
+Duration: 4.760 seconds
+Text: We're pleased with the grant process that has been put in place over the last few years.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:24:46.720
+End: 00:24:51.120
+Duration: 4.400 seconds
+Text: The deficiencies regarding payroll have been resolved.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:24:51.120
+End: 00:24:56.520
+Duration: 5.400 seconds
+Text: And so I think we're in a good position going forward.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:24:56.520
+End: 00:25:02.600
+Duration: 6.080 seconds
+Text: You may know but for a number of years we've received what's that called the certificate
+--------------------------------------------------
+Justin Yeary:
+Start: 00:25:02.600
+End: 00:25:08.560
+Duration: 5.960 seconds
+Text: for achievement from the government finance officers association for years.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:25:08.560
+End: 00:25:14.480
+Duration: 5.920 seconds
+Text: And that's basically getting your audit done on time and a good audit and so forth.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:25:15.480
+End: 00:25:18.920
+Duration: 3.440 seconds
+Text: With all the turnover we weren't able to do that for a couple of years.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:25:18.920
+End: 00:25:26.480
+Duration: 7.560 seconds
+Text: It was delayed but we're looking forward hopefully next year returning to that process and
+--------------------------------------------------
+Justin Yeary:
+Start: 00:25:26.480
+End: 00:25:27.720
+Duration: 1.240 seconds
+Text: getting that award.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:25:27.720
+End: 00:25:36.920
+Duration: 9.200 seconds
+Text: So I think related to that it is important to put a high priority on filling the positions
+--------------------------------------------------
+Justin Yeary:
+Start: 00:25:36.920
+End: 00:25:39.840
+Duration: 2.920 seconds
+Text: within the finance staff that we have open.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:25:39.840
+End: 00:25:41.920
+Duration: 2.080 seconds
+Text: They've been open for a while.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:25:41.920
+End: 00:25:44.680
+Duration: 2.760 seconds
+Text: And look we all know it's difficult to hire right now.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:25:44.680
+End: 00:25:46.920
+Duration: 2.240 seconds
+Text: It's just a tough time.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:25:46.920
+End: 00:25:49.160
+Duration: 2.240 seconds
+Text: But these are really important positions.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:25:49.160
+End: 00:25:54.120
+Duration: 4.960 seconds
+Text: Beyond the obvious in terms of just financial control we have to think about the information
+--------------------------------------------------
+Justin Yeary:
+Start: 00:25:54.120
+End: 00:25:59.800
+Duration: 5.680 seconds
+Text: that Rina mentioned that is used really by bond rating agencies to rate the debt of the
+--------------------------------------------------
+Justin Yeary:
+Start: 00:25:59.800
+End: 00:26:00.800
+Duration: 1.000 seconds
+Text: city.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:26:00.800
+End: 00:26:07.200
+Duration: 6.400 seconds
+Text: And if we get into a situation where we can't meet those obligations of providing timely
+--------------------------------------------------
+Justin Yeary:
+Start: 00:26:07.200
+End: 00:26:11.800
+Duration: 4.600 seconds
+Text: financial statements and so forth because of staffing issues we could run into some
+--------------------------------------------------
+Justin Yeary:
+Start: 00:26:11.800
+End: 00:26:13.360
+Duration: 1.560 seconds
+Text: issues with our bond rating.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:26:13.360
+End: 00:26:20.480
+Duration: 7.120 seconds
+Text: So the committee would just like to reiterate as we have before that is very important.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:26:20.480
+End: 00:26:26.880
+Duration: 6.400 seconds
+Text: The folks in the finance staff work a lot of hours to get this material done and we're
+--------------------------------------------------
+Justin Yeary:
+Start: 00:26:26.880
+End: 00:26:29.080
+Duration: 2.200 seconds
+Text: very appreciative of it.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:26:29.080
+End: 00:26:36.560
+Duration: 7.480 seconds
+Text: And anything that we can do to whether it's re-imagined that a little bit or provide the
+--------------------------------------------------
+Justin Yeary:
+Start: 00:26:36.560
+End: 00:26:41.080
+Duration: 4.520 seconds
+Text: funding for that that we might need or at this point we find some really good people.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:26:41.080
+End: 00:26:42.080
+Duration: 1.000 seconds
+Text: I don't know where.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:26:42.080
+End: 00:26:47.280
+Duration: 5.200 seconds
+Text: If you do let me know because we've got a lot all over the city looking for good positions.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:26:47.280
+End: 00:26:50.040
+Duration: 2.760 seconds
+Text: But I think that's real important for us.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:26:50.040
+End: 00:26:52.400
+Duration: 2.360 seconds
+Text: So that's what I've got.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:26:52.400
+End: 00:26:54.400
+Duration: 2.000 seconds
+Text: Again, thank you for having us.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:26:54.400
+End: 00:26:59.120
+Duration: 4.720 seconds
+Text: Thank you for having this committee and community input on it.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:26:59.120
+End: 00:27:06.840
+Duration: 7.720 seconds
+Text: And what do we recommend that they receive the audit for this year?
+--------------------------------------------------
+Justin Yeary:
+Start: 00:27:06.840
+End: 00:27:12.660
+Duration: 5.820 seconds
+Text: And I know that Emily is on the call if there are questions that are specific to the
+--------------------------------------------------
+Justin Yeary:
+Start: 00:27:12.660
+End: 00:27:17.320
+Duration: 4.660 seconds
+Text: audit or I'm happy to answer any questions too.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:27:17.320
+End: 00:27:26.920
+Duration: 9.600 seconds
+Text: I think I read over the whole packet and looked pretty good to me and we don't have any
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:27:26.920
+End: 00:27:29.680
+Duration: 2.760 seconds
+Text: major discrepancies here and that's what we're shooting for.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:27:29.680
+End: 00:27:35.280
+Duration: 5.600 seconds
+Text: So a good job to the audit committee and especially the finance department for working under some
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:27:35.280
+End: 00:27:40.880
+Duration: 5.600 seconds
+Text: very tough constraints as far as your technology and the number of people you have in the office.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:27:40.880
+End: 00:27:43.240
+Duration: 2.360 seconds
+Text: So excellent job.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:27:43.240
+End: 00:27:49.600
+Duration: 6.360 seconds
+Text: And I'm pleased that you have been able to resolve the payroll deficiency that was cited
+--------------------------------------------------
+Mayor Butler:
+Start: 00:27:49.600
+End: 00:27:51.200
+Duration: 1.600 seconds
+Text: last year and maybe the year before.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:27:51.200
+End: 00:27:52.200
+Duration: 1.000 seconds
+Text: Yes, ma'am.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:27:52.200
+End: 00:27:56.720
+Duration: 4.520 seconds
+Text: And you have that system of checks and balances and that was all that was needed but it did
+--------------------------------------------------
+Mayor Butler:
+Start: 00:27:56.720
+End: 00:28:02.680
+Duration: 5.960 seconds
+Text: require an additional position and so the city administration has accommodated that.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:28:02.680
+End: 00:28:06.720
+Duration: 4.040 seconds
+Text: And I'm just excited that there are no findings.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:28:06.720
+End: 00:28:10.480
+Duration: 3.760 seconds
+Text: That is the report we want to hear every year.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:28:10.480
+End: 00:28:12.680
+Duration: 2.200 seconds
+Text: So thank you for delivering for this year.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:28:12.680
+End: 00:28:17.000
+Duration: 4.320 seconds
+Text: And Rina, you're relatively new in your position and that's to your credit.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:28:17.000
+End: 00:28:19.000
+Duration: 2.000 seconds
+Text: So hooray.
+--------------------------------------------------
+City Clerk:
+Start: 00:28:19.000
+End: 00:28:20.000
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:28:20.000
+End: 00:28:22.680
+Duration: 2.680 seconds
+Text: Yeah, I didn't have any questions either.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:28:22.680
+End: 00:28:28.040
+Duration: 5.360 seconds
+Text: I thought it was very nicely done and like Commissioner Morris was saying, Rina, we really
+--------------------------------------------------
+Mayor Butler:
+Start: 00:28:28.040
+End: 00:28:30.560
+Duration: 2.520 seconds
+Text: do appreciate all the work you put into this.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:28:30.560
+End: 00:28:34.360
+Duration: 3.800 seconds
+Text: It's definitely not a 9 to 5 thing where you can just go home and come back to it is still
+--------------------------------------------------
+Mayor Butler:
+Start: 00:28:34.360
+End: 00:28:35.360
+Duration: 1.000 seconds
+Text: there.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:28:35.360
+End: 00:28:38.840
+Duration: 3.480 seconds
+Text: I know it takes hundreds of hours to make sure all the numbers are right and with all
+--------------------------------------------------
+Mayor Butler:
+Start: 00:28:38.840
+End: 00:28:42.560
+Duration: 3.720 seconds
+Text: of the departments we have and all the things you need to work on.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:28:42.560
+End: 00:28:45.280
+Duration: 2.720 seconds
+Text: I do have a couple of questions.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:28:45.280
+End: 00:28:49.280
+Duration: 4.000 seconds
+Text: In the past, I think the housing authority was a little late but I think that's been resolved.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:28:49.280
+End: 00:28:50.280
+Duration: 1.000 seconds
+Text: It's all been going.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:28:50.280
+End: 00:28:54.720
+Duration: 4.440 seconds
+Text: But I haven't seen and I don't know if you are the folks I should be talking to or if
+--------------------------------------------------
+Mayor Butler:
+Start: 00:28:54.720
+End: 00:28:56.640
+Duration: 1.920 seconds
+Text: it's our city manager I need to talk to.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:28:56.640
+End: 00:29:00.360
+Duration: 3.720 seconds
+Text: Typically we get some kind of what is it?
+--------------------------------------------------
+Mayor Butler:
+Start: 00:29:00.360
+End: 00:29:01.720
+Duration: 1.360 seconds
+Text: Bond rating reports.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:29:01.720
+End: 00:29:06.840
+Duration: 5.120 seconds
+Text: Is that just with temp notes or do we see that in addition to the audit?
+--------------------------------------------------
+Mayor Butler:
+Start: 00:29:06.840
+End: 00:29:09.120
+Duration: 2.280 seconds
+Text: I haven't seen any of that recently.
+--------------------------------------------------
+City Clerk:
+Start: 00:29:09.120
+End: 00:29:14.840
+Duration: 5.720 seconds
+Text: So the bond rating reports, those are when we issue temporary notes and our geo bonds
+--------------------------------------------------
+City Clerk:
+Start: 00:29:14.840
+End: 00:29:18.880
+Duration: 4.040 seconds
+Text: and so I apologize for not including those in the packets.
+--------------------------------------------------
+City Clerk:
+Start: 00:29:18.880
+End: 00:29:23.600
+Duration: 4.720 seconds
+Text: They are summarized in terms of the results of those ratings each time we do issue debt
+--------------------------------------------------
+City Clerk:
+Start: 00:29:23.600
+End: 00:29:28.600
+Duration: 5.000 seconds
+Text: and we can provide those for the past issues and then the ones coming forward.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:29:28.600
+End: 00:29:32.400
+Duration: 3.800 seconds
+Text: I just want to know the current ones each time we get something that always gave me, gave
+--------------------------------------------------
+Mayor Butler:
+Start: 00:29:32.400
+End: 00:29:38.240
+Duration: 5.840 seconds
+Text: us at least gave me some information about where we are at when people make those decisions
+--------------------------------------------------
+Mayor Butler:
+Start: 00:29:38.240
+End: 00:29:42.960
+Duration: 4.720 seconds
+Text: and kind of put that information in front of me which we tend to forget sometimes.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:29:42.960
+End: 00:29:47.280
+Duration: 4.320 seconds
+Text: And I don't know where the contractual agreements fall into this.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:29:47.280
+End: 00:29:48.280
+Duration: 1.000 seconds
+Text: You talked about leases.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:29:48.280
+End: 00:29:53.160
+Duration: 4.880 seconds
+Text: Did you also mention contractual agreements or is that part of an audit?
+--------------------------------------------------
+City Clerk:
+Start: 00:29:53.720
+End: 00:29:59.720
+Duration: 6.000 seconds
+Text: So in terms of our upcoming pronouncement, gas B87 that is something new.
+--------------------------------------------------
+City Clerk:
+Start: 00:29:59.720
+End: 00:30:01.520
+Duration: 1.800 seconds
+Text: It's related to lease obligation.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:01.520
+End: 00:30:08.800
+Duration: 7.280 seconds
+Text: So we'll be looking at our vehicles, our equipment, anything related to possibly Z-Rox coffee
+--------------------------------------------------
+City Clerk:
+Start: 00:30:08.800
+End: 00:30:14.440
+Duration: 5.640 seconds
+Text: machines, those type of things, rental agreements that we may have and to see if we have other
+--------------------------------------------------
+City Clerk:
+Start: 00:30:14.440
+End: 00:30:18.000
+Duration: 3.560 seconds
+Text: obligations outside of just one year terms.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:18.000
+End: 00:30:21.480
+Duration: 3.480 seconds
+Text: This is a very new and complex pronouncement.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:21.480
+End: 00:30:25.200
+Duration: 3.720 seconds
+Text: We've been reaching out to other municipalities to see how they're compiling and collecting
+--------------------------------------------------
+City Clerk:
+Start: 00:30:25.200
+End: 00:30:26.200
+Duration: 1.000 seconds
+Text: data.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:26.200
+End: 00:30:32.560
+Duration: 6.360 seconds
+Text: We've heard back from Wichita and then one other municipality today, AGH is helping us
+--------------------------------------------------
+City Clerk:
+Start: 00:30:32.560
+End: 00:30:36.200
+Duration: 3.640 seconds
+Text: and then BTN Co is providing guidance as well regarding that.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:30:36.200
+End: 00:30:38.200
+Duration: 2.000 seconds
+Text: Looks like more work.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:30:38.200
+End: 00:30:41.040
+Duration: 2.840 seconds
+Text: In addition to what you have.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:30:41.040
+End: 00:30:42.040
+Duration: 1.000 seconds
+Text: Well thank you.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:30:42.040
+End: 00:30:45.520
+Duration: 3.480 seconds
+Text: I think when we see something boring and we don't have many questions, it's because you're
+--------------------------------------------------
+Mayor Butler:
+Start: 00:30:45.520
+End: 00:30:51.240
+Duration: 5.720 seconds
+Text: doing a nice job and that speaks volumes so that we're not having to ask you why, why,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:30:51.240
+End: 00:30:56.920
+Duration: 5.680 seconds
+Text: why questions, all of those are answered and working well with our city staff and with
+--------------------------------------------------
+Mayor Butler:
+Start: 00:30:56.920
+End: 00:30:59.160
+Duration: 2.240 seconds
+Text: your own department as well as our consultants.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:30:59.160
+End: 00:31:00.160
+Duration: 1.000 seconds
+Text: Thank you very much.
+--------------------------------------------------
+Staff Member:
+Start: 00:31:00.160
+End: 00:31:01.160
+Duration: 1.000 seconds
+Text: You're welcome.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:31:01.160
+End: 00:31:05.400
+Duration: 4.240 seconds
+Text: On that gas B87, lease obligation stuff.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:31:05.400
+End: 00:31:09.280
+Duration: 3.880 seconds
+Text: That's the city keeps track of all of that.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:31:09.280
+End: 00:31:12.880
+Duration: 3.600 seconds
+Text: Everybody has, there's some big sheet to list everything we owe, everything, all assets
+--------------------------------------------------
+Justin Yeary:
+Start: 00:31:12.880
+End: 00:31:13.880
+Duration: 1.000 seconds
+Text: and stuff like that.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:31:13.880
+End: 00:31:19.240
+Duration: 5.360 seconds
+Text: So it's nothing that's going to provide us with any additional valuable information.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:31:19.240
+End: 00:31:22.960
+Duration: 3.720 seconds
+Text: It's just being able to report that to the people that care about that kind of stuff
+--------------------------------------------------
+Justin Yeary:
+Start: 00:31:22.960
+End: 00:31:23.960
+Duration: 1.000 seconds
+Text: apparently.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:23.960
+End: 00:31:30.200
+Duration: 6.240 seconds
+Text: Yes, so currently we do book our lease obligations that are capital and nature.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:30.200
+End: 00:31:35.600
+Duration: 5.400 seconds
+Text: The ones that are in question are the ones that are rental agreements less than a year
+--------------------------------------------------
+City Clerk:
+Start: 00:31:35.600
+End: 00:31:41.200
+Duration: 5.600 seconds
+Text: or a year that we don't really have a lot of control and guidance over in the finance
+--------------------------------------------------
+City Clerk:
+Start: 00:31:41.200
+End: 00:31:44.440
+Duration: 3.240 seconds
+Text: department is departmental discretion.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:44.440
+End: 00:31:47.680
+Duration: 3.240 seconds
+Text: So we're going to work with each department to make sure that we all understand what
+--------------------------------------------------
+City Clerk:
+Start: 00:31:47.680
+End: 00:31:52.040
+Duration: 4.360 seconds
+Text: is required of that pronouncement and if we need to report that information or if we
+--------------------------------------------------
+City Clerk:
+Start: 00:31:52.040
+End: 00:31:53.600
+Duration: 1.560 seconds
+Text: don't need to report it.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:31:53.600
+End: 00:31:59.560
+Duration: 5.960 seconds
+Text: Well, and also, and just being under staffed and trying to get this domestically in
+--------------------------------------------------
+Justin Yeary:
+Start: 00:31:59.560
+End: 00:32:03.680
+Duration: 4.120 seconds
+Text: up, you guys have done a great job and passed that on to your people that are really proud
+--------------------------------------------------
+Justin Yeary:
+Start: 00:32:03.680
+End: 00:32:06.400
+Duration: 2.720 seconds
+Text: of the work they did on this one.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:32:06.400
+End: 00:32:15.600
+Duration: 9.200 seconds
+Text: I did have a question about what you expect for this year because 2020 with COVID and anything
+--------------------------------------------------
+Mayor Butler:
+Start: 00:32:15.600
+End: 00:32:19.840
+Duration: 4.240 seconds
+Text: go, you know, no one surprised at delays.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:32:19.840
+End: 00:32:22.680
+Duration: 2.840 seconds
+Text: I'm thinking about the audit for this year.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:32:22.680
+End: 00:32:23.680
+Duration: 1.000 seconds
+Text: Do you expect it?
+--------------------------------------------------
+Mayor Butler:
+Start: 00:32:23.680
+End: 00:32:27.360
+Duration: 3.680 seconds
+Text: Not you said that the audit committee would meet in January and April.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:32:27.360
+End: 00:32:29.440
+Duration: 2.080 seconds
+Text: So do you expect it probably by summer?
+--------------------------------------------------
+Mayor Butler:
+Start: 00:32:29.440
+End: 00:32:33.080
+Duration: 3.640 seconds
+Text: So other than this late in the year.
+--------------------------------------------------
+City Clerk:
+Start: 00:32:33.080
+End: 00:32:42.920
+Duration: 9.840 seconds
+Text: So we will work with BTNCO and AGH on Friday to discuss to begin and to see how we can
+--------------------------------------------------
+City Clerk:
+Start: 00:32:42.920
+End: 00:32:48.600
+Duration: 5.680 seconds
+Text: take that audit plan and back it up to meet the deadline of June 30th.
+--------------------------------------------------
+City Clerk:
+Start: 00:32:48.600
+End: 00:32:52.760
+Duration: 4.160 seconds
+Text: And that's to submit for a GFOA award.
+--------------------------------------------------
+City Clerk:
+Start: 00:32:52.760
+End: 00:32:59.080
+Duration: 6.320 seconds
+Text: But the actual deadline for the submit is September 30th for a financial report.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:32:59.080
+End: 00:33:00.080
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:33:00.080
+End: 00:33:01.080
+Duration: 1.000 seconds
+Text: And that's our deadline?
+--------------------------------------------------
+City Clerk:
+Start: 00:33:01.080
+End: 00:33:02.080
+Duration: 1.000 seconds
+Text: Is federal.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:33:02.080
+End: 00:33:03.080
+Duration: 1.000 seconds
+Text: Federal deadline.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:33:03.080
+End: 00:33:04.080
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:33:04.080
+End: 00:33:05.080
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:33:05.080
+End: 00:33:08.480
+Duration: 3.400 seconds
+Text: So it always takes nine months or ten.
+--------------------------------------------------
+City Clerk:
+Start: 00:33:08.480
+End: 00:33:16.120
+Duration: 7.640 seconds
+Text: You can, depending on our staffing as well as if we are wanting to apply for that financial
+--------------------------------------------------
+City Clerk:
+Start: 00:33:16.120
+End: 00:33:17.120
+Duration: 1.000 seconds
+Text: award.
+--------------------------------------------------
+City Clerk:
+Start: 00:33:17.120
+End: 00:33:18.120
+Duration: 1.000 seconds
+Text: Well, sure.
+--------------------------------------------------
+City Clerk:
+Start: 00:33:18.120
+End: 00:33:20.640
+Duration: 2.520 seconds
+Text: That's just been something we haven't been able to do to just staffing.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:33:20.640
+End: 00:33:24.480
+Duration: 3.840 seconds
+Text: I think it'd be great to apply for it, but I was just wondering about the timing of the
+--------------------------------------------------
+Mayor Butler:
+Start: 00:33:24.480
+End: 00:33:26.480
+Duration: 2.000 seconds
+Text: audit report.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:33:26.480
+End: 00:33:29.880
+Duration: 3.400 seconds
+Text: See, and it just gets more complicated.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:33:29.880
+End: 00:33:38.140
+Duration: 8.260 seconds
+Text: The more departments we add on and the and the ARP money and the CARES money just
+--------------------------------------------------
+Mayor Butler:
+Start: 00:33:38.140
+End: 00:33:40.460
+Duration: 2.320 seconds
+Text: complicate what you're doing.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:33:40.460
+End: 00:33:47.300
+Duration: 6.840 seconds
+Text: And I think we realize that and do have an understanding that it's complicated.
+--------------------------------------------------
+City Clerk:
+Start: 00:33:47.300
+End: 00:33:48.300
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:33:48.300
+End: 00:33:50.260
+Duration: 1.960 seconds
+Text: The single audit is a very complex process.
+--------------------------------------------------
+City Clerk:
+Start: 00:33:50.260
+End: 00:33:55.940
+Duration: 5.680 seconds
+Text: And the ARPires a lot more review and detail and coordination with our departments.
+--------------------------------------------------
+City Clerk:
+Start: 00:33:55.940
+End: 00:34:01.220
+Duration: 5.280 seconds
+Text: And like I mentioned earlier, we received $4.2 million in COVID-related funds.
+--------------------------------------------------
+City Clerk:
+Start: 00:34:01.220
+End: 00:34:03.620
+Duration: 2.400 seconds
+Text: So that was his own separate audit process.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:34:03.620
+End: 00:34:04.620
+Duration: 1.000 seconds
+Text: Exactly.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:34:04.620
+End: 00:34:05.620
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Clerk:
+Start: 00:34:05.620
+End: 00:34:06.620
+Duration: 1.000 seconds
+Text: Thank you, Reena.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:34:06.620
+End: 00:34:07.620
+Duration: 1.000 seconds
+Text: I just, you're welcome.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:34:07.740
+End: 00:34:08.620
+Duration: 0.880 seconds
+Text: That's a very good answer to that.
+--------------------------------------------------
+City Clerk:
+Start: 00:34:08.620
+End: 00:34:09.620
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:34:09.620
+End: 00:34:10.980
+Duration: 1.360 seconds
+Text: Do you have any questions for Emily?
+--------------------------------------------------
+City Clerk:
+Start: 00:34:10.980
+End: 00:34:11.980
+Duration: 1.000 seconds
+Text: Hey, don't.
+--------------------------------------------------
+City Clerk:
+Start: 00:34:11.980
+End: 00:34:12.980
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:34:12.980
+End: 00:34:13.980
+Duration: 1.000 seconds
+Text: Thank you, Emily.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:34:13.980
+End: 00:34:22.380
+Duration: 8.400 seconds
+Text: Do we have any public comment on this particular audit topic if so come forward and state your
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:34:22.380
+End: 00:34:23.700
+Duration: 1.320 seconds
+Text: name and address?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:34:23.700
+End: 00:34:24.900
+Duration: 1.200 seconds
+Text: All right.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:34:24.900
+End: 00:34:25.900
+Duration: 1.000 seconds
+Text: Hello.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:34:25.900
+End: 00:34:26.900
+Duration: 1.000 seconds
+Text: Again, my name is Justin Yeary.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:34:26.900
+End: 00:34:31.100
+Duration: 4.200 seconds
+Text: I live at 701 North Ninth Street Unit 7.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:34:31.100
+End: 00:34:36.660
+Duration: 5.560 seconds
+Text: My question was there was discussion about some kind of deficiency with regards to payroll.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:34:36.660
+End: 00:34:42.420
+Duration: 5.760 seconds
+Text: So I was just kind of wondering if the audit committee could expand more on what that deficiency was and how it was resolved.
+--------------------------------------------------
+City Clerk:
+Start: 00:34:46.900
+End: 00:34:50.180
+Duration: 3.280 seconds
+Text: I don't have my notes in front of me, but it was in relation to
+--------------------------------------------------
+City Clerk:
+Start: 00:34:50.740
+End: 00:34:58.740
+Duration: 8.000 seconds
+Text: how we were keeping track of our time sheets and the sign off on those time sheets and making sure that they were approved by the appropriate officials.
+--------------------------------------------------
+City Clerk:
+Start: 00:34:58.740
+End: 00:35:00.100
+Duration: 1.360 seconds
+Text: So in terms of
+--------------------------------------------------
+City Clerk:
+Start: 00:35:00.500
+End: 00:35:07.540
+Duration: 7.040 seconds
+Text: like your chain of command, so we were able to work through that. We have switched our
+--------------------------------------------------
+City Clerk:
+Start: 00:35:08.340
+End: 00:35:17.140
+Duration: 8.800 seconds
+Text: payroll system to paylocity, so more of that process is automated and we can keep track of that particular process that way.
+--------------------------------------------------
+City Clerk:
+Start: 00:35:17.140
+End: 00:35:27.940
+Duration: 10.800 seconds
+Text: In the past we used Sungard our superior end and now we call it Central Square, but that was a manual time sheet process, but then also we had an online
+--------------------------------------------------
+City Clerk:
+Start: 00:35:27.940
+End: 00:35:31.940
+Duration: 4.000 seconds
+Text: time clock, but we can't keep track of their approval process.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:31.940
+End: 00:35:37.940
+Duration: 6.000 seconds
+Text: Yeah, and basically that was an issue with the last audit and we fixed it for this one, so it's not a problem this time.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:37.940
+End: 00:35:42.940
+Duration: 5.000 seconds
+Text: It's so well done again on changing the vendor and all that. I think that worked out fine.
+--------------------------------------------------
+City Clerk:
+Start: 00:35:42.940
+End: 00:35:43.940
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:43.940
+End: 00:35:44.940
+Duration: 1.000 seconds
+Text: So thank you.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:35:44.940
+End: 00:35:56.940
+Duration: 12.000 seconds
+Text: Ron, if we have a consultant work with us on the ARPA funds, would they be able to keep track of all of that and just transition that information to Reena's office so that it doesn't
+--------------------------------------------------
+Mayor Butler:
+Start: 00:35:56.940
+End: 00:36:08.940
+Duration: 12.000 seconds
+Text: so that that's taken part because there are also different stipulations for that different because it's federal and they have to keep track of it in a different manner.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:36:08.940
+End: 00:36:14.940
+Duration: 6.000 seconds
+Text: Is that something I would hate for her to have more to do in addition to what they have.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:36:14.940
+End: 00:36:19.940
+Duration: 5.000 seconds
+Text: It seems like a consultant like the county did would be a good way to go on that.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:36:19.940
+End: 00:36:29.940
+Duration: 10.000 seconds
+Text: So we'll still be obligated to at this point as I said the consultant assistance we've got from Baker Tilly is strictly more of a verification role.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:36:29.940
+End: 00:36:48.940
+Duration: 19.000 seconds
+Text: So when we want to do something so that's an option for us moving forward if we want some broader help whether that's contract services that we might want or hiring additional staff for the four year period that we have to work with.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:36:48.940
+End: 00:36:55.940
+Duration: 7.000 seconds
+Text: Actually, I think it's a six year period to tell 24 to commit the funds and 26 to spend the funds.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:36:55.940
+End: 00:37:06.940
+Duration: 11.000 seconds
+Text: So those are issues that internally we'll talk about how best to meet that ultimately will be our obligation to be able to report on that and that will be subject to audit as well.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:37:06.940
+End: 00:37:12.940
+Duration: 6.000 seconds
+Text: So all of that is how we organize that will be a big factor from that perspective.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:37:12.940
+End: 00:37:19.940
+Duration: 7.000 seconds
+Text: And those funds I think we're allowed to use those funds to have a staff member work on it.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:37:19.940
+End: 00:37:23.940
+Duration: 4.000 seconds
+Text: Yes, those are eligible costs for administrative services and overhead.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:37:23.940
+End: 00:37:24.940
+Duration: 1.000 seconds
+Text: Makes sense. Thank you.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:24.940
+End: 00:37:30.940
+Duration: 6.000 seconds
+Text: They've seen no other public comments will close public comments and ask the commission for a motion.
+--------------------------------------------------
+Justin Yeary:
+Start: 00:37:30.940
+End: 00:37:36.940
+Duration: 6.000 seconds
+Text: Mayor, I move that we receive the municipal audit committee's reports for the 2020 City Audit.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:37:36.940
+End: 00:37:38.940
+Duration: 2.000 seconds
+Text: Second.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:38.940
+End: 00:37:42.940
+Duration: 4.000 seconds
+Text: Okay, City Clerk, we have a motion in a second. Could you please call the roll?
+--------------------------------------------------
+Justin Yeary:
+Start: 00:37:42.940
+End: 00:37:43.940
+Duration: 1.000 seconds
+Text: Commissioner Morris.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:37:43.940
+End: 00:37:44.940
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:37:44.940
+End: 00:37:45.940
+Duration: 1.000 seconds
+Text: Commissioner Hassel.
+--------------------------------------------------
+City Clerk:
+Start: 00:37:45.940
+End: 00:37:46.940
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:37:46.940
+End: 00:37:47.940
+Duration: 1.000 seconds
+Text: Commissioner Estabra.
+--------------------------------------------------
+City Clerk:
+Start: 00:37:47.940
+End: 00:37:48.940
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:37:48.940
+End: 00:37:49.940
+Duration: 1.000 seconds
+Text: Commissioner Reddy.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:37:49.940
+End: 00:37:50.940
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:37:50.940
+End: 00:37:51.940
+Duration: 1.000 seconds
+Text: Mayor Butler.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:51.940
+End: 00:37:52.940
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:37:52.940
+End: 00:37:54.940
+Duration: 2.000 seconds
+Text: Motion carries five to zero.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:54.940
+End: 00:37:57.940
+Duration: 3.000 seconds
+Text: Okay, that was the last item on our agenda.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:57.940
+End: 00:38:01.940
+Duration: 4.000 seconds
+Text: So thank you for attending tonight and the meeting is adjourned.
+--------------------------------------------------

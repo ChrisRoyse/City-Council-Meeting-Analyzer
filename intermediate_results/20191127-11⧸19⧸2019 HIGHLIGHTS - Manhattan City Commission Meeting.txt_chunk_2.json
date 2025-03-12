@@ -1,0 +1,186 @@
+{
+  "open_ended_analysis": {
+    "primary_themes": [
+      {
+        "theme": "Tenant & Landlord Experience",
+        "description": "The council discussed the experiences of both tenants and landlords in the area, looking at the satisfaction of renters and the practices of landlords.",
+        "notable_points": [
+          "75% of renters were satisfied with their current units",
+          "8% were extremely dissatisfied",
+          "Many landlords are investing annually in their units",
+          "67% of the landlords had not evicted any tenant in the last two years"
+        ]
+      },
+      {
+        "theme": "Rental Inspection Program",
+        "description": "The topic of Manhattan's voluntary rental inspection program was discussed frequently, with concern that many citizens weren't aware of its existence.",
+        "notable_points": [
+          "Most renters were unaware of the rental inspection program",
+          "The council wishes to highlight this rental inspection service",
+          "Discussion about making inspection services and laws against landlord retaliation clearer in lease agreements"
+        ]
+      }
+    ],
+    "significant_discussions": [
+      {
+        "topic": "Relation Between Renters and Landlords",
+        "significance": "This is crucial as it affects the living conditions and satisfaction of a considerable population of the city. Improving this relationship could lead to better living conditions and overall happiness of residents.",
+        "stakeholders": [
+          "Renters",
+          "Landlords",
+          "City council",
+          "K-State Student Government"
+        ]
+      },
+      {
+        "topic": "Awareness of Rental Inspection Program",
+        "significance": "An informed population can more effectively utilize city services. Increasing awareness and usage of the rental inspection program could help to improve housing quality.",
+        "stakeholders": [
+          "Renters",
+          "Landlords",
+          "City council",
+          "K-State Student Government"
+        ]
+      }
+    ],
+    "unexpected_elements": [
+      {
+        "element": "Lack of Tenant Awareness",
+        "context": "Despite the importance of the rental inspection program, a notable portion of renters were unaware of its existence. This suggests a lack of communication or outreach about crucial city services."
+      },
+      {
+        "element": "Investment by Landlords",
+        "context": "Many landlords report investing over a thousand dollars annually per unit, which contradicts some public perceptions of landlords minimally maintaining their properties."
+      }
+    ]
+  },
+  "directed_analysis": {
+    "land_use": {
+      "present": true,
+      "significance": "High",
+      "context": "Land use was discussed primarily in the context of rental properties, tenant-landlord relationships, and the availability and condition of rental units. The discussion included how tenants pursue rental options (through websites), the level of satisfaction/dissatisfaction with current units, and the prevalence of KSU students in the rental pool. There was emphasis on landlord's investment in properties and eviction data.",
+      "notable_points": [
+        "Most tenants are satisfied with their units",
+        "Landlords reportedly invest annually in their rental units",
+        "Majority of evictions result from failure to pay"
+      ]
+    },
+    "economic_development": {
+      "present": false,
+      "significance": "Low",
+      "context": "Economic development did not appear to be a primary topic of discussion within this meeting. Information about local business growth, employment or industries was largely absent. Rental properties, landlords and tenants were discussed instead.",
+      "notable_points": []
+    },
+    "taxes_budget": {
+      "present": false,
+      "significance": "Low",
+      "context": "The subject of taxes, budgets, and spending priorities did not appear to be addressed during this meeting. The focus remained on housing issues, particularly as they pertain to landlords and tenants.",
+      "notable_points": []
+    },
+    "other_significant_topics": [
+      {
+        "topic": "Tenant-Landlord Relationships",
+        "significance": "High",
+        "context": "Much of the meeting focused on the relationships between tenants and landlords, like property conditions, tenant satisfaction and eviction data. Proposals were also made for improving tenant and landlord relations, such as improving visibility of rental inspection service or adding clauses about this service and law against landlord retaliation in lease agreements."
+      }
+    ]
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 3,
+      "speaking_time": {
+        "Assistant City Manager": 278.0,
+        "Mayor Dotson": 113.0,
+        "Commissioner McKee": 10.0
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [
+        "Assistant City Manager"
+      ],
+      "observation": "The Assistant City Manager seems to be leading the discussion and has the most speaking time. They are relaying information to the council and providing detailed explanations about the subjects discussed."
+    },
+    "interaction_patterns": {
+      "pattern": "Discussion mostly follows a question-response pattern, primarily between the Assistant City Manager and other participants.",
+      "notable_exchanges": [
+        "The Assistant City Manager probing the survey methodology and sourcing, and responding/addressing to queries and concerns from others."
+      ]
+    },
+    "topic_ownership": [
+      {
+        "speaker": "Assistant City Manager",
+        "topics": [
+          "Housing satisfaction survey.",
+          "Landlord's feedback and demographics",
+          "Tenant-Landlord relationships.",
+          "Rental market",
+          "Housing Quality",
+          "Eviction statistics"
+        ]
+      },
+      {
+        "speaker": "Mayor Dotson",
+        "topics": []
+      },
+      {
+        "speaker": "Commissioner McKee",
+        "topics": []
+      }
+    ],
+    "public_participation": {
+      "level": "Low",
+      "observation": "The text doesn't provide concrete evidence of direct public participation in these discussions, though their perspectives are mentioned secondhand through surveys discussed."
+    }
+  },
+  "emergent_patterns": {
+    "recurring_themes": [
+      {
+        "theme": "Renter satisfaction and concerns",
+        "evidence": "Discussion about renters' satisfaction with their current housing units and their concerns about rental prices, conditions, and location repeated throughout the transcript. The topics of rental inspections, landlord retaliation, and security deposit returns also come up several times"
+      },
+      {
+        "theme": "Landlord and property management issues",
+        "evidence": "Several references to the use of online resources for property rental, the investment made by landlords in their property each year, landlord property management, and rates of eviction for various reasons"
+      },
+      {
+        "theme": "Communication and information issues",
+        "evidence": "Repeated references to the need for more robust online presence, better promotion of rental inspection services, and improved communication between tenants and landlords"
+      }
+    ],
+    "underlying_tensions": [
+      {
+        "tension": "Mismatch in perceptions between landlords and renters",
+        "between": [
+          "Landlords",
+          "Renters"
+        ],
+        "context": "Landlords perceive their investment and property conditions to be good or excellent, while renters express dissatisfaction and call for standardization and inspection services"
+      },
+      {
+        "tension": "Inadequate online presence and communication",
+        "between": [
+          "Manhattan rental property agencies",
+          "Renters"
+        ],
+        "context": "Renters face challenges in finding information and resources online, suggesting a potential lack of technological adaptation and usability from the property agencies' side"
+      }
+    ],
+    "decision_patterns": {
+      "pattern": "Decision making based on data and collaboration",
+      "observation": "Decisions appear to be based on survey data and collaborative discussions between various stakeholders, such as landlords, renters, university representatives and city council members. There is emphasis on finding solutions that benefit both renters and landlords"
+    },
+    "language_patterns": {
+      "formality": "Medium",
+      "technical_density": "Medium",
+      "emotional_tone": "Neutral",
+      "notable_features": [
+        "Use of statistics to substantiate points",
+        "Use of questions for concerns and clarifications",
+        "Practical, solution-focused discussions"
+      ]
+    },
+    "other_insights": [
+      "The interconnected problems of renter satisfaction, landlord management, and effective communication could potentially be addressed by leveraging technology to improve the overall renting experience"
+    ]
+  }
+}

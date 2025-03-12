@@ -1,0 +1,72 @@
+{
+  "open_ended_analysis": {
+    "error": "Error code: 429 - {'error': {'message': 'Request too large for gpt-4 in organization org-RGyxPDjBoYBFA0iUjQew9jEo on tokens per min (TPM): Limit 10000, Requested 11177. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}"
+  },
+  "directed_analysis": {
+    "error": "Error code: 429 - {'error': {'message': 'Request too large for gpt-4 in organization org-RGyxPDjBoYBFA0iUjQew9jEo on tokens per min (TPM): Limit 10000, Requested 11341. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}"
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 5,
+      "speaking_time": {
+        "Mayor Butler": 354.0,
+        "Commissioner Moors": 705.0,
+        "City Clerk": 1251.0,
+        "City Manager": 616.0,
+        "Mark Abbott": 198.0
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [
+        "City Clerk",
+        "Commissioner Moors"
+      ],
+      "observation": "City Clerk seems to be the most dominant speaker, addressing multiple issues, answering questions and explaining procedures. Commissioner Moors also has significant speaking time, indicating a leading role in discussions."
+    },
+    "interaction_patterns": {
+      "pattern": "The meeting features both direct exchanges and independent remarks. The speakers generally direct their comments to the whole council without being interrupted.",
+      "notable_exchanges": [
+        "Discussion between Commissioner Moors and City Clerk on the availability of Star Bonds"
+      ]
+    },
+    "topic_ownership": [
+      {
+        "speaker": "Mayor Butler",
+        "topics": [
+          "Opening and closing the meeting, procedural aspects"
+        ]
+      },
+      {
+        "speaker": "Commissioner Moors",
+        "topics": [
+          "City developments, Star Bonds"
+        ]
+      },
+      {
+        "speaker": "City Clerk",
+        "topics": [
+          "Presenting city's administrative matters"
+        ]
+      },
+      {
+        "speaker": "City Manager",
+        "topics": [
+          "Operational aspects of the city"
+        ]
+      },
+      {
+        "speaker": "Mark Abbott",
+        "topics": [
+          "Specific issues of public interest"
+        ]
+      }
+    ],
+    "public_participation": {
+      "level": "High",
+      "observation": "Several members of the public actively participate in the meeting, voicing their opinions and concerns on various topics, including the proposed museum, impact on parking, city's financial investing and community issues. The public's engagement reflects high interest in civic matters."
+    }
+  },
+  "emergent_patterns": {
+    "error": "Error code: 429 - {'error': {'message': 'Request too large for gpt-4 in organization org-RGyxPDjBoYBFA0iUjQew9jEo on tokens per min (TPM): Limit 10000, Requested 11325. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}"
+  }
+}

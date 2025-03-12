@@ -1,0 +1,166 @@
+{
+  "open_ended_analysis": {
+    "primary_themes": [
+      {
+        "theme": "City Logos and Marks",
+        "description": "Discussions around the usage, licensing, and adaptations of official city logos and notable city marks, specifically the Johnny Kaw statue, were prominent.",
+        "notable_points": [
+          "City logos used for official business and can be contracted for other parties' use",
+          "Johnny Kaw statue is reportedly in public domain"
+        ]
+      },
+      {
+        "theme": "Public Engagement",
+        "description": "An important part of the meeting involved providing opportunities for public comment on both pre-determined topics and other matters.",
+        "notable_points": [
+          "Public comments were invited at the start for topics not on the agenda",
+          "Audience could comment on specific consent agenda items"
+        ]
+      }
+    ],
+    "significant_discussions": [
+      {
+        "topic": "Ownership and Licensing Rights of the Johnny Kaw Statue",
+        "significance": "Determining if the city has the right to license the statue for others to use",
+        "stakeholders": [
+          "City Commission",
+          "City Attorney",
+          "Brian Meyer from Shook, Hardy and Bacon",
+          "Members of the public"
+        ]
+      },
+      {
+        "topic": "Use and Adaptation of Official City Logos",
+        "significance": "The city needs a system for how to handle adaptations of official logos, specifically on public-facing domains like social media.",
+        "stakeholders": [
+          "City Commission",
+          "City Departments",
+          "City Manager",
+          "Members of the public"
+        ]
+      }
+    ],
+    "unexpected_elements": [
+      {
+        "element": "Comparisons of City Logos' Use to Commercial Branding",
+        "context": "It was notably interesting when Commissioner Butler compared the use of the city's logo to practices in commercial branding, providing a fresh perspective and a new angle to the discussion around maintaining neutrality in public communication."
+      }
+    ]
+  },
+  "directed_analysis": {
+    "land_use": {
+      "present": false,
+      "significance": "None",
+      "context": "",
+      "notable_points": []
+    },
+    "economic_development": {
+      "present": false,
+      "significance": "None",
+      "context": "",
+      "notable_points": []
+    },
+    "taxes_budget": {
+      "present": true,
+      "significance": "Low",
+      "context": "At the beginning of the meeting, the Commissioner mentioned the discussion about 'valuations and taxation'. However, the actual discussion was not covered in the provided transcript.",
+      "notable_points": [
+        "Mention of upcoming discussion on 'valuations and taxation'"
+      ]
+    },
+    "other_significant_topics": [
+      {
+        "topic": "City Logos and Intellectual Property",
+        "significance": "High",
+        "context": "There was extensive discussion about city's official logos and the likeness of the Johnny Kaw statue. It was clarified that the likeness of Johnny Kaw is in the public domain. There was policy discussion regarding the use of city logos and whether they should remain neutral. Some members expressed concern over the unauthorized use or modification of these logos in public, social media and how it could potentially send unwanted political messages."
+      },
+      {
+        "topic": "Public Facilities Maintenance",
+        "significance": "Medium",
+        "context": "The City Manager mentioned about repair work done at Seco Pool and ensuring its operation for the upcoming heat advisory. This shows attention to public facility maintenance."
+      }
+    ]
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 6,
+      "speaking_time": {
+        "Transcription and Diarization for 20230714-07\u29f811\u29f823 City Commission Meeting.mp4": 4.0,
+        "Commissioner Hadasal": 451.47999999999985,
+        "Commissioner Butler": 76.23999999999998,
+        "Commissioner Morse": 230.48000000000005,
+        "Mayor Hassel": 18.0,
+        "City Attorney Katie Jackson": 583.5999999999999
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [
+        "City Attorney Katie Jackson",
+        "Commissioner Hadasal"
+      ],
+      "observation": "City Attorney Katie Jackson and Commissioner Hadasal seem to dominate the discussion with the longest speaking time. Jackson gives a detailed presentation on the topic of city's official logos and the 'Johnny Caugh' issue, while Commissioner Hadasal, also taking a leading role, speaks at length about various topics."
+    },
+    "interaction_patterns": {
+      "pattern": "Most speakers get their turn, but there aren't many instances of direct dialogue. Commissioner Butler only interjects to clarify or ask for further explanation.",
+      "notable_exchanges": [
+        "Discussion between Commissioner Butler and City Attorney Katie Jackson about the rights and usage of public domain statues and logos."
+      ]
+    },
+    "topic_ownership": [
+      {
+        "speaker": "City Attorney Katie Jackson",
+        "topics": [
+          "City's official logos",
+          "Public domain issue of 'Johnny Caugh'"
+        ]
+      },
+      {
+        "speaker": "Commissioner Morse",
+        "topics": [
+          "General city issues",
+          "Legislative processes"
+        ]
+      }
+    ],
+    "public_participation": {
+      "level": "Low",
+      "observation": "The public participation appears to be low according to the transcript. Most of the speech segments can be attributed to city council members or the city attorney, indicating that there is more discussion happening among officials rather than with the public."
+    }
+  },
+  "emergent_patterns": {
+    "recurring_themes": [
+      {
+        "theme": "Usage and ownership of city logos and landmarks",
+        "evidence": "The discussion about the city's logos, symbols, and landmarks such as the Johnny Caugh statue recurs multiple times in the transcript. The ownership and usage of these assets were under analysis."
+      },
+      {
+        "theme": "City meeting procedures",
+        "evidence": "There is a consistent flow to the meeting following a regular procedure: call to order, roll call, public comments, city manager comments, approval of the agenda, discussion on city matter."
+      }
+    ],
+    "underlying_tensions": [
+      {
+        "tension": "Differing views on responsibility for safeguarding the image of the city",
+        "between": [
+          "City council members"
+        ],
+        "context": "Some city council members express a desire for stricter oversight over how city logos and images are used, especially on social media. They suggest the need for an approval process for changing and using logos."
+      }
+    ],
+    "decision_patterns": {
+      "pattern": "Official decision-making appears to rely heavily on discussing and debating issues at council meetings.",
+      "observation": "Decisions seem to be made after in-depth discussions during these meetings, possibly guided by votes. The approval process for consent agenda items, for example, included a motion, seconding of the motion, and calling of roll."
+    },
+    "language_patterns": {
+      "formality": "Medium",
+      "technical_density": "Low",
+      "emotional_tone": "Neutral",
+      "notable_features": [
+        "Conversational and easy to understand language with interspersed technical terminology related to city management and legal aspects. Use of standard meeting protocols and procedures."
+      ]
+    },
+    "other_insights": [
+      "There appear to be proactive efforts from the city council to involve the public in decision-making processes, evidenced by the repeated call for public comments on different items on the agenda, offering a mechanism for public feedback."
+    ]
+  }
+}

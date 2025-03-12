@@ -1,0 +1,186 @@
+{
+  "open_ended_analysis": {
+    "primary_themes": [
+      {
+        "theme": "Mill-Evy Rate and Tax Rates",
+        "description": "The meeting began with a discussion on the mill-evy rate and tax rates, notably whether to adopt a higher rate due to revenue concerns. It was highlighted that these rates could decrease but not increase. The county clerks emphasized the financial challenges the city faces and the possible anticipation of a changing tax rate in the fall.",
+        "notable_points": [
+          "Discussion on tax rate changes in the fall",
+          "Considerations on adopting a higher tax rate"
+        ]
+      },
+      {
+        "theme": "RCPD Funding",
+        "description": "The council discussed the financial challenges of funding the Riley County Police Department (RCPD). There is a concern regarding a delinquency rate in property taxes impacting the funding of RCPD. It was noted that the city had to provide additional funds to cushion the shortfalls in the previous fiscal year.",
+        "notable_points": [
+          "Concern over a delinquency rate affecting RCPD funding",
+          "Discussion on ways to offset the shortage"
+        ]
+      },
+      {
+        "theme": "ARPA Funds",
+        "description": "The discussion shifted to the use of ARPA funds to offset some of the current budget challenges. There was a discussion on the possibility of using these funds to create buffer against future shortfalls and a discussion on the rules of usage of these funds.",
+        "notable_points": [
+          "Potential use of ARPA funds",
+          "Discussions on rules of usage of ARPA funds"
+        ]
+      }
+    ],
+    "significant_discussions": [
+      {
+        "topic": "Potential mill-evy rate increase",
+        "significance": "This issue is significant as it directly affects the financial policy of the city and can impact the residents' tax burden.",
+        "stakeholders": [
+          "City Council Members",
+          "Residents",
+          "County Clerks"
+        ]
+      },
+      {
+        "topic": "Funding of RCPD",
+        "significance": "The issue is crucial because it pertains to public safety funding, which has a direct impact on the community's well-being.",
+        "stakeholders": [
+          "City Council Members",
+          "RCPD",
+          "Residents"
+        ]
+      },
+      {
+        "topic": "Usage of ARPA funds",
+        "significance": "The discussion on the utilization of the ARPA funds is significant because these funds could mitigate some current budgetary problems, though their usage has regulatory constraints.",
+        "stakeholders": [
+          "City Council Members",
+          "City Departments"
+        ]
+      }
+    ],
+    "unexpected_elements": [
+      {
+        "element": "Public Participation",
+        "context": "A member of the public was allowed to speak multiple times with a cumulative duration longer than the typical five minutes. This flexibility suggested an active interest from the council in public participation."
+      }
+    ]
+  },
+  "directed_analysis": {
+    "land_use": {
+      "present": false,
+      "significance": "Low",
+      "context": "",
+      "notable_points": []
+    },
+    "economic_development": {
+      "present": false,
+      "significance": "Low",
+      "context": "",
+      "notable_points": []
+    },
+    "taxes_budget": {
+      "present": true,
+      "significance": "High",
+      "context": "The council meeting focused heavily on taxes and budget, specifically the projected mill levy rate and the budget for the upcoming year. Discussions centered around understanding the implications of potential changes to the tax rate, balancing expenses and revenue, and the possibility of using American Rescue Plan Act (ARPA) funds to offset expenses. The funding situation of the local police department (RCPD) was also a significant topic, particularly how it relates to property taxes.",
+      "notable_points": [
+        "The council discussed the upcoming tax rate, exploring options of whether to adopt a higher rate or keep it flat. This tied closely with the projected mill levy rate for the city.",
+        "There was discussion on how the RCPD is funded mainly through property taxes, and its potential future impact on the city's financial situation.",
+        "Use of the remaining ARPA funds was debated, with council members suggesting splitting these between parks and recreation and public works or covering RCPD costs."
+      ]
+    },
+    "other_significant_topics": []
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 5,
+      "speaking_time": {
+        "City Manager": 105.16000000000001,
+        "Mayor Morse": 652.5400000000002,
+        "Member of the Public": 451.36,
+        "Commissioner Butler": 161.52,
+        "City Clerk": 53.440000000000005
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [
+        "Mayor Morse",
+        "City Manager",
+        "Commissioner Butler"
+      ],
+      "observation": "Mayor Morse and the City Manager seem to have the most authority in the meeting, asking the most questions and guiding the discussion. Commissioner Butler, though less dominant, makes notable contributions to the discussion."
+    },
+    "interaction_patterns": {
+      "pattern": "Most interactions are either from a speaker asking a question and getting a response, or from a speaker vocally agreeing or disagreeing with a previous statement. The meeting is highly facilitated and structured, with Mayor Morse taking the lead in keeping everything on track.",
+      "notable_exchanges": [
+        "Mayor Morse and City Manager discuss the revenue neutral rate and RCPD budget increase.",
+        "Commissioner Butler and Mayor Morse discuss the potential of using ARPA funds."
+      ]
+    },
+    "topic_ownership": [
+      {
+        "speaker": "City Manager",
+        "topics": [
+          "Financial specifics, delinquency rate, budget"
+        ]
+      },
+      {
+        "speaker": "Mayor Morse",
+        "topics": [
+          "Overall city budget, revenue neutral rate"
+        ]
+      },
+      {
+        "speaker": "Commissioner Butler",
+        "topics": [
+          "Use of ARPA funds"
+        ]
+      },
+      {
+        "speaker": "Member of the Public",
+        "topics": [
+          "Budget planning"
+        ]
+      }
+    ],
+    "public_participation": {
+      "level": "Medium",
+      "observation": "Members of the public engage at certain points, asking pointed questions and making assertions. However, the bulk of the meeting is still dominated by city officials."
+    }
+  },
+  "emergent_patterns": {
+    "recurring_themes": [
+      {
+        "theme": "Budget Discussion",
+        "evidence": "A large part of the conversation revolves around the city's budget, tax rates, and funding sources such as ARPA."
+      },
+      {
+        "theme": "RCPD's expenses",
+        "evidence": "Persistent references to the budget increase needed for the RCPD indicate its significance in financial discussions."
+      },
+      {
+        "theme": "Effects of Inflation",
+        "evidence": "Inflation and its impact on the economy and municipal finances are frequently mentioned."
+      }
+    ],
+    "underlying_tensions": [
+      {
+        "tension": "Preference for lower tax rates vs. Necessary budget increases",
+        "between": [
+          "Council members"
+        ],
+        "context": "Council members express a desire to maintain lower tax rates, but also acknowledge budget increases, notably for the RCPD, as necessary. This creates a difficult decision-making environment."
+      }
+    ],
+    "decision_patterns": {
+      "pattern": "Public Disclosure and Consensus",
+      "observation": "Decisions appear to come after open discussions, with each council member providing their perspective. Decisions also seem to be influenced by informed staff reports and public comments."
+    },
+    "language_patterns": {
+      "formality": "High",
+      "technical_density": "High",
+      "emotional_tone": "Neutral to Serious",
+      "notable_features": [
+        "Extensive use of fiscal and financial terminology, emphasis on data & projections, and active seeking of consensus"
+      ]
+    },
+    "other_insights": [
+      "The meeting shows active attempts to involve the public in decision-making, with targeted questions posed to members of the public. Discussions also showed a focus on both current fiscal health and long-term impacts/sustainability."
+    ]
+  }
+}

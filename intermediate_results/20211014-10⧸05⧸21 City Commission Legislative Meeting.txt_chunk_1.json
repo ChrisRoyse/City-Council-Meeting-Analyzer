@@ -1,0 +1,201 @@
+{
+  "open_ended_analysis": {
+    "primary_themes": [
+      {
+        "theme": "Public Safety and Health",
+        "description": "There was a significant focus on public safety and health during the meeting, with proclamations for Fire Prevention Week and National Physician Assistant Week, emphasizing the importance the city places on these areas.",
+        "notable_points": [
+          "The city proclaimed Fire Prevention Week, urging citizens to understand the sounds of fire safety and invest in smoke and carbon monoxide alarms.",
+          "National Physician Assistants Week was also proclaimed to recognize the significant impact physician assistants have on health care in the Manhattan community."
+        ]
+      },
+      {
+        "theme": "Local Economy and Development",
+        "description": "A substantial portion of the discussion revolved around the city's economic status and development projects. Discussion on sales tax receipts indicated improved economy around town.",
+        "notable_points": [
+          "Economic development agreement for LZ holdings LLC was presented, illustrating continued growth in local business."
+        ]
+      }
+    ],
+    "significant_discussions": [
+      {
+        "topic": "Budget Amendments",
+        "significance": "These amendments shape the city's fiscal plans and respond to shifts in economic conditions, city plans, and citizen priorities.",
+        "stakeholders": [
+          "City Council",
+          "Local residents",
+          "Local businesses",
+          "City Staff"
+        ]
+      },
+      {
+        "topic": "Economic Development Agreement",
+        "significance": "This decision could spur job creation and economic growth within the community.",
+        "stakeholders": [
+          "City Council",
+          "Local residents",
+          "LZ holdings LLC",
+          "Manhattan Area Chamber of Commerce"
+        ]
+      },
+      {
+        "topic": "Welcoming Afghan Allies",
+        "significance": "The city is receiving Afghan families, highlighting Manhattan's role as a welcoming city and its commitment to international humanitarian efforts.",
+        "stakeholders": [
+          "City Council",
+          "Local residents",
+          "Afghan allies coming to settle"
+        ]
+      }
+    ],
+    "unexpected_elements": [
+      {
+        "element": "The retiring of the director of the RCPD was announced",
+        "context": "The announcement of someone's retirement, particularly in a significant role like that of the RCPD director, is a noteworthy event."
+      }
+    ]
+  },
+  "directed_analysis": {
+    "land_use": {
+      "present": false,
+      "significance": "Low",
+      "context": "",
+      "notable_points": []
+    },
+    "economic_development": {
+      "present": true,
+      "significance": "High",
+      "context": "The proposed economic development agreement for LZ Holdings, a full-service real estate development company, was discussed in this meeting. The company is set to invest $1.4 million for their new headquarters office building in Manhattan, creating 13 new jobs. LZ Holdings has been approved for an incentive package from the State Department of Commerce, amounting to $381,485. The city is contemplating investing $5,000 per new job created, totaling $65,000 ultimately.",
+      "notable_points": [
+        "The prime company, a subsidiary of LZ Holdings, has significant operations outside of Kansas and this is their national headquarters.",
+        "The company primarily hires Kansas State University graduates.",
+        "They are currently engaging in multiple projects in cities across the country such as Denver, San Francisco, San Diego, and Austin."
+      ]
+    },
+    "taxes_budget": {
+      "present": true,
+      "significance": "High",
+      "context": "Budget revision was discussed extensively. This was primarily due to increased revenues in various funds. There was a proposition to amend the 2021 budget for six special revenue funds: Fire Pension KPNF fund, Sales Tax fund, Special Street and Highway fund, Downtown Redevelopment TIF fund, Special Street Maintenance fund, and the Equipment Reserve fund. Also, the sales tax receipts for the month of September were discussed. It was mentioned that it was the fifth month in a row over a million dollars was collected in sales tax. These collections have put the city on pace to reach or surpass the 2019 sales tax target and hopefully alleviate pressure from property taxes in the future.",
+      "notable_points": [
+        "There has been five consecutive months of over a million dollars in sales tax collections.",
+        "The city is over-budget on sales tax collections by $600,000."
+      ]
+    },
+    "other_significant_topics": [
+      {
+        "topic": "Public Safety",
+        "significance": "High",
+        "context": "Proclamation and discussion about Fire Prevention Week and National Physicians Assistant Week. Detailed statements were given about the importance of fire safety and the role of physician assistants in healthcare. Invitations were made to participate in activities and efforts of the Manhattan Fire Department during Fire Prevention Week."
+      },
+      {
+        "topic": "Elections",
+        "significance": "Medium",
+        "context": "An announcement was made about the upcoming elections and the corresponding dates for voter registration and advance voting."
+      },
+      {
+        "topic": "Community Development",
+        "significance": "High",
+        "context": "The Manhattan, Kansas community was informed about the arrival of the first Afghan ally family. General updates on this situation and intentions for more ally waves throughout the fall and winter were also discussed. Further, the city, in collaboration with the League of Women Voters, is hosting a candidate forum for residents, in light of the upcoming elections."
+      },
+      {
+        "topic": "City Strategic Plan",
+        "significance": "High",
+        "context": "Discussions on topics such as the public open house for City's prioritization survey and the draft of the city strategic plan were made."
+      }
+    ]
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 6,
+      "speaking_time": {
+        "Transcription and Diarization for 20211014-10\u29f805\u29f821 City Commission Legislative Meeting.mp4": 9.16,
+        "Mayor Butler": 647.2400000000001,
+        "Commissioner Win Butler": 1186.0599999999995,
+        "City Manager": 4.46,
+        "Commissioner Reddy": 145.64,
+        "Brian L. C.": 167.6
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [
+        "Mayor Butler",
+        "Commissioner Win Butler"
+      ],
+      "observation": "Mayor Butler and Commissioner Win Butler took the most speaking time. Mayor Butler leads the meeting, opening the session and moving through agenda items. Commissioner Win Butler also has significant input, contributing regularly to the discussion."
+    },
+    "interaction_patterns": {
+      "pattern": "The discussion primarily follows a structured order, with the Mayor or a designated speaker presenting a topic, after which other commissioners are given opportunities to comment or ask questions. There is evidence of respectful dialogue and working collaboratively towards decisions.",
+      "notable_exchanges": [
+        "Interesting dialogue around economic development agreement for LZ holdings LLC with inputs from different commissioners and city officials"
+      ]
+    },
+    "topic_ownership": [
+      {
+        "speaker": "Mayor Butler",
+        "topics": [
+          "General Meeting Oversight",
+          "Fire Prevention Week Proclamation"
+        ]
+      },
+      {
+        "speaker": "Commissioner Win Butler",
+        "topics": [
+          "New Afghan Residents",
+          "Sales Tax Receipts"
+        ]
+      },
+      {
+        "speaker": "Commissioner Reddy",
+        "topics": [
+          "Retirement of Dennis Director for Riley County Police Department",
+          "League of Women Voters"
+        ]
+      }
+    ],
+    "public_participation": {
+      "level": "Low",
+      "observation": "There is very minimal public participation in this particular Manhattan City Commission meeting. The majority of the speaking and interaction is among city officials present. It is unclear whether there are public members present who chose not to participate, or if there was limited public attendance."
+    }
+  },
+  "emergent_patterns": {
+    "recurring_themes": [
+      {
+        "theme": "Safety and Public Health",
+        "evidence": "Discussion and recognition of Fire Prevention Week and National Physicians Assistant Week, indicating a focus on safety and public health concerns."
+      },
+      {
+        "theme": "Economic Development",
+        "evidence": "Several discussions emphasis on city economy, such as sales tax receipts, the economic development agreement for LZ Holdings, and the strategic plan draft on city website."
+      },
+      {
+        "theme": "Community Participation",
+        "evidence": "Frequent invitations for public comment and mentioning of events like the Veterans Parade and League of Women Voters forum, suggesting an priority on community engagement."
+      }
+    ],
+    "underlying_tensions": [
+      {
+        "tension": "Revenue versus expenditures",
+        "between": [
+          "City council",
+          "Various city departments"
+        ],
+        "context": "Discussion of sales tax receipts, budget amendments, and the demand for funding in areas like street maintenance and fire pension."
+      }
+    ],
+    "decision_patterns": {
+      "pattern": "Group discussion followed by formal motion and vote",
+      "observation": "Most decisions appear to be made through motions put forth by commissioners, followed by group discussion, and then a vote to finalize."
+    },
+    "language_patterns": {
+      "formality": "High",
+      "technical_density": "Medium",
+      "emotional_tone": "Neutral/Professional",
+      "notable_features": [
+        "Frequent usage of procedural language and technical details, particularly around budgets and public policy."
+      ]
+    },
+    "other_insights": [
+      "There's a sense of pride in the city, as evidenced in the welcoming of new residents and commendations for various services. The council also shows an awareness of national happenings, as seen in the recognition of national commemorative weeks and concerns of the national economic climate."
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "open_ended_analysis": {
+    "primary_themes": [
+      {
+        "theme": "Housing Projects and City Incentives",
+        "description": "The meeting largely focused on discussing potential incentives for low income housing projects in Manhattan, Kansas - The Cypress Ridge Project and Sunflower Flats Project.",
+        "notable_points": [
+          "The Council is considering various options for funding and incentives.",
+          "Certain incentives could involve waiving building permit fees and utility hookup costs.",
+          "There is a May 10th deadline for these projects."
+        ]
+      }
+    ],
+    "significant_discussions": [
+      {
+        "topic": "Use of tax credits and funds for housing projects",
+        "significance": "The financial implications and fairness in use of tax credits and funds are critical, the results of these discussions will determine the level of city support the housing projects receive.",
+        "stakeholders": [
+          "City Council",
+          "Manhattan Area Housing Partnerships",
+          "The Eikos Development Corporation",
+          "Taxpayers"
+        ]
+      },
+      {
+        "topic": "Potential changes to city policies",
+        "significance": "The City Council discussed the possibility of changing their policies to increase transparency and fairness. The future policy could use a point system to determine the distribution of funds.",
+        "stakeholders": [
+          "City Council",
+          "Taxpayers",
+          "Potential future housing development companies"
+        ]
+      }
+    ],
+    "unexpected_elements": [
+      {
+        "element": "Hesitation to define a clear stance",
+        "context": "The Council showed hesitation and concern about defining a clear stance on policy changes or committing certain funds, reflecting the complexity and potential implications of these decisions."
+      },
+      {
+        "element": "Little public comment",
+        "context": "Notably, there weren't any public comments on the matters being discussed, which could point to a lack of public awareness or engagement."
+      }
+    ]
+  },
+  "directed_analysis": {
+    "land_use": {
+      "present": true,
+      "significance": "High",
+      "context": "Land use was discussed in the context of the Manhattan Area Housing Partnerships' Cypress Ridge Project and the Oka's Development Corporation\u2019s Sunflower Flats Project. These projects related to low-income housing tax credit. There were discussions about the resolutions in support of these projects and how they would be funded.",
+      "notable_points": [
+        "The Cypress Ridge Project is in the Grand Mere Area and the Sunflower Flats Project is downtown.",
+        "The commission discussed options regarding the funding for these projects.",
+        "The projects are expected to make a significant impact on the city's housing availability."
+      ]
+    },
+    "economic_development": {
+      "present": true,
+      "significance": "High",
+      "context": "Economic development was focused on the development of new housing projects, which are seen as integral factors to the growth of the city.",
+      "notable_points": [
+        "The city's housing efforts are seen as a crucial aspect of economic development.",
+        "The use of the 2012 sales tax fund for economic development was extensively discussed, particularly in relation to the funding for these housing projects."
+      ]
+    },
+    "taxes_budget": {
+      "present": true,
+      "significance": "High",
+      "context": "The discussion about taxes and budget was based on the funding of the housing projects, with a particular focus on using the 2012 sales tax fund for this purpose.",
+      "notable_points": [
+        "The sales tax fund availability was discussed and its limitations acknowledged.",
+        "Concerns were raised about future impacts on taxpayers if the city chose to waive permits and water hookup fees for these projects.",
+        "The commission was cognizant of the need for the careful use of the city\u2019s funds to gain the maximum return in terms of incentives for future projects."
+      ]
+    },
+    "other_significant_topics": [
+      {
+        "topic": "City manager recruitment",
+        "significance": "Medium",
+        "context": "The meeting started off with the discussion about publishing the candidate profile for the city manager recruitment."
+      }
+    ]
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 4,
+      "speaking_time": {
+        "Mayor Butler": 411.84000000000003,
+        "City Clerk": 586.48,
+        "City Manager": 451.52,
+        "Brittany Nolan": 22.64
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [
+        "Mayor Butler",
+        "City Manager"
+      ],
+      "observation": "Mayor Butler and the City Manager seemed to have the most speaking time and controlled the flow of the meeting. The Mayor, being the chair of the meeting set the agenda, moved discussions along and made critical motions. The City Manager provided detailed contributions, often explaining the context or specifics of items on the agenda."
+    },
+    "interaction_patterns": {
+      "pattern": "The meeting has a mostly formal, back-and-forth structure. However, there is room for informal discussions where each speaker voices their opinion on the matter at hand.",
+      "notable_exchanges": [
+        "An extended discussion about the options available for granting city incentives for housing projects, with different speakers voicing their opinions and concerns."
+      ]
+    },
+    "topic_ownership": [
+      {
+        "speaker": "Mayor Butler",
+        "topics": [
+          "Public Comments",
+          "Commission Remarks",
+          "Meeting Agenda"
+        ]
+      },
+      {
+        "speaker": "City Manager",
+        "topics": [
+          "Technical and logistical aspects of city governance",
+          "City incentive options",
+          "Housing Projects"
+        ]
+      },
+      {
+        "speaker": "Brittany Nolan",
+        "topics": [
+          "Interjects with questions or requests for clarification"
+        ]
+      },
+      {
+        "speaker": "City Clerk",
+        "topics": [
+          "Primarily responsible for formalities such as roll calls"
+        ]
+      }
+    ],
+    "public_participation": {
+      "level": "Low",
+      "observation": "There was seemingly low engagement from the public in this meeting. Members of the public were given the opportunity to comment, but there were no comments recorded in this excerpt."
+    }
+  },
+  "emergent_patterns": {
+    "recurring_themes": [
+      {
+        "theme": "Discussion on Low-Income Housing Tax Credit",
+        "evidence": "Discussion on city incentives and financial policies regarding low-income housing projects with repeated references to specific projects: Manhattan Area Housing Partnerships, Cypress Ridge Project and the Eikos Development Corporation Sunflower Flats Project."
+      },
+      {
+        "theme": "Appeal for a defined Policy on Housing",
+        "evidence": "Several commissioners expressed the need for a more defined policy for future funding of low-income housing projects."
+      }
+    ],
+    "underlying_tensions": [
+      {
+        "tension": "Balancing between different policy options and funding sources",
+        "between": [
+          "City Council Members"
+        ],
+        "context": "During the whole discussion, there were varying opinions on the best methods for funding and providing incentives for low-income housing projects. Some members showed concerns about preserving funds for future projects, and which sources of tax revenue should be used."
+      }
+    ],
+    "decision_patterns": {
+      "pattern": "Democratic Decision-Making",
+      "observation": "Decisions were made through proposals, followed by discussions and disagreements, then voting. There is a strong aspect of democratic decision-making and inclusivity in public debates."
+    },
+    "language_patterns": {
+      "formality": "High",
+      "technical_density": "High",
+      "emotional_tone": "Neutral",
+      "notable_features": [
+        "Use of procedural languages",
+        "Code-oriented discussions",
+        "Use of very specific terms like 'Resolution numbers'",
+        "Very little use of colloquial or informal language"
+      ]
+    },
+    "other_insights": [
+      "Most of the conversation revolved around procedural matters and the technical specifics of city policy. This indicates that many meetings are largely functional and focused on the details of executing city policy."
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "open_ended_analysis": {
+    "primary_themes": [
+      {
+        "theme": "Restriction of Public Comments",
+        "description": "There were many concerns about the proposal to limit public comment periods during council meetings. Residents felt the move would suppress public input and democratic dialogue.",
+        "notable_points": [
+          "Proposed limits are seen as an attempt to limit resident participation.",
+          "Citizens feel this move diminishes government transparency and stifles their voices.",
+          "Some speakers claimed that the proposed changes would lead to one-sided discussions since the limited time might only allow views from one side of a contentious topic."
+        ]
+      },
+      {
+        "theme": "Community Growth",
+        "description": "There was a discussion about the need for balanced growth, sustainable development, and income equality in Manhattan, with criticism directed towards existing growth strategies.",
+        "notable_points": [
+          "Some speakers felt that current growth strategies leaving many citizens in poverty and are not contributing to economic development.",
+          "The council is perceived as prioritizing luxury housing and profit over the needs of the citizens."
+        ]
+      },
+      {
+        "theme": "Trust in Local Government",
+        "description": "There was a notable lack of trust towards the city council expressed by some members of the public, accompanied by accusations of inefficiency and criticism of the City Commission's operations.",
+        "notable_points": [
+          "Accusations of poor accountability and transparency.",
+          "Criticism over the council's responsiveness to public input and the handling of public speaking sessions."
+        ]
+      }
+    ],
+    "significant_discussions": [
+      {
+        "topic": "Limitation of Public Comments",
+        "significance": "This policy change could directly impact public participation in local government, potentially undermining democratic processes.",
+        "stakeholders": [
+          "City Council",
+          "Manhattan residents"
+        ]
+      },
+      {
+        "topic": "Community Growth and Development",
+        "significance": "This impacts Manhattan's socio-economic future, where unbalanced growth could lead to social inequities and unsustainable development.",
+        "stakeholders": [
+          "City Council",
+          "Manhattan residents",
+          "Local businesses"
+        ]
+      }
+    ],
+    "unexpected_elements": [
+      {
+        "element": "Intense Criticism of the City Council",
+        "context": "The strength of criticism towards the City Council from several speakers is quite unusual and noteworthy, suggesting a growing disconnect and tension between the council and some parts of the community."
+      }
+    ]
+  },
+  "directed_analysis": {
+    "error": "Failed to parse response",
+    "raw": "{\n    \"land_use\": {\n        \"present\": true,\n        \"significance\": \"Low\",\n        \"context\": \"Land use was mostly touched upon in citizens' comments specifically regarding the ongoing 'mud hole' project with the Midtown Land Company LLC.\",\n        \"notable_points\": [\"Concerns about prioritizing out-of-town developments over local interests\", \"There was not a detailed discussion by the council on this topic, mostly public comments\"]\n    },\n    \"economic_development\": {\n        \"present\": true,\n        \"significance\": \"High\",\n        \"context\": \"Economic development was a significant topic of discussion in public comments. Speakers critiqued the commission's strategies, claiming that they favor business interests over the needs of citizens and fail to produce growth. \n        Some citizens also expressed concern about the commission's decision to reduce the length of time for public comments, interpreting it as a dismissal of their concerns.\",\n        \"notable_points\": [\"Strong criticism from public about previous economic decisions and the potential for changes to public comment rules\"]\n    },\n    \"taxes_budget\": {\n        \"present\": false,\n        \"significance\": \"N/A\",\n        \"context\": \"N/A\",\n        \"notable_points\": []\n    },\n    \"other_significant_topics\": [\n        {\n            \"topic\": \"Public Comments Time Restriction\",\n            \"significance\": \"High\",\n            \"context\": \"Several members of the public voiced concerns about the commission's proposal to reduce time for public comments. They believe this could limit public input and foster mistrust.\"\n        },\n        {\n            \"topic\": \"Community Mental Health\",\n            \"significance\": \"Medium\",\n            \"context\": \"An attendee addressed the issue of increasing hate speech and fear in the community, indicating their effects on mental health. Although no direct response was provided by the council, it remained a significant issue raised by the public.\"\n        }\n    ]\n}"
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 6,
+      "speaking_time": {
+        "Transcription and Diarization for manhattan_ks_broadcast_crbzbgakvrsv4ss68p5q_02\u29f804\u29f825 City Commission Meeting.mp4": 5.0,
+        "Mayor Shimada": 688.52,
+        "City Clerk": 416.42,
+        "Member of the Public": 529.3,
+        "City Manager": 268.64,
+        "Speaker_4": 3.52
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [
+        "Mayor Shimada",
+        "Member of the Public"
+      ],
+      "observation": "Mayor Shimada has the most speaking time, suggesting his role as meeting leader. Members of the Public also have significant speaking time, indicating a strong presence in discussions."
+    },
+    "interaction_patterns": {
+      "pattern": "Speakers generally seem to speak independently without much interaction, possibly due to the formal setting of a city council meeting.",
+      "notable_exchanges": [
+        "Multiple speakers expressing dissatisfaction with potential reduction of speaking time for public comments."
+      ]
+    },
+    "topic_ownership": [
+      {
+        "speaker": "City Clerk",
+        "topics": [
+          "City procedural matters"
+        ]
+      },
+      {
+        "speaker": "City Manager",
+        "topics": [
+          "City operational issues"
+        ]
+      },
+      {
+        "speaker": "Mayor Shimada",
+        "topics": [
+          "Agenda coordination",
+          "City Commission updates"
+        ]
+      },
+      {
+        "speaker": "Member of the Public",
+        "topics": [
+          "Public Comment",
+          "Local Policy Issues",
+          "Concerns about democracy and transparency"
+        ]
+      }
+    ],
+    "public_participation": {
+      "level": "High",
+      "observation": "Members of the public are vocal and engaged. Many contribute substantial speaking time with in-depth comments, critiques, and suggestions for varied issues such as public comment procedure, social issues, and local government approaches."
+    }
+  },
+  "emergent_patterns": {
+    "recurring_themes": [
+      {
+        "theme": "Public participation and engagement",
+        "evidence": "Multiple speakers raised concerns about proposed changes to cut down time for public comments during meetings, expressing that it might limit the exchange of diverse viewpoints."
+      },
+      {
+        "theme": "City governance and its impact on community",
+        "evidence": "Speakers touched on issues related to poverty rates, strategies for economic development, and the perceived lack of accountability from the city council."
+      }
+    ],
+    "underlying_tensions": [
+      {
+        "tension": "Disagreement about the City Council's approach to public comment",
+        "between": [
+          "Members of the public",
+          "City council"
+        ],
+        "context": "Several members of the public criticized the council for their perceived dismissiveness and indifference, indicating a lack of trust in the council's decisions."
+      },
+      {
+        "tension": "A disconnect between the policies of the city council and the needs of the community",
+        "between": [
+          "Members of the public",
+          "City council"
+        ],
+        "context": "Speakers voiced concerns about government decisions and policies, with specific references to the effects of poverty and the importance of mental health."
+      }
+    ],
+    "decision_patterns": {
+      "pattern": "Decisions seem to be made collectively, with input from public comments.",
+      "observation": "The council solicited feedback from the public and announced plans to consider it in their next session. However, speakers suggested the council does not always listen to or value public input."
+    },
+    "language_patterns": {
+      "formality": "High",
+      "technical_density": "Medium",
+      "emotional_tone": "Mixed, ranging from neutral in official proceedings to highly emotional in public comments",
+      "notable_features": [
+        "Usage of formal language and protocol during the meeting, while public comments varied in tone and style."
+      ]
+    },
+    "other_insights": [
+      "A deep concern from several citizens about perceived and potential bias or discrimination in the community and the impact it may have on mental health and the overall community fabric."
+    ]
+  }
+}

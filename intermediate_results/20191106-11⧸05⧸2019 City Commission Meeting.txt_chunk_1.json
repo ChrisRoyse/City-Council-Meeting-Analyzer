@@ -1,0 +1,26 @@
+{
+  "open_ended_analysis": {
+    "error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+  },
+  "directed_analysis": {
+    "error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 5,
+      "speaking_time": {
+        "Transcription and Diarization for 20191106-11\u29f805\u29f82019 City Commission Meeting.mp4": 11.32,
+        "Mayor Michael L. Dotson": 778.0,
+        "Commissioner Reddy": 1184.0,
+        "Commissioner Butler": 504.0,
+        "City Manager": 1.0
+      }
+    },
+    "patterns": {
+      "error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+    }
+  },
+  "emergent_patterns": {
+    "error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+  }
+}

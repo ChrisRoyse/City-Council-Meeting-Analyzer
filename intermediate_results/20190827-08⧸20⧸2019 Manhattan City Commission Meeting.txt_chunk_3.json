@@ -1,0 +1,170 @@
+{
+  "open_ended_analysis": {
+    "primary_themes": [
+      {
+        "theme": "City flag adoption",
+        "description": "There was a discussion and a vote on adopting a new city flag for Manhattan, Kansas, with a design that was selected via public competition.",
+        "notable_points": [
+          "There was some criticism over not including the current flag in the voting options",
+          "The new flag design was largely supported and adopted in the vote"
+        ]
+      },
+      {
+        "theme": "2020 city budget",
+        "description": "Much of the meeting was taken up with discussions regarding the 2020 city budget, with a focus on the balance of raising taxes and maintaining or growing services.",
+        "notable_points": [
+          "Property taxes and sales taxes were discussed, with some voices advocating for keeping property tax increases to a minimum",
+          "The concept of seeking additional revenue from a sales tax was discussed and generally found favorable"
+        ]
+      }
+    ],
+    "significant_discussions": [
+      {
+        "topic": "Property tax vs sales tax",
+        "significance": "This is a key discussion in the city's financial planning process, with significant implications for the city's revenues and the burden on residents.",
+        "stakeholders": [
+          "City council",
+          "Residents",
+          "Local businesses",
+          "City financial staff"
+        ]
+      },
+      {
+        "topic": "Pay raises for city personnel",
+        "significance": "The issue of pay raises was a contentious one, with questions raised about the fairness and sustainability of across-the-board increases. This discussion directly affects the city's budget and staff retention.",
+        "stakeholders": [
+          "City council",
+          "City employees",
+          "Residents"
+        ]
+      }
+    ],
+    "unexpected_elements": [
+      {
+        "element": "Notable disagreement among city council members",
+        "context": "While some disagreement is common in any deliberative body, the level of disagreement and the division over the budget decisions was notable. In particular, the votes on both the flag adoption and the budget were not unanimous, indicating strong differences of opinion."
+      }
+    ]
+  },
+  "directed_analysis": {
+    "land_use": {
+      "present": false,
+      "significance": "Low",
+      "context": "",
+      "notable_points": []
+    },
+    "economic_development": {
+      "present": false,
+      "significance": "Low",
+      "context": "",
+      "notable_points": []
+    },
+    "taxes_budget": {
+      "present": true,
+      "significance": "High",
+      "context": "The council discussed extensively on the city's budget and various issues related to it, including property taxes, sales taxes and spending priorities. A notable focus is on the proposal of a sales tax, which seen as a strategic way to fund the city rather than relying on property tax. The commissioner stressed on the need for the city to grow, expand, not stagnate, and to make investments for the community's future.",
+      "notable_points": [
+        "The council agreed on an increase but raised concerns about possible additional ad-hoc requests.",
+        "Debate occurred regarding whether to reduce pay scales or make cuts elsewhere, and the long-term impact of such choices."
+      ]
+    },
+    "other_significant_topics": [
+      {
+        "topic": "City Flag Design",
+        "significance": "Medium",
+        "context": "Dr. Lind advocated for a community vote to include the possibility of keeping the current flag, suggesting the process was flawed by not offering this option. Dr. Lind showed his support for adopting a new, updated flag design proposed by the community, respecting the input and involvement from the community, especially the children. He made an official motion and the motion carried on adopting the flag design."
+      }
+    ]
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 4,
+      "speaking_time": {
+        "Commissioner Ready": 219.76000000000002,
+        "Mayor Dodson": 555.3599999999998,
+        "Commissioner Dodson": 252.88,
+        "City Manager": 296.88000000000005
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [
+        "Mayor Dodson",
+        "Commissioner Butler",
+        "City Manager"
+      ],
+      "observation": "Mayor Dodson seems to have the final say on many matters, as per his role. Commissioner Butler often initiates discussions and presents alternatives, signaling a dominant and influential position. The City Manager also speaks for lengthy periods, explaining fiscal logic and fielding questions from the commissioners."
+    },
+    "interaction_patterns": {
+      "pattern": "The interaction pattern is lively with frequent back-and-forth exchanges among the speakers. Issues are discussed in a democratic and partially conversational manner, with inputs from various members weighed before decisions are taken.",
+      "notable_exchanges": [
+        "Discussion about the sales tax and property tax between Commissioner Butler and the City Manager, which later involved Mayor Dodson and other Commissioners.",
+        "Exchange between Commissioner Ready and Commissioner Butler about updates to salaries."
+      ]
+    },
+    "topic_ownership": [
+      {
+        "speaker": "Mayor Dodson",
+        "topics": [
+          "Adoption of flag design",
+          "Approval of ordinances"
+        ]
+      },
+      {
+        "speaker": "Commissioner Butler",
+        "topics": [
+          "City budget",
+          "Sales tax and property tax",
+          "Employee salaries"
+        ]
+      },
+      {
+        "speaker": "City Manager",
+        "topics": [
+          "General Fund budget",
+          "City staff salary and retention",
+          "Taxing authorities"
+        ]
+      }
+    ],
+    "public_participation": {
+      "level": "Low",
+      "observation": "Only one member of the public speaks during this meeting, making public participation levels low. Most of the speaking time and discussion is handled by officials and city management."
+    }
+  },
+  "emergent_patterns": {
+    "recurring_themes": [
+      {
+        "theme": "City Growth and Development",
+        "evidence": "Discussions about investments, community support, ongoing projects, and budget allocation all tie back to the theme of city growth and development."
+      },
+      {
+        "theme": "Budgetary Issues",
+        "evidence": "There is ongoing concern about the city budget, the allocation of resources, taxes, and the impact of financial decisions on the community."
+      }
+    ],
+    "underlying_tensions": [
+      {
+        "tension": "Money allocation",
+        "between": [
+          "Commissioners"
+        ],
+        "context": "There is disagreement among the commissioners about where and how much money should be allocated to different initiatives, with tensions arising about budget cuts, tax increases, and salary changes."
+      }
+    ],
+    "decision_patterns": {
+      "pattern": "Majority Voting",
+      "observation": "Decisions seem to be made primarily through majority vote after discussion and debate on the issues at hand."
+    },
+    "language_patterns": {
+      "formality": "High",
+      "technical_density": "Medium",
+      "emotional_tone": "Neutral to Serious",
+      "notable_features": [
+        "Usage of technical financial terms, formal titles (Commissioner, Director) and detailed explanations of the city's finances and budget."
+      ]
+    },
+    "other_insights": [
+      "There is a subtle implication in the discussions that city growth is likely to lead to tax increases, indicating an underlying tension between growth and potential increased financial burden on the community. Also notable is the commissioners' emphasis on future planning and strategic decisions to ensure the city's prosperity."
+    ]
+  }
+}

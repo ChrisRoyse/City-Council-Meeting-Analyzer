@@ -1,0 +1,73 @@
+{
+  "filename": "20231006-10\u29f803\u29f823 City Commission Meeting.txt",
+  "date": "2023-10-06",
+  "file_size": 267083,
+  "open_ended_analysis": {
+    "primary_themes": [],
+    "significant_discussions": [],
+    "unexpected_elements": []
+  },
+  "directed_analysis": {
+    "land_use": {
+      "present": false,
+      "significance": "Low",
+      "context": "",
+      "notable_points": []
+    },
+    "economic_development": {
+      "present": false,
+      "significance": "Low",
+      "context": "",
+      "notable_points": []
+    },
+    "taxes_budget": {
+      "present": false,
+      "significance": "Low",
+      "context": "",
+      "notable_points": []
+    },
+    "other_significant_topics": []
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 4,
+      "speaking_time": {
+        "Transcription and Diarization for 20231006-10\u29f803\u29f823 City Commission Meeting.mp4": 7.36,
+        "Mayor Mark Hadasall": 1144.3799999999999,
+        "Commissioner Morris": 2859.76,
+        "Kathy Ray, Executive Director of the Crisis Center": 163.76000000000005,
+        "Stephanie Peterson, Director of Community Development": 710.0799999999999,
+        "Terry Ripple": 170.80000000000004
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [],
+      "observation": ""
+    },
+    "interaction_patterns": {
+      "pattern": "",
+      "notable_exchanges": []
+    },
+    "topic_ownership": [],
+    "public_participation": {
+      "level": "Unknown",
+      "observation": ""
+    }
+  },
+  "emergent_patterns": {
+    "recurring_themes": [],
+    "underlying_tensions": [],
+    "decision_patterns": {
+      "pattern": "",
+      "observation": ""
+    },
+    "language_patterns": {
+      "formality": "Medium",
+      "technical_density": "Medium",
+      "emotional_tone": "",
+      "notable_features": []
+    },
+    "other_insights": []
+  },
+  "error": null
+}

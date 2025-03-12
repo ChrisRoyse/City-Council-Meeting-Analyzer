@@ -1,0 +1,184 @@
+{
+  "open_ended_analysis": {
+    "primary_themes": [
+      {
+        "theme": "Budget and Financial Management",
+        "description": "The discussion around the proposed budget, tax rates, financial forecast, and the allocation of funds took center stage in this meeting, demonstrating the council's focus on the city's fiscal health.",
+        "notable_points": [
+          "The proposed budget included a decrease of one million dollars for 2025 compared to the spendings in 2023",
+          "The city saw an increase of 4.1% to the tax base which resulted in a tax increase",
+          "The mill levy calculation was presented to the audience"
+        ]
+      },
+      {
+        "theme": "Community Welfare",
+        "description": "Issues related to community welfare were addressed through discussion and recognition of various community organizations and their work.",
+        "notable_points": [
+          "Proclamations declaring Constitution Week and Kansas Big Brother Big Sisters month were presented during the meeting",
+          "Discussion on recognizing September as Recovery Month, acknowledging the importance of recovery from substance use and mental disorders",
+          "Recognition of individuals to participate on a couple of Advisory Boards"
+        ]
+      }
+    ],
+    "significant_discussions": [
+      {
+        "topic": "Budget Proposal and Financial Forecast",
+        "significance": "The budget always forms a crucial part of any council meeting as it drives the key decision points for the year ahead.",
+        "stakeholders": [
+          "Council members",
+          "Mayor",
+          "City residents",
+          "City organizations"
+        ]
+      },
+      {
+        "topic": "Recognition of Organizations and Community Contributions",
+        "significance": "Recognition of proactive organizations within the community and their contributions form a significant part of the community's social fabric and quality of life.",
+        "stakeholders": [
+          "Daughters of the American Revolution",
+          "Big Brothers Big Sisters of Manhattan",
+          "Pawnee Mental Health Services"
+        ]
+      }
+    ],
+    "unexpected_elements": [
+      {
+        "element": "Public Comment Conflict",
+        "context": "There were moments of conflict during the public comment section when one of the speakers had to resign due to disagreement on policy around the stating of residential address. This unexpected element might suggest the need for the council to revisit its public comment policy."
+      }
+    ]
+  },
+  "directed_analysis": {
+    "land_use": {
+      "present": false,
+      "significance": "Low",
+      "context": "Land use, zoning, housing, or urban planning topics were not discussed in this meeting",
+      "notable_points": []
+    },
+    "economic_development": {
+      "present": false,
+      "significance": "Low",
+      "context": "There were no discussions specific to business growth, industry, employment, or downtown development at this meeting",
+      "notable_points": []
+    },
+    "taxes_budget": {
+      "present": true,
+      "significance": "High",
+      "context": "The significant topic in this meeting was the adoption of the 2025 budget and discussions on tax rates and increases. The council discussed the impact of increased property tax, the general fund comparison, the property tax bill that citizens will receive, and projected revenues and expenses for the upcoming year.",
+      "notable_points": [
+        "The 2025 proposed budget resulted in a 1.25% increase in property tax",
+        "The council is considering finding efficiencies and looking at other revenue streams",
+        "There was debate over providing large increases to outside agencies while not offering raises to city employees",
+        "Discussion on the transit guest tax and parks and rec cost recovery as potential sources of revenue"
+      ]
+    },
+    "other_significant_topics": [
+      {
+        "topic": "Proclamations and announcements",
+        "significance": "Medium",
+        "context": "Several proclamations relating to Constitution Week, Big Brothers Big Sisters Month, and Recovery Month were made. There were announcements and updates from the commissioners about various community programs and events ."
+      }
+    ]
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 6,
+      "speaking_time": {
+        "Transcription and Diarization for 20240918-09\u29f817\u29f824 City Commission Meeting.mp4": 9.36,
+        "City Clerk": 643.1199999999998,
+        "Staff Member": 87.35999999999997,
+        "Mayor Adam Jack": 663.5200000000001,
+        "Commissioner Mc": 22.880000000000003,
+        "City Manager": 816.1599999999997
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [
+        "Mayor Adam Jack",
+        "City Manager"
+      ],
+      "observation": "Mayor Adam Jack and the City Manager are two dominant figures in the discussions. The Mayor initiates the meeting, calls for votes, and gives proclamations. The City Manager provides analyses and explanations to the council."
+    },
+    "interaction_patterns": {
+      "pattern": "Speakers are generally respectful, considerate, and allow each other to finish their input before acting or responding. Officials respond to comments from the public, but do not debate or answer questions during public comments.",
+      "notable_exchanges": [
+        "Interaction between the council and Jessica, a trans woman who was asked to provide her residential address."
+      ]
+    },
+    "topic_ownership": [
+      {
+        "speaker": "Mayor Adam Jack",
+        "topics": [
+          "Opening remarks",
+          "Proclamations",
+          "Announcements"
+        ]
+      },
+      {
+        "speaker": "City Manager",
+        "topics": [
+          "2025 Budget",
+          "Transient guest tax",
+          "Employee salaries"
+        ]
+      },
+      {
+        "speaker": "City Clerk",
+        "topics": [
+          "Administering voting procedures"
+        ]
+      },
+      {
+        "speaker": "Staff Member",
+        "topics": [
+          "Answering questions and providing additional information as required"
+        ]
+      }
+    ],
+    "public_participation": {
+      "level": "Medium",
+      "observation": "Public participation exists as indicated by members of the public providing input and comments on various proclamations and agenda items. However, some interactions demonstrate friction, particularly the occurrence with Jessica, which suggests some barriers to public engagement."
+    }
+  },
+  "emergent_patterns": {
+    "recurring_themes": [
+      {
+        "theme": "Budget Constraints",
+        "evidence": "Much of the transcript is consumed with discussion of budgetary matters, with detailed breakdowns of costs, revenue streams, and future projections. Salaries, taxes, and cost recovery are subjects that are frequently touched upon."
+      },
+      {
+        "theme": "Allocations to External Groups",
+        "evidence": "The allocation of funds to external organizations is a common topic of discussion throughout the transcript. The commissioners debate the propriety of increasing funding for outside organizations while city staff does not receive a raise."
+      },
+      {
+        "theme": "Constitution Week",
+        "evidence": "The proclamation of Constitution Week in Manhattan is presented and discussed, along with the various activities and initiatives that will mark the occasion."
+      }
+    ],
+    "underlying_tensions": [
+      {
+        "tension": "Balancing Municipal Needs with External Funding Requests",
+        "between": [
+          "City Commission",
+          "External Organizations"
+        ],
+        "context": "The City Commission struggles to reconcile the city's financial constraints with increasing requests for funding from external organizations. A tension arises between fulfilling internal city needs and adequately supporting outside entities."
+      }
+    ],
+    "decision_patterns": {
+      "pattern": "Consensus Driven",
+      "observation": "Decisions seem to be based on consensus between city commissioners, following in-depth discussions and analyses. The Commission balances various views and priorities, drawing upon detailed financial data and other pertinent information."
+    },
+    "language_patterns": {
+      "formality": "High",
+      "technical_density": "High",
+      "emotional_tone": "Neutral",
+      "notable_features": [
+        "Technical language related to city government and budgeting, formal address, orderly procedures"
+      ]
+    },
+    "other_insights": [
+      "The meeting is highly structured, following a set agenda with formalized procedures for discussion and decision-making. Proclamations, such as Constitution Week or recognition of Big Brothers Big Sisters, appear to offer a chance to shift from more contentious budget discussions and recognize positive community initiatives."
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "open_ended_analysis": {
+    "primary_themes": [
+      {
+        "theme": "Upcoming Community Events and Recognition",
+        "description": "Several commissioners highlighted upcoming community events and acknowledged community members who made significant contributions.",
+        "notable_points": [
+          "National Night Out sponsored by Riley County Police Department.",
+          "Recognition of the passing of Cheryl Collins, a significant local historian.",
+          "Opening of the Eisenhower Rec Center.",
+          "Encouragement for citizens to register for upcoming general elections."
+        ]
+      },
+      {
+        "theme": "City Budget",
+        "description": "Commissioners discussed proposed budget measures in regards to city expenses and property taxes, with differing viewpoints expressed.",
+        "notable_points": [
+          "Some believe the budget increase punishes taxpayers and that the federal money should be used to lower the tax burden.",
+          "Others argue that the budget increase maintains vital services and city employee compensation.",
+          "Significant concerns over unbudgeted expenditures on projects like the parking garage fire suppression system."
+        ]
+      },
+      {
+        "theme": "Levy Project",
+        "description": "Extensive discussion occurred around the Levy Improvement Project, its cost, its funding, and its necessity for city infrastructure.",
+        "notable_points": [
+          "The project entails various improvement measures designed to enhance city's stormwater infrastructure.",
+          "A question about possible missteps in relation to fire security measures in a new parking garage, leading to extra unbudgeted expense.",
+          "Discussion about the split of costs between the city and the United States Army Corps of Engineers."
+        ]
+      }
+    ],
+    "significant_discussions": [
+      {
+        "topic": "City Budget and Taxes",
+        "significance": "Significant disagreement exists on the city budget and property tax rate. This reveals a broader debate about the balance between providing municipal services, compensating city staff, and the tax burden on citizens.",
+        "stakeholders": [
+          "City Commissioners",
+          "City Staff",
+          "Taxpayers"
+        ]
+      },
+      {
+        "topic": "Levy Project",
+        "significance": "This infrastructure project has major implications for the city's storm resilience, as well as immediate financial implications. The debate elucidates fundamental issues including cost-sharing with federal partners, development priorities, and budget accuracy.",
+        "stakeholders": [
+          "City Commissioners",
+          "City Engineer",
+          "United States Army Corps of Engineers",
+          "Taxpayers"
+        ]
+      }
+    ],
+    "unexpected_elements": [
+      {
+        "element": "Intense disagreement and frustration about certain budget line items",
+        "context": "RMajor disagreements emerge in what is supposed to be a routine city council meeting, indicating deeper divisions about the city's spending and development priorities."
+      },
+      {
+        "element": "The Levy improvement Project's increased budget requirement",
+        "context": "The overshot estimate for the Levy Improvement Project sparks considerable debate about fiscal oversight, planning and transparency."
+      }
+    ]
+  },
+  "directed_analysis": {
+    "land_use": {
+      "present": false,
+      "significance": "Low",
+      "context": "Land use was not significantly discussed in this meeting",
+      "notable_points": []
+    },
+    "economic_development": {
+      "present": false,
+      "significance": "Low",
+      "context": "Economic development was not a significant topic of discussion in this meeting",
+      "notable_points": []
+    },
+    "taxes_budget": {
+      "present": true,
+      "significance": "High",
+      "context": "The budget and tax considerations took up a significant portion of the meeting with lively debates over property taxes and the budget of the city. Many commissioners were concerned about the impact of budget increases on the residents, especially given the impacts of COVID-19. The proposed city budget and associated tax implementations were discussed at length.",
+      "notable_points": [
+        "A significant amount of discussion was spent on whether to approve the budget and how much to allocate to various needs",
+        "Discussions on whether to make the city more affordable",
+        "The levy improvement project costs and betterments were discussed in detail"
+      ]
+    },
+    "other_significant_topics": [
+      {
+        "topic": "Levy Improvement Project",
+        "significance": "High",
+        "context": "Much of the meeting was spent discussing the financial and logistical details surrounding a large, ongoing Levy Improvement Project. The project, designed to improve local infrastructure, had a significant budgetary impact, and had attracted both local and federal funding. Specific aspects such as costs, betterments, gate wells, and payment structures were discussed in detail."
+      }
+    ]
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 5,
+      "speaking_time": {
+        "Transcription and Diarization for 20210922-09\u29f821\u29f821 City Commission Legislative Meeting.mp4": 3.08,
+        "Commissioner Morris": 382.74,
+        "Mayor Butler": 702.28,
+        "Brian Johnson, City Engineer": 720.04,
+        "Rob Ott, Director of Public Works": 490.0
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [
+        "Mayor Butler",
+        "Commissioner Morris",
+        "Brian Johnson, City Engineer",
+        "Rob Ott, Director of Public Works"
+      ],
+      "observation": "The Mayor seems to be leading the discussion as expected in such a setting. Commissioner Morris, Brian Johnson, and Rob Ott also get substantial speaking time, suggesting they play important roles in the conversation and decision-making process."
+    },
+    "interaction_patterns": {
+      "pattern": "The Mayor generally directs the flow of the meeting, giving each speaker their turn. The speakers are respectful and listen to each other but are not afraid to express divergent views. The Mayor is careful to ensure all voices are heard.",
+      "notable_exchanges": [
+        "Discussion around the budget and property tax increase",
+        "Fire suppression system of the parking garage"
+      ]
+    },
+    "topic_ownership": [
+      {
+        "speaker": "Commissioner Morris",
+        "topics": [
+          "Community events",
+          "Public recognition",
+          "Voting",
+          "Recreation activities"
+        ]
+      },
+      {
+        "speaker": "Mayor Butler",
+        "topics": [
+          "City administration",
+          "Policy",
+          "City budget"
+        ]
+      },
+      {
+        "speaker": "Brian Johnson, City Engineer",
+        "topics": [
+          "City infrastructure",
+          "Engineering concerns"
+        ]
+      },
+      {
+        "speaker": "Rob Ott, Director of Public Works",
+        "topics": [
+          "Public Works projects",
+          "City infrastructure"
+        ]
+      }
+    ],
+    "public_participation": {
+      "level": "Low",
+      "observation": "This transcript does not suggest high levels of public participation in terms of speaking time. The main contributors are council members and city officials, with only one instance of a public comment being recorded."
+    }
+  },
+  "emergent_patterns": {
+    "recurring_themes": [
+      {
+        "theme": "Financial Prudence in Decision Making",
+        "evidence": "Discussion on the property tax rates, budget allocation, and financial implications for various city projects indicate a strong emphasis on financial prudence."
+      },
+      {
+        "theme": "Infrastructure Development",
+        "evidence": "Multiple mentions of development projects such as: Riley County Police Department event, the Eisenhower Rec Center, the Levy Project, the parking garage, etc."
+      }
+    ],
+    "underlying_tensions": [
+      {
+        "tension": "Balancing City Investment with Taxpayer Burden",
+        "between": [
+          "Commission Members"
+        ],
+        "context": "A couple of members express concern about increased property taxes and maintain that taxpayers should not bear the burden of rising costs. Other members argue the benefits of the city developments. These differences suggest an existing ideological divide."
+      }
+    ],
+    "decision_patterns": {
+      "pattern": "Consensus-driven Decision Making: City commissioners frequently deliberate options and reach joint decisions.",
+      "observation": "Most decisions in the meeting appear to be made after ample discussion and deliberation among city commissioners. The pattern of discussion before decision-making illustrates a consensus-driven approach."
+    },
+    "language_patterns": {
+      "formality": "High",
+      "technical_density": "Medium",
+      "emotional_tone": "Calm yet concerned",
+      "notable_features": [
+        "Use of formal, polite language",
+        "Inclusion of specific details and references to specific locations in the city",
+        "Disagreements addressed respectfully"
+      ]
+    },
+    "other_insights": [
+      "There's an evident commitment to the community, transparency, and accountability among commission members. Despite differences in opinions, all members appear to have the best interests of the Manhattan community in mind."
+    ]
+  }
+}

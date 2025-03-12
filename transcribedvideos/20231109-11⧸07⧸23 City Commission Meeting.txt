@@ -1,0 +1,903 @@
+Transcription and Diarization for 20231109-11⧸07⧸23 City Commission Meeting.mp4
+==================================================
+
+Mayor Hattasal:
+Start: 00:00:00.000
+End: 00:00:07.000
+Duration: 7.000 seconds
+Text: It is 6 o'clock and I call the Tuesday, November 7th City Commission meeting to order.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:00:07.000
+End: 00:00:08.000
+Duration: 1.000 seconds
+Text: Please call the roll.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:08.000
+End: 00:00:09.000
+Duration: 1.000 seconds
+Text: Mayor Hattasal.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:00:09.000
+End: 00:00:10.000
+Duration: 1.000 seconds
+Text: Here.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:10.000
+End: 00:00:11.000
+Duration: 1.000 seconds
+Text: Commissioner Butler.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:11.000
+End: 00:00:12.000
+Duration: 1.000 seconds
+Text: Here.
+--------------------------------------------------
+Commissioner Mottos:
+Start: 00:00:12.000
+End: 00:00:13.000
+Duration: 1.000 seconds
+Text: Commissioner Mottos.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:13.000
+End: 00:00:14.000
+Duration: 1.000 seconds
+Text: Here.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:14.000
+End: 00:00:15.000
+Duration: 1.000 seconds
+Text: Commissioner Mors.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:15.000
+End: 00:00:16.000
+Duration: 1.000 seconds
+Text: Present.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:16.000
+End: 00:00:17.000
+Duration: 1.000 seconds
+Text: Mayor, we have four commissioners present.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:17.000
+End: 00:00:18.000
+Duration: 1.000 seconds
+Text: The Corps of M3 is met.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:00:18.000
+End: 00:00:20.000
+Duration: 2.000 seconds
+Text: Please join me in the pledge of allegiance.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:00:20.000
+End: 00:00:28.000
+Duration: 8.000 seconds
+Text: My pledge of allegiance to the flag of the United States of America and to the Republic for which it stands.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:00:28.000
+End: 00:00:36.000
+Duration: 8.000 seconds
+Text: One Nation, under God, indivisible with liberty and justice for all.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:00:36.000
+End: 00:00:42.000
+Duration: 6.000 seconds
+Text: Since this is the first Tuesday of the month, we have some time for public comments.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:00:42.000
+End: 00:00:47.000
+Duration: 5.000 seconds
+Text: We will have up to these are for items that are not on tonight's consent agenda.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:00:47.000
+End: 00:00:49.000
+Duration: 2.000 seconds
+Text: You have up to five minutes.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:00:49.000
+End: 00:00:53.000
+Duration: 4.000 seconds
+Text: We will want to debate you, but we will take everything you say under advisement.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:00:53.000
+End: 00:00:58.000
+Duration: 5.000 seconds
+Text: Is there anybody who would like to comment on something that is not on the consent agenda?
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:00:58.000
+End: 00:01:01.000
+Duration: 3.000 seconds
+Text: Because that is the only agenda we have.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:01:01.000
+End: 00:01:02.000
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:01:02.000
+End: 00:01:03.000
+Duration: 1.000 seconds
+Text: I will close public comment.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:01:03.000
+End: 00:01:06.000
+Duration: 3.000 seconds
+Text: Commissioners, do you have any comments?
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:01:06.000
+End: 00:01:10.000
+Duration: 4.000 seconds
+Text: Mayor, I would just like to call attention to the Thanksgiving dinner.
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:01:10.000
+End: 00:01:15.000
+Duration: 5.000 seconds
+Text: That is being held here in the community for members of the community.
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:01:15.000
+End: 00:01:18.000
+Duration: 3.000 seconds
+Text: It is being sponsored by Common Table.
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:01:18.000
+End: 00:01:26.000
+Duration: 8.000 seconds
+Text: As you know, that is a coalition of churches here in our area that have coordinated the evening meals.
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:01:26.000
+End: 00:01:32.000
+Duration: 6.000 seconds
+Text: A meal every night of the week for low income, homeless, lonely, whatever.
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:01:32.000
+End: 00:01:36.000
+Duration: 4.000 seconds
+Text: People who need that.
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:01:36.000
+End: 00:01:41.000
+Duration: 5.000 seconds
+Text: So they are rising to the occasion to host a Thanksgiving dinner.
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:01:41.000
+End: 00:01:45.000
+Duration: 4.000 seconds
+Text: We have not done that for a couple of years because of the pandemic.
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:01:45.000
+End: 00:01:53.000
+Duration: 8.000 seconds
+Text: I think I recall that it is being held at the Presbyterian Church here in their big auditorium.
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:01:53.000
+End: 00:02:01.000
+Duration: 8.000 seconds
+Text: So you might stay tuned for that information, for more information about it, because I am not sure of the hours.
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:02:01.000
+End: 00:02:08.000
+Duration: 7.000 seconds
+Text: But I am just really pleased that one year I had, wasn't feeling really well.
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:02:08.000
+End: 00:02:11.000
+Duration: 3.000 seconds
+Text: I couldn't go to my family, where my family was.
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:02:11.000
+End: 00:02:15.000
+Duration: 4.000 seconds
+Text: And so I went to the community meal, wherever it was.
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:02:15.000
+End: 00:02:17.000
+Duration: 2.000 seconds
+Text: And stayed away from people.
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:02:17.000
+End: 00:02:19.000
+Duration: 2.000 seconds
+Text: You know, I said, don't sit by me.
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:02:19.000
+End: 00:02:23.000
+Duration: 4.000 seconds
+Text: But I did see people and had a good meal.
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:02:23.000
+End: 00:02:31.000
+Duration: 8.000 seconds
+Text: So there are times when it is just that spirit of the community that we have in this town.
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:02:31.000
+End: 00:02:36.000
+Duration: 5.000 seconds
+Text: And we look for it and want to.
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:02:36.000
+End: 00:02:39.000
+Duration: 3.000 seconds
+Text: And we have a lot of time that affects us.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:02:39.000
+End: 00:02:41.000
+Duration: 2.000 seconds
+Text: So that is all thanks.
+--------------------------------------------------
+Commissioner Mottos:
+Start: 00:02:41.000
+End: 00:02:42.000
+Duration: 1.000 seconds
+Text: All right, John.
+--------------------------------------------------
+Commissioner Mottos:
+Start: 00:02:42.000
+End: 00:02:43.000
+Duration: 1.000 seconds
+Text: One quick note.
+--------------------------------------------------
+Commissioner Mottos:
+Start: 00:02:43.000
+End: 00:02:46.000
+Duration: 3.000 seconds
+Text: Friday is the Veterans Day Parade on the 10th and stay the 11th.
+--------------------------------------------------
+Commissioner Mottos:
+Start: 00:02:46.000
+End: 00:02:48.000
+Duration: 2.000 seconds
+Text: Of course, City Hall will be closed.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:02:48.000
+End: 00:02:50.000
+Duration: 2.000 seconds
+Text: So turn out for the parade.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:02:50.000
+End: 00:02:53.000
+Duration: 3.000 seconds
+Text: And you still have 57 minutes to vote if you haven't already.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:02:53.000
+End: 00:02:55.000
+Duration: 2.000 seconds
+Text: So make your move if you are going to.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:02:55.000
+End: 00:02:57.000
+Duration: 2.000 seconds
+Text: All right, we will move on to the consent agenda.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:02:57.000
+End: 00:03:00.000
+Duration: 3.000 seconds
+Text: These are items of a routine or housekeeping nature,
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:03:00.000
+End: 00:03:04.000
+Duration: 4.000 seconds
+Text: or items that have been previously reviewed by the City Commission.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:03:04.000
+End: 00:03:07.000
+Duration: 3.000 seconds
+Text: The Commissioner may request an item be removed for separate discussion.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:03:07.000
+End: 00:03:11.000
+Duration: 4.000 seconds
+Text: Any comment from the public will be allowed on any of these items.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:03:11.000
+End: 00:03:16.000
+Duration: 5.000 seconds
+Text: Commissioners, do you have any questions about any of the consent agenda items?
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:03:16.000
+End: 00:03:21.000
+Duration: 5.000 seconds
+Text: I do have one question about C4.
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:03:21.000
+End: 00:03:27.000
+Duration: 6.000 seconds
+Text: The Future Land Use Plan associated with the Comprehensive Plan.
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:03:27.000
+End: 00:03:33.000
+Duration: 6.000 seconds
+Text: We're eliminating the reference to eliminating the document on the points avenue corridor.
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:03:33.000
+End: 00:03:36.000
+Duration: 3.000 seconds
+Text: District Plan.
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:03:36.000
+End: 00:03:42.000
+Duration: 6.000 seconds
+Text: And the developer has asked to drop the Hartford Hill master plan.
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:03:42.000
+End: 00:03:46.000
+Duration: 4.000 seconds
+Text: But my concern is about the point avenue plan.
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:03:46.000
+End: 00:03:52.000
+Duration: 6.000 seconds
+Text: And if we eliminate it, then there's nothing in place with regard to what can go there,
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:03:52.000
+End: 00:03:55.000
+Duration: 3.000 seconds
+Text: other than just the residential considerations.
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:03:55.000
+End: 00:03:57.000
+Duration: 2.000 seconds
+Text: Is there a proposal?
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:03:57.000
+End: 00:04:02.000
+Duration: 5.000 seconds
+Text: Are you going to be bringing something else to replace the point avenue corridor plan?
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:04:02.000
+End: 00:04:08.000
+Duration: 6.000 seconds
+Text: Are you going to be proposing big commercial buildings along there?
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:04:08.000
+End: 00:04:14.000
+Duration: 6.000 seconds
+Text: What is it that the community should expect if we eliminate this?
+--------------------------------------------------
+Commissioner Mottos:
+Start: 00:04:14.000
+End: 00:04:17.000
+Duration: 3.000 seconds
+Text: I think Stephanie's zooming in this evening.
+--------------------------------------------------
+Commissioner Mottos:
+Start: 00:04:17.000
+End: 00:04:18.000
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Mottos:
+Start: 00:04:18.000
+End: 00:04:21.000
+Duration: 3.000 seconds
+Text: Teams in. Stephanie, can you respond to that?
+--------------------------------------------------
+Stephanie Peterson:
+Start: 00:04:21.000
+End: 00:04:23.000
+Duration: 2.000 seconds
+Text: I can. Good evening, commissioners.
+--------------------------------------------------
+Stephanie Peterson:
+Start: 00:04:23.000
+End: 00:04:25.000
+Duration: 2.000 seconds
+Text: Stephanie Peterson.
+--------------------------------------------------
+Stephanie Peterson:
+Start: 00:04:25.000
+End: 00:04:31.000
+Duration: 6.000 seconds
+Text: Yes, so I did some looking after the last meeting we had, Commissioner Morris.
+--------------------------------------------------
+Stephanie Peterson:
+Start: 00:04:31.000
+End: 00:04:36.000
+Duration: 5.000 seconds
+Text: I think the point avenue corridor plan is, I believe it's from 1994.
+--------------------------------------------------
+Stephanie Peterson:
+Start: 00:04:36.000
+End: 00:04:38.000
+Duration: 2.000 seconds
+Text: So it's a little bit out of date there.
+--------------------------------------------------
+Stephanie Peterson:
+Start: 00:04:38.000
+End: 00:04:47.000
+Duration: 9.000 seconds
+Text: Our plan right now is that in in 2024, we would begin this in house effort to update that point avenue corridor plan.
+--------------------------------------------------
+Stephanie Peterson:
+Start: 00:04:47.000
+End: 00:04:56.000
+Duration: 9.000 seconds
+Text: Basically from where the current down to the beyond tomorrow downtown plan ends all the way over to Martin Luther King Jr. Drive.
+--------------------------------------------------
+Stephanie Peterson:
+Start: 00:04:56.000
+End: 00:05:00.000
+Duration: 4.000 seconds
+Text: And I can't speak to what that plan use aspect will look like.
+--------------------------------------------------
+Stephanie Peterson:
+Start: 00:05:00.000
+End: 00:05:05.000
+Duration: 5.000 seconds
+Text: It'll go through a community engagement activity, several of those in fact.
+--------------------------------------------------
+Stephanie Peterson:
+Start: 00:05:05.000
+End: 00:05:13.000
+Duration: 8.000 seconds
+Text: And at the end of that in house effort to come up with that future land use and kind of the community vision for that corridor will end up.
+--------------------------------------------------
+Stephanie Peterson:
+Start: 00:05:13.000
+End: 00:05:20.000
+Duration: 7.000 seconds
+Text: Part of our plan is to hire an engineering consultant to actually help us get to the design aspect.
+--------------------------------------------------
+Stephanie Peterson:
+Start: 00:05:20.000
+End: 00:05:31.000
+Duration: 11.000 seconds
+Text: We've thrown out a few ideas over the years, the Flutenhall's MPO even did some modeling of the point avenue corridor to look at the transportation aspect.
+--------------------------------------------------
+Stephanie Peterson:
+Start: 00:05:31.000
+End: 00:05:39.000
+Duration: 8.000 seconds
+Text: But that'll be about a year long process for us to come up with what that future vision looks like for points avenue.
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:05:39.000
+End: 00:05:49.000
+Duration: 10.000 seconds
+Text: I would personally I would rather keep the old plan in place while we do a study and then implement implement the new one.
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:05:49.000
+End: 00:05:54.000
+Duration: 5.000 seconds
+Text: And delete the old one rather than having nothing in place for the next two years.
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:05:54.000
+End: 00:05:58.000
+Duration: 4.000 seconds
+Text: So I'm going to vote no on that one.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:05:58.000
+End: 00:06:03.000
+Duration: 5.000 seconds
+Text: Okay. Any other commissioners any other questions comments on any items.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:06:03.000
+End: 00:06:05.000
+Duration: 2.000 seconds
+Text: All right. We will throw it open to the public.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:06:05.000
+End: 00:06:13.000
+Duration: 8.000 seconds
+Text: If anyone in the public would like to comment on any of these consent agenda items.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:06:13.000
+End: 00:06:16.000
+Duration: 3.000 seconds
+Text: Come forward.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:06:16.000
+End: 00:06:28.000
+Duration: 12.000 seconds
+Text: If not, we will close public comments. Is there a motion from the commission?
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:06:28.000
+End: 00:06:33.000
+Duration: 5.000 seconds
+Text: Well, we've got a couple minutes.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:06:33.000
+End: 00:06:37.000
+Duration: 4.000 seconds
+Text: We'll reopen it for public comment. 30 seconds.
+--------------------------------------------------
+Commissioner Mottos:
+Start: 00:06:37.000
+End: 00:06:40.000
+Duration: 3.000 seconds
+Text: I'm going to update your name and address.
+--------------------------------------------------
+Commissioner Mottos:
+Start: 00:06:40.000
+End: 00:06:43.000
+Duration: 3.000 seconds
+Text: My name is Emily Tiesen and I live at 8.30.11.
+--------------------------------------------------
+Commissioner Mottos:
+Start: 00:06:43.000
+End: 00:06:51.000
+Duration: 8.000 seconds
+Text: We just love living downtown and I was so thrilled to hear that there is.
+--------------------------------------------------
+Commissioner Mottos:
+Start: 00:06:51.000
+End: 00:06:56.000
+Duration: 5.000 seconds
+Text: Money is available for workforce housing and I was just curious.
+--------------------------------------------------
+Commissioner Mottos:
+Start: 00:06:56.000
+End: 00:07:01.000
+Duration: 5.000 seconds
+Text: If there was any thoughts about, you know, the.
+--------------------------------------------------
+Commissioner Mottos:
+Start: 00:07:01.000
+End: 00:07:07.000
+Duration: 6.000 seconds
+Text: I think we're going to go down to using those downtown or like we think our downtown is so wonderful.
+--------------------------------------------------
+Commissioner Mottos:
+Start: 00:07:07.000
+End: 00:07:14.000
+Duration: 7.000 seconds
+Text: And I was just curious if there were any plans for that many yet.
+--------------------------------------------------
+Commissioner Mottos:
+Start: 00:07:14.000
+End: 00:07:19.000
+Duration: 5.000 seconds
+Text: Thanks for that question. And Stephanie, you can chime in here also.
+--------------------------------------------------
+Commissioner Mottos:
+Start: 00:07:19.000
+End: 00:07:26.000
+Duration: 7.000 seconds
+Text: We have a workforce housing steering committee that's looking at making a lot of study and a lot of issues.
+--------------------------------------------------
+Commissioner Mottos:
+Start: 00:07:26.000
+End: 00:07:30.000
+Duration: 4.000 seconds
+Text: And ultimately we'll be making some recommendations on how best to use those funds.
+--------------------------------------------------
+Commissioner Mottos:
+Start: 00:07:30.000
+End: 00:07:33.000
+Duration: 3.000 seconds
+Text: And I did start being accumulated this year.
+--------------------------------------------------
+Commissioner Mottos:
+Start: 00:07:33.000
+End: 00:07:35.000
+Duration: 2.000 seconds
+Text: Okay. More to come.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:07:35.000
+End: 00:07:38.000
+Duration: 3.000 seconds
+Text: A good sign in on the sheet there.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:07:38.000
+End: 00:07:39.000
+Duration: 1.000 seconds
+Text: Thanks so much.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:07:39.000
+End: 00:07:43.000
+Duration: 4.000 seconds
+Text: Yeah, everything's on the table at this point. Any bright idea? We'll well in the listen.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:07:43.000
+End: 00:07:48.000
+Duration: 5.000 seconds
+Text: Okay. I think we close public comment generally otherwise.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:07:48.000
+End: 00:07:49.000
+Duration: 1.000 seconds
+Text: So if everyone can motion it.
+--------------------------------------------------
+Commissioner Mottos:
+Start: 00:07:49.000
+End: 00:07:51.000
+Duration: 2.000 seconds
+Text: I move we approve the consent agenda.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:07:51.000
+End: 00:07:52.000
+Duration: 1.000 seconds
+Text: Is there a second?
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:07:52.000
+End: 00:07:53.000
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:07:53.000
+End: 00:07:56.000
+Duration: 3.000 seconds
+Text: And moved and seconded to approve the consent agenda.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:07:56.000
+End: 00:07:58.000
+Duration: 2.000 seconds
+Text: Any other questions or comments?
+--------------------------------------------------
+City Clerk:
+Start: 00:07:58.000
+End: 00:08:00.000
+Duration: 2.000 seconds
+Text: If not, we'll call the roll.
+--------------------------------------------------
+Commissioner Mottos:
+Start: 00:08:00.000
+End: 00:08:01.000
+Duration: 1.000 seconds
+Text: Commissioner Butler.
+--------------------------------------------------
+City Clerk:
+Start: 00:08:01.000
+End: 00:08:02.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Mottos:
+Start: 00:08:02.000
+End: 00:08:03.000
+Duration: 1.000 seconds
+Text: Commissioner Mata.
+--------------------------------------------------
+City Clerk:
+Start: 00:08:03.000
+End: 00:08:04.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:08:04.000
+End: 00:08:05.000
+Duration: 1.000 seconds
+Text: Commissioner Moores.
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:08:05.000
+End: 00:08:07.000
+Duration: 2.000 seconds
+Text: Yes, except on C4.
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:08:07.000
+End: 00:08:09.000
+Duration: 2.000 seconds
+Text: I vote no.
+--------------------------------------------------
+City Clerk:
+Start: 00:08:09.000
+End: 00:08:10.000
+Duration: 1.000 seconds
+Text: Mayor Hassel.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:08:10.000
+End: 00:08:11.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:08:11.000
+End: 00:08:12.000
+Duration: 1.000 seconds
+Text: Motion carries.
+--------------------------------------------------
+City Clerk:
+Start: 00:08:12.000
+End: 00:08:17.000
+Duration: 5.000 seconds
+Text: 4 to 0 with the exception of item C4, which carries 3 to 1.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:08:17.000
+End: 00:08:20.000
+Duration: 3.000 seconds
+Text: Well, that is it for tonight. Folks. Thanks for coming.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:08:20.000
+End: 00:08:23.000
+Duration: 3.000 seconds
+Text: The meeting is turned.
+--------------------------------------------------
+Commissioner Mottos:
+Start: 00:08:23.000
+End: 00:08:27.000
+Duration: 4.000 seconds
+Text: Move to November 7, 2023 City Commission meeting.
+--------------------------------------------------
+Commissioner Mottos:
+Start: 00:08:27.000
+End: 00:08:28.000
+Duration: 1.000 seconds
+Text: A second.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:08:28.000
+End: 00:08:30.000
+Duration: 2.000 seconds
+Text: Okay. Now it's been moved and seconded to adjourn.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:08:30.000
+End: 00:08:31.000
+Duration: 1.000 seconds
+Text: Please call the roll.
+--------------------------------------------------
+City Clerk:
+Start: 00:08:31.000
+End: 00:08:32.000
+Duration: 1.000 seconds
+Text: Commissioner Butler.
+--------------------------------------------------
+City Clerk:
+Start: 00:08:32.000
+End: 00:08:34.000
+Duration: 2.000 seconds
+Text: I'm sorry. Commissioner Mata.
+--------------------------------------------------
+Commissioner Mottos:
+Start: 00:08:34.000
+End: 00:08:35.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:08:35.000
+End: 00:08:36.000
+Duration: 1.000 seconds
+Text: Commissioner Moores.
+--------------------------------------------------
+City Clerk:
+Start: 00:08:36.000
+End: 00:08:38.000
+Duration: 2.000 seconds
+Text: Yes. Mayor Hassel.
+--------------------------------------------------
+City Clerk:
+Start: 00:08:38.000
+End: 00:08:39.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Mottos:
+Start: 00:08:39.000
+End: 00:08:40.000
+Duration: 1.000 seconds
+Text: Commissioner Butler.
+--------------------------------------------------
+Commissioner Mottos:
+Start: 00:08:40.000
+End: 00:08:41.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Mottos:
+Start: 00:08:41.000
+End: 00:08:43.000
+Duration: 2.000 seconds
+Text: Eight minutes. The shortest meeting ever.
+--------------------------------------------------
+City Clerk:
+Start: 00:08:43.000
+End: 00:08:44.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:08:44.000
+End: 00:08:45.000
+Duration: 1.000 seconds
+Text: Motion carries. 4 to 0.
+--------------------------------------------------
+Mayor Hattasal:
+Start: 00:08:45.000
+End: 00:08:47.000
+Duration: 2.000 seconds
+Text: Very good. Now the meeting is adjourned.
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:08:47.000
+End: 00:08:52.840
+Duration: 5.840 seconds
+Text: It might be good to mention that because the elections are today, we've kept the agenda
+--------------------------------------------------
+Commissioner Moores:
+Start: 00:08:52.840
+End: 00:08:53.840
+Duration: 1.000 seconds
+Text: short.
+--------------------------------------------------
+Commissioner Mottos:
+Start: 00:08:53.840
+End: 00:08:54.840
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------

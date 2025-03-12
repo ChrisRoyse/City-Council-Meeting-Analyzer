@@ -1,0 +1,4761 @@
+Transcription and Diarization for 20220426-01⧸18⧸2022 City Commission Meeting.mp4
+==================================================
+
+Mayor Linda Morse:
+Start: 00:00:00.000
+End: 00:00:12.080
+Duration: 12.080 seconds
+Text: I'd like to convene this meeting of the January 18th, 2022 meeting of the Manhattan City Commission.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:00:12.080
+End: 00:00:19.520
+Duration: 7.440 seconds
+Text: And we would welcome all of you, especially the audience, if we'd like to begin by having
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:00:19.520
+End: 00:00:22.200
+Duration: 2.680 seconds
+Text: you stand and we'll have the Pledge of Allegiance.
+--------------------------------------------------
+Commissioner:
+Start: 00:00:22.200
+End: 00:00:31.800
+Duration: 9.600 seconds
+Text: I pledge allegiance to the Library of the United States of America and to the Republic for which it stands.
+--------------------------------------------------
+Commissioner:
+Start: 00:00:31.800
+End: 00:00:37.600
+Duration: 5.800 seconds
+Text: Well, my nation under God, indivisible with liberty and justice for all.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:00:37.600
+End: 00:00:53.840
+Duration: 16.240 seconds
+Text: Okay, I'd like to invite those present who are here for the proclamation to please come forward and
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:00:53.840
+End: 00:01:15.280
+Duration: 21.440 seconds
+Text: meet in front of the commission room.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:01:15.280
+End: 00:01:23.840
+Duration: 8.560 seconds
+Text: We have a full house. Please come on closer. I mean, well, I don't know how close is your comfortable.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:01:23.840
+End: 00:01:27.840
+Duration: 4.000 seconds
+Text: Great.
+--------------------------------------------------
+Commissioner:
+Start: 00:01:27.840
+End: 00:01:43.280
+Duration: 15.440 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:01:43.280
+End: 00:01:48.240
+Duration: 4.960 seconds
+Text: Sign of the times. We'll all know what year it was, right?
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:01:48.240
+End: 00:01:58.880
+Duration: 10.640 seconds
+Text: Okay. We're here this evening to recognize national slavery and human trafficking prevention and awareness month.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:01:58.880
+End: 00:02:06.480
+Duration: 7.600 seconds
+Text: And I'm sorry with the mask. It's a little harder to understand, but I'll try and speak slowly and be really clear.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:02:06.480
+End: 00:02:11.680
+Duration: 5.200 seconds
+Text: This evening we have Vern Henriks.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:02:11.680
+End: 00:02:19.280
+Duration: 7.600 seconds
+Text: We know locally with the Greater Manhattan Community Foundation, but he is also the district governor for rotary.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:02:19.280
+End: 00:02:30.640
+Duration: 11.360 seconds
+Text: And rotary, they'll tell you is a is really emphasizing the issue of trying to suppress, do away, whatever with human trafficking.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:02:30.640
+End: 00:02:34.400
+Duration: 3.760 seconds
+Text: And next we have memory.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:02:34.400
+End: 00:02:45.040
+Duration: 10.640 seconds
+Text: Nothing, and I'm not, I've not met her yet, but you sure ready, city commissioner and Robyn Cole from Pawnee Mental Health.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:02:45.040
+End: 00:02:51.920
+Duration: 6.880 seconds
+Text: And so at this point, I'll read the proclamation or an abbreviated form. It's pretty long.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:02:51.920
+End: 00:03:00.400
+Duration: 8.480 seconds
+Text: Whereas each year thousands of men, women and children face this way.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:03:00.400
+End: 00:03:07.440
+Duration: 7.040 seconds
+Text: Our victims of modern day slavery and deprived of their freedom, their human rights and their dignity.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:03:07.440
+End: 00:03:16.960
+Duration: 9.520 seconds
+Text: Traffic trafficking takes the form of forced labor, sex trafficking, child soldiers and involuntary domestic servitude.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:03:16.960
+End: 00:03:30.160
+Duration: 13.200 seconds
+Text: Labor trafficking is the recruitment, harboring, transportation, provision, and obtaining of a person for labor or services through the use of force, fraud or coercion.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:03:30.160
+End: 00:03:39.840
+Duration: 9.680 seconds
+Text: Whereas the US Department of Justice has identified Kansas as an originating state for human trafficking.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:03:39.840
+End: 00:03:53.600
+Duration: 13.760 seconds
+Text: Kansas is a place to stop. Kansas is in a place to stop more traffickers than ever before and give the victims of this heinous crime, the assistance they need and deserve.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:03:53.600
+End: 00:04:04.720
+Duration: 11.120 seconds
+Text: Raising awareness of the driving force behind sex trafficking, the demand for commercial sex is critical in combating human trafficking.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:04:04.720
+End: 00:04:11.040
+Duration: 6.320 seconds
+Text: Buyers who create this demand must be held accountable for their role in sex trafficking.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:04:11.040
+End: 00:04:14.080
+Duration: 3.040 seconds
+Text: Buying is not a victimless crime.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:04:14.080
+End: 00:04:23.440
+Duration: 9.360 seconds
+Text: Now therefore, I, Linda Morris, mayor of the city of Manhattan, do hereby proclaim the month of January as national slavery and human trafficking.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:04:23.440
+End: 00:04:26.160
+Duration: 2.720 seconds
+Text: Prevention and awareness month.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:04:26.160
+End: 00:04:41.760
+Duration: 15.600 seconds
+Text: In the city of Manhattan and encourage all our citizens to become more informed on this growing problem, to be vigilant and report suspicious activity and to work towards solutions to end trafficking in all forms in our community.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:04:41.760
+End: 00:04:49.760
+Duration: 8.000 seconds
+Text: If you see something that doesn't look right, take action and call the national human trafficking hotline.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:04:49.760
+End: 00:04:53.920
+Duration: 4.160 seconds
+Text: So at this point, we have a proclamation.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:04:53.920
+End: 00:05:01.760
+Duration: 7.840 seconds
+Text: Each of these, those present this evening represent different organizations and they're all anxious to get one of our proclamations.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:05:01.760
+End: 00:05:09.280
+Duration: 7.520 seconds
+Text: So I'll just pass this along and I'll invite one or more of you to come forward and speak please.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:05:09.280
+End: 00:05:16.880
+Duration: 7.600 seconds
+Text: Thank you, Mayor Morris.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:05:16.880
+End: 00:05:23.680
+Duration: 6.800 seconds
+Text: So when Mayor Morris says each of us represent a different organization, we are here on behalf of Rotary.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:05:23.680
+End: 00:05:27.280
+Duration: 3.600 seconds
+Text: So Robin Cole is president of the Manhattan Rotary.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:05:27.280
+End: 00:05:37.520
+Duration: 10.240 seconds
+Text: Memory Buffington is a member of the Conza Manhattan Rotary and of course our district governor for 5710 is the for a rotary as well.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:05:37.520
+End: 00:05:41.920
+Duration: 4.400 seconds
+Text: I'm president for the rotary club of community action against human trafficking.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:05:41.920
+End: 00:05:48.160
+Duration: 6.240 seconds
+Text: We are an E club and that's all we do our primary focus and dedication is to eradicate human trafficking.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:05:48.160
+End: 00:05:58.200
+Duration: 10.040 seconds
+Text: And on that note, I want to say our Attorney General Derek Schmidt on January 11th in partnership with Rotaries across our district and a few other districts and
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:05:58.200
+End: 00:06:08.840
+Duration: 10.640 seconds
+Text: Rotary International. We're going to try to put out posters with the national human trafficking hotline in our businesses and other public sectors.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:06:08.840
+End: 00:06:18.880
+Duration: 10.040 seconds
+Text: And we will be doing outreach and if anybody is interested in those posters, please reach out to any one of us or contact our chambers or the Attorney General's office.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:06:18.880
+End: 00:06:27.600
+Duration: 8.720 seconds
+Text: It's extremely important to bring about awareness and education and make sure that number is right there in front of people that need it.
+--------------------------------------------------
+Commissioner:
+Start: 00:06:27.600
+End: 00:06:28.600
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner:
+Start: 00:06:33.600
+End: 00:06:36.960
+Duration: 3.360 seconds
+Text: Since this is a Manhattan Proclamation, I would also like to bring awareness.
+--------------------------------------------------
+Commissioner:
+Start: 00:06:36.960
+End: 00:06:46.400
+Duration: 9.440 seconds
+Text: We have an organization in town called Homestead Ministries that's doing a lot of work to help women get out of the traffic in the process.
+--------------------------------------------------
+Commissioner:
+Start: 00:06:46.400
+End: 00:06:57.280
+Duration: 10.880 seconds
+Text: And we also have another young lady in Manhattan that actually is in Haiti in a mission work where she's actually helping young Haitian boys
+--------------------------------------------------
+Commissioner:
+Start: 00:06:57.280
+End: 00:07:04.240
+Duration: 6.960 seconds
+Text: try to avoid the trafficking business. So this is a worldwide problem. Rotary has certainly taken it on itself.
+--------------------------------------------------
+Commissioner:
+Start: 00:07:04.240
+End: 00:07:11.680
+Duration: 7.440 seconds
+Text: But I'm proud of our community of Manhattan. I'm certainly very proud of these individuals here in the club for their efforts.
+--------------------------------------------------
+Commissioner:
+Start: 00:07:11.680
+End: 00:07:15.320
+Duration: 3.640 seconds
+Text: And you will probably hear more and more as we move forward through the years.
+--------------------------------------------------
+Commissioner:
+Start: 00:07:15.320
+End: 00:07:17.720
+Duration: 2.400 seconds
+Text: So thank you for letting us do this, Mayor.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:07:17.720
+End: 00:07:22.600
+Duration: 4.880 seconds
+Text: Memory, it's nice to meet you.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:07:22.600
+End: 00:07:32.200
+Duration: 9.600 seconds
+Text: The Yusha Reddy, our city commissioner, is the president of an elect.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:07:32.200
+End: 00:07:37.640
+Duration: 5.440 seconds
+Text: It's not the traditional rotary where you go and have lunch or breakfast.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:07:37.640
+End: 00:07:47.120
+Duration: 9.480 seconds
+Text: It's strictly online and it has to be a rotary has that kind of a club if you want to focus on one issue.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:07:47.280
+End: 00:07:50.560
+Duration: 3.280 seconds
+Text: So human trafficking is their issue.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:07:50.560
+End: 00:07:58.240
+Duration: 7.680 seconds
+Text: And I know that you're working closely with people in Topeka and Kansas City, Olaytha, all over.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:07:58.240
+End: 00:08:01.720
+Duration: 3.480 seconds
+Text: But human trafficking is not limited to big cities.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:08:01.720
+End: 00:08:05.960
+Duration: 4.240 seconds
+Text: We have people who disappear every day in our small towns.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:08:05.960
+End: 00:08:11.800
+Duration: 5.840 seconds
+Text: So it is a problem and we have to begin the work or keep the work.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:08:11.800
+End: 00:08:14.760
+Duration: 2.960 seconds
+Text: I know you've begun a long time ago.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:08:14.760
+End: 00:08:16.920
+Duration: 2.160 seconds
+Text: Each of us has to do what we can.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:08:16.920
+End: 00:08:18.120
+Duration: 1.200 seconds
+Text: So thank you all.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:08:18.120
+End: 00:08:19.960
+Duration: 1.840 seconds
+Text: Thank you, Mayor.
+--------------------------------------------------
+Commissioner:
+Start: 00:08:19.960
+End: 00:08:21.960
+Duration: 2.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:08:21.960
+End: 00:08:24.160
+Duration: 2.200 seconds
+Text: Thank you, Robin.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:08:24.160
+End: 00:08:26.160
+Duration: 2.000 seconds
+Text: Thank you, Burke.
+--------------------------------------------------
+Commissioner:
+Start: 00:08:26.160
+End: 00:08:42.560
+Duration: 16.400 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:08:42.560
+End: 00:08:54.240
+Duration: 11.680 seconds
+Text: At this time, I'd like to open the public comments section of our meeting to anyone interested
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:08:54.240
+End: 00:08:59.840
+Duration: 5.600 seconds
+Text: in making in-person comments.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:08:59.840
+End: 00:09:07.960
+Duration: 8.120 seconds
+Text: But they should not be related to an item on our agenda because there'll be a time later for that.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:09:07.960
+End: 00:09:14.000
+Duration: 6.040 seconds
+Text: Those, if anyone's, I think no one signed up ahead of time to speak, right?
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:09:14.000
+End: 00:09:15.000
+Duration: 1.000 seconds
+Text: Right?
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:09:15.000
+End: 00:09:22.240
+Duration: 7.240 seconds
+Text: So if there's anyone in this room that wishes to come forward and speak to an issue, please come forward.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:09:22.240
+End: 00:09:23.240
+Duration: 1.000 seconds
+Text: Hello.
+--------------------------------------------------
+Commissioner:
+Start: 00:09:23.240
+End: 00:09:24.240
+Duration: 1.000 seconds
+Text: Howdy, howdy.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:09:24.240
+End: 00:09:25.240
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner:
+Start: 00:09:25.240
+End: 00:09:29.240
+Duration: 4.000 seconds
+Text: Sorry, I didn't sign up earlier.
+--------------------------------------------------
+Commissioner:
+Start: 00:09:29.240
+End: 00:09:32.240
+Duration: 3.000 seconds
+Text: Oh, don't worry about it.
+--------------------------------------------------
+Commissioner:
+Start: 00:09:32.240
+End: 00:09:37.840
+Duration: 5.600 seconds
+Text: Brad Everett, mine is going to be real quick.
+--------------------------------------------------
+Commissioner:
+Start: 00:09:37.840
+End: 00:09:38.840
+Duration: 1.000 seconds
+Text: Try to make sure I get an address.
+--------------------------------------------------
+Commissioner:
+Start: 00:09:38.840
+End: 00:09:41.440
+Duration: 2.600 seconds
+Text: It's in the sitting man hat in here.
+--------------------------------------------------
+Commissioner:
+Start: 00:09:41.440
+End: 00:09:43.440
+Duration: 2.000 seconds
+Text: There's three.
+--------------------------------------------------
+Commissioner:
+Start: 00:09:43.440
+End: 00:09:45.960
+Duration: 2.520 seconds
+Text: There we go.
+--------------------------------------------------
+Commissioner:
+Start: 00:09:45.960
+End: 00:09:50.600
+Duration: 4.640 seconds
+Text: I want to let her be know for those that have an chance to see it.
+--------------------------------------------------
+Commissioner:
+Start: 00:09:50.600
+End: 00:09:54.720
+Duration: 4.120 seconds
+Text: But we have one of Manhattan's bright stars.
+--------------------------------------------------
+Commissioner:
+Start: 00:09:54.720
+End: 00:09:58.720
+Duration: 4.000 seconds
+Text: I'm vaccinated, boosted and Scorpio or whatever, so I'm okay.
+--------------------------------------------------
+Commissioner:
+Start: 00:09:58.720
+End: 00:09:59.720
+Duration: 1.000 seconds
+Text: Take the mask down.
+--------------------------------------------------
+Commissioner:
+Start: 00:09:59.720
+End: 00:10:06.920
+Duration: 7.200 seconds
+Text: But Bridget Everett, my sister, I think Ned did a nice job with the Mercury, but she's
+--------------------------------------------------
+Commissioner:
+Start: 00:10:06.920
+End: 00:10:09.560
+Duration: 2.640 seconds
+Text: had wonderful reviews.
+--------------------------------------------------
+Commissioner:
+Start: 00:10:09.560
+End: 00:10:13.280
+Duration: 3.720 seconds
+Text: And she just premiered her show.
+--------------------------------------------------
+Commissioner:
+Start: 00:10:13.280
+End: 00:10:14.800
+Duration: 1.520 seconds
+Text: It's somebody somewhere.
+--------------------------------------------------
+Commissioner:
+Start: 00:10:14.800
+End: 00:10:16.920
+Duration: 2.120 seconds
+Text: And it highlights Manhattan, Kansas.
+--------------------------------------------------
+Commissioner:
+Start: 00:10:16.920
+End: 00:10:23.320
+Duration: 6.400 seconds
+Text: In fact, there's footage, not all that was accepted, but of Red Nelliant and different
+--------------------------------------------------
+Commissioner:
+Start: 00:10:23.320
+End: 00:10:28.920
+Duration: 5.600 seconds
+Text: clips of Manhattan and supposedly the next week or two.
+--------------------------------------------------
+Commissioner:
+Start: 00:10:28.920
+End: 00:10:34.720
+Duration: 5.800 seconds
+Text: She's going to meet with the HBO President, some of the brass to maybe extend into next season.
+--------------------------------------------------
+Commissioner:
+Start: 00:10:34.720
+End: 00:10:41.600
+Duration: 6.880 seconds
+Text: But iceplurge spent $12 on HBO on her.
+--------------------------------------------------
+Commissioner:
+Start: 00:10:42.320
+End: 00:10:47.960
+Duration: 5.640 seconds
+Text: It is, which hopefully she'll be able to see this tape, but it's worth seeing.
+--------------------------------------------------
+Commissioner:
+Start: 00:10:47.960
+End: 00:10:54.040
+Duration: 6.080 seconds
+Text: It really is a nice reflection of Manhattan and she keeps dressed, which is a nice thing.
+--------------------------------------------------
+Commissioner:
+Start: 00:10:54.040
+End: 00:10:56.560
+Duration: 2.520 seconds
+Text: If anybody's seeing some of my things, my sister have done.
+--------------------------------------------------
+Commissioner:
+Start: 00:10:56.560
+End: 00:11:00.800
+Duration: 4.240 seconds
+Text: So I think you'll find it in good taste and good reflection of what Manhattan really
+--------------------------------------------------
+Commissioner:
+Start: 00:11:00.800
+End: 00:11:01.800
+Duration: 1.000 seconds
+Text: really is.
+--------------------------------------------------
+Commissioner:
+Start: 00:11:01.800
+End: 00:11:03.880
+Duration: 2.080 seconds
+Text: It's a great community and I think it's well represented.
+--------------------------------------------------
+Commissioner:
+Start: 00:11:03.880
+End: 00:11:07.920
+Duration: 4.040 seconds
+Text: So at least want to tip my hat to her and appreciate the opportunity.
+--------------------------------------------------
+Commissioner:
+Start: 00:11:07.920
+End: 00:11:08.920
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:11:08.920
+End: 00:11:10.680
+Duration: 1.760 seconds
+Text: I'm anxious to see it.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:11:10.680
+End: 00:11:15.000
+Duration: 4.320 seconds
+Text: I'm hoping we can have some kind of a showing here in Manhattan.
+--------------------------------------------------
+Commissioner:
+Start: 00:11:15.000
+End: 00:11:17.680
+Duration: 2.680 seconds
+Text: So I'll give you my sign on for HBO.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:11:17.680
+End: 00:11:18.680
+Duration: 1.000 seconds
+Text: Oh no.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:11:18.680
+End: 00:11:21.680
+Duration: 3.000 seconds
+Text: I understand that.
+--------------------------------------------------
+Commissioner:
+Start: 00:11:21.680
+End: 00:11:22.680
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner:
+Start: 00:11:28.680
+End: 00:11:29.680
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner:
+Start: 00:11:29.680
+End: 00:11:30.680
+Duration: 1.000 seconds
+Text: Good evening.
+--------------------------------------------------
+Commissioner:
+Start: 00:11:30.680
+End: 00:11:32.680
+Duration: 2.000 seconds
+Text: My name is Kevin Crawford.
+--------------------------------------------------
+Commissioner:
+Start: 00:11:32.680
+End: 00:11:39.520
+Duration: 6.840 seconds
+Text: My wife and I met and lived in Manhattan some 30 odd years ago, moved to the Pacific Northwest.
+--------------------------------------------------
+Commissioner:
+Start: 00:11:39.520
+End: 00:11:42.400
+Duration: 2.880 seconds
+Text: I have been on a city commission, a city council.
+--------------------------------------------------
+Commissioner:
+Start: 00:11:42.400
+End: 00:11:47.600
+Duration: 5.200 seconds
+Text: I understand your job a little bit and I know what it's like to be here until one or
+--------------------------------------------------
+Commissioner:
+Start: 00:11:47.600
+End: 00:11:51.240
+Duration: 3.640 seconds
+Text: two in the morning when you deliberate over city business.
+--------------------------------------------------
+Commissioner:
+Start: 00:11:51.240
+End: 00:11:56.360
+Duration: 5.120 seconds
+Text: So I asked for a little bit of indulgence as I go through this, but a little grace if
+--------------------------------------------------
+Commissioner:
+Start: 00:11:56.360
+End: 00:11:57.360
+Duration: 1.000 seconds
+Text: I could.
+--------------------------------------------------
+Commissioner:
+Start: 00:11:57.360
+End: 00:12:05.160
+Duration: 7.800 seconds
+Text: I am a cigar smoker and I am sure that you have deliberated indoor smoking probably a
+--------------------------------------------------
+Commissioner:
+Start: 00:12:05.160
+End: 00:12:11.680
+Duration: 6.520 seconds
+Text: million times here in the last year, but I'd like to bring a bring about my thoughts on
+--------------------------------------------------
+Commissioner:
+Start: 00:12:11.680
+End: 00:12:13.840
+Duration: 2.160 seconds
+Text: this anyway.
+--------------------------------------------------
+Commissioner:
+Start: 00:12:13.840
+End: 00:12:16.960
+Duration: 3.120 seconds
+Text: I have been sober for 34 years.
+--------------------------------------------------
+Commissioner:
+Start: 00:12:16.960
+End: 00:12:20.360
+Duration: 3.400 seconds
+Text: I don't drink and I don't go to bars.
+--------------------------------------------------
+Commissioner:
+Start: 00:12:20.360
+End: 00:12:26.080
+Duration: 5.720 seconds
+Text: I don't go to bars because there's alcohol there and it calls to me if I'm there.
+--------------------------------------------------
+Commissioner:
+Start: 00:12:26.080
+End: 00:12:32.960
+Duration: 6.880 seconds
+Text: So I would think that if you are not a cigar smoker, I don't look at you right now is going,
+--------------------------------------------------
+Commissioner:
+Start: 00:12:32.960
+End: 00:12:36.040
+Duration: 3.080 seconds
+Text: well, get on board with this, right?
+--------------------------------------------------
+Commissioner:
+Start: 00:12:36.040
+End: 00:12:44.360
+Duration: 8.320 seconds
+Text: But in the city of New York, I think it was, recently they passed a law where 32-ounce
+--------------------------------------------------
+Commissioner:
+Start: 00:12:44.360
+End: 00:12:50.160
+Duration: 5.800 seconds
+Text: drinks were illegal and they were worried about people's health.
+--------------------------------------------------
+Commissioner:
+Start: 00:12:50.160
+End: 00:12:57.800
+Duration: 7.640 seconds
+Text: And to me, if I can speak candidly, that feels like government overreach and being here
+--------------------------------------------------
+Commissioner:
+Start: 00:12:57.800
+End: 00:13:03.880
+Duration: 6.080 seconds
+Text: and driving back and forth to Topeka in icy weather so that I don't have to sit outside
+--------------------------------------------------
+Commissioner:
+Start: 00:13:03.880
+End: 00:13:09.800
+Duration: 5.920 seconds
+Text: to have a cigar, I tend to feel in that hour drive that it feels a little bit like government
+--------------------------------------------------
+Commissioner:
+Start: 00:13:09.800
+End: 00:13:16.520
+Duration: 6.720 seconds
+Text: overreach to me to deny people the ability to have a cigar indoors.
+--------------------------------------------------
+Commissioner:
+Start: 00:13:16.520
+End: 00:13:19.880
+Duration: 3.360 seconds
+Text: On beautiful days like today, I sat in the park.
+--------------------------------------------------
+Commissioner:
+Start: 00:13:19.880
+End: 00:13:26.800
+Duration: 6.920 seconds
+Text: It was gorgeous and I enjoyed two cigars, one in Long Park and one in Manhattan City Park.
+--------------------------------------------------
+Commissioner:
+Start: 00:13:26.800
+End: 00:13:30.680
+Duration: 3.880 seconds
+Text: But there are families there and children there.
+--------------------------------------------------
+Commissioner:
+Start: 00:13:30.680
+End: 00:13:36.160
+Duration: 5.480 seconds
+Text: And you know, cigar smokers are going to smoke cigars.
+--------------------------------------------------
+Commissioner:
+Start: 00:13:36.160
+End: 00:13:44.080
+Duration: 7.920 seconds
+Text: And I would think that if we had the ability to be inside of a private club or have the
+--------------------------------------------------
+Commissioner:
+Start: 00:13:44.080
+End: 00:13:51.480
+Duration: 7.400 seconds
+Text: ability to be inside of a business, or if a business had the ability to make that decision,
+--------------------------------------------------
+Commissioner:
+Start: 00:13:51.480
+End: 00:13:54.160
+Duration: 2.680 seconds
+Text: you know, it's opportunity cost.
+--------------------------------------------------
+Commissioner:
+Start: 00:13:54.160
+End: 00:14:00.600
+Duration: 6.440 seconds
+Text: If a business owner decides that he doesn't want cigar smoke in his business because it
+--------------------------------------------------
+Commissioner:
+Start: 00:14:00.600
+End: 00:14:06.800
+Duration: 6.200 seconds
+Text: will offend other patrons, he absolutely has that right.
+--------------------------------------------------
+Commissioner:
+Start: 00:14:06.800
+End: 00:14:12.880
+Duration: 6.080 seconds
+Text: But if a private club, such as, say the amvets, to me it's almost a slap in the face of
+--------------------------------------------------
+Commissioner:
+Start: 00:14:12.880
+End: 00:14:18.040
+Duration: 5.160 seconds
+Text: the veteran to be able to say, I know that you fought for our country, you've done this,
+--------------------------------------------------
+Commissioner:
+Start: 00:14:18.040
+End: 00:14:21.120
+Duration: 3.080 seconds
+Text: but you're not going to smoke anywhere indoors.
+--------------------------------------------------
+Commissioner:
+Start: 00:14:21.280
+End: 00:14:28.720
+Duration: 7.440 seconds
+Text: For those that don't wish to smoke, they don't have to belong to that particular club.
+--------------------------------------------------
+Commissioner:
+Start: 00:14:28.720
+End: 00:14:33.920
+Duration: 5.200 seconds
+Text: It's my contention that this is a liberty.
+--------------------------------------------------
+Commissioner:
+Start: 00:14:33.920
+End: 00:14:37.600
+Duration: 3.680 seconds
+Text: And when we say our pledge of allegiance, we talk about the liberties.
+--------------------------------------------------
+Commissioner:
+Start: 00:14:37.600
+End: 00:14:40.200
+Duration: 2.600 seconds
+Text: And this is a civil liberty to me.
+--------------------------------------------------
+Commissioner:
+Start: 00:14:40.200
+End: 00:14:47.880
+Duration: 7.680 seconds
+Text: And I would like the opportunity or the ability to be able to express myself sitting in a cigar
+--------------------------------------------------
+Commissioner:
+Start: 00:14:47.880
+End: 00:14:48.880
+Duration: 1.000 seconds
+Text: club.
+--------------------------------------------------
+Commissioner:
+Start: 00:14:48.880
+End: 00:14:55.880
+Duration: 7.000 seconds
+Text: And I'm sure that probably nobody on this in Dias is a cigar smoker that goes to a cigar
+--------------------------------------------------
+Commissioner:
+Start: 00:14:55.880
+End: 00:14:57.720
+Duration: 1.840 seconds
+Text: club.
+--------------------------------------------------
+Commissioner:
+Start: 00:14:57.720
+End: 00:15:03.240
+Duration: 5.520 seconds
+Text: But these are more like salons of the old days, you know, where they would sit and drink
+--------------------------------------------------
+Commissioner:
+Start: 00:15:03.240
+End: 00:15:10.360
+Duration: 7.120 seconds
+Text: coffee or sit and discuss politics, religion, peace.
+--------------------------------------------------
+Commissioner:
+Start: 00:15:10.360
+End: 00:15:18.760
+Duration: 8.400 seconds
+Text: They are very upscale intellectual places where people go to just enjoy the company of
+--------------------------------------------------
+Commissioner:
+Start: 00:15:18.840
+End: 00:15:22.440
+Duration: 3.600 seconds
+Text: other cigar smokers and be a part of that salon.
+--------------------------------------------------
+Commissioner:
+Start: 00:15:22.440
+End: 00:15:26.480
+Duration: 4.040 seconds
+Text: I'm sure you've deliberated and talked about this to death.
+--------------------------------------------------
+Commissioner:
+Start: 00:15:26.480
+End: 00:15:33.440
+Duration: 6.960 seconds
+Text: But I would like you to reconsider the idea of opening up a cigar lounge or being able
+--------------------------------------------------
+Commissioner:
+Start: 00:15:33.440
+End: 00:15:42.760
+Duration: 9.320 seconds
+Text: to smoke indoors as owned by a business owner to make that decision for the business itself.
+--------------------------------------------------
+Commissioner:
+Start: 00:15:42.760
+End: 00:15:47.120
+Duration: 4.360 seconds
+Text: If a business decides not to have smoking, that's their right.
+--------------------------------------------------
+Commissioner:
+Start: 00:15:47.120
+End: 00:15:49.800
+Duration: 2.680 seconds
+Text: And I support that 100%.
+--------------------------------------------------
+Commissioner:
+Start: 00:15:49.800
+End: 00:15:54.920
+Duration: 5.120 seconds
+Text: But if a business decides that they want to open up so that they could invite smokers
+--------------------------------------------------
+Commissioner:
+Start: 00:15:54.920
+End: 00:16:00.280
+Duration: 5.360 seconds
+Text: to be there, I think that's their right as well.
+--------------------------------------------------
+Commissioner:
+Start: 00:16:00.280
+End: 00:16:03.800
+Duration: 3.520 seconds
+Text: And I don't have any formal papers to give you.
+--------------------------------------------------
+Commissioner:
+Start: 00:16:03.800
+End: 00:16:05.120
+Duration: 1.320 seconds
+Text: I've looked online.
+--------------------------------------------------
+Commissioner:
+Start: 00:16:05.120
+End: 00:16:12.360
+Duration: 7.240 seconds
+Text: I've seen things where soda is considered more dangerous than having a cigar a day.
+--------------------------------------------------
+Commissioner:
+Start: 00:16:12.360
+End: 00:16:15.600
+Duration: 3.240 seconds
+Text: You know, it takes 40 minutes or so to smoke a cigar.
+--------------------------------------------------
+Commissioner:
+Start: 00:16:15.600
+End: 00:16:19.240
+Duration: 3.640 seconds
+Text: You can drink a 12 ounce coke in about 30 seconds.
+--------------------------------------------------
+Commissioner:
+Start: 00:16:19.240
+End: 00:16:25.840
+Duration: 6.600 seconds
+Text: But if you drink 40 minutes worth of soda, of course, you're going to have diabetes and
+--------------------------------------------------
+Commissioner:
+Start: 00:16:25.840
+End: 00:16:27.880
+Duration: 2.040 seconds
+Text: get sick and ill.
+--------------------------------------------------
+Commissioner:
+Start: 00:16:27.880
+End: 00:16:33.800
+Duration: 5.920 seconds
+Text: So what happens when the council decides that there's no donuts?
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:16:33.800
+End: 00:16:35.640
+Duration: 1.840 seconds
+Text: Mr. Crawford.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:16:35.640
+End: 00:16:39.520
+Duration: 3.880 seconds
+Text: We have a time limit of five minutes and I appreciate you coming this evening.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:16:39.520
+End: 00:16:42.120
+Duration: 2.600 seconds
+Text: It's not something we have talked about.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:16:42.120
+End: 00:16:43.120
+Duration: 1.000 seconds
+Text: Thank you for coming.
+--------------------------------------------------
+Commissioner:
+Start: 00:16:43.120
+End: 00:16:46.840
+Duration: 3.720 seconds
+Text: I have a question for clarification.
+--------------------------------------------------
+Commissioner:
+Start: 00:16:46.840
+End: 00:16:52.840
+Duration: 6.000 seconds
+Text: Are you or do you know somebody that's pondering opening up a cigar club if the laws were changed?
+--------------------------------------------------
+Commissioner:
+Start: 00:16:52.840
+End: 00:16:59.240
+Duration: 6.400 seconds
+Text: I just spoke to somebody this afternoon who has a, he sells cigars in the shop and he
+--------------------------------------------------
+Commissioner:
+Start: 00:16:59.240
+End: 00:17:06.160
+Duration: 6.920 seconds
+Text: would like the ability to extend it to a lounge.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:17:06.160
+End: 00:17:07.160
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:17:07.160
+End: 00:17:11.680
+Duration: 4.520 seconds
+Text: I think there's someone who has, are there other?
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:17:11.680
+End: 00:17:12.680
+Duration: 1.000 seconds
+Text: That's gone.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:17:12.680
+End: 00:17:13.680
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:17:13.680
+End: 00:17:24.360
+Duration: 10.680 seconds
+Text: We have one person, Alexandria Julian, who signed up in advance to speak and so she is prepared.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:17:24.360
+End: 00:17:25.360
+Duration: 1.000 seconds
+Text: She has a PowerPoint.
+--------------------------------------------------
+Commissioner:
+Start: 00:17:25.360
+End: 00:17:26.360
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:17:26.360
+End: 00:17:30.400
+Duration: 4.040 seconds
+Text: Last meeting I went to was a bit more packed.
+--------------------------------------------------
+Commissioner:
+Start: 00:17:30.400
+End: 00:17:31.400
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:17:31.400
+End: 00:17:35.840
+Duration: 4.440 seconds
+Text: I'm sorry you had to come back, but I appreciate it.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:17:35.840
+End: 00:17:37.640
+Duration: 1.800 seconds
+Text: It gave me an idea of what I was facing.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:17:37.640
+End: 00:17:38.640
+Duration: 1.000 seconds
+Text: There you go.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:17:38.640
+End: 00:17:45.640
+Duration: 7.000 seconds
+Text: I really get to.
+--------------------------------------------------
+Commissioner:
+Start: 00:17:45.640
+End: 00:17:46.640
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:17:46.640
+End: 00:18:05.760
+Duration: 19.120 seconds
+Text: Thank you for addressing my issue today.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:18:05.920
+End: 00:18:18.080
+Duration: 12.160 seconds
+Text: Next part was the definition of the ill insanlar.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:18:18.080
+End: 00:18:21.780
+Duration: 3.700 seconds
+Text: On caps, I get to work in And now in order to write a behavioral background, in order to
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:18:21.780
+End: 00:18:28.040
+Duration: 6.260 seconds
+Text: create a Lives Matter or had to be continued through a social development initiative.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:18:28.040
+End: 00:18:35.040
+Duration: 7.000 seconds
+Text: It's actually a continuous resolution, and someயas have it that are very different.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:18:35.040
+End: 00:18:38.700
+Duration: 3.660 seconds
+Text: used in the ordinance to identify aggressive dogs.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:18:38.700
+End: 00:18:43.520
+Duration: 4.820 seconds
+Text: Additionally, the definition of an aggressive dog is stated in a manner that insinuates specific
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:18:43.520
+End: 00:18:46.680
+Duration: 3.160 seconds
+Text: dogs can be born bad.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:18:46.680
+End: 00:18:50.840
+Duration: 4.160 seconds
+Text: Although Manhattan does not enforce these regulations as aggressively as other places,
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:18:50.840
+End: 00:18:54.920
+Duration: 4.080 seconds
+Text: the existence of them in written law poses a threat nonetheless as it allows fear to
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:18:54.920
+End: 00:18:57.760
+Duration: 2.840 seconds
+Text: govern what justice should.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:18:57.760
+End: 00:19:02.320
+Duration: 4.560 seconds
+Text: This ordinance would be the guideline if a case did occur.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:19:02.320
+End: 00:19:05.320
+Duration: 3.000 seconds
+Text: So how does someone know if their dog is dangerous?
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:19:05.320
+End: 00:19:09.640
+Duration: 4.320 seconds
+Text: In the ordinance, a dangerous dog includes any of the following.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:19:09.640
+End: 00:19:16.000
+Duration: 6.360 seconds
+Text: A dog which has a propensity, tendency, or disposition to attack unprovoked.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:19:16.000
+End: 00:19:20.720
+Duration: 4.720 seconds
+Text: If you analyze these terms, you can see propensity is an inclination or natural tendency to
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:19:20.720
+End: 00:19:22.560
+Duration: 1.840 seconds
+Text: behave in a particular way.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:19:22.560
+End: 00:19:26.880
+Duration: 4.320 seconds
+Text: Intendency is an inclination toward a particular type of behavior.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:19:26.880
+End: 00:19:31.840
+Duration: 4.960 seconds
+Text: Disposition is an inherent quality of mind and character.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:19:31.840
+End: 00:19:35.640
+Duration: 3.800 seconds
+Text: With those words in mind and the implications of the predetermined faiths encouraged by
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:19:35.640
+End: 00:19:40.640
+Duration: 5.000 seconds
+Text: them, let's analyze the consequences for dogs who are born too large or into the wrong
+--------------------------------------------------
+Commissioner:
+Start: 00:19:40.640
+End: 00:19:43.040
+Duration: 2.400 seconds
+Text: breed.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:19:43.040
+End: 00:19:48.800
+Duration: 5.760 seconds
+Text: A publicly displayed sign that says beware of dog and easily read letters.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:19:48.800
+End: 00:19:53.240
+Duration: 4.440 seconds
+Text: Notify the city clerk with any updates, even the death of the dog.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:19:53.240
+End: 00:20:00.280
+Duration: 7.040 seconds
+Text: Get $100,000 liability insurance, as well as these other listed regulations.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:20:00.280
+End: 00:20:07.480
+Duration: 7.200 seconds
+Text: Breed specific laws punish the entire species for the crimes of singular animals, while
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:20:07.480
+End: 00:20:14.200
+Duration: 6.720 seconds
+Text: breed neutral laws only enforce punishment on animals who show aggression or cause danger.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:20:14.200
+End: 00:20:18.720
+Duration: 4.520 seconds
+Text: The fix to this is quite complicated, but there are smaller solutions that can aid the
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:20:18.720
+End: 00:20:20.320
+Duration: 1.600 seconds
+Text: damage that's already been done.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:20:20.320
+End: 00:20:24.080
+Duration: 3.760 seconds
+Text: In Manhattan specifically, we can update the ordinance with breed neutral terminology.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:20:24.080
+End: 00:20:28.720
+Duration: 4.640 seconds
+Text: I personally have already found three potential solutions and I sent them to you.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:20:28.720
+End: 00:20:32.560
+Duration: 3.840 seconds
+Text: Delete the list of example breeds because it targets breeds who have already suffered
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:20:32.560
+End: 00:20:35.800
+Duration: 3.240 seconds
+Text: from aggressive stigmas for years.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:20:35.800
+End: 00:20:40.200
+Duration: 4.400 seconds
+Text: And lose some of the arbitrary regulations like having a posted notice on the property
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:20:40.200
+End: 00:20:46.800
+Duration: 6.600 seconds
+Text: where a dog lives and is considered aggressive by birthright.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:20:46.800
+End: 00:20:52.320
+Duration: 5.520 seconds
+Text: Along with the arbitrary regulations, the last paragraph of 6466 clarifies the justification
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:20:52.320
+End: 00:20:54.960
+Duration: 2.640 seconds
+Text: of the death penalty as follows.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:20:54.960
+End: 00:21:00.960
+Duration: 6.000 seconds
+Text: If a dog represents a continued threat to harm to humans or to other domestic animals,
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:21:00.960
+End: 00:21:05.840
+Duration: 4.880 seconds
+Text: either because the court finds that the keeper is unlikely to comply or that the dog is
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:21:05.840
+End: 00:21:11.320
+Duration: 5.480 seconds
+Text: still dangerous when following these provisions, the court will order the animal to be destroyed.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:21:11.320
+End: 00:21:16.880
+Duration: 5.560 seconds
+Text: The latter is the only acceptable justification and barely because readability is an option
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:21:16.880
+End: 00:21:19.200
+Duration: 2.320 seconds
+Text: just as it is for humans.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:21:19.200
+End: 00:21:23.640
+Duration: 4.440 seconds
+Text: And if the keeper is unlikely to comply with the rules, then is the dog causing danger
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:21:23.640
+End: 00:21:29.680
+Duration: 6.040 seconds
+Text: or is the keeper endangering others, including the dog?
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:21:29.680
+End: 00:21:31.760
+Duration: 2.080 seconds
+Text: I want to see a better Manhattan.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:21:31.760
+End: 00:21:35.040
+Duration: 3.280 seconds
+Text: Making these changes will have a small but positive impact on the issues with negative
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:21:35.040
+End: 00:21:36.840
+Duration: 1.800 seconds
+Text: stigmas against dogs.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:21:36.840
+End: 00:21:39.560
+Duration: 2.720 seconds
+Text: Manhattan is no friendly and progressive.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:21:39.560
+End: 00:21:43.200
+Duration: 3.640 seconds
+Text: This change will inspire more support for our cities and contribute to a brighter future
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:21:43.200
+End: 00:21:44.200
+Duration: 1.000 seconds
+Text: with less hate.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:21:44.200
+End: 00:21:48.320
+Duration: 4.120 seconds
+Text: And as I said, I know you have more times listed sensitive issues, but I hope that my
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:21:48.320
+End: 00:21:51.920
+Duration: 3.600 seconds
+Text: stance has opened your hearts to the idea that the work you would take to change the
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:21:51.920
+End: 00:21:54.840
+Duration: 2.920 seconds
+Text: environment is not only worth it, but vital.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:21:54.840
+End: 00:21:59.320
+Duration: 4.480 seconds
+Text: If you take a look at my shirt, these dogs have been targeted for years.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:21:59.320
+End: 00:22:02.560
+Duration: 3.240 seconds
+Text: It says dog fighting ends with me.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:22:02.560
+End: 00:22:03.960
+Duration: 1.400 seconds
+Text: This is a pit bull.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:22:03.960
+End: 00:22:05.880
+Duration: 1.920 seconds
+Text: They were targeted before dog fighting.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:22:05.880
+End: 00:22:11.200
+Duration: 5.320 seconds
+Text: They were targeted before they were known as dog fighters and that increased the number
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:22:11.200
+End: 00:22:14.960
+Duration: 3.760 seconds
+Text: of pit bulls who were dog fighters before them were rot wilders.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:22:14.960
+End: 00:22:17.120
+Duration: 2.160 seconds
+Text: Poodles were on the list at one point.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:22:17.120
+End: 00:22:18.120
+Duration: 1.000 seconds
+Text: Dalmatians.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:22:18.120
+End: 00:22:21.480
+Duration: 3.360 seconds
+Text: And if you look at the list of the breed dogs in this ordinance, you can see that it was
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:22:21.480
+End: 00:22:23.000
+Duration: 1.520 seconds
+Text: nothing to do with size.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:22:23.000
+End: 00:22:26.080
+Duration: 3.080 seconds
+Text: It is specifically about breed because there are no great names.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:22:26.080
+End: 00:22:27.560
+Duration: 1.480 seconds
+Text: There are no mastiffs.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:22:27.560
+End: 00:22:30.560
+Duration: 3.000 seconds
+Text: And I have three mastiffs living in my apartment complex.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:22:30.560
+End: 00:22:32.560
+Duration: 2.000 seconds
+Text: That's all I've got.
+--------------------------------------------------
+City Manager:
+Start: 00:22:32.560
+End: 00:22:33.560
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Manager:
+Start: 00:22:33.560
+End: 00:22:34.560
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner:
+Start: 00:22:34.560
+End: 00:22:35.560
+Duration: 1.000 seconds
+Text: Uh-huh.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:22:35.560
+End: 00:22:37.480
+Duration: 1.920 seconds
+Text: Alejandra, thank you for coming.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:22:37.480
+End: 00:22:38.960
+Duration: 1.480 seconds
+Text: We appreciate hearing.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:22:38.960
+End: 00:22:43.240
+Duration: 4.280 seconds
+Text: We've not had anybody visit with us about that.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:22:43.240
+End: 00:22:44.240
+Duration: 1.000 seconds
+Text: So thank you.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:22:44.240
+End: 00:22:45.240
+Duration: 1.000 seconds
+Text: Of course.
+--------------------------------------------------
+Alexandria Julian:
+Start: 00:22:45.240
+End: 00:22:47.240
+Duration: 2.000 seconds
+Text: Does anyone have questions for me?
+--------------------------------------------------
+Commissioner:
+Start: 00:22:47.240
+End: 00:22:48.240
+Duration: 1.000 seconds
+Text: Well, thank you.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:22:48.240
+End: 00:22:49.240
+Duration: 1.000 seconds
+Text: Are there questions?
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:22:49.480
+End: 00:22:52.520
+Duration: 3.040 seconds
+Text: I don't think we can ask questions during public comments.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:22:52.520
+End: 00:22:54.520
+Duration: 2.000 seconds
+Text: You'll have to visit with us individually, I think.
+--------------------------------------------------
+Commissioner:
+Start: 00:22:54.520
+End: 00:22:55.520
+Duration: 1.000 seconds
+Text: Right.
+--------------------------------------------------
+Commissioner:
+Start: 00:22:55.520
+End: 00:22:56.520
+Duration: 1.000 seconds
+Text: I have a question.
+--------------------------------------------------
+Commissioner:
+Start: 00:22:56.520
+End: 00:22:57.520
+Duration: 1.000 seconds
+Text: Yes, I have a question.
+--------------------------------------------------
+Commissioner:
+Start: 00:22:57.520
+End: 00:22:58.520
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:22:58.520
+End: 00:23:05.880
+Duration: 7.360 seconds
+Text: Are there other public comments?
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:23:05.880
+End: 00:23:12.200
+Duration: 6.320 seconds
+Text: Does anyone else wish to make a statement or address the commission?
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:23:12.200
+End: 00:23:18.880
+Duration: 6.680 seconds
+Text: Seeing no one, I'll go on with the commission or opportunity for commissioner comments.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:23:18.880
+End: 00:23:27.040
+Duration: 8.160 seconds
+Text: This item is for any commissioner to share their thinking tonight.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:23:27.040
+End: 00:23:31.800
+Duration: 4.760 seconds
+Text: So if you'd start up, John, no, when?
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:23:31.800
+End: 00:23:32.800
+Duration: 1.000 seconds
+Text: Uh-huh.
+--------------------------------------------------
+City Manager:
+Start: 00:23:32.800
+End: 00:23:33.800
+Duration: 1.000 seconds
+Text: You should.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:23:33.800
+End: 00:23:37.160
+Duration: 3.360 seconds
+Text: Yes, I do want to tell Brad, I did watch the show.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:23:37.160
+End: 00:23:38.760
+Duration: 1.600 seconds
+Text: I really liked it.
+--------------------------------------------------
+Commissioner:
+Start: 00:23:38.760
+End: 00:23:39.760
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:23:39.760
+End: 00:23:44.640
+Duration: 4.880 seconds
+Text: It may not be for families in general, but it was really, really good.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:23:44.640
+End: 00:23:48.240
+Duration: 3.600 seconds
+Text: And I like Bridget anyway, so it was really well done.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:23:48.240
+End: 00:23:52.840
+Duration: 4.600 seconds
+Text: I also want to say first welcome to our Kansas State University students.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:23:52.840
+End: 00:23:57.880
+Duration: 5.040 seconds
+Text: They're back in town and glad to have them back always.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:23:57.880
+End: 00:24:01.880
+Duration: 4.000 seconds
+Text: Also like it was mentioned earlier, it is human trafficking awareness month.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:24:01.880
+End: 00:24:06.040
+Duration: 4.160 seconds
+Text: So hopefully people take a little bit of time to, you know, a little bit of more about
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:24:06.040
+End: 00:24:07.040
+Duration: 1.000 seconds
+Text: what that means.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:24:07.040
+End: 00:24:11.280
+Duration: 4.240 seconds
+Text: It's not just about sex trafficking, but there's also labor trafficking and there will be
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:24:11.280
+End: 00:24:17.280
+Duration: 6.000 seconds
+Text: a summit in April about financial institutions and their role in human trafficking.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:24:17.280
+End: 00:24:19.760
+Duration: 2.480 seconds
+Text: So I'll bring that up a little bit later also.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:24:19.760
+End: 00:24:22.880
+Duration: 3.120 seconds
+Text: And just go chiefs and go K state this weekend.
+--------------------------------------------------
+City Manager:
+Start: 00:24:22.880
+End: 00:24:23.880
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner:
+Start: 00:24:23.880
+End: 00:24:24.880
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:24:24.880
+End: 00:24:34.840
+Duration: 9.960 seconds
+Text: I just like to say that at our last meeting two weeks ago, we kept it short and adjourned
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:24:34.840
+End: 00:24:40.880
+Duration: 6.040 seconds
+Text: early because K state was playing a bowl game that evening and we won.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:24:40.880
+End: 00:24:46.280
+Duration: 5.400 seconds
+Text: And I just want to recognize and congratulate the K state football team for the bowl game
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:24:46.280
+End: 00:24:48.280
+Duration: 2.000 seconds
+Text: in 42 to 20.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:24:48.280
+End: 00:24:50.280
+Duration: 2.000 seconds
+Text: It's a good way.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:24:50.280
+End: 00:24:59.880
+Duration: 9.600 seconds
+Text: But the future appears bright as the 2021 season closed with an 8 to 5 record.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:24:59.880
+End: 00:25:04.880
+Duration: 5.000 seconds
+Text: This team seems pretty stable compared to other big 12 teams for next year.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:25:04.880
+End: 00:25:12.320
+Duration: 7.440 seconds
+Text: And we will look to September 10th, which is the home game with Missouri coming to town.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:25:12.320
+End: 00:25:22.480
+Duration: 10.160 seconds
+Text: I'd also like to just make sure that we recognize this is the director Butler, will of the
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:25:22.480
+End: 00:25:24.040
+Duration: 1.560 seconds
+Text: Riley County Police Department.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:25:24.040
+End: 00:25:28.360
+Duration: 4.320 seconds
+Text: It's last day will be January 31st.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:25:28.360
+End: 00:25:36.280
+Duration: 7.920 seconds
+Text: And I just feel it's important that we thank him and express our appreciation, the appreciation
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:25:36.280
+End: 00:25:42.640
+Duration: 6.360 seconds
+Text: of our city for his leadership and service as he retires after three years.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:25:42.640
+End: 00:25:45.520
+Duration: 2.880 seconds
+Text: We wish he would stay longer.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:25:45.520
+End: 00:25:49.200
+Duration: 3.680 seconds
+Text: But we know and understand what retirement is.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:25:49.200
+End: 00:25:51.960
+Duration: 2.760 seconds
+Text: So it's an opportunity.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:25:51.960
+End: 00:25:56.600
+Duration: 4.640 seconds
+Text: The other thing is that COVID will be with us for some weeks to come.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:25:56.600
+End: 00:26:02.480
+Duration: 5.880 seconds
+Text: And as a matter of fact, they even got an email today about the federal opportunity.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:26:02.480
+End: 00:26:08.240
+Duration: 5.760 seconds
+Text: Sign up and you'll mail you four test kits to your home address.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:26:08.240
+End: 00:26:12.000
+Duration: 3.760 seconds
+Text: So that's an interesting thing just happening.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:26:12.000
+End: 00:26:16.640
+Duration: 4.640 seconds
+Text: So if you get that opportunity, please order them.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:26:16.640
+End: 00:26:18.880
+Duration: 2.240 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:26:18.880
+End: 00:26:22.760
+Duration: 3.880 seconds
+Text: Having completed Commissioner comments.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:26:22.760
+End: 00:26:26.880
+Duration: 4.120 seconds
+Text: The next section is the consent agenda.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:26:26.880
+End: 00:26:31.880
+Duration: 5.000 seconds
+Text: And the items on the consent agenda are those of a routine in housekeeping nature or
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:26:31.880
+End: 00:26:35.960
+Duration: 4.080 seconds
+Text: those which have previously been reviewed by the City Commission.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:26:35.960
+End: 00:26:41.040
+Duration: 5.080 seconds
+Text: A commissioner may request an item be moved to the end of the general agenda for more
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:26:41.040
+End: 00:26:42.560
+Duration: 1.520 seconds
+Text: discussion.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:26:42.560
+End: 00:26:48.560
+Duration: 6.000 seconds
+Text: Does the commission have any questions or comments on any of the consent agenda items?
+--------------------------------------------------
+Commissioner:
+Start: 00:26:48.560
+End: 00:26:54.280
+Duration: 5.720 seconds
+Text: Yes, item F.
+--------------------------------------------------
+Commissioner:
+Start: 00:26:54.280
+End: 00:27:00.760
+Duration: 6.480 seconds
+Text: It's of a question for staff, maybe the commission when they originally put this out.
+--------------------------------------------------
+Commissioner:
+Start: 00:27:00.760
+End: 00:27:05.800
+Duration: 5.040 seconds
+Text: As we did a request for qualifications versus a request for proposal.
+--------------------------------------------------
+Commissioner:
+Start: 00:27:05.800
+End: 00:27:10.200
+Duration: 4.400 seconds
+Text: And the estimate for this is 300,000 to 600,000.
+--------------------------------------------------
+Commissioner:
+Start: 00:27:10.200
+End: 00:27:13.320
+Duration: 3.120 seconds
+Text: So 100% different.
+--------------------------------------------------
+Commissioner:
+Start: 00:27:13.320
+End: 00:27:17.240
+Duration: 3.920 seconds
+Text: And I read through the request for qualifications.
+--------------------------------------------------
+Commissioner:
+Start: 00:27:17.240
+End: 00:27:20.320
+Duration: 3.080 seconds
+Text: And it didn't seem that complicated.
+--------------------------------------------------
+Commissioner:
+Start: 00:27:20.320
+End: 00:27:25.640
+Duration: 5.320 seconds
+Text: Why didn't we ask for some numbers to get some competition versus doing a selection and
+--------------------------------------------------
+Commissioner:
+Start: 00:27:25.640
+End: 00:27:28.800
+Duration: 3.160 seconds
+Text: then coming up with the number?
+--------------------------------------------------
+Commissioner:
+Start: 00:27:28.800
+End: 00:27:29.800
+Duration: 1.000 seconds
+Text: Sure.
+--------------------------------------------------
+Commissioner:
+Start: 00:27:29.800
+End: 00:27:36.680
+Duration: 6.880 seconds
+Text: Our primary policy is a qualifications based selection process as opposed to a fee based
+--------------------------------------------------
+Commissioner:
+Start: 00:27:36.680
+End: 00:27:39.320
+Duration: 2.640 seconds
+Text: selection process.
+--------------------------------------------------
+Commissioner:
+Start: 00:27:39.320
+End: 00:27:43.600
+Duration: 4.280 seconds
+Text: I wasn't on the selection committee, so either Jared or Commissioner Morris might be able
+--------------------------------------------------
+Commissioner:
+Start: 00:27:43.600
+End: 00:27:49.880
+Duration: 6.280 seconds
+Text: to speak to it specifically, but I know they were looking at what are some of the distinguishing
+--------------------------------------------------
+Commissioner:
+Start: 00:27:49.880
+End: 00:27:53.760
+Duration: 3.880 seconds
+Text: factors that a particular firm might have available as this process.
+--------------------------------------------------
+Commissioner:
+Start: 00:27:53.760
+End: 00:28:00.840
+Duration: 7.080 seconds
+Text: And I think some involve some local businesses in that process as opposed to partners for
+--------------------------------------------------
+Commissioner:
+Start: 00:28:00.840
+End: 00:28:03.200
+Duration: 2.360 seconds
+Text: other aspects.
+--------------------------------------------------
+Commissioner:
+Start: 00:28:03.200
+End: 00:28:09.080
+Duration: 5.880 seconds
+Text: The next if you proceed, the next step would be to have a scope of services that meets
+--------------------------------------------------
+Commissioner:
+Start: 00:28:09.080
+End: 00:28:11.040
+Duration: 1.960 seconds
+Text: expectations.
+--------------------------------------------------
+Commissioner:
+Start: 00:28:11.040
+End: 00:28:16.000
+Duration: 4.960 seconds
+Text: And certainly that fee process is very negotiable as to what that scope would entail.
+--------------------------------------------------
+Commissioner:
+Start: 00:28:16.000
+End: 00:28:21.280
+Duration: 5.280 seconds
+Text: But the primary aspect is it was based on a qualification based proposal.
+--------------------------------------------------
+Commissioner:
+Start: 00:28:21.280
+End: 00:28:27.160
+Duration: 5.880 seconds
+Text: Looking for someone that has experience that have done some of these updates in the past,
+--------------------------------------------------
+Commissioner:
+Start: 00:28:27.160
+End: 00:28:34.040
+Duration: 6.880 seconds
+Text: especially that complies with the Department of Transportation's requirements.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:28:34.040
+End: 00:28:39.200
+Duration: 5.160 seconds
+Text: I think that the first thing we'll be doing that Jared and the staff will be working with
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:28:39.200
+End: 00:28:43.000
+Duration: 3.800 seconds
+Text: this company to develop a scope of services.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:28:43.000
+End: 00:28:46.000
+Duration: 3.000 seconds
+Text: We aren't even sure how to develop that.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:28:46.000
+End: 00:28:50.800
+Duration: 4.800 seconds
+Text: This is an area that we have no real expert in.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:28:50.800
+End: 00:28:54.160
+Duration: 3.360 seconds
+Text: I hope I didn't miss speak Jared, why don't you speak?
+--------------------------------------------------
+Commissioner:
+Start: 00:28:54.160
+End: 00:28:59.680
+Duration: 5.520 seconds
+Text: Yeah, I was just going to point out that the next step is developing that scope and fee.
+--------------------------------------------------
+Commissioner:
+Start: 00:28:59.680
+End: 00:29:07.000
+Duration: 7.320 seconds
+Text: When you create, when you conduct a self-evaluation, it's going to take an account over 20 facilities,
+--------------------------------------------------
+Commissioner:
+Start: 00:29:07.000
+End: 00:29:13.920
+Duration: 6.920 seconds
+Text: thousands of sidewalks all across the community and rights of way, as well as over 30 parks,
+--------------------------------------------------
+Commissioner:
+Start: 00:29:13.920
+End: 00:29:16.560
+Duration: 2.640 seconds
+Text: and then all of the programs that we offer.
+--------------------------------------------------
+Commissioner:
+Start: 00:29:16.560
+End: 00:29:20.640
+Duration: 4.080 seconds
+Text: There's that analysis that needs to go into account and then the transition plan being
+--------------------------------------------------
+Commissioner:
+Start: 00:29:20.640
+End: 00:29:22.280
+Duration: 1.640 seconds
+Text: developed.
+--------------------------------------------------
+Commissioner:
+Start: 00:29:22.280
+End: 00:29:25.840
+Duration: 3.560 seconds
+Text: There's many different ways that you can conduct this process, which is why we're doing
+--------------------------------------------------
+Commissioner:
+Start: 00:29:25.840
+End: 00:29:29.120
+Duration: 3.280 seconds
+Text: a qualification based approach.
+--------------------------------------------------
+Commissioner:
+Start: 00:29:29.120
+End: 00:29:34.320
+Duration: 5.200 seconds
+Text: That scope is really going to be developed by staff and then that scope and fee is going
+--------------------------------------------------
+Commissioner:
+Start: 00:29:34.320
+End: 00:29:38.840
+Duration: 4.520 seconds
+Text: to be developed with a selected consultant and Brockback to the City Commission because
+--------------------------------------------------
+Commissioner:
+Start: 00:29:38.840
+End: 00:29:43.800
+Duration: 4.960 seconds
+Text: there are certain levels that you can do some of these things that can be a lot of GIS.
+--------------------------------------------------
+Commissioner:
+Start: 00:29:44.000
+End: 00:29:49.120
+Duration: 5.120 seconds
+Text: Applications that can be involved, public engagement is required by the federal government
+--------------------------------------------------
+Commissioner:
+Start: 00:29:49.120
+End: 00:29:51.360
+Duration: 2.240 seconds
+Text: at what level of public engagement?
+--------------------------------------------------
+Commissioner:
+Start: 00:29:51.360
+End: 00:29:54.760
+Duration: 3.400 seconds
+Text: That is something that we're going to define with the firm.
+--------------------------------------------------
+Commissioner:
+Start: 00:29:54.760
+End: 00:29:59.520
+Duration: 4.760 seconds
+Text: So that is why we wanted the qualification based approach because if we would have done
+--------------------------------------------------
+Commissioner:
+Start: 00:29:59.520
+End: 00:30:04.760
+Duration: 5.240 seconds
+Text: an RFP, that would have limited the scope to a certain degree and wouldn't have given
+--------------------------------------------------
+Commissioner:
+Start: 00:30:04.760
+End: 00:30:09.200
+Duration: 4.440 seconds
+Text: us the flexibility to talk about that with the firm and develop the right solution that
+--------------------------------------------------
+Commissioner:
+Start: 00:30:09.200
+End: 00:30:15.920
+Duration: 6.720 seconds
+Text: we wanted to conduct with this self-evaluation and transition plan.
+--------------------------------------------------
+Commissioner:
+Start: 00:30:15.920
+End: 00:30:23.080
+Duration: 7.160 seconds
+Text: So who is making us do this and what leverage do they hold over us to make us do it?
+--------------------------------------------------
+Commissioner:
+Start: 00:30:23.080
+End: 00:30:30.280
+Duration: 7.200 seconds
+Text: So I'll take that.
+--------------------------------------------------
+Commissioner:
+Start: 00:30:30.280
+End: 00:30:36.600
+Duration: 6.320 seconds
+Text: The last self-evaluation plan in transition plan was developed in the 90s.
+--------------------------------------------------
+Commissioner:
+Start: 00:30:36.600
+End: 00:30:45.160
+Duration: 8.560 seconds
+Text: And so the Department of Transportation is through the federal funds we get from transportation
+--------------------------------------------------
+Commissioner:
+Start: 00:30:45.160
+End: 00:30:49.640
+Duration: 4.480 seconds
+Text: grant proposals as well as path through funds and the state of Kansas, Kansas Department
+--------------------------------------------------
+Commissioner:
+Start: 00:30:49.640
+End: 00:30:55.960
+Duration: 6.320 seconds
+Text: of Transportation is requiring all of its recipients to update their plans.
+--------------------------------------------------
+Commissioner:
+Start: 00:30:55.960
+End: 00:31:01.640
+Duration: 5.680 seconds
+Text: You know our policy and the plan we've had basically says as you do new projects, we did
+--------------------------------------------------
+Commissioner:
+Start: 00:31:01.640
+End: 00:31:07.960
+Duration: 6.320 seconds
+Text: quite a few improvements back in the day prior to this plan being formed.
+--------------------------------------------------
+Commissioner:
+Start: 00:31:07.960
+End: 00:31:12.240
+Duration: 4.280 seconds
+Text: Most of those were focused on some of our sidewalks and ramps and other infrastructure,
+--------------------------------------------------
+Commissioner:
+Start: 00:31:12.240
+End: 00:31:19.480
+Duration: 7.240 seconds
+Text: but as the general rule was as you make improvements or you rip up an intersection, you have
+--------------------------------------------------
+Commissioner:
+Start: 00:31:19.480
+End: 00:31:22.320
+Duration: 2.840 seconds
+Text: to make it bring the whole intersection into compliance.
+--------------------------------------------------
+Commissioner:
+Start: 00:31:22.320
+End: 00:31:27.360
+Duration: 5.040 seconds
+Text: That's why you've seen different aspects of the improvements of being made.
+--------------------------------------------------
+Commissioner:
+Start: 00:31:27.360
+End: 00:31:34.240
+Duration: 6.880 seconds
+Text: And so part of this is to recognize how much we've done and what other areas that we
+--------------------------------------------------
+Commissioner:
+Start: 00:31:34.240
+End: 00:31:40.880
+Duration: 6.640 seconds
+Text: have remaining to do, what's on our improvement list and what priority do we have?
+--------------------------------------------------
+Commissioner:
+Start: 00:31:40.880
+End: 00:31:47.280
+Duration: 6.400 seconds
+Text: Since then there's certainly been a lot more technology improvement from just tones or
+--------------------------------------------------
+Commissioner:
+Start: 00:31:47.280
+End: 00:31:53.640
+Duration: 6.360 seconds
+Text: lights at sensors for crosswalks as an example is the primary provision.
+--------------------------------------------------
+Commissioner:
+Start: 00:31:53.640
+End: 00:31:58.000
+Duration: 4.360 seconds
+Text: So a lot of the improvements are focused on transportation related, but it's not limited
+--------------------------------------------------
+Commissioner:
+Start: 00:31:58.000
+End: 00:31:59.000
+Duration: 1.000 seconds
+Text: to that.
+--------------------------------------------------
+Commissioner:
+Start: 00:31:59.000
+End: 00:32:04.560
+Duration: 5.560 seconds
+Text: And if we don't update it now and then we move down the list when we start submitting grants
+--------------------------------------------------
+Commissioner:
+Start: 00:32:04.560
+End: 00:32:11.220
+Duration: 6.660 seconds
+Text: to the feds or to the state, essentially we're less, we're not, we're mildly frowned
+--------------------------------------------------
+Commissioner:
+Start: 00:32:11.220
+End: 00:32:12.220
+Duration: 1.000 seconds
+Text: upon.
+--------------------------------------------------
+Commissioner:
+Start: 00:32:12.220
+End: 00:32:19.560
+Duration: 7.340 seconds
+Text: We won't be as competitive in getting federal or state grants, yes.
+--------------------------------------------------
+Speaker_1:
+Start: 00:32:19.560
+End: 00:32:23.960
+Duration: 4.400 seconds
+Text: It goes a little bit beyond just receiving money.
+--------------------------------------------------
+Speaker_1:
+Start: 00:32:23.960
+End: 00:32:30.560
+Duration: 6.600 seconds
+Text: It's a risk and you can be sued for not being up to ADA standards.
+--------------------------------------------------
+Speaker_1:
+Start: 00:32:30.560
+End: 00:32:34.080
+Duration: 3.520 seconds
+Text: So we do need to engage the public.
+--------------------------------------------------
+Speaker_1:
+Start: 00:32:34.080
+End: 00:32:38.840
+Duration: 4.760 seconds
+Text: There are probably several initiatives we need to undertake in order to meet some of those
+--------------------------------------------------
+Speaker_1:
+Start: 00:32:38.840
+End: 00:32:45.360
+Duration: 6.520 seconds
+Text: guidelines, but you do run a risk of ignoring this and it goes low beyond just getting state
+--------------------------------------------------
+Speaker_1:
+Start: 00:32:45.360
+End: 00:32:46.680
+Duration: 1.320 seconds
+Text: and federal money.
+--------------------------------------------------
+Speaker_1:
+Start: 00:32:46.680
+End: 00:32:52.760
+Duration: 6.080 seconds
+Text: There are cities out there that have been sued and had to invest millions.
+--------------------------------------------------
+Commissioner:
+Start: 00:32:52.760
+End: 00:32:57.480
+Duration: 4.720 seconds
+Text: I just want to follow up on that.
+--------------------------------------------------
+Commissioner:
+Start: 00:32:57.480
+End: 00:33:01.360
+Duration: 3.880 seconds
+Text: What we're voting on is for you to negotiate with this company for the scope basically.
+--------------------------------------------------
+Commissioner:
+Start: 00:33:01.360
+End: 00:33:03.880
+Duration: 2.520 seconds
+Text: We're not committing any money tonight, correct?
+--------------------------------------------------
+Commissioner:
+Start: 00:33:03.880
+End: 00:33:04.880
+Duration: 1.000 seconds
+Text: That's correct.
+--------------------------------------------------
+Commissioner:
+Start: 00:33:04.880
+End: 00:33:05.880
+Duration: 1.000 seconds
+Text: Okay, so yeah.
+--------------------------------------------------
+Commissioner:
+Start: 00:33:05.880
+End: 00:33:09.880
+Duration: 4.000 seconds
+Text: And then I'd be interesting in following that up because my concern, just like Mark said,
+--------------------------------------------------
+Commissioner:
+Start: 00:33:09.880
+End: 00:33:12.160
+Duration: 2.280 seconds
+Text: okay, you're being forced to do this indirectly.
+--------------------------------------------------
+Commissioner:
+Start: 00:33:12.160
+End: 00:33:15.200
+Duration: 3.040 seconds
+Text: And I still remember years ago, I was on the commission.
+--------------------------------------------------
+Commissioner:
+Start: 00:33:15.200
+End: 00:33:19.520
+Duration: 4.320 seconds
+Text: We had, I guess, with Mr. Toby that made a big issue and we went through all kinds of
+--------------------------------------------------
+Commissioner:
+Start: 00:33:19.520
+End: 00:33:20.520
+Duration: 1.000 seconds
+Text: things.
+--------------------------------------------------
+Commissioner:
+Start: 00:33:20.520
+End: 00:33:22.960
+Duration: 2.440 seconds
+Text: So I understand why we need to do it.
+--------------------------------------------------
+Commissioner:
+Start: 00:33:22.960
+End: 00:33:28.140
+Duration: 5.180 seconds
+Text: But I really think the scope should be limited to updating the plan and crossing the
+--------------------------------------------------
+Commissioner:
+Start: 00:33:28.140
+End: 00:33:32.640
+Duration: 4.500 seconds
+Text: eyes and tees according to the state and federal government, but we don't need to go overboard.
+--------------------------------------------------
+Commissioner:
+Start: 00:33:32.640
+End: 00:33:36.280
+Duration: 3.640 seconds
+Text: And I definitely don't like a $600,000 price tag.
+--------------------------------------------------
+Commissioner:
+Start: 00:33:36.280
+End: 00:33:38.360
+Duration: 2.080 seconds
+Text: That's, I think, way out of range for this.
+--------------------------------------------------
+Commissioner:
+Start: 00:33:38.360
+End: 00:33:41.800
+Duration: 3.440 seconds
+Text: I think $300,000 seems exorbitant to me.
+--------------------------------------------------
+Commissioner:
+Start: 00:33:41.800
+End: 00:33:45.960
+Duration: 4.160 seconds
+Text: So it's like, I'm really interested in looking at that, but I understand we should go ahead
+--------------------------------------------------
+Commissioner:
+Start: 00:33:45.960
+End: 00:33:49.000
+Duration: 3.040 seconds
+Text: and negotiate with this company tonight.
+--------------------------------------------------
+Commissioner:
+Start: 00:33:49.000
+End: 00:33:51.240
+Duration: 2.240 seconds
+Text: Yeah, maybe I'll just add the comment.
+--------------------------------------------------
+Commissioner:
+Start: 00:33:51.240
+End: 00:33:55.640
+Duration: 4.400 seconds
+Text: I understand that it's not cookie cutter and you want to look at those qualifications,
+--------------------------------------------------
+Commissioner:
+Start: 00:33:55.640
+End: 00:34:00.680
+Duration: 5.040 seconds
+Text: but at the same time, this is being done all over the country with a lot of cities.
+--------------------------------------------------
+Commissioner:
+Start: 00:34:00.680
+End: 00:34:04.640
+Duration: 3.960 seconds
+Text: I think there's a lot of benchmarks people could use and say, be able to figure out the
+--------------------------------------------------
+Commissioner:
+Start: 00:34:04.640
+End: 00:34:06.880
+Duration: 2.240 seconds
+Text: scope and give you some competitive numbers.
+--------------------------------------------------
+Commissioner:
+Start: 00:34:06.880
+End: 00:34:12.800
+Duration: 5.920 seconds
+Text: I just think we're at a disadvantage after already selected and then doing the, you know,
+--------------------------------------------------
+Commissioner:
+Start: 00:34:12.800
+End: 00:34:14.600
+Duration: 1.800 seconds
+Text: negotiations.
+--------------------------------------------------
+Commissioner:
+Start: 00:34:14.600
+End: 00:34:21.440
+Duration: 6.840 seconds
+Text: So I just hope it comes closer to three than it does the six.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:34:21.440
+End: 00:34:24.520
+Duration: 3.080 seconds
+Text: I view it as something that we just need to do.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:34:24.520
+End: 00:34:32.600
+Duration: 8.080 seconds
+Text: It would be and has been probably the easier thing to do to kick it on down the road and
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:34:32.600
+End: 00:34:34.000
+Duration: 1.400 seconds
+Text: not do it.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:34:34.000
+End: 00:34:44.520
+Duration: 10.520 seconds
+Text: And so I feel like the we're being pushed now to update and do a complete, this self-evaluation
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:34:44.520
+End: 00:34:47.520
+Duration: 3.000 seconds
+Text: is a review that's necessary.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:34:47.520
+End: 00:34:53.400
+Duration: 5.880 seconds
+Text: I'm really glad we have a number of newer constructed buildings.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:34:53.400
+End: 00:34:55.520
+Duration: 2.120 seconds
+Text: I think that that will serve us well.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:34:55.520
+End: 00:34:58.480
+Duration: 2.960 seconds
+Text: I don't know so much about sidewalks.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:34:58.480
+End: 00:35:02.200
+Duration: 3.720 seconds
+Text: We have new sidewalks, but we also have some really old ones.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:35:02.200
+End: 00:35:11.680
+Duration: 9.480 seconds
+Text: So I think it will do us good to get an assessment like this and then ask for them to prioritize
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:35:11.680
+End: 00:35:15.120
+Duration: 3.440 seconds
+Text: what needs to be done first because we can't.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:35:15.120
+End: 00:35:22.120
+Duration: 7.000 seconds
+Text: There's no way any community could afford to just suddenly start making all the improvements
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:35:22.120
+End: 00:35:23.680
+Duration: 1.560 seconds
+Text: that they would find.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:35:23.680
+End: 00:35:29.120
+Duration: 5.440 seconds
+Text: So I think it's a worthy undertaking.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:35:29.120
+End: 00:35:31.200
+Duration: 2.080 seconds
+Text: Are there other comments?
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:35:31.920
+End: 00:35:34.120
+Duration: 2.200 seconds
+Text: Okay, thank you.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:35:34.120
+End: 00:35:39.800
+Duration: 5.680 seconds
+Text: At this point, we're ready.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:35:39.800
+End: 00:35:43.880
+Duration: 4.080 seconds
+Text: Hi, I'm a, oh, do any public comment?
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:35:43.880
+End: 00:35:44.880
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:35:44.880
+End: 00:35:49.720
+Duration: 4.840 seconds
+Text: Are there any public comments on the consent agenda this evening?
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:35:49.720
+End: 00:35:53.200
+Duration: 3.480 seconds
+Text: If there are, please come forward.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:35:53.200
+End: 00:36:00.960
+Duration: 7.760 seconds
+Text: Seeing no one will go on with the, let's see.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:36:01.040
+End: 00:36:07.560
+Duration: 6.520 seconds
+Text: So I guess with no public comments, are there are no other commission comments?
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:36:07.560
+End: 00:36:09.040
+Duration: 1.480 seconds
+Text: Is there a motion?
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:36:09.040
+End: 00:36:14.160
+Duration: 5.120 seconds
+Text: Mayor, I move we approve the consent agenda.
+--------------------------------------------------
+Commissioner:
+Start: 00:36:14.160
+End: 00:36:15.240
+Duration: 1.080 seconds
+Text: I'll second.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:36:15.240
+End: 00:36:18.320
+Duration: 3.080 seconds
+Text: We have a motion and a second to approve the consent agenda.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:36:18.320
+End: 00:36:21.800
+Duration: 3.480 seconds
+Text: All those in favor say aye.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:36:21.800
+End: 00:36:22.880
+Duration: 1.080 seconds
+Text: Oh, we poll.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:36:22.880
+End: 00:36:24.080
+Duration: 1.200 seconds
+Text: Excuse me.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:36:24.080
+End: 00:36:25.040
+Duration: 0.960 seconds
+Text: I'm sorry.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:36:25.040
+End: 00:36:27.480
+Duration: 2.440 seconds
+Text: Brenda.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:36:27.480
+End: 00:36:28.400
+Duration: 0.920 seconds
+Text: Mayor Moors?
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:36:28.400
+End: 00:36:29.880
+Duration: 1.480 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:36:29.880
+End: 00:36:30.880
+Duration: 1.000 seconds
+Text: Mr. Hassel?
+--------------------------------------------------
+Commissioner:
+Start: 00:36:30.880
+End: 00:36:31.880
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:36:31.880
+End: 00:36:32.880
+Duration: 1.000 seconds
+Text: Mr. Rady?
+--------------------------------------------------
+Commissioner:
+Start: 00:36:32.880
+End: 00:36:33.880
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:36:33.880
+End: 00:36:34.880
+Duration: 1.000 seconds
+Text: Mr. Butler?
+--------------------------------------------------
+Commissioner:
+Start: 00:36:34.880
+End: 00:36:35.880
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner:
+Start: 00:36:35.880
+End: 00:36:36.880
+Duration: 1.000 seconds
+Text: Ms. Ramatta?
+--------------------------------------------------
+Commissioner:
+Start: 00:36:36.880
+End: 00:36:37.880
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:36:37.880
+End: 00:36:40.880
+Duration: 3.000 seconds
+Text: Motion carries 5-0.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:36:40.880
+End: 00:36:44.600
+Duration: 3.720 seconds
+Text: Okay, the next item on the agenda.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:36:44.600
+End: 00:36:47.800
+Duration: 3.200 seconds
+Text: We're at the general agenda stage.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:36:47.800
+End: 00:36:56.680
+Duration: 8.880 seconds
+Text: And this, at which time we will consider a resolution number 011822-a, setting a public hearing
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:36:56.680
+End: 00:37:05.800
+Duration: 9.120 seconds
+Text: on March 1st, 2022, to expand the Star Bond District boundary for the Art and Light Museum.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:37:05.800
+End: 00:37:11.680
+Duration: 5.880 seconds
+Text: Jason Hildjers, the deputy city manager is going to lead us.
+--------------------------------------------------
+Speaker_1:
+Start: 00:37:11.680
+End: 00:37:12.680
+Duration: 1.000 seconds
+Text: Thank you, Mayor.
+--------------------------------------------------
+Speaker_1:
+Start: 00:37:12.680
+End: 00:37:19.840
+Duration: 7.160 seconds
+Text: Commissioners, we have a item this evening that is really about a future discussion.
+--------------------------------------------------
+Speaker_1:
+Start: 00:37:19.840
+End: 00:37:25.320
+Duration: 5.480 seconds
+Text: We'll jump into some of the details tonight, but the hearing itself, as the mayor described,
+--------------------------------------------------
+Speaker_1:
+Start: 00:37:25.320
+End: 00:37:30.360
+Duration: 5.040 seconds
+Text: would be set for March 1st if the resolution is a pass this evening.
+--------------------------------------------------
+Speaker_1:
+Start: 00:37:30.360
+End: 00:37:35.760
+Duration: 5.400 seconds
+Text: This is the current boundary, the blue line around the south end redevelopment area,
+--------------------------------------------------
+Speaker_1:
+Start: 00:37:35.760
+End: 00:37:40.080
+Duration: 4.320 seconds
+Text: in which the Star Bond District currently exists.
+--------------------------------------------------
+Speaker_1:
+Start: 00:37:40.080
+End: 00:37:49.240
+Duration: 9.160 seconds
+Text: The public hearing will be a matter of adding the red dash line along Third Street, Houston,
+--------------------------------------------------
+Speaker_1:
+Start: 00:37:49.240
+End: 00:37:52.400
+Duration: 3.160 seconds
+Text: Forest Street, and Pierre.
+--------------------------------------------------
+Speaker_1:
+Start: 00:37:52.400
+End: 00:38:01.080
+Duration: 8.680 seconds
+Text: In the past couple months, the owners of the future Art and Light Museum have been negotiating
+--------------------------------------------------
+Speaker_1:
+Start: 00:38:01.080
+End: 00:38:03.240
+Duration: 2.160 seconds
+Text: an alternative site.
+--------------------------------------------------
+Speaker_1:
+Start: 00:38:03.240
+End: 00:38:11.160
+Duration: 7.920 seconds
+Text: If you recall several months ago, the commission adopted an amended redevelopment plan that
+--------------------------------------------------
+Speaker_1:
+Start: 00:38:11.160
+End: 00:38:18.240
+Duration: 7.080 seconds
+Text: would have allowed the new Art and Light Museum to be constructed here just south and east
+--------------------------------------------------
+Speaker_1:
+Start: 00:38:18.240
+End: 00:38:20.840
+Duration: 2.600 seconds
+Text: of the Flanhill's Discovery Center.
+--------------------------------------------------
+Speaker_1:
+Start: 00:38:20.840
+End: 00:38:23.080
+Duration: 2.240 seconds
+Text: We went through a formal process.
+--------------------------------------------------
+Speaker_1:
+Start: 00:38:23.080
+End: 00:38:31.760
+Duration: 8.680 seconds
+Text: We adopted that as a governing body and as a community and started to receive some concern
+--------------------------------------------------
+Speaker_1:
+Start: 00:38:31.760
+End: 00:38:39.880
+Duration: 8.120 seconds
+Text: about occupying that parking, about it impacting neighboring businesses, neighboring owners.
+--------------------------------------------------
+Speaker_1:
+Start: 00:38:39.880
+End: 00:38:45.400
+Duration: 5.520 seconds
+Text: Even the Discovery Center had a little bit of heartburn with that, the loss of those
+--------------------------------------------------
+Speaker_1:
+Start: 00:38:45.400
+End: 00:38:49.480
+Duration: 4.080 seconds
+Text: 80 to 90 stalls.
+--------------------------------------------------
+Speaker_1:
+Start: 00:38:49.480
+End: 00:38:54.640
+Duration: 5.160 seconds
+Text: The owners of the Art and Light Museum started exploring an alternative site.
+--------------------------------------------------
+Speaker_1:
+Start: 00:38:54.640
+End: 00:39:02.680
+Duration: 8.040 seconds
+Text: The State of Kansas, Secretary of Commerce Lieutenant Governor expressed an opinion that
+--------------------------------------------------
+Speaker_1:
+Start: 00:39:02.680
+End: 00:39:05.960
+Duration: 3.280 seconds
+Text: he was supportive of the project.
+--------------------------------------------------
+Speaker_1:
+Start: 00:39:05.960
+End: 00:39:14.280
+Duration: 8.320 seconds
+Text: The Star Bond legislation allows for the expansion if it's contiguous to an existing district.
+--------------------------------------------------
+Speaker_1:
+Start: 00:39:14.280
+End: 00:39:20.360
+Duration: 6.080 seconds
+Text: So they started exploring the site just north of the Pierre Street within the block that
+--------------------------------------------------
+Speaker_1:
+Start: 00:39:20.360
+End: 00:39:22.760
+Duration: 2.400 seconds
+Text: I described.
+--------------------------------------------------
+Speaker_1:
+Start: 00:39:22.760
+End: 00:39:31.480
+Duration: 8.720 seconds
+Text: Initially they were exploring the use of the city's parking lot, the land that the city
+--------------------------------------------------
+Speaker_1:
+Start: 00:39:31.480
+End: 00:39:37.280
+Duration: 5.800 seconds
+Text: owns with the mall occupies in this town pavilion area.
+--------------------------------------------------
+Speaker_1:
+Start: 00:39:37.280
+End: 00:39:43.360
+Duration: 6.080 seconds
+Text: Today that is used as mall parking.
+--------------------------------------------------
+Speaker_1:
+Start: 00:39:43.360
+End: 00:39:47.600
+Duration: 4.240 seconds
+Text: It is part of the lease with Manhattan Town Center.
+--------------------------------------------------
+Speaker_1:
+Start: 00:39:47.600
+End: 00:39:50.840
+Duration: 3.240 seconds
+Text: And as I mentioned the city owns the land underneath that.
+--------------------------------------------------
+Speaker_1:
+Start: 00:39:50.840
+End: 00:39:54.200
+Duration: 3.360 seconds
+Text: There are 62 years remaining in that lease.
+--------------------------------------------------
+Speaker_1:
+Start: 00:39:54.200
+End: 00:40:05.560
+Duration: 11.360 seconds
+Text: So they've been approached by the DeBrians as to whether or not they'd be willing to sell
+--------------------------------------------------
+Speaker_1:
+Start: 00:40:05.640
+End: 00:40:11.600
+Duration: 5.960 seconds
+Text: their portion of the lease and then obviously come back to the city and look for that donation
+--------------------------------------------------
+Speaker_1:
+Start: 00:40:11.600
+End: 00:40:14.120
+Duration: 2.520 seconds
+Text: of land.
+--------------------------------------------------
+Speaker_1:
+Start: 00:40:14.120
+End: 00:40:17.080
+Duration: 2.960 seconds
+Text: We've had a few conversations about that.
+--------------------------------------------------
+Speaker_1:
+Start: 00:40:17.080
+End: 00:40:23.200
+Duration: 6.120 seconds
+Text: They started at a price point that was very high and it wasn't something that the
+--------------------------------------------------
+Speaker_1:
+Start: 00:40:23.200
+End: 00:40:26.120
+Duration: 2.920 seconds
+Text: Brian's were able to afford.
+--------------------------------------------------
+Speaker_1:
+Start: 00:40:26.120
+End: 00:40:28.040
+Duration: 1.920 seconds
+Text: They kept talking with the mall.
+--------------------------------------------------
+Speaker_1:
+Start: 00:40:28.040
+End: 00:40:34.800
+Duration: 6.760 seconds
+Text: And right before the holiday they actually negotiated an amount that they could agree upon.
+--------------------------------------------------
+Speaker_1:
+Start: 00:40:34.800
+End: 00:40:40.160
+Duration: 5.360 seconds
+Text: At one time we even talked about the city possibly participating in that transaction and
+--------------------------------------------------
+Speaker_1:
+Start: 00:40:40.160
+End: 00:40:42.760
+Duration: 2.600 seconds
+Text: that is not where we are today.
+--------------------------------------------------
+Speaker_1:
+Start: 00:40:42.760
+End: 00:40:47.920
+Duration: 5.160 seconds
+Text: The DeBrians and the Manhattan Town Center have negotiated a price that doesn't involve
+--------------------------------------------------
+Speaker_1:
+Start: 00:40:47.920
+End: 00:40:48.920
+Duration: 1.000 seconds
+Text: the city.
+--------------------------------------------------
+Speaker_1:
+Start: 00:40:48.920
+End: 00:40:54.920
+Duration: 6.000 seconds
+Text: They would pay for that completely out of their pocket.
+--------------------------------------------------
+Speaker_1:
+Start: 00:40:54.920
+End: 00:40:58.440
+Duration: 3.520 seconds
+Text: There are several agreements yet to come.
+--------------------------------------------------
+Speaker_1:
+Start: 00:40:58.440
+End: 00:41:04.560
+Duration: 6.120 seconds
+Text: There's an agreement that would highlight this transaction of the town pavilion lot that
+--------------------------------------------------
+Speaker_1:
+Start: 00:41:04.640
+End: 00:41:12.360
+Duration: 7.720 seconds
+Text: would amend our lease with Manhattan Town Center and it would allow the DeBrians to purchase
+--------------------------------------------------
+Speaker_1:
+Start: 00:41:12.360
+End: 00:41:20.000
+Duration: 7.640 seconds
+Text: that lot basically buy out the lease and the city would then transfer the land.
+--------------------------------------------------
+Speaker_1:
+Start: 00:41:20.000
+End: 00:41:27.280
+Duration: 7.280 seconds
+Text: In return they would construct the Art and Light Museum with a total budget in that $35
+--------------------------------------------------
+Speaker_1:
+Start: 00:41:27.280
+End: 00:41:36.680
+Duration: 9.400 seconds
+Text: to $40 million range, a total investment that would occupy that site in a way outlined
+--------------------------------------------------
+Speaker_1:
+Start: 00:41:36.680
+End: 00:41:43.760
+Duration: 7.080 seconds
+Text: here by the light green boundary.
+--------------------------------------------------
+Speaker_1:
+Start: 00:41:43.760
+End: 00:41:51.680
+Duration: 7.920 seconds
+Text: It incorporates the old Sears building which is at that southeast corner of fourth and
+--------------------------------------------------
+Speaker_1:
+Start: 00:41:51.680
+End: 00:41:54.520
+Duration: 2.840 seconds
+Text: Houston.
+--------------------------------------------------
+Speaker_1:
+Start: 00:41:54.520
+End: 00:42:04.400
+Duration: 9.880 seconds
+Text: It expands into the parking area and the parking lot on the south and east portion of this
+--------------------------------------------------
+Speaker_1:
+Start: 00:42:04.400
+End: 00:42:08.800
+Duration: 4.400 seconds
+Text: parking lot.
+--------------------------------------------------
+Speaker_1:
+Start: 00:42:08.800
+End: 00:42:12.920
+Duration: 4.120 seconds
+Text: The design is materializing.
+--------------------------------------------------
+Speaker_1:
+Start: 00:42:12.920
+End: 00:42:17.880
+Duration: 4.960 seconds
+Text: The Bryant have a contractor on board, a design team on board.
+--------------------------------------------------
+Speaker_1:
+Start: 00:42:17.880
+End: 00:42:23.760
+Duration: 5.880 seconds
+Text: We will have to have an economic development agreement with the DeBrians for the issuance
+--------------------------------------------------
+Speaker_1:
+Start: 00:42:23.840
+End: 00:42:28.320
+Duration: 4.480 seconds
+Text: of Starbonds and again highlighting the transfer of the property.
+--------------------------------------------------
+Speaker_1:
+Start: 00:42:28.320
+End: 00:42:32.800
+Duration: 4.480 seconds
+Text: There's a lot of work to do in the next six months and a lot of that will be coming back
+--------------------------------------------------
+Speaker_1:
+Start: 00:42:32.800
+End: 00:42:33.800
+Duration: 1.000 seconds
+Text: to you.
+--------------------------------------------------
+Speaker_1:
+Start: 00:42:33.800
+End: 00:42:39.800
+Duration: 6.000 seconds
+Text: Those terms, those agreements, those amended leases, all these items will be coming back
+--------------------------------------------------
+Speaker_1:
+Start: 00:42:39.800
+End: 00:42:40.800
+Duration: 1.000 seconds
+Text: to you.
+--------------------------------------------------
+Speaker_1:
+Start: 00:42:40.800
+End: 00:42:45.360
+Duration: 4.560 seconds
+Text: Tonight again is about setting a hearing in March.
+--------------------------------------------------
+Speaker_1:
+Start: 00:42:45.360
+End: 00:42:52.000
+Duration: 6.640 seconds
+Text: I fully anticipate those documents either in final form or draft will be part of that
+--------------------------------------------------
+Speaker_1:
+Start: 00:42:52.000
+End: 00:42:54.080
+Duration: 2.080 seconds
+Text: packet for you all.
+--------------------------------------------------
+Speaker_1:
+Start: 00:42:54.080
+End: 00:42:58.640
+Duration: 4.560 seconds
+Text: It doesn't make a lot of sense to expand the district if you're not willing to execute
+--------------------------------------------------
+Speaker_1:
+Start: 00:42:58.640
+End: 00:42:59.880
+Duration: 1.240 seconds
+Text: those agreements.
+--------------------------------------------------
+Speaker_1:
+Start: 00:42:59.880
+End: 00:43:06.680
+Duration: 6.800 seconds
+Text: And those agreements and those terms will be ready for you in March to consider.
+--------------------------------------------------
+Speaker_1:
+Start: 00:43:06.680
+End: 00:43:12.840
+Duration: 6.160 seconds
+Text: Just try to give you a preview of where we're at this evening and their negotiations and
+--------------------------------------------------
+Speaker_1:
+Start: 00:43:12.840
+End: 00:43:19.920
+Duration: 7.080 seconds
+Text: in those draft agreements as we put those together with both the mall and the DeBrians.
+--------------------------------------------------
+Speaker_1:
+Start: 00:43:19.920
+End: 00:43:25.880
+Duration: 5.960 seconds
+Text: Not overly complicate the issue but yet still get that resolution under your consideration
+--------------------------------------------------
+Speaker_1:
+Start: 00:43:25.880
+End: 00:43:29.280
+Duration: 3.400 seconds
+Text: for that hearing date to be established.
+--------------------------------------------------
+Speaker_1:
+Start: 00:43:29.280
+End: 00:43:36.600
+Duration: 7.320 seconds
+Text: Once the district is considered for expansion and it's approved hypothetically, we have
+--------------------------------------------------
+Speaker_1:
+Start: 00:43:36.600
+End: 00:43:40.920
+Duration: 4.320 seconds
+Text: to come back and re-adopt that amended plan again.
+--------------------------------------------------
+Speaker_1:
+Start: 00:43:40.920
+End: 00:43:45.760
+Duration: 4.840 seconds
+Text: So that same process we went through to adopt the plan south and east of the Discovery
+--------------------------------------------------
+Speaker_1:
+Start: 00:43:45.760
+End: 00:43:50.360
+Duration: 4.600 seconds
+Text: Center, we would have to consider for this new site.
+--------------------------------------------------
+Speaker_1:
+Start: 00:43:50.360
+End: 00:43:53.480
+Duration: 3.120 seconds
+Text: And that will kick in a whole another three month process.
+--------------------------------------------------
+Speaker_1:
+Start: 00:43:53.480
+End: 00:43:57.360
+Duration: 3.880 seconds
+Text: So we're into the middle of March with just expanding the district.
+--------------------------------------------------
+Speaker_1:
+Start: 00:43:57.360
+End: 00:44:02.440
+Duration: 5.080 seconds
+Text: We're going to be in to May with the redevelopment plan.
+--------------------------------------------------
+Speaker_1:
+Start: 00:44:02.440
+End: 00:44:11.200
+Duration: 8.760 seconds
+Text: So transfer of this property and the issuance of bonds are really summer of 2022.
+--------------------------------------------------
+Speaker_1:
+Start: 00:44:11.200
+End: 00:44:14.600
+Duration: 3.400 seconds
+Text: Construction could start shortly thereafter.
+--------------------------------------------------
+Speaker_1:
+Start: 00:44:14.600
+End: 00:44:16.640
+Duration: 2.040 seconds
+Text: So that's kind of the timeline.
+--------------------------------------------------
+Speaker_1:
+Start: 00:44:16.640
+End: 00:44:25.480
+Duration: 8.840 seconds
+Text: We've got six months worth of state statutes to fulfill and bonds to draft.
+--------------------------------------------------
+Speaker_1:
+Start: 00:44:25.480
+End: 00:44:30.680
+Duration: 5.200 seconds
+Text: The bonds themselves are different than the star bonds we would have issued previously.
+--------------------------------------------------
+Speaker_1:
+Start: 00:44:30.680
+End: 00:44:38.960
+Duration: 8.280 seconds
+Text: These bonds are really a reflection of the revenues that will be generated through 2026.
+--------------------------------------------------
+Speaker_1:
+Start: 00:44:38.960
+End: 00:44:45.600
+Duration: 6.640 seconds
+Text: With 100% of that revenue dedicated towards this project with no moral obligation or future
+--------------------------------------------------
+Speaker_1:
+Start: 00:44:45.600
+End: 00:44:52.120
+Duration: 6.520 seconds
+Text: obligation of the city of Manhattan, we will truly be a conduit to allow these bonds
+--------------------------------------------------
+Speaker_1:
+Start: 00:44:52.120
+End: 00:44:57.920
+Duration: 5.800 seconds
+Text: to be issued so they can leverage primarily the state money.
+--------------------------------------------------
+Speaker_1:
+Start: 00:44:57.920
+End: 00:45:03.400
+Duration: 5.480 seconds
+Text: Our local money is about 5% of the total.
+--------------------------------------------------
+Speaker_1:
+Start: 00:45:03.400
+End: 00:45:06.360
+Duration: 2.960 seconds
+Text: 95% would be that from the city.
+--------------------------------------------------
+Speaker_1:
+Start: 00:45:06.360
+End: 00:45:07.360
+Duration: 1.000 seconds
+Text: From the state.
+--------------------------------------------------
+Speaker_1:
+Start: 00:45:07.360
+End: 00:45:08.360
+Duration: 1.000 seconds
+Text: I'm sorry.
+--------------------------------------------------
+Speaker_1:
+Start: 00:45:08.360
+End: 00:45:12.360
+Duration: 4.000 seconds
+Text: The share of the star bonds has always been 955.
+--------------------------------------------------
+Speaker_1:
+Start: 00:45:12.360
+End: 00:45:19.920
+Duration: 7.560 seconds
+Text: Tell 2026 that revenue stream would continue to flow through the trustee at the state to
+--------------------------------------------------
+Speaker_1:
+Start: 00:45:19.920
+End: 00:45:22.520
+Duration: 2.600 seconds
+Text: the bond holder.
+--------------------------------------------------
+Speaker_1:
+Start: 00:45:22.520
+End: 00:45:28.120
+Duration: 5.600 seconds
+Text: The owners and bond council are likely going to have to find a private placement for this
+--------------------------------------------------
+Speaker_1:
+Start: 00:45:28.120
+End: 00:45:35.680
+Duration: 7.560 seconds
+Text: bond and that bond buyer will show up and take the risk for that revenue.
+--------------------------------------------------
+Speaker_1:
+Start: 00:45:35.680
+End: 00:45:39.440
+Duration: 3.760 seconds
+Text: Decide itself is comprised of the parking lot.
+--------------------------------------------------
+Speaker_1:
+Start: 00:45:39.440
+End: 00:45:46.600
+Duration: 7.160 seconds
+Text: Obviously today it is part of the overall mall property that is on the tax rolls.
+--------------------------------------------------
+Speaker_1:
+Start: 00:45:46.600
+End: 00:45:51.240
+Duration: 4.640 seconds
+Text: The loss of these stalls in this parcel, Greg McHenry and his team at the county will have
+--------------------------------------------------
+Speaker_1:
+Start: 00:45:51.240
+End: 00:45:59.760
+Duration: 8.520 seconds
+Text: to make a decision as to how much if any that impacts the value of that property.
+--------------------------------------------------
+Speaker_1:
+Start: 00:45:59.760
+End: 00:46:06.680
+Duration: 6.920 seconds
+Text: Most of the value I would guess is being derived from the buildings themselves but it could
+--------------------------------------------------
+Speaker_1:
+Start: 00:46:06.680
+End: 00:46:11.320
+Duration: 4.640 seconds
+Text: have an impact on that total tax bill for the mall.
+--------------------------------------------------
+Speaker_1:
+Start: 00:46:11.320
+End: 00:46:13.200
+Duration: 1.880 seconds
+Text: We'll have to wait and see.
+--------------------------------------------------
+Speaker_1:
+Start: 00:46:13.200
+End: 00:46:20.400
+Duration: 7.200 seconds
+Text: The repurposing of the Sears building, it's clearly on the tax rolls today.
+--------------------------------------------------
+Speaker_1:
+Start: 00:46:20.400
+End: 00:46:28.840
+Duration: 8.440 seconds
+Text: Icon investments is the owner has a total value it looks like for 2021 of $885,000.
+--------------------------------------------------
+Speaker_1:
+Start: 00:46:28.840
+End: 00:46:36.840
+Duration: 8.000 seconds
+Text: That too will have to be evaluated by the county appraiser as to whether or not the nonprofit
+--------------------------------------------------
+Speaker_1:
+Start: 00:46:36.840
+End: 00:46:41.920
+Duration: 5.080 seconds
+Text: art and light museum will be on the tax rolls or if there will be any activity within that
+--------------------------------------------------
+Speaker_1:
+Start: 00:46:41.920
+End: 00:46:47.040
+Duration: 5.120 seconds
+Text: building that would qualify it for a taxable property.
+--------------------------------------------------
+Speaker_1:
+Start: 00:46:47.040
+End: 00:46:53.480
+Duration: 6.440 seconds
+Text: That evaluation is yet to come.
+--------------------------------------------------
+Speaker_1:
+Start: 00:46:53.480
+End: 00:46:57.320
+Duration: 3.840 seconds
+Text: Again tonight resolution to set that date for the hearing.
+--------------------------------------------------
+Speaker_1:
+Start: 00:46:57.320
+End: 00:47:01.080
+Duration: 3.760 seconds
+Text: Be happy to answer any questions you have at this time.
+--------------------------------------------------
+Commissioner:
+Start: 00:47:01.080
+End: 00:47:10.020
+Duration: 8.940 seconds
+Text: Jason, so zero of those parking stalls on the east side of town pavilion are the town
+--------------------------------------------------
+Commissioner:
+Start: 00:47:10.020
+End: 00:47:12.160
+Duration: 2.140 seconds
+Text: pavilion's parking spots.
+--------------------------------------------------
+Commissioner:
+Start: 00:47:12.160
+End: 00:47:13.160
+Duration: 1.000 seconds
+Text: Correct.
+--------------------------------------------------
+Commissioner:
+Start: 00:47:13.160
+End: 00:47:20.920
+Duration: 7.760 seconds
+Text: So if the light and art museum will take all of those parking spots, they're going to
+--------------------------------------------------
+Commissioner:
+Start: 00:47:20.920
+End: 00:47:25.680
+Duration: 4.760 seconds
+Text: need some parking for their own facility and so they can perhaps negotiate with the
+--------------------------------------------------
+Commissioner:
+Start: 00:47:25.680
+End: 00:47:28.440
+Duration: 2.760 seconds
+Text: pound of a million people or something.
+--------------------------------------------------
+Speaker_1:
+Start: 00:47:28.440
+End: 00:47:30.920
+Duration: 2.480 seconds
+Text: How they choose to sign those will be up to them.
+--------------------------------------------------
+Speaker_1:
+Start: 00:47:30.920
+End: 00:47:33.720
+Duration: 2.800 seconds
+Text: No different than any other private property owner.
+--------------------------------------------------
+Speaker_1:
+Start: 00:47:33.720
+End: 00:47:41.680
+Duration: 7.960 seconds
+Text: If you put the tow signs and you put the appropriate signage and you want to enforce it that way,
+--------------------------------------------------
+Speaker_1:
+Start: 00:47:41.680
+End: 00:47:43.800
+Duration: 2.120 seconds
+Text: you certainly can.
+--------------------------------------------------
+Speaker_1:
+Start: 00:47:43.800
+End: 00:47:46.840
+Duration: 3.040 seconds
+Text: No different than the holiday end does just south campus.
+--------------------------------------------------
+Speaker_1:
+Start: 00:47:46.840
+End: 00:47:50.160
+Duration: 3.320 seconds
+Text: They regulate their lot pretty tight.
+--------------------------------------------------
+Speaker_1:
+Start: 00:47:50.160
+End: 00:47:51.360
+Duration: 1.200 seconds
+Text: Call in when they can.
+--------------------------------------------------
+Speaker_1:
+Start: 00:47:51.360
+End: 00:47:52.360
+Duration: 1.000 seconds
+Text: Tickets can be issued.
+--------------------------------------------------
+Speaker_1:
+Start: 00:47:52.360
+End: 00:47:54.000
+Duration: 1.640 seconds
+Text: Toes aren't necessarily authorized.
+--------------------------------------------------
+Speaker_1:
+Start: 00:47:54.000
+End: 00:47:57.880
+Duration: 3.880 seconds
+Text: Tickets up to the officer, but they get absolutely signed this lot that way.
+--------------------------------------------------
+Speaker_1:
+Start: 00:47:57.880
+End: 00:48:02.320
+Duration: 4.440 seconds
+Text: They can also work with people who are in a Jason city.
+--------------------------------------------------
+Commissioner:
+Start: 00:48:02.320
+End: 00:48:10.120
+Duration: 7.800 seconds
+Text: The other thing is, so is there any kind of tax increment aspect of the sales tax that's
+--------------------------------------------------
+Commissioner:
+Start: 00:48:10.120
+End: 00:48:15.480
+Duration: 5.360 seconds
+Text: collected from the office supply store and the pool house bar and whatever else there.
+--------------------------------------------------
+Commissioner:
+Start: 00:48:15.480
+End: 00:48:20.400
+Duration: 4.920 seconds
+Text: Is there some kind of a cap or minimum thing there that they star bonds is above that
+--------------------------------------------------
+Commissioner:
+Start: 00:48:20.400
+End: 00:48:22.240
+Duration: 1.840 seconds
+Text: to them?
+--------------------------------------------------
+Speaker_1:
+Start: 00:48:22.240
+End: 00:48:29.720
+Duration: 7.480 seconds
+Text: So the property that will be likely impacted by our local revenues is just this old Sears
+--------------------------------------------------
+Speaker_1:
+Start: 00:48:29.720
+End: 00:48:30.720
+Duration: 1.000 seconds
+Text: building.
+--------------------------------------------------
+Speaker_1:
+Start: 00:48:30.720
+End: 00:48:35.840
+Duration: 5.120 seconds
+Text: The businesses that are occupied in the structure just straight to the east owned by Calvin and
+--------------------------------------------------
+Speaker_1:
+Start: 00:48:35.840
+End: 00:48:43.040
+Duration: 7.200 seconds
+Text: then the building that's own south of it by the glass caught family, those businesses
+--------------------------------------------------
+Speaker_1:
+Start: 00:48:43.040
+End: 00:48:44.960
+Duration: 1.920 seconds
+Text: are slated to remain.
+--------------------------------------------------
+Speaker_1:
+Start: 00:48:44.960
+End: 00:48:50.600
+Duration: 5.640 seconds
+Text: So those incomes or those sales tax those property tax will remain.
+--------------------------------------------------
+Speaker_1:
+Start: 00:48:50.600
+End: 00:48:54.200
+Duration: 3.600 seconds
+Text: That's really the Sears building that $885,000 building.
+--------------------------------------------------
+Speaker_1:
+Start: 00:48:54.200
+End: 00:48:55.520
+Duration: 1.320 seconds
+Text: I'm not privy.
+--------------------------------------------------
+Speaker_1:
+Start: 00:48:55.520
+End: 00:49:01.280
+Duration: 5.760 seconds
+Text: I don't know if there's anybody in that building actually generating sales tax at this point
+--------------------------------------------------
+Speaker_1:
+Start: 00:49:01.280
+End: 00:49:02.280
+Duration: 1.000 seconds
+Text: in time.
+--------------------------------------------------
+Speaker_1:
+Start: 00:49:02.280
+End: 00:49:05.280
+Duration: 3.000 seconds
+Text: Probably has been in the past, but there may not be now.
+--------------------------------------------------
+Speaker_1:
+Start: 00:49:05.280
+End: 00:49:11.200
+Duration: 5.920 seconds
+Text: But anybody generating sales tax here will then now become part of the star bond district
+--------------------------------------------------
+Speaker_1:
+Start: 00:49:11.200
+End: 00:49:16.000
+Duration: 4.800 seconds
+Text: and the state will capture that, peel it off and send it to the trustee.
+--------------------------------------------------
+Speaker_1:
+Start: 00:49:16.000
+End: 00:49:21.400
+Duration: 5.400 seconds
+Text: So if there are sales tax being generated, whether it's our local or the state pool house
+--------------------------------------------------
+Speaker_1:
+Start: 00:49:21.400
+End: 00:49:26.160
+Duration: 4.760 seconds
+Text: for example, instead of coming into the city coffers, those will now go to support those
+--------------------------------------------------
+Speaker_1:
+Start: 00:49:26.160
+End: 00:49:30.560
+Duration: 4.400 seconds
+Text: star bonds through 2026.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:49:30.560
+End: 00:49:37.320
+Duration: 6.760 seconds
+Text: Jason, this is Commissioner Ready.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:49:37.320
+End: 00:49:45.600
+Duration: 8.280 seconds
+Text: So in the public hearing agreement section five for the public hearing, it also has Riley
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:49:45.600
+End: 00:49:52.520
+Duration: 6.920 seconds
+Text: County Board of County Commissioners and the Board of Education.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:49:52.520
+End: 00:49:56.500
+Duration: 3.980 seconds
+Text: Do you need to go to them separately also and do a similar presentation or is it just
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:49:56.500
+End: 00:49:59.280
+Duration: 2.780 seconds
+Text: a public hearing for all entities at once?
+--------------------------------------------------
+Speaker_1:
+Start: 00:49:59.280
+End: 00:50:01.120
+Duration: 1.840 seconds
+Text: They're noticed of the hearing.
+--------------------------------------------------
+Speaker_1:
+Start: 00:50:01.120
+End: 00:50:06.680
+Duration: 5.560 seconds
+Text: We will send them direct notice just like we will send every owner on the north end and
+--------------------------------------------------
+Speaker_1:
+Start: 00:50:06.680
+End: 00:50:10.560
+Duration: 3.880 seconds
+Text: the south end and the expanded area.
+--------------------------------------------------
+Speaker_1:
+Start: 00:50:10.560
+End: 00:50:15.360
+Duration: 4.800 seconds
+Text: We'll send out over 240 notices of that hearing.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:50:15.360
+End: 00:50:18.480
+Duration: 3.120 seconds
+Text: And 2026 is not really that far away.
+--------------------------------------------------
+Speaker_1:
+Start: 00:50:18.480
+End: 00:50:26.320
+Duration: 7.840 seconds
+Text: So what happens after that like for this is our star bond district will expire in 2026.
+--------------------------------------------------
+Speaker_1:
+Start: 00:50:26.320
+End: 00:50:31.160
+Duration: 4.840 seconds
+Text: These bonds will expire in 2026, 2027.
+--------------------------------------------------
+Speaker_1:
+Start: 00:50:31.160
+End: 00:50:35.640
+Duration: 4.480 seconds
+Text: There's always residual revenues that come in from the prior year.
+--------------------------------------------------
+Speaker_1:
+Start: 00:50:35.640
+End: 00:50:36.960
+Duration: 1.320 seconds
+Text: They'll be eligible for that.
+--------------------------------------------------
+Speaker_1:
+Start: 00:50:36.960
+End: 00:50:45.120
+Duration: 8.160 seconds
+Text: But yeah, December 31, 2026 will be the last point in time for the district to exist.
+--------------------------------------------------
+Speaker_1:
+Start: 00:50:45.120
+End: 00:50:48.520
+Duration: 3.400 seconds
+Text: Starting after that, it will no longer exist.
+--------------------------------------------------
+Speaker_1:
+Start: 00:50:48.520
+End: 00:50:54.720
+Duration: 6.200 seconds
+Text: Those bonds will be exhausted and the revenues will return not only to the state but to us
+--------------------------------------------------
+Speaker_1:
+Start: 00:50:54.720
+End: 00:50:55.720
+Duration: 1.000 seconds
+Text: locally.
+--------------------------------------------------
+Speaker_1:
+Start: 00:50:55.720
+End: 00:51:01.560
+Duration: 5.840 seconds
+Text: On the tip side and the star side, there's a substantial increase coming for all three
+--------------------------------------------------
+Speaker_1:
+Start: 00:51:01.560
+End: 00:51:03.760
+Duration: 2.200 seconds
+Text: taxing jurisdictions in 2027.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:51:03.760
+End: 00:51:04.760
+Duration: 1.000 seconds
+Text: Right.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:51:04.760
+End: 00:51:11.840
+Duration: 7.080 seconds
+Text: And you said there is no impact on the city.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:51:11.840
+End: 00:51:14.680
+Duration: 2.840 seconds
+Text: What you were saying earlier was whatever they collect is what they collect.
+--------------------------------------------------
+Commissioner:
+Start: 00:51:14.680
+End: 00:51:16.600
+Duration: 1.920 seconds
+Text: We don't have to make up for anything.
+--------------------------------------------------
+Speaker_1:
+Start: 00:51:16.600
+End: 00:51:20.080
+Duration: 3.480 seconds
+Text: So the impact will highlight in March.
+--------------------------------------------------
+Speaker_1:
+Start: 00:51:20.080
+End: 00:51:26.320
+Duration: 6.240 seconds
+Text: So there are some properties coming off potentially from a property tax perspective.
+--------------------------------------------------
+Speaker_1:
+Start: 00:51:26.320
+End: 00:51:31.040
+Duration: 4.720 seconds
+Text: There possibly some sales tax being generated inside that red hatched area that will no
+--------------------------------------------------
+Speaker_1:
+Start: 00:51:31.040
+End: 00:51:33.360
+Duration: 2.320 seconds
+Text: longer come to the city directly.
+--------------------------------------------------
+Speaker_1:
+Start: 00:51:33.360
+End: 00:51:35.160
+Duration: 1.800 seconds
+Text: They will go to the star bonds.
+--------------------------------------------------
+Speaker_1:
+Start: 00:51:35.160
+End: 00:51:36.760
+Duration: 1.600 seconds
+Text: We'll do that math.
+--------------------------------------------------
+Speaker_1:
+Start: 00:51:36.760
+End: 00:51:38.000
+Duration: 1.240 seconds
+Text: We'll show the calculation.
+--------------------------------------------------
+Speaker_1:
+Start: 00:51:38.000
+End: 00:51:42.240
+Duration: 4.240 seconds
+Text: But on the other side, they've got their own feasibility study.
+--------------------------------------------------
+Speaker_1:
+Start: 00:51:42.240
+End: 00:51:47.840
+Duration: 5.600 seconds
+Text: The construction impact of a $40 million building, the operation of that facility, and really
+--------------------------------------------------
+Speaker_1:
+Start: 00:51:47.840
+End: 00:51:52.720
+Duration: 4.880 seconds
+Text: we'll look at a five-year window because that five-year window is truly where the star
+--------------------------------------------------
+Speaker_1:
+Start: 00:51:52.720
+End: 00:51:55.760
+Duration: 3.040 seconds
+Text: bonds and the revenues could be captured.
+--------------------------------------------------
+Speaker_1:
+Start: 00:51:55.760
+End: 00:52:01.800
+Duration: 6.040 seconds
+Text: The property tax side, that could be obviously longer than the five-year period for the area
+--------------------------------------------------
+Speaker_1:
+Start: 00:52:01.800
+End: 00:52:05.080
+Duration: 3.280 seconds
+Text: which the museum is occupying space.
+--------------------------------------------------
+Speaker_1:
+Start: 00:52:05.080
+End: 00:52:08.320
+Duration: 3.240 seconds
+Text: So we'll have to look at their annual calcs in terms of what they're going to generate
+--------------------------------------------------
+Speaker_1:
+Start: 00:52:08.320
+End: 00:52:15.840
+Duration: 7.520 seconds
+Text: for transit guest tax, sales tax, and employment versus what that site's generating today.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:52:15.840
+End: 00:52:21.680
+Duration: 5.840 seconds
+Text: And how long did they say it was going to take them to, let's say they started construction,
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:52:21.680
+End: 00:52:24.160
+Duration: 2.480 seconds
+Text: I don't know, in the summer or whenever.
+--------------------------------------------------
+Commissioner:
+Start: 00:52:24.160
+End: 00:52:28.120
+Duration: 3.960 seconds
+Text: How long did they anticipate it was going to take them to complete the project?
+--------------------------------------------------
+Speaker_1:
+Start: 00:52:28.120
+End: 00:52:33.120
+Duration: 5.000 seconds
+Text: I think you're looking at a minimum of 12 to 18 months.
+--------------------------------------------------
+Speaker_1:
+Start: 00:52:33.120
+End: 00:52:39.160
+Duration: 6.040 seconds
+Text: The rest of this size discovery center similar well over a year.
+--------------------------------------------------
+Speaker_1:
+Start: 00:52:39.160
+End: 00:52:42.400
+Duration: 3.240 seconds
+Text: We were into the 15 to 18 month process.
+--------------------------------------------------
+Speaker_1:
+Start: 00:52:42.400
+End: 00:52:45.680
+Duration: 3.280 seconds
+Text: I think it was almost full two years to open it.
+--------------------------------------------------
+Speaker_1:
+Start: 00:52:45.680
+End: 00:52:50.480
+Duration: 4.800 seconds
+Text: So it'll be quite a duration.
+--------------------------------------------------
+Speaker_1:
+Start: 00:52:50.480
+End: 00:52:52.360
+Duration: 1.880 seconds
+Text: Let's just say it's fall of 22.
+--------------------------------------------------
+Speaker_1:
+Start: 00:52:52.360
+End: 00:52:58.080
+Duration: 5.720 seconds
+Text: It could be fall of 24 before it's open and literally a year and a half later you're going
+--------------------------------------------------
+Speaker_1:
+Start: 00:52:58.080
+End: 00:53:02.360
+Duration: 4.280 seconds
+Text: to be done financially.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:53:02.400
+End: 00:53:07.160
+Duration: 4.760 seconds
+Text: And the operational costs and all of that is on the owners.
+--------------------------------------------------
+Speaker_1:
+Start: 00:53:07.160
+End: 00:53:08.160
+Duration: 1.000 seconds
+Text: 100%.
+--------------------------------------------------
+Speaker_1:
+Start: 00:53:08.160
+End: 00:53:12.000
+Duration: 3.840 seconds
+Text: Our development agreement will highlight that as well.
+--------------------------------------------------
+Speaker_1:
+Start: 00:53:12.000
+End: 00:53:16.080
+Duration: 4.080 seconds
+Text: The obligations of the city and the obligations of the owner.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:53:16.080
+End: 00:53:24.200
+Duration: 8.120 seconds
+Text: And so you said 5% as the city obligation from the Starbund perspective, 95% estate, and
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:53:24.200
+End: 00:53:28.560
+Duration: 4.360 seconds
+Text: then there's additional private funding sources for this.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:53:28.560
+End: 00:53:30.040
+Duration: 1.480 seconds
+Text: I think it was good.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:53:30.040
+End: 00:53:34.520
+Duration: 4.480 seconds
+Text: I'm glad they found an alternative source or an alternative place.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:53:34.520
+End: 00:53:37.880
+Duration: 3.360 seconds
+Text: I know there was, we all the way agreed to the original plan.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:53:37.880
+End: 00:53:42.720
+Duration: 4.840 seconds
+Text: We do know there was some challenges and some concerns from local businesses that were
+--------------------------------------------------
+Commissioner:
+Start: 00:53:42.720
+End: 00:53:43.720
+Duration: 1.000 seconds
+Text: in that surrounding region.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:53:43.720
+End: 00:53:50.920
+Duration: 7.200 seconds
+Text: So I'm glad they were able to negotiate it to something that might be more compatible
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:53:50.920
+End: 00:53:53.280
+Duration: 2.360 seconds
+Text: with the business owners around that area.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:53:53.280
+End: 00:53:58.160
+Duration: 4.880 seconds
+Text: But I look forward to hearing more about it as far as the public hearing.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:53:58.160
+End: 00:54:03.200
+Duration: 5.040 seconds
+Text: Yeah, I just hope everybody in that area knows and shows up and gives us their feedback
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:54:03.200
+End: 00:54:04.200
+Duration: 1.000 seconds
+Text: as well.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:54:04.200
+End: 00:54:12.320
+Duration: 8.120 seconds
+Text: Jason, I have a question about the, it appears from exhibit V that the tax increment
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:54:12.320
+End: 00:54:18.200
+Duration: 5.880 seconds
+Text: finance district and the Starbund district are the same.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:54:18.200
+End: 00:54:19.200
+Duration: 1.000 seconds
+Text: Is that true?
+--------------------------------------------------
+Commissioner:
+Start: 00:54:19.200
+End: 00:54:20.200
+Duration: 1.000 seconds
+Text: It is true.
+--------------------------------------------------
+Commissioner:
+Start: 00:54:20.200
+End: 00:54:21.200
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:54:21.440
+End: 00:54:22.440
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:54:22.440
+End: 00:54:25.040
+Duration: 2.600 seconds
+Text: That was an important distinction.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:54:25.040
+End: 00:54:28.400
+Duration: 3.360 seconds
+Text: Are there other questions from the commission?
+--------------------------------------------------
+Commissioner:
+Start: 00:54:28.400
+End: 00:54:29.400
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner:
+Start: 00:54:29.400
+End: 00:54:35.040
+Duration: 5.640 seconds
+Text: You know what my question is because it was asked of me is what's the impact going to be
+--------------------------------------------------
+Commissioner:
+Start: 00:54:35.040
+End: 00:54:37.160
+Duration: 2.120 seconds
+Text: on property tax.
+--------------------------------------------------
+Commissioner:
+Start: 00:54:37.160
+End: 00:54:39.160
+Duration: 2.000 seconds
+Text: You've already kind of talked about it.
+--------------------------------------------------
+Commissioner:
+Start: 00:54:39.160
+End: 00:54:40.960
+Duration: 1.800 seconds
+Text: You don't have a number.
+--------------------------------------------------
+Commissioner:
+Start: 00:54:40.960
+End: 00:54:47.760
+Duration: 6.800 seconds
+Text: But I would see if you agree that there probably be some loss of property tax due to this
+--------------------------------------------------
+Commissioner:
+Start: 00:54:47.760
+End: 00:54:49.120
+Duration: 1.360 seconds
+Text: coming in.
+--------------------------------------------------
+Commissioner:
+Start: 00:54:49.120
+End: 00:54:54.040
+Duration: 4.920 seconds
+Text: So when we look at it later, you're going to put in some schedules for us to see best
+--------------------------------------------------
+Commissioner:
+Start: 00:54:54.040
+End: 00:54:56.040
+Duration: 2.000 seconds
+Text: guess what that loss is.
+--------------------------------------------------
+Commissioner:
+Start: 00:54:56.040
+End: 00:54:58.720
+Duration: 2.680 seconds
+Text: Here's the other gains so we can look at a net number.
+--------------------------------------------------
+Commissioner:
+Start: 00:54:58.720
+End: 00:54:59.720
+Duration: 1.000 seconds
+Text: Correct.
+--------------------------------------------------
+Commissioner:
+Start: 00:54:59.720
+End: 00:55:00.720
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner:
+Start: 00:55:00.720
+End: 00:55:10.880
+Duration: 10.160 seconds
+Text: John, I will tell you, based on the value of my office condominium versus 850,000, if
+--------------------------------------------------
+Commissioner:
+Start: 00:55:10.880
+End: 00:55:19.080
+Duration: 8.200 seconds
+Text: it, on a ratio, a $250,000 office condo is about $11,000 in property tax.
+--------------------------------------------------
+Commissioner:
+Start: 00:55:19.080
+End: 00:55:28.800
+Duration: 9.720 seconds
+Text: So it's probably $40,000 with a property tax or so that is being collected for the county,
+--------------------------------------------------
+Commissioner:
+Start: 00:55:28.800
+End: 00:55:31.880
+Duration: 3.080 seconds
+Text: city, school district, and the state.
+--------------------------------------------------
+Commissioner:
+Start: 00:55:31.880
+End: 00:55:34.400
+Duration: 2.520 seconds
+Text: So our parts, probably 25.
+--------------------------------------------------
+Commissioner:
+Start: 00:55:34.400
+End: 00:55:37.760
+Duration: 3.360 seconds
+Text: Not a lot worth it.
+--------------------------------------------------
+Commissioner:
+Start: 00:55:37.760
+End: 00:55:42.280
+Duration: 4.520 seconds
+Text: Yeah, I don't think it's that much, but I just wanted to get an answer to the question
+--------------------------------------------------
+Commissioner:
+Start: 00:55:42.280
+End: 00:55:43.280
+Duration: 1.000 seconds
+Text: for them.
+--------------------------------------------------
+Commissioner:
+Start: 00:55:43.280
+End: 00:55:47.560
+Duration: 4.280 seconds
+Text: And it would be the loss to all those entities for that property tax because none of them
+--------------------------------------------------
+Commissioner:
+Start: 00:55:47.560
+End: 00:55:52.360
+Duration: 4.800 seconds
+Text: are going to get it and they're going to have to make up for it.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:55:52.360
+End: 00:55:59.520
+Duration: 7.160 seconds
+Text: So when you come March the 1st, you'll have to be able to give us more detail about what
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:55:59.520
+End: 00:56:01.520
+Duration: 2.000 seconds
+Text: the cost to the city might be.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:56:01.520
+End: 00:56:04.680
+Duration: 3.160 seconds
+Text: I think that we're all interested in knowing that.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:56:04.680
+End: 00:56:12.520
+Duration: 7.840 seconds
+Text: This on its face, seeing a $44 million project is kind of dazzling.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:56:12.520
+End: 00:56:18.880
+Duration: 6.360 seconds
+Text: And so we want to make sure that we're not being dazzled, that we're being very practical.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:56:18.880
+End: 00:56:23.480
+Duration: 4.600 seconds
+Text: So are there other questions, commissioners?
+--------------------------------------------------
+Commissioner:
+Start: 00:56:23.480
+End: 00:56:28.240
+Duration: 4.760 seconds
+Text: I think when we looked at this last time, we had a lot of public input and they actually
+--------------------------------------------------
+Commissioner:
+Start: 00:56:28.240
+End: 00:56:30.600
+Duration: 2.360 seconds
+Text: pushed for this new site.
+--------------------------------------------------
+Commissioner:
+Start: 00:56:30.600
+End: 00:56:32.320
+Duration: 1.720 seconds
+Text: And a lot of people spoke on that.
+--------------------------------------------------
+Commissioner:
+Start: 00:56:32.320
+End: 00:56:36.360
+Duration: 4.040 seconds
+Text: I think this is a better fit than the original plan.
+--------------------------------------------------
+Commissioner:
+Start: 00:56:36.360
+End: 00:56:39.760
+Duration: 3.400 seconds
+Text: And then when we looked at the original plan, and I know Mark talked about it quite a
+--------------------------------------------------
+Commissioner:
+Start: 00:56:39.760
+End: 00:56:42.080
+Duration: 2.320 seconds
+Text: bit, it looked like a decent return on investment.
+--------------------------------------------------
+Commissioner:
+Start: 00:56:42.080
+End: 00:56:47.160
+Duration: 5.080 seconds
+Text: And you looked at the amount of people this is going to generate coming to the city and
+--------------------------------------------------
+Commissioner:
+Start: 00:56:47.160
+End: 00:56:49.320
+Duration: 2.160 seconds
+Text: the sales tax it was going to make.
+--------------------------------------------------
+Commissioner:
+Start: 00:56:49.320
+End: 00:56:52.000
+Duration: 2.680 seconds
+Text: So that's also important to include.
+--------------------------------------------------
+Commissioner:
+Start: 00:56:52.000
+End: 00:56:57.360
+Duration: 5.360 seconds
+Text: If we're going to lose $40,000 in property tax, we get the potential to gain $200,000
+--------------------------------------------------
+Commissioner:
+Start: 00:56:57.360
+End: 00:57:00.720
+Duration: 3.360 seconds
+Text: in other revenue, then this is still a good bet.
+--------------------------------------------------
+Commissioner:
+Start: 00:57:00.720
+End: 00:57:04.000
+Duration: 3.280 seconds
+Text: And then that's important to highlight because there are some people concerned about that.
+--------------------------------------------------
+Commissioner:
+Start: 00:57:04.000
+End: 00:57:11.080
+Duration: 7.080 seconds
+Text: But I'm still optimistic that this will shake out and be a very good project for the city.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:57:11.080
+End: 00:57:18.800
+Duration: 7.720 seconds
+Text: I think it will be a major tourism and attraction item for Manhattan and just what we need.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:57:18.800
+End: 00:57:28.120
+Duration: 9.320 seconds
+Text: As the economy has kind of faltered with COVID, and it seems that this would be a good just
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:57:28.120
+End: 00:57:29.120
+Duration: 1.000 seconds
+Text: a boon.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:57:29.120
+End: 00:57:36.320
+Duration: 7.200 seconds
+Text: If we've been in a stagnant economy here and not had a lot of new economic development,
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:57:36.320
+End: 00:57:41.960
+Duration: 5.640 seconds
+Text: this seems like a generator, a startup thing that will benefit all of us.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:57:41.960
+End: 00:57:45.000
+Duration: 3.040 seconds
+Text: So it sounds like.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:57:45.000
+End: 00:57:50.360
+Duration: 5.360 seconds
+Text: I just wanted to say it's also a good voter confidence from Secretary Toll and the
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:57:50.360
+End: 00:57:58.320
+Duration: 7.960 seconds
+Text: letter that also speaks volumes as far as their interest and commitment in this district
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:57:58.320
+End: 00:57:59.320
+Duration: 1.000 seconds
+Text: and for this project.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:57:59.320
+End: 00:58:04.160
+Duration: 4.840 seconds
+Text: And I like the fact that it's a local developer.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:58:04.560
+End: 00:58:10.960
+Duration: 6.400 seconds
+Text: You know, that's sometimes we just feel like where people are cruising around the country,
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:58:10.960
+End: 00:58:13.880
+Duration: 2.920 seconds
+Text: making decisions for local communities.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:58:13.880
+End: 00:58:22.720
+Duration: 8.840 seconds
+Text: And so this has a distinctive local flavor and one that good for our local people stepping
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:58:22.720
+End: 00:58:24.680
+Duration: 1.960 seconds
+Text: forward is something like this.
+--------------------------------------------------
+Speaker_1:
+Start: 00:58:24.680
+End: 00:58:27.480
+Duration: 2.800 seconds
+Text: Bob and Tracy have done the excellent job.
+--------------------------------------------------
+Speaker_1:
+Start: 00:58:27.480
+End: 00:58:28.640
+Duration: 1.160 seconds
+Text: Did they do the brilliance?
+--------------------------------------------------
+Speaker_1:
+Start: 00:58:28.640
+End: 00:58:33.920
+Duration: 5.280 seconds
+Text: And obviously they've done a masterful job negotiating with the Manhattan Town Center.
+--------------------------------------------------
+Speaker_1:
+Start: 00:58:34.160
+End: 00:58:39.800
+Duration: 5.640 seconds
+Text: We may have to get them on retainer and bring them back next time we go shake with them all.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:58:39.800
+End: 00:58:42.800
+Duration: 3.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:58:42.800
+End: 00:58:44.640
+Duration: 1.840 seconds
+Text: It would be an opportunity.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:58:44.640
+End: 00:58:48.400
+Duration: 3.760 seconds
+Text: Are there more comments that we're ready for public comments?
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:58:48.400
+End: 00:58:52.240
+Duration: 3.840 seconds
+Text: Does anyone, I'll open the meeting for public comments.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:58:52.240
+End: 00:58:55.240
+Duration: 3.000 seconds
+Text: Anyone that wishes to speak should come forward and sign in.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:59:03.920
+End: 00:59:10.360
+Duration: 6.440 seconds
+Text: Seeing no one, I'll close the public portion, public comment portion and the commission
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:59:10.360
+End: 00:59:14.360
+Duration: 4.000 seconds
+Text: can move on.
+--------------------------------------------------
+Commissioner:
+Start: 00:59:14.360
+End: 00:59:21.240
+Duration: 6.880 seconds
+Text: I move that we approve resolution number 011 822-A, setting the date for March 1st, 2022
+--------------------------------------------------
+Commissioner:
+Start: 00:59:21.240
+End: 00:59:24.240
+Duration: 3.000 seconds
+Text: for a public hearing on the expansion of the Starbonne District.
+--------------------------------------------------
+Commissioner:
+Start: 00:59:24.240
+End: 00:59:25.640
+Duration: 1.400 seconds
+Text: I'll second.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:59:25.640
+End: 00:59:27.800
+Duration: 2.160 seconds
+Text: We have a motion and a second.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:59:27.800
+End: 00:59:30.120
+Duration: 2.320 seconds
+Text: City Clerk Brenda.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:59:30.120
+End: 00:59:32.120
+Duration: 2.000 seconds
+Text: Commissioner Hattisall.
+--------------------------------------------------
+Commissioner:
+Start: 00:59:32.120
+End: 00:59:33.120
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:59:33.120
+End: 00:59:35.120
+Duration: 2.000 seconds
+Text: Commissioner Reddy.
+--------------------------------------------------
+Commissioner:
+Start: 00:59:35.120
+End: 00:59:36.120
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:59:36.120
+End: 00:59:37.120
+Duration: 1.000 seconds
+Text: Commissioner Butler.
+--------------------------------------------------
+Commissioner:
+Start: 00:59:37.120
+End: 00:59:38.120
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:59:38.120
+End: 00:59:39.120
+Duration: 1.000 seconds
+Text: Commissioner Mata.
+--------------------------------------------------
+Commissioner:
+Start: 00:59:39.120
+End: 00:59:40.120
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:59:40.120
+End: 00:59:41.120
+Duration: 1.000 seconds
+Text: Mayor Morse.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:59:41.120
+End: 00:59:42.120
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:59:42.120
+End: 00:59:44.120
+Duration: 2.000 seconds
+Text: Motion carries 5-0.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:59:44.120
+End: 00:59:46.120
+Duration: 2.000 seconds
+Text: Brenda, I couldn't spit your last name out.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:59:46.120
+End: 00:59:47.120
+Duration: 1.000 seconds
+Text: Brenda Wolfe.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:59:47.120
+End: 00:59:48.120
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:59:48.120
+End: 00:59:49.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:59:49.120
+End: 00:59:55.600
+Duration: 6.480 seconds
+Text: At this point, we, and I see no other business, so at this point we're adjourned.
+--------------------------------------------------
+Commissioner:
+Start: 00:59:55.600
+End: 00:59:56.120
+Duration: 0.520 seconds
+Text: Thank you.
+--------------------------------------------------

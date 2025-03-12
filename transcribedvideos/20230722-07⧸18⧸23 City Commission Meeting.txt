@@ -1,0 +1,4833 @@
+Transcription and Diarization for 20230722-07⧸18⧸23 City Commission Meeting.mp4
+==================================================
+
+Commissioner Butler:
+Start: 00:00:00.000
+End: 00:00:02.800
+Duration: 2.800 seconds
+Text: There's a lot of comments here.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:02.800
+End: 00:00:05.000
+Duration: 2.200 seconds
+Text: There you go.
+--------------------------------------------------
+City Attorney General:
+Start: 00:00:05.000
+End: 00:00:10.000
+Duration: 5.000 seconds
+Text: It is six o'clock and I call the July 18th
+--------------------------------------------------
+City Attorney General:
+Start: 00:00:10.000
+End: 00:00:12.000
+Duration: 2.000 seconds
+Text: the City Commission meeting to order.
+--------------------------------------------------
+City Attorney General:
+Start: 00:00:12.000
+End: 00:00:13.840
+Duration: 1.840 seconds
+Text: City Clerk, please call the roll.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:13.840
+End: 00:00:14.760
+Duration: 0.920 seconds
+Text: Mayor Hasselwald.
+--------------------------------------------------
+City Attorney General:
+Start: 00:00:14.760
+End: 00:00:15.440
+Duration: 0.680 seconds
+Text: Here.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:15.440
+End: 00:00:16.280
+Duration: 0.840 seconds
+Text: Commissioner Butler.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:16.280
+End: 00:00:16.780
+Duration: 0.500 seconds
+Text: Here.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:16.780
+End: 00:00:17.520
+Duration: 0.740 seconds
+Text: Commissioner Mata.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:17.520
+End: 00:00:18.280
+Duration: 0.760 seconds
+Text: Here.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:18.280
+End: 00:00:19.120
+Duration: 0.840 seconds
+Text: Commissioner Morris.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:19.120
+End: 00:00:20.280
+Duration: 1.160 seconds
+Text: Present.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:20.280
+End: 00:00:22.200
+Duration: 1.920 seconds
+Text: Mayor, we have four commissioners present.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:22.200
+End: 00:00:23.760
+Duration: 1.560 seconds
+Text: The quorum of three has been met.
+--------------------------------------------------
+City Attorney General:
+Start: 00:00:23.760
+End: 00:00:24.280
+Duration: 0.520 seconds
+Text: Great.
+--------------------------------------------------
+City Attorney General:
+Start: 00:00:24.280
+End: 00:00:28.080
+Duration: 3.800 seconds
+Text: Please stand and join me in the Pledge of Allegiance.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:28.080
+End: 00:00:32.240
+Duration: 4.160 seconds
+Text: Pledge of Allegiance to the flag of the United States of America.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:32.240
+End: 00:00:36.880
+Duration: 4.640 seconds
+Text: And to the Republic for which it stands, one nation under God,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:36.880
+End: 00:00:42.920
+Duration: 6.040 seconds
+Text: the end of this globe with liberty and justice for all.
+--------------------------------------------------
+City Attorney General:
+Start: 00:00:42.920
+End: 00:00:45.520
+Duration: 2.600 seconds
+Text: Our first order of business is a proclamation
+--------------------------------------------------
+City Attorney General:
+Start: 00:00:45.520
+End: 00:00:48.720
+Duration: 3.200 seconds
+Text: for the National Day of the Caldwell.
+--------------------------------------------------
+City Attorney General:
+Start: 00:00:48.720
+End: 00:00:53.240
+Duration: 4.520 seconds
+Text: Kylie, Jonathan, and Sally, whoever's here, come on up.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:53.240
+End: 00:00:54.240
+Duration: 1.000 seconds
+Text: No cowboy hats.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:55.240
+End: 00:00:58.080
+Duration: 2.840 seconds
+Text: That's a fun day.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:58.080
+End: 00:00:59.080
+Duration: 1.000 seconds
+Text: That's a fun day.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:59.080
+End: 00:01:01.080
+Duration: 2.000 seconds
+Text: Howdy.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:01.080
+End: 00:01:03.480
+Duration: 2.400 seconds
+Text: We'll start to finally be on the mic.
+--------------------------------------------------
+City Attorney General:
+Start: 00:01:03.480
+End: 00:01:04.480
+Duration: 1.000 seconds
+Text: Nice to meet you.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:04.480
+End: 00:01:05.480
+Duration: 1.000 seconds
+Text: Nice to meet you.
+--------------------------------------------------
+City Attorney General:
+Start: 00:01:05.480
+End: 00:01:06.480
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+City Attorney General:
+Start: 00:01:06.480
+End: 00:01:07.480
+Duration: 1.000 seconds
+Text: And the peer-relate is here.
+--------------------------------------------------
+City Attorney General:
+Start: 00:01:07.480
+End: 00:01:08.480
+Duration: 1.000 seconds
+Text: That's good.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:08.480
+End: 00:01:09.480
+Duration: 1.000 seconds
+Text: OK.
+--------------------------------------------------
+City Attorney General:
+Start: 00:01:09.480
+End: 00:01:10.480
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+City Attorney General:
+Start: 00:01:10.480
+End: 00:01:12.080
+Duration: 1.600 seconds
+Text: We'll read the proclamation and you guys can comment
+--------------------------------------------------
+City Attorney General:
+Start: 00:01:12.080
+End: 00:01:15.600
+Duration: 3.520 seconds
+Text: about the festivities coming up.
+--------------------------------------------------
+City Attorney General:
+Start: 00:01:15.600
+End: 00:01:18.480
+Duration: 2.880 seconds
+Text: Whereas pioneering men and women, known as cowboys,
+--------------------------------------------------
+City Attorney General:
+Start: 00:01:18.480
+End: 00:01:20.520
+Duration: 2.040 seconds
+Text: have established America's frontiers,
+--------------------------------------------------
+City Attorney General:
+Start: 00:01:20.520
+End: 00:01:22.600
+Duration: 2.080 seconds
+Text: including the settlement of Manhattan.
+--------------------------------------------------
+City Attorney General:
+Start: 00:01:22.600
+End: 00:01:25.720
+Duration: 3.120 seconds
+Text: And the cowboy embodies honesty, integrity, courage,
+--------------------------------------------------
+City Attorney General:
+Start: 00:01:25.720
+End: 00:01:27.800
+Duration: 2.080 seconds
+Text: compassion, and determination.
+--------------------------------------------------
+City Attorney General:
+Start: 00:01:27.800
+End: 00:01:30.240
+Duration: 2.440 seconds
+Text: And the cowboy is an excellent steward of the land
+--------------------------------------------------
+City Attorney General:
+Start: 00:01:30.240
+End: 00:01:31.800
+Duration: 1.560 seconds
+Text: and its creatures.
+--------------------------------------------------
+City Attorney General:
+Start: 00:01:31.800
+End: 00:01:33.720
+Duration: 1.920 seconds
+Text: The cowboy traditions have long been a part
+--------------------------------------------------
+City Attorney General:
+Start: 00:01:33.720
+End: 00:01:36.600
+Duration: 2.880 seconds
+Text: of the American landscape and the legend of the cowboy
+--------------------------------------------------
+City Attorney General:
+Start: 00:01:36.600
+End: 00:01:38.680
+Duration: 2.080 seconds
+Text: came to life on the Kansas Prairie
+--------------------------------------------------
+City Attorney General:
+Start: 00:01:38.680
+End: 00:01:41.120
+Duration: 2.440 seconds
+Text: during the era of the Great Cattle drives.
+--------------------------------------------------
+City Attorney General:
+Start: 00:01:41.120
+End: 00:01:42.400
+Duration: 1.280 seconds
+Text: And the work of the modern cowboy
+--------------------------------------------------
+City Attorney General:
+Start: 00:01:42.400
+End: 00:01:44.800
+Duration: 2.400 seconds
+Text: is honored by the Flint Hills Discovery Center.
+--------------------------------------------------
+City Attorney General:
+Start: 00:01:44.800
+End: 00:01:47.920
+Duration: 3.120 seconds
+Text: And a local celebration of the National Day of the Cowboy
+--------------------------------------------------
+City Attorney General:
+Start: 00:01:47.920
+End: 00:01:52.120
+Duration: 4.200 seconds
+Text: will be held in the Manhattan area during 2023.
+--------------------------------------------------
+City Attorney General:
+Start: 00:01:52.120
+End: 00:01:53.480
+Duration: 1.360 seconds
+Text: And a National Day of the Cowboy
+--------------------------------------------------
+City Attorney General:
+Start: 00:01:53.480
+End: 00:01:56.360
+Duration: 2.880 seconds
+Text: has been designated by the United States Congress
+--------------------------------------------------
+City Attorney General:
+Start: 00:01:56.360
+End: 00:01:58.760
+Duration: 2.400 seconds
+Text: and the governor of Kansas to be celebrated
+--------------------------------------------------
+City Attorney General:
+Start: 00:01:58.760
+End: 00:02:01.120
+Duration: 2.360 seconds
+Text: on the fourth Saturday of July.
+--------------------------------------------------
+City Attorney General:
+Start: 00:02:01.120
+End: 00:02:03.920
+Duration: 2.800 seconds
+Text: Now, therefore, I'm Mark Hadasal, the mayor of the city of Manhattan,
+--------------------------------------------------
+City Attorney General:
+Start: 00:02:03.920
+End: 00:02:07.600
+Duration: 3.680 seconds
+Text: who hereby proclaim July 22nd, 2023
+--------------------------------------------------
+City Attorney General:
+Start: 00:02:07.600
+End: 00:02:10.320
+Duration: 2.720 seconds
+Text: as the National Day of the Cowboy in Manhattan.
+--------------------------------------------------
+City Attorney General:
+Start: 00:02:10.320
+End: 00:02:13.000
+Duration: 2.680 seconds
+Text: And encourage all citizens to observe the day
+--------------------------------------------------
+City Attorney General:
+Start: 00:02:13.000
+End: 00:02:17.080
+Duration: 4.080 seconds
+Text: with appropriate ceremonies, activities, and yeehaws.
+--------------------------------------------------
+City Attorney General:
+Start: 00:02:17.080
+End: 00:02:19.160
+Duration: 2.080 seconds
+Text: So here we go.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:02:19.160
+End: 00:02:20.160
+Duration: 1.000 seconds
+Text: Thank you very much.
+--------------------------------------------------
+City Attorney General:
+Start: 00:02:20.160
+End: 00:02:21.560
+Duration: 1.400 seconds
+Text: A few words, sir.
+--------------------------------------------------
+City Attorney General:
+Start: 00:02:21.560
+End: 00:02:22.560
+Duration: 1.000 seconds
+Text: Come on over.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:02:22.560
+End: 00:02:24.200
+Duration: 1.640 seconds
+Text: I'll bring you to you.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:02:24.200
+End: 00:02:25.040
+Duration: 0.840 seconds
+Text: Well, thank you.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:02:25.040
+End: 00:02:27.200
+Duration: 2.160 seconds
+Text: I think appropriate activity to do around here
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:02:27.200
+End: 00:02:29.280
+Duration: 2.080 seconds
+Text: at National Day of the Cowboy would be to join us
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:02:29.280
+End: 00:02:32.400
+Duration: 3.120 seconds
+Text: Saturday at the Flint Hills Discovery Center.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:02:32.400
+End: 00:02:36.440
+Duration: 4.040 seconds
+Text: Where our celebration is from 10 a.m. to 3 p.m.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:02:36.440
+End: 00:02:38.920
+Duration: 2.480 seconds
+Text: and we'll have all sorts of activities.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:02:38.920
+End: 00:02:41.760
+Duration: 2.840 seconds
+Text: We will have a branding demonstration,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:02:41.760
+End: 00:02:44.920
+Duration: 3.160 seconds
+Text: the K-State rodeo club who's a great partner.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:02:44.920
+End: 00:02:47.240
+Duration: 2.320 seconds
+Text: Their volunteers will be there doing roping,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:02:47.240
+End: 00:02:48.640
+Duration: 1.400 seconds
+Text: showing how to do roping, and they'll
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:02:48.640
+End: 00:02:50.880
+Duration: 2.240 seconds
+Text: have their mechanical bull there you can ride,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:02:50.880
+End: 00:02:53.280
+Duration: 2.400 seconds
+Text: and we'll have tons of other kids' activities.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:02:53.280
+End: 00:02:54.880
+Duration: 1.600 seconds
+Text: And we're also going to have a dunk tank
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:02:54.880
+End: 00:02:57.160
+Duration: 2.280 seconds
+Text: and several city employees have volunteered to be in it.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:02:57.160
+End: 00:02:59.720
+Duration: 2.560 seconds
+Text: And if you're interested, please let us know.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:02:59.720
+End: 00:03:01.480
+Duration: 1.760 seconds
+Text: But it's just going to be a fun day for all.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:01.480
+End: 00:03:05.040
+Duration: 3.560 seconds
+Text: And so please join us at National Day of the Cowboy.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:05.040
+End: 00:03:09.040
+Duration: 4.000 seconds
+Text: I guess she like it.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:09.040
+End: 00:03:10.040
+Duration: 1.000 seconds
+Text: I guess she like it.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:10.040
+End: 00:03:11.040
+Duration: 1.000 seconds
+Text: Oh, OK.
+--------------------------------------------------
+City Attorney General:
+Start: 00:03:11.040
+End: 00:03:12.040
+Duration: 1.000 seconds
+Text: Get that out of here.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:16.040
+End: 00:03:17.040
+Duration: 1.000 seconds
+Text: There we go.
+--------------------------------------------------
+City Attorney General:
+Start: 00:03:17.040
+End: 00:03:18.040
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:18.040
+End: 00:03:19.040
+Duration: 1.000 seconds
+Text: You bet.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:19.040
+End: 00:03:29.040
+Duration: 10.000 seconds
+Text: All right.
+--------------------------------------------------
+City Attorney General:
+Start: 00:03:29.040
+End: 00:03:33.040
+Duration: 4.000 seconds
+Text: Commissioner, are there any comments you'd like to weigh in on?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:39.040
+End: 00:03:42.040
+Duration: 3.000 seconds
+Text: I just want to make one comment on property taxes
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:42.040
+End: 00:03:47.040
+Duration: 5.000 seconds
+Text: because we've had all kinds of different things printed
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:47.040
+End: 00:03:49.040
+Duration: 2.000 seconds
+Text: in the paper and areas like that.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:49.040
+End: 00:03:54.040
+Duration: 5.000 seconds
+Text: And of course, we started with a rate that we published,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:54.040
+End: 00:03:57.040
+Duration: 3.000 seconds
+Text: which is around 50 mills.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:57.040
+End: 00:03:59.040
+Duration: 2.000 seconds
+Text: And of course, that's our starting point.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:59.040
+End: 00:04:00.040
+Duration: 1.000 seconds
+Text: It can't go any higher.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:00.040
+End: 00:04:03.040
+Duration: 3.000 seconds
+Text: And as I was looking through all the various appraisals,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:03.040
+End: 00:04:05.040
+Duration: 2.000 seconds
+Text: I've got two pieces of property.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:05.040
+End: 00:04:08.040
+Duration: 3.000 seconds
+Text: One, the value didn't go up on it.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:08.040
+End: 00:04:13.040
+Duration: 5.000 seconds
+Text: So that would mean I translate into a drop in property taxes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:13.040
+End: 00:04:16.040
+Duration: 3.000 seconds
+Text: The other one, the appraiser increased the value up
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:16.040
+End: 00:04:19.040
+Duration: 3.000 seconds
+Text: by $48,000.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:19.040
+End: 00:04:21.040
+Duration: 2.000 seconds
+Text: So that's a 70% increase.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:21.040
+End: 00:04:25.040
+Duration: 4.000 seconds
+Text: So the mill that we passed or projecting to start with
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:25.040
+End: 00:04:28.040
+Duration: 3.000 seconds
+Text: would, on that piece of property,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:28.040
+End: 00:04:32.040
+Duration: 4.000 seconds
+Text: give me about 11% tax increase, which was not our intention.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:32.040
+End: 00:04:34.040
+Duration: 2.000 seconds
+Text: We were hoping to try to keep it to six,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:34.040
+End: 00:04:37.040
+Duration: 3.000 seconds
+Text: but that's going to be a bit difficult.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:37.040
+End: 00:04:40.040
+Duration: 3.000 seconds
+Text: And I think each individual property owner is going to have to look
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:40.040
+End: 00:04:43.040
+Duration: 3.000 seconds
+Text: at their own individual situation
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:43.040
+End: 00:04:47.040
+Duration: 4.000 seconds
+Text: because it's going to depend on if it's a commercial property,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:47.040
+End: 00:04:49.040
+Duration: 2.000 seconds
+Text: how much the appraiser raised it,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:49.040
+End: 00:04:51.040
+Duration: 2.000 seconds
+Text: or if it stayed flat,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:51.040
+End: 00:04:53.040
+Duration: 2.000 seconds
+Text: and it's going to be different for every single person.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:53.040
+End: 00:04:56.040
+Duration: 3.000 seconds
+Text: So when we try to publish, this is the average.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:56.040
+End: 00:04:59.040
+Duration: 3.000 seconds
+Text: It's really sort of meaningless when you trace it back
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:59.040
+End: 00:05:02.040
+Duration: 3.000 seconds
+Text: to an individual taxpayer.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:02.040
+End: 00:05:04.040
+Duration: 2.000 seconds
+Text: Now we do that.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:04.040
+End: 00:05:06.040
+Duration: 2.000 seconds
+Text: Just just to add to that,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:06.040
+End: 00:05:08.040
+Duration: 2.000 seconds
+Text: because of course, we did have some back and forth
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:08.040
+End: 00:05:11.040
+Duration: 3.000 seconds
+Text: and the Mercury published like a 9% tax number,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:12.040
+End: 00:05:14.040
+Duration: 2.000 seconds
+Text: which then led people to ask me the question,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:14.040
+End: 00:05:17.040
+Duration: 3.000 seconds
+Text: why do you need 9% more in revenue for the city?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:17.040
+End: 00:05:20.040
+Duration: 3.000 seconds
+Text: Can't you get along with less than that
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:20.040
+End: 00:05:22.040
+Duration: 2.000 seconds
+Text: when we're getting, say, 4% or whatever?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:22.040
+End: 00:05:25.040
+Duration: 3.000 seconds
+Text: What we passed, it will generate 6%
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:25.040
+End: 00:05:28.040
+Duration: 3.000 seconds
+Text: or at least according to the projections of the mill levy,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:28.040
+End: 00:05:31.040
+Duration: 3.000 seconds
+Text: is going to generate 6% more in property tax
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:31.040
+End: 00:05:34.040
+Duration: 3.000 seconds
+Text: than was collected the year before.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:34.040
+End: 00:05:36.040
+Duration: 2.000 seconds
+Text: And hence why we said,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:36.040
+End: 00:05:37.040
+Duration: 1.000 seconds
+Text: and on our direction to staff,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:37.040
+End: 00:05:40.040
+Duration: 3.000 seconds
+Text: was we wanted a mill levy that was capped at 6%
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:41.040
+End: 00:05:43.040
+Duration: 2.000 seconds
+Text: and we would not go over that.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:43.040
+End: 00:05:45.040
+Duration: 2.000 seconds
+Text: So that's the extra money,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:45.040
+End: 00:05:47.040
+Duration: 2.000 seconds
+Text: so to speak, year over year will have,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:47.040
+End: 00:05:49.040
+Duration: 2.000 seconds
+Text: is 6%.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:49.040
+End: 00:05:51.040
+Duration: 2.000 seconds
+Text: And again, we can't go over that number.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:51.040
+End: 00:05:53.040
+Duration: 2.000 seconds
+Text: We can still go under that number.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:53.040
+End: 00:05:54.040
+Duration: 1.000 seconds
+Text: So hopefully, if anything,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:54.040
+End: 00:05:56.040
+Duration: 2.000 seconds
+Text: it's listening, there's some confusion
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:56.040
+End: 00:05:58.040
+Duration: 2.000 seconds
+Text: that'll take care of it.
+--------------------------------------------------
+City Attorney General:
+Start: 00:05:58.040
+End: 00:06:01.040
+Duration: 3.000 seconds
+Text: Linda, you got something now?
+--------------------------------------------------
+City Clerk:
+Start: 00:06:01.040
+End: 00:06:05.040
+Duration: 4.000 seconds
+Text: I just want to point out too that if people are unhappy
+--------------------------------------------------
+City Clerk:
+Start: 00:06:05.040
+End: 00:06:07.040
+Duration: 2.000 seconds
+Text: with the property tax system,
+--------------------------------------------------
+City Clerk:
+Start: 00:06:07.040
+End: 00:06:09.040
+Duration: 2.000 seconds
+Text: they need to talk to their legislators
+--------------------------------------------------
+City Clerk:
+Start: 00:06:09.040
+End: 00:06:13.040
+Duration: 4.000 seconds
+Text: because the property assessment system in this state
+--------------------------------------------------
+City Clerk:
+Start: 00:06:13.040
+End: 00:06:15.040
+Duration: 2.000 seconds
+Text: is determined by the legislature.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:15.040
+End: 00:06:18.040
+Duration: 3.000 seconds
+Text: And it hasn't changed over a lot of years.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:18.040
+End: 00:06:20.040
+Duration: 2.000 seconds
+Text: And they're the ones that make the rules
+--------------------------------------------------
+City Clerk:
+Start: 00:06:20.040
+End: 00:06:23.040
+Duration: 3.000 seconds
+Text: that the county assessor has to go by.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:23.040
+End: 00:06:29.040
+Duration: 6.000 seconds
+Text: So you may look at us as being the bad people.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:29.040
+End: 00:06:33.040
+Duration: 4.000 seconds
+Text: But I just want you to know there's a whole process.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:33.040
+End: 00:06:38.040
+Duration: 5.000 seconds
+Text: And I don't think there's anyone's evil.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:38.040
+End: 00:06:42.040
+Duration: 4.000 seconds
+Text: It's just that we're all doing the best we can.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:42.040
+End: 00:06:45.040
+Duration: 3.000 seconds
+Text: We want our employees to stay.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:45.040
+End: 00:06:47.040
+Duration: 2.000 seconds
+Text: We want to retain them.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:47.040
+End: 00:06:50.040
+Duration: 3.000 seconds
+Text: There's a certain amount of minimum growth
+--------------------------------------------------
+City Clerk:
+Start: 00:06:50.040
+End: 00:06:54.040
+Duration: 4.000 seconds
+Text: that we have to accommodate in order to keep employees
+--------------------------------------------------
+City Clerk:
+Start: 00:06:54.040
+End: 00:07:01.040
+Duration: 7.000 seconds
+Text: in order to maintain our equipment and buildings.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:01.040
+End: 00:07:03.040
+Duration: 2.000 seconds
+Text: And so there's just a reality there.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:03.040
+End: 00:07:05.040
+Duration: 2.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Attorney General:
+Start: 00:07:05.040
+End: 00:07:09.040
+Duration: 4.000 seconds
+Text: I think part of what helps get you to the 6% average property
+--------------------------------------------------
+City Attorney General:
+Start: 00:07:09.040
+End: 00:07:13.040
+Duration: 4.000 seconds
+Text: tax thing is the fact that while houses are going to go up 9 or 12 or whatever
+--------------------------------------------------
+City Attorney General:
+Start: 00:07:13.040
+End: 00:07:17.040
+Duration: 4.000 seconds
+Text: that might, yours might be apparently this year's the year
+--------------------------------------------------
+City Attorney General:
+Start: 00:07:17.040
+End: 00:07:20.040
+Duration: 3.000 seconds
+Text: that commercial properties will go up only 3 or 4 or 2 or 5%.
+--------------------------------------------------
+City Attorney General:
+Start: 00:07:20.040
+End: 00:07:25.040
+Duration: 5.000 seconds
+Text: And so that's what rings down to 6% while residential is high.
+--------------------------------------------------
+City Attorney General:
+Start: 00:07:25.040
+End: 00:07:27.040
+Duration: 2.000 seconds
+Text: Next year maybe commercial will be high.
+--------------------------------------------------
+City Attorney General:
+Start: 00:07:27.040
+End: 00:07:30.040
+Duration: 3.000 seconds
+Text: But I think the first step we've talked,
+--------------------------------------------------
+City Attorney General:
+Start: 00:07:30.040
+End: 00:07:33.040
+Duration: 3.000 seconds
+Text: some other people have talked about the idea of getting them to just
+--------------------------------------------------
+City Attorney General:
+Start: 00:07:33.040
+End: 00:07:39.040
+Duration: 6.000 seconds
+Text: revalue every 5 years instead of every year or two or something where there's a constant increase
+--------------------------------------------------
+City Attorney General:
+Start: 00:07:39.040
+End: 00:07:45.040
+Duration: 6.000 seconds
+Text: if they could just hold it ladies at least you'd be close to the same level for 4 or 5 years before it would take a jump.
+--------------------------------------------------
+City Attorney General:
+Start: 00:07:45.040
+End: 00:07:50.040
+Duration: 5.000 seconds
+Text: And if I take bigger jumps, but that might be an idea.
+--------------------------------------------------
+City Attorney General:
+Start: 00:07:50.040
+End: 00:07:54.040
+Duration: 4.000 seconds
+Text: It was I was asked to bring to the commission's attention with the passing of
+--------------------------------------------------
+City Attorney General:
+Start: 00:07:54.040
+End: 00:07:58.040
+Duration: 4.000 seconds
+Text: Ira Haines long time Aggieville businessmen and and
+--------------------------------------------------
+City Attorney General:
+Start: 00:07:58.040
+End: 00:08:04.040
+Duration: 6.000 seconds
+Text: Stallworth down there potentially naming triangle park pay attention now maybe
+--------------------------------------------------
+City Attorney General:
+Start: 00:08:04.040
+End: 00:08:06.040
+Duration: 2.000 seconds
+Text: triangle park after him.
+--------------------------------------------------
+City Attorney General:
+Start: 00:08:06.040
+End: 00:08:13.040
+Duration: 7.000 seconds
+Text: I don't know what the process of naming any park is but as we get to the point where we're
+--------------------------------------------------
+City Attorney General:
+Start: 00:08:13.040
+End: 00:08:19.040
+Duration: 6.000 seconds
+Text: redoing a triangle park if we start getting to a point where maybe we could name it
+--------------------------------------------------
+City Attorney General:
+Start: 00:08:19.040
+End: 00:08:23.040
+Duration: 4.000 seconds
+Text: after somebody we should put his name on the list to be considered because
+--------------------------------------------------
+City Attorney General:
+Start: 00:08:23.040
+End: 00:08:29.040
+Duration: 6.000 seconds
+Text: Aggieville people were would like to try to honor him somehow like that if possible but
+--------------------------------------------------
+City Attorney General:
+Start: 00:08:29.040
+End: 00:08:34.040
+Duration: 5.000 seconds
+Text: there's a lot of people like Bill Frost should be honored with some kind of a park or something in his name too.
+--------------------------------------------------
+City Attorney General:
+Start: 00:08:34.040
+End: 00:08:41.040
+Duration: 7.000 seconds
+Text: So we'll put him on I don't know how that process works but I'd like to throw his name into consideration for a triangle park naming at some point.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:08:41.040
+End: 00:08:47.040
+Duration: 6.000 seconds
+Text: So we can certainly take that under advisement and just it's a little bit more complicated with
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:08:47.040
+End: 00:08:50.040
+Duration: 3.000 seconds
+Text: triangle park because it's actually university property.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:08:50.040
+End: 00:08:53.040
+Duration: 3.000 seconds
+Text: It's not really a park even though we call it a park.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:08:53.040
+End: 00:08:56.040
+Duration: 3.000 seconds
+Text: So we'd have to go through their processes too.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:08:56.040
+End: 00:09:01.040
+Duration: 5.000 seconds
+Text: But you know certainly there may be something else that could be done some other memorial or
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:01.040
+End: 00:09:08.040
+Duration: 7.000 seconds
+Text: or plaza or something else that could be developed and especially once we go through some of the design processes.
+--------------------------------------------------
+City Attorney General:
+Start: 00:09:08.040
+End: 00:09:11.040
+Duration: 3.000 seconds
+Text: The Memorial Barber Chair or something out in the park or something like that.
+--------------------------------------------------
+City Attorney General:
+Start: 00:09:11.040
+End: 00:09:16.040
+Duration: 5.000 seconds
+Text: So all right that is it for Commissioner comments then we will move on to the
+--------------------------------------------------
+City Attorney General:
+Start: 00:09:16.040
+End: 00:09:24.040
+Duration: 8.000 seconds
+Text: consent agenda which are items of a routine or housekeeping nature or items which have been previously reviewed by the City Commission.
+--------------------------------------------------
+City Attorney General:
+Start: 00:09:24.040
+End: 00:09:29.040
+Duration: 5.000 seconds
+Text: The commissioner may request the item be moved for separate discussion and consideration.
+--------------------------------------------------
+City Attorney General:
+Start: 00:09:29.040
+End: 00:09:34.040
+Duration: 5.000 seconds
+Text: Commissioners do you have any questions about any items on the consent agenda?
+--------------------------------------------------
+City Clerk:
+Start: 00:09:34.040
+End: 00:09:44.040
+Duration: 10.000 seconds
+Text: No particular one but I as a county commission at one of their recent recent meetings had a list of all of the
+--------------------------------------------------
+City Clerk:
+Start: 00:09:44.040
+End: 00:09:49.040
+Duration: 5.000 seconds
+Text: properties for which the owner has gone to the board of tax appeals.
+--------------------------------------------------
+City Clerk:
+Start: 00:09:49.040
+End: 00:10:02.040
+Duration: 13.000 seconds
+Text: And sometimes when I look at a project here and those businesses are on the list and they're appealing three years worth of property taxes.
+--------------------------------------------------
+City Clerk:
+Start: 00:10:02.040
+End: 00:10:08.040
+Duration: 6.000 seconds
+Text: It gives me heartburn to just be quiet and not say anything.
+--------------------------------------------------
+City Clerk:
+Start: 00:10:08.040
+End: 00:10:15.040
+Duration: 7.000 seconds
+Text: But I really want the commission I would like to ask and there's just one on here this time.
+--------------------------------------------------
+City Clerk:
+Start: 00:10:15.040
+End: 00:10:34.040
+Duration: 19.000 seconds
+Text: But I would like for the county appraiser to maybe have a meeting with the City Commission to brief us on this spreadsheet is it's the big the biggest and the big boxes and the large and they're all so every time the
+--------------------------------------------------
+City Clerk:
+Start: 00:10:34.040
+End: 00:10:49.040
+Duration: 15.000 seconds
+Text: aboda for gives $200,000 for a big box store here in this town the residential property taxes and the commercial other commercial property taxes.
+--------------------------------------------------
+City Clerk:
+Start: 00:10:49.040
+End: 00:11:02.040
+Duration: 13.000 seconds
+Text: Folks are higher and we have to pay more and so I am I want us to know who they are and right now it's you know under it nobody pays the
+--------------------------------------------------
+City Clerk:
+Start: 00:11:02.040
+End: 00:11:21.040
+Duration: 19.000 seconds
+Text: attention to it but it's a big deal and I hope that over time we're able to we've tried to have some influence on the process so that to change what that those darks that dark darks store
+--------------------------------------------------
+City Clerk:
+Start: 00:11:21.040
+End: 00:11:34.040
+Duration: 13.000 seconds
+Text: and the theory that goes through the word of tax peels but it's I'd like a work session with the appraiser to just and I don't care who to explore whether we have any
+--------------------------------------------------
+City Clerk:
+Start: 00:11:34.040
+End: 00:11:48.040
+Duration: 14.000 seconds
+Text: or not. So when we give away a parking lot for example for a dollar and the person builds on it and a two years three years later they're on this list appealing their property taxes.
+--------------------------------------------------
+City Clerk:
+Start: 00:11:48.040
+End: 00:12:02.040
+Duration: 14.000 seconds
+Text: So while there's an expectation that we will collect property taxes over the next 10 years to pay for that parking lot there's no parking lot paid because they're appealing their property taxes.
+--------------------------------------------------
+City Clerk:
+Start: 00:12:02.040
+End: 00:12:29.040
+Duration: 27.000 seconds
+Text: So there's a balance that we need and something's out of whack and I'm going to I'm going to go to one of the boat hearings I just want to know more about it I want to I want to change it somehow what in my own little way whatever that maybe I'm sure bigger than me have bigger than I have tried but we need to bring some attention to it and light on it because it's pretty that's why they call it a dark store.
+--------------------------------------------------
+City Attorney General:
+Start: 00:12:29.040
+End: 00:12:42.040
+Duration: 13.000 seconds
+Text: Yeah, that's it that should be all public information. Yeah, absolutely. It is but it's just not very visible with that. No, no, we got a thought out the public comment in case any of these people. John did you have something else you want to.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:12:42.040
+End: 00:12:47.040
+Duration: 5.000 seconds
+Text: I just want to just we so many parking lots for dollar room.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:12:47.040
+End: 00:13:09.040
+Duration: 22.000 seconds
+Text: Not specifically I mean that was the transaction but it had a development agreement that had a minimum investment of 40 million or they had to pay 2.7 million of the value so yeah I appreciate the commissioner's comments and maybe it's a city county agenda item we can certainly make that request for the appraisers.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:13:09.040
+End: 00:13:38.040
+Duration: 29.000 seconds
+Text: She obviously made a presentation at a recent intergovernmental meeting so that's something I'm not sure all of these are I'm not sure what I'm not sure whether or not they're just normal folks taking advantage of their constitutional right to appraise to protest their taxes or if it is some of the dark stores I mean it's a corporate decision and they're taking advantage of every little little poll they can and it's happening across the country.
+--------------------------------------------------
+City Clerk:
+Start: 00:13:38.040
+End: 00:13:48.040
+Duration: 10.000 seconds
+Text: Walgreens Wal-Mart they're doing it in every city in Kansas and other states it started in Michigan and Wisconsin and it's just spread.
+--------------------------------------------------
+City Clerk:
+Start: 00:13:48.040
+End: 00:14:00.040
+Duration: 12.000 seconds
+Text: I'm happy to make the request. Yeah, I just think for a future city county. I mean the intergovernmental meeting was was got a started thinking about it but we need to drill down a little bit more.
+--------------------------------------------------
+City Attorney General:
+Start: 00:14:00.040
+End: 00:14:18.040
+Duration: 18.000 seconds
+Text: Yeah, finding loopholes that's the American way. All right any I'm going to throw open for a public comment. There's any item on the consent agenda that you would like to comment on please come forward state your name write your name down you got five minutes.
+--------------------------------------------------
+City Attorney General:
+Start: 00:14:18.040
+End: 00:14:28.040
+Duration: 10.000 seconds
+Text: Yeah, public comment. No, okay, all right I will close public comment is there a motion to approve the consent agenda commissioners.
+--------------------------------------------------
+City Attorney General:
+Start: 00:14:28.040
+End: 00:14:36.040
+Duration: 8.000 seconds
+Text: I move we approve the consent agenda. Second, second, then moved and seconded to approve the consent agenda clerk please call the roll.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:14:36.040
+End: 00:14:47.040
+Duration: 11.000 seconds
+Text: Commissioner Butler. Yes, Commissioner Mata. Yes, Commissioner Morris. Yes, Mayor Hassel. Yes, motion carries four to zero. All right we will move into the general agenda.
+--------------------------------------------------
+City Attorney General:
+Start: 00:14:47.040
+End: 00:14:57.040
+Duration: 10.000 seconds
+Text: We will move into the general agenda which has one item which is considering authorizing a construction contract for some rules at my campus. Go ahead Brian.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:14:57.040
+End: 00:15:07.040
+Duration: 10.000 seconds
+Text: Commissioner Brian Johnson city engineer. I actually got two items for you tonight. The first one is just kind of a mid summer construction updates. I get everybody updated on.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:15:07.040
+End: 00:15:14.040
+Duration: 7.000 seconds
+Text: I'm going to start with that with our multiple construction projects. I'm sure as you know we have a lot of orange cones around the city right now.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:15:14.040
+End: 00:15:28.040
+Duration: 14.000 seconds
+Text: Things you're progressing pretty well and I got a list here in just a minute to go through. And then the second one is is an action item for moving some phasing for Kimmel Dennis intersection from 2024 to 2023.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:15:28.040
+End: 00:15:38.040
+Duration: 10.000 seconds
+Text: I'm not going to say that because Kodot has recently given us some information that they are going to close. That will create Boulevard between K 13 and K 113.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:15:38.040
+End: 00:15:56.040
+Duration: 18.000 seconds
+Text: Complete closure in 2025 and in part of 2026. So while Kodot has TCB closed we obviously don't want to close Kimmel or Marlotte because we're going to need somewhere for those 22 to 26,000 vehicle a day to access between Seth Child and TCB.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:15:56.040
+End: 00:16:08.040
+Duration: 12.000 seconds
+Text: Just a real quick overall summer impacts and kind of where we're at on schedule. Kimbell Grandmare Parkway obviously closed it'll open sometime that first week of August.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:16:08.040
+End: 00:16:17.040
+Duration: 9.000 seconds
+Text: We will be putting down temporary asphalt late this week or the first part of next week. Then we'll be striping it doing some roadside safety improvements before we open it.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:16:17.040
+End: 00:16:32.040
+Duration: 15.000 seconds
+Text: We do anticipate it to be open that first week of August with that temporary roadway. Remember that project actually runs through the end of the year but there will be that temporary roadway for one lane and east direction on Kimbell and then access into Grandmare Parkway.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:16:32.040
+End: 00:16:40.040
+Duration: 8.000 seconds
+Text: Browning Avenue in front of Anthony School did close May 30th. We do anticipate that being open August 1st.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:16:40.040
+End: 00:16:51.040
+Duration: 11.000 seconds
+Text: The contractor has recently completed from the gymnasium all the way north back to Beconwood. So that's done now and they're backfilling getting ready to go to that second phase.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:16:51.040
+End: 00:17:02.040
+Duration: 11.000 seconds
+Text: College Heights sunset and Dinesden including the intersection. The intersection is about half to that's about three quarters of the way done. We anticipated being done this week.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:17:02.040
+End: 00:17:12.040
+Duration: 10.000 seconds
+Text: Probably be next week now we had some supply issues. Apparently we have no red dye for concrete in the city and we're trying to get some imported in from our suppliers.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:17:12.040
+End: 00:17:21.040
+Duration: 9.000 seconds
+Text: So once we get that done there's just a small piece left to do. US 24 and levy that's all done as far as lane building and operational.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:17:21.040
+End: 00:17:32.040
+Duration: 11.000 seconds
+Text: We do have the signals on site. We do have one component that is back ordered and this is probably the one that I'm the most concerned about is getting that signal operational by August 1st.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:17:32.040
+End: 00:17:39.040
+Duration: 7.000 seconds
+Text: You know with back orders and electronics. We're seeing the same supply issues everybody else in Kansas is.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:17:39.040
+End: 00:17:44.040
+Duration: 5.000 seconds
+Text: We were told that it's going to be here next week but then again we were told it's going to be here last week.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:17:44.040
+End: 00:17:57.040
+Duration: 13.000 seconds
+Text: So we're a little bit apprehensive until we have it in hand but supposedly it's going to be here next week and then they have maybe just a few days to hang the signals and get signal operational everything else is operational that intersection.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:17:57.040
+End: 00:18:05.040
+Duration: 8.000 seconds
+Text: K dot mill and overlay on 24 is done they got some striping some shoulder work to do but that should be done within a few weeks.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:18:05.040
+End: 00:18:13.040
+Duration: 8.000 seconds
+Text: Freemont 14th to 11th that'll be closed throughout the fall probably close to Christmas time before that opens.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:18:13.040
+End: 00:18:27.040
+Duration: 14.000 seconds
+Text: We do have some supply issues with that one too we're having some issues getting reinforcing for the pavement so we're waiting for some suppliers on those also points six and Juliet that's that is open it's.
+--------------------------------------------------
+City Attorney General:
+Start: 00:18:27.040
+End: 00:18:34.040
+Duration: 7.000 seconds
+Text: On the free month are they going to be able to get like 11th to 12th open before they terror before they tear up.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:18:34.040
+End: 00:18:35.040
+Duration: 1.000 seconds
+Text: Yes that's correct.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:18:35.040
+End: 00:18:36.040
+Duration: 1.000 seconds
+Text: Okay. Yep.
+--------------------------------------------------
+City Attorney General:
+Start: 00:18:36.040
+End: 00:18:39.040
+Duration: 3.000 seconds
+Text: Well the project will be ongoing parts of it will be open.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:18:39.040
+End: 00:18:43.040
+Duration: 4.000 seconds
+Text: Correct there either Northman Hatton or 12th Street has to be open at one time.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:18:43.040
+End: 00:18:48.040
+Duration: 5.000 seconds
+Text: Okay. So when they close Northman Hatton in 12th Street will come open so you'll be able to use 11th and 12th.
+--------------------------------------------------
+City Attorney General:
+Start: 00:18:48.040
+End: 00:18:49.040
+Duration: 1.000 seconds
+Text: Okay thank you sorry.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:18:49.040
+End: 00:18:58.040
+Duration: 9.000 seconds
+Text: Point six and Juliet that project is done again we're waiting on signals and some components they're supposed to be here next week.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:18:58.040
+End: 00:19:03.040
+Duration: 5.000 seconds
+Text: Again until we have them on hand we're a little bit nervous about all the electronic components.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:19:03.040
+End: 00:19:10.040
+Duration: 7.000 seconds
+Text: Being here they're on the bill of lading but we've had things on bills of lading that haven't shown up so until we have them on hand.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:19:10.040
+End: 00:19:15.040
+Duration: 5.000 seconds
+Text: You know obviously we're a little bit concerned but that one is done and we do have the polls and master arms on hand.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:15.040
+End: 00:19:19.040
+Duration: 4.000 seconds
+Text: I'm really used to not having a light there and I like it.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:19:19.040
+End: 00:19:20.040
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:19:20.040
+End: 00:19:24.040
+Duration: 4.000 seconds
+Text: You're not the only one that has mentioned that.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:19:24.040
+End: 00:19:28.040
+Duration: 4.000 seconds
+Text: Our guess is when the school starts because of the bus traffic.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:19:28.040
+End: 00:19:31.040
+Duration: 3.000 seconds
+Text: Yeah there will probably be a lot of different opinions once the school's.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:31.040
+End: 00:19:32.040
+Duration: 1.000 seconds
+Text: Some are in different times.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:19:32.040
+End: 00:19:34.040
+Duration: 2.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:19:34.040
+End: 00:19:39.040
+Duration: 5.000 seconds
+Text: Fort Radebolevard between 10th and Juliet that's completed and all lanes are back open again.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:19:39.040
+End: 00:19:43.040
+Duration: 4.000 seconds
+Text: That's kind of the updates for the projects that we have ongoing.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:19:43.040
+End: 00:19:45.040
+Duration: 2.000 seconds
+Text: All of them are on schedule.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:19:45.040
+End: 00:19:46.040
+Duration: 1.000 seconds
+Text: They're coming along nicely.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:19:46.040
+End: 00:19:48.040
+Duration: 2.000 seconds
+Text: We do have supply issues.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:19:48.040
+End: 00:19:51.040
+Duration: 3.000 seconds
+Text: We have labor issues just like every other city in the state.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:19:51.040
+End: 00:19:55.040
+Duration: 4.000 seconds
+Text: But overall our contractor meeting deadlines.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:19:55.040
+End: 00:19:58.040
+Duration: 3.000 seconds
+Text: Any questions about anything that's under construction now?
+--------------------------------------------------
+City Clerk:
+Start: 00:19:58.040
+End: 00:20:01.040
+Duration: 3.000 seconds
+Text: Just that it's helpful to have an update.
+--------------------------------------------------
+City Clerk:
+Start: 00:20:01.040
+End: 00:20:05.040
+Duration: 4.000 seconds
+Text: A free month looks like it's been stopped dead for weeks so.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:20:05.040
+End: 00:20:08.040
+Duration: 3.000 seconds
+Text: Yeah they got the curb and gutter done the other day.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:20:08.040
+End: 00:20:14.040
+Duration: 6.000 seconds
+Text: They were getting ready to do the main line pouring and then their reinforcing steel didn't show up and so we're chasing that.
+--------------------------------------------------
+City Clerk:
+Start: 00:20:14.040
+End: 00:20:16.040
+Duration: 2.000 seconds
+Text: It was just good to have an explanation.
+--------------------------------------------------
+City Clerk:
+Start: 00:20:16.040
+End: 00:20:17.040
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:20:17.040
+End: 00:20:20.040
+Duration: 3.000 seconds
+Text: I wanted to take this opportunity to try to get that information out.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:20:20.040
+End: 00:20:26.040
+Duration: 6.000 seconds
+Text: And I do want to give a shout out to our PIOs to they help us a lot with getting information on the web.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:20:26.040
+End: 00:20:28.040
+Duration: 2.000 seconds
+Text: Engineering divisions.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:20:28.040
+End: 00:20:33.040
+Duration: 5.000 seconds
+Text: Eight people short so we have a really tough time keeping up on the website.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:20:33.040
+End: 00:20:37.040
+Duration: 4.000 seconds
+Text: And I know that a lot of people use that and I apologize for it not being up to date.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:20:37.040
+End: 00:20:40.040
+Duration: 3.000 seconds
+Text: The PIOs have stepped up and really helped us with that.
+--------------------------------------------------
+City Attorney General:
+Start: 00:20:40.040
+End: 00:20:43.040
+Duration: 3.000 seconds
+Text: You didn't mention a Hays Drive casement.
+--------------------------------------------------
+City Attorney General:
+Start: 00:20:43.040
+End: 00:20:44.040
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+City Attorney General:
+Start: 00:20:44.040
+End: 00:20:46.040
+Duration: 2.000 seconds
+Text: That's going to take till the end of the year before Hays is open.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:20:46.040
+End: 00:20:49.040
+Duration: 3.000 seconds
+Text: In the October is what they're telling us still.
+--------------------------------------------------
+City Attorney General:
+Start: 00:20:49.040
+End: 00:20:55.040
+Duration: 6.000 seconds
+Text: But that there's no shortage of technology parts and stuff we need for that thing in particular.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:20:55.040
+End: 00:20:56.040
+Duration: 1.000 seconds
+Text: Oh yeah.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:20:56.040
+End: 00:20:58.040
+Duration: 2.000 seconds
+Text: Yeah and all of that is that's all by American.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:20:58.040
+End: 00:20:59.040
+Duration: 1.000 seconds
+Text: It's all made in America.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:20:59.040
+End: 00:21:02.040
+Duration: 3.000 seconds
+Text: It's all Davis Bacon because it's with the core project.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:21:02.040
+End: 00:21:08.040
+Duration: 6.000 seconds
+Text: So we had to get special waivers for stainless steel parts and bolts and all kinds of stuff.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:21:08.040
+End: 00:21:11.040
+Duration: 3.000 seconds
+Text: But they're still saying that was on schedule for October.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:21:11.040
+End: 00:21:17.040
+Duration: 6.000 seconds
+Text: That intersection if you recall just a few weeks ago we did apply for a safety grant for casement and Hays for signalization safety grant.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:21:17.040
+End: 00:21:20.040
+Duration: 3.000 seconds
+Text: So we should hear back from KDOT here before the end of the year.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:21:20.040
+End: 00:21:25.040
+Duration: 5.000 seconds
+Text: But we certainly met the counts and the volumes to meet for a warrant at casement and Hays.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:21:25.040
+End: 00:21:27.040
+Duration: 2.000 seconds
+Text: So we will see what KDOT says.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:21:27.040
+End: 00:21:28.040
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:21:28.040
+End: 00:21:29.040
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:21:29.040
+End: 00:21:34.040
+Duration: 5.000 seconds
+Text: So with that, let's talk a little bit about North Campus Phase 11.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:21:34.040
+End: 00:21:44.040
+Duration: 10.000 seconds
+Text: And if you recall Phase 11 is the Kimble-Denison intersection which is kind of the last piece of this 13 phase North Campus project that we've been going under.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:21:44.040
+End: 00:21:48.040
+Duration: 4.000 seconds
+Text: We've been working around the intersection so that we have good detour routes.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:21:48.040
+End: 00:21:52.040
+Duration: 4.000 seconds
+Text: And now we've kind of come to the heart of the matter with the intersection.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:21:52.040
+End: 00:22:06.040
+Duration: 14.000 seconds
+Text: As we've talked to the stakeholders in the area including federal state, K state, you've got in-bath, you've got VRI, you've got that med, recreation services, MFD has been a big player in it.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:22:06.040
+End: 00:22:09.040
+Duration: 3.000 seconds
+Text: Our rec services foundation rowing.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:22:09.040
+End: 00:22:13.040
+Duration: 4.000 seconds
+Text: It's a big list of people we've been meeting with over the last several months.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:22:13.040
+End: 00:22:19.040
+Duration: 6.000 seconds
+Text: And this is kind of the checklist of what we've heard from those stakeholders as far as what their access needs to be.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:22:19.040
+End: 00:22:21.040
+Duration: 2.000 seconds
+Text: And it's pretty complex.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:22:21.040
+End: 00:22:23.040
+Duration: 2.000 seconds
+Text: So we have a pretty complex phasing plan.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:22:23.040
+End: 00:22:31.040
+Duration: 8.000 seconds
+Text: We had one kind of nailed down and then KDOT kind of threw us a screw ball so we're kind of reacting as we hear from KDOT what they're going to do.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:22:31.040
+End: 00:22:41.040
+Duration: 10.000 seconds
+Text: I did get a confirmation email from KDOT this morning that the project is funded for the two roundabouts and they are going to do it in 25.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:22:41.040
+End: 00:22:43.040
+Duration: 2.000 seconds
+Text: That's the date that they have set.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:22:43.040
+End: 00:22:57.040
+Duration: 14.000 seconds
+Text: So with our phasing, KDOT will close TCP from K13 to K113 from the Dam Road, Tuddle Creek Dam Road to Seth Child in 2025 through early 2026.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:22:57.040
+End: 00:23:03.040
+Duration: 6.000 seconds
+Text: So that eliminates us doing any work on Kimble in 25 and 26 because I can't have Kimble and TCP closed.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:23:03.040
+End: 00:23:05.040
+Duration: 2.000 seconds
+Text: I can't force all of that traffic on the Marlotte.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:23:05.040
+End: 00:23:09.040
+Duration: 4.000 seconds
+Text: There's Marlotte would functionally just fall apart.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:23:09.040
+End: 00:23:17.040
+Duration: 8.000 seconds
+Text: Again, most traffic will shift to Marlotte and Kimble and we can't have those closed at the same time.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:23:17.040
+End: 00:23:21.040
+Duration: 4.000 seconds
+Text: Denison, South of Kimble cannot be closed for football season.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:23:21.040
+End: 00:23:29.040
+Duration: 8.000 seconds
+Text: That's a big, or that's a big exiting path for Bill Schneider Stadium and for the Olympic Drive area.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:23:29.040
+End: 00:23:35.040
+Duration: 6.000 seconds
+Text: They all come out that way. They go down South, down Denison, past beer, I've met Med Kerr.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:23:35.040
+End: 00:23:39.040
+Duration: 4.000 seconds
+Text: That's a big exit way that they use.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:23:39.040
+End: 00:23:48.040
+Duration: 9.000 seconds
+Text: The foundation building will open July of 2024 so I'm going to have roughly two to 300 more people a day going through that corridor.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:23:48.040
+End: 00:23:52.040
+Duration: 4.000 seconds
+Text: So you're looking at probably another 1,000 vehicle trips a day.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:23:52.040
+End: 00:23:58.040
+Duration: 6.000 seconds
+Text: The intersection in Kimble and Denison needs to be open during school year if at all possible.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:23:58.040
+End: 00:24:02.040
+Duration: 4.000 seconds
+Text: That's one that's really difficult to manage.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:24:02.040
+End: 00:24:06.040
+Duration: 4.000 seconds
+Text: We think we can accommodate that. The phasing plan we have now.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:24:06.040
+End: 00:24:11.040
+Duration: 5.000 seconds
+Text: We think will work for that, but there is a lot of traffic that uses that intersection.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:24:11.040
+End: 00:24:18.040
+Duration: 7.000 seconds
+Text: It is a very critical corridor to get people in and out of case state.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:24:18.040
+End: 00:24:31.040
+Duration: 13.000 seconds
+Text: Access to the fire station garage must be maintained at all times and the ability to get back to Kimble as soon as possible is desired using possibly the paid front of road, which is what we're here tonight for.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:24:31.040
+End: 00:24:37.040
+Duration: 6.000 seconds
+Text: And then we need to keep the public from trying to use that same system and come back through the truck apron.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:24:37.040
+End: 00:24:41.040
+Duration: 4.000 seconds
+Text: So there's some public that needs to access Scott's building.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:24:41.040
+End: 00:24:47.040
+Duration: 6.000 seconds
+Text: Then we also have the fire access we have to have. So we've got a lot of stuff happening in a really small area.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:24:47.040
+End: 00:24:51.040
+Duration: 4.000 seconds
+Text: In Baff, must always have access to the driveway on Denison.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:24:51.040
+End: 00:24:58.040
+Duration: 7.000 seconds
+Text: Their employees cannot go to the North in this entrance and come through the South because their security is not set up for that.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:24:58.040
+End: 00:25:04.040
+Duration: 6.000 seconds
+Text: They can't get back to their parking area. So that was one thing that they were pretty insistent upon.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:25:04.040
+End: 00:25:10.040
+Duration: 6.000 seconds
+Text: And then BRI vet med, they actually have semi daily that come back and go to their back building.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:25:10.040
+End: 00:25:15.040
+Duration: 5.000 seconds
+Text: So that posed another significant challenge with trying to get semi is through their parking lot.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:25:15.040
+End: 00:25:19.040
+Duration: 4.000 seconds
+Text: When we actually met them on site, we met them on site three times now.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:25:19.040
+End: 00:25:24.040
+Duration: 5.000 seconds
+Text: They probably had five to ten deliveries in the one hour that we were there each time.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:25:24.040
+End: 00:25:28.040
+Duration: 4.000 seconds
+Text: So they actually get quite a few semi deliveries.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:25:28.040
+End: 00:25:38.040
+Duration: 10.000 seconds
+Text: So again, the way we are seeing the fall of 2023 impacts, we believe Kimbell will be completely open throughout the entire fall.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:25:38.040
+End: 00:25:42.040
+Duration: 4.000 seconds
+Text: The fronted road behind or between Green Mill and Denison.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:25:42.040
+End: 00:25:47.040
+Duration: 5.000 seconds
+Text: We're here tonight to talk to you about getting authorization to build that this fall.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:25:47.040
+End: 00:25:52.040
+Duration: 5.000 seconds
+Text: And then work on Denison also, north of Kimbell.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:25:52.040
+End: 00:26:04.040
+Duration: 12.000 seconds
+Text: So we'd have those two pieces open and then Kimbell would close January 1 to 2024 through August of 2021 or 2024.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:26:04.040
+End: 00:26:10.040
+Duration: 6.000 seconds
+Text: Again, get that Kimbell Denison piece done prior to the K.O. closure.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:26:10.040
+End: 00:26:17.040
+Duration: 7.000 seconds
+Text: Again, Kimbell Avenue, GMP, Grand Reparquay will be one lane traffic each way for this fall, which is also a big corridor.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:26:17.040
+End: 00:26:19.040
+Duration: 2.000 seconds
+Text: Kimbell carries a lot of traffic.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:26:19.040
+End: 00:26:27.040
+Duration: 8.000 seconds
+Text: Anderson Avenue, so we have a waterline project on Anderson Avenue that's going to go to bid here, probably with the next couple of weeks.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:26:27.040
+End: 00:26:35.040
+Duration: 8.000 seconds
+Text: We anticipate some time around October for Anderson to go head to head between sunset and Connecticut.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:26:35.040
+End: 00:26:44.040
+Duration: 9.000 seconds
+Text: When I say head to head, we're going to go maybe 456 blocks at a time so that you don't have to go all the way to sunset to come all the way back to the foundation building.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:26:44.040
+End: 00:26:49.040
+Duration: 5.000 seconds
+Text: So we're going to do it in pieces and phases, 45 blocks at a time.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:26:49.040
+End: 00:27:01.040
+Duration: 12.000 seconds
+Text: And then also K.O. is going to be reconstructing K-177, so the bridge south to Johnson Drive on K-177.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:27:01.040
+End: 00:27:06.040
+Duration: 5.000 seconds
+Text: That piece will be constructed this fall or reconstructed this fall. They have a bid in August.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:27:06.040
+End: 00:27:09.040
+Duration: 3.000 seconds
+Text: They have an early and late start date.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:27:09.040
+End: 00:27:15.040
+Duration: 6.000 seconds
+Text: We've encouraged them to start as late as possible due to football traffic.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:27:15.040
+End: 00:27:19.040
+Duration: 4.000 seconds
+Text: Their late start date is like December or something, December 15th or something.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:27:19.040
+End: 00:27:23.040
+Duration: 4.000 seconds
+Text: We've asked them to start as late as possible so we can get through football season.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:27:23.040
+End: 00:27:27.040
+Duration: 4.000 seconds
+Text: That last game I believe is on Black Friday, so it's November.
+--------------------------------------------------
+City Clerk:
+Start: 00:27:27.040
+End: 00:27:29.040
+Duration: 2.000 seconds
+Text: Are we talking the big bridge?
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:27:29.040
+End: 00:27:33.040
+Duration: 4.000 seconds
+Text: Not the bridge, but the pavement between the bridge and Johnson Valley Drive.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:27:33.040
+End: 00:27:34.040
+Duration: 1.000 seconds
+Text: I got a map here.
+--------------------------------------------------
+City Clerk:
+Start: 00:27:34.040
+End: 00:27:35.040
+Duration: 1.000 seconds
+Text: I think that's good.
+--------------------------------------------------
+City Clerk:
+Start: 00:27:35.040
+End: 00:27:37.040
+Duration: 2.000 seconds
+Text: I got a map in between.
+--------------------------------------------------
+City Clerk:
+Start: 00:27:37.040
+End: 00:27:38.040
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:27:38.040
+End: 00:27:44.040
+Duration: 6.000 seconds
+Text: So again, this is how we see our phasing through 2025.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:27:44.040
+End: 00:27:48.040
+Duration: 4.000 seconds
+Text: Obviously, TCB would be closed in 25, so we can't be on a Kimball.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:27:48.040
+End: 00:27:54.040
+Duration: 6.000 seconds
+Text: So our phasing would have this front-end road, this little piece of denison in the fall or this fall.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:27:54.040
+End: 00:28:01.040
+Duration: 7.000 seconds
+Text: And then this piece of denison in the fall and the winter to be completed by January 1st.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:28:01.040
+End: 00:28:09.040
+Duration: 8.000 seconds
+Text: And then this piece and this piece would be bid in December with an anticipated closure mid-January.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:28:09.040
+End: 00:28:14.040
+Duration: 5.000 seconds
+Text: So we would start on Kimball and mid-January leaving the intersection itself open.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:28:14.040
+End: 00:28:17.040
+Duration: 3.000 seconds
+Text: So I could have North South traffic up and down denison.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:28:17.040
+End: 00:28:22.040
+Duration: 5.000 seconds
+Text: I could have East and West traffic on Kimball to the intersection.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:28:22.040
+End: 00:28:26.040
+Duration: 4.000 seconds
+Text: So that intersection would be open through the school year.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:28:26.040
+End: 00:28:39.040
+Duration: 13.000 seconds
+Text: And then in next year, then we would attack the two pieces of denison to the south side of the intersection.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:28:39.040
+End: 00:28:43.040
+Duration: 4.000 seconds
+Text: Again, the front-end road, this piece is open, so there's no access on Kimball.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:28:43.040
+End: 00:28:45.040
+Duration: 2.000 seconds
+Text: We've eliminated all of these access points.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:28:45.040
+End: 00:28:50.040
+Duration: 5.000 seconds
+Text: So now you either have to go back to college or you have to go back to the signal
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:28:50.040
+End: 00:28:54.040
+Duration: 4.000 seconds
+Text: to get on to Kimball.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:28:54.040
+End: 00:28:58.040
+Duration: 4.000 seconds
+Text: This is the piece that we're looking at building this fall with your concurrence.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:28:58.040
+End: 00:29:00.040
+Duration: 2.000 seconds
+Text: It would be this piece here.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:29:00.040
+End: 00:29:12.040
+Duration: 12.000 seconds
+Text: And what this would allow us to do if you go back to this map, this would allow MFD to come out, go up denison, come down the front-end road, down, get to the signal, and then leave.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:29:12.040
+End: 00:29:25.040
+Duration: 13.000 seconds
+Text: Without this red area done, MFD would have to come to denison, go all the way to Marlotte, take Marlotte all the way over to college, come all the way down to college, get back to Kimball.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:29:25.040
+End: 00:29:29.040
+Duration: 4.000 seconds
+Text: So this is that piece that's going to be that cut through.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:29:29.040
+End: 00:29:30.040
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Attorney General:
+Start: 00:29:30.040
+End: 00:29:44.040
+Duration: 14.000 seconds
+Text: Like basketball game traffic on the, who park on the east side of the stadium, the east side of Bramlage and stuff, they're not going to be encouraged to go up through that way together on the East Kimball, are they?
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:29:44.040
+End: 00:29:48.040
+Duration: 4.000 seconds
+Text: So we met with KSU PD and with athletics a couple weeks ago.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:29:48.040
+End: 00:29:53.040
+Duration: 5.000 seconds
+Text: We're going to try to bring them down here and then through Olympic and then to the back gate.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:29:53.040
+End: 00:29:55.040
+Duration: 2.000 seconds
+Text: That's the route that they're looking at.
+--------------------------------------------------
+City Attorney General:
+Start: 00:29:55.040
+End: 00:29:56.040
+Duration: 1.000 seconds
+Text: Coming in?
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:29:56.040
+End: 00:29:57.040
+Duration: 1.000 seconds
+Text: Coming in and going out.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:29:58.040
+End: 00:30:02.040
+Duration: 4.000 seconds
+Text: That's the route that we're looking at as far as getting them in and out.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:30:02.040
+End: 00:30:08.040
+Duration: 6.000 seconds
+Text: Again, this intersection would be open so you could come down, go through the intersection through the back gate at Olympic.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:30:08.040
+End: 00:30:15.040
+Duration: 7.000 seconds
+Text: We do have another meeting August 2nd to finalize this.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:30:15.040
+End: 00:30:24.040
+Duration: 9.000 seconds
+Text: So then once the front-end road or once this area and red was done, once this was complete, then we would start on this little piece of denison.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:30:24.040
+End: 00:30:34.040
+Duration: 10.000 seconds
+Text: And we've broken this into two pieces so that as they're working on the north half, MFD could come out, still access Kimball and go down Kimball.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:30:34.040
+End: 00:30:42.040
+Duration: 8.000 seconds
+Text: And then when they're working on the south half, which would just be a small piece, they could then come and go up Denison out the front of the road and then down.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:30:42.040
+End: 00:30:50.040
+Duration: 8.000 seconds
+Text: And then all of next year, when Kimball here is under construction, they could come up, use the front of the road, come back down again.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:30:50.040
+End: 00:30:55.040
+Duration: 5.000 seconds
+Text: So that's how we've laid out our phasing, or that's the way we see our phasing working through 25.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:30:55.040
+End: 00:31:01.040
+Duration: 6.000 seconds
+Text: That phasing plan does check all the boxes that we've developed through talking with stakeholders.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:31:01.040
+End: 00:31:06.040
+Duration: 5.000 seconds
+Text: And we've run this through them a couple of times and they're pretty happy about it.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:31:06.040
+End: 00:31:14.040
+Duration: 8.000 seconds
+Text: As far as improvements go, obviously getting some turn lanes on Denison, as well as some restrictions on Kimball.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:31:14.040
+End: 00:31:24.040
+Duration: 10.000 seconds
+Text: The foundation will have restricted access as well rowing, and then the intersection itself will have dual left and a northbound single right now.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:31:24.040
+End: 00:31:30.040
+Duration: 6.000 seconds
+Text: So there will be a dedicated right for northbound on Denison and on the eastbound Kimball.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:31:30.040
+End: 00:31:40.040
+Duration: 10.000 seconds
+Text: About 550 vehicles an hour make that movement. So it's pretty intense movement.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:31:40.040
+End: 00:31:45.040
+Duration: 5.000 seconds
+Text: Back to the other projects again, Kimball roundabout, this will be done by the end of the year.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:31:45.040
+End: 00:31:50.040
+Duration: 5.000 seconds
+Text: Four-legged roundabout going into Grandmier and then Kimball.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:31:50.040
+End: 00:31:56.040
+Duration: 6.000 seconds
+Text: This is the detour, this shaded purple route here is the detour route.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:31:56.040
+End: 00:32:00.040
+Duration: 4.000 seconds
+Text: This will be operational here, probably within a month, probably within about two weeks.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:32:00.040
+End: 00:32:07.040
+Duration: 7.000 seconds
+Text: This will be stopped sign controlled here, so you'll come down GMP, you'll stop, then make your right or your left.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:32:07.040
+End: 00:32:12.040
+Duration: 5.000 seconds
+Text: We are going to sign that 20 miles an hour because it's a work zone, finds double.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:32:12.040
+End: 00:32:17.040
+Duration: 5.000 seconds
+Text: So if you do take that route, we've talked with our CPDRity about enforcement.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:32:17.040
+End: 00:32:22.040
+Duration: 5.000 seconds
+Text: We're going to hit that for enforcement pretty hard because the other legs are Kimball are 40.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:32:22.040
+End: 00:32:24.040
+Duration: 2.000 seconds
+Text: So you're going to have to go from 40 to 20.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:32:24.040
+End: 00:32:30.040
+Duration: 6.000 seconds
+Text: So as you drive through there, make sure you drive slow because it is a construction zone.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:32:30.040
+End: 00:32:32.040
+Duration: 2.000 seconds
+Text: There's a lot of equipment around.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:32:32.040
+End: 00:32:35.040
+Duration: 3.000 seconds
+Text: You're going to continue the Martin D tour.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:32:35.040
+End: 00:32:37.040
+Duration: 2.000 seconds
+Text: Martin, for most of the traffic?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:32:37.040
+End: 00:32:38.040
+Duration: 1.000 seconds
+Text: No.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:32:38.040
+End: 00:32:39.040
+Duration: 1.000 seconds
+Text: You're not going to take the detour route.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:32:39.040
+End: 00:32:42.040
+Duration: 3.000 seconds
+Text: We're going to take the detour route down.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:32:42.040
+End: 00:32:48.040
+Duration: 6.000 seconds
+Text: And then this is the Anderson Avenue project that we were just talking about from Sunset to Connecticut.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:32:48.040
+End: 00:32:52.040
+Duration: 4.000 seconds
+Text: Again, not this whole piece is going to be closed at once.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:32:52.040
+End: 00:32:58.040
+Duration: 6.000 seconds
+Text: We're going to go and phase as a four or five or six blocks so that if I live here,
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:32:58.040
+End: 00:33:02.040
+Duration: 4.000 seconds
+Text: I don't have to drive all the way to Sunset to come all the way back to get to my house.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:33:02.040
+End: 00:33:06.040
+Duration: 4.000 seconds
+Text: So I don't have to drive all the way over here to come back and then get to my house.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:33:06.040
+End: 00:33:08.040
+Duration: 2.000 seconds
+Text: So there'll be a four or five block detour at a time.
+--------------------------------------------------
+City Clerk:
+Start: 00:33:08.040
+End: 00:33:11.040
+Duration: 3.000 seconds
+Text: Are you reconstruct, totally reconstructing?
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:33:11.040
+End: 00:33:12.040
+Duration: 1.000 seconds
+Text: Complete rebuild.
+--------------------------------------------------
+City Clerk:
+Start: 00:33:12.040
+End: 00:33:13.040
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:33:13.040
+End: 00:33:16.040
+Duration: 3.000 seconds
+Text: It's actually a waterline project that has driven this.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:33:16.040
+End: 00:33:22.040
+Duration: 6.000 seconds
+Text: I'm sure you all see Anderson in there's bottles everywhere.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:33:22.040
+End: 00:33:24.040
+Duration: 2.000 seconds
+Text: So that's what really drove it.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:33:24.040
+End: 00:33:27.040
+Duration: 3.000 seconds
+Text: But while we are doing the waterline work, it's a complete rebuild.
+--------------------------------------------------
+City Clerk:
+Start: 00:33:27.040
+End: 00:33:30.040
+Duration: 3.000 seconds
+Text: Yeah, that's okay. Thank you.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:33:30.040
+End: 00:33:33.040
+Duration: 3.000 seconds
+Text: Again, our KJOP KJOP projects this fall.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:33:33.040
+End: 00:33:36.040
+Duration: 3.000 seconds
+Text: So this is the bridge for 177.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:33:36.040
+End: 00:33:37.040
+Duration: 1.000 seconds
+Text: This is Johnson Road.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:33:37.040
+End: 00:33:46.040
+Duration: 9.000 seconds
+Text: So this will be head to head traffic through this area, through the fall and into next year.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:33:46.040
+End: 00:33:48.040
+Duration: 2.000 seconds
+Text: And then our roundabouts to the north.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:33:48.040
+End: 00:33:53.040
+Duration: 5.000 seconds
+Text: I do want to say that the huge drawings are from our set child corridor plan.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:33:53.040
+End: 00:33:57.040
+Duration: 4.000 seconds
+Text: I don't know if this fly through lane is actually going to happen.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:33:57.040
+End: 00:34:02.040
+Duration: 5.000 seconds
+Text: There is some debate about taking that fly through lane out and just running it through around about.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:34:02.040
+End: 00:34:05.040
+Duration: 3.000 seconds
+Text: I don't know where a kid not landed on that yet.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:34:05.040
+End: 00:34:10.040
+Duration: 5.000 seconds
+Text: So I don't want to promise that this fly through lane is going to happen because I'm not sure.
+--------------------------------------------------
+Mayor Hassel:
+Start: 00:34:10.040
+End: 00:34:12.040
+Duration: 2.000 seconds
+Text: But this is that project.
+--------------------------------------------------
+City Clerk:
+Start: 00:34:12.040
+End: 00:34:15.040
+Duration: 3.000 seconds
+Text: When you say head to head, you mean to lane.
+--------------------------------------------------
+City Clerk:
+Start: 00:34:15.040
+End: 00:34:16.040
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:34:16.040
+End: 00:34:17.040
+Duration: 1.000 seconds
+Text: Okay. Thanks.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:34:17.040
+End: 00:34:18.040
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:34:18.040
+End: 00:34:24.040
+Duration: 6.000 seconds
+Text: So there's the set child project again, January 25th through January 26th full closure.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:34:24.040
+End: 00:34:31.040
+Duration: 7.000 seconds
+Text: So everything from here to this is the dam here to here will close.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:34:31.040
+End: 00:34:35.040
+Duration: 4.000 seconds
+Text: So you'll be able to come eastbound and go southbound.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:34:35.040
+End: 00:34:38.040
+Duration: 3.000 seconds
+Text: And you'll be able to go northbound to westbound.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:34:38.040
+End: 00:34:40.040
+Duration: 2.000 seconds
+Text: So you'll be able to come in and out of the city.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:34:40.040
+End: 00:34:44.040
+Duration: 4.000 seconds
+Text: You just won't be able to access between those two points.
+--------------------------------------------------
+City Clerk:
+Start: 00:34:44.040
+End: 00:34:47.040
+Duration: 3.000 seconds
+Text: And the other roundabout is going to be delayed.
+--------------------------------------------------
+City Clerk:
+Start: 00:34:47.040
+End: 00:34:49.040
+Duration: 2.000 seconds
+Text: They're at the re-up to the lake.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:34:49.040
+End: 00:34:51.040
+Duration: 2.000 seconds
+Text: No, that's the same project.
+--------------------------------------------------
+City Clerk:
+Start: 00:34:51.040
+End: 00:34:52.040
+Duration: 1.000 seconds
+Text: That'd be okay.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:34:52.040
+End: 00:34:54.040
+Duration: 2.000 seconds
+Text: You'll be able to go westbound.
+--------------------------------------------------
+City Clerk:
+Start: 00:34:54.040
+End: 00:34:57.040
+Duration: 3.000 seconds
+Text: Well, there are two roundabouts on the working out.
+--------------------------------------------------
+City Clerk:
+Start: 00:34:57.040
+End: 00:34:59.040
+Duration: 2.000 seconds
+Text: So they're going to do both of them at the same time.
+--------------------------------------------------
+City Clerk:
+Start: 00:34:59.040
+End: 00:35:00.040
+Duration: 1.000 seconds
+Text: That's correct.
+--------------------------------------------------
+City Clerk:
+Start: 00:35:00.040
+End: 00:35:01.040
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:35:01.040
+End: 00:35:02.040
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:02.040
+End: 00:35:03.040
+Duration: 1.000 seconds
+Text: I didn't realize that.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:35:03.040
+End: 00:35:10.040
+Duration: 7.000 seconds
+Text: So you'll be able to go westbound to northbound or you'll be able to go southbound to eastbound.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:35:10.040
+End: 00:35:12.040
+Duration: 2.000 seconds
+Text: But you won't be able to go west.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:35:12.040
+End: 00:35:17.040
+Duration: 5.000 seconds
+Text: So this leg here will be closed.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:35:17.040
+End: 00:35:20.040
+Duration: 3.000 seconds
+Text: Then we have one more project sometime in 2026.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:35:20.040
+End: 00:35:22.040
+Duration: 2.000 seconds
+Text: This has been funded by K-DOT.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:35:22.040
+End: 00:35:27.040
+Duration: 5.000 seconds
+Text: It's actually a flyover bridge or flyover lane that comes out of Fort Riley Boulevard.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:35:27.040
+End: 00:35:30.040
+Duration: 3.000 seconds
+Text: I'm sorry, it comes out of Fort Riley, excuse me.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:35:30.040
+End: 00:35:34.040
+Duration: 4.000 seconds
+Text: Currently, when you come out of Fort Riley, I believe it's the Marshall Gate.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:35:34.040
+End: 00:35:38.040
+Duration: 4.000 seconds
+Text: Come down the bridge and you have to merge into I-70 and you go about a mile
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:35:38.040
+End: 00:35:40.040
+Duration: 2.000 seconds
+Text: and then you've got to merge back out to get up to bridge.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:35:40.040
+End: 00:35:43.040
+Duration: 3.000 seconds
+Text: That lane is actually going to continue all the way through now.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:35:43.040
+End: 00:35:49.040
+Duration: 6.000 seconds
+Text: So when you come down the bridge, you're going to get your own lane, eastbound,
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:35:49.040
+End: 00:35:51.040
+Duration: 2.000 seconds
+Text: all the way to here.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:35:51.040
+End: 00:35:56.040
+Duration: 5.000 seconds
+Text: And then you're going to take a bridge and go up and over I-70 and touch back down K-Team.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:35:56.040
+End: 00:36:01.040
+Duration: 5.000 seconds
+Text: So when you leave Marshall Field, your first stoplight will be Richard's Drive.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:36:01.040
+End: 00:36:03.040
+Duration: 2.000 seconds
+Text: That'll be your first stop.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:36:03.040
+End: 00:36:06.040
+Duration: 3.000 seconds
+Text: Very similar.
+--------------------------------------------------
+City Clerk:
+Start: 00:36:06.040
+End: 00:36:09.040
+Duration: 3.000 seconds
+Text: Very smooth flyover.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:36:09.040
+End: 00:36:12.040
+Duration: 3.000 seconds
+Text: Yeah, we were, Rob and I said in a couple of meetings with K-DOT on this,
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:36:12.040
+End: 00:36:15.040
+Duration: 3.000 seconds
+Text: they had four or five different layouts.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:36:15.040
+End: 00:36:18.040
+Duration: 3.000 seconds
+Text: We were very happy that they settled on this.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:36:18.040
+End: 00:36:22.040
+Duration: 4.000 seconds
+Text: They really didn't have the budget, but they saw that it was a great project
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:36:22.040
+End: 00:36:24.040
+Duration: 2.000 seconds
+Text: and they came up with the extra money.
+--------------------------------------------------
+City Clerk:
+Start: 00:36:24.040
+End: 00:36:27.040
+Duration: 3.000 seconds
+Text: Well, they've tried several solutions and they're just clumsy.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:36:27.040
+End: 00:36:29.040
+Duration: 2.000 seconds
+Text: Yeah. For game day traffic, this is going to work great.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:36:29.040
+End: 00:36:31.040
+Duration: 2.000 seconds
+Text: For Fort Riley, it's going to work great.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:36:31.040
+End: 00:36:34.040
+Duration: 3.000 seconds
+Text: You're going to come out of Fort Riley, you're going to get your own lane
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:36:34.040
+End: 00:36:37.040
+Duration: 3.000 seconds
+Text: and you won't see a stoplight till you get the Richard's Drive.
+--------------------------------------------------
+City Clerk:
+Start: 00:36:37.040
+End: 00:36:38.040
+Duration: 1.000 seconds
+Text: And when that, that's...
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:36:38.040
+End: 00:36:39.040
+Duration: 1.000 seconds
+Text: 2026.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:39.040
+End: 00:36:42.040
+Duration: 3.000 seconds
+Text: Oh, okay.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:36:42.040
+End: 00:36:48.040
+Duration: 6.000 seconds
+Text: With that, I'll stand for questions on any of the projects we have going on.
+--------------------------------------------------
+City Clerk:
+Start: 00:36:48.040
+End: 00:36:55.040
+Duration: 7.000 seconds
+Text: When the levy project is over, K-Smart Road is taking a beating.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:36:55.040
+End: 00:36:57.040
+Duration: 2.000 seconds
+Text: We actually talked about...
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:57.040
+End: 00:36:58.040
+Duration: 1.000 seconds
+Text: Yeah, Jeff.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:58.040
+End: 00:37:01.040
+Duration: 3.000 seconds
+Text: ...we've got some repairs on...
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:01.040
+End: 00:37:02.040
+Duration: 1.000 seconds
+Text: Yes, a casement.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:02.040
+End: 00:37:03.040
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:03.040
+End: 00:37:07.040
+Duration: 4.000 seconds
+Text: Yeah, we actually have some repairs and haze drive going on going right now.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:07.040
+End: 00:37:13.040
+Duration: 6.000 seconds
+Text: We had a discussion today about knocking out some of the worst sections on casement,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:13.040
+End: 00:37:17.040
+Duration: 4.000 seconds
+Text: concrete-wise, prior to school starting.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:17.040
+End: 00:37:24.040
+Duration: 7.000 seconds
+Text: And just a reminder, we did award a asphalt mill and overly a two-inch mill,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:24.040
+End: 00:37:30.040
+Duration: 6.000 seconds
+Text: a new asphalt surface for the asphalt segment that's in there as well.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:30.040
+End: 00:37:33.040
+Duration: 3.000 seconds
+Text: So right now, we're kind of waiting on chilling and their schedule.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:33.040
+End: 00:37:38.040
+Duration: 5.000 seconds
+Text: They're obviously spread pretty thin between K-DOT and everything else going on.
+--------------------------------------------------
+City Clerk:
+Start: 00:37:38.040
+End: 00:37:41.040
+Duration: 3.000 seconds
+Text: I think casement's taking a beating because of the...
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:41.040
+End: 00:37:42.040
+Duration: 1.000 seconds
+Text: More traffic.
+--------------------------------------------------
+City Clerk:
+Start: 00:37:42.040
+End: 00:37:43.040
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+City Clerk:
+Start: 00:37:43.040
+End: 00:37:45.040
+Duration: 2.000 seconds
+Text: So, I'd hate to...
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:37:45.040
+End: 00:37:46.040
+Duration: 1.000 seconds
+Text: Well, there may be...
+--------------------------------------------------
+City Clerk:
+Start: 00:37:46.040
+End: 00:37:48.040
+Duration: 2.000 seconds
+Text: I'd hate to gumbat up, too.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:37:48.040
+End: 00:37:51.040
+Duration: 3.000 seconds
+Text: There may be an opportunity when we do that safety grant to do some paper repair,
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:37:51.040
+End: 00:37:54.040
+Duration: 3.000 seconds
+Text: while we have the intersection closed down and traffic control.
+--------------------------------------------------
+City Clerk:
+Start: 00:37:54.040
+End: 00:37:55.040
+Duration: 1.000 seconds
+Text: Get some potholes, too.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:55.040
+End: 00:37:56.040
+Duration: 1.000 seconds
+Text: Yeah, yeah.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:56.040
+End: 00:38:00.040
+Duration: 4.000 seconds
+Text: We're definitely going to address the asphalt section this year,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:00.040
+End: 00:38:05.040
+Duration: 5.000 seconds
+Text: and then just some of the worst concrete panels between now and when school starts.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:05.040
+End: 00:38:08.040
+Duration: 3.000 seconds
+Text: We're not going to be able to do a complete rebuild.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:08.040
+End: 00:38:09.040
+Duration: 1.000 seconds
+Text: I don't expect.
+--------------------------------------------------
+City Clerk:
+Start: 00:38:09.040
+End: 00:38:10.040
+Duration: 1.000 seconds
+Text: I just need pothole.
+--------------------------------------------------
+City Clerk:
+Start: 00:38:10.040
+End: 00:38:11.040
+Duration: 1.000 seconds
+Text: You know, I'm just...
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:11.040
+End: 00:38:12.040
+Duration: 1.000 seconds
+Text: Yep.
+--------------------------------------------------
+City Clerk:
+Start: 00:38:12.040
+End: 00:38:14.040
+Duration: 2.000 seconds
+Text: As I drive it, I just think it's deteriorating.
+--------------------------------------------------
+City Clerk:
+Start: 00:38:14.040
+End: 00:38:21.040
+Duration: 7.000 seconds
+Text: So after the haze, the levee is finished, it'll be in pretty bad shape.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:38:21.040
+End: 00:38:24.040
+Duration: 3.000 seconds
+Text: It's kind of the same concerns we have for Kimble.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:38:24.040
+End: 00:38:25.040
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:38:25.040
+End: 00:38:29.040
+Duration: 4.000 seconds
+Text: If we don't get on Dennis and Kimble before K-DOT,
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:38:29.040
+End: 00:38:33.040
+Duration: 4.000 seconds
+Text: I don't know that Dennis and Kimble will make it through that detour.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:38:33.040
+End: 00:38:38.040
+Duration: 5.000 seconds
+Text: I double my traffic counts on Kimble for a year and a half while K-DOT's closed.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:38:38.040
+End: 00:38:40.040
+Duration: 2.000 seconds
+Text: I don't know if Kimble's coming.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:38:40.040
+End: 00:38:41.040
+Duration: 1.000 seconds
+Text: I don't...
+--------------------------------------------------
+City Clerk:
+Start: 00:38:41.040
+End: 00:38:42.040
+Duration: 1.000 seconds
+Text: It's in pretty bad shape.
+--------------------------------------------------
+City Clerk:
+Start: 00:38:42.040
+End: 00:38:45.040
+Duration: 3.000 seconds
+Text: And Dennis and I was done about the same time that Amanda Arnold was.
+--------------------------------------------------
+City Clerk:
+Start: 00:38:45.040
+End: 00:38:46.040
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+City Clerk:
+Start: 00:38:46.040
+End: 00:38:47.040
+Duration: 1.000 seconds
+Text: And they didn't hold it.
+--------------------------------------------------
+City Clerk:
+Start: 00:38:47.040
+End: 00:38:49.040
+Duration: 2.000 seconds
+Text: Amanda Arnold didn't hold up well.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:49.040
+End: 00:38:50.040
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:38:50.040
+End: 00:38:51.040
+Duration: 1.000 seconds
+Text: It's showing its aid.
+--------------------------------------------------
+City Clerk:
+Start: 00:38:51.040
+End: 00:38:56.040
+Duration: 5.000 seconds
+Text: And we noticed the corners on the concrete pieces.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:38:56.040
+End: 00:39:02.040
+Duration: 6.000 seconds
+Text: If we don't approve this, then I'd probably be 2027 before we got the Dennis and Kimble.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:39:02.040
+End: 00:39:05.040
+Duration: 3.000 seconds
+Text: And I don't know if Dennis and Kimble would still be there in 2027.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:05.040
+End: 00:39:07.040
+Duration: 2.000 seconds
+Text: It would hold up.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:39:07.040
+End: 00:39:17.040
+Duration: 10.000 seconds
+Text: We'd probably end up putting quarter to half a million dollars of temporary asphalt on it just to keep it together so I can get the 2027.
+--------------------------------------------------
+City Attorney General:
+Start: 00:39:17.040
+End: 00:39:18.040
+Duration: 1.000 seconds
+Text: Alrighty.
+--------------------------------------------------
+City Attorney General:
+Start: 00:39:18.040
+End: 00:39:20.040
+Duration: 2.000 seconds
+Text: And any other questions right now?
+--------------------------------------------------
+City Attorney General:
+Start: 00:39:20.040
+End: 00:39:22.040
+Duration: 2.000 seconds
+Text: We'll throw it open to public comment.
+--------------------------------------------------
+City Attorney General:
+Start: 00:39:22.040
+End: 00:39:34.040
+Duration: 12.000 seconds
+Text: If anybody would like to comment on this, what we're going to be voting on potentially is the contract to build the frontage road off of Dennis and over to the Drain Science area.
+--------------------------------------------------
+City Attorney General:
+Start: 00:39:34.040
+End: 00:39:37.040
+Duration: 3.000 seconds
+Text: Hearing no comments, I will close public comment.
+--------------------------------------------------
+City Attorney General:
+Start: 00:39:37.040
+End: 00:39:39.040
+Duration: 2.000 seconds
+Text: And commissioners, I'll read the motion.
+--------------------------------------------------
+City Attorney General:
+Start: 00:39:39.040
+End: 00:39:40.040
+Duration: 1.000 seconds
+Text: You ready?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:40.040
+End: 00:39:42.040
+Duration: 2.000 seconds
+Text: I just want to make a comment.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:42.040
+End: 00:39:51.040
+Duration: 9.000 seconds
+Text: I appreciate the effort on looking at all the detours and possible things because people are always saying that we don't do a good job at that.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:51.040
+End: 00:39:52.040
+Duration: 1.000 seconds
+Text: But I beg to differ.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:52.040
+End: 00:39:54.040
+Duration: 2.000 seconds
+Text: I think I think you have done a good job on that.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:54.040
+End: 00:39:56.040
+Duration: 2.000 seconds
+Text: And we got to fix the roads.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:56.040
+End: 00:39:59.040
+Duration: 3.000 seconds
+Text: But as you pointed out, we can't do them all on the same day.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:59.040
+End: 00:40:03.040
+Duration: 4.000 seconds
+Text: And so this is well thought out, especially integrating it with K-DOTs project.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:40:03.040
+End: 00:40:06.040
+Duration: 3.000 seconds
+Text: So appreciate the work on that.
+--------------------------------------------------
+City Clerk:
+Start: 00:40:06.040
+End: 00:40:16.040
+Duration: 10.000 seconds
+Text: We have to race them in the summer and do as much as we can because once school starts again, it's worse by two or three times.
+--------------------------------------------------
+City Attorney General:
+Start: 00:40:16.040
+End: 00:40:33.040
+Duration: 17.000 seconds
+Text: One move that we approve an alternative delivery method per charter ordinance number 62, Section 3 to authorize city staff to finalize and the mayor and city clerk to execute a construction contract with either construction of Walmega when the amount of $2,943,360,024 cents and approve.
+--------------------------------------------------
+City Attorney General:
+Start: 00:40:33.040
+End: 00:40:42.040
+Duration: 9.000 seconds
+Text: The resolution number 07,1823,c, authorizing the project and issuing bonds for a portion of the North Campus corridor phase 11 project ST-20207.
+--------------------------------------------------
+City Attorney General:
+Start: 00:40:42.040
+End: 00:40:49.040
+Duration: 7.000 seconds
+Text: All contingent upon the city obtaining a necessary right of way from the Kansas State University to accommodate the extension of the frontage round.
+--------------------------------------------------
+City Attorney General:
+Start: 00:40:49.040
+End: 00:40:55.040
+Duration: 6.000 seconds
+Text: And also contingent upon a legal determination that the city has bonding authority from the project to finance the construction.
+--------------------------------------------------
+City Attorney General:
+Start: 00:40:55.040
+End: 00:41:02.040
+Duration: 7.000 seconds
+Text: These contingencies are not meant to the satisfaction of city legal staff, the mayor and the city clerk shall not execute the contract and the resolution shall be void.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:41:02.040
+End: 00:41:04.040
+Duration: 2.000 seconds
+Text: I'll second the motion.
+--------------------------------------------------
+City Clerk:
+Start: 00:41:04.040
+End: 00:41:06.040
+Duration: 2.000 seconds
+Text: I the under discussion.
+--------------------------------------------------
+City Clerk:
+Start: 00:41:06.040
+End: 00:41:07.040
+Duration: 1.000 seconds
+Text: Sure.
+--------------------------------------------------
+City Clerk:
+Start: 00:41:07.040
+End: 00:41:08.040
+Duration: 1.000 seconds
+Text: Since we're.
+--------------------------------------------------
+City Clerk:
+Start: 00:41:08.040
+End: 00:41:12.040
+Duration: 4.000 seconds
+Text: It's unusual to have that language about.
+--------------------------------------------------
+City Clerk:
+Start: 00:41:12.040
+End: 00:41:18.040
+Duration: 6.000 seconds
+Text: If we have the bonding authority, so could you explain that?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:41:18.040
+End: 00:41:24.040
+Duration: 6.000 seconds
+Text: Sure, I'll take a stab at it and that's one of the reasons bills here tonight as well or Brian can can speak to it.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:41:24.040
+End: 00:41:28.040
+Duration: 4.000 seconds
+Text: Also, so I'll just let you first.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:41:28.040
+End: 00:41:30.040
+Duration: 2.000 seconds
+Text: So a couple of things one.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:41:30.040
+End: 00:41:40.040
+Duration: 10.000 seconds
+Text: Because K-DOT notified us within the last six or eight weeks we've been meeting with KC trying to get the easements put together rights away is all of those things that we have to do.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:41:40.040
+End: 00:41:47.040
+Duration: 7.000 seconds
+Text: Remember when you're dealing with a state entity, those have to go to the Attorney General's office and those take a while and it's not quick.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:41:47.040
+End: 00:41:54.040
+Duration: 7.000 seconds
+Text: So we put that language in there and KC Attorney General would have some sort of issue with our easement language.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:41:54.040
+End: 00:42:02.040
+Duration: 8.000 seconds
+Text: We have several of the easements already in place with our North Detention Pond project that's just to the North of here.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:42:02.040
+End: 00:42:05.040
+Duration: 3.000 seconds
+Text: I was actually right there today looking at these two ponds.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:42:05.040
+End: 00:42:08.040
+Duration: 3.000 seconds
+Text: They're massive and they look really good.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:42:08.040
+End: 00:42:12.040
+Duration: 4.000 seconds
+Text: So we have some of those easements already in place that we can start construction.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:42:12.040
+End: 00:42:16.040
+Duration: 4.000 seconds
+Text: And then the other piece is we believe this is going to be a public road.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:42:16.040
+End: 00:42:22.040
+Duration: 6.000 seconds
+Text: We still have to have those discussions with Kansas State University, whether it's public or private.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:42:22.040
+End: 00:42:32.040
+Duration: 10.000 seconds
+Text: It could be like Claflin through campus from Denison to North Manhattan which is technically a private road but everybody gets to access it.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:42:32.040
+End: 00:42:41.040
+Duration: 9.000 seconds
+Text: So we're still having those discussions with Kansas State University and with Department of Ag.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:42:41.040
+End: 00:42:45.040
+Duration: 4.000 seconds
+Text: We'll see kind of where those go, whether it is private or public.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:42:45.040
+End: 00:42:49.040
+Duration: 4.000 seconds
+Text: We also have to engage bond council to make for sure that they're comfortable with it.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:42:49.040
+End: 00:42:52.040
+Duration: 3.000 seconds
+Text: All of these things happened in phase six and phase nine.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:42:52.040
+End: 00:42:57.040
+Duration: 5.000 seconds
+Text: They just happened in advance because we weren't squished for time like we are now.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:42:57.040
+End: 00:43:02.040
+Duration: 5.000 seconds
+Text: So that's why we had all that language in there in case something happens with Attorney General's office,
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:43:02.040
+End: 00:43:05.040
+Duration: 3.000 seconds
+Text: North Kansas State University or Bond Council, we can still back out of it.
+--------------------------------------------------
+City Clerk:
+Start: 00:43:05.040
+End: 00:43:09.040
+Duration: 4.000 seconds
+Text: I found the private right of way, the public right of way kind of confusing.
+--------------------------------------------------
+City Clerk:
+Start: 00:43:09.040
+End: 00:43:12.040
+Duration: 3.000 seconds
+Text: It is. I agree with you.
+--------------------------------------------------
+City Clerk:
+Start: 00:43:12.040
+End: 00:43:16.040
+Duration: 4.000 seconds
+Text: I wanted to ask about the quotes.
+--------------------------------------------------
+City Clerk:
+Start: 00:43:16.040
+End: 00:43:20.040
+Duration: 4.000 seconds
+Text: So Frontage Road is a little over a million.
+--------------------------------------------------
+City Clerk:
+Start: 00:43:20.040
+End: 00:43:24.040
+Duration: 4.000 seconds
+Text: Correct. And that seems, that's a two lane, right?
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:43:24.040
+End: 00:43:28.040
+Duration: 4.000 seconds
+Text: Well, it's 27 feet so it could operate as a three lane.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:43:28.040
+End: 00:43:31.040
+Duration: 3.000 seconds
+Text: About 600,000 of that is storm sewer.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:43:31.040
+End: 00:43:32.040
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:43:32.040
+End: 00:43:34.040
+Duration: 2.000 seconds
+Text: The vast majority of it actually is storm sewer.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:43:34.040
+End: 00:43:38.040
+Duration: 4.000 seconds
+Text: And this is, since you're going to ask that question,
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:43:38.040
+End: 00:43:44.040
+Duration: 6.000 seconds
+Text: we actually are intercepting a large storm sewer interceptor,
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:43:44.040
+End: 00:43:47.040
+Duration: 3.000 seconds
+Text: trunk interceptor running down this way and down campus creek.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:43:47.040
+End: 00:43:52.040
+Duration: 5.000 seconds
+Text: We're actually going to intercept that and run it up north through our detention ponds.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:43:52.040
+End: 00:43:58.040
+Duration: 6.000 seconds
+Text: So we're taking about 20 to 25 acres of impervious area out of campus creek
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:43:58.040
+End: 00:44:00.040
+Duration: 2.000 seconds
+Text: and now we're going to run it north.
+--------------------------------------------------
+City Clerk:
+Start: 00:44:00.040
+End: 00:44:03.040
+Duration: 3.000 seconds
+Text: How do you run it there?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:44:03.040
+End: 00:44:04.040
+Duration: 1.000 seconds
+Text: Very careful.
+--------------------------------------------------
+City Clerk:
+Start: 00:44:04.040
+End: 00:44:05.040
+Duration: 1.000 seconds
+Text: You don't have to pump it.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:44:05.040
+End: 00:44:06.040
+Duration: 1.000 seconds
+Text: No.
+--------------------------------------------------
+City Clerk:
+Start: 00:44:06.040
+End: 00:44:09.040
+Duration: 3.000 seconds
+Text: All right. Don't answer any more. I understand.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:44:09.040
+End: 00:44:11.040
+Duration: 2.000 seconds
+Text: Okay. Very, it's 66 inch storms.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:44:11.040
+End: 00:44:13.040
+Duration: 2.000 seconds
+Text: So we're a huge pipe.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:44:13.040
+End: 00:44:16.040
+Duration: 3.000 seconds
+Text: Or we're taking several hundreds of CFS off of campus creek.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:44:16.040
+End: 00:44:19.040
+Duration: 3.000 seconds
+Text: And we all know what problems we have with campus creek.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:44:19.040
+End: 00:44:24.040
+Duration: 5.000 seconds
+Text: So this is kind of the linchpin of all of these discussions for the last three years
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:44:24.040
+End: 00:44:27.040
+Duration: 3.000 seconds
+Text: with these detention ponds that we were built.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:44:27.040
+End: 00:44:32.040
+Duration: 5.000 seconds
+Text: And I do, I got a shout out to Department of Ag and to athletics to the foundation.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:44:32.040
+End: 00:44:35.040
+Duration: 3.000 seconds
+Text: Not only did they donate the easements for those ponds,
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:44:35.040
+End: 00:44:38.040
+Duration: 3.000 seconds
+Text: they also are paying for those ponds.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:44:38.040
+End: 00:44:41.040
+Duration: 3.000 seconds
+Text: So that's a big step.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:44:41.040
+End: 00:44:44.040
+Duration: 3.000 seconds
+Text: Kansas State University typically doesn't pay for detention.
+--------------------------------------------------
+City Clerk:
+Start: 00:44:44.040
+End: 00:44:47.040
+Duration: 3.000 seconds
+Text: No, I think it's a great partnership.
+--------------------------------------------------
+City Clerk:
+Start: 00:44:47.040
+End: 00:44:48.040
+Duration: 1.000 seconds
+Text: We've worked hard.
+--------------------------------------------------
+City Clerk:
+Start: 00:44:48.040
+End: 00:44:53.040
+Duration: 5.000 seconds
+Text: We couldn't do this without all the parties participating.
+--------------------------------------------------
+City Clerk:
+Start: 00:44:53.040
+End: 00:44:57.040
+Duration: 4.000 seconds
+Text: So I'm not so much bothered by the million dollars.
+--------------------------------------------------
+City Clerk:
+Start: 00:44:57.040
+End: 00:45:00.040
+Duration: 3.000 seconds
+Text: God help me for the frontage road.
+--------------------------------------------------
+City Clerk:
+Start: 00:45:00.040
+End: 00:45:04.040
+Duration: 4.000 seconds
+Text: But it's the Denison Avenue piece that how many feet is it?
+--------------------------------------------------
+City Clerk:
+Start: 00:45:04.040
+End: 00:45:06.040
+Duration: 2.000 seconds
+Text: A feet is it north of Kimball?
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:45:06.040
+End: 00:45:08.040
+Duration: 2.000 seconds
+Text: So it's roughly a thousand feet.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:45:08.040
+End: 00:45:09.040
+Duration: 1.000 seconds
+Text: A thousand.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:45:09.040
+End: 00:45:11.040
+Duration: 2.000 seconds
+Text: You got to remember it's going to go to seven lane.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:45:11.040
+End: 00:45:15.040
+Duration: 4.000 seconds
+Text: So we're going to have two lanes north.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:45:15.040
+End: 00:45:18.040
+Duration: 3.000 seconds
+Text: We're going to have dual left turn lanes south.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:45:18.040
+End: 00:45:20.040
+Duration: 2.000 seconds
+Text: Dual through lanes and a right turn lane.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:45:20.040
+End: 00:45:23.040
+Duration: 3.000 seconds
+Text: So it's going to be a seven lane intersection.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:45:23.040
+End: 00:45:26.040
+Duration: 3.000 seconds
+Text: Sync at TCB and Blumon.
+--------------------------------------------------
+City Clerk:
+Start: 00:45:26.040
+End: 00:45:30.040
+Duration: 4.000 seconds
+Text: And all your building here though is are just north of Kimball.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:45:30.040
+End: 00:45:32.040
+Duration: 2.000 seconds
+Text: From here to here.
+--------------------------------------------------
+City Clerk:
+Start: 00:45:32.040
+End: 00:45:35.040
+Duration: 3.000 seconds
+Text: From here to Kimball north to this red road.
+--------------------------------------------------
+City Clerk:
+Start: 00:45:35.040
+End: 00:45:36.040
+Duration: 1.000 seconds
+Text: Correct.
+--------------------------------------------------
+City Clerk:
+Start: 00:45:36.040
+End: 00:45:38.040
+Duration: 2.000 seconds
+Text: Is that a name?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:45:38.040
+End: 00:45:41.040
+Duration: 3.000 seconds
+Text: No, not yet.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:45:41.040
+End: 00:45:44.040
+Duration: 3.000 seconds
+Text: And there is about three, four hundred thousand of storms
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:45:44.040
+End: 00:45:47.040
+Duration: 3.000 seconds
+Text: who are in that also because again we're carrying that water north.
+--------------------------------------------------
+City Clerk:
+Start: 00:45:47.040
+End: 00:45:51.040
+Duration: 4.000 seconds
+Text: My heartburn is the 1.8 million for it.
+--------------------------------------------------
+City Clerk:
+Start: 00:45:51.040
+End: 00:45:53.040
+Duration: 2.000 seconds
+Text: And it's a thousand foot.
+--------------------------------------------------
+City Clerk:
+Start: 00:45:53.040
+End: 00:45:58.040
+Duration: 5.000 seconds
+Text: But it is like a much longer road because there are so many lanes.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:45:58.040
+End: 00:45:59.040
+Duration: 1.000 seconds
+Text: There are so many lanes.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:45:59.040
+End: 00:46:00.040
+Duration: 1.000 seconds
+Text: That's correct.
+--------------------------------------------------
+City Clerk:
+Start: 00:46:00.040
+End: 00:46:06.040
+Duration: 6.000 seconds
+Text: And I'd like to be reassured we're not doing anything east of Denison.
+--------------------------------------------------
+City Clerk:
+Start: 00:46:06.040
+End: 00:46:11.040
+Duration: 5.000 seconds
+Text: Like up toward the K-State facilities up there.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:46:11.040
+End: 00:46:14.040
+Duration: 3.000 seconds
+Text: So we've looked at some concepts with K-State Ag.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:46:14.040
+End: 00:46:15.040
+Duration: 1.000 seconds
+Text: We are not.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:46:15.040
+End: 00:46:21.040
+Duration: 6.000 seconds
+Text: All we're doing is we're building a little extension right here that's about 20 feet long.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:46:21.040
+End: 00:46:25.040
+Duration: 4.000 seconds
+Text: And we're doing that so that we can connect this parking lot to this road.
+--------------------------------------------------
+City Clerk:
+Start: 00:46:25.040
+End: 00:46:26.040
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Clerk:
+Start: 00:46:26.040
+End: 00:46:28.040
+Duration: 2.000 seconds
+Text: Just get it off the off of Denison.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:46:28.040
+End: 00:46:34.040
+Duration: 6.000 seconds
+Text: Now there are some concepts out there that we've looked at to potentially get rid of this access point.
+--------------------------------------------------
+City Clerk:
+Start: 00:46:34.040
+End: 00:46:36.040
+Duration: 2.000 seconds
+Text: I'm having trouble seeing what.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:46:36.040
+End: 00:46:38.040
+Duration: 2.000 seconds
+Text: So there are existing access on Denison.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:46:38.040
+End: 00:46:39.040
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:46:39.040
+End: 00:46:43.040
+Duration: 4.000 seconds
+Text: We've talked to them about closing that access and bringing this access down here.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:46:43.040
+End: 00:46:44.040
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:46:44.040
+End: 00:46:45.040
+Duration: 1.000 seconds
+Text: And there are some concepts out there.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:46:45.040
+End: 00:46:46.040
+Duration: 1.000 seconds
+Text: Maybe you've seen them.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:46:46.040
+End: 00:46:47.040
+Duration: 1.000 seconds
+Text: Maybe you haven't.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:46:47.040
+End: 00:46:50.040
+Duration: 3.000 seconds
+Text: We've shared them with K-State University.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:46:50.040
+End: 00:46:53.040
+Duration: 3.000 seconds
+Text: There's some advantages to bringing those together.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:46:53.040
+End: 00:46:55.040
+Duration: 2.000 seconds
+Text: You could signalize that intersection.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:46:55.040
+End: 00:46:59.040
+Duration: 4.000 seconds
+Text: You could do a lot of things there if you brought all of that traffic to one point.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:46:59.040
+End: 00:47:02.040
+Duration: 3.000 seconds
+Text: But as of right now, this road is not in this contract.
+--------------------------------------------------
+City Clerk:
+Start: 00:47:02.040
+End: 00:47:04.040
+Duration: 2.000 seconds
+Text: This time goes on.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:47:04.040
+End: 00:47:05.040
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+City Clerk:
+Start: 00:47:05.040
+End: 00:47:06.040
+Duration: 1.000 seconds
+Text: And things change.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:47:06.040
+End: 00:47:12.040
+Duration: 6.000 seconds
+Text: We're going to negotiate some more with K-State in the Department of Ag between now and December as far as what that looks like.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:47:12.040
+End: 00:47:14.040
+Duration: 2.000 seconds
+Text: But that is not in this contract.
+--------------------------------------------------
+City Clerk:
+Start: 00:47:14.040
+End: 00:47:16.040
+Duration: 2.000 seconds
+Text: K-State has big plans up on the hill.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:47:16.040
+End: 00:47:18.040
+Duration: 2.000 seconds
+Text: There are magnificent, magnificent plans.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:47:18.040
+End: 00:47:20.040
+Duration: 2.000 seconds
+Text: I don't know if you've seen them, but they are.
+--------------------------------------------------
+City Clerk:
+Start: 00:47:20.040
+End: 00:47:23.040
+Duration: 3.000 seconds
+Text: It's probably tentative ones.
+--------------------------------------------------
+City Clerk:
+Start: 00:47:23.040
+End: 00:47:24.040
+Duration: 1.000 seconds
+Text: I haven't seen them.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:47:24.040
+End: 00:47:25.040
+Duration: 1.000 seconds
+Text: Yeah. They've raised the money.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:47:25.040
+End: 00:47:27.040
+Duration: 2.000 seconds
+Text: They've actually done a kickoff.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:47:27.040
+End: 00:47:30.040
+Duration: 3.000 seconds
+Text: They've got an architect on board and they're moving forward.
+--------------------------------------------------
+City Clerk:
+Start: 00:47:30.040
+End: 00:47:32.040
+Duration: 2.000 seconds
+Text: We're building a arena.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:47:32.040
+End: 00:47:34.040
+Duration: 2.000 seconds
+Text: Very large, very nice one.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:47:34.040
+End: 00:47:35.040
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+City Clerk:
+Start: 00:47:35.040
+End: 00:47:36.040
+Duration: 1.000 seconds
+Text: Very nice.
+--------------------------------------------------
+City Clerk:
+Start: 00:47:36.040
+End: 00:47:40.040
+Duration: 4.000 seconds
+Text: My concern is the city building roads on K-State.
+--------------------------------------------------
+City Clerk:
+Start: 00:47:40.040
+End: 00:47:46.040
+Duration: 6.000 seconds
+Text: To me, this frontage road is the first road that the city is building on K-State.
+--------------------------------------------------
+City Clerk:
+Start: 00:47:46.040
+End: 00:47:50.040
+Duration: 4.000 seconds
+Text: Mostly K-State takes care of K-State as said earlier.
+--------------------------------------------------
+City Clerk:
+Start: 00:47:50.040
+End: 00:47:52.040
+Duration: 2.000 seconds
+Text: And so I don't want to...
+--------------------------------------------------
+City Clerk:
+Start: 00:47:52.040
+End: 00:47:56.040
+Duration: 4.000 seconds
+Text: I understand that this is an hour best interest.
+--------------------------------------------------
+City Clerk:
+Start: 00:47:56.040
+End: 00:47:57.040
+Duration: 1.000 seconds
+Text: The detention ponds.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:47:57.040
+End: 00:47:59.040
+Duration: 2.000 seconds
+Text: Well, and we're eliminating access.
+--------------------------------------------------
+City Clerk:
+Start: 00:47:59.040
+End: 00:48:00.040
+Duration: 1.000 seconds
+Text: Stormwater, yeah.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:48:00.040
+End: 00:48:04.040
+Duration: 4.000 seconds
+Text: The whole goal of the North Campus project was to reduce accidents.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:48:04.040
+End: 00:48:09.040
+Duration: 5.000 seconds
+Text: If you recall, there's roughly 225 to 250 accidents in this corridor.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:48:09.040
+End: 00:48:10.040
+Duration: 1.000 seconds
+Text: Three fatalities.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:48:10.040
+End: 00:48:14.040
+Duration: 4.000 seconds
+Text: I think there is 17 or 27 people taken to the hospital.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:48:14.040
+End: 00:48:17.040
+Duration: 3.000 seconds
+Text: I don't remember the exact numbers there in that range.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:48:17.040
+End: 00:48:21.040
+Duration: 4.000 seconds
+Text: We think we're going to cut that in half or less.
+--------------------------------------------------
+City Clerk:
+Start: 00:48:21.040
+End: 00:48:24.040
+Duration: 3.000 seconds
+Text: I'm just concerned about the future of the city budget too.
+--------------------------------------------------
+City Clerk:
+Start: 00:48:24.040
+End: 00:48:28.040
+Duration: 4.000 seconds
+Text: We've put so much money into the North Campus corridor.
+--------------------------------------------------
+City Clerk:
+Start: 00:48:28.040
+End: 00:48:37.040
+Duration: 9.000 seconds
+Text: And we need to take a breath and devote some of our resources to just the rest of the community.
+--------------------------------------------------
+City Clerk:
+Start: 00:48:37.040
+End: 00:48:38.040
+Duration: 1.000 seconds
+Text: So anyway.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:48:38.040
+End: 00:48:39.040
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:48:39.040
+End: 00:48:40.040
+Duration: 1.000 seconds
+Text: That's my pitch.
+--------------------------------------------------
+City Attorney General:
+Start: 00:48:40.040
+End: 00:48:41.040
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Attorney General:
+Start: 00:48:41.040
+End: 00:48:46.040
+Duration: 5.000 seconds
+Text: So, so you said the detention ponds are going to be dry most of the time, right?
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:48:46.040
+End: 00:48:47.040
+Duration: 1.000 seconds
+Text: Correct.
+--------------------------------------------------
+City Attorney General:
+Start: 00:48:47.040
+End: 00:48:48.040
+Duration: 1.000 seconds
+Text: They are dry.
+--------------------------------------------------
+City Attorney General:
+Start: 00:48:48.040
+End: 00:48:49.040
+Duration: 1.000 seconds
+Text: The whole water of proficient.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:48:49.040
+End: 00:48:50.040
+Duration: 1.000 seconds
+Text: Nope.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:48:50.040
+End: 00:48:51.040
+Duration: 1.000 seconds
+Text: Nope.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:48:51.040
+End: 00:48:52.040
+Duration: 1.000 seconds
+Text: They are dry ponds.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:48:52.040
+End: 00:48:53.040
+Duration: 1.000 seconds
+Text: And they do hold the 100-year event.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:48:53.040
+End: 00:48:55.040
+Duration: 2.000 seconds
+Text: They actually hold the 500-year event.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:48:55.040
+End: 00:48:56.040
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Attorney General:
+Start: 00:48:56.040
+End: 00:48:57.040
+Duration: 1.000 seconds
+Text: Secondly.
+--------------------------------------------------
+City Attorney General:
+Start: 00:48:57.040
+End: 00:49:04.040
+Duration: 7.000 seconds
+Text: So you said, so every one of those roads going into that Denison Kimble will be seven lanes.
+--------------------------------------------------
+City Attorney General:
+Start: 00:49:04.040
+End: 00:49:07.040
+Duration: 3.000 seconds
+Text: You said, right, everybody gets two left-hand turn lanes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:49:07.040
+End: 00:49:08.040
+Duration: 1.000 seconds
+Text: Two left.
+--------------------------------------------------
+City Attorney General:
+Start: 00:49:08.040
+End: 00:49:09.040
+Duration: 1.000 seconds
+Text: Everybody gets two straight through lanes.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:49:09.040
+End: 00:49:10.040
+Duration: 1.000 seconds
+Text: Two throughs.
+--------------------------------------------------
+City Attorney General:
+Start: 00:49:10.040
+End: 00:49:11.040
+Duration: 1.000 seconds
+Text: And then...
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:49:11.040
+End: 00:49:13.040
+Duration: 2.000 seconds
+Text: And you got two throughs coming at you.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:49:13.040
+End: 00:49:14.040
+Duration: 1.000 seconds
+Text: Oh.
+--------------------------------------------------
+City Attorney General:
+Start: 00:49:14.040
+End: 00:49:15.040
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Attorney General:
+Start: 00:49:15.040
+End: 00:49:16.040
+Duration: 1.000 seconds
+Text: So seven.
+--------------------------------------------------
+City Attorney General:
+Start: 00:49:16.040
+End: 00:49:17.040
+Duration: 1.000 seconds
+Text: It's not seven in the same direction.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:49:17.040
+End: 00:49:18.040
+Duration: 1.000 seconds
+Text: No.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:49:18.040
+End: 00:49:19.040
+Duration: 1.000 seconds
+Text: Nope.
+--------------------------------------------------
+City Attorney General:
+Start: 00:49:19.040
+End: 00:49:20.040
+Duration: 1.000 seconds
+Text: Seven total.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:49:20.040
+End: 00:49:21.040
+Duration: 1.000 seconds
+Text: I was trying to put 14.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:49:21.040
+End: 00:49:22.040
+Duration: 1.000 seconds
+Text: That's a lot.
+--------------------------------------------------
+City Attorney General:
+Start: 00:49:22.040
+End: 00:49:23.040
+Duration: 1.000 seconds
+Text: No.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:49:23.040
+End: 00:49:24.040
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:49:24.040
+End: 00:49:25.040
+Duration: 1.000 seconds
+Text: You got the cool coming out.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:49:25.040
+End: 00:49:26.040
+Duration: 1.000 seconds
+Text: I'd really be Beijing.
+--------------------------------------------------
+City Attorney General:
+Start: 00:49:26.040
+End: 00:49:27.040
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:49:27.040
+End: 00:49:28.040
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+City Clerk:
+Start: 00:49:28.040
+End: 00:49:29.040
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Clerk:
+Start: 00:49:29.040
+End: 00:49:30.040
+Duration: 1.000 seconds
+Text: I do want to thank...
+--------------------------------------------------
+City Clerk:
+Start: 00:49:30.040
+End: 00:49:37.040
+Duration: 7.000 seconds
+Text: I just want to say what a simple solution the right-turn arrows are at McCall and Tuttle Creek
+--------------------------------------------------
+City Clerk:
+Start: 00:49:37.040
+End: 00:49:38.040
+Duration: 1.000 seconds
+Text: at that right turn.
+--------------------------------------------------
+City Clerk:
+Start: 00:49:38.040
+End: 00:49:39.040
+Duration: 1.000 seconds
+Text: Oh, yeah.
+--------------------------------------------------
+City Clerk:
+Start: 00:49:39.040
+End: 00:49:43.040
+Duration: 4.000 seconds
+Text: And the right turn off of a total onto casement.
+--------------------------------------------------
+City Clerk:
+Start: 00:49:43.040
+End: 00:49:47.540
+Duration: 4.500 seconds
+Text: I mentioned around the other day, maybe we could find a few other places where a right-turn
+--------------------------------------------------
+City Clerk:
+Start: 00:49:47.540
+End: 00:49:50.040
+Duration: 2.500 seconds
+Text: arrow because those are like heaven.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:49:50.040
+End: 00:49:51.040
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+City Clerk:
+Start: 00:49:51.040
+End: 00:49:52.040
+Duration: 1.000 seconds
+Text: Yep.
+--------------------------------------------------
+City Clerk:
+Start: 00:49:52.040
+End: 00:49:57.040
+Duration: 5.000 seconds
+Text: We've stopped there so many times and they just keep the traffic flowing.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:49:57.040
+End: 00:49:58.040
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:49:58.040
+End: 00:50:00.040
+Duration: 2.000 seconds
+Text: The ones at Kimble and TCB are working well too.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:50:00.040
+End: 00:50:01.040
+Duration: 1.000 seconds
+Text: Yeah, absolutely.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:50:01.040
+End: 00:50:06.040
+Duration: 5.000 seconds
+Text: And this intersection northbound almost qualifies for a dual north right turn.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:50:06.040
+End: 00:50:09.720
+Duration: 3.680 seconds
+Text: We're going to do a single right.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:50:09.720
+End: 00:50:13.720
+Duration: 4.000 seconds
+Text: We think the dual right was probably a little bit of overkill and so we're going to do single
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:50:13.720
+End: 00:50:14.720
+Duration: 1.000 seconds
+Text: right.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:50:14.720
+End: 00:50:16.720
+Duration: 2.000 seconds
+Text: But every single lady of this intersection needs to right-hand turn.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:50:16.720
+End: 00:50:17.720
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:50:17.720
+End: 00:50:19.720
+Duration: 2.000 seconds
+Text: It's three 400 vehicles an hour.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:50:19.720
+End: 00:50:20.720
+Duration: 1.000 seconds
+Text: All righty.
+--------------------------------------------------
+City Attorney General:
+Start: 00:50:20.720
+End: 00:50:21.720
+Duration: 1.000 seconds
+Text: Thank you very much.
+--------------------------------------------------
+City Attorney General:
+Start: 00:50:21.720
+End: 00:50:22.720
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Attorney General:
+Start: 00:50:22.720
+End: 00:50:23.720
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Attorney General:
+Start: 00:50:23.720
+End: 00:50:24.720
+Duration: 1.000 seconds
+Text: Have a motion on the floor.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:50:24.720
+End: 00:50:26.720
+Duration: 2.000 seconds
+Text: Please call the roll.
+--------------------------------------------------
+City Clerk:
+Start: 00:50:26.720
+End: 00:50:27.720
+Duration: 1.000 seconds
+Text: Mr. Mata.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:50:27.720
+End: 00:50:28.720
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:50:28.720
+End: 00:50:29.720
+Duration: 1.000 seconds
+Text: Mr. Morris.
+--------------------------------------------------
+City Clerk:
+Start: 00:50:29.720
+End: 00:50:30.720
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:50:30.720
+End: 00:50:31.720
+Duration: 1.000 seconds
+Text: Mary Hasill.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:50:31.720
+End: 00:50:32.720
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:50:32.720
+End: 00:50:33.720
+Duration: 1.000 seconds
+Text: Mr. Butler.
+--------------------------------------------------
+City Clerk:
+Start: 00:50:33.720
+End: 00:50:34.720
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:50:34.720
+End: 00:50:35.720
+Duration: 1.000 seconds
+Text: Motion carries 4 to 0.
+--------------------------------------------------
+City Attorney General:
+Start: 00:50:35.720
+End: 00:50:37.720
+Duration: 2.000 seconds
+Text: And that is the extent of the general agenda.
+--------------------------------------------------
+City Attorney General:
+Start: 00:50:37.720
+End: 00:50:41.720
+Duration: 4.000 seconds
+Text: I move that we recess into executive's session discuss.
+--------------------------------------------------
+City Attorney General:
+Start: 00:50:41.720
+End: 00:50:47.720
+Duration: 6.000 seconds
+Text: Amid your review of the city manager person to the exceptions of 4th and KSA 754319 B1,
+--------------------------------------------------
+City Attorney General:
+Start: 00:50:47.720
+End: 00:50:49.720
+Duration: 2.000 seconds
+Text: allowing for discussion of personnel matters.
+--------------------------------------------------
+City Attorney General:
+Start: 00:50:49.720
+End: 00:50:56.720
+Duration: 7.000 seconds
+Text: Non-elected personnel and resume the open meeting at 730 p.m. in the commission room.
+--------------------------------------------------
+City Attorney General:
+Start: 00:50:56.720
+End: 00:50:57.720
+Duration: 1.000 seconds
+Text: Is there a second?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:50:57.720
+End: 00:50:58.720
+Duration: 1.000 seconds
+Text: I'll second.
+--------------------------------------------------
+City Attorney General:
+Start: 00:50:58.720
+End: 00:51:00.720
+Duration: 2.000 seconds
+Text: It's been moved and seconded.
+--------------------------------------------------
+City Attorney General:
+Start: 00:51:00.720
+End: 00:51:01.720
+Duration: 1.000 seconds
+Text: Please call the roll.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:51:01.720
+End: 00:51:02.720
+Duration: 1.000 seconds
+Text: Commissioner Morris.
+--------------------------------------------------
+City Clerk:
+Start: 00:51:02.720
+End: 00:51:03.720
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:51:03.720
+End: 00:51:04.720
+Duration: 1.000 seconds
+Text: Mayor Hasill.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:51:04.720
+End: 00:51:05.220
+Duration: 0.500 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:51:05.220
+End: 00:51:06.220
+Duration: 1.000 seconds
+Text: Commissioner Butler.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:51:06.220
+End: 00:51:07.220
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:51:07.220
+End: 00:51:08.220
+Duration: 1.000 seconds
+Text: Commissioner Mata.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:51:08.220
+End: 00:51:09.220
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:51:09.220
+End: 00:51:10.220
+Duration: 1.000 seconds
+Text: Motion carries 4 to 0.
+--------------------------------------------------
+City Attorney General:
+Start: 00:51:10.220
+End: 00:51:11.220
+Duration: 1.000 seconds
+Text: We'll see it 730.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:51:35.220
+End: 00:51:36.220
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:51:36.220
+End: 00:51:37.220
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:51:37.220
+End: 00:51:38.220
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:51:38.220
+End: 00:51:39.220
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:51:39.220
+End: 00:51:40.220
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------

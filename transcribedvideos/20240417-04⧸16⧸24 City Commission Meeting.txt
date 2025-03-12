@@ -1,0 +1,3645 @@
+Transcription and Diarization for 20240417-04⧸16⧸24 City Commission Meeting.mp4
+==================================================
+
+Mayor Butler:
+Start: 00:00:00.000
+End: 00:00:06.400
+Duration: 6.400 seconds
+Text: 6 p.m. so I call the Tuesday, April 16th, 2024 City Commission meeting to order.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:00:07.120
+End: 00:00:10.640
+Duration: 3.520 seconds
+Text: City staff, can you please call the roll? Mayor Butler. Here?
+--------------------------------------------------
+City Clerk:
+Start: 00:00:11.760
+End: 00:00:14.880
+Duration: 3.120 seconds
+Text: Commissioner Adam Jack here. Commissioner McCullough. Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:14.880
+End: 00:00:19.840
+Duration: 4.960 seconds
+Text: Commissioner O'Pill. Present. Commissioner Mata. Here. Mayor, we have five
+--------------------------------------------------
+City Clerk:
+Start: 00:00:19.840
+End: 00:00:23.920
+Duration: 4.080 seconds
+Text: commissioners present. The Corps of the Three has been met. Okay thank you. Please join me in the
+--------------------------------------------------
+Mayor Butler:
+Start: 00:00:23.920
+End: 00:00:31.520
+Duration: 7.600 seconds
+Text: Pledge of Allegiance. Pledge of Allegiance to the flag of the United States of America
+--------------------------------------------------
+City Clerk:
+Start: 00:00:31.520
+End: 00:00:37.200
+Duration: 5.680 seconds
+Text: and to the Republic for which it stands one nation under God in the visible
+--------------------------------------------------
+City Clerk:
+Start: 00:00:37.200
+End: 00:00:39.200
+Duration: 2.000 seconds
+Text: with liberty and justice for all.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:00:44.400
+End: 00:00:51.520
+Duration: 7.120 seconds
+Text: Okay next item on the agenda is we have a couple of proclamations to do tonight and we'll start
+--------------------------------------------------
+Mayor Butler:
+Start: 00:00:51.760
+End: 00:00:56.640
+Duration: 4.880 seconds
+Text: off with I think we got Brittany Nolan here in Susan. We want to come up. We'll do that.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:01:04.320
+End: 00:01:11.120
+Duration: 6.800 seconds
+Text: Assume no. Yeah. Okay you got the flowers. Good.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:01:13.280
+End: 00:01:18.560
+Duration: 5.280 seconds
+Text: Okay we're as Lieutenant John McCray wrote the poem in Flandersfields during World War I
+--------------------------------------------------
+Mayor Butler:
+Start: 00:01:18.960
+End: 00:01:25.840
+Duration: 6.880 seconds
+Text: and Anna E. Grun of France, Mona Michael of Georgia, worked hard to initiate the sale of
+--------------------------------------------------
+Mayor Butler:
+Start: 00:01:25.840
+End: 00:01:31.600
+Duration: 5.760 seconds
+Text: artificial poppies to help orphans and others left destitute by the war and enlisted to help
+--------------------------------------------------
+Mayor Butler:
+Start: 00:01:31.600
+End: 00:01:38.320
+Duration: 6.720 seconds
+Text: with the American Legion in 1920 and the veterans of foreign wars adopted the poppy as its official
+--------------------------------------------------
+Mayor Butler:
+Start: 00:01:38.320
+End: 00:01:45.760
+Duration: 7.440 seconds
+Text: memorial flower in 1922 and America's land of freedom preserved and protected willingly and freely
+--------------------------------------------------
+Mayor Butler:
+Start: 00:01:45.760
+End: 00:01:51.520
+Duration: 5.760 seconds
+Text: by citizen soldiers and the millions who have answered the call to arms and those that have made
+--------------------------------------------------
+Mayor Butler:
+Start: 00:01:51.520
+End: 00:01:58.000
+Duration: 6.480 seconds
+Text: the ultimate sacrifice on the field of battle. A nation at peace must be reminded of the price of war
+--------------------------------------------------
+Mayor Butler:
+Start: 00:01:58.560
+End: 00:02:03.920
+Duration: 5.360 seconds
+Text: and the debt owned to those who have died in war. The red poppy has been designated as a symbol of
+--------------------------------------------------
+Mayor Butler:
+Start: 00:02:03.920
+End: 00:02:10.800
+Duration: 6.880 seconds
+Text: sacrifice of lies in all wars and the poppy itself continues to serve as a perpetual tribute
+--------------------------------------------------
+Mayor Butler:
+Start: 00:02:10.880
+End: 00:02:15.840
+Duration: 4.960 seconds
+Text: to those who have given their lives for the nation's freedom and the American Legion
+--------------------------------------------------
+Mayor Butler:
+Start: 00:02:15.840
+End: 00:02:21.520
+Duration: 5.680 seconds
+Text: Exilery has pledged to remind America annually of this debt through the distribution of the
+--------------------------------------------------
+Mayor Butler:
+Start: 00:02:21.520
+End: 00:02:27.520
+Duration: 6.000 seconds
+Text: memorial flower and donations for these official poppies have helped countless veterans and their
+--------------------------------------------------
+Mayor Butler:
+Start: 00:02:27.520
+End: 00:02:34.080
+Duration: 6.560 seconds
+Text: widows widowers and orphans over the years. Now therefore I win Butler, Mayor of the City of
+--------------------------------------------------
+Mayor Butler:
+Start: 00:02:34.080
+End: 00:02:41.680
+Duration: 7.600 seconds
+Text: Manhattan, Kansas to her by proclaim May 4th, 2024, his poppy day and ask that all citizens pay
+--------------------------------------------------
+Mayor Butler:
+Start: 00:02:41.680
+End: 00:02:46.960
+Duration: 5.280 seconds
+Text: tribute to those who have made the ultimate sacrifice in the name of freedom by wearing a memorial
+--------------------------------------------------
+Mayor Butler:
+Start: 00:02:46.960
+End: 00:02:50.560
+Duration: 3.600 seconds
+Text: day poppy on this day.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:59.280
+End: 00:03:03.280
+Duration: 4.000 seconds
+Text: Thank you, Mayor and City commissioners. My name is Susan Bergstin and I'm with the
+--------------------------------------------------
+City Clerk:
+Start: 00:03:03.280
+End: 00:03:10.320
+Duration: 7.040 seconds
+Text: Manhattan American Legion Post 17 Exilery and second by switch makes me chair of the poppy committee
+--------------------------------------------------
+City Clerk:
+Start: 00:03:10.320
+End: 00:03:17.040
+Duration: 6.720 seconds
+Text: about five years in a row. The American Legion Exilery sponsors poppy day each year in May
+--------------------------------------------------
+City Clerk:
+Start: 00:03:17.040
+End: 00:03:23.120
+Duration: 6.080 seconds
+Text: where volunteers of the American Legion pass out poppies at four different stores and ask if they
+--------------------------------------------------
+City Clerk:
+Start: 00:03:23.120
+End: 00:03:29.760
+Duration: 6.640 seconds
+Text: will wear a poppy to honor all veterans. This year poppy day is Saturday May 4th. At this time I
+--------------------------------------------------
+City Clerk:
+Start: 00:03:29.760
+End: 00:03:36.640
+Duration: 6.880 seconds
+Text: would like to introduce our 2024 poppy princess Brittany Nolan. She will give a brief overview of
+--------------------------------------------------
+City Clerk:
+Start: 00:03:36.640
+End: 00:03:42.800
+Duration: 6.160 seconds
+Text: what the poppy represents and her qualifications to be poppy princesses year. She will all tell pop
+--------------------------------------------------
+Brittany Nolan:
+Start: 00:03:42.800
+End: 00:03:50.160
+Duration: 7.360 seconds
+Text: out pass out poppies to everyone. Hi, my name is Brittany Nolan. I am the daughter of
+--------------------------------------------------
+Brittany Nolan:
+Start: 00:03:50.160
+End: 00:03:56.400
+Duration: 6.240 seconds
+Text: Chris Nolan and Kristen Thompson. My grandfather Bill Nolan served 22 years in the Army and Army
+--------------------------------------------------
+Brittany Nolan:
+Start: 00:03:56.400
+End: 00:04:03.200
+Duration: 6.800 seconds
+Text: reserves in a firefighter unit during the Bosnia, Kosovo and Iraq War. He is a past commander of
+--------------------------------------------------
+Brittany Nolan:
+Start: 00:04:03.200
+End: 00:04:09.520
+Duration: 6.320 seconds
+Text: post 17 and he as well as my great grandfather Carrie Brisbane were life members of post 17.
+--------------------------------------------------
+Brittany Nolan:
+Start: 00:04:10.160
+End: 00:04:16.480
+Duration: 6.320 seconds
+Text: Currently I am a member of the post 17 American Legion Junior Exilery. The poppy flower is a symbol
+--------------------------------------------------
+Brittany Nolan:
+Start: 00:04:16.480
+End: 00:04:22.640
+Duration: 6.160 seconds
+Text: of remembrance from the first civil, what another person, the first world war. Poppies were a common
+--------------------------------------------------
+Brittany Nolan:
+Start: 00:04:22.640
+End: 00:04:27.680
+Duration: 5.040 seconds
+Text: sight in France along the western front and they flourished in the fields that were decimated
+--------------------------------------------------
+Brittany Nolan:
+Start: 00:04:27.680
+End: 00:04:34.000
+Duration: 6.320 seconds
+Text: from fighting and shelling. Many poems and stories have been written about the enduring beauty of
+--------------------------------------------------
+Brittany Nolan:
+Start: 00:04:34.000
+End: 00:04:42.880
+Duration: 8.880 seconds
+Text: the poppy with the most well-known being in Flanders field. Soldiers of all nations have come to
+--------------------------------------------------
+Brittany Nolan:
+Start: 00:04:42.880
+End: 00:04:49.120
+Duration: 6.240 seconds
+Text: look on the poppy as a symbol of the sacrifices that soldiers made in all wars, wearing a poppy
+--------------------------------------------------
+Brittany Nolan:
+Start: 00:04:49.120
+End: 00:04:55.680
+Duration: 6.560 seconds
+Text: signifies honoring the dead and helping the living. The poppies that I will be presenting to you
+--------------------------------------------------
+Brittany Nolan:
+Start: 00:04:55.680
+End: 00:05:01.600
+Duration: 5.920 seconds
+Text: this evening were made by veterans and our nation's veterans administration hospitals, specifically
+--------------------------------------------------
+Brittany Nolan:
+Start: 00:05:01.600
+End: 00:05:08.080
+Duration: 6.480 seconds
+Text: the VA facility in Topeka. The veterans administration healthcare network serves roughly 12 million
+--------------------------------------------------
+Brittany Nolan:
+Start: 00:05:08.080
+End: 00:05:15.600
+Duration: 7.520 seconds
+Text: veterans per year. On Saturday, May 4th, poppy day volunteers from the post 17 American Legion
+--------------------------------------------------
+Brittany Nolan:
+Start: 00:05:15.600
+End: 00:05:21.360
+Duration: 5.760 seconds
+Text: family will be at several locations in Manhattan to hand out poppies to the public. There is no
+--------------------------------------------------
+Brittany Nolan:
+Start: 00:05:21.360
+End: 00:05:26.880
+Duration: 5.520 seconds
+Text: cost to accept a poppy but any donations are gratefully accepted. All donations are used to help
+--------------------------------------------------
+Brittany Nolan:
+Start: 00:05:26.880
+End: 00:05:33.600
+Duration: 6.720 seconds
+Text: veterans and their dependents. In order of veterans of all words, I would now like to hand out poppies
+--------------------------------------------------
+Brittany Nolan:
+Start: 00:05:33.600
+End: 00:05:36.640
+Duration: 3.040 seconds
+Text: and accept donations from many that are able to give. Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:36.800
+End: 00:05:49.120
+Duration: 12.320 seconds
+Text: Well, Brittany is passing out poppies. I want to let you know that citizens can pick up a poppy between
+--------------------------------------------------
+City Clerk:
+Start: 00:05:49.120
+End: 00:05:58.880
+Duration: 9.760 seconds
+Text: 9 and 1 p.m. at any of the following locations. We have Dillon's East and West, High V, and Walmart.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:58.880
+End: 00:06:03.920
+Duration: 5.040 seconds
+Text: We would like to give a special thanks to these businesses for allowing our volunteers to pass out
+--------------------------------------------------
+City Clerk:
+Start: 00:06:03.920
+End: 00:06:09.600
+Duration: 5.680 seconds
+Text: poppies in front of their stores. Also, a special thanks to our volunteers and to all of you for
+--------------------------------------------------
+City Clerk:
+Start: 00:06:09.600
+End: 00:06:12.080
+Duration: 2.480 seconds
+Text: your continued support and have a good evening.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:12.080
+End: 00:06:26.240
+Duration: 14.160 seconds
+Text: Okay, Ron, you got to finish. So that's what's going on.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:06:31.440
+End: 00:06:37.840
+Duration: 6.400 seconds
+Text: Ron, you've been here a few years so they decided to do a proclamation for you.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:06:38.320
+End: 00:06:41.600
+Duration: 3.280 seconds
+Text: This is the first one I've ever read that's two pages.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:41.600
+End: 00:06:42.320
+Duration: 0.720 seconds
+Text: Oh, that's right.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:42.320
+End: 00:06:46.320
+Duration: 4.000 seconds
+Text: Because of the amount of time that I thought maybe we were a filibuster.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:06:46.320
+End: 00:06:54.400
+Duration: 8.080 seconds
+Text: So that Ron has been here. But here's the proclamation. Ron was raised in Harrington, Kansas,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:06:54.400
+End: 00:07:01.200
+Duration: 6.800 seconds
+Text: graduated from the University of Missouri with a batch of science and forestry on May 9, 1981,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:07:01.200
+End: 00:07:06.800
+Duration: 5.600 seconds
+Text: and Kansas State University with a master's and published administration on December 5, 1990.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:07:07.520
+End: 00:07:12.240
+Duration: 4.720 seconds
+Text: Ron began his career with the City of Manhattan on January 11, 1982,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:07:12.240
+End: 00:07:17.680
+Duration: 5.440 seconds
+Text: in the newly formed Parks and Recreation Department as the forestry and park supervisor
+--------------------------------------------------
+Mayor Butler:
+Start: 00:07:17.680
+End: 00:07:23.920
+Duration: 6.240 seconds
+Text: was promoted to administrative assistant in 1985 and then promoted to assistant director of
+--------------------------------------------------
+Mayor Butler:
+Start: 00:07:23.920
+End: 00:07:31.200
+Duration: 7.280 seconds
+Text: Parks and Rec from January 86 to 1992. And then he was promoted to assistant city manager on
+--------------------------------------------------
+Mayor Butler:
+Start: 00:07:31.200
+End: 00:07:38.240
+Duration: 7.040 seconds
+Text: December 6, 1992 and served in various capacities including his acting zoo director,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:07:38.240
+End: 00:07:45.680
+Duration: 7.440 seconds
+Text: acting director of human resources, acting director of utilities twice, served as interim city manager
+--------------------------------------------------
+Mayor Butler:
+Start: 00:07:45.680
+End: 00:07:57.200
+Duration: 11.520 seconds
+Text: from April 26, 1995 to November 22, 1995. And again from December 24, 1999 to April 18, 2000 when
+--------------------------------------------------
+Mayor Butler:
+Start: 00:07:57.200
+End: 00:08:04.080
+Duration: 6.880 seconds
+Text: he was appointed Manhattan's eighth city manager. Over the course of Ron's career, he has served as
+--------------------------------------------------
+Mayor Butler:
+Start: 00:08:04.080
+End: 00:08:10.160
+Duration: 6.080 seconds
+Text: an ex officio member of the Manhattan area chamber of commerce board of directors, served on the local
+--------------------------------------------------
+Mayor Butler:
+Start: 00:08:10.160
+End: 00:08:16.400
+Duration: 6.240 seconds
+Text: economic development boards and committees, served on the board of directors for innovative partners,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:08:16.400
+End: 00:08:20.400
+Duration: 4.000 seconds
+Text: served as a member of the board of directors for the knowledge-based economic development,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:08:21.600
+End: 00:08:26.240
+Duration: 4.640 seconds
+Text: served as past president and charter member of the Manhattan Conzo Rotary Club,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:08:26.240
+End: 00:08:31.360
+Duration: 5.120 seconds
+Text: and was the 210 Rotarian of the Year. He served on the board of governors for the Fort Riley
+--------------------------------------------------
+Mayor Butler:
+Start: 00:08:31.360
+End: 00:08:36.960
+Duration: 5.600 seconds
+Text: chapter of the associate United States Army, was a former member and former chair of the board
+--------------------------------------------------
+Mayor Butler:
+Start: 00:08:36.960
+End: 00:08:42.560
+Duration: 5.600 seconds
+Text: of directors for the Flint Hills bread basket partnered with Fort Riley and Kansas State University
+--------------------------------------------------
+Mayor Butler:
+Start: 00:08:42.560
+End: 00:08:48.720
+Duration: 6.160 seconds
+Text: and served on the Manhattan area recovery task force during COVID-19. Ron's involvement is a
+--------------------------------------------------
+Mayor Butler:
+Start: 00:08:48.720
+End: 00:08:53.920
+Duration: 5.200 seconds
+Text: founding representative of the Flint Hills Regional Leadership Program where he currently serves
+--------------------------------------------------
+Mayor Butler:
+Start: 00:08:53.920
+End: 00:09:00.480
+Duration: 6.560 seconds
+Text: on the board of trustees and was a 1995 graduate of the program highlights his commitment to
+--------------------------------------------------
+Mayor Butler:
+Start: 00:09:00.480
+End: 00:09:08.000
+Duration: 7.520 seconds
+Text: professional development and community engagement. On February 9, 2024, Ron received the 2023
+--------------------------------------------------
+Mayor Butler:
+Start: 00:09:08.000
+End: 00:09:13.040
+Duration: 5.040 seconds
+Text: Blue Fisher Citizen of the Year award at the Manhattan area chamber of commerce annual meeting
+--------------------------------------------------
+Mayor Butler:
+Start: 00:09:13.040
+End: 00:09:19.360
+Duration: 6.320 seconds
+Text: and was a 1997 graduate of leadership Kansas. Ron has been a member and served on the board of
+--------------------------------------------------
+Mayor Butler:
+Start: 00:09:19.360
+End: 00:09:24.960
+Duration: 5.600 seconds
+Text: trustees for the Kansas Association of City County Management, a member of the National League of
+--------------------------------------------------
+Mayor Butler:
+Start: 00:09:24.960
+End: 00:09:31.440
+Duration: 6.480 seconds
+Text: Cities, International City County Management Association, and a member of the Kansas Recreation
+--------------------------------------------------
+Mayor Butler:
+Start: 00:09:31.440
+End: 00:09:38.720
+Duration: 7.280 seconds
+Text: and Park Association from 1992 to 93. In recognition of his outstanding contributions
+--------------------------------------------------
+Mayor Butler:
+Start: 00:09:38.720
+End: 00:09:44.960
+Duration: 6.240 seconds
+Text: to public management, Ron was honored with the prestigious Buford W. Watson Junior Award for
+--------------------------------------------------
+Mayor Butler:
+Start: 00:09:44.960
+End: 00:09:51.680
+Duration: 6.720 seconds
+Text: Excellence in Public Management in 2014. This award, the highest offered by the Kansas Association
+--------------------------------------------------
+Mayor Butler:
+Start: 00:09:51.680
+End: 00:09:57.040
+Duration: 5.360 seconds
+Text: of City County Management, underscored his commitment to excellence and innovation in public
+--------------------------------------------------
+Mayor Butler:
+Start: 00:09:57.040
+End: 00:10:05.040
+Duration: 8.000 seconds
+Text: service. Whereas Ron received career recognition award at the KACM annual conference, this award is
+--------------------------------------------------
+Mayor Butler:
+Start: 00:10:05.040
+End: 00:10:10.720
+Duration: 5.680 seconds
+Text: intended to recognize those professional local government managers and administrators who are retiring
+--------------------------------------------------
+Mayor Butler:
+Start: 00:10:10.720
+End: 00:10:16.720
+Duration: 6.000 seconds
+Text: from the profession. During Ron's tenure as city manager, several highlights include being part
+--------------------------------------------------
+Mayor Butler:
+Start: 00:10:16.720
+End: 00:10:23.440
+Duration: 6.720 seconds
+Text: of the team and recruitment of the National Bioagro Defense Facility Hembath, two Manhattan,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:10:24.320
+End: 00:10:30.560
+Duration: 6.240 seconds
+Text: an initial downsizing and then regrowth of Fort Riley and return for the first Infantry Division,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:10:30.560
+End: 00:10:35.840
+Duration: 5.280 seconds
+Text: enhancement of air service, the expansion of the airport terminal, and reconstruction of the
+--------------------------------------------------
+Mayor Butler:
+Start: 00:10:35.840
+End: 00:10:41.280
+Duration: 5.440 seconds
+Text: airport runway, development of the North South End redevelopment and the Starbon project,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:10:41.280
+End: 00:10:46.800
+Duration: 5.520 seconds
+Text: building of the Flint Hills Discovery Center, three recreation center, the Robert Coyote Joint
+--------------------------------------------------
+Mayor Butler:
+Start: 00:10:46.800
+End: 00:10:52.480
+Duration: 5.680 seconds
+Text: Maintenance Facility, and the Aggieville and Downtown Parking Garages. Significant infrastructure
+--------------------------------------------------
+Mayor Butler:
+Start: 00:10:52.480
+End: 00:11:00.080
+Duration: 7.600 seconds
+Text: projects, including the North Campus Quarter, expanded parks, replacement of three city pools,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:11:00.320
+End: 00:11:06.160
+Duration: 5.840 seconds
+Text: a leadership responding to flood issues and making improvements to the city's levy system,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:11:06.160
+End: 00:11:11.600
+Duration: 5.440 seconds
+Text: the adoption of the city's first strategic plan, the initiated the city commission and major
+--------------------------------------------------
+Mayor Butler:
+Start: 00:11:11.600
+End: 00:11:21.200
+Duration: 9.600 seconds
+Text: orientation, and led the city through the 2011, 2013, 18, and 19 floods, Y2K, and COVID-19.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:11:22.400
+End: 00:11:27.520
+Duration: 5.120 seconds
+Text: A city manager, Ron, has attended approximately 730 legislative commission meetings,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:11:28.080
+End: 00:11:35.520
+Duration: 7.440 seconds
+Text: 730 commission work sessions, 31 commission retreats, 305 intergovernmental lunches,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:11:36.240
+End: 00:11:43.840
+Duration: 7.600 seconds
+Text: 22 legislative breakfasts, 122 joint city, Manhattan, Riley County, Pot County meetings,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:11:43.840
+End: 00:11:49.760
+Duration: 5.920 seconds
+Text: numerous other joint meetings with community and regional partners, and worked with 31 commissioners,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:11:50.720
+End: 00:11:57.520
+Duration: 6.800 seconds
+Text: and 27 mayors since 1992. Now therefore, I win Butler, Mayor of the City of Manhattan,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:11:57.520
+End: 00:12:05.600
+Duration: 8.080 seconds
+Text: Kansas, to her by proclaim April 18th, 2024, as Ron here today. In Manhattan, Kansas,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:12:05.600
+End: 00:12:10.880
+Duration: 5.280 seconds
+Text: and recognition of the many achievements, and on behalf of the city commission, the city employees,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:12:10.880
+End: 00:12:16.800
+Duration: 5.920 seconds
+Text: and the citizens of Manhattan, and expressing our gratitude and appreciation for as many years
+--------------------------------------------------
+Mayor Butler:
+Start: 00:12:16.800
+End: 00:12:23.360
+Duration: 6.560 seconds
+Text: of loyal and exemplary service to the community, and wish him continued success and happiness as he
+--------------------------------------------------
+Mayor Butler:
+Start: 00:12:23.360
+End: 00:12:28.800
+Duration: 5.440 seconds
+Text: retires. Now it's my pleasure to do this. 27th Mayors, that's fine.
+--------------------------------------------------
+City Clerk:
+Start: 00:12:28.800
+End: 00:12:38.800
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:12:48.800
+End: 00:12:56.400
+Duration: 7.600 seconds
+Text: Well, thank you, Mayor Butler, and what a humbling experience. It's hard to believe how
+--------------------------------------------------
+City Clerk:
+Start: 00:12:57.360
+End: 00:13:09.200
+Duration: 11.840 seconds
+Text: time flies, mostly when you're having fun, but I just appreciate the support and the
+--------------------------------------------------
+City Clerk:
+Start: 00:13:11.120
+End: 00:13:17.600
+Duration: 6.480 seconds
+Text: work of the commissioners, the Karen was on the commission when I got the permanent job, and so
+--------------------------------------------------
+City Clerk:
+Start: 00:13:18.400
+End: 00:13:24.400
+Duration: 6.000 seconds
+Text: I just appreciate past and current commissioners that have entrusted me and our team
+--------------------------------------------------
+City Clerk:
+Start: 00:13:25.280
+End: 00:13:34.000
+Duration: 8.720 seconds
+Text: to be able to lead and facilitate improvements in the community. And it's been a very humbling
+--------------------------------------------------
+City Clerk:
+Start: 00:13:34.000
+End: 00:13:45.360
+Duration: 11.360 seconds
+Text: experience. Karen tracked down some past mayors and had a call yesterday with former Mayor Helen Cooper,
+--------------------------------------------------
+City Clerk:
+Start: 00:13:46.640
+End: 00:13:53.680
+Duration: 7.040 seconds
+Text: who just turned 90 a little bit ago. She's still going strong, sharp as a tack,
+--------------------------------------------------
+City Clerk:
+Start: 00:13:53.680
+End: 00:14:01.680
+Duration: 8.000 seconds
+Text: goes to a personal trainer once a week, and so reminded me about, but she still thought that the
+--------------------------------------------------
+City Clerk:
+Start: 00:14:05.280
+End: 00:14:13.120
+Duration: 7.840 seconds
+Text: blockbuster video poll sign was too big for that story, during her term on the commission. But
+--------------------------------------------------
+City Clerk:
+Start: 00:14:14.080
+End: 00:14:19.280
+Duration: 5.200 seconds
+Text: you know, one of the things that's been so rewarding is just the opportunity to
+--------------------------------------------------
+City Clerk:
+Start: 00:14:19.920
+End: 00:14:28.960
+Duration: 9.040 seconds
+Text: build relationships with everyone and all of those commissioners. So it's been a great opportunity,
+--------------------------------------------------
+City Clerk:
+Start: 00:14:28.960
+End: 00:14:38.080
+Duration: 9.120 seconds
+Text: and the support of my family, my wife Renee back there, my sister Cindy, and we just appreciate
+--------------------------------------------------
+City Clerk:
+Start: 00:14:39.280
+End: 00:14:45.040
+Duration: 5.760 seconds
+Text: all that you've done for us, and we're ready to move into that next chapter in our journey. So
+--------------------------------------------------
+City Clerk:
+Start: 00:14:45.120
+End: 00:14:47.120
+Duration: 2.000 seconds
+Text: thank you so much.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:14:53.760
+End: 00:14:55.360
+Duration: 1.600 seconds
+Text: Okay, now you get to go back to work, Ron.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:15:02.560
+End: 00:15:08.080
+Duration: 5.520 seconds
+Text: Okay, the next item on the agenda is public comments, and no one signed up in advance. If
+--------------------------------------------------
+Mayor Butler:
+Start: 00:15:08.080
+End: 00:15:13.520
+Duration: 5.440 seconds
+Text: everyone wishes, anyone wishes to come forward and make a public comment on any item not on the
+--------------------------------------------------
+Mayor Butler:
+Start: 00:15:13.520
+End: 00:15:18.640
+Duration: 5.120 seconds
+Text: agenda tonight, you can feel free to do so. Please state your name and your full address,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:15:18.640
+End: 00:15:22.720
+Duration: 4.080 seconds
+Text: and you have up to five minutes. Is there anyone that wishes to make public comment?
+--------------------------------------------------
+Mayor Butler:
+Start: 00:15:25.840
+End: 00:15:31.280
+Duration: 5.440 seconds
+Text: Okay, seeing none, we'll close public comments, and move on to the next item, which is Commissioner
+--------------------------------------------------
+City Clerk:
+Start: 00:15:31.280
+End: 00:15:39.360
+Duration: 8.080 seconds
+Text: comments, Commissioner Mata. Yes, I'd just like to give a shout out to Dr. Mark Hattisol. He's a
+--------------------------------------------------
+City Clerk:
+Start: 00:15:39.360
+End: 00:15:46.160
+Duration: 6.800 seconds
+Text: chiropractor here in town, and on Friday, he celebrated his 40-year anniversary in practice here in
+--------------------------------------------------
+City Clerk:
+Start: 00:15:46.160
+End: 00:15:53.360
+Duration: 7.200 seconds
+Text: Manhattan. Mark's former two-time mayor on the commission for about 10 years, over two different
+--------------------------------------------------
+City Clerk:
+Start: 00:15:53.360
+End: 00:16:00.240
+Duration: 6.880 seconds
+Text: stints has been on many community boards, professional associations, boards, and it's now it's folks like
+--------------------------------------------------
+City Clerk:
+Start: 00:16:00.240
+End: 00:16:05.120
+Duration: 4.880 seconds
+Text: Mark and their dedication to the community that make Manhattan a special place. So I just want to
+--------------------------------------------------
+City Clerk:
+Start: 00:16:05.120
+End: 00:16:12.480
+Duration: 7.360 seconds
+Text: say thanks and congrats to Mark. Another shout out to our outgoing city manager, Ron Faire.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:12.480
+End: 00:16:15.120
+Duration: 2.640 seconds
+Text: This is kind of nice because I don't want to say a lot of things because when just for
+--------------------------------------------------
+City Clerk:
+Start: 00:16:15.120
+End: 00:16:20.960
+Duration: 5.840 seconds
+Text: it off two pages about all the great stuff that you've done, but I just want to say personally,
+--------------------------------------------------
+City Clerk:
+Start: 00:16:20.960
+End: 00:16:27.120
+Duration: 6.160 seconds
+Text: I've enjoyed working with you over two kind of different stints on the city commission.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:28.240
+End: 00:16:33.680
+Duration: 5.440 seconds
+Text: Really want to thank you for your professional and personal dedication to the city,
+--------------------------------------------------
+City Clerk:
+Start: 00:16:33.680
+End: 00:16:40.960
+Duration: 7.280 seconds
+Text: and truly say Manhattan wouldn't be where it's at today if it wasn't for you. And just congratulations
+--------------------------------------------------
+City Clerk:
+Start: 00:16:40.960
+End: 00:16:50.880
+Duration: 9.920 seconds
+Text: and have fun and retirement. Thanks Ron. Yeah, so over the weekend, Susan Keren and I attended
+--------------------------------------------------
+City Clerk:
+Start: 00:16:51.440
+End: 00:16:58.640
+Duration: 7.200 seconds
+Text: the Kansas League of Municipalities, local leaders academy, I think is what is called.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:59.040
+End: 00:17:05.920
+Duration: 6.880 seconds
+Text: Had a lot of great information, some good breakout sessions and stuff like that, but one of the
+--------------------------------------------------
+City Clerk:
+Start: 00:17:05.920
+End: 00:17:11.120
+Duration: 5.200 seconds
+Text: things I found most valuable was getting to chat with other leaders from communities around the
+--------------------------------------------------
+City Clerk:
+Start: 00:17:11.120
+End: 00:17:18.960
+Duration: 7.840 seconds
+Text: state. Big and small, and everybody has some of their own unique challenges, but I really
+--------------------------------------------------
+City Clerk:
+Start: 00:17:19.680
+End: 00:17:24.320
+Duration: 4.640 seconds
+Text: kind of found it refreshing that there were so many people that had similar challenges that we're
+--------------------------------------------------
+City Clerk:
+Start: 00:17:24.320
+End: 00:17:30.080
+Duration: 5.760 seconds
+Text: dealing with. You know, kind of helped you feel like you're not alone. And then Ron, I haven't
+--------------------------------------------------
+City Clerk:
+Start: 00:17:30.080
+End: 00:17:36.400
+Duration: 6.320 seconds
+Text: worked with you for a whole lot of time, but you really did make transitioning into this job very easy.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:37.760
+End: 00:17:45.680
+Duration: 7.920 seconds
+Text: I appreciate all of the advice that you've given so far, and hope you stick around because I'm
+--------------------------------------------------
+City Clerk:
+Start: 00:17:45.680
+End: 00:17:52.160
+Duration: 6.480 seconds
+Text: sure there's going to be a lot more, you can give advice much more freely once you're retired.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:54.640
+End: 00:18:00.080
+Duration: 5.440 seconds
+Text: Thank you very much for all your service. Thank you. I just wanted to say, for ID Night, the Discovery
+--------------------------------------------------
+City Clerk:
+Start: 00:18:00.080
+End: 00:18:06.640
+Duration: 6.560 seconds
+Text: Center had their annual awards and it was Dave Kendall, and he has a new, he's been, you may have
+--------------------------------------------------
+City Clerk:
+Start: 00:18:06.640
+End: 00:18:13.760
+Duration: 7.120 seconds
+Text: seen him on Sunflower Journeys for 25 years on VBS. He has a new documentary out called Hot in
+--------------------------------------------------
+City Clerk:
+Start: 00:18:13.760
+End: 00:18:20.400
+Duration: 6.640 seconds
+Text: the Heartlands, which talks about climate control, but his past one that I found really interesting
+--------------------------------------------------
+City Clerk:
+Start: 00:18:20.400
+End: 00:18:25.760
+Duration: 5.360 seconds
+Text: is on the Santa Fe Trail, and it's really exceptional. The Hot in the Heartlands is going to be
+--------------------------------------------------
+City Clerk:
+Start: 00:18:25.760
+End: 00:18:31.680
+Duration: 5.920 seconds
+Text: shown at K-State, not on a win, and I think also maybe at the where I'm going to not sure. And of
+--------------------------------------------------
+City Clerk:
+Start: 00:18:31.680
+End: 00:18:39.840
+Duration: 8.160 seconds
+Text: course, I have to say goodbye, which is very hard. I would just say that when Ron came into the picture as
+--------------------------------------------------
+City Clerk:
+Start: 00:18:39.840
+End: 00:18:48.640
+Duration: 8.800 seconds
+Text: manager, our present city manager had resigned, which was quite a surprise to all of us in that we
+--------------------------------------------------
+City Clerk:
+Start: 00:18:48.640
+End: 00:18:55.680
+Duration: 7.040 seconds
+Text: allowed an hour in our executive session to discuss the things we were not too happy about,
+--------------------------------------------------
+City Clerk:
+Start: 00:18:56.240
+End: 00:19:01.200
+Duration: 4.960 seconds
+Text: and then one minute into it, he resigned. So we had 59 minutes of looking at each other,
+--------------------------------------------------
+City Clerk:
+Start: 00:19:01.200
+End: 00:19:07.120
+Duration: 5.920 seconds
+Text: but Ron took the job and he did seamlessly, and it's been a delight to work with him. We haven't
+--------------------------------------------------
+Brittany Nolan:
+Start: 00:19:07.120
+End: 00:19:15.840
+Duration: 8.720 seconds
+Text: always agreed, but we've always agreed to agree. I would just echo Peter's comments that it was
+--------------------------------------------------
+Brittany Nolan:
+Start: 00:19:16.320
+End: 00:19:22.560
+Duration: 6.240 seconds
+Text: very interesting opportunity to attend the conference, was great having it here in Manhattan.
+--------------------------------------------------
+Brittany Nolan:
+Start: 00:19:23.760
+End: 00:19:29.920
+Duration: 6.160 seconds
+Text: Mayor Butler gave the opening remarks welcoming people to our community. And as Peter said,
+--------------------------------------------------
+Brittany Nolan:
+Start: 00:19:29.920
+End: 00:19:36.320
+Duration: 6.400 seconds
+Text: I know we haven't worked together for very long, but I appreciate you're visiting with me
+--------------------------------------------------
+Brittany Nolan:
+Start: 00:19:36.320
+End: 00:19:44.560
+Duration: 8.240 seconds
+Text: last summer while I was campaigning, and the ease with which you have helped us to transition to
+--------------------------------------------------
+Brittany Nolan:
+Start: 00:19:44.560
+End: 00:19:51.200
+Duration: 6.640 seconds
+Text: this role. I wish you a much good fortune and relaxation in your retirement.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:19:53.920
+End: 00:19:57.760
+Duration: 3.840 seconds
+Text: And I can echo that, Ron. I guess I've worked about 13 years, I've been here a while,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:19:58.320
+End: 00:20:01.840
+Duration: 3.520 seconds
+Text: so that's the only city manager of a work with, so it's going to be a real challenge in the next
+--------------------------------------------------
+Mayor Butler:
+Start: 00:20:01.840
+End: 00:20:07.280
+Duration: 5.440 seconds
+Text: two years. He'd get the replacement in there and see what basically happens. I want to highlight
+--------------------------------------------------
+Mayor Butler:
+Start: 00:20:08.080
+End: 00:20:13.040
+Duration: 4.960 seconds
+Text: the fact that Monday is Go Green Match Day, so those of you out there that want to support that,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:20:13.040
+End: 00:20:18.400
+Duration: 5.360 seconds
+Text: there's over probably 100 organizations that are there, feel free to get out your wallet and
+--------------------------------------------------
+Mayor Butler:
+Start: 00:20:18.400
+End: 00:20:23.040
+Duration: 4.640 seconds
+Text: contribute a few dollars, and it doesn't have to be huge amounts. A lot of small amounts make a
+--------------------------------------------------
+Mayor Butler:
+Start: 00:20:23.040
+End: 00:20:28.720
+Duration: 5.680 seconds
+Text: big difference to the Greater Manhattan Community Foundation, so if you can donate $5, $10 to the
+--------------------------------------------------
+Mayor Butler:
+Start: 00:20:28.720
+End: 00:20:34.640
+Duration: 5.920 seconds
+Text: organization of your choice, please do so because the foundation has been doing excellent work
+--------------------------------------------------
+Mayor Butler:
+Start: 00:20:34.720
+End: 00:20:43.840
+Duration: 9.120 seconds
+Text: for the city. Okay, we'll move on to the next item, which is the Consent Agenda.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:20:43.840
+End: 00:20:48.720
+Duration: 4.880 seconds
+Text: Items on the Consent Agenda are those of a routine and housekeeping nature, or those items that
+--------------------------------------------------
+Mayor Butler:
+Start: 00:20:48.720
+End: 00:20:53.440
+Duration: 4.720 seconds
+Text: have previously been reviewed by the City Commission, and may be approved in one motion.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:20:54.720
+End: 00:20:59.920
+Duration: 5.200 seconds
+Text: The Commissioner may request an item be removed for separate discussion and consideration
+--------------------------------------------------
+Mayor Butler:
+Start: 00:20:59.920
+End: 00:21:04.880
+Duration: 4.960 seconds
+Text: immediately following the Consent Agenda. Comments from the public related to any item on the
+--------------------------------------------------
+Mayor Butler:
+Start: 00:21:04.880
+End: 00:21:10.160
+Duration: 5.280 seconds
+Text: Consent Agenda to the City Commission is allowed. Each person will be limited to one speaking
+--------------------------------------------------
+Mayor Butler:
+Start: 00:21:10.160
+End: 00:21:16.400
+Duration: 6.240 seconds
+Text: opportunity for up to five minutes. So we'll start with commissioners. Do you have any items you
+--------------------------------------------------
+Mayor Butler:
+Start: 00:21:16.400
+End: 00:21:21.520
+Duration: 5.120 seconds
+Text: want to pull off of here or make comments on? John? I'd like to look at G2.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:21:25.120
+End: 00:21:28.080
+Duration: 2.960 seconds
+Text: Okay, B2 claims registered. Do you want to pull that off of there?
+--------------------------------------------------
+City Clerk:
+Start: 00:21:28.080
+End: 00:21:32.160
+Duration: 4.080 seconds
+Text: No, I just want to ask a question about it. Okay, go for it. Okay, I just would like to know
+--------------------------------------------------
+City Clerk:
+Start: 00:21:32.160
+End: 00:21:39.200
+Duration: 7.040 seconds
+Text: the fiscal note on the Douglas Recreation Center bonds that we're doing. How much is that?
+--------------------------------------------------
+City Clerk:
+Start: 00:21:40.000
+End: 00:21:46.480
+Duration: 6.480 seconds
+Text: Or are they? Excuse me, I'll bring that up.
+--------------------------------------------------
+City Clerk:
+Start: 00:21:46.480
+End: 00:21:55.040
+Duration: 8.560 seconds
+Text: They are Commissioner 4,740,000.
+--------------------------------------------------
+City Clerk:
+Start: 00:21:55.040
+End: 00:21:58.560
+Duration: 3.520 seconds
+Text: 4,740,000.
+--------------------------------------------------
+City Clerk:
+Start: 00:21:58.560
+End: 00:22:05.520
+Duration: 6.960 seconds
+Text: Of course, the bond amount, then we had just over 5,000,000 tip notes which were moving off the ledger.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:06.400
+End: 00:22:08.880
+Duration: 2.480 seconds
+Text: The Douglas Center is... Why is that?
+--------------------------------------------------
+City Clerk:
+Start: 00:22:08.880
+End: 00:22:13.280
+Duration: 4.400 seconds
+Text: Self is that much? 4,740. Okay, thank you.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:22:14.880
+End: 00:22:19.040
+Duration: 4.160 seconds
+Text: Yeah, the Douglas Center was not included in the sales tax initiative.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:22:19.040
+End: 00:22:23.040
+Duration: 4.000 seconds
+Text: Yeah, I know. We were going to try to fund it another way and it sort of fell through.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:23.040
+End: 00:22:29.200
+Duration: 6.160 seconds
+Text: I thought though the initial thing when we were trying to do the use the community development
+--------------------------------------------------
+City Clerk:
+Start: 00:22:29.200
+End: 00:22:34.880
+Duration: 5.680 seconds
+Text: grant money was more like a million, not four million. It started off about three, five,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:22:34.880
+End: 00:22:41.120
+Duration: 6.240 seconds
+Text: as I remember. And then what happened was we had mission creep, the project group, into a bigger
+--------------------------------------------------
+Mayor Butler:
+Start: 00:22:41.120
+End: 00:22:46.560
+Duration: 5.440 seconds
+Text: building than what was originally designed. And part of that was driven by the rec centers because
+--------------------------------------------------
+Mayor Butler:
+Start: 00:22:46.560
+End: 00:22:51.840
+Duration: 5.280 seconds
+Text: we had a walking track above those and the original Douglas Center didn't have an elevated one.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:22:52.480
+End: 00:22:56.400
+Duration: 3.920 seconds
+Text: And so they made some adjustments and this is what fell out? Okay.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:22:57.040
+End: 00:23:05.200
+Duration: 8.160 seconds
+Text: Okay. Okay, I don't have anything. Is there any public comment on any item on the consent agenda?
+--------------------------------------------------
+Mayor Butler:
+Start: 00:23:07.760
+End: 00:23:14.080
+Duration: 6.320 seconds
+Text: Okay, seeing none, we'll close public comment. I guess we can entertain a motion.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:23:16.800
+End: 00:23:23.440
+Duration: 6.640 seconds
+Text: I move to approve the consent agenda. Second, do we have a motion in a second? City Clerk,
+--------------------------------------------------
+City Clerk:
+Start: 00:23:23.440
+End: 00:23:28.400
+Duration: 4.960 seconds
+Text: can you please call the roll? Commissioner Adam check. Yes. Commissioner Cola. Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:23:28.400
+End: 00:23:35.120
+Duration: 6.720 seconds
+Text: Commissioner O'Palt. Yes. Commissioner Mata. Yes. Mayor Butler. Yes. Motion carries, five to zero.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:23:36.000
+End: 00:23:41.600
+Duration: 5.600 seconds
+Text: Okay, then we'll move on to the general agenda. And again, anyone in the public will have an
+--------------------------------------------------
+Mayor Butler:
+Start: 00:23:41.600
+End: 00:23:48.800
+Duration: 7.200 seconds
+Text: opportunity to speak for up to five minutes on each item on the consent agenda. Item A is
+--------------------------------------------------
+Mayor Butler:
+Start: 00:23:48.800
+End: 00:23:55.520
+Duration: 6.720 seconds
+Text: consider rezoning lots in Lee Mill Heights, Bellevue Edition and Grand Champions Development
+--------------------------------------------------
+Mayor Butler:
+Start: 00:23:55.520
+End: 00:24:03.520
+Duration: 8.000 seconds
+Text: from RH high density residential district to RLA low density residential attached district.
+--------------------------------------------------
+City Manager:
+Start: 00:24:06.480
+End: 00:24:10.240
+Duration: 3.760 seconds
+Text: Good evening, commissioners. My name is Ben Chameel, senior planner in the community development.
+--------------------------------------------------
+City Manager:
+Start: 00:24:11.840
+End: 00:24:16.080
+Duration: 4.240 seconds
+Text: Like the mayor said, we're looking at consideration of rezoning of 42 single family lots
+--------------------------------------------------
+City Manager:
+Start: 00:24:16.880
+End: 00:24:26.720
+Duration: 9.840 seconds
+Text: from RH RLA. There are three areas that we're looking at for these rezonings, one in the Miller Parkway
+--------------------------------------------------
+City Manager:
+Start: 00:24:26.720
+End: 00:24:36.640
+Duration: 9.920 seconds
+Text: area and then two along the Grand Mirror Parkway area on the west side of town. More specifically,
+--------------------------------------------------
+City Manager:
+Start: 00:24:36.640
+End: 00:24:44.640
+Duration: 8.000 seconds
+Text: we're looking at 12 lots on Lesnar Circle and along Miller Parkway going again from RH RLA.
+--------------------------------------------------
+City Manager:
+Start: 00:24:46.080
+End: 00:24:54.240
+Duration: 8.160 seconds
+Text: And then 22 lots, 22 select lots along Bellevue Drive from RH to RLA and eight lots on
+--------------------------------------------------
+City Manager:
+Start: 00:24:54.240
+End: 00:25:00.800
+Duration: 6.560 seconds
+Text: champion circle from RH to RLA. Those are all high density residential zone districts to load
+--------------------------------------------------
+City Manager:
+Start: 00:25:00.800
+End: 00:25:06.800
+Duration: 6.000 seconds
+Text: residential zoning districts with attached units as a permitted use.
+--------------------------------------------------
+City Manager:
+Start: 00:25:09.280
+End: 00:25:14.320
+Duration: 5.040 seconds
+Text: This was reviewed by the planning board. They look at several criteria when it comes to rezonings,
+--------------------------------------------------
+City Manager:
+Start: 00:25:15.040
+End: 00:25:21.920
+Duration: 6.880 seconds
+Text: future land use map for this area is one of those. It shows various densities for these areas
+--------------------------------------------------
+City Manager:
+Start: 00:25:21.920
+End: 00:25:26.720
+Duration: 4.800 seconds
+Text: ranging from low to medium and then medium to high density residential. It's important to note
+--------------------------------------------------
+City Manager:
+Start: 00:25:26.720
+End: 00:25:35.760
+Duration: 9.040 seconds
+Text: this is not a change in character. This whole, all of these lots being considered for rezoning
+--------------------------------------------------
+City Manager:
+Start: 00:25:35.760
+End: 00:25:43.760
+Duration: 8.000 seconds
+Text: really stems from an issue that was discovered a few a couple of months ago when the MDC was first
+--------------------------------------------------
+City Manager:
+Start: 00:25:43.760
+End: 00:25:51.680
+Duration: 7.920 seconds
+Text: adopted in 2022. The RH district, which was then the R3 district eliminated single family homes
+--------------------------------------------------
+City Manager:
+Start: 00:25:51.680
+End: 00:26:00.000
+Duration: 8.320 seconds
+Text: as a permitted use in order to increase the density for those zoning districts as they are designed
+--------------------------------------------------
+City Manager:
+Start: 00:26:00.000
+End: 00:26:07.280
+Duration: 7.280 seconds
+Text: to. And there were, these areas were discovered to have been developed as only single family homes
+--------------------------------------------------
+City Manager:
+Start: 00:26:08.000
+End: 00:26:14.240
+Duration: 6.240 seconds
+Text: meaning that they were essentially rendered non-conforming, which can create issues for those
+--------------------------------------------------
+City Manager:
+Start: 00:26:14.240
+End: 00:26:19.680
+Duration: 5.440 seconds
+Text: single family homeowners that they're looking to do any renovation work. And most drastically if
+--------------------------------------------------
+City Manager:
+Start: 00:26:19.680
+End: 00:26:26.560
+Duration: 6.880 seconds
+Text: their home is damaged or destroyed beyond 50% in some sort of catastrophe, they could not rebuild
+--------------------------------------------------
+City Manager:
+Start: 00:26:26.560
+End: 00:26:33.280
+Duration: 6.720 seconds
+Text: their home as it is today. So that was seen as problematic and to fix that issue, this rezoning
+--------------------------------------------------
+City Manager:
+Start: 00:26:33.280
+End: 00:26:40.640
+Duration: 7.360 seconds
+Text: is being proposed. This was again reviewed by the planning board at their March 28th, 2024 meeting.
+--------------------------------------------------
+City Manager:
+Start: 00:26:40.640
+End: 00:26:46.480
+Duration: 5.840 seconds
+Text: They recommended approval 7-0 and I will sand for any questions from the commission.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:26:51.600
+End: 00:26:57.200
+Duration: 5.600 seconds
+Text: Seems to make sense to me, you know, basically we're recognizing what what currently exists and
+--------------------------------------------------
+Mayor Butler:
+Start: 00:26:57.200
+End: 00:27:02.080
+Duration: 4.880 seconds
+Text: taking care of some possible legal issues later like you said the storm comes up for something like
+--------------------------------------------------
+City Clerk:
+Start: 00:27:02.080
+End: 00:27:08.480
+Duration: 6.400 seconds
+Text: that so makes all the sense in the world. I just want to be clear, RL, RLA that we're going to
+--------------------------------------------------
+City Clerk:
+Start: 00:27:09.120
+End: 00:27:15.520
+Duration: 6.400 seconds
+Text: still would allow for like a town home or something like that to be built in those lots, if you know
+--------------------------------------------------
+City Clerk:
+Start: 00:27:15.520
+End: 00:27:18.720
+Duration: 3.200 seconds
+Text: in the future or something were to ever be redeveloped or something like that.
+--------------------------------------------------
+City Manager:
+Start: 00:27:19.520
+End: 00:27:24.000
+Duration: 4.480 seconds
+Text: Correct, it would still allow some amount of additional density beyond single family.
+--------------------------------------------------
+City Manager:
+Start: 00:27:24.000
+End: 00:27:28.800
+Duration: 4.800 seconds
+Text: Okay, which is again more in line with the future land use map for those areas.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:27:32.800
+End: 00:27:36.560
+Duration: 3.760 seconds
+Text: Okay, if there's no other commissioner comments, we'll open it up to public comment.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:27:36.560
+End: 00:27:39.760
+Duration: 3.200 seconds
+Text: Is there anyone, the public that wishes to speak on this matter?
+--------------------------------------------------
+Mayor Butler:
+Start: 00:27:42.080
+End: 00:27:44.960
+Duration: 2.880 seconds
+Text: Okay, seeing none, we'll close public comment.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:27:46.000
+End: 00:27:49.040
+Duration: 3.040 seconds
+Text: And commissioners, any other comments or we can entertain a motion?
+--------------------------------------------------
+City Clerk:
+Start: 00:27:55.840
+End: 00:28:00.320
+Duration: 4.480 seconds
+Text: Yeah, I'll move to approve first reading of an ordinance rezoning 42 lots within
+--------------------------------------------------
+City Clerk:
+Start: 00:28:00.320
+End: 00:28:06.800
+Duration: 6.480 seconds
+Text: Lemail Heights, Bell, Bellerville, Edition, and Grand Champions Development Subhibitions from
+--------------------------------------------------
+City Clerk:
+Start: 00:28:06.800
+End: 00:28:12.320
+Duration: 5.520 seconds
+Text: RH, High Density Residential District to RLA, Low Density Residential Attached District,
+--------------------------------------------------
+City Clerk:
+Start: 00:28:12.320
+End: 00:28:17.440
+Duration: 5.120 seconds
+Text: based on findings in the staff report and recommendation by the Manhattan Urban Area Planning Board.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:28:17.440
+End: 00:28:21.760
+Duration: 4.320 seconds
+Text: Second. Okay, we have a motion in a second. City clerk, could you please call the roll?
+--------------------------------------------------
+City Clerk:
+Start: 00:28:22.560
+End: 00:28:26.400
+Duration: 3.840 seconds
+Text: Commissioner Raquela? Yes. Commissioner O'Pell? Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:28:26.400
+End: 00:28:29.520
+Duration: 3.120 seconds
+Text: Commissioner Mata? Yes. Mayor Butler? Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:28:29.520
+End: 00:28:33.840
+Duration: 4.320 seconds
+Text: Commissioner Adam Jack? Yes. Motion carries 5 to 0.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:28:34.560
+End: 00:28:42.400
+Duration: 7.840 seconds
+Text: Okay, then we'll move on to item B, which is consider candidate profile for recruitment of a city manager.
+--------------------------------------------------
+City Clerk:
+Start: 00:28:44.720
+End: 00:28:51.120
+Duration: 6.400 seconds
+Text: Good evening commissioners. We're joined by Lynn Barbosa from SGR online, just to walk through the
+--------------------------------------------------
+City Clerk:
+Start: 00:28:51.120
+End: 00:28:57.760
+Duration: 6.640 seconds
+Text: profile. This was shared with you Friday afternoon. After conducting all of the stakeholder interviews,
+--------------------------------------------------
+City Clerk:
+Start: 00:28:58.640
+End: 00:29:04.480
+Duration: 5.840 seconds
+Text: Lynn's ready to share what SGR has put together. Okay, welcome Lynn.
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:29:05.680
+End: 00:29:11.680
+Duration: 6.000 seconds
+Text: Thank you, good evening mayor commissioners. As Tannie mentioned, the position profile
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:29:11.680
+End: 00:29:22.240
+Duration: 10.560 seconds
+Text: is what I created based on approximately 35 stakeholder interviews that includes elected officials,
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:29:22.880
+End: 00:29:29.440
+Duration: 6.560 seconds
+Text: department heads, city management staff, community partners, and the community partners were based on
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:29:29.440
+End: 00:29:36.400
+Duration: 6.960 seconds
+Text: the list provided by the city that included four people from the chamber, two people from K state,
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:29:37.120
+End: 00:29:47.920
+Duration: 10.800 seconds
+Text: technical college, K through 12, so a variety of stakeholders throughout the community.
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:29:48.960
+End: 00:29:56.080
+Duration: 7.120 seconds
+Text: The purpose of the position profile, as I think we've talked about at least briefly up to this
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:29:56.080
+End: 00:30:01.600
+Duration: 5.520 seconds
+Text: point, is not only for marketing and outreach, but really importantly for the evaluation of candidates,
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:30:02.560
+End: 00:30:09.440
+Duration: 6.880 seconds
+Text: as I start sourcing and speaking to prospective candidates and referral sources. So this is
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:30:11.120
+End: 00:30:16.400
+Duration: 5.280 seconds
+Text: you know sort of the art and science of recruiting where each city management searches different
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:30:17.680
+End: 00:30:24.000
+Duration: 6.320 seconds
+Text: and very much unique and specific to the community and what the current and future needs are.
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:30:24.080
+End: 00:30:30.960
+Duration: 6.880 seconds
+Text: And so that's the intent of the position profile that you would have had hopefully an
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:30:30.960
+End: 00:30:37.440
+Duration: 6.480 seconds
+Text: opportunity to review and it's broken out down into these different sections that cover
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:30:38.480
+End: 00:30:45.600
+Duration: 7.120 seconds
+Text: the community, the position, the department, the organization, the position priorities and the
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:30:45.600
+End: 00:30:54.320
+Duration: 8.720 seconds
+Text: ideal candidate characteristics. So let me stop there and kind of see if you did have an
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:30:54.320
+End: 00:31:01.440
+Duration: 7.120 seconds
+Text: opportunity to review and if there were any particular items that stood out or questions that
+--------------------------------------------------
+City Clerk:
+Start: 00:31:01.440
+End: 00:31:09.200
+Duration: 7.760 seconds
+Text: came to mind that I can answer for you. Yes I reviewed it. I did have one
+--------------------------------------------------
+City Clerk:
+Start: 00:31:09.840
+End: 00:31:19.840
+Duration: 10.000 seconds
+Text: thing that I kind of would like to challenge or say that I think we should change.
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:31:20.800
+End: 00:31:26.400
+Duration: 5.600 seconds
+Text: Okay, does that Commissioner Mata? Yes. Okay because my screen only shows the what's up on the
+--------------------------------------------------
+City Clerk:
+Start: 00:31:26.400
+End: 00:31:35.280
+Duration: 8.880 seconds
+Text: overhead. Okay. Okay. It's on page seven. Okay. I'm there.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:35.440
+End: 00:31:43.200
+Duration: 7.760 seconds
+Text: Under the first bullet point, financial transparency, it's the one to third sentence.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:44.240
+End: 00:31:50.640
+Duration: 6.400 seconds
+Text: Yes. After the first apostrophe it says evaluate and the possibility of reducing expenses through
+--------------------------------------------------
+City Clerk:
+Start: 00:31:50.640
+End: 00:31:58.800
+Duration: 8.160 seconds
+Text: efficiencies. I just think that's a rather passive or weak way to state what we're after there.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:59.680
+End: 00:32:06.560
+Duration: 6.880 seconds
+Text: Okay. I'd rather a simple change is just to say something like drive expense reductions
+--------------------------------------------------
+City Clerk:
+Start: 00:32:07.360
+End: 00:32:11.200
+Duration: 3.840 seconds
+Text: through efficiencies. Okay, got it. Right.
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:32:15.520
+End: 00:32:19.680
+Duration: 4.160 seconds
+Text: Yes, a little more empathic and clear about it. Thank you. Thanks.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:32:20.880
+End: 00:32:22.880
+Duration: 2.000 seconds
+Text: Good suggestion, John. I concur with that.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:32:22.880
+End: 00:32:35.520
+Duration: 12.640 seconds
+Text: Okay. Okay. All the commissioners happy with that change? Okay. All right, we've got consensus on
+--------------------------------------------------
+City Clerk:
+Start: 00:32:35.520
+End: 00:32:44.320
+Duration: 8.800 seconds
+Text: that. Thank you. Thank you. The only thing I had was when you discussed the board and how
+--------------------------------------------------
+City Clerk:
+Start: 00:32:44.320
+End: 00:32:50.400
+Duration: 6.080 seconds
+Text: they're elected and it said we elected three people this year was kind of unusual and I don't know
+--------------------------------------------------
+City Clerk:
+Start: 00:32:50.400
+End: 00:33:00.480
+Duration: 10.080 seconds
+Text: if you want to, you know, that's like on the second page maybe. Yeah, I kind of noticed that.
+--------------------------------------------------
+City Clerk:
+Start: 00:33:00.480
+End: 00:33:06.320
+Duration: 5.840 seconds
+Text: Yeah. I don't know if it says three of the five current were elected in. So it's because we had
+--------------------------------------------------
+City Clerk:
+Start: 00:33:07.360
+End: 00:33:15.600
+Duration: 8.240 seconds
+Text: built a vacancy, we had four of the five current commissioners were elected in 2020.
+--------------------------------------------------
+City Clerk:
+Start: 00:33:15.680
+End: 00:33:22.800
+Duration: 7.120 seconds
+Text: And I don't know if that just makes it too confusing or it's not a big deal. Okay, so
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:33:22.800
+End: 00:33:27.280
+Duration: 4.480 seconds
+Text: Commissioner McCullough, let me make sure I understand. So this is last paragraph, last sentence,
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:33:27.280
+End: 00:33:33.200
+Duration: 5.920 seconds
+Text: and paragraph two on page four inside City Hall. Yeah, three of the five current city commissioners
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:33:33.200
+End: 00:33:41.280
+Duration: 8.080 seconds
+Text: were elected in November 2023 and you and your feedback on that was that this was a unique year and it
+--------------------------------------------------
+City Clerk:
+Start: 00:33:41.280
+End: 00:33:48.640
+Duration: 7.360 seconds
+Text: might for for release. Yeah, for elected in 2023 because we were filling a vacancy which is very
+--------------------------------------------------
+City Clerk:
+Start: 00:33:48.640
+End: 00:33:57.440
+Duration: 8.800 seconds
+Text: unusual. Oh, God. And and so it sort of, you know, it's really just not that important that we're
+--------------------------------------------------
+City Clerk:
+Start: 00:33:57.440
+End: 00:34:04.000
+Duration: 6.560 seconds
+Text: for, but on the other hand, there were four instead of three. Yes. I wanted to be accurate. So I
+--------------------------------------------------
+City Clerk:
+Start: 00:34:04.000
+End: 00:34:10.160
+Duration: 6.160 seconds
+Text: don't know how you were, you know, maybe you could just say generally three are elected every year,
+--------------------------------------------------
+City Clerk:
+Start: 00:34:10.160
+End: 00:34:17.600
+Duration: 7.440 seconds
+Text: but because of a vacancy four were elected in November 2023. Okay, it's not, you know, it's really
+--------------------------------------------------
+City Clerk:
+Start: 00:34:17.600
+End: 00:34:24.400
+Duration: 6.800 seconds
+Text: not important, but it's just a, or you could just eliminate the entire sentence. Either way, either,
+--------------------------------------------------
+City Clerk:
+Start: 00:34:24.400
+End: 00:34:29.840
+Duration: 5.440 seconds
+Text: either way, it makes that it be fine too. That'd be fine too. It makes the paragraph, you know,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:34:29.840
+End: 00:34:35.040
+Duration: 5.200 seconds
+Text: just explain how we generally get elected and doesn't confuse it. So I'd recommend that. Just,
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:34:35.040
+End: 00:34:40.880
+Duration: 5.840 seconds
+Text: just strike it. Sure. Just remove that. Sometimes I include it just because they want to know, you know,
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:34:41.520
+End: 00:34:45.920
+Duration: 4.400 seconds
+Text: what, you know, what, what recent changes were made right way. You know, I have some new commissioners
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:34:45.920
+End: 00:34:50.400
+Duration: 4.480 seconds
+Text: or not, but that's something I can convert, you know, I can talk to them about. So let's just,
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:34:51.120
+End: 00:34:55.680
+Duration: 4.560 seconds
+Text: as Mayor suggests, I will remove that if everyone's in agreement on that. Sure. Yeah.
+--------------------------------------------------
+Brittany Nolan:
+Start: 00:34:55.680
+End: 00:35:05.040
+Duration: 9.360 seconds
+Text: And let it. Lin, I have just an editorial comment on the second sentence. Yes. I know use of the word
+--------------------------------------------------
+Brittany Nolan:
+Start: 00:35:05.040
+End: 00:35:14.560
+Duration: 9.520 seconds
+Text: comprise is going through modernization, but generally it's the governing and legislative body
+--------------------------------------------------
+Brittany Nolan:
+Start: 00:35:14.560
+End: 00:35:21.440
+Duration: 6.880 seconds
+Text: as a city commission comprising five commissioners. Okay. Yeah. Absolutely.
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:35:21.760
+End: 00:35:28.400
+Duration: 6.640 seconds
+Text: I'll clean that up in that second sentence in the first paragraph.
+--------------------------------------------------
+City Clerk:
+Start: 00:35:29.760
+End: 00:35:35.440
+Duration: 5.680 seconds
+Text: Rising five. I don't know if this is really big or not, but we're kind of going through things on
+--------------------------------------------------
+City Clerk:
+Start: 00:35:35.440
+End: 00:35:42.080
+Duration: 6.640 seconds
+Text: the second page. It's talking about the different areas and it's got downtown Manhattan, the town,
+--------------------------------------------------
+City Clerk:
+Start: 00:35:42.080
+End: 00:35:46.160
+Duration: 4.080 seconds
+Text: Sir Maul and West Slope and refers to the mall on the eastern end of town.
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:35:46.880
+End: 00:35:53.520
+Duration: 6.640 seconds
+Text: Okay. Commissioner Mata, which page again? I was just finishing up my other comment. This is on page.
+--------------------------------------------------
+City Clerk:
+Start: 00:35:54.640
+End: 00:36:02.800
+Duration: 8.160 seconds
+Text: What's loops on the west side? Which it's on the second paragraph.
+--------------------------------------------------
+City Clerk:
+Start: 00:36:04.320
+End: 00:36:09.120
+Duration: 4.800 seconds
+Text: And it's in on the start on the fourth line second page.
+--------------------------------------------------
+City Clerk:
+Start: 00:36:10.000
+End: 00:36:14.960
+Duration: 4.960 seconds
+Text: Says downtown Manhattan, the Manhattan Town Center Mall and West Slope Business Association
+--------------------------------------------------
+City Clerk:
+Start: 00:36:14.960
+End: 00:36:19.760
+Duration: 4.800 seconds
+Text: are anchors for shopping art, fine dining, entertainment on the eastern end of town.
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:36:21.200
+End: 00:36:23.920
+Duration: 2.720 seconds
+Text: Oh, I'm so sorry. Okay.
+--------------------------------------------------
+Brittany Nolan:
+Start: 00:36:27.040
+End: 00:36:33.680
+Duration: 6.640 seconds
+Text: Lin, you could say on either side of town or just changes. Yeah.
+--------------------------------------------------
+Brittany Nolan:
+Start: 00:36:34.960
+End: 00:36:38.720
+Duration: 3.760 seconds
+Text: Or just are anchors for shopping, fine dining, etc.
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:36:39.680
+End: 00:36:42.400
+Duration: 2.720 seconds
+Text: And just stop there maybe. Yeah. Yeah. That would be it.
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:36:43.280
+End: 00:36:50.720
+Duration: 7.440 seconds
+Text: Let's take that off. Okay. I think I added West Slope late and then didn't change that last
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:36:50.720
+End: 00:36:54.560
+Duration: 3.840 seconds
+Text: reference. I apologize. I'll remove that. Thank you.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:37:00.320
+End: 00:37:07.120
+Duration: 6.800 seconds
+Text: Is there where is the second? So we're going to just eliminate on that last, just put a period
+--------------------------------------------------
+City Clerk:
+Start: 00:37:07.280
+End: 00:37:09.600
+Duration: 2.320 seconds
+Text: of what we called all the pools splash parks.
+--------------------------------------------------
+City Clerk:
+Start: 00:37:11.440
+End: 00:37:18.000
+Duration: 6.560 seconds
+Text: Three water parks and two splash places. There's one at Blue Earth Plaza and one at City Park.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:37:18.720
+End: 00:37:22.000
+Duration: 3.280 seconds
+Text: Yeah, those are correct. I had to think about that. There's one in Blue Earth Plaza.
+--------------------------------------------------
+Brittany Nolan:
+Start: 00:37:31.360
+End: 00:37:36.560
+Duration: 5.200 seconds
+Text: Lin, I was a little bit, I had to read the sentence a couple of times. The last sentence in
+--------------------------------------------------
+Brittany Nolan:
+Start: 00:37:36.560
+End: 00:37:44.080
+Duration: 7.520 seconds
+Text: that paragraph. The Museum of Art and Light. And I don't know, does it need to say
+--------------------------------------------------
+Brittany Nolan:
+Start: 00:37:44.880
+End: 00:37:52.080
+Duration: 7.200 seconds
+Text: modeled on the Atelier de Lumière? I don't like that sentence. I mean, I agree with you.
+--------------------------------------------------
+Brittany Nolan:
+Start: 00:37:53.600
+End: 00:38:00.400
+Duration: 6.800 seconds
+Text: Or just or just take that part out again. Okay. Just say it's under construction and scheduled to open.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:38:00.880
+End: 00:38:07.040
+Duration: 6.160 seconds
+Text: I think it's a very good representation of our community, Lin.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:38:07.040
+End: 00:38:09.040
+Duration: 2.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:38:09.040
+End: 00:38:13.040
+Duration: 4.000 seconds
+Text: I think it's a very good representation of our community, Lin.
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:38:13.040
+End: 00:38:15.040
+Duration: 2.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:38:15.040
+End: 00:38:17.040
+Duration: 2.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:38:17.040
+End: 00:38:19.040
+Duration: 2.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:38:19.680
+End: 00:38:22.400
+Duration: 2.720 seconds
+Text: Okay. Any other?
+--------------------------------------------------
+City Clerk:
+Start: 00:38:24.800
+End: 00:38:28.400
+Duration: 3.600 seconds
+Text: I think it's a very good representation of our community, Lin.
+--------------------------------------------------
+City Clerk:
+Start: 00:38:29.520
+End: 00:38:30.720
+Duration: 1.200 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:38:30.720
+End: 00:38:42.960
+Duration: 12.240 seconds
+Text: I like kind of the emphasis on more of the profile of person and less of their specific
+--------------------------------------------------
+City Clerk:
+Start: 00:38:43.120
+End: 00:38:52.240
+Duration: 9.120 seconds
+Text: qualifications. I think that's most important that we get the right person and not the right
+--------------------------------------------------
+City Clerk:
+Start: 00:38:52.240
+End: 00:38:59.280
+Duration: 7.040 seconds
+Text: qualifications. So yeah, I think it's good. Yeah, appreciate that. That's really what captures
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:38:59.280
+End: 00:39:04.160
+Duration: 4.880 seconds
+Text: people's interest too is what, you know, is specifically Manhattan looking for in terms of
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:39:04.160
+End: 00:39:10.000
+Duration: 5.840 seconds
+Text: priorities for the incoming city manager. So yes, I'm glad. I'm really excited about the pictures.
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:39:10.000
+End: 00:39:16.080
+Duration: 6.080 seconds
+Text: The community partners were wonderful. I can't say enough of how, well, really, really how
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:39:16.080
+End: 00:39:23.840
+Duration: 7.760 seconds
+Text: wonderful it was to meet all of them, but even after that, the level of support by community partners.
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:39:23.840
+End: 00:39:28.480
+Duration: 4.640 seconds
+Text: And of course, within the city as well, really, really appreciate it.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:39:32.400
+End: 00:39:34.720
+Duration: 2.320 seconds
+Text: Okay. So I think what do we make five suggestions?
+--------------------------------------------------
+Mayor Butler:
+Start: 00:39:35.360
+End: 00:39:37.520
+Duration: 2.160 seconds
+Text: Will minor changes? Exactly.
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:39:37.520
+End: 00:39:44.080
+Duration: 6.560 seconds
+Text: Yes. So, and I, yes, I might make one little tiny format change that Tammy and I talked about
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:39:44.080
+End: 00:39:52.800
+Duration: 8.720 seconds
+Text: to break up on page three. Just to break up a little bit of the infographics we have there.
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:39:52.800
+End: 00:39:57.120
+Duration: 4.320 seconds
+Text: And we'll look at options. It's just kind of about look and feel format and flow.
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:39:58.240
+End: 00:40:03.920
+Duration: 5.680 seconds
+Text: But yes, I do have the five content changes. I'll make those and then get an updated
+--------------------------------------------------
+Mayor Butler:
+Start: 00:40:05.600
+End: 00:40:12.400
+Duration: 6.800 seconds
+Text: profile over to Tammy. Okay. Yeah. I like it. I think I think it's well done.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:40:13.440
+End: 00:40:17.360
+Duration: 3.920 seconds
+Text: Thanks for a good job of explaining things. Thank you.
+--------------------------------------------------
+Lynn Barbosa, SGR Representative:
+Start: 00:40:19.520
+End: 00:40:21.680
+Duration: 2.160 seconds
+Text: Well, thank you for trusting me. I'm excited.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:40:23.680
+End: 00:40:27.120
+Duration: 3.440 seconds
+Text: I'm going to get some other comments. Okay. There's no other commissioner comments. Is there any
+--------------------------------------------------
+Mayor Butler:
+Start: 00:40:27.120
+End: 00:40:34.560
+Duration: 7.440 seconds
+Text: public comment on this particular item? Okay. Seeing none, we'll close public comment.
+--------------------------------------------------
+City Clerk:
+Start: 00:40:35.680
+End: 00:40:41.920
+Duration: 6.240 seconds
+Text: So I moved to authorize publication of the candidate profile for the city manager recruitment.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:40:41.920
+End: 00:40:46.800
+Duration: 4.880 seconds
+Text: So I'll second the motion, but that we publish it with the changes we've suggested.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:40:48.800
+End: 00:40:50.480
+Duration: 1.680 seconds
+Text: So we have a motion in a second.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:40:52.720
+End: 00:40:54.400
+Duration: 1.680 seconds
+Text: City clerk, could you please call the roll?
+--------------------------------------------------
+City Clerk:
+Start: 00:40:55.520
+End: 00:40:57.360
+Duration: 1.840 seconds
+Text: Can I share O-Pelt? Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:40:58.320
+End: 00:40:59.680
+Duration: 1.360 seconds
+Text: Mr. Mata? Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:41:00.160
+End: 00:41:01.520
+Duration: 1.360 seconds
+Text: Mayor Butler? Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:41:01.520
+End: 00:41:03.120
+Duration: 1.600 seconds
+Text: Can I share Adam check? Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:41:03.600
+End: 00:41:04.800
+Duration: 1.200 seconds
+Text: Mr. McCullough? Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:41:05.520
+End: 00:41:07.520
+Duration: 2.000 seconds
+Text: Motion carries five to zero.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:41:08.800
+End: 00:41:13.040
+Duration: 4.240 seconds
+Text: Okay. Then we'll move on to the last item on the agenda for this evening,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:41:14.160
+End: 00:41:20.000
+Duration: 5.840 seconds
+Text: which is to reconsider low income housing tax credit for Manhattan Area Housing Partnerships,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:41:20.560
+End: 00:41:26.560
+Duration: 6.000 seconds
+Text: Cypress Ridge Project and the OCAIS Development Corporation Sunflower Flats Project.
+--------------------------------------------------
+City Manager:
+Start: 00:41:28.320
+End: 00:41:30.480
+Duration: 2.160 seconds
+Text: Thank you, Mayor commissioners.
+--------------------------------------------------
+City Manager:
+Start: 00:41:31.760
+End: 00:41:36.080
+Duration: 4.320 seconds
+Text: We have a couple items we'd like you to consider this evening. There was a
+--------------------------------------------------
+City Manager:
+Start: 00:41:37.280
+End: 00:41:40.000
+Duration: 2.720 seconds
+Text: three resolutions passed a couple weeks ago.
+--------------------------------------------------
+City Manager:
+Start: 00:41:40.800
+End: 00:41:45.920
+Duration: 5.120 seconds
+Text: One company has decided not to submit their low income housing tax credit application.
+--------------------------------------------------
+City Manager:
+Start: 00:41:45.920
+End: 00:41:52.080
+Duration: 6.160 seconds
+Text: So the two that remain are Cypress Ridge, which is essentially the Grand Meary Area and then
+--------------------------------------------------
+City Manager:
+Start: 00:41:52.080
+End: 00:42:00.320
+Duration: 8.240 seconds
+Text: Sunflower Flats, which is downtown. And I'll lean on Gidey Jackson, our city attorney quite a bit.
+--------------------------------------------------
+City Manager:
+Start: 00:42:00.320
+End: 00:42:06.400
+Duration: 6.080 seconds
+Text: She really put a lot of effort and energy into these memos and options and analysis.
+--------------------------------------------------
+City Manager:
+Start: 00:42:06.400
+End: 00:42:11.200
+Duration: 4.800 seconds
+Text: Her memo is attached. Hopefully had a chance to read that. There are some
+--------------------------------------------------
+City Manager:
+Start: 00:42:12.800
+End: 00:42:19.920
+Duration: 7.120 seconds
+Text: options for you this evening to consider with each of these items. There is a finding you can make
+--------------------------------------------------
+City Manager:
+Start: 00:42:20.560
+End: 00:42:27.600
+Duration: 7.040 seconds
+Text: in using the 2012 sales tax funds. There's a draft resolution in your packet. That's option one.
+--------------------------------------------------
+City Manager:
+Start: 00:42:28.560
+End: 00:42:34.400
+Duration: 5.840 seconds
+Text: That finding if that's the path that the majority would like to go down, we can hop into
+--------------------------------------------------
+City Manager:
+Start: 00:42:35.040
+End: 00:42:40.720
+Duration: 5.680 seconds
+Text: some of the ramifications and considerations administration would have for you with that option.
+--------------------------------------------------
+City Manager:
+Start: 00:42:41.280
+End: 00:42:48.080
+Duration: 6.800 seconds
+Text: Option two is a all of the options repeal the existing the April two resolutions.
+--------------------------------------------------
+City Manager:
+Start: 00:42:48.560
+End: 00:42:55.440
+Duration: 6.880 seconds
+Text: But option two is more of a general commitment to fund the waivers,
+--------------------------------------------------
+City Manager:
+Start: 00:42:56.880
+End: 00:43:02.320
+Duration: 5.440 seconds
+Text: reminder the waivers are for the building permits and for the utility hookups both water and sewer.
+--------------------------------------------------
+City Manager:
+Start: 00:43:03.440
+End: 00:43:11.600
+Duration: 8.160 seconds
+Text: This option is more of a generic reference. And then we get direction from you all in terms of
+--------------------------------------------------
+City Manager:
+Start: 00:43:11.600
+End: 00:43:15.600
+Duration: 4.000 seconds
+Text: where you'd like us to look further or what option you'd like us to bring back.
+--------------------------------------------------
+City Manager:
+Start: 00:43:16.560
+End: 00:43:22.480
+Duration: 5.920 seconds
+Text: There's some suggestions in here to look at current ordinance in the utilities that
+--------------------------------------------------
+City Manager:
+Start: 00:43:22.480
+End: 00:43:29.280
+Duration: 6.800 seconds
+Text: governs how utility funds are used or some exceptions. Water meters and sewer meters are not
+--------------------------------------------------
+City Manager:
+Start: 00:43:29.280
+End: 00:43:35.120
+Duration: 5.840 seconds
+Text: part of that exception list that can be considered. There could be other revenue streams that you'd
+--------------------------------------------------
+City Manager:
+Start: 00:43:35.120
+End: 00:43:43.120
+Duration: 8.000 seconds
+Text: like us to look at that the city receives for financing or we could look at waivers in the future.
+--------------------------------------------------
+City Manager:
+Start: 00:43:43.920
+End: 00:43:49.040
+Duration: 5.120 seconds
+Text: The building permits have been waived in the past for projects really of other governmental
+--------------------------------------------------
+City Manager:
+Start: 00:43:49.040
+End: 00:43:54.400
+Duration: 5.360 seconds
+Text: and nature. We have done some things you got to date back quite a bit but we have waived them
+--------------------------------------------------
+City Manager:
+Start: 00:43:55.360
+End: 00:44:01.600
+Duration: 6.240 seconds
+Text: on the building permit side before for projects that are not necessarily other governmental entities.
+--------------------------------------------------
+City Manager:
+Start: 00:44:03.120
+End: 00:44:12.880
+Duration: 9.760 seconds
+Text: The option three would look at just gaining more direction on a revised resolution that
+--------------------------------------------------
+City Manager:
+Start: 00:44:12.880
+End: 00:44:19.120
+Duration: 6.240 seconds
+Text: you'd like to see come back before the deadline of May 10. So that would be May 7th.
+--------------------------------------------------
+City Manager:
+Start: 00:44:19.760
+End: 00:44:25.520
+Duration: 5.760 seconds
+Text: So if there's something we haven't described as an option in one or two and you all decide you
+--------------------------------------------------
+City Manager:
+Start: 00:44:25.520
+End: 00:44:29.840
+Duration: 4.320 seconds
+Text: want to go a different direction and have us generate something else we can have that back to you
+--------------------------------------------------
+City Manager:
+Start: 00:44:29.840
+End: 00:44:37.120
+Duration: 7.280 seconds
+Text: May 7th. That's a very brief overview of the options in front of you. Like I said Katie is
+--------------------------------------------------
+City Manager:
+Start: 00:44:37.120
+End: 00:44:43.920
+Duration: 6.800 seconds
+Text: available and staffs available to dive into any of these options. If the commission wants to talk
+--------------------------------------------------
+City Manager:
+Start: 00:44:43.920
+End: 00:44:49.440
+Duration: 5.520 seconds
+Text: about these and dive into each of them we can if there's a consensus to move in a certain direction
+--------------------------------------------------
+City Manager:
+Start: 00:44:50.880
+End: 00:44:57.120
+Duration: 6.240 seconds
+Text: we can obviously expand on that option and have a dialogue on where you all would like to land
+--------------------------------------------------
+City Manager:
+Start: 00:44:57.120
+End: 00:45:03.360
+Duration: 6.240 seconds
+Text: this evening with these resolutions. Any questions on the options or where we're at tonight?
+--------------------------------------------------
+Mayor Butler:
+Start: 00:45:03.440
+End: 00:45:09.440
+Duration: 6.000 seconds
+Text: Yes, I'm sort of, you know, I read that over and I like option one because it basically just,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:45:09.440
+End: 00:45:16.560
+Duration: 7.120 seconds
+Text: I guess legally puts in place what we did last week and of course, you know, my thought on that
+--------------------------------------------------
+Mayor Butler:
+Start: 00:45:16.560
+End: 00:45:22.960
+Duration: 6.400 seconds
+Text: when we said use that economic development in those sales tax, I mean, you know, I think the intent
+--------------------------------------------------
+Mayor Butler:
+Start: 00:45:22.960
+End: 00:45:27.840
+Duration: 4.880 seconds
+Text: was to use it and of course we knew it was going to be used for economic development and having to
+--------------------------------------------------
+Mayor Butler:
+Start: 00:45:27.840
+End: 00:45:32.320
+Duration: 4.480 seconds
+Text: make a specific finding and I was at the chamber meeting today, you know, when they were saying,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:45:32.320
+End: 00:45:38.080
+Duration: 5.760 seconds
+Text: these things are important economic development. So, you know, housing clearly ties to economic
+--------------------------------------------------
+Mayor Butler:
+Start: 00:45:38.080
+End: 00:45:43.520
+Duration: 5.440 seconds
+Text: development and growth of the city so it's valid use of it but I also realized that, you know,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:45:43.520
+End: 00:45:49.040
+Duration: 5.520 seconds
+Text: that's a limited amount of money in that fund and once it's expended that's it. We wouldn't have
+--------------------------------------------------
+Mayor Butler:
+Start: 00:45:49.040
+End: 00:45:55.120
+Duration: 6.080 seconds
+Text: that option available in the future and then, you know, I'm personally not in favor of waving,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:45:55.760
+End: 00:46:01.120
+Duration: 5.360 seconds
+Text: you know, permits and water hook up fees simply because eventually that gets passed on to the
+--------------------------------------------------
+Mayor Butler:
+Start: 00:46:01.120
+End: 00:46:07.600
+Duration: 6.480 seconds
+Text: taxpayer and they're all concerned about their mill levying or water rates. So, I saw this as maybe
+--------------------------------------------------
+Mayor Butler:
+Start: 00:46:07.600
+End: 00:46:13.280
+Duration: 5.680 seconds
+Text: a one time thing. I don't see us using that sales tax fund continually for it because there's not
+--------------------------------------------------
+Mayor Butler:
+Start: 00:46:13.280
+End: 00:46:18.560
+Duration: 5.280 seconds
+Text: not enough money for it but it was important to move these projects along because of that May 10th
+--------------------------------------------------
+Mayor Butler:
+Start: 00:46:18.560
+End: 00:46:24.160
+Duration: 5.600 seconds
+Text: deadline otherwise they got to submit, they can't submit again for a year. So that's where I'm at,
+--------------------------------------------------
+City Clerk:
+Start: 00:46:24.160
+End: 00:46:31.280
+Duration: 7.120 seconds
+Text: I'm for option one but commissioners weigh in. We have historically waved the building permit which
+--------------------------------------------------
+City Clerk:
+Start: 00:46:31.280
+End: 00:46:40.320
+Duration: 9.040 seconds
+Text: really doesn't cost us any dollars to sort of speak and I think that there's going to be such a
+--------------------------------------------------
+City Clerk:
+Start: 00:46:40.320
+End: 00:46:49.600
+Duration: 9.280 seconds
+Text: variety of sort of asks come to us that we went to a tailor our response to different, you know,
+--------------------------------------------------
+City Clerk:
+Start: 00:46:49.680
+End: 00:46:56.320
+Duration: 6.640 seconds
+Text: things that come to us with different sources of funding. So I think two's rather vague but on the
+--------------------------------------------------
+City Clerk:
+Start: 00:46:56.320
+End: 00:47:01.040
+Duration: 4.720 seconds
+Text: other hand, I hate to nail it down too much and then have something come in that we really want to
+--------------------------------------------------
+City Clerk:
+Start: 00:47:01.040
+End: 00:47:04.960
+Duration: 3.920 seconds
+Text: do and then we have to change what we said we were going to do and take it out of this and, you know,
+--------------------------------------------------
+City Clerk:
+Start: 00:47:04.960
+End: 00:47:10.320
+Duration: 5.360 seconds
+Text: that kind of thing. So, I mean, this is kind of new territory for us and I think we also need to
+--------------------------------------------------
+City Clerk:
+Start: 00:47:10.320
+End: 00:47:16.240
+Duration: 5.920 seconds
+Text: really move forward on getting a way to quantify the asks, you know, getting some kind of point
+--------------------------------------------------
+City Clerk:
+Start: 00:47:16.240
+End: 00:47:24.560
+Duration: 8.320 seconds
+Text: system so we can really say to the public, we've looked this over and it comes in with a very,
+--------------------------------------------------
+City Manager:
+Start: 00:47:24.560
+End: 00:47:29.760
+Duration: 5.200 seconds
+Text: you know, good grade so to speak. Historically, I just add a little bit,
+--------------------------------------------------
+City Manager:
+Start: 00:47:31.680
+End: 00:47:35.840
+Duration: 4.160 seconds
+Text: tax credit applications traditionally follow the path of coming into the commission for a
+--------------------------------------------------
+City Manager:
+Start: 00:47:35.840
+End: 00:47:42.080
+Duration: 6.240 seconds
+Text: resolution of support. That was essentially all those asked for by the state of Kansas. They'd
+--------------------------------------------------
+City Manager:
+Start: 00:47:42.080
+End: 00:47:48.640
+Duration: 6.560 seconds
+Text: submit their applications. If awarded, we would get a re-approach a lot of times on looking for
+--------------------------------------------------
+City Manager:
+Start: 00:47:48.640
+End: 00:47:54.640
+Duration: 6.000 seconds
+Text: incentives. The applicant knew more about their project. They knew whether they were moving forward
+--------------------------------------------------
+City Manager:
+Start: 00:47:54.640
+End: 00:48:01.440
+Duration: 6.800 seconds
+Text: with the credits. The details surrounding those projects was much greater. The architects, the
+--------------------------------------------------
+City Manager:
+Start: 00:48:01.440
+End: 00:48:08.960
+Duration: 7.520 seconds
+Text: engineers, the developers had all really sunk a lot of money in after those credits were awarded.
+--------------------------------------------------
+City Manager:
+Start: 00:48:08.960
+End: 00:48:15.520
+Duration: 6.560 seconds
+Text: Then they came to the commission looking for incentives. This is at the front end and there
+--------------------------------------------------
+City Manager:
+Start: 00:48:15.520
+End: 00:48:21.760
+Duration: 6.240 seconds
+Text: hasn't been a ton of effort and energy by anyone to fully define where these things are at.
+--------------------------------------------------
+City Manager:
+Start: 00:48:22.800
+End: 00:48:29.360
+Duration: 6.560 seconds
+Text: And that's the difference in my opinion from a city staff perspective. You are being asked to do
+--------------------------------------------------
+City Manager:
+Start: 00:48:29.360
+End: 00:48:34.800
+Duration: 5.440 seconds
+Text: a lot from an incentive perspective without really knowing each of these projects in a great
+--------------------------------------------------
+City Manager:
+Start: 00:48:34.800
+End: 00:48:42.320
+Duration: 7.520 seconds
+Text: amount of detail. IE, we can go to the the Cho-do is done several, but they've come after they were
+--------------------------------------------------
+City Manager:
+Start: 00:48:42.320
+End: 00:48:49.360
+Duration: 7.040 seconds
+Text: awarded. They may have asked for, are you willing to do a sales tax exemption on construction,
+--------------------------------------------------
+City Manager:
+Start: 00:48:49.360
+End: 00:48:55.280
+Duration: 5.920 seconds
+Text: but even that action took place after the credits were awarded. This is all front loaded and it's
+--------------------------------------------------
+City Manager:
+Start: 00:48:55.280
+End: 00:49:01.040
+Duration: 5.760 seconds
+Text: why it's been really hard for us to juggle and get information to you all. But here we are.
+--------------------------------------------------
+City Manager:
+Start: 00:49:01.040
+End: 00:49:06.880
+Duration: 5.840 seconds
+Text: KHRC has changed their rules. They have different criteria. Katie alludes to it in the memo.
+--------------------------------------------------
+City Manager:
+Start: 00:49:06.880
+End: 00:49:12.800
+Duration: 5.920 seconds
+Text: Their policy would be welcomed. And we recognize that and we will work on that. We will bring that
+--------------------------------------------------
+City Manager:
+Start: 00:49:12.800
+End: 00:49:18.160
+Duration: 5.360 seconds
+Text: back for you all. Because we were reacting to four applicants just two, three months ago,
+--------------------------------------------------
+City Manager:
+Start: 00:49:18.160
+End: 00:49:24.320
+Duration: 6.160 seconds
+Text: trying to understand what they wanted, what they needed, understand the criteria. It's new ground.
+--------------------------------------------------
+City Manager:
+Start: 00:49:24.320
+End: 00:49:30.240
+Duration: 5.920 seconds
+Text: And we fumbled. As well as they fumbled along the way to get to a point where they can submit
+--------------------------------------------------
+City Clerk:
+Start: 00:49:30.240
+End: 00:49:37.200
+Duration: 6.960 seconds
+Text: an application. Jason I think the thing is when competition with everybody in the whole state.
+--------------------------------------------------
+City Clerk:
+Start: 00:49:37.920
+End: 00:49:42.880
+Duration: 4.960 seconds
+Text: And so the more points the Cho-do or some other group can get to sort of show
+--------------------------------------------------
+City Clerk:
+Start: 00:49:44.880
+End: 00:49:48.880
+Duration: 4.000 seconds
+Text: you know that we're really supportive and that kind of thing. And that's why I would,
+--------------------------------------------------
+City Clerk:
+Start: 00:49:48.880
+End: 00:49:54.560
+Duration: 5.680 seconds
+Text: you know, I think the permit, you know, forgiving that is relatively
+--------------------------------------------------
+City Clerk:
+Start: 00:49:55.280
+End: 00:50:03.600
+Duration: 8.320 seconds
+Text: inexpensive for us to do. The other things are, you know, as you said, they figured out they've
+--------------------------------------------------
+City Clerk:
+Start: 00:50:03.600
+End: 00:50:11.600
+Duration: 8.000 seconds
+Text: got some of that stuff in their budget already. But these two things are quite important to get
+--------------------------------------------------
+City Manager:
+Start: 00:50:11.600
+End: 00:50:18.080
+Duration: 6.480 seconds
+Text: done and to get through the state red tape. Yeah and there's a point system. The 40 and the 80.
+--------------------------------------------------
+City Manager:
+Start: 00:50:18.800
+End: 00:50:23.920
+Duration: 5.120 seconds
+Text: There's levels at which they're looking for these waivers to add up to. And once they do,
+--------------------------------------------------
+City Manager:
+Start: 00:50:23.920
+End: 00:50:29.360
+Duration: 5.440 seconds
+Text: they get the points. That could be integrated into a policy where that's really all the exposure
+--------------------------------------------------
+City Manager:
+Start: 00:50:29.360
+End: 00:50:34.560
+Duration: 5.200 seconds
+Text: perhaps the city wants to take. Once they get their points, they owe above that amount. And we're
+--------------------------------------------------
+City Manager:
+Start: 00:50:34.560
+End: 00:50:39.760
+Duration: 5.200 seconds
+Text: limiting points to X. Those are the debates and the feedback that we're going to need moving forward.
+--------------------------------------------------
+City Manager:
+Start: 00:50:40.400
+End: 00:50:45.600
+Duration: 5.200 seconds
+Text: Again, I think we we really tried to move all forward these at once and treat them all the same.
+--------------------------------------------------
+City Manager:
+Start: 00:50:45.600
+End: 00:50:50.160
+Duration: 4.560 seconds
+Text: And there is some inclination that I think the state's looking for you all to rank them a little
+--------------------------------------------------
+City Manager:
+Start: 00:50:50.800
+End: 00:50:55.120
+Duration: 4.320 seconds
+Text: bit because they're looking for what are you willing to do? If you're willing to do everything for
+--------------------------------------------------
+City Manager:
+Start: 00:50:55.120
+End: 00:51:01.920
+Duration: 6.800 seconds
+Text: everybody, basically tells the state you're fully supportive of all four. No differences at all
+--------------------------------------------------
+City Manager:
+Start: 00:51:01.920
+End: 00:51:08.080
+Duration: 6.160 seconds
+Text: in the projects. But I do think there's some differentiating factors in each of the projects
+--------------------------------------------------
+City Manager:
+Start: 00:51:08.080
+End: 00:51:15.360
+Duration: 7.280 seconds
+Text: that you may not necessarily have all the information. When we when they're awarded, people know a lot
+--------------------------------------------------
+City Manager:
+Start: 00:51:15.360
+End: 00:51:19.440
+Duration: 4.080 seconds
+Text: more about what they're going to do. There's a certain level they got to meet to meet that
+--------------------------------------------------
+City Manager:
+Start: 00:51:19.440
+End: 00:51:26.240
+Duration: 6.800 seconds
+Text: application. But afterwards, it's really when the development starts to shape. And we can accurately
+--------------------------------------------------
+City Manager:
+Start: 00:51:26.240
+End: 00:51:31.440
+Duration: 5.200 seconds
+Text: tell you what building permit fees are. I think, you know, I like the idea. I think Ron made
+--------------------------------------------------
+Mayor Butler:
+Start: 00:51:31.440
+End: 00:51:38.800
+Duration: 7.360 seconds
+Text: this suggestion earlier today too to maybe put in that policy that the maximum award of incentives
+--------------------------------------------------
+Mayor Butler:
+Start: 00:51:38.800
+End: 00:51:45.680
+Duration: 6.880 seconds
+Text: the city will give you is whatever the maximum point is based on your application. So like they
+--------------------------------------------------
+Mayor Butler:
+Start: 00:51:45.680
+End: 00:51:51.440
+Duration: 5.760 seconds
+Text: may ask for $100,000, but $80,000 will give them maximum points and we'll just cut it off there.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:51:51.440
+End: 00:51:57.040
+Duration: 5.600 seconds
+Text: And then that'll make our money go farther. And so I like that. And then I can see the logic on
+--------------------------------------------------
+Mayor Butler:
+Start: 00:51:57.040
+End: 00:52:03.360
+Duration: 6.320 seconds
+Text: waving the building permits. It still disturbs me. I voted against it in the past and will again
+--------------------------------------------------
+Mayor Butler:
+Start: 00:52:03.440
+End: 00:52:09.200
+Duration: 5.760 seconds
+Text: in the future simply because if it's easy to wave building permits for that, then why is anybody
+--------------------------------------------------
+Mayor Butler:
+Start: 00:52:09.200
+End: 00:52:15.520
+Duration: 6.320 seconds
+Text: paying for building permits? It's waving for everybody. You know, it's either it's a revenue source
+--------------------------------------------------
+Mayor Butler:
+Start: 00:52:16.240
+End: 00:52:21.040
+Duration: 4.800 seconds
+Text: and we're going to lose that revenue. And we're all worried about not having enough revenue.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:52:21.680
+End: 00:52:27.920
+Duration: 6.240 seconds
+Text: And so that that's why I just don't see that as something we want to wave. That's just my
+--------------------------------------------------
+Mayor Butler:
+Start: 00:52:28.000
+End: 00:52:33.840
+Duration: 5.840 seconds
+Text: my approach on it. So though, though again, I can see, you know, we do it on the government buildings
+--------------------------------------------------
+Mayor Butler:
+Start: 00:52:33.840
+End: 00:52:39.280
+Duration: 5.440 seconds
+Text: because taxpayers go pay for it one way or the other. It doesn't make any sense to check
+--------------------------------------------------
+Mayor Butler:
+Start: 00:52:39.280
+End: 00:52:46.640
+Duration: 7.360 seconds
+Text: charge the county for a building fee. And then we have to pay for it anyway. But, and I also see
+--------------------------------------------------
+Mayor Butler:
+Start: 00:52:46.640
+End: 00:52:51.440
+Duration: 4.800 seconds
+Text: your point, Karen, on the fact that, you know, we're in competition with these other folks and
+--------------------------------------------------
+Mayor Butler:
+Start: 00:52:52.000
+End: 00:52:57.440
+Duration: 5.440 seconds
+Text: we'd hate to break the bank, you know, on it. But my concern on option two is when you just leave
+--------------------------------------------------
+Mayor Butler:
+Start: 00:52:57.440
+End: 00:53:02.080
+Duration: 4.640 seconds
+Text: it open, say we're going to do a resolution supporting you and then we'll figure it out later.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:53:02.720
+End: 00:53:08.240
+Duration: 5.520 seconds
+Text: Well, what happens if there's no funding source except the general fund that then in effect,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:53:08.240
+End: 00:53:14.080
+Duration: 5.840 seconds
+Text: we've waved it because the taxpayers going to pay for it. And so that that's why I wanted to be a
+--------------------------------------------------
+Mayor Butler:
+Start: 00:53:14.080
+End: 00:53:19.600
+Duration: 5.520 seconds
+Text: little bit more precise. But, and that's all part of the idea of lean management. Let's figure out
+--------------------------------------------------
+City Clerk:
+Start: 00:53:19.600
+End: 00:53:27.360
+Duration: 7.760 seconds
+Text: where the pennies are going. I I kind of have to I mean, the taxpayers paying for
+--------------------------------------------------
+City Clerk:
+Start: 00:53:27.360
+End: 00:53:32.800
+Duration: 5.440 seconds
+Text: it regard no matter what we do, right? I mean, it's coming out of a some fund that was collected
+--------------------------------------------------
+City Clerk:
+Start: 00:53:32.800
+End: 00:53:39.680
+Duration: 6.880 seconds
+Text: from taxes, whether it's from workforce housing, this economic development, it was collected
+--------------------------------------------------
+City Clerk:
+Start: 00:53:40.480
+End: 00:53:48.320
+Duration: 7.840 seconds
+Text: in the form of taxes. And so, no matter what fund it comes out of, it's it's coming from taxpayers.
+--------------------------------------------------
+City Clerk:
+Start: 00:53:48.320
+End: 00:53:54.640
+Duration: 6.320 seconds
+Text: And, you know, we're really just trying to figure out how to shuffle this money. We're not paying
+--------------------------------------------------
+City Clerk:
+Start: 00:53:54.640
+End: 00:53:59.840
+Duration: 5.200 seconds
+Text: anyone any money. It is being shuffled from one account to another or it's being waved.
+--------------------------------------------------
+City Clerk:
+Start: 00:54:03.120
+End: 00:54:09.600
+Duration: 6.480 seconds
+Text: So, you know, I think we need to figure out what is the most straightforward way of doing that.
+--------------------------------------------------
+City Clerk:
+Start: 00:54:10.160
+End: 00:54:17.440
+Duration: 7.280 seconds
+Text: And to me, I kind of agree with with Karen, you know, if we if we wave it and you know, I read through
+--------------------------------------------------
+City Clerk:
+Start: 00:54:17.440
+End: 00:54:23.120
+Duration: 5.680 seconds
+Text: the code, there are exceptions. I don't know if we could add an exception for a specific, you know,
+--------------------------------------------------
+City Clerk:
+Start: 00:54:24.640
+End: 00:54:31.280
+Duration: 6.640 seconds
+Text: you're applying for a low income housing tax credit. Very specific. That is the time we will
+--------------------------------------------------
+City Clerk:
+Start: 00:54:31.280
+End: 00:54:36.640
+Duration: 5.360 seconds
+Text: consider waving it or are awarded a low income tax credit. Is that something that we could do?
+--------------------------------------------------
+City Clerk:
+Start: 00:54:36.640
+End: 00:54:42.240
+Duration: 5.600 seconds
+Text: Is it include a stipulation that, hey, we're going to wave these sewer and water fees if you get
+--------------------------------------------------
+City Clerk:
+Start: 00:54:42.240
+End: 00:54:48.240
+Duration: 6.000 seconds
+Text: this credit. If you don't get it, you still have to pay that. Because I mean, that that was one of
+--------------------------------------------------
+City Clerk:
+Start: 00:54:48.240
+End: 00:54:52.240
+Duration: 4.000 seconds
+Text: the things that was brought up the other night too was that realistically, we're probably going to
+--------------------------------------------------
+City Clerk:
+Start: 00:54:52.240
+End: 00:54:58.240
+Duration: 6.000 seconds
+Text: get one of these projects funded for this lie tech. And if we have an ordinance saying your project
+--------------------------------------------------
+City Clerk:
+Start: 00:54:58.240
+End: 00:55:05.920
+Duration: 7.680 seconds
+Text: is going to have these fees waved period, then I think the developer might expect that they'll have
+--------------------------------------------------
+City Clerk:
+Start: 00:55:05.920
+End: 00:55:10.240
+Duration: 4.320 seconds
+Text: their fees waved even if they don't get the tax credit. So, I think that's important that we include.
+--------------------------------------------------
+City Clerk:
+Start: 00:55:11.040
+End: 00:55:15.120
+Duration: 4.080 seconds
+Text: They have to have they have to be awarded the credit first. And I think that narrowed it down a
+--------------------------------------------------
+City Clerk:
+Start: 00:55:15.120
+End: 00:55:23.520
+Duration: 8.400 seconds
+Text: little bit and makes it a little bit more specific. I'd worry about making a finding for this
+--------------------------------------------------
+City Clerk:
+Start: 00:55:23.520
+End: 00:55:33.360
+Duration: 9.840 seconds
+Text: 2012 sales tax fund that housing is an infrastructure project. Because then we're going to get a lot
+--------------------------------------------------
+City Clerk:
+Start: 00:55:33.360
+End: 00:55:37.440
+Duration: 4.080 seconds
+Text: of people coming in here asking for incentives out of that specific fund because we made that
+--------------------------------------------------
+City Clerk:
+Start: 00:55:37.440
+End: 00:55:45.440
+Duration: 8.000 seconds
+Text: that finding. We can't put the toothpaste back in the tube once we do that. So, I think we really
+--------------------------------------------------
+City Clerk:
+Start: 00:55:45.440
+End: 00:55:52.000
+Duration: 6.560 seconds
+Text: need to be careful. I mean, the commission in 2012 was I think very smart in having this resolution
+--------------------------------------------------
+City Clerk:
+Start: 00:55:52.000
+End: 00:56:00.080
+Duration: 8.080 seconds
+Text: before the sales tax went on the ballot because we're seeing what happened with this workforce
+--------------------------------------------------
+City Clerk:
+Start: 00:56:00.080
+End: 00:56:04.720
+Duration: 4.640 seconds
+Text: housing thing. We've got this money and we have no idea how to spend it because that wasn't outlined
+--------------------------------------------------
+City Clerk:
+Start: 00:56:04.720
+End: 00:56:11.280
+Duration: 6.560 seconds
+Text: before it went in front of the voters. And I don't know that it would be the best idea for us to go
+--------------------------------------------------
+City Clerk:
+Start: 00:56:11.280
+End: 00:56:18.880
+Duration: 7.600 seconds
+Text: back and reinterpret a resolution when the commission very intently made this resolution to have
+--------------------------------------------------
+City Clerk:
+Start: 00:56:18.880
+End: 00:56:26.320
+Duration: 7.440 seconds
+Text: definitions on how that money will be spent. Again, I just I think we'll get a lot of people trying to
+--------------------------------------------------
+City Clerk:
+Start: 00:56:26.960
+End: 00:56:32.400
+Duration: 5.440 seconds
+Text: have their housing projects fit into economic development if we if we go down that route.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:56:32.640
+End: 00:56:38.480
+Duration: 5.840 seconds
+Text: Well, I would say you know like just a toothpaste analysis. There's not a lot of toothpaste left
+--------------------------------------------------
+City Clerk:
+Start: 00:56:38.960
+End: 00:56:45.600
+Duration: 6.640 seconds
+Text: in that tube. So, I'm not worried about that happening. We got we got people calling us all the time
+--------------------------------------------------
+City Clerk:
+Start: 00:56:45.600
+End: 00:56:51.760
+Duration: 6.160 seconds
+Text: about this $700,000 for the workforce housing. But we find that we've defined that as the
+--------------------------------------------------
+Mayor Butler:
+Start: 00:56:51.760
+End: 00:56:58.640
+Duration: 6.880 seconds
+Text: you know the annual minimum you know income 60% or higher. We don't have a policy for it.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:56:59.280
+End: 00:57:02.960
+Duration: 3.680 seconds
+Text: Well, we all agree to it and I think that's going to be in the policy. I mean that's
+--------------------------------------------------
+Mayor Butler:
+Start: 00:57:03.760
+End: 00:57:09.760
+Duration: 6.000 seconds
+Text: you know we've all reached consensus on that way back in January. Right. That's what it was. And so
+--------------------------------------------------
+Mayor Butler:
+Start: 00:57:09.760
+End: 00:57:16.240
+Duration: 6.480 seconds
+Text: that's got to be in the policy to say if just like we said last week if your project doesn't
+--------------------------------------------------
+Mayor Butler:
+Start: 00:57:16.240
+End: 00:57:22.240
+Duration: 6.000 seconds
+Text: fit that bill then you don't get any money. Right. So, that will eliminate some of it. And then
+--------------------------------------------------
+Mayor Butler:
+Start: 00:57:22.240
+End: 00:57:27.280
+Duration: 5.040 seconds
+Text: the other distinction I make and I agree with you Peter that you know it's all taxes. But in my mind
+--------------------------------------------------
+Mayor Butler:
+Start: 00:57:28.800
+End: 00:57:35.840
+Duration: 7.040 seconds
+Text: if it comes out of sales tax that's significantly different than money that comes out of the mill
+--------------------------------------------------
+Mayor Butler:
+Start: 00:57:35.840
+End: 00:57:41.200
+Duration: 5.360 seconds
+Text: levy because we're going to get beat up here shortly again on the mill and appraisals and things
+--------------------------------------------------
+Mayor Butler:
+Start: 00:57:41.200
+End: 00:57:47.600
+Duration: 6.400 seconds
+Text: of that nature. So, if we can limit you know taking money that is going to directly impact the
+--------------------------------------------------
+Mayor Butler:
+Start: 00:57:47.600
+End: 00:57:52.800
+Duration: 5.200 seconds
+Text: mill levy and the amount of property taxes. Because I've always been in favor of sales tax
+--------------------------------------------------
+Mayor Butler:
+Start: 00:57:52.800
+End: 00:57:59.920
+Duration: 7.120 seconds
+Text: over property tax. So, that's why I'm splitting that here. But you know your points will take and
+--------------------------------------------------
+Mayor Butler:
+Start: 00:57:59.920
+End: 00:58:05.440
+Duration: 5.520 seconds
+Text: yeah they are paying but the sales tax doesn't necessarily all come from people inside the city.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:58:06.080
+End: 00:58:12.640
+Duration: 6.560 seconds
+Text: And that's why I prefer that. But you know that's why I like option one best. You know option two is
+--------------------------------------------------
+Mayor Butler:
+Start: 00:58:12.640
+End: 00:58:16.800
+Duration: 4.160 seconds
+Text: probably doable. Option three I don't think we want to go there too hard.
+--------------------------------------------------
+City Clerk:
+Start: 00:58:16.800
+End: 00:58:27.440
+Duration: 10.640 seconds
+Text: I'm fine with using option one. We were on the commission in 2012. I think we can figure that out
+--------------------------------------------------
+City Clerk:
+Start: 00:58:27.440
+End: 00:58:34.960
+Duration: 7.520 seconds
+Text: what we intended on that. And I do agree there's not much money there so it's not going to come up.
+--------------------------------------------------
+City Clerk:
+Start: 00:58:35.680
+End: 00:58:42.320
+Duration: 6.640 seconds
+Text: But I'm also fine with option two because that gives time to come up with the policy
+--------------------------------------------------
+City Clerk:
+Start: 00:58:43.040
+End: 00:58:47.440
+Duration: 4.400 seconds
+Text: in everything else ahead of time. And even if this doesn't fit the policy exactly,
+--------------------------------------------------
+City Clerk:
+Start: 00:58:48.160
+End: 00:58:52.880
+Duration: 4.720 seconds
+Text: we're doing an exception based on the fact of what we're doing now. And if anyone says well you did
+--------------------------------------------------
+City Clerk:
+Start: 00:58:52.880
+End: 00:58:58.880
+Duration: 6.000 seconds
+Text: that for them right because we came up with it knowing that might happen to us but it does
+--------------------------------------------------
+City Clerk:
+Start: 00:58:59.760
+End: 00:59:05.920
+Duration: 6.160 seconds
+Text: get these projects done gives us time to come up with the policy. And if anyone wants to spend
+--------------------------------------------------
+City Clerk:
+Start: 00:59:05.920
+End: 00:59:10.960
+Duration: 5.040 seconds
+Text: the 2012 money at least while we're still around we need to say hey that was one of our
+--------------------------------------------------
+City Clerk:
+Start: 00:59:10.960
+End: 00:59:17.680
+Duration: 6.720 seconds
+Text: outs should not match up with anything else we're going to do. So I want to move these along so
+--------------------------------------------------
+City Clerk:
+Start: 00:59:17.680
+End: 00:59:23.440
+Duration: 5.760 seconds
+Text: I'll go with option one but I'm fine with option two. Yeah I agree John. I think you know one of the
+--------------------------------------------------
+City Clerk:
+Start: 00:59:23.440
+End: 00:59:29.440
+Duration: 6.000 seconds
+Text: main things we talked about in the campaigns and that kind of thing was more workforce housing.
+--------------------------------------------------
+City Clerk:
+Start: 00:59:29.440
+End: 00:59:36.320
+Duration: 6.880 seconds
+Text: So I think it behooves us to see how we can do what we can do to support these two
+--------------------------------------------------
+City Clerk:
+Start: 00:59:36.560
+End: 00:59:46.000
+Duration: 9.440 seconds
+Text: asks so to speak. I know that Chudo has had a very good track record with the state. You know they
+--------------------------------------------------
+City Clerk:
+Start: 00:59:46.000
+End: 00:59:52.400
+Duration: 6.400 seconds
+Text: funded a lot of housing we've done over 260 units and you know that's a lot of housing.
+--------------------------------------------------
+City Clerk:
+Start: 00:59:53.680
+End: 01:00:02.240
+Duration: 8.560 seconds
+Text: And of course the other one is going to be replacing some housing we're losing which is vitally
+--------------------------------------------------
+City Clerk:
+Start: 01:00:02.240
+End: 01:00:12.000
+Duration: 9.760 seconds
+Text: important. So I have no problem you know I just think if we go with two it gives us space to really
+--------------------------------------------------
+City Clerk:
+Start: 01:00:12.000
+End: 01:00:19.680
+Duration: 7.680 seconds
+Text: define the future. I would just comment that going with option two is consistent with what we've
+--------------------------------------------------
+City Clerk:
+Start: 01:00:19.680
+End: 01:00:28.240
+Duration: 8.560 seconds
+Text: done in the past. We typically would get one of these applications every three years. One we never
+--------------------------------------------------
+City Clerk:
+Start: 01:00:28.240
+End: 01:00:35.360
+Duration: 7.120 seconds
+Text: had competition for low income housing tax credits at least from Manhattan. And so that's why
+--------------------------------------------------
+City Clerk:
+Start: 01:00:35.360
+End: 01:00:40.720
+Duration: 5.360 seconds
+Text: it's always been that general. We're here where you have competition I think that does
+--------------------------------------------------
+City Clerk:
+Start: 01:00:41.680
+End: 01:00:48.400
+Duration: 6.720 seconds
+Text: suit yourself to have a policy relative to that but again I do think some of the depending on
+--------------------------------------------------
+City Clerk:
+Start: 01:00:48.400
+End: 01:00:54.160
+Duration: 5.760 seconds
+Text: the amount of tax credits they're issued it gives them a better opportunity to really pull their
+--------------------------------------------------
+City Clerk:
+Start: 01:00:54.160
+End: 01:01:00.240
+Duration: 6.080 seconds
+Text: project together and then come back with the more detailed requests that you have and you can see
+--------------------------------------------------
+City Clerk:
+Start: 01:01:00.240
+End: 01:01:06.240
+Duration: 6.000 seconds
+Text: the impacts of that and and have options for how you want to pay for it. And I think everybody would
+--------------------------------------------------
+City Clerk:
+Start: 01:01:07.120
+End: 01:01:13.680
+Duration: 6.560 seconds
+Text: and you're not opening up the box for everybody else to apply because we've always done this with
+--------------------------------------------------
+City Clerk:
+Start: 01:01:13.680
+End: 01:01:21.280
+Duration: 7.600 seconds
+Text: these credits as opposed to applying specific funds now up front. I agree that would be a good
+--------------------------------------------------
+City Clerk:
+Start: 01:01:21.280
+End: 01:01:27.120
+Duration: 5.840 seconds
+Text: practice. I mean if we had a solid policy in place and I think this does give us time for that
+--------------------------------------------------
+City Clerk:
+Start: 01:01:27.120
+End: 01:01:31.040
+Duration: 3.920 seconds
+Text: to occur. Ron I changed my mind you can't retire.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:01:35.600
+End: 01:01:38.240
+Duration: 2.640 seconds
+Text: Right. Do we want to take public comment if there is any?
+--------------------------------------------------
+Mayor Butler:
+Start: 01:01:40.560
+End: 01:01:45.520
+Duration: 4.960 seconds
+Text: Does anyone in the public wish to comment on this particular topic?
+--------------------------------------------------
+Mayor Butler:
+Start: 01:01:46.240
+End: 01:01:53.520
+Duration: 7.280 seconds
+Text: Okay seeing none we'll close public comment. I guess Jason can you put those options back up
+--------------------------------------------------
+Mayor Butler:
+Start: 01:01:53.520
+End: 01:02:00.320
+Duration: 6.800 seconds
+Text: there because I think our agendas here don't have those but somebody can make a motion.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:02:02.560
+End: 01:02:06.880
+Duration: 4.320 seconds
+Text: They were in your memo but they're not on this page here.
+--------------------------------------------------
+City Manager:
+Start: 01:02:09.440
+End: 01:02:15.200
+Duration: 5.760 seconds
+Text: So the action requested with option one or option two just select option two and adopt
+--------------------------------------------------
+City Manager:
+Start: 01:02:15.200
+End: 01:02:20.080
+Duration: 4.880 seconds
+Text: resolution repealing the prior. Okay so that's all right that's what we needed up there.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:02:20.080
+End: 01:02:26.560
+Duration: 6.480 seconds
+Text: And so it sounds like you know that option two basically supports the projects but does not
+--------------------------------------------------
+Mayor Butler:
+Start: 01:02:26.560
+End: 01:02:32.640
+Duration: 6.080 seconds
+Text: define exactly how we're going to pay for it and that's punted until they get approved and comes
+--------------------------------------------------
+Mayor Butler:
+Start: 01:02:32.640
+End: 01:02:39.600
+Duration: 6.960 seconds
+Text: back is that correct? Okay so in that case I'll make the motion that we select option two
+--------------------------------------------------
+Mayor Butler:
+Start: 01:02:40.480
+End: 01:02:50.960
+Duration: 10.480 seconds
+Text: and adopt resolution number 0 4 1624 echo repealing resolution number 0 4 0 2 2 4 echo and
+--------------------------------------------------
+Mayor Butler:
+Start: 01:02:50.960
+End: 01:02:56.720
+Duration: 5.760 seconds
+Text: granting city incentives in support of the Manhattan area housing partnership Cypress Ridge
+--------------------------------------------------
+Mayor Butler:
+Start: 01:02:56.720
+End: 01:03:01.680
+Duration: 4.960 seconds
+Text: project. Second. Okay we have a motion in a second.
+--------------------------------------------------
+City Clerk:
+Start: 01:03:01.680
+End: 01:03:18.320
+Duration: 16.640 seconds
+Text: Can I ask a question? I don't know that I love voting on this that doesn't have a direction.
+--------------------------------------------------
+City Clerk:
+Start: 01:03:21.280
+End: 01:03:25.200
+Duration: 3.920 seconds
+Text: The motion that we've made doesn't have any kind of direction in it.
+--------------------------------------------------
+City Clerk:
+Start: 01:03:25.760
+End: 01:03:34.160
+Duration: 8.400 seconds
+Text: Can we try and narrow it down more before we vote on it so that we have it more specific?
+--------------------------------------------------
+Mayor Butler:
+Start: 01:03:34.960
+End: 01:03:36.320
+Duration: 1.360 seconds
+Text: You can amend the motion.
+--------------------------------------------------
+City Manager:
+Start: 01:03:38.160
+End: 01:03:42.560
+Duration: 4.400 seconds
+Text: You visit. Yeah even if you narrow it down.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:03:42.560
+End: 01:03:46.480
+Duration: 3.920 seconds
+Text: If you've got some specifics you know I'm sure the staff would I don't have a problem with that.
+--------------------------------------------------
+City Manager:
+Start: 01:03:47.120
+End: 01:03:52.560
+Duration: 5.440 seconds
+Text: Even if you narrow it down commissioner we're coming back with a policy we're coming back with
+--------------------------------------------------
+City Manager:
+Start: 01:03:52.560
+End: 01:03:58.800
+Duration: 6.240 seconds
+Text: options for you all to consider. I don't unless you're if you're going to reach the consensus on
+--------------------------------------------------
+City Manager:
+Start: 01:03:58.800
+End: 01:04:06.000
+Duration: 7.200 seconds
+Text: how you want to fund it you're you're going to go to option either one or three because three we'll
+--------------------------------------------------
+City Manager:
+Start: 01:04:06.000
+End: 01:04:14.080
+Duration: 8.080 seconds
+Text: bring it back in two weeks or three weeks. Two moves it on. Okay because it sounded like we're okay
+--------------------------------------------------
+City Clerk:
+Start: 01:04:14.080
+End: 01:04:22.240
+Duration: 8.160 seconds
+Text: doing an exception of the city code and we'll definitely bring that back as an option for the
+--------------------------------------------------
+City Clerk:
+Start: 01:04:22.240
+End: 01:04:30.080
+Duration: 7.840 seconds
+Text: policy. Okay but we can't vote on that tonight. We don't have any. Yeah you okay and you don't have
+--------------------------------------------------
+City Manager:
+Start: 01:04:30.800
+End: 01:04:34.240
+Duration: 3.440 seconds
+Text: you haven't teed up the public that that's what you're going to do tonight. Got it okay.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:04:36.560
+End: 01:04:41.200
+Duration: 4.640 seconds
+Text: All right no further discussion then we can city clerk please call the rule.
+--------------------------------------------------
+City Clerk:
+Start: 01:04:42.960
+End: 01:04:47.200
+Duration: 4.240 seconds
+Text: Commissioner Mata. Yes. Mayor Butler. Yes.
+--------------------------------------------------
+City Clerk:
+Start: 01:04:47.200
+End: 01:04:51.920
+Duration: 4.720 seconds
+Text: Commissioner Adam check. Yes. Commissioner Kala. I think I better abstain because I'm on the
+--------------------------------------------------
+City Clerk:
+Start: 01:04:51.920
+End: 01:05:03.200
+Duration: 11.280 seconds
+Text: chewed board. I don't have to. Well yes. Commissioner Opell. Yes. Motion carries five to zero.
+--------------------------------------------------
+City Manager:
+Start: 01:05:07.040
+End: 01:05:14.560
+Duration: 7.520 seconds
+Text: Okay if there's no this one specific to sunflower flats. Okay you just did the one for cybers.
+--------------------------------------------------
+Brittany Nolan:
+Start: 01:05:15.120
+End: 01:05:22.400
+Duration: 7.280 seconds
+Text: So now we need to do a second one. Okay. I move that we select option two and adopt resolution
+--------------------------------------------------
+Brittany Nolan:
+Start: 01:05:22.400
+End: 01:05:30.560
+Duration: 8.160 seconds
+Text: number zero four one six two four F repealing resolution number zero four zero two two four C
+--------------------------------------------------
+Brittany Nolan:
+Start: 01:05:31.280
+End: 01:05:38.480
+Duration: 7.200 seconds
+Text: and granting city incentives in support of the Eiko's development corporations sunflower flats
+--------------------------------------------------
+Mayor Butler:
+Start: 01:05:39.280
+End: 01:05:45.440
+Duration: 6.160 seconds
+Text: I'll second the motion. So we have a motion of a second city clerk could you please call the
+--------------------------------------------------
+City Clerk:
+Start: 01:05:45.440
+End: 01:05:50.880
+Duration: 5.440 seconds
+Text: rule. Mayor Butler. Yes. Commissioner Adam check. Yes. Commissioner McCola. Yes.
+--------------------------------------------------
+City Clerk:
+Start: 01:05:50.880
+End: 01:05:56.640
+Duration: 5.760 seconds
+Text: Commissioner Opell. Yes. Commissioner Mata. Yes. Motion carries five to zero.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:05:57.920
+End: 01:06:03.520
+Duration: 5.600 seconds
+Text: Okay I think that concludes that the third project that was on there got pulled so we don't need to
+--------------------------------------------------
+Mayor Butler:
+Start: 01:06:04.240
+End: 01:06:08.960
+Duration: 4.720 seconds
+Text: discuss that one. So at this point we can entertain in a motion to adjourn.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:06:10.880
+End: 01:06:16.720
+Duration: 5.840 seconds
+Text: Move we adjourn. Second. Do we have a motion in a second city clerk please call the rule.
+--------------------------------------------------
+City Clerk:
+Start: 01:06:16.720
+End: 01:06:22.000
+Duration: 5.280 seconds
+Text: Commissioner Adam check. Yes. Commissioner McCola. Yes. Commissioner Opell. Yes.
+--------------------------------------------------
+City Clerk:
+Start: 01:06:22.000
+End: 01:06:27.120
+Duration: 5.120 seconds
+Text: Commissioner Mata. Yes. Mayor Butler. Yes. Motion carries five to zero.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:06:27.120
+End: 01:06:32.000
+Duration: 4.880 seconds
+Text: Okay so the Tuesday April 16th city commission meeting is hereby adjourned thank you.
+--------------------------------------------------

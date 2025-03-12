@@ -1,0 +1,73 @@
+{
+  "filename": "20191016-10\u29f815\u29f82019 City Commission Meeting.txt",
+  "date": "2019-10-15",
+  "file_size": 234614,
+  "open_ended_analysis": {
+    "primary_themes": [],
+    "significant_discussions": [],
+    "unexpected_elements": []
+  },
+  "directed_analysis": {
+    "land_use": {
+      "present": false,
+      "significance": "Low",
+      "context": "",
+      "notable_points": []
+    },
+    "economic_development": {
+      "present": false,
+      "significance": "Low",
+      "context": "",
+      "notable_points": []
+    },
+    "taxes_budget": {
+      "present": false,
+      "significance": "Low",
+      "context": "",
+      "notable_points": []
+    },
+    "other_significant_topics": []
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 4,
+      "speaking_time": {
+        "Transcription and Diarization for 20191016-10\u29f815\u29f82019 City Commission Meeting.mp4": 10.36,
+        "Commissioner Dodson": 814.78,
+        "Commissioner McKee": 2083.0,
+        "Mayor Dodson": 1087.6,
+        "City Manager": 707.6000000000003,
+        "City Attorney": 1410.0
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [],
+      "observation": ""
+    },
+    "interaction_patterns": {
+      "pattern": "",
+      "notable_exchanges": []
+    },
+    "topic_ownership": [],
+    "public_participation": {
+      "level": "Unknown",
+      "observation": ""
+    }
+  },
+  "emergent_patterns": {
+    "recurring_themes": [],
+    "underlying_tensions": [],
+    "decision_patterns": {
+      "pattern": "",
+      "observation": ""
+    },
+    "language_patterns": {
+      "formality": "Medium",
+      "technical_density": "Medium",
+      "emotional_tone": "",
+      "notable_features": []
+    },
+    "other_insights": []
+  },
+  "error": null
+}

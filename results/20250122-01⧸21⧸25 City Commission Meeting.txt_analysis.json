@@ -1,0 +1,73 @@
+{
+  "filename": "20250122-01\u29f821\u29f825 City Commission Meeting.txt",
+  "date": "2025-01-22",
+  "file_size": 232889,
+  "open_ended_analysis": {
+    "primary_themes": [],
+    "significant_discussions": [],
+    "unexpected_elements": []
+  },
+  "directed_analysis": {
+    "land_use": {
+      "present": false,
+      "significance": "Low",
+      "context": "",
+      "notable_points": []
+    },
+    "economic_development": {
+      "present": false,
+      "significance": "Low",
+      "context": "",
+      "notable_points": []
+    },
+    "taxes_budget": {
+      "present": false,
+      "significance": "Low",
+      "context": "",
+      "notable_points": []
+    },
+    "other_significant_topics": []
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 6,
+      "speaking_time": {
+        "Transcription and Diarization for 20250122-01\u29f821\u29f825 City Commission Meeting.mp4": 7.0,
+        "Mayor McCullough": 731.88,
+        "City Clerk": 3289.1000000000004,
+        "City Manager": 1365.0,
+        "City Attorney": 662.0,
+        "TJ Velcancis": 905.0
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [],
+      "observation": ""
+    },
+    "interaction_patterns": {
+      "pattern": "",
+      "notable_exchanges": []
+    },
+    "topic_ownership": [],
+    "public_participation": {
+      "level": "Unknown",
+      "observation": ""
+    }
+  },
+  "emergent_patterns": {
+    "recurring_themes": [],
+    "underlying_tensions": [],
+    "decision_patterns": {
+      "pattern": "",
+      "observation": ""
+    },
+    "language_patterns": {
+      "formality": "Medium",
+      "technical_density": "Medium",
+      "emotional_tone": "",
+      "notable_features": []
+    },
+    "other_insights": []
+  },
+  "error": null
+}

@@ -1,0 +1,73 @@
+{
+  "filename": "20230127-1\u29f824\u29f823 City Commission Meeting.txt",
+  "date": "2023-01-27",
+  "file_size": 235309,
+  "open_ended_analysis": {
+    "primary_themes": [],
+    "significant_discussions": [],
+    "unexpected_elements": []
+  },
+  "directed_analysis": {
+    "land_use": {
+      "present": false,
+      "significance": "Low",
+      "context": "",
+      "notable_points": []
+    },
+    "economic_development": {
+      "present": false,
+      "significance": "Low",
+      "context": "",
+      "notable_points": []
+    },
+    "taxes_budget": {
+      "present": false,
+      "significance": "Low",
+      "context": "",
+      "notable_points": []
+    },
+    "other_significant_topics": []
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 5,
+      "speaking_time": {
+        "Transcription and Diarization for 20230127-1\u29f824\u29f823 City Commission Meeting.mp4": 9.0,
+        "Speaker_4": 747.16,
+        "Speaker_0": 1826.5599999999997,
+        "Speaker_3": 2323.1600000000003,
+        "Speaker_1": 535.72,
+        "Speaker_2": 114.92
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [],
+      "observation": ""
+    },
+    "interaction_patterns": {
+      "pattern": "",
+      "notable_exchanges": []
+    },
+    "topic_ownership": [],
+    "public_participation": {
+      "level": "Unknown",
+      "observation": ""
+    }
+  },
+  "emergent_patterns": {
+    "recurring_themes": [],
+    "underlying_tensions": [],
+    "decision_patterns": {
+      "pattern": "",
+      "observation": ""
+    },
+    "language_patterns": {
+      "formality": "Medium",
+      "technical_density": "Medium",
+      "emotional_tone": "",
+      "notable_features": []
+    },
+    "other_insights": []
+  },
+  "error": null
+}

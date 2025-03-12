@@ -1,0 +1,171 @@
+{
+  "open_ended_analysis": {
+    "primary_themes": [
+      {
+        "theme": "Community Recognition and Appreciation",
+        "description": "Throughout the meeting, there was consistent recognition and appreciation for community organizations and initiatives. This included the co-onus club of Manhattan for 100 years of service, World Polio Day to recognize the rotary club's contribution to polio eradication, Buddy Poppies for recognizing the contribution of veterans, and the proclamation of Veterans Day.",
+        "notable_points": [
+          "The co-onus club of Manhattan received a proclamation for their 100th anniversary",
+          "World Polio Day was recognized for the efforts of Rotary International in eradicating polio",
+          "Buddy Poppies day got recognized to benefit disabled and needy veterans, and deceased veterans' widows and orphans.",
+          "Veterans Day was declared to honor all those who have served in the armed forces."
+        ]
+      },
+      {
+        "theme": "Housing Market Analysis",
+        "description": "The topic of housing in Manhattan, Kansas was a primary discussion point, with a detailed analysis being presented and incorporated into the city's comprehensive plan. Future steps and the formation of a steering committee were discussed as well.",
+        "notable_points": [
+          "A detailed housing market analysis was presented",
+          "The Manhattan Urban Area Comprehensive Plan would be amended to incorporate the housing market analysis",
+          "A recommendation for a steering committee to guide the implementation of the housing market analysis was discussed."
+        ]
+      }
+    ],
+    "significant_discussions": [
+      {
+        "topic": "Housing Market Analysis",
+        "significance": "The housing market analysis can inform future city housing policies and projects. It directly affects city planning, access to affordable housing, and the overall growth and development of the city.",
+        "stakeholders": [
+          "Manhattan city council members",
+          "City of Manhattan Community Development Department",
+          "Current and future homeowners and renters",
+          "Real estate developers and investors",
+          "Kansas State University students"
+        ]
+      }
+    ],
+    "unexpected_elements": [
+      {
+        "element": "Participation and recognition of multiple community organizations",
+        "context": "The prominent role and recognition of several distinct community organizations was a major feature of this city council meeting, which shows a strong sense of community involvement and collaboration in Manhattan, Kansas."
+      }
+    ]
+  },
+  "directed_analysis": {
+    "land_use": {
+      "present": true,
+      "significance": "Medium",
+      "context": "Land use was discussed in the context of the residential housing market analysis that was prepared by a consultant. An amendment to the comprehensive plan was proposed to incorporate this analysis. There were also discussions of a future review of the Manhattan Development Code and future land use map with regards to housing needs.",
+      "notable_points": [
+        "The Housing Market Analysis is set to be incorporated in the Manhattan Urban area Comprehensive Plan.",
+        "A future review of the Manhattan Development Code and future land use map was proposed in relation to housing needs."
+      ]
+    },
+    "economic_development": {
+      "present": true,
+      "significance": "Medium",
+      "context": "Economic development was discussed in the context of housing issues in Manhattan and the potential impact of the military community. The discussion touched on the challenges of workforce housing, development plans and some specific housing projects.",
+      "notable_points": [
+        "There is an ongoing discussion on the impact of the military community on the city's housing situation.",
+        "A Workforce Housing Steering Committee is proposed to guide the direction of utilizing sales tax funds for housing."
+      ]
+    },
+    "taxes_budget": {
+      "present": true,
+      "significance": "High",
+      "context": "Taxes and budget were discussed in terms of the workforce housing sales tax. The tax is aimed at aiding housing development projects in the city, specifically aimed at helping workforce housing issues.",
+      "notable_points": [
+        "Workforce housing sales tax will be used in line with the objectives of the housing project.",
+        "A Workforce Housing Steering Committee will be formed to guide the utilization of the sales tax funds."
+      ]
+    },
+    "other_significant_topics": [
+      {
+        "topic": "Community Relations",
+        "significance": "Medium",
+        "context": "Community relations were discussed in various contexts, including recognition of community organizations and their contributions to the city, such as the Kiwanis Club, Rotary International, and Veterans of Foreign Wars. There were also proclamations for special observance days like World Polio Day and Veterans Day."
+      }
+    ]
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 5,
+      "speaking_time": {
+        "Transcription and Diarization for 20221021-10\u29f818\u29f822 City Commission Meeting.mp4": 9.32,
+        "Speaker_3": 858.3400000000001,
+        "Speaker_4": 261.4400000000001,
+        "Speaker_1": 306.56000000000006,
+        "Speaker_2": 533.84
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [
+        "Speaker_3"
+      ],
+      "observation": "Speaker_3 has the most speaking time, indicating a leading role in the meeting. This speaker likely holds a significant position in the council and is tasked with managing the flow of the meeting, introducing topics, and directing public input."
+    },
+    "interaction_patterns": {
+      "pattern": "Speakers tend to take turns speaking with minimal overlapping discourse, and there's an arrangement to allow individual speakers speak without interruption. Additionally, more public figures step up to the podium to make statements, likely representatives from the organizations being recognized as evident in the long proclamations about local organizations.",
+      "notable_exchanges": [
+        "Exchange of comments among public figures and Speaker_3 regarding the proclamations."
+      ]
+    },
+    "topic_ownership": [
+      {
+        "speaker": "Speaker_3",
+        "topics": [
+          "Meeting Order and Agenda",
+          "Public Proclamations",
+          "Public Participation"
+        ]
+      },
+      {
+        "speaker": "Speaker_2",
+        "topics": [
+          "Commissioners announcements"
+        ]
+      },
+      {
+        "speaker": "Speaker_1",
+        "topics": [
+          "Reporting on past events"
+        ]
+      }
+    ],
+    "public_participation": {
+      "level": "Medium",
+      "observation": "Numerous public figures interact with the council to make statements or answer questions, especially related to the proclamations. The public is involved but tends to be representatives of local organizations rather than general members of the community."
+    }
+  },
+  "emergent_patterns": {
+    "recurring_themes": [
+      {
+        "theme": "Recognition of Community Organizations",
+        "evidence": "The meeting starts with recognitions of various community organizations including the Manhattan Co-Onus Club, Rotary International, VFW, and Flint Hills Veterans Coalition, their contributions, and their special days or events. This implies a city commitment to community engagement and recognition of volunteerism."
+      },
+      {
+        "theme": "Civic Duties",
+        "evidence": "There are multiple mentions of voting and the importance of public participation in local government through the voting process."
+      },
+      {
+        "theme": "Housing Plan",
+        "evidence": "There is significant discussion about the Manhattan housing plan, reflecting a city-wide focus on addressing housing needs."
+      }
+    ],
+    "underlying_tensions": [
+      {
+        "tension": "Representation within Steering Committee",
+        "between": [
+          "City Commission",
+          "Proposed Steering Committee"
+        ],
+        "context": "There is debate between commissioners about the composition of the housing plan steering committee, specifically regarding the necessity of a city commissioner's involvement, the involvement of Kansas State University students, and the involvement of Fort Riley as non-voting members."
+      }
+    ],
+    "decision_patterns": {
+      "pattern": "Discussion and Vote",
+      "observation": "The council engages in a discussion of each topic, then moves to a formal vote."
+    },
+    "language_patterns": {
+      "formality": "Medium",
+      "technical_density": "Medium",
+      "emotional_tone": "Neutral, with some moments of appreciation during the recognition of community organizations",
+      "notable_features": [
+        "The use of respectful and formal address, clear signposting of meeting agenda items, and careful reading of official proclamations."
+      ]
+    },
+    "other_insights": [
+      "The meeting shows a strong civic engagement with community organizations and important local issues like housing. It provides a snapshot of the issues considered critical at this point in time by the Manhattan City Commission."
+    ]
+  }
+}

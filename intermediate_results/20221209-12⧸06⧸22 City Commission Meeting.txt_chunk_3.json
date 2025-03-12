@@ -1,0 +1,129 @@
+{
+  "open_ended_analysis": {
+    "primary_themes": [
+      {
+        "theme": "Meeting Adjournment",
+        "description": "The primary focus of this part of the meeting was on the motion to adjourn. Every council member present voted in favor of adjournment.",
+        "notable_points": [
+          "Unanimous vote for adjournment",
+          "All council members were present"
+        ]
+      }
+    ],
+    "significant_discussions": [
+      {
+        "topic": "No specific topic discussed",
+        "significance": "Given the small fragment of the transcript provided, it is not clear if there were significant discussions. The transcript only covers the council members' voting process for adjourning the meeting.",
+        "stakeholders": [
+          "Council Members"
+        ]
+      }
+    ],
+    "unexpected_elements": [
+      {
+        "element": "No unexpected events",
+        "context": "The fragment of the City Council meeting transcript is quite straightforward. It only includes the unanimous vote to adjourn the meeting, which is a standard procedure in council meetings."
+      }
+    ]
+  },
+  "directed_analysis": {
+    "land_use": {
+      "present": false,
+      "significance": "None",
+      "context": "",
+      "notable_points": []
+    },
+    "economic_development": {
+      "present": false,
+      "significance": "None",
+      "context": "",
+      "notable_points": []
+    },
+    "taxes_budget": {
+      "present": false,
+      "significance": "None",
+      "context": "",
+      "notable_points": []
+    },
+    "other_significant_topics": []
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 4,
+      "speaking_time": {
+        "Commissioner Butler": 11.0,
+        "City Clerk Brenda Wolf": 13.48,
+        "Mayor Linda Morse": 12.639999999999999,
+        "Commissioner Maudet": 1.0
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [
+        "City Clerk Brenda Wolf",
+        "Mayor Linda Morse"
+      ],
+      "observation": "In this meeting, Mayor Linda Morse and City Clerk Brenda Wolf had the most speaking time. They seemed to lead the meeting with Mayor Morse asking for motions and Brenda Wolf taking roll calls."
+    },
+    "interaction_patterns": {
+      "pattern": "The speakers interact with each other by following a structured, formal process of proposing, seconding, and voting on motions.",
+      "notable_exchanges": [
+        "Mayor Morse requesting motions and adjournments and Brenda Wolf taking roll calls"
+      ]
+    },
+    "topic_ownership": [
+      {
+        "speaker": "Mayor Linda Morse",
+        "topics": [
+          "Meeting agenda and motion proposals"
+        ]
+      },
+      {
+        "speaker": "City Clerk Brenda Wolf",
+        "topics": [
+          "Roll calls"
+        ]
+      },
+      {
+        "speaker": "Commissioner Butler",
+        "topics": [
+          "Voting"
+        ]
+      },
+      {
+        "speaker": "Commissioner Maudet",
+        "topics": [
+          "Voting"
+        ]
+      }
+    ],
+    "public_participation": {
+      "level": "Low",
+      "observation": "The excerpt doesn't show evidence of public participation, as only the officials seem to be speaking. Members of the public didn't participate in the conversation."
+    }
+  },
+  "emergent_patterns": {
+    "recurring_themes": [
+      {
+        "theme": "Unanimity in decision making",
+        "evidence": "Every decision announced in this transcript had unanimous support, with 'Motion carries. Five to zero.' stated twice."
+      }
+    ],
+    "underlying_tensions": [],
+    "decision_patterns": {
+      "pattern": "Decisions are made through voting",
+      "observation": "Decisions during this meeting are made by voting, as indicated by the call for motion, seconding of the motion, and announcing the result of the voting."
+    },
+    "language_patterns": {
+      "formality": "High",
+      "technical_density": "Low",
+      "emotional_tone": "Neutral",
+      "notable_features": [
+        "Use of procedural language like 'Motion carries', 'We adjourned', 'call the roll', etc.",
+        "Use of role-based identifiers rather than personal names suggesting a professional environment."
+      ]
+    },
+    "other_insights": [
+      "The meeting appears to be well-structured and follows parliamentary or similar structured protocol. Each member's vote is individually acknowledged, suggesting a transparent decision-making process."
+    ]
+  }
+}

@@ -1,0 +1,4521 @@
+Transcription and Diarization for 20230714-07⧸11⧸23 City Commission Meeting.mp4
+==================================================
+
+Mayor Hassel:
+Start: 00:00:00.000
+End: 00:00:04.000
+Duration: 4.000 seconds
+Text: I'm going to go to the
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:00:04.000
+End: 00:00:06.000
+Duration: 2.000 seconds
+Text: next floor.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:00:06.000
+End: 00:00:10.000
+Duration: 4.000 seconds
+Text: It is 6 o'clock and I call the
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:00:10.000
+End: 00:00:12.000
+Duration: 2.000 seconds
+Text: July 11, 2023 City Commission
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:00:12.000
+End: 00:00:14.000
+Duration: 2.000 seconds
+Text: meeting to order.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:14.000
+End: 00:00:16.000
+Duration: 2.000 seconds
+Text: City clerk please call the roll.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:16.000
+End: 00:00:18.000
+Duration: 2.000 seconds
+Text: Mayor Hassel.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:18.000
+End: 00:00:20.000
+Duration: 2.000 seconds
+Text: Mr Butler.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:20.000
+End: 00:00:22.000
+Duration: 2.000 seconds
+Text: Mr. Mata.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:00:22.000
+End: 00:00:24.000
+Duration: 2.000 seconds
+Text: Mr. Morris.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:00:24.000
+End: 00:00:26.000
+Duration: 2.000 seconds
+Text: Mayor we have four commissioners
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:00:26.000
+End: 00:00:28.000
+Duration: 2.000 seconds
+Text: present.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:00:28.000
+End: 00:00:30.000
+Duration: 2.000 seconds
+Text: We have two members of the
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:00:30.000
+End: 00:00:32.000
+Duration: 2.000 seconds
+Text: United States of America and to the
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:00:32.000
+End: 00:00:34.000
+Duration: 2.000 seconds
+Text: Republic for which it stands one
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:00:34.000
+End: 00:00:36.000
+Duration: 2.000 seconds
+Text: nation under God,
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:00:36.000
+End: 00:00:40.000
+Duration: 4.000 seconds
+Text: indivisible with liberty and justice for all.
+--------------------------------------------------
+Mayor Hassel:
+Start: 00:00:40.000
+End: 00:00:44.000
+Duration: 4.000 seconds
+Text: The first legislative meeting of the month,
+--------------------------------------------------
+Mayor Hassel:
+Start: 00:00:44.000
+End: 00:00:48.000
+Duration: 4.000 seconds
+Text: public comments on items that are not on the agenda this evening
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:00:48.000
+End: 00:00:52.000
+Duration: 4.000 seconds
+Text: are available to be made at this moment.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:00:52.000
+End: 00:00:56.000
+Duration: 4.000 seconds
+Text: If anybody would like to comment on something that we're not
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:00:56.000
+End: 00:01:00.000
+Duration: 4.000 seconds
+Text: going to talk about later, now is your time to come forward and you'll have five minutes.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:01:00.000
+End: 00:01:02.000
+Duration: 2.000 seconds
+Text: Come on up.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:01:02.000
+End: 00:01:04.000
+Duration: 2.000 seconds
+Text: Sign in.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:01:04.000
+End: 00:01:06.000
+Duration: 2.000 seconds
+Text: State your name and address.
+--------------------------------------------------
+Mayor Hassel:
+Start: 00:01:06.000
+End: 00:01:08.000
+Duration: 2.000 seconds
+Text: You'll have up to five minutes.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:01:08.000
+End: 00:01:12.000
+Duration: 4.000 seconds
+Text: We won't debate or engage but we'll take you to
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:01:12.000
+End: 00:01:14.000
+Duration: 2.000 seconds
+Text: take what you say under consideration.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:01:14.000
+End: 00:01:16.000
+Duration: 2.000 seconds
+Text: Talking about this.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:01:16.000
+End: 00:01:20.000
+Duration: 4.000 seconds
+Text: I'm going to go ahead and talk to you about the
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:20.000
+End: 00:01:22.000
+Duration: 2.000 seconds
+Text: agenda.
+--------------------------------------------------
+Mayor Hassel:
+Start: 00:01:22.000
+End: 00:01:24.000
+Duration: 2.000 seconds
+Text: I'm going to talk about the agenda.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:01:24.000
+End: 00:01:26.000
+Duration: 2.000 seconds
+Text: I'm going to talk about the agenda.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:26.000
+End: 00:01:27.000
+Duration: 1.000 seconds
+Text: I'm going to talk about the
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:27.000
+End: 00:01:30.000
+Duration: 3.000 seconds
+Text: valuations and taxation.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:01:30.000
+End: 00:01:36.000
+Duration: 6.000 seconds
+Text: That's a good finish sign in them but we'll have your
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:01:36.000
+End: 00:01:38.000
+Duration: 2.000 seconds
+Text: weight on that until we get to that item.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:01:38.000
+End: 00:01:40.000
+Duration: 2.000 seconds
+Text: It is on the agenda.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:40.000
+End: 00:01:42.000
+Duration: 2.000 seconds
+Text: How late?
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:01:42.000
+End: 00:01:44.000
+Duration: 2.000 seconds
+Text: Oh, 20 minutes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:44.000
+End: 00:01:46.000
+Duration: 2.000 seconds
+Text: Revenue neutral is.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:01:46.000
+End: 00:01:48.000
+Duration: 2.000 seconds
+Text: That's all.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:48.000
+End: 00:01:50.000
+Duration: 2.000 seconds
+Text: That's what I'm going to be talking about.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:01:50.000
+End: 00:01:52.000
+Duration: 2.000 seconds
+Text: Yeah, look at him.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:01:52.000
+End: 00:01:56.000
+Duration: 4.000 seconds
+Text: I wanted to talk about plotholes or parks or recreation.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:01:56.000
+End: 00:01:58.000
+Duration: 2.000 seconds
+Text: I don't like that.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:01:58.000
+End: 00:02:00.000
+Duration: 2.000 seconds
+Text: That's the time.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:02:00.000
+End: 00:02:06.000
+Duration: 6.000 seconds
+Text: Is there anybody else want to talk about something that's not on tonight's agenda?
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:02:06.000
+End: 00:02:10.000
+Duration: 4.000 seconds
+Text: We will close the public comment on that part and we'll let you talk later.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:02:10.000
+End: 00:02:14.000
+Duration: 4.000 seconds
+Text: Mark, I'll give you the pick up when the time comes.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:02:14.000
+End: 00:02:16.000
+Duration: 2.000 seconds
+Text: Commissioner comments.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:02:16.000
+End: 00:02:18.000
+Duration: 2.000 seconds
+Text: Commissioner Hors, you have anything?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:02:18.000
+End: 00:02:20.000
+Duration: 2.000 seconds
+Text: No.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:02:20.000
+End: 00:02:22.000
+Duration: 2.000 seconds
+Text: No.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:02:22.000
+End: 00:02:24.000
+Duration: 2.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:02:24.000
+End: 00:02:26.000
+Duration: 2.000 seconds
+Text: City Manager.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:02:26.000
+End: 00:02:30.000
+Duration: 4.000 seconds
+Text: I just wanted to let you all know and folks know we had a
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:02:30.000
+End: 00:02:34.000
+Duration: 4.000 seconds
+Text: part go out at Seco Pool last week.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:02:34.000
+End: 00:02:38.000
+Duration: 4.000 seconds
+Text: The loner part came in today and was installed
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:02:38.000
+End: 00:02:42.000
+Duration: 4.000 seconds
+Text: and appears to be working appropriately and
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:02:42.000
+End: 00:02:46.000
+Duration: 4.000 seconds
+Text: hopefully overnight and tomorrow morning we'll get the pool balance just in time for the
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:02:46.000
+End: 00:02:48.000
+Duration: 2.000 seconds
+Text: heat advisory tomorrow.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:02:48.000
+End: 00:02:52.000
+Duration: 4.000 seconds
+Text: Hopefully we'll have all three pools and then
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:02:52.000
+End: 00:02:54.000
+Duration: 2.000 seconds
+Text: the splash parks all working.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:02:54.000
+End: 00:02:56.000
+Duration: 2.000 seconds
+Text: So I just wanted to thank you for that.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:02:56.000
+End: 00:02:58.000
+Duration: 2.000 seconds
+Text: Good timing.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:02:58.000
+End: 00:03:00.000
+Duration: 2.000 seconds
+Text: Good.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:03:00.000
+End: 00:03:02.000
+Duration: 2.000 seconds
+Text: Glad that is up and going again.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:03:02.000
+End: 00:03:04.000
+Duration: 2.000 seconds
+Text: We'll move on to the consent agenda.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:03:04.000
+End: 00:03:08.000
+Duration: 4.000 seconds
+Text: The items on the consent agenda are those of a routine or housekeeping nature or items we have previously considered.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:03:08.000
+End: 00:03:12.000
+Duration: 4.000 seconds
+Text: The commissioner may request an item be moved for separate discussion.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:03:12.000
+End: 00:03:16.000
+Duration: 4.000 seconds
+Text: Commissioner, do you have any questions or comments on any consent agenda items?
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:03:16.000
+End: 00:03:18.000
+Duration: 2.000 seconds
+Text: No.
+--------------------------------------------------
+Mayor Hassel:
+Start: 00:03:18.000
+End: 00:03:20.000
+Duration: 2.000 seconds
+Text: All right.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:03:20.000
+End: 00:03:26.000
+Duration: 6.000 seconds
+Text: Does anybody in the audience have any public comment on any consent agenda items?
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:03:26.000
+End: 00:03:28.000
+Duration: 2.000 seconds
+Text: Not yet.
+--------------------------------------------------
+Mayor Hassel:
+Start: 00:03:28.000
+End: 00:03:30.000
+Duration: 2.000 seconds
+Text: All right.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:03:30.000
+End: 00:03:32.000
+Duration: 2.000 seconds
+Text: We'll close public comment.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:03:32.000
+End: 00:03:36.000
+Duration: 4.000 seconds
+Text: Is there a motion from the commission?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:36.000
+End: 00:03:40.000
+Duration: 4.000 seconds
+Text: May or I move that we approve the consent agenda as distributed.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:03:40.000
+End: 00:03:42.000
+Duration: 2.000 seconds
+Text: Second. Second.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:03:42.000
+End: 00:03:46.000
+Duration: 4.000 seconds
+Text: We'll move by Commissioner Moore, second by Commissioner Moda to approve the consent agenda.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:46.000
+End: 00:03:48.000
+Duration: 2.000 seconds
+Text: Brenda, please call the roll.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:03:48.000
+End: 00:03:50.000
+Duration: 2.000 seconds
+Text: Commissioner Butler.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:03:50.000
+End: 00:03:52.000
+Duration: 2.000 seconds
+Text: Yes, except C1.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:03:52.000
+End: 00:03:54.000
+Duration: 2.000 seconds
+Text: I got to be consistent on my vote.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:03:54.000
+End: 00:03:56.000
+Duration: 2.000 seconds
+Text: No one C1. Yes, on everything else.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:56.000
+End: 00:03:58.000
+Duration: 2.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:58.000
+End: 00:04:00.000
+Duration: 2.000 seconds
+Text: Commissioner Moda.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:00.000
+End: 00:04:02.000
+Duration: 2.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:02.000
+End: 00:04:04.000
+Duration: 2.000 seconds
+Text: Commissioner Moore's.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:04.000
+End: 00:04:05.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:05.000
+End: 00:04:09.000
+Duration: 4.000 seconds
+Text: Commissioner C1, which carries three to one.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:04:09.000
+End: 00:04:13.000
+Duration: 4.000 seconds
+Text: All right. We will move on to the general agenda and we will begin with a,
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:04:13.000
+End: 00:04:17.000
+Duration: 4.000 seconds
+Text: considering a policy manual resolution related to the use of city logos.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:04:17.000
+End: 00:04:19.000
+Duration: 2.000 seconds
+Text: City Attorney Katie Jackson.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:04:19.000
+End: 00:04:21.000
+Duration: 2.000 seconds
+Text: Good evening, Mayor and Commissioner.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:04:21.000
+End: 00:04:23.000
+Duration: 2.000 seconds
+Text: So I'm going to introduce the item.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:04:23.000
+End: 00:04:29.000
+Duration: 6.000 seconds
+Text: We also have the city's outside council, Brian Meyer from Schick, Hardy and Bacon.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:04:29.000
+End: 00:04:33.000
+Duration: 4.000 seconds
+Text: He provided assistance to us on what we'll talk about with the Johnny Caugh.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:04:33.000
+End: 00:04:35.000
+Duration: 2.000 seconds
+Text: Determination.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:04:35.000
+End: 00:04:41.000
+Duration: 6.000 seconds
+Text: We had to get assistance on intellectual property laws since that's a specialized area.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:04:41.000
+End: 00:04:47.000
+Duration: 6.000 seconds
+Text: I'll do a brief introduction of the topic and then he will be appearing remotely.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:04:47.000
+End: 00:04:57.000
+Duration: 10.000 seconds
+Text: Tonight, the action before you is a policy manual resolution that relates to the city's official logos and does address Johnny Caugh.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:04:57.000
+End: 00:05:01.000
+Duration: 4.000 seconds
+Text: These are some examples of the official city logos that we have but we have more.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:05:01.000
+End: 00:05:11.000
+Duration: 10.000 seconds
+Text: The city has had logos and use for many years for the different divisions and for the city's official logo, which is in the bottom right hand corner.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:05:11.000
+End: 00:05:15.000
+Duration: 4.000 seconds
+Text: We haven't had a policy in the past about the use of the logos.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:05:15.000
+End: 00:05:23.000
+Duration: 8.000 seconds
+Text: Other than obviously we want to ensure that they're used only for official city business and used appropriately.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:05:23.000
+End: 00:05:29.000
+Duration: 6.000 seconds
+Text: We do get requests sometimes to use the city logo and that's kind of, can some kind of be awkward.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:05:29.000
+End: 00:05:39.000
+Duration: 10.000 seconds
+Text: Here's some examples. We'll get a request if we have a local community foundation that wants to do fundraising for sunset zoo and their materials.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:05:39.000
+End: 00:05:43.000
+Duration: 4.000 seconds
+Text: They might want to use the sunset zoo logo, which could be great for sunset zoo.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:05:43.000
+End: 00:05:51.000
+Duration: 8.000 seconds
+Text: We might get a request and we've had a request from a television production company that wanted to use the sunset zoo logo in the show.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:05:51.000
+End: 00:06:01.000
+Duration: 10.000 seconds
+Text: That would be a commercial use. It's just kind of difficult for us without some guidance from the commission to determine what would be the type of use or how we should handle that.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:06:01.000
+End: 00:06:07.000
+Duration: 6.000 seconds
+Text: This is owned by the city as a municipality but it's also of course represents our business.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:06:07.000
+End: 00:06:13.000
+Duration: 6.000 seconds
+Text: The policy tonight, and I'm going to talk about it after we'll address the city logo use.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:06:13.000
+End: 00:06:19.000
+Duration: 6.000 seconds
+Text: I also address the Johnny Cauchy and I'll turn it over to Brian here in just a minute.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:06:19.000
+End: 00:06:25.000
+Duration: 6.000 seconds
+Text: We also have requests as you know from individuals to use the name image or likeness of Johnny Cauchy.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:06:25.000
+End: 00:06:29.000
+Duration: 4.000 seconds
+Text: The city has owned the statue. It's located in city park.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:06:29.000
+End: 00:06:35.000
+Duration: 6.000 seconds
+Text: But the question that we've had that Brian will address for you is, do we have the right to license it for others to use it?
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:06:35.000
+End: 00:06:45.000
+Duration: 10.000 seconds
+Text: We've had also a request to use it in television shows by a production company and there's a bar in Manhattan that uses the name and that's also in Kansas City.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:06:45.000
+End: 00:06:55.000
+Duration: 10.000 seconds
+Text: We wanted, again, for us to respond to those requests, we needed to get some research to see what rights we have to it and then to get some guidance from the commission on how to respond to those requests.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:06:55.000
+End: 00:06:59.000
+Duration: 4.000 seconds
+Text: I'm going to open hopefully.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:06:59.000
+End: 00:07:03.000
+Duration: 4.000 seconds
+Text: How do I pull them up on this screen here?
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:07:03.000
+End: 00:07:05.000
+Duration: 2.000 seconds
+Text: You can hear you.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:07:05.000
+End: 00:07:07.000
+Duration: 2.000 seconds
+Text: Well, can I show them on the screen?
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:07:07.000
+End: 00:07:09.000
+Duration: 2.000 seconds
+Text: You'll have to join by.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:07:09.000
+End: 00:07:11.000
+Duration: 2.000 seconds
+Text: I'll have to join too.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:07:11.000
+End: 00:07:13.000
+Duration: 2.000 seconds
+Text: Okay, let's see.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:07:13.000
+End: 00:07:15.000
+Duration: 2.000 seconds
+Text: Well, no, you're fine. We're on teams.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:07:15.000
+End: 00:07:17.000
+Duration: 2.000 seconds
+Text: He can see the screen.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:07:17.000
+End: 00:07:19.000
+Duration: 2.000 seconds
+Text: Okay. Brian.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:07:19.000
+End: 00:07:21.000
+Duration: 2.000 seconds
+Text: Brian, are you there?
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:07:21.000
+End: 00:07:23.000
+Duration: 2.000 seconds
+Text: Yes, I'm here.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:07:23.000
+End: 00:07:25.000
+Duration: 2.000 seconds
+Text: Can you hear me?
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:07:25.000
+End: 00:07:27.000
+Duration: 2.000 seconds
+Text: Yeah, we can hear you.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:07:27.000
+End: 00:07:29.000
+Duration: 2.000 seconds
+Text: Did he have something he wanted to show?
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:07:29.000
+End: 00:07:31.000
+Duration: 2.000 seconds
+Text: Is there anything you wanted to show?
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:07:31.000
+End: 00:07:33.000
+Duration: 2.000 seconds
+Text: All we have is the picture of the Johnny Cost statue.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:07:33.000
+End: 00:07:35.000
+Duration: 2.000 seconds
+Text: If that works for you.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:07:35.000
+End: 00:07:37.000
+Duration: 2.000 seconds
+Text: Yeah, I think that should work fine.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:07:37.000
+End: 00:07:49.000
+Duration: 12.000 seconds
+Text: Okay. Okay. Brian, if you want to go ahead and give some background for the commission and the members of the public just on your research and the recommendation and the policy manual, thank you.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:07:49.000
+End: 00:07:51.000
+Duration: 2.000 seconds
+Text: Sure, absolutely.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:07:51.000
+End: 00:07:53.000
+Duration: 2.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:07:53.000
+End: 00:07:55.000
+Duration: 2.000 seconds
+Text: I'm sorry.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:07:55.000
+End: 00:07:57.000
+Duration: 2.000 seconds
+Text: I'm sorry.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:07:57.000
+End: 00:07:59.000
+Duration: 2.000 seconds
+Text: I'm sorry.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:07:59.000
+End: 00:08:01.000
+Duration: 2.000 seconds
+Text: I'm sorry.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:08:01.000
+End: 00:08:03.000
+Duration: 2.000 seconds
+Text: I'm sorry.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:08:03.000
+End: 00:08:05.000
+Duration: 2.000 seconds
+Text: I'm sorry.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:08:05.000
+End: 00:08:07.000
+Duration: 2.000 seconds
+Text: I'm sorry.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:08:07.000
+End: 00:08:09.000
+Duration: 2.000 seconds
+Text: I'm sorry.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:08:09.000
+End: 00:08:11.000
+Duration: 2.000 seconds
+Text: I'm sorry.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:08:11.000
+End: 00:08:13.000
+Duration: 2.000 seconds
+Text: I'm sorry.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:08:13.000
+End: 00:08:15.000
+Duration: 2.000 seconds
+Text: I'm sorry.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:08:15.000
+End: 00:08:17.000
+Duration: 2.000 seconds
+Text: I'm sorry.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:08:17.000
+End: 00:08:19.000
+Duration: 2.000 seconds
+Text: I'm sorry.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:08:19.000
+End: 00:08:21.000
+Duration: 2.000 seconds
+Text: I'm sorry.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:08:21.000
+End: 00:08:23.000
+Duration: 2.000 seconds
+Text: I'm sorry.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:08:23.000
+End: 00:08:25.000
+Duration: 2.000 seconds
+Text: I'm sorry.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:08:25.000
+End: 00:08:27.000
+Duration: 2.000 seconds
+Text: I'm sorry.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:08:27.000
+End: 00:08:29.000
+Duration: 2.000 seconds
+Text: I'm sorry.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:08:29.000
+End: 00:08:31.000
+Duration: 2.000 seconds
+Text: I'm sorry.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:08:31.000
+End: 00:08:33.000
+Duration: 2.000 seconds
+Text: I'm sorry.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:08:33.000
+End: 00:08:35.000
+Duration: 2.000 seconds
+Text: I'm sorry.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:08:35.000
+End: 00:08:37.000
+Duration: 2.000 seconds
+Text: I'm sorry.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:08:37.000
+End: 00:08:39.000
+Duration: 2.000 seconds
+Text: I'm sorry.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:08:39.000
+End: 00:08:44.000
+Duration: 5.000 seconds
+Text: The history of Johnny Cost statue based on newspaper reports, articles, materials that were prepared around the Centennial City, and a number of other communications that we were able to find and.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:08:44.000
+End: 00:08:45.000
+Duration: 1.000 seconds
+Text: The terminate what copyright interests may exist or may not exist.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:08:45.000
+End: 00:08:47.000
+Duration: 2.000 seconds
+Text: The short answer is,
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:08:47.000
+End: 00:08:49.640
+Duration: 2.640 seconds
+Text: in the statute.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:08:49.640
+End: 00:08:55.000
+Duration: 5.360 seconds
+Text: This is a very similar situation to what happened in the Soviet Chicago with the Picasso
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:08:55.000
+End: 00:08:58.960
+Duration: 3.960 seconds
+Text: sculpture that's in daily plaza.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:08:58.960
+End: 00:09:07.280
+Duration: 8.320 seconds
+Text: Here as there, a mockette of the statute was created in advance.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:09:07.280
+End: 00:09:10.280
+Duration: 3.000 seconds
+Text: There's no evidence that any copyright notice was applied to it.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:09:10.280
+End: 00:09:15.160
+Duration: 4.880 seconds
+Text: And as a result of that, the copyright is deemed to be donated to the public as soon
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:09:15.160
+End: 00:09:17.080
+Duration: 1.920 seconds
+Text: as it is, quote, published.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:09:17.080
+End: 00:09:21.040
+Duration: 3.960 seconds
+Text: So sometime between the mid 1950s when the mockettes and the John E. Costs actually
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:09:21.040
+End: 00:09:26.320
+Duration: 5.280 seconds
+Text: were created and when the statute was actually completed in 1966, a publication occurred
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:09:26.320
+End: 00:09:31.440
+Duration: 5.120 seconds
+Text: and without the formal formalities being observed, the copyright interest in that has been donated
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:09:31.440
+End: 00:09:36.640
+Duration: 5.200 seconds
+Text: to the public, so that anyone can use it without requiring a license from the city or
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:09:36.640
+End: 00:09:40.840
+Duration: 4.200 seconds
+Text: other entity.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:09:40.840
+End: 00:09:42.240
+Duration: 1.400 seconds
+Text: That's kind of cutting to the chase.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:09:42.240
+End: 00:09:46.600
+Duration: 4.360 seconds
+Text: I'm happy to answer any questions that the city or any members of the public might have,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:46.600
+End: 00:09:52.040
+Duration: 5.440 seconds
+Text: but KDS to all I had to say on this.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:09:52.040
+End: 00:09:54.760
+Duration: 2.720 seconds
+Text: To make sure you have any questions?
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:09:54.760
+End: 00:09:58.880
+Duration: 4.120 seconds
+Text: No, I read, you know, the packet had all the details of the various things and so it
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:09:58.880
+End: 00:09:59.880
+Duration: 1.000 seconds
+Text: makes sense to me.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:09:59.880
+End: 00:10:02.280
+Duration: 2.400 seconds
+Text: So I don't have any questions.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:10:02.280
+End: 00:10:04.040
+Duration: 1.760 seconds
+Text: I appreciate the work on that.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:10:04.040
+End: 00:10:12.560
+Duration: 8.520 seconds
+Text: Are there any other images or whatever in the city that are like Johnny Caugh?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:10:12.560
+End: 00:10:15.360
+Duration: 2.800 seconds
+Text: Do we have that are in the public domain?
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:10:15.360
+End: 00:10:20.280
+Duration: 4.920 seconds
+Text: We did not have Brian way in and analyze other landmarks.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:10:20.280
+End: 00:10:23.840
+Duration: 3.560 seconds
+Text: The other one though that is commonly, we're commonly asked about are the Manhattan
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:10:23.840
+End: 00:10:26.000
+Duration: 2.160 seconds
+Text: letters.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:10:26.000
+End: 00:10:31.240
+Duration: 5.240 seconds
+Text: We again, we have not done an official legal review of that, but based upon this evaluation,
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:10:31.240
+End: 00:10:36.360
+Duration: 5.120 seconds
+Text: it's probably a similar outcome because both Johnny Caugh and the Manhattan letters have
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:10:36.360
+End: 00:10:41.640
+Duration: 5.280 seconds
+Text: a similar, they've been established similarly where there is a partnership with other organizations
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:10:41.640
+End: 00:10:46.720
+Duration: 5.080 seconds
+Text: that installed, you know, in that case, they installed the letters, have taken care of
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:10:46.720
+End: 00:10:51.040
+Duration: 4.320 seconds
+Text: the letters and the city has not done anything over the years to protect the image.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:10:51.040
+End: 00:10:52.040
+Duration: 1.000 seconds
+Text: You've seen it sometimes.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:10:52.040
+End: 00:10:54.320
+Duration: 2.280 seconds
+Text: There's an image of the hill with the Manhattan letters.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:10:54.320
+End: 00:10:57.800
+Duration: 3.480 seconds
+Text: I'm not saying that that's a conclusive opinion that it's in the public domain, which is
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:10:57.800
+End: 00:11:01.640
+Duration: 3.840 seconds
+Text: why we haven't included that in this policy manual resolution.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:11:01.640
+End: 00:11:06.480
+Duration: 4.840 seconds
+Text: That's something that we can do, but that is the only other landmark that we, at least
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:11:06.480
+End: 00:11:10.480
+Duration: 4.000 seconds
+Text: city, that I'm aware that city staff has been asked about in terms of using the likeness
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:11:10.480
+End: 00:11:11.480
+Duration: 1.000 seconds
+Text: of it.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:11:11.480
+End: 00:11:14.480
+Duration: 3.000 seconds
+Text: If there's something else the commission wants us to look into, then we would send that
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:11:14.480
+End: 00:11:16.160
+Duration: 1.680 seconds
+Text: information to the law firm.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:11:16.160
+End: 00:11:17.560
+Duration: 1.400 seconds
+Text: I have it if it's related.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:11:17.560
+End: 00:11:18.560
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:11:18.560
+End: 00:11:19.560
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:11:19.560
+End: 00:11:24.880
+Duration: 5.320 seconds
+Text: There's a, if somebody else wanted to lay claim to Johnny Caugh, they would have to somehow
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:11:24.960
+End: 00:11:29.800
+Duration: 4.840 seconds
+Text: come up with information that he couldn't find that would boast of their opinion that
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:11:29.800
+End: 00:11:34.880
+Duration: 5.080 seconds
+Text: somebody else would have some rights to it, but they would have to have something more
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:11:34.880
+End: 00:11:36.760
+Duration: 1.880 seconds
+Text: indifferent.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:11:36.760
+End: 00:11:40.360
+Duration: 3.600 seconds
+Text: They would have to come up with something new and different that he wasn't able to look
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:11:40.360
+End: 00:11:45.240
+Duration: 4.880 seconds
+Text: at to try to determine some other kind of ownership, right?
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:11:45.240
+End: 00:11:50.440
+Duration: 5.200 seconds
+Text: I'll turn over to Brian and Justice Sack, but just we did only evaluate what the city's
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:11:50.440
+End: 00:11:53.000
+Duration: 2.560 seconds
+Text: ownership of this would be, and that's the focus.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:11:53.000
+End: 00:11:56.800
+Duration: 3.800 seconds
+Text: And then our policy manual resolution, it says the city's position is that the city
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:11:56.800
+End: 00:12:00.680
+Duration: 3.880 seconds
+Text: has no ownership over it, but your question goes a little further than that.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:12:00.680
+End: 00:12:03.120
+Duration: 2.440 seconds
+Text: Not a let Brian respond to that.
+--------------------------------------------------
+Mayor Hassel:
+Start: 00:12:03.120
+End: 00:12:04.120
+Duration: 1.000 seconds
+Text: Sure.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:12:04.120
+End: 00:12:06.120
+Duration: 2.000 seconds
+Text: I think you're right on.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:12:06.120
+End: 00:12:10.840
+Duration: 4.720 seconds
+Text: I think the answer would be that person who wanted to assert some sort of ownership
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:12:10.840
+End: 00:12:14.920
+Duration: 4.080 seconds
+Text: of the copyright would have to find additional evidence that we were unable to find when
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:12:14.920
+End: 00:12:16.800
+Duration: 1.880 seconds
+Text: we reviewed all the documents.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:12:16.800
+End: 00:12:21.640
+Duration: 4.840 seconds
+Text: Specifically, they need to find that they had taken affirmative steps to put the public
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:12:21.640
+End: 00:12:30.680
+Duration: 9.040 seconds
+Text: on notice that they were the owner and have always maintained a limit on who could access
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:12:30.680
+End: 00:12:38.640
+Duration: 7.960 seconds
+Text: the Johnny Coste statue for pictures or drawings or any other type of quote unquote copy.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:12:38.640
+End: 00:12:42.560
+Duration: 3.920 seconds
+Text: If they haven't limited access to it, which seems very unlikely since it's in the city
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:12:42.560
+End: 00:12:49.200
+Duration: 6.640 seconds
+Text: park and it's opened up to the public, most likely there would be an impossible burden
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:12:49.200
+End: 00:12:51.320
+Duration: 2.120 seconds
+Text: for them to meet to claim ownership of it.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:12:51.320
+End: 00:12:52.320
+Duration: 1.000 seconds
+Text: Very good.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:12:52.320
+End: 00:12:54.320
+Duration: 2.000 seconds
+Text: That's what we need to know.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:12:54.320
+End: 00:13:00.400
+Duration: 6.080 seconds
+Text: I'll wrap up with just going over the policy, but before I do, we did provide, I wanted
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:13:00.400
+End: 00:13:04.320
+Duration: 3.920 seconds
+Text: to thank Commissioner Butler and the Johnny Caugh group that actually gathered a lot of
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:13:04.320
+End: 00:13:07.440
+Duration: 3.120 seconds
+Text: information from the Historical Society.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:13:07.440
+End: 00:13:11.000
+Duration: 3.560 seconds
+Text: That was all provided to the attorney and that was really helpful.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:13:11.000
+End: 00:13:15.440
+Duration: 4.440 seconds
+Text: So I wanted to thank them for that because that certainly helped our research to have
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:13:15.440
+End: 00:13:18.880
+Duration: 3.440 seconds
+Text: that work done.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:13:19.760
+End: 00:13:24.240
+Duration: 4.480 seconds
+Text: To summarize again, the policy manual resolution, if adopted, it would give guidance to the
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:13:24.240
+End: 00:13:29.480
+Duration: 5.240 seconds
+Text: city administration that our logos confirms what we already are following, which is that
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:13:29.480
+End: 00:13:34.880
+Duration: 5.400 seconds
+Text: our logos are official to the city that they are, that we want to protect the use of our
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:13:34.880
+End: 00:13:36.560
+Duration: 1.680 seconds
+Text: logos.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:13:36.560
+End: 00:13:41.960
+Duration: 5.400 seconds
+Text: The city manager's office can give permission to another entity by contract to use our
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:13:41.960
+End: 00:13:42.960
+Duration: 1.000 seconds
+Text: logo.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:13:42.960
+End: 00:13:45.680
+Duration: 2.720 seconds
+Text: Like I said, that sometimes happens with fundraising.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:13:45.680
+End: 00:13:50.800
+Duration: 5.120 seconds
+Text: Other instances that we've done that by contract in the past has been if we work with a designer
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:13:50.800
+End: 00:13:54.240
+Duration: 3.440 seconds
+Text: construction company on a project that our logo, they might use that in some of their
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:13:54.240
+End: 00:13:55.240
+Duration: 1.000 seconds
+Text: materials.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:13:55.240
+End: 00:13:59.720
+Duration: 4.480 seconds
+Text: So we would continue to do those things as appropriate.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:13:59.720
+End: 00:14:05.840
+Duration: 6.120 seconds
+Text: If someone does request commercial third party use, so if it is a production company or something
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:14:05.840
+End: 00:14:09.400
+Duration: 3.560 seconds
+Text: along those lines, the city manager would have the authority to approve that and assess
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:14:09.400
+End: 00:14:10.880
+Duration: 1.480 seconds
+Text: a fee.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:14:10.880
+End: 00:14:15.480
+Duration: 4.600 seconds
+Text: I would, although he can do that within his authority, I would assume that, you know, if he has
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:14:15.480
+End: 00:14:19.600
+Duration: 4.120 seconds
+Text: any concerns or questions about that, he would test the temperature of the commission
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:14:19.600
+End: 00:14:20.600
+Duration: 1.000 seconds
+Text: on that.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:14:20.600
+End: 00:14:24.920
+Duration: 4.320 seconds
+Text: But that does make it clear that we can, in terms of the official logos, that there is
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:14:24.920
+End: 00:14:29.080
+Duration: 4.160 seconds
+Text: an ability to contract for that if there's interest from a third party.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:14:29.080
+End: 00:14:34.040
+Duration: 4.960 seconds
+Text: And then the final thing in there that we covered with Brian is that it does state that
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:14:34.040
+End: 00:14:36.480
+Duration: 2.440 seconds
+Text: that Johnny caused in the public domain.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:14:36.480
+End: 00:14:40.080
+Duration: 3.600 seconds
+Text: That is not essential to this policy, in the sense that it's kind of outside the scope
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:14:40.080
+End: 00:14:41.240
+Duration: 1.160 seconds
+Text: of the logo.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:14:41.240
+End: 00:14:45.320
+Duration: 4.080 seconds
+Text: The reason though it is in here is because we do get questions from city staff.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:14:45.320
+End: 00:14:49.640
+Duration: 4.320 seconds
+Text: The commission gets questions on Johnny Caught and we wanted to have there be some official
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:14:49.640
+End: 00:14:54.320
+Duration: 4.680 seconds
+Text: documentation that that was the city's position on it so that we could refer anyone who wants
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:14:54.320
+End: 00:14:56.000
+Duration: 1.680 seconds
+Text: to use Johnny Caught to that.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:14:56.000
+End: 00:15:00.880
+Duration: 4.880 seconds
+Text: So it's really for the public information about Johnny Caught.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:15:00.880
+End: 00:15:03.920
+Duration: 3.040 seconds
+Text: Because it's in the public domain, as we've talked about, there would be no fee to the
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:15:03.920
+End: 00:15:07.760
+Duration: 3.840 seconds
+Text: city for any third party use.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:15:07.760
+End: 00:15:13.560
+Duration: 5.800 seconds
+Text: This is the action before you tonight, is to, if you want to pass the policy manual
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:15:13.560
+End: 00:15:15.760
+Duration: 2.200 seconds
+Text: resolution, this is the motion that's been provided.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:15:15.760
+End: 00:15:20.560
+Duration: 4.800 seconds
+Text: And we can stand for any questions about the policy manual resolution or for Brian.
+--------------------------------------------------
+Mayor Hassel:
+Start: 00:15:20.560
+End: 00:15:21.560
+Duration: 1.000 seconds
+Text: I agree.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:15:21.560
+End: 00:15:22.560
+Duration: 1.000 seconds
+Text: John?
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:15:22.560
+End: 00:15:24.400
+Duration: 1.840 seconds
+Text: Yeah, I have a question.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:15:24.400
+End: 00:15:31.640
+Duration: 7.240 seconds
+Text: Not about Johnny or for a lot of this, but I don't know if it's really this policy or
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:15:31.640
+End: 00:15:37.680
+Duration: 6.040 seconds
+Text: some other policy, but how do we designate an official city logo?
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:15:37.680
+End: 00:15:39.440
+Duration: 1.760 seconds
+Text: How was that approved?
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:15:39.440
+End: 00:15:43.680
+Duration: 4.240 seconds
+Text: And you may already know I was going to have a question because I got complaints about
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:15:43.680
+End: 00:15:45.960
+Duration: 2.280 seconds
+Text: as what was put up.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:15:45.960
+End: 00:15:50.880
+Duration: 4.920 seconds
+Text: And I know a lot of companies really regulate what goes out on social media, have approval
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:15:50.880
+End: 00:15:55.360
+Duration: 4.480 seconds
+Text: processes, maybe even regulate what's on the signature line of employees to make sure
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:15:55.360
+End: 00:15:56.920
+Duration: 1.560 seconds
+Text: that that's done.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:15:56.920
+End: 00:16:00.680
+Duration: 3.760 seconds
+Text: So when I got complaints about this, they're saying, did you approve this?
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:16:00.680
+End: 00:16:01.920
+Duration: 1.240 seconds
+Text: And I said, well, we don't approve it.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:16:01.920
+End: 00:16:05.680
+Duration: 3.760 seconds
+Text: We did a flag thing that was a contest and we were involved with that.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:16:05.680
+End: 00:16:07.640
+Duration: 1.960 seconds
+Text: We're not involved today today.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:16:07.640
+End: 00:16:11.880
+Duration: 4.240 seconds
+Text: So after that came up, well, who's doing this and how is it vetted?
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:16:11.880
+End: 00:16:14.400
+Duration: 2.520 seconds
+Text: Our logos have different histories.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:16:14.400
+End: 00:16:18.880
+Duration: 4.480 seconds
+Text: So the official logo that you see in the corner was designed by a design firm and the
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:16:18.880
+End: 00:16:23.400
+Duration: 4.520 seconds
+Text: variations of that, which includes the public works, one that you see there.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:16:23.400
+End: 00:16:27.200
+Duration: 3.800 seconds
+Text: Those were designed, I don't know, eight years, eight to ten years ago, I think, probably
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:16:27.200
+End: 00:16:30.120
+Duration: 2.920 seconds
+Text: where we converted to that logo.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:16:30.120
+End: 00:16:32.720
+Duration: 2.600 seconds
+Text: And we just, we contracted with the design company.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:16:32.720
+End: 00:16:34.560
+Duration: 1.840 seconds
+Text: I don't know if Ron recalls.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:16:34.560
+End: 00:16:38.080
+Duration: 3.520 seconds
+Text: I don't, the commission did not take action to adopt those logos.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:16:38.080
+End: 00:16:39.080
+Duration: 1.000 seconds
+Text: Let me put it that way.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:16:39.080
+End: 00:16:42.440
+Duration: 3.360 seconds
+Text: You might have shown them to the commission and gotten some feedback.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:16:42.440
+End: 00:16:46.360
+Duration: 3.920 seconds
+Text: These other logos, some of them have been used for many decades.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:16:46.360
+End: 00:16:53.280
+Duration: 6.920 seconds
+Text: So in terms of how they're adopted officially, the logos are, they have different, different
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:16:53.280
+End: 00:16:57.560
+Duration: 4.280 seconds
+Text: histories, whether they were designed, but they were adopted by administration.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:16:57.560
+End: 00:17:00.960
+Duration: 3.400 seconds
+Text: The second part of your question is how can it be used?
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:17:00.960
+End: 00:17:08.120
+Duration: 7.160 seconds
+Text: And some of the logos do have like a guide for the colors that can be used, how they can
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:17:08.120
+End: 00:17:09.120
+Duration: 1.000 seconds
+Text: be adapted.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:17:09.120
+End: 00:17:11.240
+Duration: 2.120 seconds
+Text: The public works is a good one.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:17:11.240
+End: 00:17:15.440
+Duration: 4.200 seconds
+Text: In other words, you can't, you, they actually have a guide that goes with that that says,
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:17:15.440
+End: 00:17:16.800
+Duration: 1.360 seconds
+Text: these colors have to be used.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:17:16.800
+End: 00:17:18.680
+Duration: 1.880 seconds
+Text: It can only be on this background and those things.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:17:18.680
+End: 00:17:20.160
+Duration: 1.480 seconds
+Text: That's all internal.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:17:20.160
+End: 00:17:24.280
+Duration: 4.120 seconds
+Text: I can't speak to some of these other logos because some of them, specifically, it was the
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:17:24.280
+End: 00:17:28.520
+Duration: 4.240 seconds
+Text: parks and the parks and rec logo that was put up last month.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:17:28.520
+End: 00:17:31.520
+Duration: 3.000 seconds
+Text: Which was, which was, wasn't that.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:17:31.520
+End: 00:17:33.200
+Duration: 1.680 seconds
+Text: It's now come back to that.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:17:33.200
+End: 00:17:39.800
+Duration: 6.600 seconds
+Text: That was the ones that people were complaining about, basically, to them at Mimic to Pride
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:17:39.800
+End: 00:17:40.800
+Duration: 1.000 seconds
+Text: Flag.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:17:40.800
+End: 00:17:43.080
+Duration: 2.280 seconds
+Text: And we're saying, are we, are we taking a political stance?
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:17:43.080
+End: 00:17:44.080
+Duration: 1.000 seconds
+Text: Are we endorsing?
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:17:44.080
+End: 00:17:48.800
+Duration: 4.720 seconds
+Text: They give a whole bunch of different things that concerns that they had.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:17:48.800
+End: 00:17:50.840
+Duration: 2.040 seconds
+Text: And I said, well, I'll ask the question.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:17:50.840
+End: 00:17:53.160
+Duration: 2.320 seconds
+Text: I'll look into it.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:17:53.160
+End: 00:17:55.920
+Duration: 2.760 seconds
+Text: And now, since they even come to, oh, well, good, it's down.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:17:55.920
+End: 00:17:56.880
+Duration: 0.960 seconds
+Text: I said, well, I don't think it was because, necessarily, I said, well, I don't think it
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:17:56.880
+End: 00:17:58.400
+Duration: 1.520 seconds
+Text: was because, necessarily, I said, well, I don't think it was, I said, well, I don't
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:17:58.400
+End: 00:18:00.760
+Duration: 2.360 seconds
+Text: think it was because I said anything about it.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:18:00.760
+End: 00:18:03.000
+Duration: 2.240 seconds
+Text: But I said, I would ask the question at the meeting.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:18:03.000
+End: 00:18:04.000
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:18:04.000
+End: 00:18:05.280
+Duration: 1.280 seconds
+Text: Those are kind of two different things.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:18:05.280
+End: 00:18:09.720
+Duration: 4.440 seconds
+Text: So one is the issue of whether or not we have guidance to the staff on how, like, what
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:18:09.720
+End: 00:18:11.600
+Duration: 1.880 seconds
+Text: you can overlay the logo on.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:18:11.600
+End: 00:18:15.720
+Duration: 4.120 seconds
+Text: And that's, like, in the example of the public works logo, there is guidance about putting
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:18:15.720
+End: 00:18:18.920
+Duration: 3.200 seconds
+Text: it on a white background or a black background or changing the colors.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:18:18.920
+End: 00:18:20.480
+Duration: 1.560 seconds
+Text: We don't have that for all of them.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:18:20.480
+End: 00:18:25.560
+Duration: 5.080 seconds
+Text: The second thing that's really, there is, who's in charge of our social media accounts.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:18:25.560
+End: 00:18:28.280
+Duration: 2.720 seconds
+Text: That's really, and we have a policy that the social
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:18:28.280
+End: 00:18:32.480
+Duration: 4.200 seconds
+Text: media accounts that there is an employee, depending on the department, there's an employee
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:18:32.480
+End: 00:18:36.520
+Duration: 4.040 seconds
+Text: who has access to those accounts, who can update the content on those accounts, and that's
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:18:36.520
+End: 00:18:39.040
+Duration: 2.520 seconds
+Text: all handled administratively.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:18:39.040
+End: 00:18:43.840
+Duration: 4.800 seconds
+Text: Because the accounts are through different departments, I mean, that's through, I can't
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:18:43.840
+End: 00:18:44.840
+Duration: 1.000 seconds
+Text: speak to that.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:18:44.840
+End: 00:18:49.960
+Duration: 5.120 seconds
+Text: I don't know exactly your example who did that because the departments would be in charge
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:18:49.960
+End: 00:18:53.120
+Duration: 3.160 seconds
+Text: of their account if they have an individual account.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:18:53.120
+End: 00:18:56.280
+Duration: 3.160 seconds
+Text: And I think you're talking about the Parks and Rec various accounts.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:18:56.280
+End: 00:18:59.160
+Duration: 2.880 seconds
+Text: So those would all fall within the Parks and Rec department.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:18:59.160
+End: 00:19:04.260
+Duration: 5.100 seconds
+Text: And we have a social media policy that talks about just using those for city purposes,
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:19:04.260
+End: 00:19:05.260
+Duration: 1.000 seconds
+Text: but it's pretty broad.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:19:05.260
+End: 00:19:08.680
+Duration: 3.420 seconds
+Text: It doesn't address the type of question you're asking, which is what is the flexibility
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:19:08.680
+End: 00:19:12.200
+Duration: 3.520 seconds
+Text: of the employee to play around with the logo or the file it doesn't do?
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:19:12.200
+End: 00:19:13.200
+Duration: 1.000 seconds
+Text: Right.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:19:13.200
+End: 00:19:16.640
+Duration: 3.440 seconds
+Text: So what the person has is just to employ his women what they want to change the it to
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:19:16.640
+End: 00:19:18.600
+Duration: 1.960 seconds
+Text: and put it out.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:19:18.600
+End: 00:19:25.280
+Duration: 6.680 seconds
+Text: Again, I might just suggest that we strengthen that up some or make some sort of approval
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:19:25.280
+End: 00:19:30.720
+Duration: 5.440 seconds
+Text: process of how that's done.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:19:30.720
+End: 00:19:35.760
+Duration: 5.040 seconds
+Text: So if someone to give it an eye is if people are going to think that's political or sending
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:19:35.760
+End: 00:19:40.480
+Duration: 4.720 seconds
+Text: a message or something that the city is endorsing or something like that.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:19:40.480
+End: 00:19:41.960
+Duration: 1.480 seconds
+Text: And again, it's very typical.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:19:41.960
+End: 00:19:46.520
+Duration: 4.560 seconds
+Text: I mean, that vetting process and companies and like what I've been involved with, I even
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:19:46.520
+End: 00:19:49.560
+Duration: 3.040 seconds
+Text: down to the signature line on the things that you can.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:19:49.560
+End: 00:19:55.920
+Duration: 6.360 seconds
+Text: And as being a government institution, people expect us to be pretty neutral on things
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:19:55.920
+End: 00:19:56.920
+Duration: 1.000 seconds
+Text: that come out.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:19:56.920
+End: 00:20:03.880
+Duration: 6.960 seconds
+Text: And it's one thing to do stuff in-house among the employees, which is fine because when
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:20:03.880
+End: 00:20:07.640
+Duration: 3.760 seconds
+Text: it comes to projecting it out into the public, then that's I think the only thing time the
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:20:07.640
+End: 00:20:11.560
+Duration: 3.920 seconds
+Text: commission needs to be in or might want to be involved with it.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:20:11.560
+End: 00:20:15.840
+Duration: 4.280 seconds
+Text: Would you guys do during the day-to-day operations find when you still stuff sort of out in the
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:20:15.840
+End: 00:20:16.840
+Duration: 1.000 seconds
+Text: public?
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:20:17.400
+End: 00:20:20.640
+Duration: 3.240 seconds
+Text: It's not unlike, let's just say the Bud Light deal.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:20:20.640
+End: 00:20:26.120
+Duration: 5.480 seconds
+Text: Course light, middle light, everybody else is just as have the same positions when it comes
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:20:26.120
+End: 00:20:28.160
+Duration: 2.040 seconds
+Text: to DEI and all that stuff.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:20:28.160
+End: 00:20:33.080
+Duration: 4.920 seconds
+Text: But they sort of keep it all in-house, corporat-wise, whereas Bud Light went out to the public and
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:20:33.080
+End: 00:20:35.720
+Duration: 2.640 seconds
+Text: they got spanked for doing that for no lack of a better term.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:20:35.720
+End: 00:20:39.160
+Duration: 3.440 seconds
+Text: So by a certain member, the percentage of the public.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:20:39.160
+End: 00:20:41.480
+Duration: 2.320 seconds
+Text: So I guess that might be one of the things.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:20:41.480
+End: 00:20:48.600
+Duration: 7.120 seconds
+Text: You guys can in-house is one thing when it starts being projecting stuff out into the public.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:20:48.600
+End: 00:20:57.160
+Duration: 8.560 seconds
+Text: Then that's where some people get will get concerned because that's now a different option
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:20:57.160
+End: 00:20:58.160
+Duration: 1.000 seconds
+Text: for people and stuff.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:20:58.160
+End: 00:21:02.720
+Duration: 4.560 seconds
+Text: Well, all of that falls within marketing and marketing is under the city managers'
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:21:02.720
+End: 00:21:03.520
+Duration: 0.800 seconds
+Text: purview.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:21:03.520
+End: 00:21:08.880
+Duration: 5.360 seconds
+Text: So if you want to give guidance to the city manager as to that, we don't have a policy that
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:21:08.880
+End: 00:21:09.880
+Duration: 1.000 seconds
+Text: let me back up.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:21:09.880
+End: 00:21:13.360
+Duration: 3.480 seconds
+Text: You don't have a policy that governing body is directing the marketing of the city.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:21:13.360
+End: 00:21:14.360
+Duration: 1.000 seconds
+Text: That's the initiative.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:21:14.360
+End: 00:21:21.040
+Duration: 6.680 seconds
+Text: And I once say, go that, I just say and I think we just need to be sensitive about it and
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:21:21.040
+End: 00:21:26.760
+Duration: 5.720 seconds
+Text: make sure that we're reviewing it at a certain level if we're going to put it out on social
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:21:26.760
+End: 00:21:27.760
+Duration: 1.000 seconds
+Text: media.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:21:27.760
+End: 00:21:32.880
+Duration: 5.120 seconds
+Text: And I don't think it's good just to say, oh, it's different departments are going to
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:21:32.880
+End: 00:21:37.280
+Duration: 4.400 seconds
+Text: decide what they're going to put out for their social media.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:21:37.280
+End: 00:21:39.280
+Duration: 2.000 seconds
+Text: I think there should be some other approval.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:21:39.280
+End: 00:21:43.120
+Duration: 3.840 seconds
+Text: It doesn't necessarily have to be the commission, but some other approval process internally
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:21:43.120
+End: 00:21:48.480
+Duration: 5.360 seconds
+Text: to say, could this be interpreted differently than how you're seeing it and are there any
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:21:48.480
+End: 00:21:50.720
+Duration: 2.240 seconds
+Text: concerns with that?
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:21:50.720
+End: 00:21:51.720
+Duration: 1.000 seconds
+Text: That's all I'm asking.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:21:51.720
+End: 00:21:53.200
+Duration: 1.480 seconds
+Text: For an administrative review process.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:21:53.200
+End: 00:21:54.200
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:21:54.200
+End: 00:21:55.200
+Duration: 1.000 seconds
+Text: Okay, that's helpful.
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:21:55.200
+End: 00:21:59.200
+Duration: 4.000 seconds
+Text: That'd be something that the city manager could take under advisement and incorporate
+--------------------------------------------------
+City Attorney Katie Jackson:
+Start: 00:21:59.200
+End: 00:22:01.760
+Duration: 2.560 seconds
+Text: that into his administration.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:22:01.760
+End: 00:22:06.560
+Duration: 4.800 seconds
+Text: My thinking is that the city manager has heard this discussion and we'll make sure, I
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:22:06.560
+End: 00:22:09.760
+Duration: 3.200 seconds
+Text: mean, this hasn't been in our domain in the past.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:22:09.760
+End: 00:22:10.760
+Duration: 1.000 seconds
+Text: No, no, I'm not that.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:22:10.760
+End: 00:22:16.920
+Duration: 6.160 seconds
+Text: And so I think, you know, having just even heard this discussion, the staff will be
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:22:16.920
+End: 00:22:18.240
+Duration: 1.320 seconds
+Text: more sensitive.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:22:18.240
+End: 00:22:23.800
+Duration: 5.560 seconds
+Text: Yeah, I just think, you know, we just need to have a set of logos and they need to
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:22:23.800
+End: 00:22:24.800
+Duration: 1.000 seconds
+Text: remain neutral.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:22:24.800
+End: 00:22:30.360
+Duration: 5.560 seconds
+Text: And then that keeps everybody happy because I've got several emails and complaints about.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:22:30.360
+End: 00:22:36.160
+Duration: 5.800 seconds
+Text: Mostly the logos we're using on social media posts, some from Sunset Zoo, some from
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:22:36.160
+End: 00:22:38.160
+Duration: 2.000 seconds
+Text: Parks and Rec.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:22:38.160
+End: 00:22:39.960
+Duration: 1.800 seconds
+Text: And they weren't the official logos.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:22:39.960
+End: 00:22:44.320
+Duration: 4.360 seconds
+Text: They'd put other things in there and some people don't like it and some people don't
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:22:44.320
+End: 00:22:45.320
+Duration: 1.000 seconds
+Text: care.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:22:45.320
+End: 00:22:48.960
+Duration: 3.640 seconds
+Text: But, you know, I think what we've got to do is just stick to a neutral approach so that
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:22:48.960
+End: 00:22:53.600
+Duration: 4.640 seconds
+Text: we're not sending any message except this is Parks and Rec or this is Sunset Zoo and
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:22:53.600
+End: 00:22:56.200
+Duration: 2.600 seconds
+Text: nothing else.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:22:56.200
+End: 00:23:01.560
+Duration: 5.360 seconds
+Text: And I would just say that there must be a certain citizen group that communicates with
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:01.560
+End: 00:23:05.760
+Duration: 4.200 seconds
+Text: you because I was totally unaware that there was even an issue.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:23:05.760
+End: 00:23:07.760
+Duration: 2.000 seconds
+Text: So I didn't get it.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:23:07.760
+End: 00:23:09.160
+Duration: 1.400 seconds
+Text: Just to say, I didn't get it.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:09.160
+End: 00:23:11.160
+Duration: 2.000 seconds
+Text: I didn't know what you were talking about.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:23:11.160
+End: 00:23:12.160
+Duration: 1.000 seconds
+Text: Still.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:23:12.160
+End: 00:23:13.160
+Duration: 1.000 seconds
+Text: If they used the guest and told you might.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:13.160
+End: 00:23:15.520
+Duration: 2.360 seconds
+Text: Still, don't know what you're talking about.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:15.520
+End: 00:23:18.600
+Duration: 3.080 seconds
+Text: I don't know what the logos look like at the time.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:23:18.600
+End: 00:23:19.600
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:23:19.600
+End: 00:23:23.600
+Duration: 4.000 seconds
+Text: Any other questions for Katie or high-powered attorney on Zoom?
+--------------------------------------------------
+Mayor Hassel:
+Start: 00:23:23.600
+End: 00:23:24.600
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:23:24.600
+End: 00:23:25.600
+Duration: 1.000 seconds
+Text: Hi.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:23:25.600
+End: 00:23:26.600
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:23:26.600
+End: 00:23:31.040
+Duration: 4.440 seconds
+Text: I'll let some open up to a public comment on this policy manual resolution about the
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:23:31.040
+End: 00:23:32.520
+Duration: 1.480 seconds
+Text: use of city logos.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:23:32.520
+End: 00:23:36.280
+Duration: 3.760 seconds
+Text: If you have an opinion about that, please come forward.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:23:36.280
+End: 00:23:38.560
+Duration: 2.280 seconds
+Text: If not, we'll close public comment.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:23:38.560
+End: 00:23:39.640
+Duration: 1.080 seconds
+Text: Is there a motion?
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:23:39.640
+End: 00:23:40.640
+Duration: 1.000 seconds
+Text: Commission.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:40.640
+End: 00:23:49.560
+Duration: 8.920 seconds
+Text: Mayor, I move that we approve the policy manual resolution 07-1123-D related to the use
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:49.560
+End: 00:23:52.680
+Duration: 3.120 seconds
+Text: of city logos and Johnny, cause image and likeness.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:23:52.680
+End: 00:23:53.680
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:23:53.680
+End: 00:23:54.680
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:23:54.680
+End: 00:23:56.000
+Duration: 1.320 seconds
+Text: It's been moved by Commissioner Morse.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:23:56.000
+End: 00:23:59.120
+Duration: 3.120 seconds
+Text: Seconded by Commissioner Butler, please call the roll.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:59.120
+End: 00:24:00.120
+Duration: 1.000 seconds
+Text: Commissioner Mata?
+--------------------------------------------------
+Mayor Hassel:
+Start: 00:24:00.120
+End: 00:24:01.120
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Hassel:
+Start: 00:24:01.120
+End: 00:24:02.120
+Duration: 1.000 seconds
+Text: Commissioner Morse?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:02.120
+End: 00:24:03.120
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:03.120
+End: 00:24:04.120
+Duration: 1.000 seconds
+Text: Mayor Hasill?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:04.120
+End: 00:24:05.120
+Duration: 1.000 seconds
+Text: Yep.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:24:05.120
+End: 00:24:06.120
+Duration: 1.000 seconds
+Text: Commissioner Butler?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:06.120
+End: 00:24:07.120
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:07.120
+End: 00:24:08.120
+Duration: 1.000 seconds
+Text: Commissioner Carries, 010.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:08.120
+End: 00:24:09.120
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:24:09.120
+End: 00:24:13.520
+Duration: 4.400 seconds
+Text: We will move on to the second and last item, which is a resolution regarding the city's intent
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:24:13.520
+End: 00:24:21.440
+Duration: 7.920 seconds
+Text: to levier property tax exceeding the revenue neutral rate and setting a public hearing date.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:24:21.440
+End: 00:24:22.440
+Duration: 1.000 seconds
+Text: Thank you, Mayor.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:24:22.440
+End: 00:24:25.560
+Duration: 3.120 seconds
+Text: Commissioners, just a quick reminder.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:24:25.560
+End: 00:24:32.160
+Duration: 6.600 seconds
+Text: We are required by the state of Kansas to submit a revenue neutral rate to Riley County
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:24:32.160
+End: 00:24:34.640
+Duration: 2.480 seconds
+Text: by July 20.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:24:34.640
+End: 00:24:41.880
+Duration: 7.240 seconds
+Text: In that, we need to identify a middle levy at which we will not exceed.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:24:41.880
+End: 00:24:47.700
+Duration: 5.820 seconds
+Text: That doesn't mean the middle levy can't come down or be adjusted over the next two months.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:24:47.700
+End: 00:24:56.900
+Duration: 9.200 seconds
+Text: We won't adopt our budget until September, but per the state statute, we have to provide
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:24:56.900
+End: 00:25:00.380
+Duration: 3.480 seconds
+Text: the county the rate.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:25:00.380
+End: 00:25:08.300
+Duration: 7.920 seconds
+Text: Last time we got together, we talked about, we are currently at 52 mills.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:25:08.300
+End: 00:25:12.340
+Duration: 4.040 seconds
+Text: You gave us your act 52.14154 mills.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:25:12.340
+End: 00:25:20.740
+Duration: 8.400 seconds
+Text: You gave us a direction to drop that to 50.47 mills as the revenue neutral rate.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:25:20.740
+End: 00:25:28.140
+Duration: 7.400 seconds
+Text: Just again for your education and reminder, we will also publish a budgeted amount with
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:25:28.140
+End: 00:25:31.220
+Duration: 3.080 seconds
+Text: a middle levy later in August.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:25:31.220
+End: 00:25:35.500
+Duration: 4.280 seconds
+Text: And we'll have public hearings on both the revenue neutral rate and the published middle
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:25:35.500
+End: 00:25:38.460
+Duration: 2.960 seconds
+Text: levy in September.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:25:38.460
+End: 00:25:40.780
+Duration: 2.320 seconds
+Text: It's kind of a convoluted process now.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:25:40.780
+End: 00:25:46.020
+Duration: 5.240 seconds
+Text: So about you mentioned the number, but that number was derived because the commission
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:25:46.020
+End: 00:25:49.220
+Duration: 3.200 seconds
+Text: gave you direction for a 6 percent.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:25:49.220
+End: 00:25:55.940
+Duration: 6.720 seconds
+Text: No more than a 6 percent dollar increase in taxes at the last meeting, which was published
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:25:55.940
+End: 00:25:57.260
+Duration: 1.320 seconds
+Text: in the memo.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:25:57.260
+End: 00:26:01.060
+Duration: 3.800 seconds
+Text: And it was available to the press.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:26:01.060
+End: 00:26:02.620
+Duration: 1.560 seconds
+Text: We kept that at 6 percent.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:26:02.620
+End: 00:26:08.100
+Duration: 5.480 seconds
+Text: We showed you an average between Riley County and Pot County at 9.5 percent growth.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:26:08.100
+End: 00:26:10.100
+Duration: 2.000 seconds
+Text: We dropped that to 6.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:26:10.100
+End: 00:26:15.420
+Duration: 5.320 seconds
+Text: And that's an equivalency of the 50.47 mills.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:26:15.420
+End: 00:26:18.660
+Duration: 3.240 seconds
+Text: It's a resolution for your consideration this evening.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:26:18.660
+End: 00:26:24.180
+Duration: 5.520 seconds
+Text: Once passed, staff will fill out the appropriate forms and submit those to the county.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:26:24.180
+End: 00:26:30.700
+Duration: 6.520 seconds
+Text: That is what they will go out to the public and share with them as the revenue neutral
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:26:30.700
+End: 00:26:31.700
+Duration: 1.000 seconds
+Text: rate.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:26:31.700
+End: 00:26:36.220
+Duration: 4.520 seconds
+Text: It's an indication that we will exceed revenue we received last year.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:26:36.220
+End: 00:26:42.900
+Duration: 6.680 seconds
+Text: And you've established a mill levy at roughly 6 percent over in terms of valuation growth
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:26:42.900
+End: 00:26:47.860
+Duration: 4.960 seconds
+Text: that we're going to capture for next year.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:26:47.860
+End: 00:26:51.100
+Duration: 3.240 seconds
+Text: Any questions on the resolution?
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:26:51.100
+End: 00:26:53.620
+Duration: 2.520 seconds
+Text: No power points or graphs or anything?
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:26:53.620
+End: 00:26:56.020
+Duration: 2.400 seconds
+Text: It's all pretty simple.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:26:56.020
+End: 00:26:58.620
+Duration: 2.600 seconds
+Text: We're notifying the county of 50.47.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:26:58.620
+End: 00:27:03.660
+Duration: 5.040 seconds
+Text: It's a reduction from last year of 52.154.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:27:04.660
+End: 00:27:09.220
+Duration: 4.560 seconds
+Text: And again, it's a published rate that we can't exceed.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:27:09.220
+End: 00:27:13.180
+Duration: 3.960 seconds
+Text: But you can continue to talk to the next two months on where you want to land when you
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:27:13.180
+End: 00:27:15.860
+Duration: 2.680 seconds
+Text: actually adopt a budget in September.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:27:15.860
+End: 00:27:17.180
+Duration: 1.320 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:27:17.180
+End: 00:27:20.900
+Duration: 3.720 seconds
+Text: Any questions for Jason?
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:27:20.900
+End: 00:27:24.980
+Duration: 4.080 seconds
+Text: So you know, a lot of people read that Mercury article and came to the conclusion they
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:27:24.980
+End: 00:27:28.620
+Duration: 3.640 seconds
+Text: were going to get almost a 10 percent tax increase.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:27:28.620
+End: 00:27:31.780
+Duration: 3.160 seconds
+Text: And I talked to a number of people today about that.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:27:32.500
+End: 00:27:37.820
+Duration: 5.320 seconds
+Text: According to our intent here, the worst case should be about a 6 percent tax increase.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:27:37.820
+End: 00:27:38.820
+Duration: 1.000 seconds
+Text: Correct?
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:27:38.820
+End: 00:27:43.740
+Duration: 4.920 seconds
+Text: It all does depend on your own residential property or commercial property.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:27:43.740
+End: 00:27:49.140
+Duration: 5.400 seconds
+Text: Some of the average that we were given by both Riley County and Pot County of which the
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:27:49.140
+End: 00:27:52.980
+Duration: 3.840 seconds
+Text: city of Manhattan is in is 9.5 percent.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:27:52.980
+End: 00:27:57.300
+Duration: 4.320 seconds
+Text: Which would suggest there are properties that are above that and there are properties
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:27:57.300
+End: 00:27:59.100
+Duration: 1.800 seconds
+Text: that are below that.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:27:59.100
+End: 00:28:05.540
+Duration: 6.440 seconds
+Text: But on average by moving this down to 50.47, we're looking at 6 percent growth that
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:28:05.540
+End: 00:28:10.980
+Duration: 5.440 seconds
+Text: the commission, the city is trying to absorb into its budget.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:28:10.980
+End: 00:28:15.860
+Duration: 4.880 seconds
+Text: When you look at the cost across our budget, inflation has hit everywhere.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:28:15.860
+End: 00:28:20.900
+Duration: 5.040 seconds
+Text: And that 6 percent is what we're trying to capture in order to provide the services for
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:28:20.900
+End: 00:28:21.900
+Duration: 1.000 seconds
+Text: next year.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:28:21.900
+End: 00:28:27.020
+Duration: 5.120 seconds
+Text: So, but if somebody happened to their house or business building did not increase in
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:28:27.020
+End: 00:28:30.300
+Duration: 3.280 seconds
+Text: value for some unknown reason, their taxes would actually go down.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:28:30.300
+End: 00:28:33.100
+Duration: 2.800 seconds
+Text: No, they would still go up by the 6 percent.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:28:33.100
+End: 00:28:35.100
+Duration: 2.000 seconds
+Text: No, not if they're valuations.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:28:35.100
+End: 00:28:36.100
+Duration: 1.000 seconds
+Text: Not if they're valuations.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:28:36.100
+End: 00:28:37.100
+Duration: 1.000 seconds
+Text: The valuations stayed the same.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:28:37.100
+End: 00:28:38.100
+Duration: 1.000 seconds
+Text: Bill Levy went down.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:28:38.100
+End: 00:28:39.100
+Duration: 1.000 seconds
+Text: Yep.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:28:39.100
+End: 00:28:40.100
+Duration: 1.000 seconds
+Text: Their paying last month.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:28:40.100
+End: 00:28:42.580
+Duration: 2.480 seconds
+Text: Bill Levy goes down and the valuations stays the same year correct.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:28:42.580
+End: 00:28:44.580
+Duration: 2.000 seconds
+Text: But yeah, since nobody's valuations.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:28:44.580
+End: 00:28:45.580
+Duration: 1.000 seconds
+Text: I'm unlikely.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:28:45.580
+End: 00:28:49.460
+Duration: 3.880 seconds
+Text: But there are some commercial properties that could fall into that category.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:28:49.460
+End: 00:28:54.060
+Duration: 4.600 seconds
+Text: Residentially, I think Riley County has been fairly upfront with that.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:28:54.060
+End: 00:28:56.060
+Duration: 2.000 seconds
+Text: There are increases.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:28:56.060
+End: 00:28:58.820
+Duration: 2.760 seconds
+Text: We're a range at the end of last year.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:28:58.820
+End: 00:29:03.260
+Duration: 4.440 seconds
+Text: They combine both commercial, residential and all the other valuations to come up with
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:29:03.260
+End: 00:29:08.540
+Duration: 5.280 seconds
+Text: their roughly 9.9 percent increase in valuation.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:29:08.540
+End: 00:29:10.700
+Duration: 2.160 seconds
+Text: Pot counties was about five.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:29:10.700
+End: 00:29:14.220
+Duration: 3.520 seconds
+Text: At average to 9.5 for the city of Manhattan.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:29:14.220
+End: 00:29:20.660
+Duration: 6.440 seconds
+Text: And also the police department budget is going up 6.5 percent, which the city will have
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:29:20.660
+End: 00:29:21.660
+Duration: 1.000 seconds
+Text: to absorb.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:29:21.660
+End: 00:29:27.540
+Duration: 5.880 seconds
+Text: Basically, city isn't going to get a full 6 percent revenue increase with this mill
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:29:27.540
+End: 00:29:28.540
+Duration: 1.000 seconds
+Text: levy.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:29:28.540
+End: 00:29:32.380
+Duration: 3.840 seconds
+Text: It's actually going to be somewhat below 6 percent.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:29:32.380
+End: 00:29:35.420
+Duration: 3.040 seconds
+Text: Rebecca and I had that conversation.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:29:35.420
+End: 00:29:40.380
+Duration: 4.960 seconds
+Text: It's a little over 6 figures that we'll have to absorb or talk to you about adjusting
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:29:40.380
+End: 00:29:43.220
+Duration: 2.840 seconds
+Text: mill levy throughout the process.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:29:43.220
+End: 00:29:45.700
+Duration: 2.480 seconds
+Text: You may be able to increase the RCPD levy.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:29:45.700
+End: 00:29:47.820
+Duration: 2.120 seconds
+Text: You may be able to offset that somewhere else.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:29:47.820
+End: 00:29:52.420
+Duration: 4.600 seconds
+Text: But either way, you're going to come up with that money in the budgeting process.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:29:52.420
+End: 00:29:53.420
+Duration: 1.000 seconds
+Text: Yep.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:29:53.420
+End: 00:29:54.580
+Duration: 1.160 seconds
+Text: I was just going to end up.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:29:54.580
+End: 00:29:57.260
+Duration: 2.680 seconds
+Text: We talked about it on the radio this morning.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:29:57.260
+End: 00:30:04.460
+Duration: 7.200 seconds
+Text: And basically that 6 percent relates to about 1.98 million in additional revenue.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:30:04.460
+End: 00:30:11.860
+Duration: 7.400 seconds
+Text: Of that, as you said, 1.1 million is going to RCPD for that increase.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:30:11.860
+End: 00:30:18.780
+Duration: 6.920 seconds
+Text: And so that, then about 203,000 for the library and about 656,000 for the city based on the
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:30:18.780
+End: 00:30:21.180
+Duration: 2.400 seconds
+Text: way we've apportioned the mill levy.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:30:21.180
+End: 00:30:22.180
+Duration: 1.000 seconds
+Text: Currently.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:30:22.180
+End: 00:30:25.820
+Duration: 3.640 seconds
+Text: Other were hoping the library is going to re-sharpen their pencil and look at their numbers.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:30:25.820
+End: 00:30:30.140
+Duration: 4.320 seconds
+Text: And again, this sets a ceiling and can always come down.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:30:30.140
+End: 00:30:31.140
+Duration: 1.000 seconds
+Text: Just can't go.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:30:31.140
+End: 00:30:34.860
+Duration: 3.720 seconds
+Text: It does set a ceiling that we can't exceed, though.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:30:34.860
+End: 00:30:38.900
+Duration: 4.040 seconds
+Text: And we can talk to you in the future about that 6,700,000.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:30:38.900
+End: 00:30:44.220
+Duration: 5.320 seconds
+Text: It's part of that 50.47 mill levy for the city and where it goes by way of the general
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:30:44.220
+End: 00:30:50.380
+Duration: 6.160 seconds
+Text: fund, which is all our operating budgets, our debt service, our employee benefit fund.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:30:50.380
+End: 00:30:55.020
+Duration: 4.640 seconds
+Text: We clearly are going to rely on sales tax and other revenues to fully cover those things.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:30:55.020
+End: 00:30:57.620
+Duration: 2.600 seconds
+Text: Property tax is a very small piece of what we do.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:30:57.620
+End: 00:31:01.700
+Duration: 4.080 seconds
+Text: I know you've heard that out of my mouth probably too many times, but every chance I get,
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:31:01.700
+End: 00:31:03.500
+Duration: 1.800 seconds
+Text: I got to remind you.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:31:03.500
+End: 00:31:10.220
+Duration: 6.720 seconds
+Text: We had just a reminder, today is a revenue neutral rate cap and you can always give us
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:31:10.220
+End: 00:31:16.540
+Duration: 6.320 seconds
+Text: direction until September, until we pass the budget to do something lower, but not higher.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:31:16.540
+End: 00:31:21.460
+Duration: 4.920 seconds
+Text: We never talk about how we fund the fire department.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:31:21.460
+End: 00:31:27.500
+Duration: 6.040 seconds
+Text: Since it's obviously, is it, I don't see a mill levy for fire anywhere other than for
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:31:27.500
+End: 00:31:29.140
+Duration: 1.640 seconds
+Text: equipment and stuff.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:31:29.140
+End: 00:31:37.340
+Duration: 8.200 seconds
+Text: So the fire department's budget is going to be around $9 million for this year.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:31:37.340
+End: 00:31:42.420
+Duration: 5.080 seconds
+Text: If we took every mill in the general fund and applied it to the fire department, it would
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:31:42.420
+End: 00:31:44.140
+Duration: 1.720 seconds
+Text: cover probably half.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:31:44.140
+End: 00:31:51.380
+Duration: 7.240 seconds
+Text: Yeah, so when we say that any, all of the property tax that we collect, once it goes to
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:31:51.380
+End: 00:31:55.900
+Duration: 4.520 seconds
+Text: police department, some of it goes to the library, we couldn't even pay the fire department
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:31:55.900
+End: 00:31:58.900
+Duration: 3.000 seconds
+Text: to out of that, out of the property taxes.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:31:58.900
+End: 00:32:05.900
+Duration: 7.000 seconds
+Text: So, is that all comes out as sales tax and fees and municipal court costs and all the
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:32:05.900
+End: 00:32:10.300
+Duration: 4.400 seconds
+Text: tax and all the other revenues we generate.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:32:10.300
+End: 00:32:13.140
+Duration: 2.840 seconds
+Text: And sales taxes predominantly, the source.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:32:13.140
+End: 00:32:14.140
+Duration: 1.000 seconds
+Text: There you go.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:32:14.140
+End: 00:32:18.740
+Duration: 4.600 seconds
+Text: All right, let's open it up to the public and let's get a private sector appraisal.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:32:18.740
+End: 00:32:19.740
+Duration: 1.000 seconds
+Text: Here's a opinion on this.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:32:19.740
+End: 00:32:23.140
+Duration: 3.400 seconds
+Text: Come on up here for public comment and then you'll get your chance to, man, I'm going
+--------------------------------------------------
+Mayor Hassel:
+Start: 00:32:23.140
+End: 00:32:24.140
+Duration: 1.000 seconds
+Text: to minute.
+--------------------------------------------------
+Mayor Hassel:
+Start: 00:32:24.140
+End: 00:32:31.140
+Duration: 7.000 seconds
+Text: I can make it to the podium.
+--------------------------------------------------
+Mayor Hassel:
+Start: 00:32:31.140
+End: 00:32:35.140
+Duration: 4.000 seconds
+Text: Here you go, man.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:32:35.140
+End: 00:32:38.140
+Duration: 3.000 seconds
+Text: Pick one microphone and stay in front of it.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:32:38.140
+End: 00:32:39.140
+Duration: 1.000 seconds
+Text: Please do.
+--------------------------------------------------
+Mayor Hassel:
+Start: 00:32:39.140
+End: 00:32:40.140
+Duration: 1.000 seconds
+Text: I will.
+--------------------------------------------------
+Mayor Hassel:
+Start: 00:32:40.140
+End: 00:32:47.140
+Duration: 7.000 seconds
+Text: Just kidding.
+--------------------------------------------------
+Mayor Hassel:
+Start: 00:32:47.140
+End: 00:32:54.140
+Duration: 7.000 seconds
+Text: All right.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:32:54.140
+End: 00:32:56.140
+Duration: 2.000 seconds
+Text: Well, since I've already written my name, I want to thank you.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:32:56.140
+End: 00:32:59.140
+Duration: 3.000 seconds
+Text: Do you need to, all the commissioners?
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:32:59.140
+End: 00:33:01.140
+Duration: 2.000 seconds
+Text: Go ahead and state your name and address, too.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:33:01.140
+End: 00:33:03.140
+Duration: 2.000 seconds
+Text: Okay, Mark Wilson.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:33:03.140
+End: 00:33:04.140
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:33:04.140
+End: 00:33:06.140
+Duration: 2.000 seconds
+Text: Mark E. Wilson, if you want my middle initial.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:33:06.140
+End: 00:33:11.140
+Duration: 5.000 seconds
+Text: But, I've been a resident of Manhattan for about 32 years.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:33:12.140
+End: 00:33:17.140
+Duration: 5.000 seconds
+Text: And my wife started an appraisal company in 1993.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:33:17.140
+End: 00:33:27.140
+Duration: 10.000 seconds
+Text: So we're going on our 30th year being appraisers, state certified appraisers in Manhattan.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:33:27.140
+End: 00:33:32.140
+Duration: 5.000 seconds
+Text: And I'm a residential certified appraiser.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:33:32.140
+End: 00:33:37.140
+Duration: 5.000 seconds
+Text: And my wife is a general certified appraiser.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:33:37.140
+End: 00:33:49.140
+Duration: 12.000 seconds
+Text: And in her respect, I see it was the president of the appraisal board, the first woman president ever of the Kansas State appraisal board.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:33:49.140
+End: 00:34:00.140
+Duration: 11.000 seconds
+Text: So we have a, I've been to a lot of major national meetings with her about appraisal's usepapis or Bible, that kind of thing.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:34:00.140
+End: 00:34:09.140
+Duration: 9.000 seconds
+Text: But that's really not, I mean, my credentials are basically, I have done a lot of appraisals over the years.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:34:09.140
+End: 00:34:18.140
+Duration: 9.000 seconds
+Text: And I have found that this last year has been a bit of a shock to everybody.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:34:18.140
+End: 00:34:29.140
+Duration: 11.000 seconds
+Text: And what's happening in 2023 is, I don't know what's going, we have no inventory in the city of Manhattan.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:34:29.140
+End: 00:34:35.140
+Duration: 6.000 seconds
+Text: If you have a house to sell, it normally sells pretty quickly if it's in good condition.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:34:35.140
+End: 00:34:42.140
+Duration: 7.000 seconds
+Text: And if it's not, they'll flip it. Somebody will buy it and flip it.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:34:42.140
+End: 00:34:48.140
+Duration: 6.000 seconds
+Text: It's, I don't know where they're coming up with the money.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:34:48.140
+End: 00:34:56.140
+Duration: 8.000 seconds
+Text: Last year in May, the interest rates were about 3.5%.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:34:56.140
+End: 00:35:01.140
+Duration: 5.000 seconds
+Text: Then they started going up. Now there's 7.5%.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:01.140
+End: 00:35:06.140
+Duration: 5.000 seconds
+Text: So that's 4% of points in the interest rates alone.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:06.140
+End: 00:35:20.140
+Duration: 14.000 seconds
+Text: And I'm sure all of you guys know these things. But I have to say, people who own a higher price homes in this town
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:20.140
+End: 00:35:27.140
+Duration: 7.000 seconds
+Text: or builders building higher price homes in this town anywhere from like 500 to 700 or 800,000,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:27.140
+End: 00:35:37.140
+Duration: 10.000 seconds
+Text: they either don't do it or they're holding on to wait till the rates come back down where it's a better property value to a buyer.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:37.140
+End: 00:35:45.140
+Duration: 8.000 seconds
+Text: I know we've had a lot of people from out of town come in and buy. I've seen a lot of cash sales on properties.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:45.140
+End: 00:35:53.140
+Duration: 8.000 seconds
+Text: I've seen properties where people have to put maybe half their savings in so they can have affordable monthly payment.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:53.140
+End: 00:35:57.140
+Duration: 4.000 seconds
+Text: And they pull money from all sorts of places.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:57.140
+End: 00:36:05.140
+Duration: 8.000 seconds
+Text: Actually, I'm concerned about Manhattan. I really am. I love this city.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:05.140
+End: 00:36:11.140
+Duration: 6.000 seconds
+Text: And I love what it has to offer. But I'm a property owner here.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:11.140
+End: 00:36:18.140
+Duration: 7.000 seconds
+Text: My house is going to be 10 to $11,000 in taxes next year.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:18.140
+End: 00:36:27.140
+Duration: 9.000 seconds
+Text: I tried to make this a little bit personal to the commissioners so we can understand.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:27.140
+End: 00:36:35.140
+Duration: 8.000 seconds
+Text: Mayor Hadasal, you're of all the commissioners, you're going to be paying a lot more taxes next year.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:35.140
+End: 00:36:45.140
+Duration: 10.000 seconds
+Text: And you own a commercial property. And you own a set house and you own land, which is not, I don't think that's over taxed, but you do.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:45.140
+End: 00:36:56.140
+Duration: 11.000 seconds
+Text: Mr. Butler, you own a house and you're paying, you know how much more you're paying. And Mr. Bada, you the same way.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:56.140
+End: 00:37:01.140
+Duration: 5.000 seconds
+Text: And you're going to be paying a lot more taxes next year.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:01.140
+End: 00:37:03.140
+Duration: 2.000 seconds
+Text: And you're paying a lot more taxes next year.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:03.140
+End: 00:37:07.140
+Duration: 4.000 seconds
+Text: And you're paying a lot more taxes next year.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:07.140
+End: 00:37:11.140
+Duration: 4.000 seconds
+Text: And you're paying a lot more taxes next year.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:11.140
+End: 00:37:15.140
+Duration: 4.000 seconds
+Text: And you're paying a lot more taxes next year.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:15.140
+End: 00:37:19.140
+Duration: 4.000 seconds
+Text: And you're paying a lot more taxes next year.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:19.140
+End: 00:37:23.140
+Duration: 4.000 seconds
+Text: And you're paying a lot more taxes next year.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:23.140
+End: 00:37:30.140
+Duration: 7.000 seconds
+Text: And you have a real real estate agent from Junction City, working the Manhattan market and the Manhattan Realty, is working the Junction City market.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:37:30.140
+End: 00:37:33.140
+Duration: 3.000 seconds
+Text: You have 25 seconds left to talk about.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:33.140
+End: 00:37:38.140
+Duration: 5.000 seconds
+Text: Oh, okay. Well, wow. Okay, I guess I picked the wrong night to come.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:38.140
+End: 00:37:46.140
+Duration: 8.000 seconds
+Text: Anyway, I just did, this revenue neutral would be great. It's all I can ask for.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:46.140
+End: 00:37:56.140
+Duration: 10.000 seconds
+Text: But maybe something below that. But with these valuations going up, this hasn't happened for the 30 years that I've been in a prison.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:37:56.140
+End: 00:37:59.140
+Duration: 3.000 seconds
+Text: You can come back next week. We'll have some more discussion.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:37:59.140
+End: 00:38:02.140
+Duration: 3.000 seconds
+Text: Okay, we're open. So thank you very much.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:38:02.140
+End: 00:38:07.140
+Duration: 5.000 seconds
+Text: Thank you. All right. If somebody else want to comment on this.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:38:07.140
+End: 00:38:09.140
+Duration: 2.000 seconds
+Text: Are you with him?
+--------------------------------------------------
+Mayor Hassel:
+Start: 00:38:09.140
+End: 00:38:12.140
+Duration: 3.000 seconds
+Text: No.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:38:12.140
+End: 00:38:23.140
+Duration: 11.000 seconds
+Text: If you'd like to comment, come up sign your name. Tell us who you are. You'll have five minutes to.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:23.140
+End: 00:38:31.140
+Duration: 8.000 seconds
+Text: I don't have. I think he Mr. Wilson carried covered very well. I'm Joyce Bright.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:31.140
+End: 00:38:43.140
+Duration: 12.000 seconds
+Text: I think you know exceeding the I think he alluded to property tax increases and some are just going through the roof for others.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:43.140
+End: 00:38:49.140
+Duration: 6.000 seconds
+Text: And Manhattan is your well aware. Manhattan has a.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:49.140
+End: 00:39:00.140
+Duration: 11.000 seconds
+Text: Houses are constantly being sold and you know, bought and sold. And you read you don't often find because we have so many people moving in to town and moving out.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:00.140
+End: 00:39:07.140
+Duration: 7.000 seconds
+Text: You don't often find people who stay in their house for 20, 30, 40, 50 years. You've got.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:07.140
+End: 00:39:14.140
+Duration: 7.000 seconds
+Text: And so you know that people that are going to stay in their house that long, they're going to improve it.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:14.140
+End: 00:39:21.140
+Duration: 7.000 seconds
+Text: Now you just see people flipping houses, you know, in some, in some ways that's good.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:21.140
+End: 00:39:30.140
+Duration: 9.000 seconds
+Text: You know, because you're seeing a house that is improved, but it's also no people who flip a house, they want to earn money.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:30.140
+End: 00:39:38.140
+Duration: 8.000 seconds
+Text: That's obvious. And so the house, when it goes on the market again, it is much higher.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:38.140
+End: 00:39:45.140
+Duration: 7.000 seconds
+Text: And the value is much higher, I should say. And also the property taxes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:45.140
+End: 00:39:55.140
+Duration: 10.000 seconds
+Text: And so do we really need to exceed this revenue neutral rate because the, you know, the properties are already going up in value?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:55.140
+End: 00:40:02.140
+Duration: 7.000 seconds
+Text: And it's a necessary to do this. That's kind of, it's kind of concludes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:40:02.140
+End: 00:40:13.140
+Duration: 11.000 seconds
+Text: And I hope to just say I hope to be at the meeting on September 5th and to and hope you will have a few more citizens and men from Manhattan and the surrounding area here.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:40:13.140
+End: 00:40:15.140
+Duration: 2.000 seconds
+Text: So I think I'm signing on the sheet, please.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:40:15.140
+End: 00:40:21.140
+Duration: 6.000 seconds
+Text: Oh, where's there's no sign in sheet. Where did it, where did it go?
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:40:21.140
+End: 00:40:28.140
+Duration: 7.000 seconds
+Text: Mark, do you have your papers? You may have accidentally.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:40:28.140
+End: 00:40:33.140
+Duration: 5.000 seconds
+Text: Did you take your papers on the wrong side? It was a totally different side.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:40:33.140
+End: 00:40:40.140
+Duration: 7.000 seconds
+Text: Where's the police on your duty?
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:40:40.140
+End: 00:40:47.140
+Duration: 7.000 seconds
+Text: Anybody else, you want to weigh in on this at all?
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:40:47.140
+End: 00:40:52.140
+Duration: 5.000 seconds
+Text: I was here for the interest in 401. I guess I'm way above.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:40:52.140
+End: 00:40:55.140
+Duration: 3.000 seconds
+Text: You are. Did we have someone there?
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:40:55.140
+End: 00:40:59.140
+Duration: 4.000 seconds
+Text: Yeah. You missed it. We passed it. Go on forward.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:40:59.140
+End: 00:41:04.140
+Duration: 5.000 seconds
+Text: All right. I'll go ahead and close public comment. Does there any other discussion?
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:41:04.140
+End: 00:41:11.140
+Duration: 7.000 seconds
+Text: Just so we can put it out there. If we were to do the revenue neutral rate, what's the mill?
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:41:11.140
+End: 00:41:15.140
+Duration: 4.000 seconds
+Text: Let me 47 and point something.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:41:15.140
+End: 00:41:27.140
+Duration: 12.000 seconds
+Text: Yeah, it's in the memo, but it was 47. There's a different process if we do that as well, which means we would really have to scramble and adopt a budget next month.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:41:27.140
+End: 00:41:35.140
+Duration: 8.000 seconds
+Text: Yeah, I understand. We agreed to, but the point that public news and OAS, we've got this set at a max of 50.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:41:35.140
+End: 00:41:41.140
+Duration: 6.000 seconds
+Text: If we went with the revenue neutral rate to be 47, so get about three mill difference.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:41:41.140
+End: 00:41:50.140
+Duration: 9.000 seconds
+Text: In order to do that, we would have to chop a good amount of money out of the city budget and what would that entail?
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:41:50.140
+End: 00:42:02.140
+Duration: 12.000 seconds
+Text: If you were staying at 52.145, it would generate 1.2 million more in revenue.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:42:02.140
+End: 00:42:12.140
+Duration: 10.000 seconds
+Text: You've seen our capital improvements. You've seen the challenges we've had in the past. Just funding operations.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:42:12.140
+End: 00:42:20.140
+Duration: 8.000 seconds
+Text: We've seen the financial situation. We've seen the financial situation. We've seen the financial situation.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:42:20.140
+End: 00:42:28.140
+Duration: 8.000 seconds
+Text: We've seen the financial situation. We've seen the financial situation. We've seen the financial situation.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:42:28.140
+End: 00:42:36.140
+Duration: 8.000 seconds
+Text: We always mix in the conversation with sales tax because we're so heavily reliant on sales tax.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:42:36.140
+End: 00:42:47.140
+Duration: 11.000 seconds
+Text: Staff is not really struggling with going down to 50.4 because sales tax are going to be there and they have been.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:42:47.140
+End: 00:42:55.140
+Duration: 8.000 seconds
+Text: It's not a time to just hold on to mill levies as we were trying to do in 2015 through 2020.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:42:55.140
+End: 00:43:02.140
+Duration: 7.000 seconds
+Text: But here of late sales tax, probably primarily due to inflation, have generated more revenue.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:43:02.140
+End: 00:43:13.140
+Duration: 11.000 seconds
+Text: We're going to use that revenue to operate. We're acknowledging the 1.2 million dollar leaving on the table by reducing this mill levie.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:43:13.140
+End: 00:43:22.140
+Duration: 9.000 seconds
+Text: You reduce it any more. It cuts more into that general fund cash balance, which there are strategies there on how we want to proceed.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:43:22.140
+End: 00:43:28.140
+Duration: 6.000 seconds
+Text: It's more than just next year. We've got to talk about the next 3.5 with revenues and expenses.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:43:29.140
+End: 00:43:43.140
+Duration: 14.000 seconds
+Text: Long-winded question to your question. You're leaving a million point to on the table. Every mill that you cut is another $690,700,000 of revenue.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:43:43.140
+End: 00:43:55.140
+Duration: 12.000 seconds
+Text: I would just add to that discussion, I think the key part about not adopting a revenue neutral rate, which basically says you're going to live with the same amount of revenue.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:43:56.140
+End: 00:44:02.140
+Duration: 6.000 seconds
+Text: That's it. You're not going to get any more revenue in property taxes anyway from that standpoint.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:44:02.140
+End: 00:44:09.140
+Duration: 7.000 seconds
+Text: As an example, there were almost $7.3 million worth of new construction and new improvements.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:44:09.140
+End: 00:44:16.140
+Duration: 7.000 seconds
+Text: Property that's never been on the tax rolls. We don't capture any of that by staying at the revenue neutral rate.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:44:17.140
+End: 00:44:26.140
+Duration: 9.000 seconds
+Text: In essence, that certainly helps everybody else out. At the same time, we're trying to provide a consistent level of services.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:44:26.140
+End: 00:44:39.140
+Duration: 13.000 seconds
+Text: As we grow, there's more services. It's difficult to meet those challenges. You've seen the cost of vehicles. We're buying used vehicles because we can't afford to buy new ones.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:44:39.140
+End: 00:44:46.140
+Duration: 7.000 seconds
+Text: The prices are just outlandish compared to what we've budgeted for and what we've offered to pay in the past.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:44:46.140
+End: 00:45:04.140
+Duration: 18.000 seconds
+Text: Those are complex issues. I certainly understand the argument. It's one of those things where there's a lot of smaller communities in the state of Kansas that probably is reflective of why the revenue neutral rate came about that are actually diminishing in value.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:45:05.140
+End: 00:45:17.140
+Duration: 12.000 seconds
+Text: They don't have any new construction. That's even more challenging for them. I think that's where the genesis of the revenue neutral rate probably came from.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:45:17.140
+End: 00:45:27.140
+Duration: 10.000 seconds
+Text: Even if we could just capture that new valuation, which in this case is about $380,000 in taxes, that doesn't spread the increased growth even to the police department.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:45:27.140
+End: 00:45:42.140
+Duration: 15.000 seconds
+Text: Those are some of our challenges that we face and we think it's appropriate to at least capture that. That were certainly the commission at this point is willing to do that in an Ensemble or because I think you recognize that.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:45:42.140
+End: 00:45:47.140
+Duration: 5.000 seconds
+Text: But we've got a couple more months of discussion before we have to.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:45:47.140
+End: 00:45:54.140
+Duration: 7.000 seconds
+Text: My point is I understand all that. As I said earlier, the revenue neutral rate is a bad idea because of what you just said.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:45:54.140
+End: 00:46:06.140
+Duration: 12.000 seconds
+Text: But we've got to be able to articulate to the public exactly why we have to go with a 6%. We've got people still want to build an indoor pool.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:46:06.140
+End: 00:46:14.140
+Duration: 8.000 seconds
+Text: I saw parts and wrecked things. It came in $40 million indoor pool. That's not on the table with this kind of budget. Not on the table at all.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:46:14.140
+End: 00:46:25.140
+Duration: 11.000 seconds
+Text: We're not going to have the money for that. If we were to cut this closer to the revenue neutral rate, there would be some serious things the city would have to stop doing.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:46:25.140
+End: 00:46:29.140
+Duration: 4.000 seconds
+Text: I don't think people are willing to accept that.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:46:29.140
+End: 00:46:34.140
+Duration: 5.000 seconds
+Text: When the Parks and Recreation Department was underfunded, people squealed like pigs.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:46:34.140
+End: 00:46:45.140
+Duration: 11.000 seconds
+Text: We're already still complaining about potholes because we even though we got the extra sales tax money to help prop up road improvements, we still notice why aren't you fixing the potholes?
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:46:45.140
+End: 00:46:52.140
+Duration: 7.000 seconds
+Text: We give us another $2 million in property tax. We'll get every pothole in town fixed for six months or a year.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:46:52.140
+End: 00:46:59.140
+Duration: 7.000 seconds
+Text: We'll do it again a year after that. I hope you both go show up at the county commission meeting.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:46:59.140
+End: 00:47:10.140
+Duration: 11.000 seconds
+Text: Go to the school board for crying out loud. They have no budget discussions about Mill Levy because they just levy the maximum allowable by law.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:47:10.140
+End: 00:47:16.140
+Duration: 6.000 seconds
+Text: They never even consider not increasing their budget as much as possible by law.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:47:16.140
+End: 00:47:27.140
+Duration: 11.000 seconds
+Text: That's how they do maximum local option budget. They do maximum capital improvements budget. They do maximum everything that they got every cent that they can possibly charge in property taxes.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:47:27.140
+End: 00:47:33.140
+Duration: 6.000 seconds
+Text: They levy that and that's 39% of your property taxes is the school board.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:47:33.140
+End: 00:47:39.140
+Duration: 6.000 seconds
+Text: And there's never any discussion about them not applying the maximum amount of taxation.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:47:39.140
+End: 00:47:48.140
+Duration: 9.000 seconds
+Text: The county is talking about 8% cola was what recommended to them. I don't think they'll do that. But they were initial estimates were a two mill increase.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:47:48.140
+End: 00:47:58.140
+Duration: 10.000 seconds
+Text: We're looking at a mill and a half increase and people are mad at us. Well, we're not the problem. We're paying for the place. We're paying for the library. We can't even pay for the fire department out of property taxes because we don't have enough.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:47:58.140
+End: 00:48:12.140
+Duration: 14.000 seconds
+Text: And so it's one of the things where if you want to cut the budget come up with some bright ideas. What don't you want? You don't want parts recreation programs. You don't want the zoo. You don't want the potholes fixed.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:48:12.140
+End: 00:48:23.140
+Duration: 11.000 seconds
+Text: You don't want fire department to answer in seven to eight ten minutes. Whatever their target date is. If we can get 51% of the people to agree what where we should cut the budget.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:48:23.140
+End: 00:48:36.140
+Duration: 13.000 seconds
+Text: We can do that. The problem is 20% went this part cut 20% with that part cut. Don't touch that part but you can cut those guys as part. And that's really the bottom line is that everybody's got their favorite part of city services that they want.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:48:36.140
+End: 00:48:51.140
+Duration: 15.000 seconds
+Text: And they don't want that cut. But they're willing to cut just somebody else's favorite part because they don't use that. And so that's really the conundrum that we're in. But the point is is property taxes that the city levy goes to police department.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:48:51.140
+End: 00:49:02.140
+Duration: 11.000 seconds
+Text: So library and a little bit of stuff and we can't even pay you the fire department out of it because we don't get enough of it that way. So anybody want to make a motion or continue to comment.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:49:02.140
+End: 00:49:04.140
+Duration: 2.000 seconds
+Text: Just go ahead, please.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:49:04.140
+End: 00:49:15.140
+Duration: 11.000 seconds
+Text: Okay. It might be redundant but had a lot of discussions with people. A lot of it was spurred on by the erroneous reporting of the mercury about the 9.5%.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:49:15.140
+End: 00:49:28.140
+Duration: 13.000 seconds
+Text: And the increase in while they were happy when I told them that it was really going to be 6% then the question was why 6% was there and I know one person commented that there are on some federal retirement program. They're getting 4.4. So what are they supposed to do?
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:49:28.140
+End: 00:49:38.140
+Duration: 10.000 seconds
+Text: Why can't you live with what I have to live with type of thing? And I think Mark and wind have gone over a lot of the stuff and the reasons why.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:49:38.140
+End: 00:49:45.140
+Duration: 7.000 seconds
+Text: We had another statistic. We only get a third of the property taxes for the city operations that are here.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:49:45.140
+End: 00:50:01.140
+Duration: 16.000 seconds
+Text: And while I think it's our obligation to keep those expenses down as much as possible. We're really not going to help or hurt as much as the others can do because when you see our property tax bill basically a third of it is what really gets to operate with.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:50:01.140
+End: 00:50:12.140
+Duration: 11.000 seconds
+Text: And I mean your county and of course the school board that's the big Kahuna is there. So we are going to do everything we can to even get lower than this number.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:50:12.140
+End: 00:50:26.140
+Duration: 14.000 seconds
+Text: But you're not going to see that use of an impact by us doing it because we're spending a really small amount in total. Jason mentioned it sales which really drives us here and gets us to be able to get that budget done.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:50:26.140
+End: 00:50:36.140
+Duration: 10.000 seconds
+Text: So that's you know again that doesn't let us off the hook. We still need to get down as much as we can. But we can only have a certain amount of impact to that total tax bill.
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:50:36.140
+End: 00:50:53.140
+Duration: 17.000 seconds
+Text: And that's the thing we have to make Manhattan attractive enough that people want to come here hang out spend a bunch of money generate a bunch of sales tax and hang out here as long as we can because that's really what props up so much of our city operations budget is that sales tax.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:50:54.140
+End: 00:51:12.140
+Duration: 18.000 seconds
+Text: Yeah, I think the city has been very frugal in some ways are the overall computer system here at the city is still an AS 400 that I'm not even sure he's being supported by the company anymore.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:51:12.140
+End: 00:51:20.140
+Duration: 8.000 seconds
+Text: That's on our plate in this next year and it's a it has to be I think over more than one year.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:51:20.140
+End: 00:51:34.140
+Duration: 14.000 seconds
+Text: It's a major expense and it's something we have to do and for all of you who have complained about our customer service for billing that will solve.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:51:34.140
+End: 00:51:38.140
+Duration: 4.000 seconds
+Text: We have to install it you know how reference deletions are.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:51:38.140
+End: 00:51:56.140
+Duration: 18.000 seconds
+Text: At least I do and it'll be might be bumpy but in the end it will be a big boon for our city and the smooth really smooth operations that we have for finance and payroll and all I don't know about payroll.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:51:56.140
+End: 00:52:22.140
+Duration: 26.000 seconds
+Text: Anyway for all of our financial systems and so I feel like it's the responsible thing to support that I also just want to call attention to the last nine years of the North Campus corridor and how we have steadily and if you you know look how many road construction projects we've had and someday you know that's part of our economic development.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:52:22.140
+End: 00:52:46.140
+Duration: 24.000 seconds
+Text: It's what people people come here and say I can't believe Manhattan you're just doing so many things one you know you know and yes we are but it costs us to and it means we can't do some other things so I can't wait for a city commission in the future to not have the North Campus corridor be on their plate.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:52:46.140
+End: 00:53:08.140
+Duration: 22.000 seconds
+Text: Because it it takes money away from other things we have some just big projects coming also and they aren't going to go away they're all looming out there but they've been stacked up in line waiting for some time now and we just have to chip away at them.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:53:08.140
+End: 00:53:15.140
+Duration: 7.000 seconds
+Text: I am in my own home too I was going to say Mark I'm just not on the big house department.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:53:15.140
+End: 00:53:44.140
+Duration: 29.000 seconds
+Text: Yeah at least yeah at least property taxes and probably in the room but at any rate I just I sure my property taxes go up to but it is I think they're going up everywhere inflation and the cost of houses and if as long as the legislature has the assessment of the
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:53:44.140
+End: 00:54:13.140
+Duration: 29.000 seconds
+Text: appraisal process that is the current law and it's been like that for a good long time nothing's going to change and so it's the value of your house times the meal levy and that value that's what drives our property taxes and I know you all know that better than I do probably but it is a fact of life and I know there are different types of things that are going to be a lot of things.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:54:13.140
+End: 00:54:38.140
+Duration: 25.000 seconds
+Text: I know there are different segments of the community that get raises at different times than others and it is it's hard to just make a rule we can't we don't seem we shouldn't we should not do that necessarily either but K state employees I like other state employees are getting a 5% increase and there have been so many years in the past where they got nothing
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:54:38.140
+End: 00:55:07.140
+Duration: 29.000 seconds
+Text: and you know a bunch of them drive in too and it's just this it's not Manhattan anymore this is a region and people are choosing where to live how far to drive how much is gas how much is our vehicles those are all judgments that individual people make and I'm a eager for us to solve some of our housing problems of affordable housing I'm
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:55:07.140
+End: 00:55:35.140
+Duration: 28.000 seconds
+Text: interested in especially for the lower income people I don't mean giving it away but just having the opportunity to have a house and but anyway just to say that I do think that at this point it's the right thing to do to pass this revenue neutral piece and I can't imagine a community like Manhattan if you've noticed you know to
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:55:35.140
+End: 00:56:04.140
+Duration: 29.000 seconds
+Text: pica has I take the to pica paper in the Kansas City paper but to pica has held their mill levy down for a lot of years and this year there the and and their economic development people are pushing the heck out of them right now go to pica is they've been pushing them for several years but the city manager there has just hired 34
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:56:04.140
+End: 00:56:33.140
+Duration: 29.000 seconds
+Text: new employees and that just knocked me over you know just I can't imagine as they're hiring 34 we you know we're lucky if we get three a year three new employees a year five maybe but so it's incremental I was regard to the police but I feel like we have to support that I in the Kansas City paper there's a lot of talk about their
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:56:33.140
+End: 00:57:00.140
+Duration: 27.000 seconds
+Text: the number of homicides that are going up the amount of drugs and I think fentanyl is an issue and I don't see this as a time to be cutting the police budget we all feel pretty secure here maybe there's an occasional flare up with fake petty's day or something but for the most part we feel secure in our homes and in our community
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:57:00.140
+End: 00:57:18.660
+Duration: 18.520 seconds
+Text: and that's what we need is that level of satisfaction and level of low crime Manhattan's crime is lower than the state of Kansas statewide we're in a lot lower than the nation so I think we're we are what in a rock and
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:57:18.660
+End: 00:57:34.740
+Duration: 16.080 seconds
+Text: chair kind of a place maybe and our people are pretty satisfied despite the I feel like the few that we hear from that are gross or you know they're really unhappy so I that's enough I just wanted to weigh in
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:57:34.740
+End: 00:57:55.380
+Duration: 20.640 seconds
+Text: thanks I move we approve resolution number 0 7 1123 C regarding the governing bodies intent to levy a 2024 property tax exceeding the revenue neutral rate with a proposed maximum bill levy of 50.470 mills and setting a public
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:57:55.380
+End: 00:58:00.380
+Duration: 5.000 seconds
+Text: caring related there to on September 5th 2023 at 6 p.m.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:58:00.380
+End: 00:58:12.920
+Duration: 12.540 seconds
+Text: 24 city hall it should be 23 okay sorry go ahead September that city hall 1 1 0 1 points have a new Manhattan Kansas second
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:58:12.920
+End: 00:58:17.860
+Duration: 4.940 seconds
+Text: all right it's been moved by Commissioner Butler second by Commissioner Mata to approve the motion please call the role
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:58:17.860
+End: 00:58:22.260
+Duration: 4.400 seconds
+Text: Mr. Morris yes mayor Hassel yes
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:58:22.260
+End: 00:58:31.100
+Duration: 8.840 seconds
+Text: Mr. Butler yes Mr. Mata yes motion carries 4 to 0 I was wrong you can't come back next week and come at on it it's not open
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:58:31.100
+End: 00:58:37.040
+Duration: 5.940 seconds
+Text: won't be on the agenda next week and we only have open comment on the first meeting of the month so come back the first
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:58:37.040
+End: 00:58:45.220
+Duration: 8.180 seconds
+Text: Tuesday and August and you have five minutes to finish what you wanted to talk about well that's that's on items that aren't on
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:58:45.220
+End: 00:58:51.940
+Duration: 6.720 seconds
+Text: the agenda if you want to wait till September wait till September but if you want to bend our ear before September you'll have a chance the first
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:58:51.940
+End: 00:59:04.420
+Duration: 12.480 seconds
+Text: Tuesday and August and we'll have budget works yeah and there's budget work sessions along the way here too so watch what's a reliable source of news for the time in place for
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:59:04.420
+End: 00:59:14.220
+Duration: 9.800 seconds
+Text: that so all right he is there a motion to adjourn I've moved to adjourn the July 11th 2023 city commission meeting
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:59:14.220
+End: 00:59:20.220
+Duration: 6.000 seconds
+Text: second second moved in second into adjourn please call the role mayor Hassel yes
+--------------------------------------------------
+Commissioner Hadasal:
+Start: 00:59:20.220
+End: 00:59:27.580
+Duration: 7.360 seconds
+Text: Mr. Butler yes mr. Mata yes motion carries 4 to 0 all right meeting adjourn see you next week
+--------------------------------------------------

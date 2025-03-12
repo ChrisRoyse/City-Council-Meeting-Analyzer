@@ -1,0 +1,78 @@
+{
+  "open_ended_analysis": {
+    "error": "Failed to parse response",
+    "raw": "{\n    \"primary_themes\": [\n        {\n            \"theme\": \"City Budget and Taxes\",\n            \"description\": \"There were extensive discussions regarding the city budget with particular focus on the mill levy and property tax impacts, as well as allocations to different departments, tax revenue, and economic development strategies. There were debates over increasing taxes, keeping rates flat, and finding areas to cut.\",\n            \"notable_points\": [\"The mill levy rate is a key point of conflict.\", \"Discussion revolves around how to balance community services and taxes.\", \"Outside agencies and departments are debated for potential cost savings.\"]\n        },\n        {\n            \"theme\": \"Economic Development\",\n            \"description\": \"The council discussed the effects of new buildings and valuations on the property tax and whether the returns warranted the increases. Also, the role of outside entities in driving property taxes rates and economic development was considered.\",\n            \"notable_points\": [\"There was a debate over the merits and repercussions of not increasing allocations.\", \"Certain entities like Downtown Manhattan argue on their impact and the necessity of their budget requests.\"]\n        }\n    ],\n    \"significant_discussions\": [\n        {\n            \"topic\": \"Impact of Property Tax Changes on Residents\",\n            \"significance\": \"This is important as it directly impacts the residents of the city in terms of their financial commitment and their perception of value for the services provided by the city.\",\n            \"stakeholders\": [\"Taxpayers\", \"City Council\", \"City Departments\", \"Outside Agencies\"]\n        },\n        {\n            \"topic\": \"Budget Allocations of Outside Agencies\",\n            \"significance\": \"There was a clear debate on maintaining, increasing or decreasing funding to outside agencies. This matter is significant as it not only impacts the agencies' operations but also might reflect on the city's economic development and property taxes.\",\n            \"stakeholders\": [\"Outside Agencies\", \"City Council\", \"Taxpayers\", \"City Departments\"]\n        }\n    ],\n    \"unexpected_elements\": [\n        {\n            \"element\": \"Efforts to"
+  },
+  "directed_analysis": {
+    "error": "Failed to parse response",
+    "raw": "{\n    \"land_use\": {\n        \"present\": false,\n        \"significance\": \"N/A\",\n        \"context\": \"N/A\",\n        \"notable_points\": []\n    },\n    \"economic_development\": {\n        \"present\": true,\n        \"significance\": \"Medium\",\n        \"context\": \"The meeting mentioned the impact of new buildings and improvements in downtown and Aggieville areas on tax revenue. The significance of place-making as an economic driver was also highlighted. Additionally, transient guest taxes, which may impact tourism, were discussed.\",\n        \"notable_points\": [\n            \"The mill levy was discussed with regard to tax impacts of new buildings and large valuations.\",\n            \"A segment of tax revenue has been attributed to appreciation and development in the residential sector.\",\n            \"Discussions around funding for the Downtown Manhattan Inc. indicated the recognition of place-making in economic vibrancy.\"\n        ]\n    },\n    \"taxes_budget\": {\n        \"present\": true,\n        \"significance\": \"High\",\n        \"context\": \"The majority of the conversation revolved around the budget for the upcoming year, notably the increase in property taxes in order to balance the budget, and decisions regarding outside agency budgets. The city council discussed the potential increase of the mill levy and its impact on residents and revenue.\",\n        \"notable_points\": [\n           "
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 5,
+      "speaking_time": {
+        "Mayor Adam Jack": 1067.12,
+        "Staff Member": 557.9200000000001,
+        "City Clerk": 119.6,
+        "Commissioner Mc": 563.84,
+        "City Manager": 1.92
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [
+        "Mayor Adam Jack",
+        "Commissioner Mc"
+      ],
+      "observation": "Mayor Adam Jack and Commissioner Mc seem to be leading the discussions. Mayor Adam Jack, with the longest speaking time, contributes significantly to the meeting. Commissioner Mc, despite having lesser speaking time compared to the mayor, his number of segments indicate frequent interventions which signifies a leadership role as well."
+    },
+    "interaction_patterns": {
+      "pattern": "The meeting is characterized by active discussions, interruptions, agreements and disagreements. It appears collaborative yet confrontational at instances with speakers openly expressing their views and challenging others' proposals.",
+      "notable_exchanges": [
+        "An extended discourse between Mayor Adam Jack, Commissioner Mc, and an unnamed speaker possibly another Council member, regarding budget reductions, TGT, and staff raises.",
+        "Public participation also seems very confrontational, particularly with Gina from Downtown Manhattan."
+      ]
+    },
+    "topic_ownership": [
+      {
+        "speaker": "Mayor Adam Jack",
+        "topics": [
+          "Budget considerations",
+          "Public taxation",
+          "Capital Improvements",
+          "Strategy for long-term financial health"
+        ]
+      },
+      {
+        "speaker": "Commissioner Mc",
+        "topics": [
+          "Expenditure cuts",
+          "Staff raises",
+          "Keeping tax rates low"
+        ]
+      },
+      {
+        "speaker": "City Clerk",
+        "topics": [
+          "Procedure and rules of the meeting",
+          "Timekeeping"
+        ]
+      },
+      {
+        "speaker": "Public Participants",
+        "topics": [
+          "Request for funding",
+          "Concerns on property values and taxes",
+          "Need for planning and maintaining downtown"
+        ]
+      }
+    ],
+    "public_participation": {
+      "level": "High",
+      "observation": "Members of the public show high engagement levels, voicing out their concerns and suggestions. Public inputs on topics like downtown management funding, property values and taxes are clearly brought up in this discussion."
+    }
+  },
+  "emergent_patterns": {
+    "error": "Failed to parse response",
+    "raw": "{\n    \"recurring_themes\": [\n        {\n            \"theme\": \"Budget discussions and property tax concerns\",\n            \"evidence\": \"Large portions of the discussion center on debates regarding the property tax rate, budget allocations to various departments, and the management of city funds.\"\n        },\n        {\n            \"theme\": \"Discussion on specific department funding\",\n            \"evidence\": \"There are repeated references to funding for specific departments such as the police department, the library, and outside agencies. The council is grappling with the challenge of how to distribute funds.\"\n        }\n    ],\n    \"underlying_tensions\": [\n        {\n            \"tension\": \"Debate between meeting budgetary constraints and ensuring adequate public services\",\n            \"between\": [\"Council members\"],\n            \"context\": \"The council members express differing opinions on the extent to which funding should be cut or maintained for various departments and services, highlighting a tension between fiscal responsibility and public service delivery.\"\n        }\n    ],\n    \"decision_patterns\": {\n        \"pattern\": \"Consensus building through debate and discussion\",\n        \"observation\": \"Decisions seem to be made through thorough debate and discussion among council members. Different perspectives are aired, and there appear to be efforts to reach a compromise.\"\n    },\n    \"language_patterns\": {\n        \"formality\": \"High\",\n        \"technical_density\": \"High\",\n        \"emotional_tone\": \"While largely professional, there are moments of frustration and tension, reflecting the challenge of the decisions needing to be made.\",\n        \"notable_features"
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "open_ended_analysis": {
+    "primary_themes": [
+      {
+        "theme": "2023 Budget and Revenue Neutral Rate",
+        "description": "The meeting largely focused on discussing the revenue neutral rate for the 2023 budget. Different options for capturing property tax revenue for funding city operations were presented.",
+        "notable_points": [
+          "Revenue Neutral is defined as the finance collecting the same amount of property taxes as the prior year using the current year's total assessed valuation.",
+          "The city is considering either remaining revenue neutral or capturing full growth through a minor increase in mill levies.",
+          "The city's mil levy fluctuates every year to offset any increases for the police department and the library."
+        ]
+      },
+      {
+        "theme": "Public Comments",
+        "description": "Several people spoke during the general public comment section, providing their input about various topics.",
+        "notable_points": [
+          "One citizen advocated for the support of parks and recreation, stating its importance for the community.",
+          "Another citizen expressed their concerns about property tax valuation and encouraged other citizens to reach out to the commissioners for explanation."
+        ]
+      }
+    ],
+    "significant_discussions": [
+      {
+        "topic": "2023 Budget and Valuation Analysis",
+        "significance": "The city's budget decisions will shape the scope and quality of services offered to residents, including police services, library services, and more. It's critical to balance funding needs with the city's revenue sources.",
+        "stakeholders": [
+          "City residents",
+          "City commissioners",
+          "Public service entities like Manhattan Public Library and Riley County Police Department"
+        ]
+      },
+      {
+        "topic": "Public Engagement in Local Governance",
+        "significance": "Public comments provide valuable insight into community priorities and concerns. They play a critical role in local government decision-making processes.",
+        "stakeholders": [
+          "Local residents",
+          "City commissioners"
+        ]
+      }
+    ],
+    "unexpected_elements": [
+      {
+        "element": "Potential for Reduced City Services",
+        "context": "Despite the city's growth and development, potential reductions in city services were discussed as a possible future scenario if the city does not find a sustainable source of revenue."
+      }
+    ]
+  },
+  "directed_analysis": {
+    "land_use": {
+      "present": false,
+      "significance": "N/A",
+      "context": "N/A",
+      "notable_points": []
+    },
+    "economic_development": {
+      "present": false,
+      "significance": "N/A",
+      "context": "N/A",
+      "notable_points": []
+    },
+    "taxes_budget": {
+      "present": true,
+      "significance": "High",
+      "context": "Majority of the meeting discourse was focused around Tax and Budget discussions. Specifically, it revolved around the revenue neutral rate for Manhattan, its impact on property taxes, and the potential shift in approach to funding city operations. Options to either maintain the current mill rate or to fully capture growth were presented and the financial impacts of each, along with impacts on city services, were discussed in detail.",
+      "notable_points": [
+        "The city anticipates it will not be revenue neutral in 2023 due to an increase in the mill levy for Police Department operations",
+        "The city is considering two options: keeping the mill levy flat or fully capturing growth in property taxes",
+        "Not meeting revenue goals has led to reducing levels of service and utilizing cash balances in the past"
+      ]
+    },
+    "other_significant_topics": [
+      {
+        "topic": "Public services",
+        "significance": "Medium",
+        "context": "A significant chunk of the meeting was dedicated to the public expressing their views on public services, including preferences for parks and recreation services. One participant reported that Manhattan Parks and Recreation is very much needed by the community and shared a personal story about its impact"
+      }
+    ]
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 6,
+      "speaking_time": {
+        "Transcription and Diarization for 20220707-07\u29f805\u29f822 City Commission Meeting.mp4": 10.8,
+        "Mayor Morse": 413.5999999999999,
+        "City Clerk": 20.48,
+        "Member of the Public": 590.56,
+        "Commissioner Butler": 2.0,
+        "City Manager": 636.5199999999996
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [
+        "Mayor Morse",
+        "City Manager",
+        "City Clerk"
+      ],
+      "observation": "The Mayor Morse and the City Manager take lead roles in the meeting, directing discussions, initiating topics, and conducting administrative duties. The City Clerk also bears some authority, being tasked with roll calls and recording votes."
+    },
+    "interaction_patterns": {
+      "pattern": "The meeting follows a formal procedural structure where the mayor and city manager take turns to address specific topics. Commissioners are typically addressed directly by the mayor or city manager, and are given the opportunity to speak one by one.",
+      "notable_exchanges": [
+        "The dialogue between Mayor Morse and Commissioner Ready",
+        "Exchange between Mayor Morse and Member of the Public"
+      ]
+    },
+    "topic_ownership": [
+      {
+        "speaker": "Mayor Morse",
+        "topics": [
+          "Meeting procedures",
+          "Public comments",
+          "Commissioners' comments",
+          "Consent agenda"
+        ]
+      },
+      {
+        "speaker": "City Clerk",
+        "topics": [
+          "Vote Recording"
+        ]
+      },
+      {
+        "speaker": "City Manager",
+        "topics": [
+          "Revenue neutral rate"
+        ]
+      },
+      {
+        "speaker": "Member of the Public",
+        "topics": [
+          "Parks and Recreation",
+          "Property Tax Valuation"
+        ]
+      }
+    ],
+    "public_participation": {
+      "level": "Medium",
+      "observation": "Members of the public are actively engaged in the meeting. They are given time to speak and express their thoughts but their interaction is limited to the public comment section of the agenda and seems to be one-way as neither commissioners nor staff directly respond during the meeting."
+    }
+  },
+  "emergent_patterns": {
+    "recurring_themes": [
+      {
+        "theme": "Fiscal responsibility and budgetary concerns",
+        "evidence": "There are numerous references to budgetary items, financial parameters, property taxes, and mill levies. These discussions underscore both the importance and the challenge of managing the city's finances."
+      },
+      {
+        "theme": "Public engagement and participation",
+        "evidence": "There are multiple instances where the council invites public comment and participation, emphasizing the importance of citizen engagement in governance."
+      }
+    ],
+    "underlying_tensions": [
+      {
+        "tension": "Maintaining city services while managing financial constraints",
+        "between": [
+          "City Council",
+          "Public"
+        ],
+        "context": "The council is trying to balance providing essential city services with fiscal constraints, highlighted in discussions around budgeting and funding for different programs and operations."
+      }
+    ],
+    "decision_patterns": {
+      "pattern": "Decisions appear to be made through a mix of discussion, presentation of information, public input, and formal voting.",
+      "observation": "The council seeks input from various stakeholders and considers factors such as fiscal responsibility, public interest, and legal obligations before making a decision."
+    },
+    "language_patterns": {
+      "formality": "High",
+      "technical_density": "High",
+      "emotional_tone": "Neutral",
+      "notable_features": [
+        "Technical terminology related to civic governance and finance, structured and procedural communication"
+      ]
+    },
+    "other_insights": [
+      "The council's proactive steps to communicate and discuss complex financial and operational issues with the public suggest an emphasis on transparency and accountability in governance."
+    ]
+  }
+}

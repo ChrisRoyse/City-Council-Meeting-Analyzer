@@ -1,0 +1,4359 @@
+Transcription and Diarization for manhattan_ks_broadcast_o2gzdefnqxnmsfply859_02⧸18⧸25 City Commission Meeting.mp4
+==================================================
+
+Commissioner Minton:
+Start: 00:00:30.000
+End: 00:00:46.000
+Duration: 16.000 seconds
+Text: There's Peter all alone.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:01:30.000
+End: 00:01:45.000
+Duration: 15.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:01:45.000
+End: 00:01:53.000
+Duration: 8.000 seconds
+Text: It is now six o'clock and I hear by call the February 18th, 2025 City Commission meeting to order.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:01:53.000
+End: 00:01:55.000
+Duration: 2.000 seconds
+Text: City clerk, will you please call the roll.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:01:55.000
+End: 00:01:57.000
+Duration: 2.000 seconds
+Text: Mayor McCullough.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:01:57.000
+End: 00:01:58.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:01:58.000
+End: 00:02:04.000
+Duration: 6.000 seconds
+Text: Commissioner Adam check.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:02:04.000
+End: 00:02:08.000
+Duration: 4.000 seconds
+Text: The talk door she was coming.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:02:08.000
+End: 00:02:09.000
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:02:09.000
+End: 00:02:10.000
+Duration: 1.000 seconds
+Text: Commissioner O'Palt.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:02:10.000
+End: 00:02:11.000
+Duration: 1.000 seconds
+Text: Here.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:02:11.000
+End: 00:02:20.000
+Duration: 9.000 seconds
+Text: Commissioner Mata.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:02:20.000
+End: 00:02:21.000
+Duration: 1.000 seconds
+Text: It was pressing.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:02:21.000
+End: 00:02:22.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:02:22.000
+End: 00:02:24.000
+Duration: 2.000 seconds
+Text: Oh, Susan's here.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:02:24.000
+End: 00:02:30.000
+Duration: 6.000 seconds
+Text: Commissioner Mitten.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:02:30.000
+End: 00:02:31.000
+Duration: 1.000 seconds
+Text: We didn't hear you.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:02:31.000
+End: 00:02:33.000
+Duration: 2.000 seconds
+Text: Any on mute.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:02:33.000
+End: 00:02:35.000
+Duration: 2.000 seconds
+Text: Here.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:02:35.000
+End: 00:02:38.000
+Duration: 3.000 seconds
+Text: Commissioner O'Palt, we have five commissioners present.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:02:38.000
+End: 00:02:39.000
+Duration: 1.000 seconds
+Text: The core methrie is met.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:02:39.000
+End: 00:02:40.000
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:02:40.000
+End: 00:02:44.000
+Duration: 4.000 seconds
+Text: Please stand and join me for the pledge of allegiance.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:02:44.000
+End: 00:02:45.000
+Duration: 1.000 seconds
+Text: No.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:02:45.000
+End: 00:02:46.000
+Duration: 1.000 seconds
+Text: I know.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:02:46.000
+End: 00:02:47.000
+Duration: 1.000 seconds
+Text: I know.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:02:47.000
+End: 00:02:55.000
+Duration: 8.000 seconds
+Text: The pledge of allegiance to the flag of the United States of America to the Republic.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:02:55.000
+End: 00:02:59.000
+Duration: 4.000 seconds
+Text: One is for which stands.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:02:59.000
+End: 00:03:06.000
+Duration: 7.000 seconds
+Text: The routine justice for the fraud.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:03:06.000
+End: 00:03:07.000
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:03:07.000
+End: 00:03:10.000
+Duration: 3.000 seconds
+Text: We will move right into general public comment.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:03:10.000
+End: 00:03:14.000
+Duration: 4.000 seconds
+Text: Those wanting to make comments not related to any item on the agenda can do so at this time.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:03:14.000
+End: 00:03:19.000
+Duration: 5.000 seconds
+Text: Members of the public that signed up in person on the list at the podium before the meeting will go first.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:03:19.000
+End: 00:03:24.000
+Duration: 5.000 seconds
+Text: And then any other members of the public in the audience may stand and be recognized to come forward.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:03:24.000
+End: 00:03:29.000
+Duration: 5.000 seconds
+Text: If you haven't already signed up to speak, please be sure to sign in on the list located at the podium.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:03:29.000
+End: 00:03:36.000
+Duration: 7.000 seconds
+Text: Please state your name and residential address and or organization you are representing for the record and for those listening or watching this evening.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:03:36.000
+End: 00:03:41.000
+Duration: 5.000 seconds
+Text: Each speaker has three minutes, can speak only once and must stop speaking when the timer sounds.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:03:41.000
+End: 00:03:45.000
+Duration: 4.000 seconds
+Text: This section has an initial public comment period of 30 minutes.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:03:45.000
+End: 00:03:48.000
+Duration: 3.000 seconds
+Text: Neither the commissioners nor staff will answer questions or debate an issue.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:03:48.000
+End: 00:03:53.000
+Duration: 5.000 seconds
+Text: We will take your comments under advisement.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:03:53.000
+End: 00:03:58.000
+Duration: 5.000 seconds
+Text: Do we have anyone who would wish to make public comment?
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:03:58.000
+End: 00:03:59.000
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:03:59.000
+End: 00:04:04.000
+Duration: 5.000 seconds
+Text: Then I will close the general public comment period and move on to commissioner comments.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:04:04.000
+End: 00:04:08.000
+Duration: 4.000 seconds
+Text: Commissioner Minton, do you want do you have any comments?
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:04:08.000
+End: 00:04:09.000
+Duration: 1.000 seconds
+Text: I do not.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:04:09.000
+End: 00:04:11.000
+Duration: 2.000 seconds
+Text: Okay. Commissioner Mata.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:04:11.000
+End: 00:04:19.000
+Duration: 8.000 seconds
+Text: I just want to thank city staff for working through the weather and particularly thank the street crews for a great job.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:04:19.000
+End: 00:04:21.000
+Duration: 2.000 seconds
+Text: Yeah. They did a great job.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:04:21.000
+End: 00:04:24.000
+Duration: 3.000 seconds
+Text: I just wanted to thank the folks that showed up.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:04:24.000
+End: 00:04:29.000
+Duration: 5.000 seconds
+Text: I had a coffee event this weekend at the library.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:04:29.000
+End: 00:04:33.000
+Duration: 4.000 seconds
+Text: Had about a dozen people and we had a really nice conversation.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:04:33.000
+End: 00:04:37.000
+Duration: 4.000 seconds
+Text: It was really great to have the opportunity to sit down and really work things out.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:04:37.000
+End: 00:04:39.000
+Duration: 2.000 seconds
+Text: So and talk things out.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:04:39.000
+End: 00:04:43.000
+Duration: 4.000 seconds
+Text: So I plan to be having more of those more regularly in the future.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:04:43.000
+End: 00:04:49.000
+Duration: 6.000 seconds
+Text: And I would encourage my fellow commissioners to do similar.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:04:49.000
+End: 00:04:51.000
+Duration: 2.000 seconds
+Text: Commissioner Adam check.
+--------------------------------------------------
+Commissioner Adam:
+Start: 00:04:51.000
+End: 00:04:53.000
+Duration: 2.000 seconds
+Text: Thank you report.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:04:53.000
+End: 00:04:55.000
+Duration: 2.000 seconds
+Text: All right. And Mayor McCullough.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:04:55.000
+End: 00:05:02.000
+Duration: 7.000 seconds
+Text: I would ask staff to get in touch with the people at case date and let us know what they are.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:05:02.000
+End: 00:05:06.000
+Duration: 4.000 seconds
+Text: And let us know what they feel the impact of these.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:05:06.000
+End: 00:05:12.000
+Duration: 6.000 seconds
+Text: Tax cuts that are happening both at the national level and the state level.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:05:12.000
+End: 00:05:14.000
+Duration: 2.000 seconds
+Text: I am hearing a lot of concern.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:05:14.000
+End: 00:05:19.000
+Duration: 5.000 seconds
+Text: I don't know how much of it has is can be verified.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:05:19.000
+End: 00:05:26.000
+Duration: 7.000 seconds
+Text: But I do think we need to know as a city commission what's going on at case date.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:05:26.000
+End: 00:05:31.000
+Duration: 5.000 seconds
+Text: And with some of the things that are happening.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:05:31.000
+End: 00:05:33.000
+Duration: 2.000 seconds
+Text: Yeah. On that.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:05:33.000
+End: 00:05:34.000
+Duration: 1.000 seconds
+Text: Mayor McCullough.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:05:34.000
+End: 00:05:37.000
+Duration: 3.000 seconds
+Text: I actually did reach out to our congressional delegation.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:05:37.000
+End: 00:05:39.000
+Duration: 2.000 seconds
+Text: The local offices yesterday.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:05:39.000
+End: 00:05:45.000
+Duration: 6.000 seconds
+Text: I did have a nice conversation with staff at Senator Moran's office.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:05:45.000
+End: 00:05:48.000
+Duration: 3.000 seconds
+Text: So just speaking from our perspective.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:05:48.000
+End: 00:05:54.000
+Duration: 6.000 seconds
+Text: It does have the potential to have a really big impact on our budget next year and moving forward.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:05:54.000
+End: 00:06:00.000
+Duration: 6.000 seconds
+Text: So I think it's just it's really something that we need to remain in communication with them as well.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:06:00.000
+End: 00:06:05.000
+Duration: 5.000 seconds
+Text: And yeah, there's a lot we don't know yet.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:06:05.000
+End: 00:06:07.000
+Duration: 2.000 seconds
+Text: We'll do the best that we can.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:06:07.000
+End: 00:06:09.000
+Duration: 2.000 seconds
+Text: Presiding commissioner O'Palt.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:06:09.000
+End: 00:06:10.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:06:10.000
+End: 00:06:12.000
+Duration: 2.000 seconds
+Text: I did ask.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:06:12.000
+End: 00:06:17.000
+Duration: 5.000 seconds
+Text: Wyatt Thompson, Public Works Director Thompson to give you all an update on where we're at with snow removal.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:06:17.000
+End: 00:06:19.000
+Duration: 2.000 seconds
+Text: If you have a few minutes for that.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:06:19.000
+End: 00:06:26.000
+Duration: 7.000 seconds
+Text: Yeah. Go ahead.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:26.000
+End: 00:06:31.000
+Duration: 5.000 seconds
+Text: We're going to have a few minutes to talk about the next few minutes.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:31.000
+End: 00:06:35.000
+Duration: 4.000 seconds
+Text: We're going to have a few evening commissioners.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:35.000
+End: 00:06:38.000
+Duration: 3.000 seconds
+Text: We deployed public work street crews last night around seven p.m.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:38.000
+End: 00:06:42.000
+Duration: 4.000 seconds
+Text: And they've been working all day on removing snow.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:42.000
+End: 00:06:43.000
+Duration: 1.000 seconds
+Text: It just started.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:43.000
+End: 00:06:48.000
+Duration: 5.000 seconds
+Text: It just stopped snowing about five minutes, at least here at City Hall about five minutes before.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:48.000
+End: 00:06:52.000
+Duration: 4.000 seconds
+Text: I came into the meeting so they would but they were moving snow all day long.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:52.000
+End: 00:06:58.000
+Duration: 6.000 seconds
+Text: And so it's really just depends on what the wind was doing and the drifting and kind of wearing the community.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:58.000
+End: 00:07:08.000
+Duration: 10.000 seconds
+Text: You were at.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:08.000
+End: 00:07:14.000
+Duration: 6.000 seconds
+Text: But we will be working overnight tonight on the primaries will be treating roads.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:14.000
+End: 00:07:17.000
+Duration: 3.000 seconds
+Text: So hopefully they'll it'll be a little less slick.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:17.000
+End: 00:07:20.000
+Duration: 3.000 seconds
+Text: I mean, the morning.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:20.000
+End: 00:07:30.000
+Duration: 10.000 seconds
+Text: And then we'll start residential streets tomorrow morning and then do down removed snow from downtown and Aggieville tomorrow night.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:30.000
+End: 00:07:34.000
+Duration: 4.000 seconds
+Text: We had hope to have all this residential streets.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:34.000
+End: 00:07:37.000
+Duration: 3.000 seconds
+Text: A pass made through those by by Friday.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:37.000
+End: 00:07:41.000
+Duration: 4.000 seconds
+Text: And then by next week it's supposed to warm up quite a bit.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:41.000
+End: 00:07:44.000
+Duration: 3.000 seconds
+Text: So that will hopefully melt melt things off a little bit.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:44.000
+End: 00:07:46.000
+Duration: 2.000 seconds
+Text: But very cold temperatures tomorrow.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:46.000
+End: 00:07:51.000
+Duration: 5.000 seconds
+Text: If anybody is out and about just be mindful of the negative wind chill.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:51.000
+End: 00:08:01.000
+Duration: 10.000 seconds
+Text: In addition to public works crews, we did have other crews from Parks and Rec that were out clearing facilities and sidewalks and trails and other things throughout the day.
+--------------------------------------------------
+City Clerk:
+Start: 00:08:01.000
+End: 00:08:05.000
+Duration: 4.000 seconds
+Text: And they'll be continuing to work on that this week as well.
+--------------------------------------------------
+City Clerk:
+Start: 00:08:05.000
+End: 00:08:07.000
+Duration: 2.000 seconds
+Text: Happy answering questions.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:08:07.000
+End: 00:08:13.000
+Duration: 6.000 seconds
+Text: I thought that the Pico has warming trailers for their workers.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:08:13.000
+End: 00:08:15.000
+Duration: 2.000 seconds
+Text: It is so bitterly cold.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:08:15.000
+End: 00:08:20.000
+Duration: 5.000 seconds
+Text: I hope we're taking care of people and making sure that they get a chance to warm up.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:08:20.000
+End: 00:08:24.000
+Duration: 4.000 seconds
+Text: And that's more important than getting the sidewalks cleared.
+--------------------------------------------------
+City Clerk:
+Start: 00:08:24.000
+End: 00:08:32.000
+Duration: 8.000 seconds
+Text: Yeah, absolutely.
+--------------------------------------------------
+City Clerk:
+Start: 00:08:32.000
+End: 00:08:33.000
+Duration: 1.000 seconds
+Text: All right. Thank you.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:08:33.000
+End: 00:08:34.000
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:08:34.000
+End: 00:08:35.000
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:08:35.000
+End: 00:08:36.000
+Duration: 1.000 seconds
+Text: Again, thank you.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:08:36.000
+End: 00:08:38.000
+Duration: 2.000 seconds
+Text: Thanks to the crews that are out there.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:08:38.000
+End: 00:08:40.000
+Duration: 2.000 seconds
+Text: It is very cold.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:08:40.000
+End: 00:08:41.000
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:08:41.000
+End: 00:08:44.000
+Duration: 3.000 seconds
+Text: We will move on to the consent agenda.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:08:44.000
+End: 00:08:52.000
+Duration: 8.000 seconds
+Text: Items on the consent agenda are those of a routine and housekeeping nature or those items which have previously been reviewed by the city commission.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:08:52.000
+End: 00:09:03.000
+Duration: 11.000 seconds
+Text: A commissioner may request an item be moved for a separate discussion and consideration immediately following the consent agenda or at a different point on the agenda if desired by the city commission.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:09:03.000
+End: 00:09:09.000
+Duration: 6.000 seconds
+Text: Does the commission have any questions or comments on any of the consent agenda items?
+--------------------------------------------------
+Commissioner Adam:
+Start: 00:09:09.000
+End: 00:09:12.000
+Duration: 3.000 seconds
+Text: Residing commissioner Opel to I do.
+--------------------------------------------------
+Commissioner Adam:
+Start: 00:09:12.000
+End: 00:09:26.000
+Duration: 14.000 seconds
+Text: And I would like to remove item D2 approving resolution number 021825B from the consent agenda.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:09:26.000
+End: 00:09:27.000
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:09:27.000
+End: 00:09:29.000
+Duration: 2.000 seconds
+Text: That's the D2.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:09:29.000
+End: 00:09:30.000
+Duration: 1.000 seconds
+Text: That's.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:09:30.000
+End: 00:09:31.000
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:09:31.000
+End: 00:09:33.000
+Duration: 2.000 seconds
+Text: Karen, did you have any questions?
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:09:33.000
+End: 00:09:34.000
+Duration: 1.000 seconds
+Text: Nope.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:09:34.000
+End: 00:09:35.000
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:09:35.000
+End: 00:09:36.000
+Duration: 1.000 seconds
+Text: I agree with this.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:09:36.000
+End: 00:09:38.000
+Duration: 2.000 seconds
+Text: No, I want to hear about that.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:09:38.000
+End: 00:09:43.000
+Duration: 5.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Clerk:
+Start: 00:09:43.000
+End: 00:09:44.000
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:09:44.000
+End: 00:09:49.000
+Duration: 5.000 seconds
+Text: So if there are no questions, then we can move to public comment.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:09:49.000
+End: 00:09:57.000
+Duration: 8.000 seconds
+Text: Again, we will now receive public comment on any item on tonight's consent agenda members of the public that signed up in person on the list at the podium before the meeting will go first.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:09:57.000
+End: 00:10:01.000
+Duration: 4.000 seconds
+Text: Then any other members of the public in the audience may stand if you recognize to come forward.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:10:01.000
+End: 00:10:06.000
+Duration: 5.000 seconds
+Text: If you haven't already signed up to speak, please be sure to sign in on the list located at the podium.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:10:06.000
+End: 00:10:12.000
+Duration: 6.000 seconds
+Text: Please state your name, residential address and or organization you are representing for the record and those listening or watching this evening.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:10:12.000
+End: 00:10:17.000
+Duration: 5.000 seconds
+Text: Each speaker has three minutes can only speak once and must stop speaking when they're the timer sounds.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:10:17.000
+End: 00:10:20.000
+Duration: 3.000 seconds
+Text: This section has an initial public comment period of 30 minutes.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:10:20.000
+End: 00:10:24.000
+Duration: 4.000 seconds
+Text: Neither the commissioners nor staff will answer questions or debate an issue.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:10:24.000
+End: 00:10:27.000
+Duration: 3.000 seconds
+Text: We will take your comments under advisement.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:10:27.000
+End: 00:10:32.000
+Duration: 5.000 seconds
+Text: Do we have any public comment on the consent agenda?
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:10:32.000
+End: 00:10:35.000
+Duration: 3.000 seconds
+Text: Then I will close public comment period.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:10:35.000
+End: 00:10:45.000
+Duration: 10.000 seconds
+Text: And do we have a motion or any further discussion from the commission on the consent agenda?
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:10:45.000
+End: 00:10:52.000
+Duration: 7.000 seconds
+Text: I'll move that we approve the consent agenda minus D2 second.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:10:52.000
+End: 00:11:00.000
+Duration: 8.000 seconds
+Text: Okay. We have Commissioner Mitten made the motion and Commissioner Adam check seconded.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:11:00.000
+End: 00:11:03.000
+Duration: 3.000 seconds
+Text: City clerk, please call the roll.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:11:03.000
+End: 00:11:05.000
+Duration: 2.000 seconds
+Text: Are you sure Adam check?
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:11:05.000
+End: 00:11:06.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:11:06.000
+End: 00:11:07.000
+Duration: 1.000 seconds
+Text: Are you sure Ope help?
+--------------------------------------------------
+City Clerk:
+Start: 00:11:07.000
+End: 00:11:08.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:11:08.000
+End: 00:11:10.000
+Duration: 2.000 seconds
+Text: Mr. Mata?
+--------------------------------------------------
+City Clerk:
+Start: 00:11:10.000
+End: 00:11:11.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:11:11.000
+End: 00:11:13.000
+Duration: 2.000 seconds
+Text: Mr. Mitten?
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:11:17.000
+End: 00:11:18.000
+Duration: 1.000 seconds
+Text: Mayor McCalla?
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:11:18.000
+End: 00:11:19.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:11:19.000
+End: 00:11:22.000
+Duration: 3.000 seconds
+Text: Motion carries 5-0.
+--------------------------------------------------
+Commissioner Adam:
+Start: 00:11:25.000
+End: 00:11:28.000
+Duration: 3.000 seconds
+Text: There's a lot of background noise.
+--------------------------------------------------
+Commissioner Adam:
+Start: 00:11:28.000
+End: 00:11:33.000
+Duration: 5.000 seconds
+Text: Is someone vacuuming or doing something in the in the commission room?
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:11:33.000
+End: 00:11:37.000
+Duration: 4.000 seconds
+Text: No, I think you hear the fan from the projector.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:11:37.000
+End: 00:11:38.000
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:11:38.000
+End: 00:11:40.000
+Duration: 2.000 seconds
+Text: It's pretty loud.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:11:40.000
+End: 00:11:41.000
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Adam:
+Start: 00:11:41.000
+End: 00:11:42.000
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:11:42.000
+End: 00:11:44.000
+Duration: 2.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:11:44.000
+End: 00:11:53.000
+Duration: 9.000 seconds
+Text: So can we please have the presentation or do we have a presentation for the what is it?
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:11:53.000
+End: 00:12:01.000
+Duration: 8.000 seconds
+Text: The cedar herds resolution.
+--------------------------------------------------
+City Manager:
+Start: 00:12:01.000
+End: 00:12:02.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 00:12:02.000
+End: 00:12:08.000
+Duration: 6.000 seconds
+Text: Jason Hillzer's deputy city manager Stephanie Pearson is ill this evening.
+--------------------------------------------------
+City Manager:
+Start: 00:12:08.000
+End: 00:12:16.000
+Duration: 8.000 seconds
+Text: So I'll be stepping in and helping her out on this item as well as some flower flats.
+--------------------------------------------------
+City Manager:
+Start: 00:12:16.000
+End: 00:12:23.000
+Duration: 7.000 seconds
+Text: So cedar herds is a $32 million project that will build some senior independent living cottages.
+--------------------------------------------------
+City Manager:
+Start: 00:12:23.000
+End: 00:12:38.000
+Duration: 15.000 seconds
+Text: This is a sales tax exemption through the IRB process to grant them an exemption on their construction materials.
+--------------------------------------------------
+City Manager:
+Start: 00:12:38.000
+End: 00:12:41.000
+Duration: 3.000 seconds
+Text: They did provide us a presentation.
+--------------------------------------------------
+City Manager:
+Start: 00:12:41.000
+End: 00:12:43.000
+Duration: 2.000 seconds
+Text: I can run through that.
+--------------------------------------------------
+City Manager:
+Start: 00:12:43.000
+End: 00:12:50.000
+Duration: 7.000 seconds
+Text: There's an independent assisted living and memory care community that they will look to develop.
+--------------------------------------------------
+City Manager:
+Start: 00:12:50.000
+End: 00:13:02.000
+Duration: 12.000 seconds
+Text: Based out of St. Louis, they manage over 4,200 independent assisted living and memory care units and 56 communities in the Midwest and the southeast.
+--------------------------------------------------
+City Manager:
+Start: 00:13:02.000
+End: 00:13:12.000
+Duration: 10.000 seconds
+Text: They currently have four in Kansas, a totaling approximately 323 units and additional 69 and Bruce Rings, Missouri.
+--------------------------------------------------
+City Manager:
+Start: 00:13:12.000
+End: 00:13:20.000
+Duration: 8.000 seconds
+Text: Dover companies is a part of the cedar herds senior living ownership.
+--------------------------------------------------
+City Manager:
+Start: 00:13:20.000
+End: 00:13:33.000
+Duration: 13.000 seconds
+Text: Looks like they are targeting the seniors within the community 75 plus and see a need in our community for this investment.
+--------------------------------------------------
+City Manager:
+Start: 00:13:33.000
+End: 00:13:39.000
+Duration: 6.000 seconds
+Text: Phase one is an 89 unit to story assisted living and memory care community.
+--------------------------------------------------
+City Manager:
+Start: 00:13:39.000
+End: 00:13:45.000
+Duration: 6.000 seconds
+Text: The facility will be right at or near 78,000 square feet.
+--------------------------------------------------
+City Manager:
+Start: 00:13:45.000
+End: 00:13:49.000
+Duration: 4.000 seconds
+Text: There will be 22 independent living cottages.
+--------------------------------------------------
+City Manager:
+Start: 00:13:49.000
+End: 00:13:55.000
+Duration: 6.000 seconds
+Text: This says 31 million. I think the memo is at 32 million and total project cost.
+--------------------------------------------------
+City Manager:
+Start: 00:13:55.000
+End: 00:13:58.000
+Duration: 3.000 seconds
+Text: They're looking to create 50 plus jobs.
+--------------------------------------------------
+City Manager:
+Start: 00:13:58.000
+End: 00:14:08.000
+Duration: 10.000 seconds
+Text: Payroll exceeding 2 million and be like a temporary insertion of about 180 construction jobs.
+--------------------------------------------------
+City Manager:
+Start: 00:14:08.000
+End: 00:14:12.000
+Duration: 4.000 seconds
+Text: It looks like they want to start this summer.
+--------------------------------------------------
+City Manager:
+Start: 00:14:12.000
+End: 00:14:18.000
+Duration: 6.000 seconds
+Text: Get their building permit and have Phase one complete by January 27.
+--------------------------------------------------
+City Manager:
+Start: 00:14:18.000
+End: 00:14:22.000
+Duration: 4.000 seconds
+Text: Phase one opening by February same year.
+--------------------------------------------------
+City Manager:
+Start: 00:14:22.000
+End: 00:14:26.000
+Duration: 4.000 seconds
+Text: Phase two looks like we're in the summer of 2028.
+--------------------------------------------------
+City Manager:
+Start: 00:14:26.000
+End: 00:14:30.000
+Duration: 4.000 seconds
+Text: With a start and completing that by January 2030.
+--------------------------------------------------
+City Manager:
+Start: 00:14:30.000
+End: 00:14:34.000
+Duration: 4.000 seconds
+Text: And then opening that in February.
+--------------------------------------------------
+City Manager:
+Start: 00:14:34.000
+End: 00:14:41.000
+Duration: 7.000 seconds
+Text: Cedar herds is approximately located out here of Kimball and Berkshire.
+--------------------------------------------------
+City Manager:
+Start: 00:14:41.000
+End: 00:14:49.000
+Duration: 8.000 seconds
+Text: It is the track of land that has sat along scenic drive for a number of years.
+--------------------------------------------------
+City Manager:
+Start: 00:14:49.000
+End: 00:15:00.000
+Duration: 11.000 seconds
+Text: Just south of the Grand Mar area north of the roundabout at Anderson and scenic.
+--------------------------------------------------
+City Manager:
+Start: 00:15:00.000
+End: 00:15:02.000
+Duration: 2.000 seconds
+Text: There is quite a bit of sight work needed.
+--------------------------------------------------
+City Manager:
+Start: 00:15:02.000
+End: 00:15:09.000
+Duration: 7.000 seconds
+Text: They do need a water main extension, sanitary main extension as well.
+--------------------------------------------------
+City Manager:
+Start: 00:15:09.000
+End: 00:15:16.000
+Duration: 7.000 seconds
+Text: We did talk about some additional turn lanes off scenic drive, Kimball Avenue.
+--------------------------------------------------
+City Manager:
+Start: 00:15:16.000
+End: 00:15:21.000
+Duration: 5.000 seconds
+Text: Not only into Berkshire but in and out of this development as well.
+--------------------------------------------------
+City Manager:
+Start: 00:15:21.000
+End: 00:15:29.000
+Duration: 8.000 seconds
+Text: They did highlight the market analysis identifying senior housing as a key need for the city.
+--------------------------------------------------
+City Manager:
+Start: 00:15:29.000
+End: 00:15:33.000
+Duration: 4.000 seconds
+Text: Looking to add to that inventory.
+--------------------------------------------------
+City Manager:
+Start: 00:15:33.000
+End: 00:15:38.000
+Duration: 5.000 seconds
+Text: The request again for the sales tax exemption on construction materials.
+--------------------------------------------------
+City Manager:
+Start: 00:15:38.000
+End: 00:15:45.000
+Duration: 7.000 seconds
+Text: They're not pursuing anything relative to a property tax abatement at this point in time.
+--------------------------------------------------
+City Manager:
+Start: 00:15:45.000
+End: 00:15:49.000
+Duration: 4.000 seconds
+Text: Happy to answer any questions of the commissioners.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:15:49.000
+End: 00:15:53.000
+Duration: 4.000 seconds
+Text: Mason, I'm sorry. I don't remember talking about this before.
+--------------------------------------------------
+City Manager:
+Start: 00:15:53.000
+End: 00:15:57.000
+Duration: 4.000 seconds
+Text: I don't believe you have.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:15:58.000
+End: 00:16:05.000
+Duration: 7.000 seconds
+Text: So this is kind of coming to us on the consent agenda with our new real discussion.
+--------------------------------------------------
+City Manager:
+Start: 00:16:05.000
+End: 00:16:25.000
+Duration: 20.000 seconds
+Text: We have been bringing forward sales tax exemptions on construction on consent that have been around the housing study and any type of need with all units being part of that analysis.
+--------------------------------------------------
+City Manager:
+Start: 00:16:25.000
+End: 00:16:30.000
+Duration: 5.000 seconds
+Text: We have placed this and others on the consent agenda.
+--------------------------------------------------
+City Manager:
+Start: 00:16:30.000
+End: 00:16:33.000
+Duration: 3.000 seconds
+Text: Obviously, two of you would like to hear more about it tonight.
+--------------------------------------------------
+City Manager:
+Start: 00:16:33.000
+End: 00:16:38.000
+Duration: 5.000 seconds
+Text: If you'd like us to bring these to the general agenda in the future, we can.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:16:38.000
+End: 00:16:42.000
+Duration: 4.000 seconds
+Text: This is the resolution. This is just like the first step.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:16:42.000
+End: 00:16:47.000
+Duration: 5.000 seconds
+Text: We still have to do to issue the IRB. We still have to do a hearing.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:47.000
+End: 00:16:48.000
+Duration: 1.000 seconds
+Text: Correct.
+--------------------------------------------------
+City Manager:
+Start: 00:16:48.000
+End: 00:16:51.000
+Duration: 3.000 seconds
+Text: So just for the sales tax exemption, the resolution really kicks it off.
+--------------------------------------------------
+City Manager:
+Start: 00:16:51.000
+End: 00:16:52.000
+Duration: 1.000 seconds
+Text: There's action at the end.
+--------------------------------------------------
+City Manager:
+Start: 00:16:52.000
+End: 00:16:53.000
+Duration: 1.000 seconds
+Text: Right.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:16:53.000
+End: 00:17:03.000
+Duration: 10.000 seconds
+Text: So do we know the cost to tenants in this.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:17:03.000
+End: 00:17:07.000
+Duration: 4.000 seconds
+Text: This housing partnership.
+--------------------------------------------------
+City Manager:
+Start: 00:17:07.000
+End: 00:17:10.000
+Duration: 3.000 seconds
+Text: They've always described it as market rate, Karen.
+--------------------------------------------------
+City Manager:
+Start: 00:17:10.000
+End: 00:17:12.000
+Duration: 2.000 seconds
+Text: It's not a.
+--------------------------------------------------
+City Manager:
+Start: 00:17:12.000
+End: 00:17:18.000
+Duration: 6.000 seconds
+Text: It's not a tax credit or a low income or a restricted income type of unit.
+--------------------------------------------------
+City Manager:
+Start: 00:17:18.000
+End: 00:17:21.000
+Duration: 3.000 seconds
+Text: It's a market rate.
+--------------------------------------------------
+Commissioner Adam:
+Start: 00:17:21.000
+End: 00:17:42.000
+Duration: 21.000 seconds
+Text: I know that this is consistent with the housing study that we need housing across all income points and four seniors in particular, but I'm not particularly comfortable with approving this particular tax credit.
+--------------------------------------------------
+Commissioner Adam:
+Start: 00:17:42.000
+End: 00:17:51.000
+Duration: 9.000 seconds
+Text: This is a market rate project that will be.
+--------------------------------------------------
+Commissioner Adam:
+Start: 00:17:51.000
+End: 00:17:56.000
+Duration: 5.000 seconds
+Text: Yeah, I'm not interested.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:17:56.000
+End: 00:17:57.000
+Duration: 1.000 seconds
+Text: Susan, can I ask you a question?
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:17:57.000
+End: 00:18:03.000
+Duration: 6.000 seconds
+Text: Commissioners, I do just want to say that we do have a representative from this project on teams as well.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:18:03.000
+End: 00:18:06.000
+Duration: 3.000 seconds
+Text: It's Nick Dwyer.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:18:06.000
+End: 00:18:18.000
+Duration: 12.000 seconds
+Text: And if you'd like him to speak, he can.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:18:18.000
+End: 00:18:19.000
+Duration: 1.000 seconds
+Text: Nick, you go ahead.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:18:19.000
+End: 00:18:20.000
+Duration: 1.000 seconds
+Text: Yep.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:20.000
+End: 00:18:21.000
+Duration: 1.000 seconds
+Text: Yep.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:21.000
+End: 00:18:22.000
+Duration: 1.000 seconds
+Text: Hey, sorry.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:22.000
+End: 00:18:23.000
+Duration: 1.000 seconds
+Text: I didn't want to speak out of turn.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:23.000
+End: 00:18:29.000
+Duration: 6.000 seconds
+Text: And thank you, Jason, for running through our presentation.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:29.000
+End: 00:18:30.000
+Duration: 1.000 seconds
+Text: Nick Dwyer with Dover Development.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:30.000
+End: 00:18:31.000
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:31.000
+End: 00:18:34.000
+Duration: 3.000 seconds
+Text: Happy to answer any questions you guys have.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:34.000
+End: 00:18:40.000
+Duration: 6.000 seconds
+Text: I'm not sure if you guys are interested in doing this.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:40.000
+End: 00:18:42.000
+Duration: 2.000 seconds
+Text: I don't know if you guys have any questions.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:42.000
+End: 00:18:44.000
+Duration: 2.000 seconds
+Text: I'm just going to ask you a question.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:44.000
+End: 00:18:54.000
+Duration: 10.000 seconds
+Text: Please work pursuing this sales tax abatement is mainly due to well a few things, obviously just the current environment for new construction across the country is kind of difficult with construction price and interest rates.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:54.000
+End: 00:19:03.000
+Duration: 9.000 seconds
+Text: And staffing costs for running these communities has become very challenging and not to mention the.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:03.000
+End: 00:19:07.000
+Duration: 4.000 seconds
+Text: Our projects require a decent amount of acreage.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:07.000
+End: 00:19:14.000
+Duration: 7.000 seconds
+Text: And so in order to fit that are land options here in Manhattan are pretty limited with some of the topography.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:14.000
+End: 00:19:18.000
+Duration: 4.000 seconds
+Text: And obviously the university having a lot of land holdings in town.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:18.000
+End: 00:19:24.000
+Duration: 6.000 seconds
+Text: So we we were searching while trying to find the right site and the one that we've come across.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:24.000
+End: 00:19:33.000
+Duration: 9.000 seconds
+Text: Do have a very significant portion of public improvements that we that we have to put in the water main the sewer main the turn lane.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:33.000
+End: 00:19:38.000
+Duration: 5.000 seconds
+Text: We've got to run a couple thousand feet of sewer across some very rocky challenging terrain.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:38.000
+End: 00:19:47.000
+Duration: 9.000 seconds
+Text: And so that's why we're here tonight is hopefully get some sort of relief out offset a lot of those those costs that are going to be prohibitive.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:47.000
+End: 00:19:51.000
+Duration: 4.000 seconds
+Text: For our project.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:19:51.000
+End: 00:19:59.000
+Duration: 8.000 seconds
+Text: Is this going to be a not for profit organization then 501 T3?
+--------------------------------------------------
+City Clerk:
+Start: 00:19:59.000
+End: 00:20:05.000
+Duration: 6.000 seconds
+Text: No, we're we're not a nonprofit where a privately held company.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:20:05.000
+End: 00:20:08.000
+Duration: 3.000 seconds
+Text: So you will be paying property taxes then.
+--------------------------------------------------
+City Clerk:
+Start: 00:20:08.000
+End: 00:20:15.000
+Duration: 7.000 seconds
+Text: Yes, yeah, and you know, I would I can't I can't guess what the assessor is going to.
+--------------------------------------------------
+City Clerk:
+Start: 00:20:15.000
+End: 00:20:24.000
+Duration: 9.000 seconds
+Text: In most scenarios on the pride properties that we are aware it's a it's definitely a six figure real estate tax bill that we be bringing in.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:20:24.000
+End: 00:20:29.000
+Duration: 5.000 seconds
+Text: To the community.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:20:29.000
+End: 00:20:35.000
+Duration: 6.000 seconds
+Text: I think it's a great project that fits our policy to do this.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:20:35.000
+End: 00:20:39.000
+Duration: 4.000 seconds
+Text: We need this housing. It's going to be a big boon for the property tax.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:20:39.000
+End: 00:20:48.000
+Duration: 9.000 seconds
+Text: And our own and then you out of pocket taxes going to be very minimal because these construction materials likely to be mostly purchased out of town.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:20:48.000
+End: 00:20:58.000
+Duration: 10.000 seconds
+Text: This is an incentive thing that we have out there to encourage people to come in that we give quite routinely and is not a bit cost to us.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:20:58.000
+End: 00:21:08.000
+Duration: 10.000 seconds
+Text: And I think it's something we need is a great project is going into an area where they have to do a lot of extra work to make it work.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:21:08.000
+End: 00:21:13.000
+Duration: 5.000 seconds
+Text: And I'd like to give them some support on this.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:21:13.000
+End: 00:21:20.000
+Duration: 7.000 seconds
+Text: Yeah, I think you know when I look at this, it's not just a housing project, but it's also has a potential to bring in some jobs.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:21:20.000
+End: 00:21:31.000
+Duration: 11.000 seconds
+Text: And yeah, it has a potential to bring in those jobs. So, you know, we're not only supporting our property tax role, but also hopefully having some jobs.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:21:31.000
+End: 00:21:43.000
+Duration: 12.000 seconds
+Text: And you know, Susan, I know I heard you I hear your concern about this not being kind of the workforce housing that we're looking at, you know, in that range.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:21:43.000
+End: 00:21:59.000
+Duration: 16.000 seconds
+Text: However, if we can open up some some of these senior living units, then you know, maybe folks who have lived in their homes for decades will move into those units and those homes will be on the market for younger folks.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:21:59.000
+End: 00:22:07.000
+Duration: 8.000 seconds
+Text: And hopefully those older homes will be, you know, at a more entry level rate. So, I know it is kind of a bit of a.
+--------------------------------------------------
+Commissioner Adam:
+Start: 00:22:07.000
+End: 00:22:13.000
+Duration: 6.000 seconds
+Text: We'll be supporting we'll be supporting them with the rehab program that we discussed last week.
+--------------------------------------------------
+Commissioner Adam:
+Start: 00:22:13.000
+End: 00:22:16.000
+Duration: 3.000 seconds
+Text: Well, just just just joking.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:22:16.000
+End: 00:22:21.000
+Duration: 5.000 seconds
+Text: Yeah, I hear what you're saying. So yeah, I mean, I'll.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:22:21.000
+End: 00:22:31.000
+Duration: 10.000 seconds
+Text: Go ahead, Karen. My concern was this is a major project and just to put it on the consent agenda, I really appreciate the people being here who are going to do the project.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:22:31.000
+End: 00:22:42.000
+Duration: 11.000 seconds
+Text: I am very supportive now that I've heard all the information, but I would tell Jason in the future, I would like these things to be on the regular agenda.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:22:42.000
+End: 00:22:51.000
+Duration: 9.000 seconds
+Text: So it's just a heads up. This is $31 million. This is not something to me that we just casually approve. We need to hear some input and we've heard it.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:22:51.000
+End: 00:22:55.000
+Duration: 4.000 seconds
+Text: And I think it's it's a good deal.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:22:55.000
+End: 00:23:06.000
+Duration: 11.000 seconds
+Text: Well, it's not. I think Peter brought up a good point about the jobs. I mean, literally someone could have brought this project in and gone for an economic development grant based on creating so many jobs within it.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:23:06.000
+End: 00:23:16.000
+Duration: 10.000 seconds
+Text: You know, a certain amount of time and everything else with it. I mean, ask they're asking very little for this.
+--------------------------------------------------
+Commissioner Adam:
+Start: 00:23:16.000
+End: 00:23:26.000
+Duration: 10.000 seconds
+Text: I concur with Karen. I mean, I think that this is a project of this magnitude. I think we should hear about.
+--------------------------------------------------
+Commissioner Adam:
+Start: 00:23:26.000
+End: 00:23:35.000
+Duration: 9.000 seconds
+Text: And publicly, I mean, we are hearing about it publicly now, but it could have been passed on the consent agenda without a lot of discussion.
+--------------------------------------------------
+Commissioner Adam:
+Start: 00:23:35.000
+End: 00:23:49.000
+Duration: 14.000 seconds
+Text: So I would echo Karen's comment and appreciate hearing the side projects this size and magnitude in the future on the general agenda.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:23:49.000
+End: 00:23:56.000
+Duration: 7.000 seconds
+Text: Any other commissioner comments or discussion?
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:23:56.000
+End: 00:24:05.000
+Duration: 9.000 seconds
+Text: Okay, then we will receive public comment. Does anyone wish to speak for public comment on this item?
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:24:05.000
+End: 00:24:15.000
+Duration: 10.000 seconds
+Text: Great. Then if that's okay, if it's okay, I will skip reading all of the public comment, disclaimers, and close public comment.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:24:15.000
+End: 00:24:24.000
+Duration: 9.000 seconds
+Text: Okay. Do we have any other discussion or would anyone like to make a motion on this?
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:24:24.000
+End: 00:24:44.000
+Duration: 20.000 seconds
+Text: I move to approve resolution number 021825-B, determine the city's intent to issue industrial revenue bonds and authorize and a sales tax exemption for cedar herds of Manhattan real estate LLC cedar herds of Manhattan project.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:24:45.000
+End: 00:24:53.000
+Duration: 8.000 seconds
+Text: Okay. Commissioner Mata has made the motion and Mayor McCalla seconded the motion. City clerk, please call the roll.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:24:53.000
+End: 00:24:59.000
+Duration: 6.000 seconds
+Text: Commissioner O'Palt. Yes. Commissioner Mata. Yes. Commissioner Mitten.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:24:59.000
+End: 00:25:09.000
+Duration: 10.000 seconds
+Text: May to abstain from the vote. Mayor McCalla. Say that again. Karen.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:25:09.000
+End: 00:25:21.000
+Duration: 12.000 seconds
+Text: Yes. Commissioner Adam check. Yes. Motion carries 4 to 0 to 1.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:25:21.000
+End: 00:25:25.000
+Duration: 4.000 seconds
+Text: Okay. Thank you, guys. Thank you very much. Thank you.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:25:25.000
+End: 00:25:33.000
+Duration: 8.000 seconds
+Text: Okay. We'll now move on to the general agenda. We have two items this evening.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:25:33.000
+End: 00:25:40.000
+Duration: 7.000 seconds
+Text: And we will move to general agenda a considered development agreement for sunflower flats.
+--------------------------------------------------
+City Manager:
+Start: 00:25:40.000
+End: 00:25:48.000
+Duration: 8.000 seconds
+Text: Good evening commissioners again, pinch hitting for Stephanie this evening. I know Aaron and Garic are both here this evening to represent this item.
+--------------------------------------------------
+City Manager:
+Start: 00:25:48.000
+End: 00:25:59.000
+Duration: 11.000 seconds
+Text: I would expect to hear from them shortly. Just want to reintroduce this. We've talked about this relationship with Manhattan housing authority for quite some time.
+--------------------------------------------------
+City Manager:
+Start: 00:25:59.000
+End: 00:26:15.000
+Duration: 16.000 seconds
+Text: We have worked on a development agreement that would effectively transfer a portion of a city lot for the Manhattan housing authority and their partnership to construct some units in our downtown.
+--------------------------------------------------
+City Manager:
+Start: 00:26:15.000
+End: 00:26:22.000
+Duration: 7.000 seconds
+Text: I'll let them elaborate and describe those a little bit more to orientate you fifth street and Pierre Street.
+--------------------------------------------------
+City Manager:
+Start: 00:26:22.000
+End: 00:26:28.000
+Duration: 6.000 seconds
+Text: This is the city parking lot that currently exists across from the Boys and Girls Club.
+--------------------------------------------------
+City Manager:
+Start: 00:26:28.000
+End: 00:26:40.000
+Duration: 12.000 seconds
+Text: And in the presentation this evening, you will see a schematic that basically on the consent you authorized the plat.
+--------------------------------------------------
+City Manager:
+Start: 00:26:40.000
+End: 00:26:50.000
+Duration: 10.000 seconds
+Text: You also authorized on consent the IRB sales exemption for this project, but this effectively splits this lot.
+--------------------------------------------------
+City Manager:
+Start: 00:26:50.000
+End: 00:27:01.000
+Duration: 11.000 seconds
+Text: It's a little bit more towards MHA and their project side on the left or on the west side towards fifth street on the right hand side.
+--------------------------------------------------
+City Manager:
+Start: 00:27:01.000
+End: 00:27:09.000
+Duration: 8.000 seconds
+Text: This will remain a public parking lot. The MHA and their development will occupy this space during construction.
+--------------------------------------------------
+City Manager:
+Start: 00:27:09.000
+End: 00:27:25.000
+Duration: 16.000 seconds
+Text: So we have granted them the authority to use the parking lot really the entire site for their construction, but they will put back the parking lot that you see on the right hand side of the screen in the future as a result of the project.
+--------------------------------------------------
+City Manager:
+Start: 00:27:25.000
+End: 00:27:38.000
+Duration: 13.000 seconds
+Text: The breakdown of the units and the building itself again, Garrick Baker with McMillan Architects this year this evening, he can give you more of an orientation.
+--------------------------------------------------
+City Manager:
+Start: 00:27:38.000
+End: 00:27:46.000
+Duration: 8.000 seconds
+Text: I'm going to go ahead and let him do that now and then I will come back and just give you a brief overview of the agreement and the land transfer itself.
+--------------------------------------------------
+City Manager:
+Start: 00:27:46.000
+End: 00:27:49.000
+Duration: 3.000 seconds
+Text: So Garrick, would you mind? Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:27:49.000
+End: 00:27:58.000
+Duration: 9.000 seconds
+Text: Good evening, commissioners. Thank you again for allowing us to present on this. I'll actually go up one slide.
+--------------------------------------------------
+City Clerk:
+Start: 00:27:58.000
+End: 00:28:18.000
+Duration: 20.000 seconds
+Text: So through the process of trying to get the replat approved and everything, some of the discussions that we had had and the reason why it's a little 51 49, we actually have a sidewalk that will be implemented within the project so that the parking lot has some safe walking space there,
+--------------------------------------------------
+City Clerk:
+Start: 00:28:18.000
+End: 00:28:26.000
+Duration: 8.000 seconds
+Text: but it is up to MHA to maintain that. So that's why it wasn't exactly 50 50 in there.
+--------------------------------------------------
+City Clerk:
+Start: 00:28:26.000
+End: 00:28:39.000
+Duration: 13.000 seconds
+Text: The parking lot, we are going back with the exact same number of parking stalls so there won't be any loss there. So that did check off one of the boxes for the design agreement.
+--------------------------------------------------
+City Clerk:
+Start: 00:28:39.000
+End: 00:28:48.000
+Duration: 9.000 seconds
+Text: Within the main level as we've noted before, we do have those 20 parking stalls in there, complete with ADA and everything.
+--------------------------------------------------
+City Clerk:
+Start: 00:28:48.000
+End: 00:28:55.000
+Duration: 7.000 seconds
+Text: We do have most of our occupiable space over on the west side and then some emergency stairs over on the east side.
+--------------------------------------------------
+City Clerk:
+Start: 00:28:55.000
+End: 00:29:05.000
+Duration: 10.000 seconds
+Text: The only foreseeable change that we may have is this space in here may be coming closed for storage. We don't quite know yet on that one.
+--------------------------------------------------
+City Clerk:
+Start: 00:29:05.000
+End: 00:29:13.000
+Duration: 8.000 seconds
+Text: Just the upper floors, we will have 14 and 16 units per floor just to get to that total of 62.
+--------------------------------------------------
+City Clerk:
+Start: 00:29:13.000
+End: 00:29:26.000
+Duration: 13.000 seconds
+Text: This open space here will be an elevated outdoor courtyard area for the residents. That way that it's just nice, private, quiet and all to themselves and we'll have something similar on the fifth floor as well.
+--------------------------------------------------
+City Clerk:
+Start: 00:29:27.000
+End: 00:29:40.000
+Duration: 13.000 seconds
+Text: Just wanted to hit on that we will be hopefully submitting for the permit through risk reduction on or around February 27th.
+--------------------------------------------------
+City Clerk:
+Start: 00:29:40.000
+End: 00:29:47.000
+Duration: 7.000 seconds
+Text: That way then we can also hit some other review guide or requirements with HUD and KHRC there.
+--------------------------------------------------
+City Clerk:
+Start: 00:29:48.000
+End: 00:29:56.000
+Duration: 8.000 seconds
+Text: So hopefully we can close on the project either in March or April and then start groundbreaking right after that.
+--------------------------------------------------
+City Clerk:
+Start: 00:29:56.000
+End: 00:30:01.000
+Duration: 5.000 seconds
+Text: Other than that, the project really, oh, yep, there's that courtyard at the fifth floor.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:01.000
+End: 00:30:08.000
+Duration: 7.000 seconds
+Text: This is very, very dark here. Apologize. But so really the design has not changed.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:09.000
+End: 00:30:17.000
+Duration: 8.000 seconds
+Text: This has gone through the historic resources board and received very good feedback on that as well as the planning board for that replat.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:17.000
+End: 00:30:27.000
+Duration: 10.000 seconds
+Text: So we have really enjoyed working with the city and they've jumped through a lot of hurdles for us and we really, really appreciate that.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:28.000
+End: 00:30:39.000
+Duration: 11.000 seconds
+Text: And we also have folks from OCEM on the phone call as well if they would like to make any comments but I will stand for any questions as well as invite Aaron if he has any comments.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:30:40.000
+End: 00:30:54.000
+Duration: 14.000 seconds
+Text: This is Aaron. I'll just remind people this project initiated be in part because of the flooding and garden grove 1 and 2.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:30:54.000
+End: 00:31:04.000
+Duration: 10.000 seconds
+Text: So the occupants of this new sunflower flats will will are intended to be garden grove 1 and 2 residents.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:31:05.000
+End: 00:31:09.000
+Duration: 4.000 seconds
+Text: And there's a FEMA project on that end and there's some things that the city is working on.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:31:09.000
+End: 00:31:18.000
+Duration: 9.000 seconds
+Text: But just wanted to remind the commission that this is that project where garden grove 1 and 2 residents will be relocating to and it will be subsidized.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:31:18.000
+End: 00:31:25.000
+Duration: 7.000 seconds
+Text: The contracts that are on those properties through that are currently on by national church residents.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:31:25.000
+End: 00:31:31.000
+Duration: 6.000 seconds
+Text: We're working on transferring those housing assistance payment contracts over to sunflower flats.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:31:35.000
+End: 00:31:38.000
+Duration: 3.000 seconds
+Text: And do you have any questions?
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:31:38.000
+End: 00:31:57.000
+Duration: 19.000 seconds
+Text: Aaron, I just would like to know if you're concerned about funding with HUD being under the one of the things that they're cutting and the state just passed some things to not support housing so to speak.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:31:57.000
+End: 00:32:09.000
+Duration: 12.000 seconds
+Text: Yes, Mayor, there's a there's a bill in the legislature that removes the state tax low income tax credit low income housing tax credit.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:32:09.000
+End: 00:32:17.000
+Duration: 8.000 seconds
+Text: And that bill as as it was originally written would impact sunflower flats negatively.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:32:17.000
+End: 00:32:29.000
+Duration: 12.000 seconds
+Text: And there's been reversions revisions of that that I think protect the projects that have already been awarded but going forward.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:32:29.000
+End: 00:32:36.000
+Duration: 7.000 seconds
+Text: It does negatively impact a redevelopment of Carlson, for example, any future projects we're trying to work on.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:32:36.000
+End: 00:32:48.000
+Duration: 12.000 seconds
+Text: I've emailed the delegation and made them aware of future projects that would be impacted, but I would encourage the commission to also do that.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:32:48.000
+End: 00:32:50.000
+Duration: 2.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:32:50.000
+End: 00:32:53.000
+Duration: 3.000 seconds
+Text: Yeah, Aaron, I was actually watching the hearing.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:32:53.000
+End: 00:33:02.000
+Duration: 9.000 seconds
+Text: I believe it was yesterday when it passed out of committee and there was an amendment to protect projects that have already been awarded but have not started.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:33:02.000
+End: 00:33:07.000
+Duration: 5.000 seconds
+Text: So I think I think you're right on that and I was going to ask how this relates to Carlson Plaza.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:33:07.000
+End: 00:33:11.000
+Duration: 4.000 seconds
+Text: So I guess that is kind of a bit up in the air.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:33:11.000
+End: 00:33:19.000
+Duration: 8.000 seconds
+Text: Karen, I would say, you know, yeah, we we do need to worry about this, but that's kind of out of our control at this point.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:33:19.000
+End: 00:33:27.000
+Duration: 8.000 seconds
+Text: And I would say that we need to move forward with these things as fast as we can while it's available.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:33:27.000
+End: 00:33:30.000
+Duration: 3.000 seconds
+Text: I just I agree.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:33:30.000
+End: 00:33:35.000
+Duration: 5.000 seconds
+Text: I see no problem with, you know, the parking lot in the building situation.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:33:35.000
+End: 00:33:44.000
+Duration: 9.000 seconds
+Text: And if the city, if you would like the city to write some letters in support, I'm sure that the commission would agree with me, we would do that.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:33:44.000
+End: 00:33:45.000
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:33:45.000
+End: 00:33:48.000
+Duration: 3.000 seconds
+Text: Yeah, I've already contacted the legislative leaders as well.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:33:48.000
+End: 00:33:49.000
+Duration: 1.000 seconds
+Text: So more people do it.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:33:49.000
+End: 00:33:56.000
+Duration: 7.000 seconds
+Text: It'll just help out some more.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:33:56.000
+End: 00:34:01.000
+Duration: 5.000 seconds
+Text: So this is separate from Carlson redevelopment.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:34:01.000
+End: 00:34:06.000
+Duration: 5.000 seconds
+Text: Carlson, hopefully you guys did help with that with the EPC buyout.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:34:06.000
+End: 00:34:15.000
+Duration: 9.000 seconds
+Text: If you remember a few months ago, we're still in the phases where that's HUD controlled process and we're going through the steps there.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:34:15.000
+End: 00:34:24.000
+Duration: 9.000 seconds
+Text: But then hopefully the state doesn't remove that state and low income tax credit because that is a major source of funding for projects like this.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:34:24.000
+End: 00:34:26.000
+Duration: 2.000 seconds
+Text: It's a new program.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:34:26.000
+End: 00:34:33.000
+Duration: 7.000 seconds
+Text: They don't need to maybe eliminate it, but could tweak it to make it better.
+--------------------------------------------------
+Commissioner Adam:
+Start: 00:34:33.000
+End: 00:34:46.000
+Duration: 13.000 seconds
+Text: I believe I believe the Kansas League of Minish Paladies has supported both.
+--------------------------------------------------
+Commissioner Adam:
+Start: 00:34:46.000
+End: 00:34:54.000
+Duration: 8.000 seconds
+Text: And allowing you already approved projects to go forward and also perhaps putting a cap on funding.
+--------------------------------------------------
+Commissioner Adam:
+Start: 00:34:54.000
+End: 00:35:00.000
+Duration: 6.000 seconds
+Text: So we'll see where that goes.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:35:00.000
+End: 00:35:03.000
+Duration: 3.000 seconds
+Text: And Michael Snagrass is here as our co-developer.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:35:03.000
+End: 00:35:13.000
+Duration: 10.000 seconds
+Text: If you have any questions for Michael.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:35:13.000
+End: 00:35:15.000
+Duration: 2.000 seconds
+Text: Can I take one thing real quick?
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:35:15.000
+End: 00:35:23.000
+Duration: 8.000 seconds
+Text: No, because I just want to one of the challenges this project is that are those.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:35:23.000
+End: 00:35:28.000
+Duration: 5.000 seconds
+Text: The half contracts from National Church Residences, a garden girl, one and two.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:35:28.000
+End: 00:35:38.000
+Duration: 10.000 seconds
+Text: And that may impact when we can begin construction because we have to get HUD approval to transfer those before we can actually start.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:35:38.000
+End: 00:35:40.000
+Duration: 2.000 seconds
+Text: Although we're trying to work.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:35:40.000
+End: 00:35:48.000
+Duration: 8.000 seconds
+Text: We have a kind of a drop dead date of some time in June that we must start destruction by.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:35:48.000
+End: 00:35:51.000
+Duration: 3.000 seconds
+Text: You know, we'll be ready on with your help.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:35:51.000
+End: 00:35:56.000
+Duration: 5.000 seconds
+Text: We'll be ready on our side to get started as soon as HUD gives the green light.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:35:56.000
+End: 00:36:04.000
+Duration: 8.000 seconds
+Text: But that is a potential caveat on starting right after permitting.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:36:04.000
+End: 00:36:18.000
+Duration: 14.000 seconds
+Text: And they require those transfers to be underway or in place before we can start construction.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:36:18.000
+End: 00:36:26.000
+Duration: 8.000 seconds
+Text: And the final thing I'll say is the abode grant that we have is a department of commerce.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:36:26.000
+End: 00:36:29.000
+Duration: 3.000 seconds
+Text: That has, that's an ARPA funds.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:36:29.000
+End: 00:36:36.000
+Duration: 7.000 seconds
+Text: That's $1.5 million in that American Rescue Plan funds that does have to be expended.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:36:36.000
+End: 00:36:43.000
+Duration: 7.000 seconds
+Text: So we're working with commerce to get that hopefully push back a little bit if we need to.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:36:43.000
+End: 00:36:47.000
+Duration: 4.000 seconds
+Text: But the target is to spend it by this summer.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:36:47.000
+End: 00:37:01.000
+Duration: 14.000 seconds
+Text: And that's where a lot of the urgency around our pre-development has been focused is to get us in this timeline so we can hit that, that deadline coming up this summer.
+--------------------------------------------------
+Commissioner Adam:
+Start: 00:37:01.000
+End: 00:37:07.000
+Duration: 6.000 seconds
+Text: Are you concerned about that money being frozen?
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:37:07.000
+End: 00:37:10.000
+Duration: 3.000 seconds
+Text: Is it in your bank account?
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:37:10.000
+End: 00:37:13.000
+Duration: 3.000 seconds
+Text: It's not.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:37:13.000
+End: 00:37:20.000
+Duration: 7.000 seconds
+Text: It's a reimbursement basis, but it should it shouldn't be an issue.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:37:20.000
+End: 00:37:30.000
+Duration: 10.000 seconds
+Text: But I am concerned about all finances right now, I guess.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:37:30.000
+End: 00:37:31.000
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:37:31.000
+End: 00:37:36.000
+Duration: 5.000 seconds
+Text: Well, thank you for being here. Thank you, Michael, for being here.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:37:36.000
+End: 00:37:39.000
+Duration: 3.000 seconds
+Text: Let's see, I guess, does anyone have any?
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:37:39.000
+End: 00:37:42.000
+Duration: 3.000 seconds
+Text: Oh, yeah, go ahead, Jason.
+--------------------------------------------------
+City Manager:
+Start: 00:37:42.000
+End: 00:37:54.000
+Duration: 12.000 seconds
+Text: I appreciate the team coming in and given their overview of the project, I just wanted to highlight the development, the agreement, the land transfer agreement itself.
+--------------------------------------------------
+City Manager:
+Start: 00:37:54.000
+End: 00:38:06.000
+Duration: 12.000 seconds
+Text: It does provide the community and the commission a little bit of protection by way of the land itself.
+--------------------------------------------------
+City Manager:
+Start: 00:38:06.000
+End: 00:38:19.000
+Duration: 13.000 seconds
+Text: Just want to make sure everybody is aware that the transfer really takes place after they've commenced construction.
+--------------------------------------------------
+City Manager:
+Start: 00:38:19.000
+End: 00:38:25.000
+Duration: 6.000 seconds
+Text: We put some dates in the agreement in which they would need to go get the building permit.
+--------------------------------------------------
+City Manager:
+Start: 00:38:25.000
+End: 00:38:28.000
+Duration: 3.000 seconds
+Text: Garek is mentioned by the end of February, they'll have that submitted.
+--------------------------------------------------
+City Manager:
+Start: 00:38:28.000
+End: 00:38:35.000
+Duration: 7.000 seconds
+Text: Then there's the really completing the project by the end of the year, 2026.
+--------------------------------------------------
+City Manager:
+Start: 00:38:35.000
+End: 00:38:42.000
+Duration: 7.000 seconds
+Text: There is a trigger point at which we will transfer this property and as when they have commenced construction.
+--------------------------------------------------
+City Manager:
+Start: 00:38:42.000
+End: 00:38:51.000
+Duration: 9.000 seconds
+Text: And that date is really tied into their ability to start excavation site work on the parking lot.
+--------------------------------------------------
+City Manager:
+Start: 00:38:51.000
+End: 00:39:00.000
+Duration: 9.000 seconds
+Text: I just want to reiterate, there's a lot of conversation about funding, a lot of conversation about Fed and state level financials.
+--------------------------------------------------
+City Manager:
+Start: 00:39:00.000
+End: 00:39:07.000
+Duration: 7.000 seconds
+Text: They have some hurdles they need to clear as Mr. Snogger has identified for June.
+--------------------------------------------------
+City Manager:
+Start: 00:39:07.000
+End: 00:39:10.000
+Duration: 3.000 seconds
+Text: So I just want to reiterate these provisions are in here.
+--------------------------------------------------
+City Manager:
+Start: 00:39:10.000
+End: 00:39:13.000
+Duration: 3.000 seconds
+Text: So it's not as if tonight we're transferring that land.
+--------------------------------------------------
+City Manager:
+Start: 00:39:13.000
+End: 00:39:17.000
+Duration: 4.000 seconds
+Text: There are some steps they'll need to follow. They're very well aware of those.
+--------------------------------------------------
+City Manager:
+Start: 00:39:17.000
+End: 00:39:24.000
+Duration: 7.000 seconds
+Text: Those are all in the agreement. So I just want to bring that to the commission and the community's attention on this particular parking lot.
+--------------------------------------------------
+City Manager:
+Start: 00:39:24.000
+End: 00:39:30.000
+Duration: 6.000 seconds
+Text: So happy to answer any questions but did want to speak on that before you went to the public comment.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:39:30.000
+End: 00:39:42.000
+Duration: 12.000 seconds
+Text: Okay, we didn't have anybody sign up. Is there anyone who would like to make public comment on this issue?
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:39:42.000
+End: 00:39:47.000
+Duration: 5.000 seconds
+Text: Okay, then I will close public comment.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:39:47.000
+End: 00:39:53.000
+Duration: 6.000 seconds
+Text: Commissioner, do we have any other discussion or questions?
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:39:53.000
+End: 00:39:56.000
+Duration: 3.000 seconds
+Text: No.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:39:56.000
+End: 00:40:04.000
+Duration: 8.000 seconds
+Text: Okay, then I'll go ahead and move that we authorize city administration to finalize.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:40:04.000
+End: 00:40:20.000
+Duration: 16.000 seconds
+Text: And the mayor and city clerk to execute a land transfer and development agreement with the Manhattan Housing Authority for lot one sunflower flats and for the sunflower flats project and authorize mayor and city clerk to execute necessary real estate documents.
+--------------------------------------------------
+Commissioner Adam:
+Start: 00:40:20.000
+End: 00:40:22.000
+Duration: 2.000 seconds
+Text: Second.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:40:22.000
+End: 00:40:33.000
+Duration: 11.000 seconds
+Text: Okay, I made the motion and commissioner Minton seconded city clerk. Please call the roll.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:40:33.000
+End: 00:40:40.000
+Duration: 7.000 seconds
+Text: Commissioner Mata. Yes, Commissioner Minton.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:40:40.000
+End: 00:40:47.000
+Duration: 7.000 seconds
+Text: Say that again. Yes, Mayor McCullough.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:40:47.000
+End: 00:40:49.000
+Duration: 2.000 seconds
+Text: Madam. Madam.
+--------------------------------------------------
+City Clerk:
+Start: 00:40:49.000
+End: 00:40:51.000
+Duration: 2.000 seconds
+Text: Madam.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:40:51.000
+End: 00:40:53.000
+Duration: 2.000 seconds
+Text: Say it again. Please Susan.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:40:53.000
+End: 00:40:55.000
+Duration: 2.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:40:55.000
+End: 00:40:57.000
+Duration: 2.000 seconds
+Text: Commissioner O'Palt. Yes.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:40:57.000
+End: 00:41:02.000
+Duration: 5.000 seconds
+Text: Motion carries five to zero.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:41:02.000
+End: 00:41:16.000
+Duration: 14.000 seconds
+Text: Okay, we will move on to consider guaranteed maximum price for the 12th Street improvements from Moro to Laramie and the alley between Moro Street and Laramie Street and the preliminary design for Laramie Street in Aggieville.
+--------------------------------------------------
+City Manager:
+Start: 00:41:16.000
+End: 00:41:21.000
+Duration: 5.000 seconds
+Text: Thank you, Commissioner.
+--------------------------------------------------
+City Manager:
+Start: 00:41:21.000
+End: 00:41:26.000
+Duration: 5.000 seconds
+Text: As you mentioned, we do have a GMP this evening that we've received from BHS.
+--------------------------------------------------
+City Manager:
+Start: 00:41:26.000
+End: 00:41:31.000
+Duration: 5.000 seconds
+Text: We've been on our contract with Olsen and BHS for several months.
+--------------------------------------------------
+City Manager:
+Start: 00:41:31.000
+End: 00:41:45.000
+Duration: 14.000 seconds
+Text: BHS was able to reach a point in the project where they could deliver a GMP of $5.4 million roughly to construct 12th Street from Moro to Laramie Street.
+--------------------------------------------------
+City Manager:
+Start: 00:41:45.000
+End: 00:41:57.000
+Duration: 12.000 seconds
+Text: In the summer of last year, we ran through some design slides of this area and I'll just highlight those quickly.
+--------------------------------------------------
+City Manager:
+Start: 00:41:57.000
+End: 00:42:12.000
+Duration: 15.000 seconds
+Text: They're part of that packet in July, but just to give you a little bit of a feel for the lane of traffic that will travel from the north to the south as a one-way feature.
+--------------------------------------------------
+City Manager:
+Start: 00:42:12.000
+End: 00:42:20.000
+Duration: 8.000 seconds
+Text: Also highlighting the street scape landscape elements along this corridor.
+--------------------------------------------------
+City Manager:
+Start: 00:42:20.000
+End: 00:42:27.000
+Duration: 7.000 seconds
+Text: In a J.C.C. to Fatchack, Kites, Annie Mays, here on the northern end, looking south.
+--------------------------------------------------
+City Manager:
+Start: 00:42:27.000
+End: 00:42:32.000
+Duration: 5.000 seconds
+Text: Obviously, this image anticipated a hotel on the left. The hotel is actually going to be on the right.
+--------------------------------------------------
+City Manager:
+Start: 00:42:32.000
+End: 00:42:44.000
+Duration: 12.000 seconds
+Text: So there are some changes in that private sector development, but again, it narrows up here towards the south end where it terminates into Laramie.
+--------------------------------------------------
+City Manager:
+Start: 00:42:44.000
+End: 00:42:59.000
+Duration: 15.000 seconds
+Text: Again, just highlighting some of the pedestrian amenities, very similar to what we've done throughout the district, North Manhattan, and along 12th Street, out by Tanners and Lucha and so long.
+--------------------------------------------------
+City Manager:
+Start: 00:42:59.000
+End: 00:43:05.000
+Duration: 6.000 seconds
+Text: Again, just really wanted to run through those quickly to get your feel.
+--------------------------------------------------
+City Manager:
+Start: 00:43:05.000
+End: 00:43:23.000
+Duration: 18.000 seconds
+Text: BHS did provide phasing plan, and this phasing plan is very important not only for tonight's discussion, but really as we progress not only with 12th Street, but Laramie Street and the private development in Aggieville.
+--------------------------------------------------
+City Manager:
+Start: 00:43:23.000
+End: 00:43:31.000
+Duration: 8.000 seconds
+Text: There are a lot of dates highlighted on this, and it really speaks to the phasing plan that BHS has put together.
+--------------------------------------------------
+City Manager:
+Start: 00:43:31.000
+End: 00:43:40.000
+Duration: 9.000 seconds
+Text: We've shared that with city staff, they've shared that with the district, and tonight we're sharing it with the commission and the public.
+--------------------------------------------------
+City Manager:
+Start: 00:43:40.000
+End: 00:43:47.000
+Duration: 7.000 seconds
+Text: We can expect about 30 days of the intersection of 12th and Morro to be closed.
+--------------------------------------------------
+City Manager:
+Start: 00:43:47.000
+End: 00:43:59.000
+Duration: 12.000 seconds
+Text: We are running a substantial amount of infrastructure underneath 12th Street, so they'll need to get in there roughly May 20th after K-State graduation,
+--------------------------------------------------
+City Manager:
+Start: 00:43:59.000
+End: 00:44:02.000
+Duration: 3.000 seconds
+Text: and occupy that intersection for about 30 days.
+--------------------------------------------------
+City Manager:
+Start: 00:44:02.000
+End: 00:44:21.000
+Duration: 19.000 seconds
+Text: In that time, they will extend storm sewer, waterline, and they will prep that intersection, and then move south into further construction throughout the summer and the fall of 2025.
+--------------------------------------------------
+City Manager:
+Start: 00:44:21.000
+End: 00:44:36.000
+Duration: 15.000 seconds
+Text: They'll reach that alley point right around the August timeframe, and then September through the beginning of 2026, they'll finish that southern half of 12th Street.
+--------------------------------------------------
+City Manager:
+Start: 00:44:36.000
+End: 00:44:45.000
+Duration: 9.000 seconds
+Text: The alley between North Manhattan Avenue and 12th Street is also part of this GMP, and you can see the dates there.
+--------------------------------------------------
+City Manager:
+Start: 00:44:45.000
+End: 00:44:52.000
+Duration: 7.000 seconds
+Text: They'll start that in August of 2025, and hopefully get that done before November of 2025.
+--------------------------------------------------
+City Manager:
+Start: 00:44:52.000
+End: 00:44:58.000
+Duration: 6.000 seconds
+Text: We recognize these projects in a J-Sensee to our businesses in Aggieville.
+--------------------------------------------------
+City Manager:
+Start: 00:44:58.000
+End: 00:45:01.000
+Duration: 3.000 seconds
+Text: It's going to be disruptive.
+--------------------------------------------------
+City Manager:
+Start: 00:45:01.000
+End: 00:45:08.000
+Duration: 7.000 seconds
+Text: Even during that 30-day period, we recognize Morro will not necessarily function as a one-way.
+--------------------------------------------------
+City Manager:
+Start: 00:45:08.000
+End: 00:45:19.000
+Duration: 11.000 seconds
+Text: We're going to try to get in there and create space for trucks to deliver, and for patrons to park possibly on one side of the street certain times of the day.
+--------------------------------------------------
+City Manager:
+Start: 00:45:19.000
+End: 00:45:37.000
+Duration: 18.000 seconds
+Text: This is really going to be a sequencing and a coordination between BHS, ABA, the businesses and the city in order for us to try to facilitate and keep as much traffic and as many deliveries as we can to these businesses in the most convenient manner.
+--------------------------------------------------
+City Manager:
+Start: 00:45:37.000
+End: 00:45:48.000
+Duration: 11.000 seconds
+Text: We're going to need to talk with RCPD just about the evenings and the weekends, because this parking on both sides with the lane of traffic is not going to function like it does today.
+--------------------------------------------------
+City Manager:
+Start: 00:45:48.000
+End: 00:45:58.000
+Duration: 10.000 seconds
+Text: With that intersection for that 30-day period, I could see Morro really after 10-11 at night just not being accessible.
+--------------------------------------------------
+City Manager:
+Start: 00:45:58.000
+End: 00:46:01.000
+Duration: 3.000 seconds
+Text: I think we'd have more problems during that 30-day period.
+--------------------------------------------------
+City Manager:
+Start: 00:46:01.000
+End: 00:46:15.000
+Duration: 14.000 seconds
+Text: We'll continue to talk with RCPD and get their reactions, but from May 20 to roughly June 20 of this summer, that intersection, you will not be able to drive through there.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:46:15.000
+End: 00:46:24.000
+Duration: 9.000 seconds
+Text: We've talked about having to, at some point, having to tear up Morro and resurface and things.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:46:24.000
+End: 00:46:31.000
+Duration: 7.000 seconds
+Text: Is there not a way for us to put off those intersection improvements till then when we're already closing it down?
+--------------------------------------------------
+City Manager:
+Start: 00:46:31.000
+End: 00:46:38.000
+Duration: 7.000 seconds
+Text: Yes, so when we started at Blumont, we're actually bringing a redundant water line through Aggieville.
+--------------------------------------------------
+City Manager:
+Start: 00:46:38.000
+End: 00:46:43.000
+Duration: 5.000 seconds
+Text: Today, the water line in Aggieville runs east to west on Morro.
+--------------------------------------------------
+City Manager:
+Start: 00:46:43.000
+End: 00:46:57.000
+Duration: 14.000 seconds
+Text: We're bringing infrastructure that we started three or four years ago, and we're bringing it through that intersection so we can continue to come south, hook it into the Laramie, and then take it down to Fremont Street.
+--------------------------------------------------
+City Manager:
+Start: 00:46:57.000
+End: 00:47:04.000
+Duration: 7.000 seconds
+Text: That infrastructure needs to keep coming through there so we can connect it and it's ready.
+--------------------------------------------------
+City Manager:
+Start: 00:47:04.000
+End: 00:47:10.000
+Duration: 6.000 seconds
+Text: When we get on Morro, that's the old water line. That's the one that has to come out.
+--------------------------------------------------
+City Manager:
+Start: 00:47:10.000
+End: 00:47:18.000
+Duration: 8.000 seconds
+Text: This feed from the north will help us provide service back to the district while we take care of that other line.
+--------------------------------------------------
+City Manager:
+Start: 00:47:18.000
+End: 00:47:25.000
+Duration: 7.000 seconds
+Text: There's a redundant feed with this whole approach in Aggieville. It was underserved.
+--------------------------------------------------
+City Manager:
+Start: 00:47:25.000
+End: 00:47:34.000
+Duration: 9.000 seconds
+Text: Just for correlation, the five plus million in a GMP, about a million of that is utilities. It's significant.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:47:34.000
+End: 00:47:43.000
+Duration: 9.000 seconds
+Text: So basically, if we don't do this intersection this summer, when we do replace the water line in Morro, there's basically no way for them to have water.
+--------------------------------------------------
+City Manager:
+Start: 00:47:43.000
+End: 00:47:50.000
+Duration: 7.000 seconds
+Text: Well, the sequence of events plays out better to bring that infrastructure down now.
+--------------------------------------------------
+City Manager:
+Start: 00:47:50.000
+End: 00:47:56.000
+Duration: 6.000 seconds
+Text: It gives something to connect into and continue to extend south.
+--------------------------------------------------
+City Manager:
+Start: 00:47:56.000
+End: 00:48:07.000
+Duration: 11.000 seconds
+Text: If you and Mark and the team would have to speak to this, I just don't think leaving Morro at this point in time is feasible given how much infrastructure you need to bring in south.
+--------------------------------------------------
+City Manager:
+Start: 00:48:07.000
+End: 00:48:09.000
+Duration: 2.000 seconds
+Text: But Mark can elaborate on that.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:48:09.000
+End: 00:48:22.000
+Duration: 13.000 seconds
+Text: So you essentially close this Morro. You could probably get to it from Manhattan, but anything east of 12th Street really isn't going to be accessible.
+--------------------------------------------------
+City Manager:
+Start: 00:48:22.000
+End: 00:48:30.000
+Duration: 8.000 seconds
+Text: We'll have an opportunity, as I mentioned, to work with the district, work with public, Brian Johnson, our senior engineer.
+--------------------------------------------------
+City Manager:
+Start: 00:48:30.000
+End: 00:48:39.000
+Duration: 9.000 seconds
+Text: We can actually be bringing people in or having them leave against the one way to make deliveries to get their customers in.
+--------------------------------------------------
+City Manager:
+Start: 00:48:39.000
+End: 00:48:45.000
+Duration: 6.000 seconds
+Text: It's just when you think about Aggieville being really packed in the evening, that's not going to function very well.
+--------------------------------------------------
+City Manager:
+Start: 00:48:45.000
+End: 00:48:46.000
+Duration: 1.000 seconds
+Text: Right.
+--------------------------------------------------
+City Manager:
+Start: 00:48:46.000
+End: 00:48:50.000
+Duration: 4.000 seconds
+Text: Eight to noon, it may be okay. Afternoons, it may be okay.
+--------------------------------------------------
+City Manager:
+Start: 00:48:50.000
+End: 00:48:56.000
+Duration: 6.000 seconds
+Text: It's a 30 day window. We're going to do the best we can to get people in and out of the district.
+--------------------------------------------------
+City Manager:
+Start: 00:48:56.000
+End: 00:49:05.000
+Duration: 9.000 seconds
+Text: But for that 30 days, we really need them to occupy that space so they can remove that infrastructure.
+--------------------------------------------------
+City Clerk:
+Start: 00:49:05.000
+End: 00:49:15.000
+Duration: 10.000 seconds
+Text: I'll just want to mark back champitos and I just wanted to add, for example, Annie May's water goes through fat-shacked basement from Morro.
+--------------------------------------------------
+City Clerk:
+Start: 00:49:15.000
+End: 00:49:29.000
+Duration: 14.000 seconds
+Text: Right now, there's no water on 12th Street. We have to bring it across Morro in order to solve those problems of actually individually feeding those buildings from 12th Street.
+--------------------------------------------------
+City Clerk:
+Start: 00:49:29.000
+End: 00:49:36.000
+Duration: 7.000 seconds
+Text: That all of our stormwater goes north. That's reason for half to come across Morro.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:49:36.000
+End: 00:49:38.000
+Duration: 2.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:49:38.000
+End: 00:49:44.000
+Duration: 6.000 seconds
+Text: If we worked out the dumpster issues on the alleys.
+--------------------------------------------------
+City Manager:
+Start: 00:49:44.000
+End: 00:49:49.000
+Duration: 5.000 seconds
+Text: Trash in Aggieville is a large topic.
+--------------------------------------------------
+City Manager:
+Start: 00:49:49.000
+End: 00:50:12.000
+Duration: 23.000 seconds
+Text: We have seen in current plans for the hotel a dumpster with a compactor, a dumpster area with a compactor that we're going to need to bring back before the governing body soon to really execute a relationship with not only BHS, the contractor,
+--------------------------------------------------
+City Manager:
+Start: 00:50:12.000
+End: 00:50:15.000
+Duration: 3.000 seconds
+Text: but with the ownership of the hotel.
+--------------------------------------------------
+City Manager:
+Start: 00:50:15.000
+End: 00:50:25.000
+Duration: 10.000 seconds
+Text: All our conversations up until this point have anticipated that dumpster really residing around this area.
+--------------------------------------------------
+City Manager:
+Start: 00:50:25.000
+End: 00:50:36.000
+Duration: 11.000 seconds
+Text: So it's still part of the plans, Commissioner Mayer, and it's something that we'll need to come back to you all to get some more authority and talk to you further really about trash.
+--------------------------------------------------
+City Manager:
+Start: 00:50:36.000
+End: 00:50:46.000
+Duration: 10.000 seconds
+Text: But we are trying to create strategic locations throughout Aggieville where trash can be taken so we can address the dumpsters in the alley.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:50:46.000
+End: 00:50:55.000
+Duration: 9.000 seconds
+Text: I think that's a really important part of the city's need for health safety and all kinds of things.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:50:55.000
+End: 00:50:56.000
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:50:56.000
+End: 00:50:59.000
+Duration: 3.000 seconds
+Text: Keep it. Don't put it on the back burner.
+--------------------------------------------------
+City Manager:
+Start: 00:50:59.000
+End: 00:51:03.000
+Duration: 4.000 seconds
+Text: Yeah, we heard you loud and clear last summer, we feel the same way.
+--------------------------------------------------
+City Manager:
+Start: 00:51:03.000
+End: 00:51:20.000
+Duration: 17.000 seconds
+Text: We're going to continue to put the infrastructure pieces together and then obviously we'll need to work on the management and the oversight of that utility.
+--------------------------------------------------
+City Manager:
+Start: 00:51:20.000
+End: 00:51:23.000
+Duration: 3.000 seconds
+Text: We've ran through a lot of information.
+--------------------------------------------------
+City Manager:
+Start: 00:51:23.000
+End: 00:51:29.000
+Duration: 6.000 seconds
+Text: There is further breakdown of that 5.4 million in a GMP in the packet.
+--------------------------------------------------
+City Manager:
+Start: 00:51:29.000
+End: 00:51:31.000
+Duration: 2.000 seconds
+Text: If you have questions about that, happy to go through it.
+--------------------------------------------------
+City Manager:
+Start: 00:51:31.000
+End: 00:51:38.000
+Duration: 7.000 seconds
+Text: I did point out like a million of the five is our infrastructure really tied to our utilities.
+--------------------------------------------------
+City Manager:
+Start: 00:51:38.000
+End: 00:51:49.000
+Duration: 11.000 seconds
+Text: So we're making great progress and gains in the district itself, which is really the impetus for the TIFF and why the city got so engaged with such a massive amount of money.
+--------------------------------------------------
+City Manager:
+Start: 00:51:49.000
+End: 00:51:52.000
+Duration: 3.000 seconds
+Text: We're going to have a lot of money with such a massive investment in this district.
+--------------------------------------------------
+City Manager:
+Start: 00:51:52.000
+End: 00:52:00.000
+Duration: 8.000 seconds
+Text: We knew we had aging infrastructure and we also wanted to do a attempt to address some of the parking needs in the district with the garage.
+--------------------------------------------------
+City Manager:
+Start: 00:52:00.000
+End: 00:52:08.000
+Duration: 8.000 seconds
+Text: But this project really speaks to the water line continuing to serve the district this evening.
+--------------------------------------------------
+City Manager:
+Start: 00:52:08.000
+End: 00:52:15.000
+Duration: 7.000 seconds
+Text: I also wanted to take a little bit of time if we could to talk about Laramie.
+--------------------------------------------------
+City Manager:
+Start: 00:52:15.000
+End: 00:52:18.000
+Duration: 3.000 seconds
+Text: Laramie Street is not part of it.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:52:18.000
+End: 00:52:21.000
+Duration: 3.000 seconds
+Text: I'm going to start with the time line.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:52:21.000
+End: 00:52:24.000
+Duration: 3.000 seconds
+Text: I'm going to start with the time line.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:52:24.000
+End: 00:52:25.000
+Duration: 1.000 seconds
+Text: Yes, ma'am.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:52:25.000
+End: 00:52:27.000
+Duration: 2.000 seconds
+Text: Before you jump, it's Jamie.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:52:27.000
+End: 00:52:28.000
+Duration: 1.000 seconds
+Text: Yep.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:52:28.000
+End: 00:52:29.000
+Duration: 1.000 seconds
+Text: On just the timeline real quick.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:52:29.000
+End: 00:52:31.000
+Duration: 2.000 seconds
+Text: So it's supposed to start in April.
+--------------------------------------------------
+City Manager:
+Start: 00:52:31.000
+End: 00:52:36.000
+Duration: 5.000 seconds
+Text: I know Dennis is there, but we're going to like start after Aggie will show down, right?
+--------------------------------------------------
+City Manager:
+Start: 00:52:36.000
+End: 00:52:40.000
+Duration: 4.000 seconds
+Text: Yeah, April and VHS can come speak to this a little bit.
+--------------------------------------------------
+City Manager:
+Start: 00:52:40.000
+End: 00:52:47.000
+Duration: 7.000 seconds
+Text: But April and May are really just going to be prep work in order to really hit the ground run and after May 20.
+--------------------------------------------------
+City Manager:
+Start: 00:52:47.000
+End: 00:52:52.000
+Duration: 5.000 seconds
+Text: Do you want to hear from VHS any further on that Jamie commissioner?
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:52:52.000
+End: 00:52:53.000
+Duration: 1.000 seconds
+Text: No, no, I'm fine.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:52:53.000
+End: 00:52:54.000
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Manager:
+Start: 00:52:54.000
+End: 00:53:00.000
+Duration: 6.000 seconds
+Text: I wanted to touch base on Laramie.
+--------------------------------------------------
+City Manager:
+Start: 00:53:00.000
+End: 00:53:12.000
+Duration: 12.000 seconds
+Text: In the next six weeks, maybe two months, Olsen should get Laramie to a point from a design perspective where VHS can deliver a second GMP.
+--------------------------------------------------
+City Manager:
+Start: 00:53:12.000
+End: 00:53:23.000
+Duration: 11.000 seconds
+Text: Originally, we had 12th Street and Laramie Street all part of a contract construction manager at risk, where we were going to bring all this to you together.
+--------------------------------------------------
+City Manager:
+Start: 00:53:23.000
+End: 00:53:27.000
+Duration: 4.000 seconds
+Text: As you all well know, private developments started shifting around.
+--------------------------------------------------
+City Manager:
+Start: 00:53:27.000
+End: 00:53:34.000
+Duration: 7.000 seconds
+Text: So we provided an update back to the commission that we were going to move forward with 12th Street and then kind of leave Laramie in the balance.
+--------------------------------------------------
+City Manager:
+Start: 00:53:34.000
+End: 00:53:43.000
+Duration: 9.000 seconds
+Text: Obviously within the past couple months, the commission has authorized the hotel to proceed there at the corner of 12th and Laramie.
+--------------------------------------------------
+City Manager:
+Start: 00:53:43.000
+End: 00:53:55.000
+Duration: 12.000 seconds
+Text: So now we're back engaged with Olsen and they're going to finalize design VHS going to work on a second GMP that falls underneath really the original contract here.
+--------------------------------------------------
+City Manager:
+Start: 00:53:55.000
+End: 00:54:06.000
+Duration: 11.000 seconds
+Text: And we're going to try to get that caught up so it can begin and ultimately end when that hotel is constructed and ready to open.
+--------------------------------------------------
+City Manager:
+Start: 00:54:06.000
+End: 00:54:11.000
+Duration: 5.000 seconds
+Text: So on the prior slide, you saw a lot of the sequencing phasing I didn't cover.
+--------------------------------------------------
+City Manager:
+Start: 00:54:11.000
+End: 00:54:18.000
+Duration: 7.000 seconds
+Text: Tonight really is about authorizing the GMP for 12th Street, but it's providing direction as well on Laramie.
+--------------------------------------------------
+City Manager:
+Start: 00:54:18.000
+End: 00:54:25.000
+Duration: 7.000 seconds
+Text: And this is the site plan and the concepts from 11th to 12th.
+--------------------------------------------------
+City Manager:
+Start: 00:54:25.000
+End: 00:54:32.000
+Duration: 7.000 seconds
+Text: You see a lot of the extension and growth of the sidewalk area on the north side.
+--------------------------------------------------
+City Manager:
+Start: 00:54:32.000
+End: 00:54:43.000
+Duration: 11.000 seconds
+Text: We do retain some parallel parking on the south side and then we transition to some parallel parking somewhat like it is today in this stretch of roadway.
+--------------------------------------------------
+City Manager:
+Start: 00:54:43.000
+End: 00:54:50.000
+Duration: 7.000 seconds
+Text: The next slide highlights from 12th Street to North Manhattan. This would be adjacent to the hotel.
+--------------------------------------------------
+City Manager:
+Start: 00:54:50.000
+End: 00:54:55.000
+Duration: 5.000 seconds
+Text: The library is here. The Aggie Villas along Laramie Street.
+--------------------------------------------------
+City Manager:
+Start: 00:54:55.000
+End: 00:55:10.000
+Duration: 15.000 seconds
+Text: We do have some drop zones areas for Uber and Lyft in this concept as well as a hotel parking zone that isn't reflected on the image here tonight, but that is being incorporated in the design.
+--------------------------------------------------
+City Manager:
+Start: 00:55:10.000
+End: 00:55:14.000
+Duration: 4.000 seconds
+Text: We also have some parking here along Laramie.
+--------------------------------------------------
+City Manager:
+Start: 00:55:14.000
+End: 00:55:26.000
+Duration: 12.000 seconds
+Text: So the palette, the approach, very consistent with what we've done on North Manhattan, 12th Street, and over on 14th as we turn the corner on Laramie by the parking garage.
+--------------------------------------------------
+City Manager:
+Start: 00:55:26.000
+End: 00:55:38.000
+Duration: 12.000 seconds
+Text: So really just looking for concurrence this evening from the commission with this layout and this approach so we can get to that GMP here in the next six to eight weeks.
+--------------------------------------------------
+City Manager:
+Start: 00:55:38.000
+End: 00:55:44.000
+Duration: 6.000 seconds
+Text: Any comments or questions about these two segments of Laramie this evening?
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:55:44.000
+End: 00:55:49.000
+Duration: 5.000 seconds
+Text: You confused me when you said the library. I got lost for a second.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:55:49.000
+End: 00:55:52.000
+Duration: 3.000 seconds
+Text: Not hey. Me too. Me too.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:55:52.000
+End: 00:55:58.000
+Duration: 6.000 seconds
+Text: Which I think that means that that's the point.
+--------------------------------------------------
+City Manager:
+Start: 00:55:58.000
+End: 00:56:17.000
+Duration: 19.000 seconds
+Text: But we can come back to the schedules here and you can see VHS anticipates quite a bit of construction starting here towards the November time frame of this year 2025, but most segments are between February and July of 2026.
+--------------------------------------------------
+City Manager:
+Start: 00:56:17.000
+End: 00:56:25.000
+Duration: 8.000 seconds
+Text: So again, trying to coincide with that August 2026 completion of the hotel.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:56:25.000
+End: 00:56:38.000
+Duration: 13.000 seconds
+Text: I hope we're taking into consideration the big trucks and things that building the hotel so we don't you know build it straight and then have to rebuild it after you know all the works takes place.
+--------------------------------------------------
+City Manager:
+Start: 00:56:38.000
+End: 00:56:47.000
+Duration: 9.000 seconds
+Text: Yeah, appreciate that commissioner McCullough and Olson has been looking at turning radiuses throughout the district the entire time.
+--------------------------------------------------
+City Manager:
+Start: 00:56:47.000
+End: 00:57:02.000
+Duration: 15.000 seconds
+Text: We spent a lot of time on North Manhattan making sure trucks could get you know down that alley between varsity and rockabilly and they'll do the same here just to make sure we have the widths and we're not clipping infrastructure streetscape along the way.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:57:02.000
+End: 00:57:04.000
+Duration: 2.000 seconds
+Text: Right.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:57:04.000
+End: 00:57:12.000
+Duration: 8.000 seconds
+Text: So we don't really know what's going to go in that handy corner right and and we're just we can't really wait for anything to happen anymore.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:57:12.000
+End: 00:57:15.000
+Duration: 3.000 seconds
+Text: We just we just got to move forward with this right.
+--------------------------------------------------
+City Manager:
+Start: 00:57:15.000
+End: 00:57:34.000
+Duration: 19.000 seconds
+Text: We do and I it's a great point and I will back up and we we will bring the curb line more than likely on this north side, but the GMP will probably not finish that north side of the sidewalk anticipating some construction.
+--------------------------------------------------
+City Manager:
+Start: 00:57:34.000
+End: 00:57:43.000
+Duration: 9.000 seconds
+Text: It'll be finished. There'll be a sidewalk there, but it won't be to this level of detail. We will more than likely wait until that development surfaces.
+--------------------------------------------------
+City Manager:
+Start: 00:57:43.000
+End: 00:57:56.000
+Duration: 13.000 seconds
+Text: Now it'll still be a sidewalk you can walk down right it'll feel a lot like a sidewalk in town really throughout our neighborhoods, but it won't have all the amenities and the treatments that we typically have been doing and arguing until that development.
+--------------------------------------------------
+City Manager:
+Start: 00:57:56.000
+End: 00:57:59.000
+Duration: 3.000 seconds
+Text: We're hopeful shows up soon.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:57:59.000
+End: 00:58:01.000
+Duration: 2.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:58:01.000
+End: 00:58:11.000
+Duration: 10.000 seconds
+Text: Mason from from my look back on the July meeting when we discussed it, it feels like the 5.4 millions pretty consistent actually maybe a little bit better.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:58:11.000
+End: 00:58:23.000
+Duration: 12.000 seconds
+Text: GMP than what was projected at the 30% but I just want to make sure this is still fitting in with where we think it needs to be with that, you know, the amount of money we're wanting to invest that these GMPs are lighting up there.
+--------------------------------------------------
+City Manager:
+Start: 00:58:23.000
+End: 00:58:38.000
+Duration: 15.000 seconds
+Text: Yeah, and it's a great point in July. I think we looked at a total of around 16, 16 and a half, 17 million for all segments and Laramie is is a big chunk and that South 12th Street from Laramie to Fremont.
+--------------------------------------------------
+City Manager:
+Start: 00:58:38.000
+End: 00:58:52.000
+Duration: 14.000 seconds
+Text: So what you have tonight the 5.4, it really is about a third of the entire construction project. So the next GMP is going to take us close to, you know, that 16, 17 million dollars.
+--------------------------------------------------
+City Manager:
+Start: 00:58:52.000
+End: 00:58:55.000
+Duration: 3.000 seconds
+Text: I did highlight in the memory.
+--------------------------------------------------
+Commissioner Minton:
+Start: 00:58:55.000
+End: 00:59:07.000
+Duration: 12.000 seconds
+Text: I think we just need to be really cognizant of that and I know BHS will do their due diligence with it that they're designing that we're looking at a project that is consistent with what we have left in that kind of cap.
+--------------------------------------------------
+City Manager:
+Start: 00:59:07.000
+End: 00:59:17.000
+Duration: 10.000 seconds
+Text: Yep, correct. And highlighting the two revenue streams is all I was going to point out as well, Commissioner in terms of tax income rent finance, which I did get a balance.
+--------------------------------------------------
+City Manager:
+Start: 00:59:17.000
+End: 00:59:30.000
+Duration: 13.000 seconds
+Text: We are right around 1.9 million and our balance today are annual revenue streams are right at the million dollar thresholds. So at it, you know, all things I hate to predict too much.
+--------------------------------------------------
+City Manager:
+Start: 00:59:30.000
+End: 00:59:41.000
+Duration: 11.000 seconds
+Text: But through 2038, having a million as a minimum is looking more like a reality. So that'll be 13 more years of a million dollars as a minimum.
+--------------------------------------------------
+City Manager:
+Start: 00:59:41.000
+End: 00:59:48.000
+Duration: 7.000 seconds
+Text: That doesn't include the hotel and it doesn't include finishing other space and Aguibill. So we're optimistic.
+--------------------------------------------------
+City Manager:
+Start: 00:59:48.000
+End: 00:59:53.000
+Duration: 5.000 seconds
+Text: It'll exceed that that million dollar figure on an annual basis for increment.
+--------------------------------------------------
+City Manager:
+Start: 00:59:53.000
+End: 01:00:08.000
+Duration: 15.000 seconds
+Text: That being said, along with the sales tax that was passed in 2020 in Sukofekin 2023, we have consistently highlighted around half 28 million of the 56 million being dedicated back towards Aguibill.
+--------------------------------------------------
+City Manager:
+Start: 01:00:08.000
+End: 01:00:22.000
+Duration: 14.000 seconds
+Text: So between the parking garage and the infrastructure we put in on North Manhattan and 12th and 14th are our projections and our budgets are coming in as anticipated.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:00:22.000
+End: 01:00:27.000
+Duration: 5.000 seconds
+Text: And so we'll fund this with 10 notes probably for the time being and then pay it off.
+--------------------------------------------------
+City Manager:
+Start: 01:00:27.000
+End: 01:00:38.000
+Duration: 11.000 seconds
+Text: The 10 notes, the bond resolution will be on the March 4th meeting. And we are also out right now for some construction administration to assist city staff.
+--------------------------------------------------
+City Manager:
+Start: 01:00:38.000
+End: 01:00:45.000
+Duration: 7.000 seconds
+Text: We're with Anderson starting and some other projects. We could use some assistance. So we're out for an RFP on that right now.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:00:45.000
+End: 01:00:48.000
+Duration: 3.000 seconds
+Text: So that would be kind of just like a contract deal or okay.
+--------------------------------------------------
+City Manager:
+Start: 01:00:48.000
+End: 01:00:56.000
+Duration: 8.000 seconds
+Text: Yeah, it'll be like a third party representing the city down in Aguibill since we're just stretched in and have a hard time really hiring that.
+--------------------------------------------------
+City Manager:
+Start: 01:00:56.000
+End: 01:01:03.000
+Duration: 7.000 seconds
+Text: And we can roll it into this this debt project and finance it that way.
+--------------------------------------------------
+City Manager:
+Start: 01:01:03.000
+End: 01:01:08.000
+Duration: 5.000 seconds
+Text: All right. Any other questions to see me?
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:01:10.000
+End: 01:01:13.000
+Duration: 3.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:01:14.000
+End: 01:01:18.000
+Duration: 4.000 seconds
+Text: Okay. So we'll move into public comment.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:01:18.000
+End: 01:01:24.000
+Duration: 6.000 seconds
+Text: We probably have Dennis want to speak. I'll just go ahead and read this for for formality here.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:01:24.000
+End: 01:01:29.000
+Duration: 5.000 seconds
+Text: Members of the public that signed up in person on the list at the podium before the meeting will go first.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:01:29.000
+End: 01:01:33.000
+Duration: 4.000 seconds
+Text: And then any other members of the public in the audience may stand to be recognized. Come forward.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:01:33.000
+End: 01:01:38.000
+Duration: 5.000 seconds
+Text: If you haven't already signed up to speak, please be sure to sign in on the list located at the podium.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:01:38.000
+End: 01:01:45.000
+Duration: 7.000 seconds
+Text: Please state your name and residential address and or organization you are representing for the record and those listening or watching this evening.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:01:45.000
+End: 01:01:49.000
+Duration: 4.000 seconds
+Text: Each speaker has three minutes can speak only once and must stop speaking when the timer sounds.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:01:49.000
+End: 01:01:53.000
+Duration: 4.000 seconds
+Text: This item has an initial public comment period of 30 minutes.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:01:53.000
+End: 01:01:56.000
+Duration: 3.000 seconds
+Text: Neither the commissioners nor city staff will answer questions or debate an issue.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:01:56.000
+End: 01:02:01.000
+Duration: 5.000 seconds
+Text: We will take your comments under advisement.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:02:01.000
+End: 01:02:05.000
+Duration: 4.000 seconds
+Text: So we'll start public comment at 7 p.m.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:02:06.000
+End: 01:02:08.000
+Duration: 2.000 seconds
+Text: Is that now?
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:02:08.000
+End: 01:02:11.000
+Duration: 3.000 seconds
+Text: Yeah, go ahead.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:02:11.000
+End: 01:02:14.000
+Duration: 3.000 seconds
+Text: Okay, great.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:02:14.000
+End: 01:02:16.000
+Duration: 2.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:02:16.000
+End: 01:02:21.000
+Duration: 5.000 seconds
+Text: Dennis Cook with the Aguil Business Association, 1125 Moral.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:02:21.000
+End: 01:02:29.000
+Duration: 8.000 seconds
+Text: I did send an email to all the commissioners and I wasn't sure how much time you'd have to read that.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:02:30.000
+End: 01:02:38.000
+Duration: 8.000 seconds
+Text: I'll try to do the short version of this is that we've been obviously we've been very well aware of the project and excited about the project.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:02:38.000
+End: 01:02:41.000
+Duration: 3.000 seconds
+Text: You know, we can't wait to get the whole thing done.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:02:41.000
+End: 01:02:42.000
+Duration: 1.000 seconds
+Text: But we'll take it.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:02:42.000
+End: 01:02:45.000
+Duration: 3.000 seconds
+Text: We know how it has to work.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:02:45.000
+End: 01:02:58.000
+Duration: 13.000 seconds
+Text: It was the reason we're kind of showing up at this moment is because until until last Friday we were unaware of the 30 days of the 12th of moral intersection being down.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:02:58.000
+End: 01:03:17.000
+Duration: 19.000 seconds
+Text: And the more we thought about that as we were in our meeting on Friday and we talked about that we were trying to imagine how cars were going to come how any vehicles were going to come from Northman, Hatton Avenue down in the 1200 block of moral and how they're going to get back out of there.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:03:17.000
+End: 01:03:29.000
+Duration: 12.000 seconds
+Text: And then that seems simpler than what's going to happen in the 1100 block is now you're going the wrong way on a one way street and the parking, the angle parking is set up in the other direction.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:03:29.000
+End: 01:03:33.000
+Duration: 4.000 seconds
+Text: So, you know, we were, you know, we've been looking at all that stuff.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:03:33.000
+End: 01:03:46.000
+Duration: 13.000 seconds
+Text: But one of the things that we we thought about really right after that meeting was maybe at this point talking to you and making an ask and that ask is.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:03:46.000
+End: 01:03:53.000
+Duration: 7.000 seconds
+Text: We've been we've been very thankful and we will appreciate that, you know, quite a while back.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:03:53.000
+End: 01:04:03.000
+Duration: 10.000 seconds
+Text: You know, this commission allowed to have because of all the redevelopment and construction that we're doing is money through Friday, eight to five.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:04:03.000
+End: 01:04:05.000
+Duration: 2.000 seconds
+Text: We've had free parking in the garage.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:04:05.000
+End: 01:04:08.000
+Duration: 3.000 seconds
+Text: And that's been that that's helpful.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:04:08.000
+End: 01:04:12.000
+Duration: 4.000 seconds
+Text: You know, we're still not getting the uses out of the garage that we would like.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:04:12.000
+End: 01:04:23.000
+Duration: 11.000 seconds
+Text: But now what we're thinking is is during this time period, maybe we do that for that time period 24 hours a day, seven days a week.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:04:23.000
+End: 01:04:30.000
+Duration: 7.000 seconds
+Text: And we, you know, we recognize that the parking garage is still has to have their own system.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:04:30.000
+End: 01:04:36.000
+Duration: 6.000 seconds
+Text: And so, you know, we wouldn't encourage everybody. You know, you have to still have to register. You still have to do all this stuff that you have to do.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:04:36.000
+End: 01:04:43.000
+Duration: 7.000 seconds
+Text: But I think maybe that this might be actually even a boost to getting people used to it.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:04:43.000
+End: 01:04:54.000
+Duration: 11.000 seconds
+Text: And it might really help us through this period because our concern is is, you know, even though we go, OK, well, it's graduation and the students are gone.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:04:54.000
+End: 01:05:03.000
+Duration: 9.000 seconds
+Text: There's a number of businesses, probably a majority of the businesses will tell you that, you know, in their businesses, their businesses pick up when the students leave.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:05:03.000
+End: 01:05:10.000
+Duration: 7.000 seconds
+Text: And this is a critical time for them. So we're trying to do everything in our power to see that we can't help them get through this.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:05:10.000
+End: 01:05:21.000
+Duration: 11.000 seconds
+Text: And so our ask is to maybe extend that parking garage system we've got for 24 hours a day, seven days a week during this period.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:05:21.000
+End: 01:05:26.000
+Duration: 5.000 seconds
+Text: Is that just during the 30 days that the intersection will be closed?
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:05:26.000
+End: 01:05:34.000
+Duration: 8.000 seconds
+Text: Well, I think that's the most critical time. And I think I think we could probably have a better judgment whether we need to do anything more after that.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:05:34.000
+End: 01:05:45.000
+Duration: 11.000 seconds
+Text: I think maybe when that intersections back open again, it may not be as needed. But I would rather my concern right now is at 30 days.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:05:45.000
+End: 01:05:57.000
+Duration: 12.000 seconds
+Text: OK. Thank you. Thank you, Dennis.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:05:57.000
+End: 01:06:03.000
+Duration: 6.000 seconds
+Text: We have any other public comment on the topic.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:06:03.000
+End: 01:06:18.000
+Duration: 15.000 seconds
+Text: OK, then at this time public comment is closed. Do we have any other questions or comments to the staff? I think we're looking for some feedback on the Laramie project. Is that right?
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:06:18.000
+End: 01:06:22.000
+Duration: 4.000 seconds
+Text: Yeah, that'd be great.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:06:22.000
+End: 01:06:31.000
+Duration: 9.000 seconds
+Text: I think it's a good thoughtful design. I like kind of how the parking alternates sides.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:06:31.000
+End: 01:06:41.000
+Duration: 10.000 seconds
+Text: I think doing that kind of makes folks drive through it a little bit slower and make things a little bit better for pedestrians as well.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:06:41.000
+End: 01:06:46.000
+Duration: 5.000 seconds
+Text: So I think it's a pretty good, pretty good thoughtful design.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:06:46.000
+End: 01:06:49.000
+Duration: 3.000 seconds
+Text: I appreciate it.
+--------------------------------------------------
+Commissioner Adam:
+Start: 01:06:49.000
+End: 01:06:52.000
+Duration: 3.000 seconds
+Text: Sorry, go ahead, Jamie.
+--------------------------------------------------
+Commissioner Adam:
+Start: 01:06:52.000
+End: 01:06:55.000
+Duration: 3.000 seconds
+Text: I was just saying that I liked it. You know, Susan.
+--------------------------------------------------
+Commissioner Adam:
+Start: 01:06:55.000
+End: 01:07:04.000
+Duration: 9.000 seconds
+Text: I appreciated Dennis' explanation when I read the letter from the Aggieville group today.
+--------------------------------------------------
+Commissioner Adam:
+Start: 01:07:04.000
+End: 01:07:10.000
+Duration: 6.000 seconds
+Text: I was concerned that they were looking for free parking for a year and a half.
+--------------------------------------------------
+Commissioner Adam:
+Start: 01:07:10.000
+End: 01:07:24.000
+Duration: 14.000 seconds
+Text: I was not sure that I could support that, but certainly for the period of construction at that intersection, I'd be in favor of that.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:07:24.000
+End: 01:07:28.000
+Duration: 4.000 seconds
+Text: Yeah, I think I'd be interested in looking at that as well. I did have a question.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:07:28.000
+End: 01:07:38.000
+Duration: 10.000 seconds
+Text: Will there be pedestrian access through that intersection during construction?
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:07:38.000
+End: 01:07:44.000
+Duration: 6.000 seconds
+Text: I'm Carl BHS construction. Yes, pedestrians will be pushed to the north side of the borough and allowed access.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:07:44.000
+End: 01:07:50.000
+Duration: 6.000 seconds
+Text: That's kind of what I figured. Just wanted to make sure people can still park at the garage and walk across the blocks.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:07:50.000
+End: 01:07:54.000
+Duration: 4.000 seconds
+Text: On the north side they came.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:07:54.000
+End: 01:07:59.000
+Duration: 5.000 seconds
+Text: I'm good with Laramie and also would support the free month for Aggieville.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:07:59.000
+End: 01:08:05.000
+Duration: 6.000 seconds
+Text: I think that's kind of, you know, kind of have to do that.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:08:05.000
+End: 01:08:09.000
+Duration: 4.000 seconds
+Text: We're really putting them out a lot with all this construction.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:08:09.000
+End: 01:08:23.000
+Duration: 14.000 seconds
+Text: It's necessary, but yeah, I think that's kind of a good concession to them and allow folks to have at least some consistency with all the construction that's going on.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:08:23.000
+End: 01:08:28.000
+Duration: 5.000 seconds
+Text: They know they can park in the garage and walk to wherever they need to get to.
+--------------------------------------------------
+Commissioner Adam:
+Start: 01:08:28.000
+End: 01:08:36.000
+Duration: 8.000 seconds
+Text: I just want to make one comment. I mean, it's not us putting them out.
+--------------------------------------------------
+Commissioner Adam:
+Start: 01:08:36.000
+End: 01:08:40.000
+Duration: 4.000 seconds
+Text: This is, we are part of the community. They are part of the community.
+--------------------------------------------------
+Commissioner Adam:
+Start: 01:08:40.000
+End: 01:08:46.000
+Duration: 6.000 seconds
+Text: And we are improving the infrastructure of the entire city.
+--------------------------------------------------
+Commissioner Adam:
+Start: 01:08:46.000
+End: 01:08:54.000
+Duration: 8.000 seconds
+Text: It's unfortunate that these businesses are affected. I'm friends with some of the people who own these businesses.
+--------------------------------------------------
+Commissioner Adam:
+Start: 01:08:54.000
+End: 01:08:59.000
+Duration: 5.000 seconds
+Text: It's not, you know, these are projects we're doing on a whim.
+--------------------------------------------------
+Commissioner Adam:
+Start: 01:08:59.000
+End: 01:09:05.000
+Duration: 6.000 seconds
+Text: We're doing them because the infrastructure is 50, 60, 70 years old.
+--------------------------------------------------
+Commissioner Adam:
+Start: 01:09:05.000
+End: 01:09:11.000
+Duration: 6.000 seconds
+Text: And we are helping them eventually by making these improvements.
+--------------------------------------------------
+Commissioner Adam:
+Start: 01:09:11.000
+End: 01:09:16.000
+Duration: 5.000 seconds
+Text: So let's just be careful about the words we use sometimes.
+--------------------------------------------------
+City Clerk:
+Start: 01:09:16.000
+End: 01:09:20.000
+Duration: 4.000 seconds
+Text: Yeah, I hear you.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:09:20.000
+End: 01:09:24.000
+Duration: 4.000 seconds
+Text: I mean, I would say I think that Dennis has presented us an option.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:09:24.000
+End: 01:09:32.000
+Duration: 8.000 seconds
+Text: I'm interested in just hearing what other options we have from rerouting traffic, like just seeing what the overall plan is.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:09:32.000
+End: 01:09:42.000
+Duration: 10.000 seconds
+Text: Seeing what that fiscal impact can be and just having if city staff can kind of get us some options for what we might be able to do to help.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:09:42.000
+End: 01:09:46.000
+Duration: 4.000 seconds
+Text: I don't see any reason that we can't think about this for a little while.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:09:46.000
+End: 01:09:53.000
+Duration: 7.000 seconds
+Text: And the interesting to know what kind of money is coming in from the parking structure in the summer.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:09:53.000
+End: 01:10:05.000
+Duration: 12.000 seconds
+Text: So we would know the fiscal note of this. I'm concerned that we often getting sort of suggestions on issues that we haven't really thought about until we got the letter this afternoon.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:10:05.000
+End: 01:10:17.000
+Duration: 12.000 seconds
+Text: So and I don't see any reason to not leave this to the fourth. I mean, we've got plenty of time. So let's just take it under consideration and come back to it.
+--------------------------------------------------
+Commissioner Adam:
+Start: 01:10:17.000
+End: 01:10:23.000
+Duration: 6.000 seconds
+Text: I'd like to tie that into a discussion of the state that said the parking garages.
+--------------------------------------------------
+Commissioner Adam:
+Start: 01:10:23.000
+End: 01:10:31.000
+Duration: 8.000 seconds
+Text: I was in the garage downtown over the weekend during the rain storm or the snow melt or something.
+--------------------------------------------------
+Commissioner Adam:
+Start: 01:10:31.000
+End: 01:10:37.000
+Duration: 6.000 seconds
+Text: And I was on the ground floor level and the ceiling was leaking.
+--------------------------------------------------
+Commissioner Adam:
+Start: 01:10:37.000
+End: 01:10:47.000
+Duration: 10.000 seconds
+Text: And so I'd like an update on the repairs that we have proposed for the garages and the current uses.
+--------------------------------------------------
+Commissioner Adam:
+Start: 01:10:47.000
+End: 01:10:56.000
+Duration: 9.000 seconds
+Text: I understand that the police department is now thinking about putting their substation in the Aggieville garage area.
+--------------------------------------------------
+Commissioner Adam:
+Start: 01:10:56.000
+End: 01:11:04.000
+Duration: 8.000 seconds
+Text: So can we maybe build in a conversation about all of that?
+--------------------------------------------------
+Commissioner Adam:
+Start: 01:11:04.000
+End: 01:11:15.000
+Duration: 11.000 seconds
+Text: We haven't had an update and we lost our parking director several months ago. We haven't heard an update on how her responsibilities are being handled.
+--------------------------------------------------
+Commissioner Adam:
+Start: 01:11:15.000
+End: 01:11:23.000
+Duration: 8.000 seconds
+Text: And you know, if that has impeded any progress on the repairs that we authorized.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:11:23.000
+End: 01:11:28.000
+Duration: 5.000 seconds
+Text: Thank you for that feedback. Commissioner, I'm Chuck. We can certainly provide that update for you.
+--------------------------------------------------
+Commissioner Adam:
+Start: 01:11:28.000
+End: 01:11:31.000
+Duration: 3.000 seconds
+Text: Thanks to Danielle.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:11:31.000
+End: 01:11:39.000
+Duration: 8.000 seconds
+Text: I'm ready to make a motion on the GMP unless there's more discussion.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:11:39.000
+End: 01:11:52.000
+Duration: 13.000 seconds
+Text: I move we accept the guaranteed maximum price and the amount of $5,439,202 and authorize the construction of 12th street from Moro Street to Laramie Street in the alley between Moro Street and Laramie Street from North Man.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:11:52.000
+End: 01:11:56.000
+Duration: 4.000 seconds
+Text: And I have two 12th street.
+--------------------------------------------------
+Commissioner Adam:
+Start: 01:11:56.000
+End: 01:11:58.000
+Duration: 2.000 seconds
+Text: Second.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:11:58.000
+End: 01:12:04.000
+Duration: 6.000 seconds
+Text: Okay. Commissioner Minton has moved and Commissioner Adam check has seconded.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:12:04.000
+End: 01:12:06.000
+Duration: 2.000 seconds
+Text: Is it a clerk will you please call the roll?
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:12:06.000
+End: 01:12:08.000
+Duration: 2.000 seconds
+Text: Commissioner Minton.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:12:08.000
+End: 01:12:09.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:12:09.000
+End: 01:12:11.000
+Duration: 2.000 seconds
+Text: Mayor McClellan.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:12:11.000
+End: 01:12:12.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:12:12.000
+End: 01:12:15.000
+Duration: 3.000 seconds
+Text: Commissioner Adam check.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:12:15.000
+End: 01:12:17.000
+Duration: 2.000 seconds
+Text: Commissioner O'Palt.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:12:17.000
+End: 01:12:18.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:12:18.000
+End: 01:12:20.000
+Duration: 2.000 seconds
+Text: Commissioner Mata.
+--------------------------------------------------
+City Clerk:
+Start: 01:12:20.000
+End: 01:12:21.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:12:21.000
+End: 01:12:24.000
+Duration: 3.000 seconds
+Text: Motion carries 5 to 0.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:12:24.000
+End: 01:12:25.000
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:12:25.000
+End: 01:12:31.000
+Duration: 6.000 seconds
+Text: And then we need a second motion on item 4B.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:12:31.000
+End: 01:12:43.000
+Duration: 12.000 seconds
+Text: I move we approve the second amendment to the construction manager at risk agreement with BHS construction splitting the 12th street construction and the Laramie Street construction into two phases.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:12:43.000
+End: 01:12:45.000
+Duration: 2.000 seconds
+Text: Second.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:12:45.000
+End: 01:12:51.000
+Duration: 6.000 seconds
+Text: Commissioner Minton has made the motion and Commissioner O'Palt has seconded the motion.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:12:51.000
+End: 01:12:53.000
+Duration: 2.000 seconds
+Text: City clerk please call the roll.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:12:53.000
+End: 01:12:55.000
+Duration: 2.000 seconds
+Text: Mayor McClellan.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:12:55.000
+End: 01:12:58.000
+Duration: 3.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:12:58.000
+End: 01:12:59.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:12:59.000
+End: 01:13:02.000
+Duration: 3.000 seconds
+Text: Commissioner Adam check.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:13:02.000
+End: 01:13:04.000
+Duration: 2.000 seconds
+Text: Commissioner O'Palt.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:13:04.000
+End: 01:13:05.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:13:05.000
+End: 01:13:07.000
+Duration: 2.000 seconds
+Text: Commissioner Mata.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:13:07.000
+End: 01:13:08.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:13:08.000
+End: 01:13:10.000
+Duration: 2.000 seconds
+Text: Commissioner Minton.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:13:10.000
+End: 01:13:11.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:13:11.000
+End: 01:13:14.000
+Duration: 3.000 seconds
+Text: Motion carries 5 to 0.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:13:14.000
+End: 01:13:16.000
+Duration: 2.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:13:16.000
+End: 01:13:21.000
+Duration: 5.000 seconds
+Text: I'll move to adjourn the February 18th, 2025 City Commission meeting.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:13:21.000
+End: 01:13:22.000
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:13:22.000
+End: 01:13:23.000
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:13:23.000
+End: 01:13:25.000
+Duration: 2.000 seconds
+Text: Seconded.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:13:25.000
+End: 01:13:28.000
+Duration: 3.000 seconds
+Text: Commissioner Minton seconded and I made the motion.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:13:28.000
+End: 01:13:29.000
+Duration: 1.000 seconds
+Text: Please call the roll.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:13:29.000
+End: 01:13:31.000
+Duration: 2.000 seconds
+Text: Commissioner Adam check.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:13:31.000
+End: 01:13:33.000
+Duration: 2.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:13:33.000
+End: 01:13:34.000
+Duration: 1.000 seconds
+Text: Commissioner O'Palt.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:13:34.000
+End: 01:13:35.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:13:35.000
+End: 01:13:36.000
+Duration: 1.000 seconds
+Text: Commissioner Mata.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:13:36.000
+End: 01:13:38.000
+Duration: 2.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:13:38.000
+End: 01:13:40.000
+Duration: 2.000 seconds
+Text: Commissioner Minton.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:13:40.000
+End: 01:13:41.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:13:41.000
+End: 01:13:43.000
+Duration: 2.000 seconds
+Text: Mayor McClellan.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:13:43.000
+End: 01:13:44.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:13:44.000
+End: 01:13:46.000
+Duration: 2.000 seconds
+Text: Motion carries 5 to 0.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:13:46.000
+End: 01:13:47.000
+Duration: 1.000 seconds
+Text: I'll go.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:13:47.000
+End: 01:13:50.000
+Duration: 3.000 seconds
+Text: Just a reminder, commissioners.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:13:50.000
+End: 01:13:55.160
+Duration: 5.160 seconds
+Text: Next week our work session has been canceled in order for you all to attend either the afternoon
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:13:55.160
+End: 01:14:01.000
+Duration: 5.840 seconds
+Text: session or the evening session of the KDM incident command system training.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:14:01.000
+End: 01:14:08.000
+Duration: 7.000 seconds
+Text: And that is at County Commission Chambers, correct?
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:14:08.000
+End: 01:14:09.000
+Duration: 1.000 seconds
+Text: I believe so.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:14:09.000
+End: 01:14:10.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:14:10.000
+End: 01:14:12.000
+Duration: 2.000 seconds
+Text: We will double check and get back to you with the right location.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:14:12.000
+End: 01:14:13.000
+Duration: 1.000 seconds
+Text: Thanks.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:14:13.000
+End: 01:14:14.000
+Duration: 1.000 seconds
+Text: It is.
+--------------------------------------------------
+City Clerk:
+Start: 01:14:14.000
+End: 01:14:15.000
+Duration: 1.000 seconds
+Text: Yep.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:14:15.000
+End: 01:14:16.000
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:14:16.000
+End: 01:14:17.000
+Duration: 1.000 seconds
+Text: Thanks.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:14:18.000
+End: 01:14:19.000
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:14:19.000
+End: 01:14:20.000
+Duration: 1.000 seconds
+Text: I'm pretty good.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:14:20.000
+End: 01:14:21.000
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Minton:
+Start: 01:14:21.000
+End: 01:14:22.000
+Duration: 1.000 seconds
+Text: I'm pretty good.
+--------------------------------------------------

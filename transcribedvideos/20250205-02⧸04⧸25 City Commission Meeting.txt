@@ -1,0 +1,5067 @@
+Transcription and Diarization for 20250205-02⧸04⧸25 City Commission Meeting.mp4
+==================================================
+
+Mayor McCullough:
+Start: 00:00:00.000
+End: 00:00:05.240
+Duration: 5.240 seconds
+Text: Good evening welcome to the City Commission meeting Tuesday, February 4th.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:00:05.240
+End: 00:00:08.040
+Duration: 2.800 seconds
+Text: You please join me in the federal legions.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:00:08.040
+End: 00:00:10.840
+Duration: 2.800 seconds
+Text: Oops, we have to do a roll call.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:00:10.840
+End: 00:00:15.320
+Duration: 4.480 seconds
+Text: I'm going to zip us through.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:00:15.320
+End: 00:00:16.320
+Duration: 1.000 seconds
+Text: Mayor McCullough?
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:00:16.320
+End: 00:00:17.320
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:00:17.320
+End: 00:00:18.820
+Duration: 1.500 seconds
+Text: Smithshire Adam check?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:00:18.820
+End: 00:00:19.820
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:00:19.820
+End: 00:00:20.820
+Duration: 1.000 seconds
+Text: Commissioner Opell?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:00:20.820
+End: 00:00:21.820
+Duration: 1.000 seconds
+Text: Here.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:00:21.820
+End: 00:00:22.820
+Duration: 1.000 seconds
+Text: Commissioner Mata?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:00:22.820
+End: 00:00:23.820
+Duration: 1.000 seconds
+Text: Here.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:00:23.820
+End: 00:00:24.820
+Duration: 1.000 seconds
+Text: Commissioner Mitten?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:00:24.820
+End: 00:00:25.820
+Duration: 1.000 seconds
+Text: Here.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:00:25.820
+End: 00:00:26.820
+Duration: 1.000 seconds
+Text: Mayor we have five commissioners present.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:00:26.820
+End: 00:00:27.820
+Duration: 1.000 seconds
+Text: The Quorum of three is met.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:00:27.820
+End: 00:00:28.820
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:00:28.820
+End: 00:00:33.820
+Duration: 5.000 seconds
+Text: Please join me for the pletive legions.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:00:33.820
+End: 00:00:39.180
+Duration: 5.360 seconds
+Text: Pletive legions to the flag of the United States of America and the two of the Republic
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:00:39.180
+End: 00:00:47.820
+Duration: 8.640 seconds
+Text: for which it stands, one nation under God, indivisible with liberty and justice for all.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:00:47.820
+End: 00:00:54.340
+Duration: 6.520 seconds
+Text: Next item on the agenda are public comments.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:00:54.340
+End: 00:00:55.340
+Duration: 1.000 seconds
+Text: Public comments.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:00:55.340
+End: 00:00:58.660
+Duration: 3.320 seconds
+Text: Let me get my right thing here.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:00:58.660
+End: 00:01:03.180
+Duration: 4.520 seconds
+Text: Those wanting to make comments on city businesses not related to any item on the agenda
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:01:03.180
+End: 00:01:05.140
+Duration: 1.960 seconds
+Text: can do so at this time.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:01:05.140
+End: 00:01:09.220
+Duration: 4.080 seconds
+Text: Members of the public signed up in person on the list at the podium before the meeting
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:01:09.220
+End: 00:01:10.820
+Duration: 1.600 seconds
+Text: will go first.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:01:10.820
+End: 00:01:15.500
+Duration: 4.680 seconds
+Text: Then any members of the public in the audience may stand and be recognized to come forward.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:01:15.500
+End: 00:01:20.420
+Duration: 4.920 seconds
+Text: If you haven't already signed up to speak, please be sure to sign in on the list located
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:01:20.420
+End: 00:01:21.740
+Duration: 1.320 seconds
+Text: at the podium.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:01:21.740
+End: 00:01:26.220
+Duration: 4.480 seconds
+Text: Please state your name and residential address and or the organization you are representing
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:01:26.220
+End: 00:01:27.480
+Duration: 1.260 seconds
+Text: for the record.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:01:27.480
+End: 00:01:32.440
+Duration: 4.960 seconds
+Text: And for those listening or watching at home, each speaker has five minutes can speak
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:01:32.440
+End: 00:01:35.800
+Duration: 3.360 seconds
+Text: only once and must stop speaking when the timer sounds.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:01:35.800
+End: 00:01:39.960
+Duration: 4.160 seconds
+Text: Neither the commissioners know the city's staff will answer questions or debate on this
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:01:39.960
+End: 00:01:40.960
+Duration: 1.000 seconds
+Text: issue.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:01:40.960
+End: 00:01:43.440
+Duration: 2.480 seconds
+Text: We will take your comments under advisement.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:01:43.440
+End: 00:01:47.800
+Duration: 4.360 seconds
+Text: The commissioners wish to notify the public this evening that they will be considering motions
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:01:47.800
+End: 00:01:54.520
+Duration: 6.720 seconds
+Text: at the February 11th work session and at the February 18th legislative session to shorten
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:01:54.520
+End: 00:02:00.240
+Duration: 5.720 seconds
+Text: individual public comments to three minutes per person and to cap all public comments to
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:02:00.240
+End: 00:02:05.680
+Duration: 5.440 seconds
+Text: 30 minutes per section for the general public comments, the consent agenda and each agenda
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:02:05.680
+End: 00:02:07.160
+Duration: 1.480 seconds
+Text: item.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:02:07.160
+End: 00:02:15.000
+Duration: 7.840 seconds
+Text: Kathy Doe Towsky with your sign up.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:02:15.000
+End: 00:02:18.400
+Duration: 3.400 seconds
+Text: Good evening.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:02:18.400
+End: 00:02:22.400
+Duration: 4.000 seconds
+Text: I'm Kathy Jolte Towsky.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:02:22.400
+End: 00:02:28.040
+Duration: 5.640 seconds
+Text: I live at 100 South Delaware Avenue and I am concerned about what the mayor just read
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:02:28.040
+End: 00:02:34.480
+Duration: 6.440 seconds
+Text: about this proposed plan to reduce public comment to three minutes from five minutes and to
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:02:34.480
+End: 00:02:39.680
+Duration: 5.200 seconds
+Text: limit overall public comment time given item to 30 minutes.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:02:39.680
+End: 00:02:40.680
+Duration: 1.000 seconds
+Text: It really wasn't that long ago.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:02:40.680
+End: 00:02:48.480
+Duration: 7.800 seconds
+Text: I think it was maybe 2018 that members of the public had unlimited time to speak to commissioners
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:02:48.480
+End: 00:02:54.760
+Duration: 6.280 seconds
+Text: which I can concede perhaps wasn't always the best idea.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:02:54.760
+End: 00:03:00.280
+Duration: 5.520 seconds
+Text: And they also allowed a single person to come to the podium or the wants which also perhaps
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:03:00.280
+End: 00:03:01.880
+Duration: 1.600 seconds
+Text: wasn't the best idea.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:03:01.880
+End: 00:03:06.280
+Duration: 4.400 seconds
+Text: So limiting it to five minutes seemed like perhaps a good compromise but I think further
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:03:06.280
+End: 00:03:10.400
+Duration: 4.120 seconds
+Text: reducing it to three minutes starts to feel like you don't really want to hear from
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:03:10.400
+End: 00:03:12.440
+Duration: 2.040 seconds
+Text: the public.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:03:12.440
+End: 00:03:18.640
+Duration: 6.200 seconds
+Text: And likewise limiting a given item to 30 minutes also is a concern.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:03:18.640
+End: 00:03:22.520
+Duration: 3.880 seconds
+Text: Most of the time items probably aren't that controversial.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:03:22.520
+End: 00:03:26.480
+Duration: 3.960 seconds
+Text: Probably it would be able to be discussed in 30 minutes or less.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:03:26.480
+End: 00:03:30.680
+Duration: 4.200 seconds
+Text: But on occasion there have been highly controversial items come before this commission.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:03:30.680
+End: 00:03:34.840
+Duration: 4.160 seconds
+Text: I'm going to use rental inspections as an example of one where I think there was a lot
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:03:34.840
+End: 00:03:36.600
+Duration: 1.760 seconds
+Text: of public comment.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:03:36.600
+End: 00:03:41.840
+Duration: 5.240 seconds
+Text: And if public comment was limited to 30 minutes total, well there's the potential of that
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:03:41.840
+End: 00:03:46.280
+Duration: 4.440 seconds
+Text: the first ten speakers all are talking on one side of the issue and the commission
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:03:46.280
+End: 00:03:50.320
+Duration: 4.040 seconds
+Text: doesn't really ever get to hear from people from the other side of the issue.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:03:50.320
+End: 00:03:55.080
+Duration: 4.760 seconds
+Text: The other problem I think with that is sometimes when you come to a meeting you aren't necessarily
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:03:55.080
+End: 00:03:59.000
+Duration: 3.920 seconds
+Text: thinking you're going to speak on a given matter because you're not really event concerned
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:03:59.000
+End: 00:04:00.000
+Duration: 1.000 seconds
+Text: about it.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:04:00.000
+End: 00:04:04.280
+Duration: 4.280 seconds
+Text: But then somebody says something either by staff or another member of the public and you're
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:04:04.280
+End: 00:04:07.400
+Duration: 3.120 seconds
+Text: suddenly inspired that you want to say something.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:04:07.400
+End: 00:04:08.680
+Duration: 1.280 seconds
+Text: But you didn't sign up ahead of time.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:04:08.680
+End: 00:04:13.000
+Duration: 4.320 seconds
+Text: There's already ten speakers that have signed up and so you're just out of luck.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:04:13.000
+End: 00:04:20.120
+Duration: 7.120 seconds
+Text: And I find that to be kind of a problem that this commission for some reason is afraid
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:04:20.120
+End: 00:04:21.120
+Duration: 1.000 seconds
+Text: to hear from the public.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:04:21.120
+End: 00:04:23.880
+Duration: 2.760 seconds
+Text: Doesn't value public input such that they want to limit it.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:04:23.880
+End: 00:04:27.280
+Duration: 3.400 seconds
+Text: I don't know really what the reason is behind this.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:04:27.280
+End: 00:04:32.240
+Duration: 4.960 seconds
+Text: And there was also a meeting not that long ago where an item on the consent agenda I believe
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:04:32.240
+End: 00:04:37.040
+Duration: 4.800 seconds
+Text: it was about the resolution involving parks and recreation was pulled from the consent
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:04:37.040
+End: 00:04:40.000
+Duration: 2.960 seconds
+Text: agenda as it lays out.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:04:40.000
+End: 00:04:43.920
+Duration: 3.920 seconds
+Text: And the agenda consent agenda items removed are supposed to be discussed immediately after
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:04:43.920
+End: 00:04:45.560
+Duration: 1.640 seconds
+Text: the consent agenda.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:04:45.560
+End: 00:04:49.400
+Duration: 3.840 seconds
+Text: But instead staff was recommending that it go all the way to the end after the general
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:04:49.400
+End: 00:04:50.560
+Duration: 1.160 seconds
+Text: agenda.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:04:50.560
+End: 00:04:54.120
+Duration: 3.560 seconds
+Text: Which again had the sense of feeling like, well because we didn't really want to hear from
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:04:54.120
+End: 00:04:55.120
+Duration: 1.000 seconds
+Text: the public.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:04:55.120
+End: 00:05:00.680
+Duration: 5.560 seconds
+Text: So if we put it at the end of the agenda maybe they'll get worn out and they'll leave.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:05:00.680
+End: 00:05:05.240
+Duration: 4.560 seconds
+Text: And I'm just very concerned about what this message is sending to those of us in the public
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:05:05.240
+End: 00:05:07.640
+Duration: 2.400 seconds
+Text: who would like to speak to the commission.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:05:07.640
+End: 00:05:09.560
+Duration: 1.920 seconds
+Text: And I really don't need to fill two more minutes.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:05:09.560
+End: 00:05:14.280
+Duration: 4.720 seconds
+Text: But I really was trying to fill up five minutes today just because this might be my last
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:05:14.280
+End: 00:05:16.040
+Duration: 1.760 seconds
+Text: chance to talk for five minutes.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:05:16.040
+End: 00:05:20.560
+Duration: 4.520 seconds
+Text: So for that reason I'm going to add one more thing and say that if you're going to revisit
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:05:20.560
+End: 00:05:25.000
+Duration: 4.440 seconds
+Text: the indoor pool situation, please don't put it in city park.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:05:25.000
+End: 00:05:26.000
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:05:26.000
+End: 00:05:27.000
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:05:27.000
+End: 00:05:28.000
+Duration: 1.000 seconds
+Text: Amber?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:05:36.240
+End: 00:05:40.600
+Duration: 4.360 seconds
+Text: Amber Starling, 408 Houston Street.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:05:40.600
+End: 00:05:45.120
+Duration: 4.520 seconds
+Text: This commission has been pursuing gross strategies in a city that hasn't grown in a decade.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:05:45.120
+End: 00:05:49.080
+Duration: 3.960 seconds
+Text: They've allowed our infrastructure to go to ruin, put us at two thirds of our debt limit,
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:05:49.080
+End: 00:05:55.080
+Duration: 6.000 seconds
+Text: and perpetuated policies that leaves 24% of our citizens beneath a poverty line and 43%
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:05:55.080
+End: 00:05:58.200
+Duration: 3.120 seconds
+Text: of our students eligible for free or reduced lunch.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:05:58.200
+End: 00:06:02.920
+Duration: 4.720 seconds
+Text: Riley County is famous for being the only county in the entire state of Kansas in persistent
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:06:02.920
+End: 00:06:06.720
+Duration: 3.800 seconds
+Text: poverty, with a poverty rate almost twice the national average.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:06:06.720
+End: 00:06:10.080
+Duration: 3.360 seconds
+Text: And yet I repeatedly hear our commissioners proclaim that we need more luxury housing
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:06:10.080
+End: 00:06:14.240
+Duration: 4.160 seconds
+Text: and that we must invest in the convention and visitors bureau, downtown and Aggieville
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:06:14.240
+End: 00:06:19.120
+Duration: 4.880 seconds
+Text: associations, and the Chamber of Commerce to get results and growth.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:06:19.120
+End: 00:06:30.120
+Duration: 11.000 seconds
+Text: In 2024 alone, this commission spent $16,541,402 on community and economic development.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:06:30.120
+End: 00:06:31.680
+Duration: 1.560 seconds
+Text: And the results?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:06:31.680
+End: 00:06:33.480
+Duration: 1.800 seconds
+Text: No growth.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:06:33.480
+End: 00:06:37.480
+Duration: 4.000 seconds
+Text: This was confirmed at regional growth summit last Friday when Math Tarleton, a community
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:06:37.480
+End: 00:06:44.360
+Duration: 6.880 seconds
+Text: development expert and consultant revealed that Manhattan posted 0% job growth in 2024.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:06:44.360
+End: 00:06:47.720
+Duration: 3.360 seconds
+Text: In November, the commission, recognizing that they have never established performance
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:06:47.720
+End: 00:06:51.320
+Duration: 3.600 seconds
+Text: benchmarks for the Chamber or their programs, asked the Chamber to come up with their own
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:06:51.320
+End: 00:06:53.840
+Duration: 2.520 seconds
+Text: grading rubric for future performance.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:06:53.840
+End: 00:06:55.160
+Duration: 1.320 seconds
+Text: This alone is absurd enough.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:06:55.160
+End: 00:06:59.320
+Duration: 4.160 seconds
+Text: I've never been in a class where the students decide how they're graded or a competition
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:06:59.320
+End: 00:07:02.600
+Duration: 3.280 seconds
+Text: where the contestants get to decide the rules.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:07:02.600
+End: 00:07:06.320
+Duration: 3.720 seconds
+Text: On top of that, they did not hold them accountable at the end of the year when they were unable
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:07:06.320
+End: 00:07:09.720
+Duration: 3.400 seconds
+Text: to report on a single metric of the dozens produced.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:07:09.720
+End: 00:07:12.480
+Duration: 2.760 seconds
+Text: You don't know an investment from a scam.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:07:12.480
+End: 00:07:16.240
+Duration: 3.760 seconds
+Text: There are people in the city who do, citizens who challenge you.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:07:16.240
+End: 00:07:21.160
+Duration: 4.920 seconds
+Text: You complain that millennials and Gen Z don't participate in democracy, but now that I
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:07:21.160
+End: 00:07:26.160
+Duration: 5.000 seconds
+Text: have a team of 20 who largely disagree with you, you want to change the public speaking
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:07:26.160
+End: 00:07:27.560
+Duration: 1.400 seconds
+Text: rules.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:07:27.560
+End: 00:07:29.160
+Duration: 1.600 seconds
+Text: This isn't even the first time.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:07:29.160
+End: 00:07:32.600
+Duration: 3.440 seconds
+Text: I have not been public about these injuries, but it's time.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:07:32.600
+End: 00:07:37.500
+Duration: 4.900 seconds
+Text: On September 17th of last year, then Mayer Susan Adamschak forbade my ex-partner and
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:07:37.500
+End: 00:07:38.680
+Duration: 1.180 seconds
+Text: I from speaking.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:07:38.680
+End: 00:07:42.080
+Duration: 3.400 seconds
+Text: She cited that the rules called for residential address.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:07:42.080
+End: 00:07:46.280
+Duration: 4.200 seconds
+Text: Actually, the address of my business is my legal address.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:07:46.280
+End: 00:07:51.320
+Duration: 5.040 seconds
+Text: And that business is the business of which I am the founder, sole owner and CEO.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:07:51.320
+End: 00:07:54.920
+Duration: 3.600 seconds
+Text: And this was done with the blessing of the County State and Federal Government.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:07:54.920
+End: 00:07:57.680
+Duration: 2.760 seconds
+Text: She then accused us of not living in Manhattan.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:07:57.680
+End: 00:08:02.160
+Duration: 4.480 seconds
+Text: Never mind that two weeks prior, she broke her own rules and allowed the vice president
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:08:02.160
+End: 00:08:08.040
+Duration: 5.880 seconds
+Text: of Salesforce for Hilton who gave a Springfield Missouri address to speak for five minutes
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:08:08.040
+End: 00:08:12.040
+Duration: 4.000 seconds
+Text: and 48 seconds with back and forth from the commissioners.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:08:12.040
+End: 00:08:17.800
+Duration: 5.760 seconds
+Text: We came back on October 1st with redacted copies of our legal documents, RV registration,
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:08:17.800
+End: 00:08:23.000
+Duration: 5.200 seconds
+Text: tax returns, health insurance, bank statements, and supplied them to the commissioners.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:08:23.000
+End: 00:08:25.800
+Duration: 2.800 seconds
+Text: Don't look surprised you saw them.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:08:25.800
+End: 00:08:28.040
+Duration: 2.240 seconds
+Text: Mayor Pertemacola allowed us to speak.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:08:28.040
+End: 00:08:32.360
+Duration: 4.320 seconds
+Text: A damnchak was absent for the entire month of October if you were my employee with that
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:08:32.360
+End: 00:08:35.000
+Duration: 2.640 seconds
+Text: absentee rate I would have fired you.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:08:35.000
+End: 00:08:39.320
+Duration: 4.320 seconds
+Text: On December 17th, many citizens showed up to express their dismay and betrayal over the
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:08:39.320
+End: 00:08:43.880
+Duration: 4.560 seconds
+Text: commission choosing to add membership fees to the city-owned rec centers, even though they
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:08:43.880
+End: 00:08:48.120
+Duration: 4.240 seconds
+Text: were paid for through a sales tax increase and promised to be free for all citizens to
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:08:48.120
+End: 00:08:49.200
+Duration: 1.080 seconds
+Text: enjoy.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:08:49.200
+End: 00:08:53.840
+Duration: 4.640 seconds
+Text: At the last minute, then Mayer a damnchak cut every one's time short to three minutes.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:08:53.840
+End: 00:08:58.200
+Duration: 4.360 seconds
+Text: As a result, director of the Flint Hills Wellness Coalition, Debbie Nuss, was unable to finish
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:08:58.200
+End: 00:09:03.040
+Duration: 4.840 seconds
+Text: the comments she had prepared and handed off the last sheet to Marine Shea-Han.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:09:03.040
+End: 00:09:07.000
+Duration: 3.960 seconds
+Text: After her comments, a damnchak chastised her for reading another's writing and cited
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:09:07.000
+End: 00:09:11.360
+Duration: 4.360 seconds
+Text: it as being against the speaking rules, except it wasn't.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:09:11.360
+End: 00:09:16.480
+Duration: 5.120 seconds
+Text: On January 21st, Gwen Riffle, a longtime resident and commercial real estate developer,
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:09:16.480
+End: 00:09:23.440
+Duration: 6.960 seconds
+Text: delivered a polite and well-reasoned criticism of back-9's new plan for we call it the
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:09:23.440
+End: 00:09:24.920
+Duration: 1.480 seconds
+Text: Aggieville mud hole.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:09:24.920
+End: 00:09:28.080
+Duration: 3.160 seconds
+Text: It's formally known as the Midtown Project.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:09:28.080
+End: 00:09:30.680
+Duration: 2.600 seconds
+Text: Riffle also owns a vacant lot in your Aggieville.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:09:30.680
+End: 00:09:36.720
+Duration: 6.040 seconds
+Text: Adam Chakatt, attending virtually, hurled out hominems at him asking, what's your plans?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:09:36.720
+End: 00:09:39.520
+Duration: 2.800 seconds
+Text: Riffle replied, I'm working on those plans now.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:09:39.520
+End: 00:09:41.120
+Duration: 1.600 seconds
+Text: A damnchak pressed on.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:09:41.120
+End: 00:09:47.400
+Duration: 6.280 seconds
+Text: Yeah, and when will you bring those to the commission before you're challenging other people to
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:09:47.400
+End: 00:09:49.320
+Duration: 1.920 seconds
+Text: bring forward plans?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:09:49.320
+End: 00:09:53.240
+Duration: 3.920 seconds
+Text: Again, not a rule.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:09:53.240
+End: 00:09:56.920
+Duration: 3.680 seconds
+Text: Now it's three minutes with a 30-minute max.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:09:56.920
+End: 00:10:03.720
+Duration: 6.800 seconds
+Text: Controversial items regularly get 30-plus citizens who you should listen to.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:10:03.720
+End: 00:10:08.800
+Duration: 5.080 seconds
+Text: A majority of those citizens would not even be heard under these new speaking rules.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:10:08.800
+End: 00:10:14.720
+Duration: 5.920 seconds
+Text: I don't stand for the pledge of allegiance here because this isn't democracy.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:10:14.720
+End: 00:10:19.840
+Duration: 5.120 seconds
+Text: On October 1st of last year, I asked the commission if they were allergic to accountability.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:10:19.840
+End: 00:10:21.800
+Duration: 1.960 seconds
+Text: I think we have our answer.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:10:22.800
+End: 00:10:26.800
+Duration: 4.000 seconds
+Text: Thank you, any other speakers for the...
+--------------------------------------------------
+Katie Smith:
+Start: 00:10:47.800
+End: 00:10:51.600
+Duration: 3.800 seconds
+Text: Katie Smith of 701 North Fourth Street.
+--------------------------------------------------
+Katie Smith:
+Start: 00:10:51.600
+End: 00:10:54.200
+Duration: 2.600 seconds
+Text: Good evening commissioners.
+--------------------------------------------------
+Katie Smith:
+Start: 00:10:54.200
+End: 00:10:59.320
+Duration: 5.120 seconds
+Text: I think by now we've all heard that mental health is a challenge in Manhattan.
+--------------------------------------------------
+Katie Smith:
+Start: 00:10:59.320
+End: 00:11:03.920
+Duration: 4.600 seconds
+Text: It's one of our top three right next to housing and affordability.
+--------------------------------------------------
+Katie Smith:
+Start: 00:11:03.920
+End: 00:11:08.840
+Duration: 4.920 seconds
+Text: But it's not just about the access of services.
+--------------------------------------------------
+Katie Smith:
+Start: 00:11:08.840
+End: 00:11:13.360
+Duration: 4.520 seconds
+Text: It's about the environment we create as a community.
+--------------------------------------------------
+Katie Smith:
+Start: 00:11:13.360
+End: 00:11:20.320
+Duration: 6.960 seconds
+Text: When people are forced to live in constant fear of family separation, of being targeted,
+--------------------------------------------------
+Katie Smith:
+Start: 00:11:20.320
+End: 00:11:25.360
+Duration: 5.040 seconds
+Text: of simply existing in public, it takes a toll on their mental health.
+--------------------------------------------------
+Katie Smith:
+Start: 00:11:25.360
+End: 00:11:31.840
+Duration: 6.480 seconds
+Text: It takes a toll on the individual, their families, and the entire fabric of the community.
+--------------------------------------------------
+Katie Smith:
+Start: 00:11:31.840
+End: 00:11:38.320
+Duration: 6.480 seconds
+Text: That is why it's alarming to see how some people in Manhattan speak of their neighbors,
+--------------------------------------------------
+Katie Smith:
+Start: 00:11:38.320
+End: 00:11:44.240
+Duration: 5.920 seconds
+Text: reducing human beings to nothing more than the word illegals.
+--------------------------------------------------
+Katie Smith:
+Start: 00:11:44.240
+End: 00:11:48.320
+Duration: 4.080 seconds
+Text: Dehumanization isn't just hateful rhetoric.
+--------------------------------------------------
+Katie Smith:
+Start: 00:11:48.320
+End: 00:11:56.040
+Duration: 7.720 seconds
+Text: It is an early warning indicator that a community is psychologically preparing itself to carry out violence.
+--------------------------------------------------
+Katie Smith:
+Start: 00:11:56.040
+End: 00:11:59.440
+Duration: 3.400 seconds
+Text: That is a mental health crisis too.
+--------------------------------------------------
+Katie Smith:
+Start: 00:11:59.440
+End: 00:12:01.200
+Duration: 1.760 seconds
+Text: Hate is not abstract.
+--------------------------------------------------
+Katie Smith:
+Start: 00:12:01.200
+End: 00:12:04.280
+Duration: 3.080 seconds
+Text: It is real and it is emboldened.
+--------------------------------------------------
+Katie Smith:
+Start: 00:12:04.280
+End: 00:12:13.440
+Duration: 9.160 seconds
+Text: Right next door, Missouri lawmakers are proposing a bounty hunting program encouraging people to hunt another human being.
+--------------------------------------------------
+Katie Smith:
+Start: 00:12:13.440
+End: 00:12:19.480
+Duration: 6.040 seconds
+Text: Last week, a Missouri man impersonated an ICE agent broke into someone's home,
+--------------------------------------------------
+Katie Smith:
+Start: 00:12:19.480
+End: 00:12:26.680
+Duration: 7.200 seconds
+Text: choked them, and then demanded for them to show their citizenship papers.
+--------------------------------------------------
+Katie Smith:
+Start: 00:12:26.680
+End: 00:12:31.880
+Duration: 5.200 seconds
+Text: When fear and dehumanization take hold, this is the outcome.
+--------------------------------------------------
+Katie Smith:
+Start: 00:12:31.880
+End: 00:12:37.440
+Duration: 5.560 seconds
+Text: There will be people who hear this story and think that we should do the same.
+--------------------------------------------------
+Katie Smith:
+Start: 00:12:37.440
+End: 00:12:42.200
+Duration: 4.760 seconds
+Text: Those are the kind of behaviors that killed Anne Frank.
+--------------------------------------------------
+Katie Smith:
+Start: 00:12:42.200
+End: 00:12:51.160
+Duration: 8.960 seconds
+Text: There are cancens who have had the audacity to question my citizenship, to tell me that I might not belong.
+--------------------------------------------------
+Katie Smith:
+Start: 00:12:51.160
+End: 00:12:57.320
+Duration: 6.160 seconds
+Text: Imagine what that does to a young person hearing those messages for the first time.
+--------------------------------------------------
+Katie Smith:
+Start: 00:12:57.320
+End: 00:13:04.600
+Duration: 7.280 seconds
+Text: The mental health consequences of being told you are less than or unwanted or severe,
+--------------------------------------------------
+Katie Smith:
+Start: 00:13:04.600
+End: 00:13:10.360
+Duration: 5.760 seconds
+Text: especially when that message is coming from people in your own community.
+--------------------------------------------------
+Katie Smith:
+Start: 00:13:10.360
+End: 00:13:14.960
+Duration: 4.600 seconds
+Text: So my question to the commission and to the city is serious.
+--------------------------------------------------
+Katie Smith:
+Start: 00:13:14.960
+End: 00:13:23.000
+Duration: 8.040 seconds
+Text: What will we do when militant vigilantes and neo-nazis make an appearance in Manhattan?
+--------------------------------------------------
+Katie Smith:
+Start: 00:13:23.000
+End: 00:13:28.720
+Duration: 5.720 seconds
+Text: It's not just undocumented immigrants who are affected.
+--------------------------------------------------
+Katie Smith:
+Start: 00:13:28.720
+End: 00:13:35.200
+Duration: 6.480 seconds
+Text: Will every non-white person have to start carrying their passport and birth certificate?
+--------------------------------------------------
+Katie Smith:
+Start: 00:13:35.200
+End: 00:13:38.160
+Duration: 2.960 seconds
+Text: That is unconstitutional.
+--------------------------------------------------
+Katie Smith:
+Start: 00:13:38.160
+End: 00:13:44.760
+Duration: 6.600 seconds
+Text: But beyond that, it is an assault on the well-being of our entire community.
+--------------------------------------------------
+Katie Smith:
+Start: 00:13:44.760
+End: 00:13:48.960
+Duration: 4.200 seconds
+Text: Immigrants are the lifeblood of this country and our economy.
+--------------------------------------------------
+Katie Smith:
+Start: 00:13:48.960
+End: 00:13:56.600
+Duration: 7.640 seconds
+Text: The Kansas Life Stock Association has already raised concerns about what mass deportations would do to our workforce.
+--------------------------------------------------
+Katie Smith:
+Start: 00:13:56.600
+End: 00:13:58.400
+Duration: 1.800 seconds
+Text: These aren't just numbers.
+--------------------------------------------------
+Katie Smith:
+Start: 00:13:58.400
+End: 00:14:05.680
+Duration: 7.280 seconds
+Text: They are the people who harvest our food, build our houses, and keep our economy moving.
+--------------------------------------------------
+Katie Smith:
+Start: 00:14:05.680
+End: 00:14:10.120
+Duration: 4.440 seconds
+Text: And yet they have to live in constant fear and stress.
+--------------------------------------------------
+Katie Smith:
+Start: 00:14:10.120
+End: 00:14:16.960
+Duration: 6.840 seconds
+Text: If we want to improve the mental health in this community, we cannot turn a blind eye.
+--------------------------------------------------
+Katie Smith:
+Start: 00:14:16.960
+End: 00:14:22.400
+Duration: 5.440 seconds
+Text: I understand that Manhattan cannot declare itself a sanctuary city without consequences,
+--------------------------------------------------
+Katie Smith:
+Start: 00:14:22.400
+End: 00:14:24.680
+Duration: 2.280 seconds
+Text: and I'm not asking you to.
+--------------------------------------------------
+Katie Smith:
+Start: 00:14:24.680
+End: 00:14:30.240
+Duration: 5.560 seconds
+Text: What I am asking is that we take real steps to ensure that all of our residents
+--------------------------------------------------
+Katie Smith:
+Start: 00:14:30.240
+End: 00:14:33.520
+Duration: 3.280 seconds
+Text: can feel safe, supported, and valued.
+--------------------------------------------------
+Katie Smith:
+Start: 00:14:33.560
+End: 00:14:38.200
+Duration: 4.640 seconds
+Text: At the bare minimum, we need to keep our schools and churches safe.
+--------------------------------------------------
+Katie Smith:
+Start: 00:14:38.200
+End: 00:14:41.040
+Duration: 2.840 seconds
+Text: Mental health is not just about individual struggles,
+--------------------------------------------------
+Katie Smith:
+Start: 00:14:41.040
+End: 00:14:44.920
+Duration: 3.880 seconds
+Text: it's about the structures we create and the messages we send.
+--------------------------------------------------
+Katie Smith:
+Start: 00:14:44.920
+End: 00:14:49.080
+Duration: 4.160 seconds
+Text: I'd like to thank Mayor McCullough, Commissioner Adam Track, and the Manhattan Mercury
+--------------------------------------------------
+Katie Smith:
+Start: 00:14:49.080
+End: 00:14:51.640
+Duration: 2.560 seconds
+Text: for opening up this conversation.
+--------------------------------------------------
+Katie Smith:
+Start: 00:14:51.640
+End: 00:14:57.560
+Duration: 5.920 seconds
+Text: The debates on the local Facebook group were certainly interesting before they were taken down.
+--------------------------------------------------
+Katie Smith:
+Start: 00:14:57.560
+End: 00:15:02.320
+Duration: 4.760 seconds
+Text: Some people claim that this issue is too ugly to talk about on Facebook,
+--------------------------------------------------
+Katie Smith:
+Start: 00:15:02.320
+End: 00:15:05.280
+Duration: 2.960 seconds
+Text: but sometimes reality is ugly.
+--------------------------------------------------
+Katie Smith:
+Start: 00:15:05.280
+End: 00:15:10.000
+Duration: 4.720 seconds
+Text: These dialogues will be uncomfortable, but they need to happen.
+--------------------------------------------------
+Katie Smith:
+Start: 00:15:10.000
+End: 00:15:16.080
+Duration: 6.080 seconds
+Text: If we allow fear and misinformation to dictate how we treat those who call Manhattan home,
+--------------------------------------------------
+Katie Smith:
+Start: 00:15:16.080
+End: 00:15:20.080
+Duration: 4.000 seconds
+Text: we will only deepen the crisis that we are already in.
+--------------------------------------------------
+Katie Smith:
+Start: 00:15:20.080
+End: 00:15:25.600
+Duration: 5.520 seconds
+Text: We are at a crossroads, and the city of Manhattan needs to take a stand.
+--------------------------------------------------
+Katie Smith:
+Start: 00:15:25.600
+End: 00:15:30.000
+Duration: 4.400 seconds
+Text: Here is an opportunity for our city to lead by example.
+--------------------------------------------------
+Katie Smith:
+Start: 00:15:30.000
+End: 00:15:31.600
+Duration: 1.600 seconds
+Text: Thank you for your time.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:15:33.120
+End: 00:15:34.400
+Duration: 1.280 seconds
+Text: Thank you, Katie.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:15:34.400
+End: 00:15:36.400
+Duration: 2.000 seconds
+Text: Any other comments?
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:15:39.440
+End: 00:15:41.440
+Duration: 2.000 seconds
+Text: Any other comments?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:15:41.440
+End: 00:16:04.000
+Duration: 22.560 seconds
+Text: Hi, David Chivaltel, ski one of yourself, Delaware.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:16:04.000
+End: 00:16:08.160
+Duration: 4.160 seconds
+Text: I always tell myself I'm going to talk at least.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:16:08.160
+End: 00:16:10.880
+Duration: 2.720 seconds
+Text: You guys got a tough job.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:16:11.440
+End: 00:16:17.760
+Duration: 6.320 seconds
+Text: I am not supportive of decreasing public comment.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:16:17.760
+End: 00:16:23.040
+Duration: 5.280 seconds
+Text: I do think, though, you need to look at how we can make public comment more effective.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:16:24.160
+End: 00:16:25.920
+Duration: 1.760 seconds
+Text: I can see the motivation here.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:16:26.720
+End: 00:16:29.680
+Duration: 2.960 seconds
+Text: How do we make the meetings more efficient?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:16:30.480
+End: 00:16:33.200
+Duration: 2.720 seconds
+Text: How do we make public comment more collegial?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:16:33.840
+End: 00:16:37.040
+Duration: 3.200 seconds
+Text: How do we actually have good conversations?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:16:37.600
+End: 00:16:41.040
+Duration: 3.440 seconds
+Text: I don't think the eliminating public comment is a solution.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:16:43.200
+End: 00:16:46.560
+Duration: 3.360 seconds
+Text: And I ask the question, I guess, what's changed?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:16:49.280
+End: 00:16:51.280
+Duration: 2.000 seconds
+Text: Us that have been around a while.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:16:51.280
+End: 00:16:56.800
+Duration: 5.520 seconds
+Text: Why has public comment become so fractionated?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:16:57.760
+End: 00:17:01.440
+Duration: 3.680 seconds
+Text: And I'll give you a couple hypotheses to think about.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:17:01.440
+End: 00:17:03.760
+Duration: 2.320 seconds
+Text: Maybe this should be on the work agenda,
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:17:03.760
+End: 00:17:10.640
+Duration: 6.880 seconds
+Text: truthfully, is rather than adopting this standard, have a discussion on how do we better engage?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:17:11.760
+End: 00:17:13.600
+Duration: 1.840 seconds
+Text: And then what's the best way to achieve that?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:17:15.360
+End: 00:17:17.520
+Duration: 2.160 seconds
+Text: My hypothesis is one thing is,
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:17:21.680
+End: 00:17:23.840
+Duration: 2.160 seconds
+Text: you know, when I was sitting on the park in Rackboard,
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:17:24.640
+End: 00:17:35.520
+Duration: 10.880 seconds
+Text: and we were interviewing firms to do the initial analysis of the InterRex Center stuff.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:17:36.640
+End: 00:17:41.040
+Duration: 4.400 seconds
+Text: It was interesting because we hired a firm because they were supposed to lead a community process.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:17:42.240
+End: 00:17:46.400
+Duration: 4.160 seconds
+Text: And then what happened was that community process was bypassed and we went right to the two
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:17:46.400
+End: 00:17:50.560
+Duration: 4.160 seconds
+Text: middle school model, and then I left town for eight years more time.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:17:51.200
+End: 00:17:53.360
+Duration: 2.160 seconds
+Text: But we didn't have the process.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:17:54.720
+End: 00:18:01.040
+Duration: 6.320 seconds
+Text: You know, I was a pretty advocate of, you know, having a year-long discussion about what we really need,
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:18:01.520
+End: 00:18:03.200
+Duration: 1.680 seconds
+Text: but we rushed to a solution.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:18:03.840
+End: 00:18:06.800
+Duration: 2.960 seconds
+Text: I actually thought the solution was good, so I'm not criticizing that.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:18:06.800
+End: 00:18:08.240
+Duration: 1.440 seconds
+Text: But the process wasn't there.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:18:10.400
+End: 00:18:13.920
+Duration: 3.520 seconds
+Text: So during that process, some things happened, right?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:18:13.920
+End: 00:18:16.000
+Duration: 2.080 seconds
+Text: But I think it'd been consistent in Manhattan.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:18:16.880
+End: 00:18:19.600
+Duration: 2.720 seconds
+Text: One thing is a small group of people got a great idea.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:18:20.560
+End: 00:18:24.480
+Duration: 3.920 seconds
+Text: And they were able to not engage in the public, but sell that idea.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:18:26.320
+End: 00:18:28.480
+Duration: 2.160 seconds
+Text: And actually, I've seen that for like 30 years here.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:18:29.600
+End: 00:18:35.920
+Duration: 6.320 seconds
+Text: We get a small group of people in their little social bubble to come up with a good idea.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:18:36.560
+End: 00:18:40.640
+Duration: 4.080 seconds
+Text: But rather than engaging everybody in this process, they try to sell it.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:18:42.800
+End: 00:18:47.600
+Duration: 4.800 seconds
+Text: So I think that's one way to look at community engagement because I study this, right?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:18:47.600
+End: 00:18:50.320
+Duration: 2.720 seconds
+Text: Come up with a great idea and sell it locally.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:18:50.880
+End: 00:18:57.680
+Duration: 6.800 seconds
+Text: Another solution is, which I've been involved with a lot, is come up with some evidence-based
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:18:57.680
+End: 00:19:01.040
+Duration: 3.360 seconds
+Text: practice or best practice and say, you know more than everybody else locally.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:19:02.240
+End: 00:19:07.120
+Duration: 4.880 seconds
+Text: And then use that as power to convince the local community to do that.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:19:08.400
+End: 00:19:10.800
+Duration: 2.400 seconds
+Text: And in fact, the whole industry is evolved around that.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:19:10.800
+End: 00:19:13.120
+Duration: 2.320 seconds
+Text: It's called consultants, right?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:19:14.000
+End: 00:19:19.920
+Duration: 5.920 seconds
+Text: And I can tell you the wave of the consulting sales job from everything that becomes the
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:19:19.920
+End: 00:19:23.680
+Duration: 3.760 seconds
+Text: thing you can sell the local community. And you say it's evidence-based practice and it really
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:19:23.680
+End: 00:19:28.160
+Duration: 4.480 seconds
+Text: isn't. You just label it that. And then you get the community spend a bunch of money to
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:19:28.160
+End: 00:19:34.080
+Duration: 5.920 seconds
+Text: implement that and use your power to say, do that. So that's one solution.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:19:34.080
+End: 00:19:38.960
+Duration: 4.880 seconds
+Text: And hey, I'm going to college at public health. So, you know, we know better, right?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:19:39.920
+End: 00:19:41.680
+Duration: 1.760 seconds
+Text: And I'm joking about it.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:19:43.360
+End: 00:19:50.080
+Duration: 6.720 seconds
+Text: And then the third community, the third solution, right, is, is, I guess,
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:19:52.000
+End: 00:19:57.760
+Duration: 5.760 seconds
+Text: so I guess I'm mixing things up here a bit. But the third solution is, hey, you know,
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:19:57.760
+End: 00:20:04.560
+Duration: 6.800 seconds
+Text: I come from business. Business has a model to be more efficient. Let's do a hierarchical,
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:20:04.560
+End: 00:20:08.320
+Duration: 3.760 seconds
+Text: talk-down decision-making process and move four weeks because that's how you do it.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:20:10.080
+End: 00:20:14.400
+Duration: 4.320 seconds
+Text: The problem with that though is business is not government. Well, in one key thing,
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:20:14.400
+End: 00:20:20.720
+Duration: 6.320 seconds
+Text: I don't think people understand is community feedback in businesses, do you buy my thing or not?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:20:21.840
+End: 00:20:27.120
+Duration: 5.280 seconds
+Text: Because you're always accountable to the market, right? You're always like, I can do whatever I want
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:20:27.760
+End: 00:20:32.720
+Duration: 4.960 seconds
+Text: in my business. But if people don't buy it, I'm out. That's the feedback process.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:20:33.680
+End: 00:20:42.160
+Duration: 8.480 seconds
+Text: In Manhattan, in government, the feedback process is voting, right? That's two years of waiting
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:20:42.160
+End: 00:20:47.760
+Duration: 5.600 seconds
+Text: to give feedback. Or the feedback process is an unscientifically valid survey that you say is
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:20:47.760
+End: 00:20:53.760
+Duration: 6.000 seconds
+Text: scientific valid so that you can sell your story, right? Because, hey, as you know, market research
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:20:53.760
+End: 00:20:59.680
+Duration: 5.920 seconds
+Text: doesn't, it's really difficult. So it certainly isn't any context. It's not really,
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:20:59.680
+End: 00:21:02.000
+Duration: 2.320 seconds
+Text: not a time. Thank you.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:21:06.240
+End: 00:21:11.040
+Duration: 4.800 seconds
+Text: Anyone else for public comment? Okay?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:21:11.040
+End: 00:21:21.040
+Duration: 10.000 seconds
+Text: Yes. I have something.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:21:29.280
+End: 00:21:31.360
+Duration: 2.080 seconds
+Text: Do I go? Sure, go ahead. You did your sign.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:21:41.040
+End: 00:21:59.360
+Duration: 18.320 seconds
+Text: You'll just need to state your name and address before you start. Yeah, correct.
+--------------------------------------------------
+City Manager:
+Start: 00:21:59.360
+End: 00:22:06.000
+Duration: 6.640 seconds
+Text: Okay. My name is Tessa Anderson. My preferred name is Rowan. I reside at 2, 2, 80 West Chester Drive
+--------------------------------------------------
+City Manager:
+Start: 00:22:06.000
+End: 00:22:11.440
+Duration: 5.440 seconds
+Text: in Manhattan, Kansas, 6, 6, 5, 0, 3. I never got the chance to express my initial concerns for
+--------------------------------------------------
+City Manager:
+Start: 00:22:11.440
+End: 00:22:16.080
+Duration: 4.640 seconds
+Text: our community at the council meeting following Trump's inauguration. And while those concerns still
+--------------------------------------------------
+City Manager:
+Start: 00:22:16.080
+End: 00:22:21.120
+Duration: 5.040 seconds
+Text: stand, they have developed from anticipatory concerns for the future of our nation and our
+--------------------------------------------------
+City Manager:
+Start: 00:22:21.120
+End: 00:22:25.520
+Duration: 4.400 seconds
+Text: Manhattan community to a more complex worries that are based in the exponentially more terrifying
+--------------------------------------------------
+City Manager:
+Start: 00:22:25.520
+End: 00:22:31.040
+Duration: 5.520 seconds
+Text: and quickly changing reality that we are living in. It is undeniable that we are barreling towards
+--------------------------------------------------
+City Manager:
+Start: 00:22:31.040
+End: 00:22:35.440
+Duration: 4.400 seconds
+Text: a fascist state of government ruled by violence and division. You can deny this, but if it looks like
+--------------------------------------------------
+City Manager:
+Start: 00:22:35.440
+End: 00:22:42.720
+Duration: 7.280 seconds
+Text: a fascist duck, waddles like a fascist duck, and in acts policies like a fascist duck, it's probably
+--------------------------------------------------
+City Manager:
+Start: 00:22:42.720
+End: 00:22:48.720
+Duration: 6.000 seconds
+Text: a fascist duck when you agree. I'm having daily conversations with close friends, family and
+--------------------------------------------------
+City Manager:
+Start: 00:22:48.720
+End: 00:22:52.160
+Duration: 3.440 seconds
+Text: strangers in this town of all backgrounds discussing how we are going to make it through this without
+--------------------------------------------------
+City Manager:
+Start: 00:22:52.160
+End: 00:22:57.120
+Duration: 4.960 seconds
+Text: dying or letting other people we love die. I do not trust any of you to care for me, my people,
+--------------------------------------------------
+City Manager:
+Start: 00:22:57.120
+End: 00:23:00.560
+Duration: 3.440 seconds
+Text: and this community, and we will never forgive you when you inevitably abandon the rest of us.
+--------------------------------------------------
+City Manager:
+Start: 00:23:01.520
+End: 00:23:04.880
+Duration: 3.360 seconds
+Text: I won't forgive you when you claim that you did your best and that you thought you were doing
+--------------------------------------------------
+City Manager:
+Start: 00:23:04.880
+End: 00:23:10.160
+Duration: 5.280 seconds
+Text: the right thing because I'm telling you now that you were not. I hope that the decisions that
+--------------------------------------------------
+City Manager:
+Start: 00:23:10.160
+End: 00:23:14.240
+Duration: 4.080 seconds
+Text: you have made and the decisions that you get you are inevitably going to make because of your
+--------------------------------------------------
+City Manager:
+Start: 00:23:14.240
+End: 00:23:18.640
+Duration: 4.400 seconds
+Text: indifference towards human beings who are not similar to you, you make absolutely no peace with.
+--------------------------------------------------
+City Manager:
+Start: 00:23:19.920
+End: 00:23:23.600
+Duration: 3.680 seconds
+Text: I hope that you look around at what is happening, I hope you understand and or figure out what
+--------------------------------------------------
+City Manager:
+Start: 00:23:23.600
+End: 00:23:31.120
+Duration: 7.520 seconds
+Text: your responsibility is here and that you can act to change at any point. I hope that someday you act
+--------------------------------------------------
+City Manager:
+Start: 00:23:31.120
+End: 00:23:37.760
+Duration: 6.640 seconds
+Text: and think, act forward and think more about people than profit and pride. We all know that each
+--------------------------------------------------
+City Manager:
+Start: 00:23:37.760
+End: 00:23:42.640
+Duration: 4.880 seconds
+Text: and every one of you shuts your ears and falls asleep when it's time to hear the public opinion.
+--------------------------------------------------
+City Manager:
+Start: 00:23:42.640
+End: 00:23:49.440
+Duration: 6.800 seconds
+Text: You work so hard, you are so important and you deserve to get some rest from all the hard work
+--------------------------------------------------
+City Manager:
+Start: 00:23:49.440
+End: 00:23:52.880
+Duration: 3.440 seconds
+Text: you've been doing which is why I was so surprised to learn that you shorten the amount of time for
+--------------------------------------------------
+City Manager:
+Start: 00:23:52.880
+End: 00:23:58.720
+Duration: 5.840 seconds
+Text: us to speak. Are you sure that 30 minutes will be long enough? Was nap time a little too long?
+--------------------------------------------------
+City Manager:
+Start: 00:23:59.520
+End: 00:24:03.760
+Duration: 4.240 seconds
+Text: I also wake up groggy and unable to make thoughtful decisions after too long of a nap. Either way,
+--------------------------------------------------
+City Manager:
+Start: 00:24:03.760
+End: 00:24:07.760
+Duration: 4.000 seconds
+Text: I hope that you get some rest for all this hard work that you are doing. If you need resources on how
+--------------------------------------------------
+City Manager:
+Start: 00:24:07.760
+End: 00:24:12.000
+Duration: 4.240 seconds
+Text: to get more at rest, I'm sure someone in the community will be willing to support you and provide
+--------------------------------------------------
+City Manager:
+Start: 00:24:12.000
+End: 00:24:16.240
+Duration: 4.240 seconds
+Text: the help that you need to get the rest you deserve. I'm not sure who, but someone surely.
+--------------------------------------------------
+City Manager:
+Start: 00:24:19.200
+End: 00:24:23.760
+Duration: 4.560 seconds
+Text: These words aren't really for you, but for us the people to look back and say I told you so.
+--------------------------------------------------
+City Manager:
+Start: 00:24:24.560
+End: 00:24:28.640
+Duration: 4.080 seconds
+Text: If you manage to wake up and hear anything here this, the community does not forgive you for
+--------------------------------------------------
+City Manager:
+Start: 00:24:28.640
+End: 00:24:31.920
+Duration: 3.280 seconds
+Text: the heartless decisions that you have made and we will not forgive you for the violence you will
+--------------------------------------------------
+City Manager:
+Start: 00:24:31.920
+End: 00:24:38.960
+Duration: 7.040 seconds
+Text: claim to have made. For the violence that you will claim to have had no other choice you have
+--------------------------------------------------
+City Manager:
+Start: 00:24:38.960
+End: 00:24:44.080
+Duration: 5.120 seconds
+Text: committed, I personally do not forgive you for the heartless decisions that you have made and I
+--------------------------------------------------
+City Manager:
+Start: 00:24:44.080
+End: 00:24:49.120
+Duration: 5.040 seconds
+Text: will not forgive you for the violence you will claim to have had no other choice to have committed.
+--------------------------------------------------
+City Manager:
+Start: 00:24:49.120
+End: 00:24:56.120
+Duration: 7.000 seconds
+Text: As expressed by the Commissioner at the previous Commission's meeting, good night.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:24:56.120
+End: 00:25:01.120
+Duration: 5.000 seconds
+Text: Thank you, anybody else? Please come up.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:25:08.120
+End: 00:25:10.120
+Duration: 2.000 seconds
+Text: Sign in before I start.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:25:10.120
+End: 00:25:13.120
+Duration: 3.000 seconds
+Text: Great.
+--------------------------------------------------
+City Manager:
+Start: 00:25:19.120
+End: 00:25:35.120
+Duration: 16.000 seconds
+Text: Good evening. My name is Olivia Riley. I live at 108 East Butterfield Road in Norfolk.
+--------------------------------------------------
+City Manager:
+Start: 00:25:35.120
+End: 00:25:41.120
+Duration: 6.000 seconds
+Text: I approach this podium with the sincere belief that all of you are trying your best.
+--------------------------------------------------
+City Manager:
+Start: 00:25:41.120
+End: 00:25:48.120
+Duration: 7.000 seconds
+Text: I believe that each and every one of you entered into this position with good thoughts, good hopes, good dreams.
+--------------------------------------------------
+City Manager:
+Start: 00:25:48.120
+End: 00:25:54.120
+Duration: 6.000 seconds
+Text: That desire to serve your community and improve it and bring wealth and prosperity.
+--------------------------------------------------
+City Manager:
+Start: 00:25:54.120
+End: 00:26:01.120
+Duration: 7.000 seconds
+Text: I would sincerely hope that you listen to me when I say that your decision is counterintuitive to that goal.
+--------------------------------------------------
+City Manager:
+Start: 00:26:01.120
+End: 00:26:09.120
+Duration: 8.000 seconds
+Text: Government is not a business. Government is not something to be done in the most efficient manner possible.
+--------------------------------------------------
+City Manager:
+Start: 00:26:09.120
+End: 00:26:17.120
+Duration: 8.000 seconds
+Text: You operate in a community that has thoughts and feelings and cutting off their ability to communicate that can only build resentment.
+--------------------------------------------------
+City Manager:
+Start: 00:26:17.120
+End: 00:26:24.120
+Duration: 7.000 seconds
+Text: It harms your legitimacy and it harms the general sentiment towards you.
+--------------------------------------------------
+City Manager:
+Start: 00:26:24.120
+End: 00:26:30.120
+Duration: 6.000 seconds
+Text: In fact, it harms my sentiment towards you. I should be home cooking dinner for my spouse. It's their birthday.
+--------------------------------------------------
+City Manager:
+Start: 00:26:30.120
+End: 00:26:34.120
+Duration: 4.000 seconds
+Text: I have work at five in the morning. I would like to be in bed by eight.
+--------------------------------------------------
+City Manager:
+Start: 00:26:34.120
+End: 00:26:44.120
+Duration: 10.000 seconds
+Text: I have a feeling after the decision, the proposed decision that you guys have made, I will not be able to settle until at least midnight.
+--------------------------------------------------
+City Manager:
+Start: 00:26:44.120
+End: 00:26:50.120
+Duration: 6.000 seconds
+Text: I really don't have much else to say. I have no desire to tear into any one of you in particular.
+--------------------------------------------------
+City Manager:
+Start: 00:26:50.120
+End: 00:26:56.120
+Duration: 6.000 seconds
+Text: But I would ask that you hear my sincere plea to not go forward on this decision.
+--------------------------------------------------
+City Manager:
+Start: 00:26:56.120
+End: 00:27:04.120
+Duration: 8.000 seconds
+Text: And know with the full, my full resolve that if you do choose to do so, I will spend every day until your next election,
+--------------------------------------------------
+City Manager:
+Start: 00:27:04.120
+End: 00:27:07.120
+Duration: 3.000 seconds
+Text: campaigning against each and every one of you. Have a good day.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:27:07.120
+End: 00:27:13.120
+Duration: 6.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:27:13.120
+End: 00:27:25.120
+Duration: 12.000 seconds
+Text: Anybody else going to pop up? No. Then I will close public comments and turn to commission comments.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:27:25.120
+End: 00:27:35.120
+Duration: 10.000 seconds
+Text: So I am having a coffee next Saturday, the 15th at nine o'clock in the gross back room of the Manhattan Public Library.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:27:35.120
+End: 00:27:41.120
+Duration: 6.000 seconds
+Text: Anybody please come and have some really good constructive dialogue. I will bring coffee and donuts.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:27:41.120
+End: 00:27:47.120
+Duration: 6.000 seconds
+Text: So I'd love to see all of you there to have a good conversation. Thank you.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:27:47.120
+End: 00:27:49.120
+Duration: 2.000 seconds
+Text: Susan.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:27:49.120
+End: 00:27:53.120
+Duration: 4.000 seconds
+Text: Okay. I would just say that what?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:27:53.120
+End: 00:27:55.120
+Duration: 2.000 seconds
+Text: Sure.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:27:55.120
+End: 00:28:07.120
+Duration: 12.000 seconds
+Text: I just would like to acknowledge Katie his comment. We did discuss what actions we might be able to take in the current environment.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:28:07.120
+End: 00:28:24.120
+Duration: 17.000 seconds
+Text: Emphasis focusing on migrants to our community. We did discuss it at our retreat as was reported at the Mercury and we agreed that we would continue to have that discussion.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:28:24.120
+End: 00:28:33.120
+Duration: 9.000 seconds
+Text: I'd just like to say we haven't adopted this policy yet. We're going to talk about it on February 11th.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:28:33.120
+End: 00:28:47.120
+Duration: 14.000 seconds
+Text: I do hear what you have to say and I'm very concerned with the polarization of comments and the fact that I feel that the public does not have the trust in us that they have had in the past.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:28:47.120
+End: 00:28:57.120
+Duration: 10.000 seconds
+Text: I personally think that I need to hear from everyone. Obviously those nights can go on all along and so putting some time limits would be reasonable.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:28:57.120
+End: 00:29:06.120
+Duration: 9.000 seconds
+Text: Perhaps asking at the beginning of the meeting how many people want to speak and then saying three minutes a person if you've got 20 people out there.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:29:06.120
+End: 00:29:14.120
+Duration: 8.000 seconds
+Text: I ran for this position because I want to represent people not just my own feelings.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:29:14.120
+End: 00:29:24.120
+Duration: 10.000 seconds
+Text: We've talked this over but I think on the 11th we'll talk it over some more and please come and talk to us and bring your thoughts.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:29:24.120
+End: 00:29:31.120
+Duration: 7.000 seconds
+Text: There's a lot to what Dr. Davy Chowsky said about hearing the other side of the position and not just from consultants.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:29:31.120
+End: 00:29:39.120
+Duration: 8.000 seconds
+Text: I always think about the music man when he comes to Mason City with telling everybody they had to have an instrument and talk to them all.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:29:39.120
+End: 00:29:46.120
+Duration: 7.000 seconds
+Text: It's something that they might not have done.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:29:46.120
+End: 00:29:55.120
+Duration: 9.000 seconds
+Text: I'm saddened to hear comments in the public about people who are not what I call bland white.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:29:55.120
+End: 00:30:06.120
+Duration: 11.000 seconds
+Text: One of I am on the Manhattan Area Housing Partnership and one of our renters who is very happy there cautioned me about one of our maintenance men who is Colombian.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:30:06.120
+End: 00:30:10.120
+Duration: 4.000 seconds
+Text: He's been here for 40 years so he's American.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:30:10.120
+End: 00:30:27.120
+Duration: 17.000 seconds
+Text: In the future I don't know what the City Commission can do to build trust, to build positive looks that people who perhaps don't mirror what we think.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:30:27.120
+End: 00:30:30.120
+Duration: 3.000 seconds
+Text: I hope we can work on that.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:30:30.120
+End: 00:30:33.120
+Duration: 3.000 seconds
+Text: Okay, the consent agenda.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:30:33.120
+End: 00:30:43.120
+Duration: 10.000 seconds
+Text: Items on the consent agenda are those of a routine and help housekeeping nature or those items which have been previously reviewed by the City Commission and may be approved in one motion.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:30:43.120
+End: 00:30:50.120
+Duration: 7.000 seconds
+Text: A commissioner may request an item to be removed from separate discussion and considered immediately following the consent agenda.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:30:50.120
+End: 00:30:52.120
+Duration: 2.000 seconds
+Text: Comment from the public.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:30:52.120
+End: 00:30:57.120
+Duration: 5.000 seconds
+Text: Relay to any item on the consent agenda or to the City Commission is allowed.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:30:57.120
+End: 00:31:02.120
+Duration: 5.000 seconds
+Text: Each person will be limited one speaking opportunity for five minutes.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:31:02.120
+End: 00:31:07.120
+Duration: 5.000 seconds
+Text: Okay, so any comments are a consent agenda?
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:31:07.120
+End: 00:31:08.120
+Duration: 1.000 seconds
+Text: Questions?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:31:08.120
+End: 00:31:10.120
+Duration: 2.000 seconds
+Text: Talks?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:31:10.120
+End: 00:31:16.120
+Duration: 6.000 seconds
+Text: The move that we approve.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:31:16.120
+End: 00:31:19.120
+Duration: 3.000 seconds
+Text: Try not to sound so disappointed.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:31:19.120
+End: 00:31:22.120
+Duration: 3.000 seconds
+Text: Amber Hausten for zero eight Houston Street.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:31:22.120
+End: 00:31:24.120
+Duration: 2.000 seconds
+Text: It is clear that this commission lacks vision.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:31:24.120
+End: 00:31:32.120
+Duration: 8.000 seconds
+Text: You think that we're competing with other cities for tourist dollars and that we should cater to out of towners who want weekend condos instead of our own tax paying citizens.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:31:32.120
+End: 00:31:38.120
+Duration: 6.000 seconds
+Text: That narrow point of view if left in a position as powerful as yours will ultimately kill the city we love.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:31:38.120
+End: 00:31:48.120
+Duration: 10.000 seconds
+Text: The only cities that will survive the deepening recession worsening political climate and the devastating effects of climate change on our supply lines and resources will be the ones that face these threats head on.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:31:48.120
+End: 00:31:49.120
+Duration: 1.000 seconds
+Text: Amber.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:31:49.120
+End: 00:31:51.120
+Duration: 2.000 seconds
+Text: How does this relate to anything?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:31:51.120
+End: 00:31:54.120
+Duration: 3.000 seconds
+Text: This relates to the mud hole.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:31:54.120
+End: 00:31:56.120
+Duration: 2.000 seconds
+Text: It's not on our consent agenda.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:31:56.120
+End: 00:31:58.120
+Duration: 2.000 seconds
+Text: The mud hole is not on the consent agenda?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:31:58.120
+End: 00:31:59.120
+Duration: 1.000 seconds
+Text: No.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:31:59.120
+End: 00:32:00.120
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:32:00.120
+End: 00:32:01.120
+Duration: 1.000 seconds
+Text: Thank you very much.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:32:01.120
+End: 00:32:02.120
+Duration: 1.000 seconds
+Text: Very good. Thank you.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:32:02.120
+End: 00:32:03.120
+Duration: 1.000 seconds
+Text: I'll save it for next time.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:32:03.120
+End: 00:32:10.120
+Duration: 7.000 seconds
+Text: Mayor, I do believe Amber is referring to the comment the Midtown Land Company LLC.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:32:10.120
+End: 00:32:12.120
+Duration: 2.000 seconds
+Text: Yeah, that would be the mud.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:32:12.120
+End: 00:32:13.120
+Duration: 1.000 seconds
+Text: I'm sorry.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:32:13.120
+End: 00:32:14.120
+Duration: 1.000 seconds
+Text: I don't know the legal description of the mud hole.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:32:14.120
+End: 00:32:26.120
+Duration: 12.000 seconds
+Text: I think I don't think that we're talking about this refers to the handicap or not.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:32:26.120
+End: 00:32:27.120
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:32:27.120
+End: 00:32:29.120
+Duration: 2.000 seconds
+Text: What's going on the handicap or not?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:32:29.120
+End: 00:32:36.120
+Duration: 7.000 seconds
+Text: We are terminating the agreement with the company as a result of doing what?
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:32:36.120
+End: 00:32:44.120
+Duration: 8.000 seconds
+Text: Well, Amber, I don't think this, you know, come back to us next week with if you have something to say, but this doesn't have anything to do with the hearing.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:32:44.120
+End: 00:32:45.120
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:32:45.120
+End: 00:32:48.120
+Duration: 3.000 seconds
+Text: So I see a note.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:32:48.120
+End: 00:32:50.120
+Duration: 2.000 seconds
+Text: The item is being removed from the consent agenda.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:32:50.120
+End: 00:32:53.120
+Duration: 3.000 seconds
+Text: Do I hear a motion to approve the consent agenda?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:32:53.120
+End: 00:32:56.120
+Duration: 3.000 seconds
+Text: I move that we approve the consent agenda.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:32:56.120
+End: 00:32:57.120
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:32:57.120
+End: 00:32:58.120
+Duration: 1.000 seconds
+Text: It's been moving second.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:32:58.120
+End: 00:32:59.120
+Duration: 1.000 seconds
+Text: All in favor?
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:32:59.120
+End: 00:33:00.120
+Duration: 1.000 seconds
+Text: Clerk, we call the role.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:33:00.120
+End: 00:33:01.120
+Duration: 1.000 seconds
+Text: Mr. Adam Jack?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:33:01.120
+End: 00:33:02.120
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:33:02.120
+End: 00:33:03.120
+Duration: 1.000 seconds
+Text: Mr. O'Palt?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:33:03.120
+End: 00:33:04.120
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 00:33:04.120
+End: 00:33:05.120
+Duration: 1.000 seconds
+Text: Mr. Mata?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:33:05.120
+End: 00:33:05.620
+Duration: 0.500 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:33:05.620
+End: 00:33:06.620
+Duration: 1.000 seconds
+Text: Mr. Mitten?
+--------------------------------------------------
+Katie Smith:
+Start: 00:33:06.620
+End: 00:33:07.620
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:33:07.620
+End: 00:33:08.620
+Duration: 1.000 seconds
+Text: Mayor McCullough?
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:33:08.620
+End: 00:33:09.620
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:33:09.620
+End: 00:33:10.620
+Duration: 1.000 seconds
+Text: Motion carries.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:33:10.620
+End: 00:33:11.620
+Duration: 1.000 seconds
+Text: Five to zero.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:33:11.620
+End: 00:33:12.620
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:33:12.620
+End: 00:33:14.620
+Duration: 2.000 seconds
+Text: The next is a public hearing.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:33:14.620
+End: 00:33:17.620
+Duration: 3.000 seconds
+Text: The procedure here is the same as always.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:33:17.620
+End: 00:33:20.620
+Duration: 3.000 seconds
+Text: We have up to five minutes to make a comment.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:33:20.620
+End: 00:33:29.620
+Duration: 9.000 seconds
+Text: There's only one item on that and that's considering levying special assessments for 14 public improvement districts.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:33:29.620
+End: 00:33:30.620
+Duration: 1.000 seconds
+Text: Here comes the re-activity.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:33:30.620
+End: 00:33:31.620
+Duration: 1.000 seconds
+Text: That's the word.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:33:31.620
+End: 00:33:32.620
+Duration: 1.000 seconds
+Text: Looking lovely.
+--------------------------------------------------
+City Manager:
+Start: 00:33:32.620
+End: 00:33:33.620
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:33:33.620
+End: 00:33:40.620
+Duration: 7.000 seconds
+Text: Good evening, Mayor and commissioners.
+--------------------------------------------------
+City Manager:
+Start: 00:33:40.620
+End: 00:33:45.620
+Duration: 5.000 seconds
+Text: Good evening, Mayor and commissioners.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:33:45.620
+End: 00:33:48.620
+Duration: 3.000 seconds
+Text: Let's see.
+--------------------------------------------------
+City Manager:
+Start: 00:33:48.620
+End: 00:33:57.620
+Duration: 9.000 seconds
+Text: Tonight, we are having a public hearing over our special assessment projects that will be bonded with the May 2025 bond issue.
+--------------------------------------------------
+City Manager:
+Start: 00:33:57.620
+End: 00:34:07.620
+Duration: 10.000 seconds
+Text: We have a special assessment project.
+--------------------------------------------------
+City Manager:
+Start: 00:34:07.620
+End: 00:34:08.620
+Duration: 1.000 seconds
+Text: I count 14.
+--------------------------------------------------
+City Manager:
+Start: 00:34:08.620
+End: 00:34:09.620
+Duration: 1.000 seconds
+Text: Maybe 13.
+--------------------------------------------------
+City Manager:
+Start: 00:34:09.620
+End: 00:34:13.620
+Duration: 4.000 seconds
+Text: All beneficiaries were established by a petition and a resolution.
+--------------------------------------------------
+City Manager:
+Start: 00:34:13.620
+End: 00:34:22.620
+Duration: 9.000 seconds
+Text: On January 21st, the commission said tonight as the date to hold a public hearing, all property owners were notified by letter about the amount and purpose of their assessment.
+--------------------------------------------------
+City Manager:
+Start: 00:34:22.620
+End: 00:34:26.620
+Duration: 4.000 seconds
+Text: The notice was published in the Manhattan Mercury.
+--------------------------------------------------
+City Manager:
+Start: 00:34:26.620
+End: 00:34:32.620
+Duration: 6.000 seconds
+Text: The purpose of the hearing is to hear questions or objections from property owners concerning their assessments.
+--------------------------------------------------
+City Manager:
+Start: 00:34:32.620
+End: 00:34:40.620
+Duration: 8.000 seconds
+Text: As of today, I have not received any phone calls regarding those calculations or any technical issues regarding the assessments.
+--------------------------------------------------
+City Manager:
+Start: 00:34:40.620
+End: 00:34:43.620
+Duration: 3.000 seconds
+Text: The cost information is on the slide in front of you.
+--------------------------------------------------
+City Manager:
+Start: 00:34:43.620
+End: 00:34:55.620
+Duration: 12.000 seconds
+Text: We have Candlewood shopping, center of turn lanes, some Highland at Grand Mears, Sourstreet and Water Improvements, Staghill Golf Course Waterline, Elijah Edition, and Henry Edition.
+--------------------------------------------------
+City Manager:
+Start: 00:34:55.620
+End: 00:34:57.620
+Duration: 2.000 seconds
+Text: We have Sourstreet and Water Improvements as well.
+--------------------------------------------------
+City Manager:
+Start: 00:34:57.620
+End: 00:35:03.620
+Duration: 6.000 seconds
+Text: The site walk for Genesis Health Clubs and then the Staghill Business Community Edition, Sourc and Water Extensions.
+--------------------------------------------------
+City Manager:
+Start: 00:35:03.620
+End: 00:35:24.620
+Duration: 21.000 seconds
+Text: The total is $387,324.20 of which $12,419 is related to the city at large, which we will pay cash for from the water and storm water funds, which leaves 3.175 to bond.
+--------------------------------------------------
+City Manager:
+Start: 00:35:24.620
+End: 00:35:30.620
+Duration: 6.000 seconds
+Text: Here is a map of all of the improvements across the city.
+--------------------------------------------------
+City Manager:
+Start: 00:35:30.620
+End: 00:35:37.620
+Duration: 7.000 seconds
+Text: And then this map just provides the estimated special assessment amount per lot annually.
+--------------------------------------------------
+City Manager:
+Start: 00:35:37.620
+End: 00:35:42.620
+Duration: 5.000 seconds
+Text: So this is for Candlewood and it's just the one lot.
+--------------------------------------------------
+City Manager:
+Start: 00:35:42.620
+End: 00:35:47.620
+Duration: 5.000 seconds
+Text: Highlands at Grand Mears Unit 2, they have lots 30 to 37.
+--------------------------------------------------
+City Manager:
+Start: 00:35:47.620
+End: 00:36:00.620
+Duration: 13.000 seconds
+Text: There was an unplated tract for the Sour improvement that was paid in full already and the street and water improvements did not relate to the unplated tract.
+--------------------------------------------------
+City Manager:
+Start: 00:36:00.620
+End: 00:36:12.620
+Duration: 12.000 seconds
+Text: The Staghill Golf Club, the water improvement is related to an unplated tract and that amount is reflected of $7,992.69.
+--------------------------------------------------
+City Manager:
+Start: 00:36:12.620
+End: 00:36:26.620
+Duration: 14.000 seconds
+Text: Elijah Edition has 24 lots and the Sourc and Water improvements annually are reflected and they are estimated at $5,225.62 per lot.
+--------------------------------------------------
+City Manager:
+Start: 00:36:26.620
+End: 00:36:31.620
+Duration: 5.000 seconds
+Text: Here is a map of Elijah Edition, Henry Edition.
+--------------------------------------------------
+City Manager:
+Start: 00:36:31.620
+End: 00:36:40.620
+Duration: 9.000 seconds
+Text: They were originally lots 1 through 7. However, Lot 3 was replanted into Henry Edition Unit 2, Lot 1.
+--------------------------------------------------
+City Manager:
+Start: 00:36:40.620
+End: 00:36:50.620
+Duration: 10.000 seconds
+Text: So Sourc, Street and Water for those 7 lots total $6,746.11 a year estimated.
+--------------------------------------------------
+City Manager:
+Start: 00:36:50.620
+End: 00:36:54.620
+Duration: 4.000 seconds
+Text: Here is a map of Henry Edition.
+--------------------------------------------------
+City Manager:
+Start: 00:36:54.620
+End: 00:37:04.620
+Duration: 10.000 seconds
+Text: And then the Genesis Health Club sidewalk and that is estimated at $2,067.66.
+--------------------------------------------------
+City Manager:
+Start: 00:37:04.620
+End: 00:37:12.620
+Duration: 8.000 seconds
+Text: And then we have this Staghill Business Community extension of the water and sewer for lots 1, 2, and 3.
+--------------------------------------------------
+City Manager:
+Start: 00:37:12.620
+End: 00:37:17.620
+Duration: 5.000 seconds
+Text: And those are estimated at $4,242.84 a year.
+--------------------------------------------------
+City Manager:
+Start: 00:37:18.620
+End: 00:37:33.620
+Duration: 15.000 seconds
+Text: Our next steps approve the special assessment ordinance in two weeks on February 18th and then property owners will receive a second letter after that date which will give them 30 days to pay off and that payment is by March 21st.
+--------------------------------------------------
+City Manager:
+Start: 00:37:33.620
+End: 00:37:46.620
+Duration: 13.000 seconds
+Text: If they are not paid, the assessments will be bonded in May and amortized over 20 years and we anticipate having our bond sale on Thursday May 15th, 2025 and the assessments will appear on the November 2025 tax statements.
+--------------------------------------------------
+City Manager:
+Start: 00:37:47.620
+End: 00:37:51.620
+Duration: 4.000 seconds
+Text: Yes ma'am.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:37:51.620
+End: 00:37:58.620
+Duration: 7.000 seconds
+Text: I have one and I'm sorry, Renem, betraying my ignorance here. The work and all of the, this has all been done.
+--------------------------------------------------
+City Manager:
+Start: 00:37:58.620
+End: 00:38:03.620
+Duration: 5.000 seconds
+Text: Yes, it's all completely issued temporary notes and it's just time to pay off those notes.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:38:03.620
+End: 00:38:11.620
+Duration: 8.000 seconds
+Text: So this is repayment of what the city has spent now being conveyed to the owners of those properties.
+--------------------------------------------------
+City Manager:
+Start: 00:38:11.620
+End: 00:38:12.620
+Duration: 1.000 seconds
+Text: Yes ma'am.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:38:12.620
+End: 00:38:13.620
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:38:14.620
+End: 00:38:17.620
+Duration: 3.000 seconds
+Text: And there is your off.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:38:17.620
+End: 00:38:21.620
+Duration: 4.000 seconds
+Text: There's a small amount of money that comes to the city for facilitating these.
+--------------------------------------------------
+City Manager:
+Start: 00:38:21.620
+End: 00:38:25.620
+Duration: 4.000 seconds
+Text: Yes, we do have an administrative fee. Yes we do.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:38:25.620
+End: 00:38:26.620
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:38:26.620
+End: 00:38:27.620
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:38:27.620
+End: 00:38:37.620
+Duration: 10.000 seconds
+Text: Reno, what was the portion on Genesis and Henry addition that the city, do you know what that was for? Like why we have a city portion on those two?
+--------------------------------------------------
+City Manager:
+Start: 00:38:37.620
+End: 00:38:38.620
+Duration: 1.000 seconds
+Text: I can look them up.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:38:38.620
+End: 00:38:39.620
+Duration: 1.000 seconds
+Text: Sorry, I can try to get back in.
+--------------------------------------------------
+City Manager:
+Start: 00:38:39.620
+End: 00:38:44.620
+Duration: 5.000 seconds
+Text: It's over sizing if it's related to a water line or a street or sewer line.
+--------------------------------------------------
+City Manager:
+Start: 00:38:44.620
+End: 00:38:50.620
+Duration: 6.000 seconds
+Text: I can look up the Genesis Health Club one real quick.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:38:50.620
+End: 00:38:54.620
+Duration: 4.000 seconds
+Text: That was more curiosity to understand that's not necessarily the nature of the public hearing.
+--------------------------------------------------
+City Manager:
+Start: 00:38:54.620
+End: 00:38:55.620
+Duration: 1.000 seconds
+Text: That's fine.
+--------------------------------------------------
+City Manager:
+Start: 00:39:07.620
+End: 00:39:28.620
+Duration: 21.000 seconds
+Text: I will look for that.
+--------------------------------------------------
+City Manager:
+Start: 00:39:28.620
+End: 00:39:35.620
+Duration: 7.000 seconds
+Text: If you want to open up for public comment, the open up the public hearing that's would be good, but I can after.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:39:35.620
+End: 00:39:44.620
+Duration: 9.000 seconds
+Text: So when we have these property owners already been paying from when we temp noted or there.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:39:44.620
+End: 00:39:52.620
+Duration: 8.000 seconds
+Text: But they were they aware when we did the, because we had to establish these districts months like.
+--------------------------------------------------
+City Manager:
+Start: 00:39:53.620
+End: 00:40:01.620
+Duration: 8.000 seconds
+Text: So some of these petitions were submitted in 2019.
+--------------------------------------------------
+City Manager:
+Start: 00:40:01.620
+End: 00:40:03.620
+Duration: 2.000 seconds
+Text: The Genesis Health Club was 2016.
+--------------------------------------------------
+City Manager:
+Start: 00:40:03.620
+End: 00:40:07.620
+Duration: 4.000 seconds
+Text: So the property owner at the time may have been just a developer.
+--------------------------------------------------
+City Manager:
+Start: 00:40:07.620
+End: 00:40:08.620
+Duration: 1.000 seconds
+Text: Sure.
+--------------------------------------------------
+City Manager:
+Start: 00:40:08.620
+End: 00:40:16.620
+Duration: 8.000 seconds
+Text: So when lots were sold, those developers would and should have relayed that information to the buyers of the lots.
+--------------------------------------------------
+City Manager:
+Start: 00:40:16.620
+End: 00:40:28.620
+Duration: 12.000 seconds
+Text: So during that time frame, if a lot is purchased, we will at times get inquiries from a realtor, a title company, a potential buyer.
+--------------------------------------------------
+City Manager:
+Start: 00:40:28.620
+End: 00:40:32.620
+Duration: 4.000 seconds
+Text: I can't say that we've crossed every single property owner.
+--------------------------------------------------
+City Manager:
+Start: 00:40:32.620
+End: 00:40:45.620
+Duration: 13.000 seconds
+Text: Some of them are still in the developer's hands, but it's up to that developer to provide that information to whoever is purchasing the lot that there will be special assessments within three to four years.
+--------------------------------------------------
+City Manager:
+Start: 00:40:45.620
+End: 00:40:50.620
+Duration: 5.000 seconds
+Text: So I think that's the point of the petition being approved by the city commission.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:40:50.620
+End: 00:40:51.620
+Duration: 1.000 seconds
+Text: Okay. Thank you.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:40:51.620
+End: 00:40:52.620
+Duration: 1.000 seconds
+Text: You're welcome.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:40:52.620
+End: 00:40:55.620
+Duration: 3.000 seconds
+Text: I think what's sad is that some people just don't put those things together in their head.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:40:55.620
+End: 00:41:08.620
+Duration: 13.000 seconds
+Text: And then they get their first big tax bill and they don't see the difference between specials and they're probably coming, you know, and they come to you and say, I'm paying, you know, and you say, well, you're probably paying X number of specials too.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:41:08.620
+End: 00:41:14.620
+Duration: 6.000 seconds
+Text: And so it is hard just to make sure everybody is cognizant of what's happening because it doesn't happen right away.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:41:14.620
+End: 00:41:20.620
+Duration: 6.000 seconds
+Text: If you have a good banker, they'll figure out that.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:41:20.620
+End: 00:41:28.620
+Duration: 8.000 seconds
+Text: Well, you know, sometimes the property is sold before we get to the, you know, right when you go to get when you go to get the mortgage.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:41:28.620
+End: 00:41:31.620
+Duration: 3.000 seconds
+Text: Yeah, usually they're usually going to want to figure that out.
+--------------------------------------------------
+City Manager:
+Start: 00:41:31.620
+End: 00:41:32.620
+Duration: 1.000 seconds
+Text: Yeah, good.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:41:32.620
+End: 00:41:34.620
+Duration: 2.000 seconds
+Text: And good point.
+--------------------------------------------------
+City Manager:
+Start: 00:41:34.620
+End: 00:41:42.620
+Duration: 8.000 seconds
+Text: And the resolutions that are approved by the city commission are sent to the register of the eats.
+--------------------------------------------------
+City Manager:
+Start: 00:41:42.620
+End: 00:41:49.620
+Duration: 7.000 seconds
+Text: So when people are inquiring about lots, that information should be reflected and then they can contact us as well.
+--------------------------------------------------
+City Manager:
+Start: 00:41:49.620
+End: 00:42:00.620
+Duration: 11.000 seconds
+Text: I think I found the information about Genesis and what is going on with that city at large amount.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:42:00.620
+End: 00:42:05.620
+Duration: 5.000 seconds
+Text: And I know you went over it, but everyone was notified of all these numbers and everything.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:42:05.620
+End: 00:42:08.620
+Duration: 3.000 seconds
+Text: Yeah, for their lots, all the property owners of a record.
+--------------------------------------------------
+City Manager:
+Start: 00:42:08.620
+End: 00:42:12.620
+Duration: 4.000 seconds
+Text: Yes, so we get the information from the county.
+--------------------------------------------------
+City Manager:
+Start: 00:42:12.620
+End: 00:42:24.620
+Duration: 12.000 seconds
+Text: And according to the memo from June 6, 2017's meeting, we own 15, approximately 15% of the total frontage of the sidewalk.
+--------------------------------------------------
+City Manager:
+Start: 00:42:24.620
+End: 00:42:27.620
+Duration: 3.000 seconds
+Text: So that's why we're paying for that.
+--------------------------------------------------
+City Manager:
+Start: 00:42:27.620
+End: 00:42:30.620
+Duration: 3.000 seconds
+Text: For the Genesis health.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:42:30.620
+End: 00:42:31.620
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Manager:
+Start: 00:42:31.620
+End: 00:42:33.620
+Duration: 2.000 seconds
+Text: You're welcome.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:42:33.620
+End: 00:42:35.620
+Duration: 2.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Manager:
+Start: 00:42:35.620
+End: 00:42:38.620
+Duration: 3.000 seconds
+Text: I will step aside for public hearing.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:42:38.620
+End: 00:42:42.620
+Duration: 4.000 seconds
+Text: Any public comment?
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:42:42.620
+End: 00:42:44.620
+Duration: 2.000 seconds
+Text: Oh, yeah.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:42:44.620
+End: 00:43:02.620
+Duration: 18.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:43:02.620
+End: 00:43:03.620
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:43:03.620
+End: 00:43:06.620
+Duration: 3.000 seconds
+Text: There are other people who would comment, but we just got our letters yesterday.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:43:06.620
+End: 00:43:07.620
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:43:07.620
+End: 00:43:10.620
+Duration: 3.000 seconds
+Text: Would you like to sit down because we only allow one person at the podium.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:43:10.620
+End: 00:43:22.620
+Duration: 12.000 seconds
+Text: Maybe I should go sit down and do that.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:43:22.620
+End: 00:43:28.620
+Duration: 6.000 seconds
+Text: I'm Marlow Clauson and we live at 3915 Victory Drive.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:43:28.620
+End: 00:43:36.620
+Duration: 8.000 seconds
+Text: And like she was saying, we just got our letter yesterday with a note from the postal service saying that it was found loose in the mail.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:43:36.620
+End: 00:43:39.620
+Duration: 3.000 seconds
+Text: But it had been sent out January 23.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:43:39.620
+End: 00:43:42.620
+Duration: 3.000 seconds
+Text: So we just got it yesterday.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:43:42.620
+End: 00:43:46.620
+Duration: 4.000 seconds
+Text: We've been here before concerning the issue of special assessments.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:43:46.620
+End: 00:43:51.620
+Duration: 5.000 seconds
+Text: We have spoken to numerous people involved with special assessments and have been told various things.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:43:51.620
+End: 00:43:55.620
+Duration: 4.000 seconds
+Text: I'm going to cut to the topic of that we have at hand here.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:43:55.620
+End: 00:43:57.620
+Duration: 2.000 seconds
+Text: We are 100%.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:43:57.620
+End: 00:44:04.620
+Duration: 7.000 seconds
+Text: We 100% object to how these special assessments are calculated and distributed.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:44:04.620
+End: 00:44:11.620
+Duration: 7.000 seconds
+Text: We came up here to retire and live in our dream spot, which is up here on Victory Drive.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:44:11.620
+End: 00:44:14.620
+Duration: 3.000 seconds
+Text: We were the first ones who took up residence there.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:44:14.620
+End: 00:44:23.620
+Duration: 9.000 seconds
+Text: When given the opportunity to purchase Lot 24 next to our home lot of 25, we thought it was a good idea because Lot 24 was a small lot.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:44:23.620
+End: 00:44:29.620
+Duration: 6.000 seconds
+Text: And it would be difficult to build a house on that lot without being very close to our home.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:44:29.620
+End: 00:44:40.620
+Duration: 11.000 seconds
+Text: I might add that when they started putting in Gohine Drive, half of our Lot 24 was excavated and hauled away.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:44:40.620
+End: 00:44:42.620
+Duration: 2.000 seconds
+Text: We questioned what had happened.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:44:42.620
+End: 00:44:48.620
+Duration: 6.000 seconds
+Text: The engineer who designed the road came out, looked at it and said, yeah, this isn't right.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:44:49.620
+End: 00:45:00.620
+Duration: 11.000 seconds
+Text: So they hauled back a bunch of crappy soil with a lot of rocks in it, which eliminated the natural grass lot and cost us money.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:45:00.620
+End: 00:45:08.620
+Duration: 8.000 seconds
+Text: So we were made a deal to purchase Lot 24, 23 and 22 since they all connected to our home lot of 25.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:45:08.620
+End: 00:45:12.620
+Duration: 4.000 seconds
+Text: We obviously were unaware of what was to come.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:45:12.620
+End: 00:45:26.620
+Duration: 14.000 seconds
+Text: Here's the issue. Lot's 24, 23 and 22, which are on the agenda, are going to be assessed specials at $5,225.62 per lot per year.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:45:26.620
+End: 00:45:33.620
+Duration: 7.000 seconds
+Text: Those three lots will have no road usage, no sewer usage, no water usage.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:45:33.620
+End: 00:45:43.620
+Duration: 10.000 seconds
+Text: If these three lots were figured by square feet, like what our home lot is, the cost to us would be less than half of what is proposed.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:45:43.620
+End: 00:45:55.620
+Duration: 12.000 seconds
+Text: As retired and fixed income and non-fixed income, what is being proposed makes it next impossible for us to live here.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:45:55.620
+End: 00:46:03.620
+Duration: 8.000 seconds
+Text: To further this frustration, we have two story apartment condos, town homes, whatever you want to call them across the street from us.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:46:03.620
+End: 00:46:09.620
+Duration: 6.000 seconds
+Text: Some have seven units, two bedrooms, some five units, two bedroom and some three bedroom.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:46:09.620
+End: 00:46:22.620
+Duration: 13.000 seconds
+Text: These lots are going to be assessed the same similar to our, the vacant lots that we have, which is $5,225.62.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:46:22.620
+End: 00:46:36.620
+Duration: 14.000 seconds
+Text: If there is one person living in each of those units of the seven unit building, their special tax assessment would be $746.52 per year.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:46:36.620
+End: 00:46:47.620
+Duration: 11.000 seconds
+Text: How much more usage of road, the sewer, the water will there be compared to our vacant lots? Is this sound fair or inequitable?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:46:47.620
+End: 00:47:04.620
+Duration: 17.000 seconds
+Text: One question we have is this, who if any of you have ever come up to this area where we live and looked before zoning or rezoning, this was a pristine area for beautiful single family homes overlooking Manhattan and the Rolling Prairie.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:47:04.620
+End: 00:47:15.620
+Duration: 11.000 seconds
+Text: Why hasn't the city or the developers taken some of these unknown burdens in the name of promoting growth in Manhattan? Where is the partnership?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:47:15.620
+End: 00:47:23.620
+Duration: 8.000 seconds
+Text: It appears the burden falls solely on the homeowner. Some here are some figures that I would like for you to think about.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:47:23.620
+End: 00:47:39.620
+Duration: 16.000 seconds
+Text: Lot 25, our home lot, 17,050 square feet, specials figured by square foot. That comes to $44,030.51 per year.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:47:39.620
+End: 00:47:53.620
+Duration: 14.000 seconds
+Text: Lot 24, 8,903 square feet. The specials figured by lot are going to be $5,225.62.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:47:53.620
+End: 00:48:04.620
+Duration: 11.000 seconds
+Text: Lot 23, 9,696 square feet. Specials figured by lot. $5,225.62.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:48:04.620
+End: 00:48:29.620
+Duration: 25.000 seconds
+Text: Lot 24 is 48% smaller than Lot 25, 23% higher. All three of those lots are smaller than our lot and they're 23% higher in specials.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:48:29.620
+End: 00:48:30.620
+Duration: 1.000 seconds
+Text: Thank you very much.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:48:30.620
+End: 00:48:38.620
+Duration: 8.000 seconds
+Text: Would you like to hear from us?
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:48:38.620
+End: 00:48:55.620
+Duration: 17.000 seconds
+Text: Any other comments? Daniel, could you speak briefly to what state statutes allow us to do on what we're Katie on this situation?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:48:55.620
+End: 00:49:03.620
+Duration: 8.000 seconds
+Text: I was just asking Katie so I will defer to our city attorney Jackson.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:49:03.620
+End: 00:49:12.620
+Duration: 9.000 seconds
+Text: The statute requires that every law that potentially benefits from the infrastructure improvements is assessed in an equitable way.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:49:12.620
+End: 00:49:26.620
+Duration: 14.000 seconds
+Text: It does allow, it has three main ways that are assessed. It's linear frontage, square foot of the lot, or then you can also do shares that are equally spread across the lot.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:49:26.620
+End: 00:49:33.620
+Duration: 7.000 seconds
+Text: In this case there were two different subdivisions that had different calculations, different methods for calculation of the shares.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:49:33.620
+End: 00:49:36.620
+Duration: 3.000 seconds
+Text: But those are all allowed by the statute.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:49:36.620
+End: 00:49:39.620
+Duration: 3.000 seconds
+Text: Who makes that determination on how those were?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:49:39.620
+End: 00:49:47.620
+Duration: 8.000 seconds
+Text: The developer and their petition for the benefit districts.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:49:47.620
+End: 00:49:56.620
+Duration: 9.000 seconds
+Text: There's no question, for example, out in the county if you're on a corner lot, you end up paying much more than the...
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:49:56.620
+End: 00:50:03.620
+Duration: 7.000 seconds
+Text: Just to recap, it was by linear frontage, square footage of the lot, or by an equal share.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:50:03.620
+End: 00:50:08.620
+Duration: 5.000 seconds
+Text: Those are the three most used calculation methods under the statute.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:50:08.620
+End: 00:50:12.620
+Duration: 4.000 seconds
+Text: There is a statute which is important to me.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:50:12.620
+End: 00:50:14.620
+Duration: 2.000 seconds
+Text: So how did we...
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:50:14.620
+End: 00:50:16.620
+Duration: 2.000 seconds
+Text: These are two different...
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:50:16.620
+End: 00:50:22.620
+Duration: 6.000 seconds
+Text: Can we go back and just look at the map there?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:50:22.620
+End: 00:50:23.620
+Duration: 1.000 seconds
+Text: Proalyze.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:50:23.620
+End: 00:50:28.620
+Duration: 5.000 seconds
+Text: I see. So we had two different subdivisions included in this.
+--------------------------------------------------
+City Manager:
+Start: 00:50:28.620
+End: 00:50:31.620
+Duration: 3.000 seconds
+Text: This one subdivision.
+--------------------------------------------------
+City Manager:
+Start: 00:50:31.620
+End: 00:50:39.620
+Duration: 8.000 seconds
+Text: This is the way the lots are. These are single family unattached. These are attached.
+--------------------------------------------------
+City Manager:
+Start: 00:50:39.620
+End: 00:50:43.620
+Duration: 4.000 seconds
+Text: They all had the same amount of special assessments per lot.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:50:43.620
+End: 00:50:46.620
+Duration: 3.000 seconds
+Text: How did we calculate that?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:50:46.620
+End: 00:50:48.620
+Duration: 2.000 seconds
+Text: Just by share.
+--------------------------------------------------
+City Manager:
+Start: 00:50:48.620
+End: 00:50:57.620
+Duration: 9.000 seconds
+Text: Equal share per lot. So on the total amount reflected here, divided by 24 lots.
+--------------------------------------------------
+City Manager:
+Start: 00:50:58.620
+End: 00:51:02.620
+Duration: 4.000 seconds
+Text: And that's based on the petition and the approved resolution.
+--------------------------------------------------
+City Manager:
+Start: 00:51:02.620
+End: 00:51:05.620
+Duration: 3.000 seconds
+Text: I understand Mr. Claussen's comments.
+--------------------------------------------------
+City Manager:
+Start: 00:51:05.620
+End: 00:51:07.620
+Duration: 2.000 seconds
+Text: We've talked about this numerous times.
+--------------------------------------------------
+City Manager:
+Start: 00:51:07.620
+End: 00:51:12.620
+Duration: 5.000 seconds
+Text: But the developer petitioned the city in this manner.
+--------------------------------------------------
+City Manager:
+Start: 00:51:12.620
+End: 00:51:13.620
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Manager:
+Start: 00:51:13.620
+End: 00:51:14.620
+Duration: 1.000 seconds
+Text: And developed it in this manner.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:51:14.620
+End: 00:51:16.620
+Duration: 2.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:51:16.620
+End: 00:51:20.620
+Duration: 4.000 seconds
+Text: Any other questions?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:51:20.620
+End: 00:51:22.620
+Duration: 2.000 seconds
+Text: Maybe hold on, I'm reading something.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:51:22.620
+End: 00:51:25.620
+Duration: 3.000 seconds
+Text: Okay. Read away.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:51:27.620
+End: 00:51:34.620
+Duration: 7.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:51:34.620
+End: 00:51:39.620
+Duration: 5.000 seconds
+Text: I guess I have a question for maybe for Katie or for Rita.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:51:39.620
+End: 00:51:41.620
+Duration: 2.000 seconds
+Text: I'm not sure.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:51:41.620
+End: 00:51:51.620
+Duration: 10.000 seconds
+Text: Are we able to approve the first reading of this ordinance with the exclusion of the Elijah addition?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:51:51.620
+End: 00:51:56.620
+Duration: 5.000 seconds
+Text: Or do we approve it with that still included?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:51:56.620
+End: 00:52:10.620
+Duration: 14.000 seconds
+Text: But then will the Claussen's have an opportunity to dispute the amount of specials that they're being asked to pay?
+--------------------------------------------------
+City Manager:
+Start: 00:52:10.620
+End: 00:52:17.620
+Duration: 7.000 seconds
+Text: I would say that based on the petition and resolution, the calculation is correct.
+--------------------------------------------------
+City Manager:
+Start: 00:52:17.620
+End: 00:52:28.620
+Duration: 11.000 seconds
+Text: In terms of the will of the commission, that is something you would have to provide direction to our city manager and myself to see if we need to do something else to move forward.
+--------------------------------------------------
+City Manager:
+Start: 00:52:28.620
+End: 00:52:34.620
+Duration: 6.000 seconds
+Text: We would have to then seek legal counsel as well in terms of it is a change from the petition and resolution.
+--------------------------------------------------
+City Manager:
+Start: 00:52:34.620
+End: 00:52:37.620
+Duration: 3.000 seconds
+Text: But these things are based on state statute.
+--------------------------------------------------
+City Manager:
+Start: 00:52:37.620
+End: 00:52:42.620
+Duration: 5.000 seconds
+Text: And were approved to issue temporary notes in the manner that they were currently.
+--------------------------------------------------
+City Manager:
+Start: 00:52:42.620
+End: 00:52:50.620
+Duration: 8.000 seconds
+Text: So there are changes to that original assessment in terms of not on an equal share per lot for the 24 lots.
+--------------------------------------------------
+City Manager:
+Start: 00:52:50.620
+End: 00:52:55.620
+Duration: 5.000 seconds
+Text: We would have to have some more time to review that and redo calculations.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:52:55.620
+End: 00:52:57.620
+Duration: 2.000 seconds
+Text: Thank you. You're welcome.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:52:57.620
+End: 00:53:01.620
+Duration: 4.000 seconds
+Text: So, Reno, what happens is if we don't approve this, what happens?
+--------------------------------------------------
+City Manager:
+Start: 00:53:01.620
+End: 00:53:07.620
+Duration: 6.000 seconds
+Text: You cannot not approve this because we have to issue permanent bonds.
+--------------------------------------------------
+City Manager:
+Start: 00:53:07.620
+End: 00:53:09.620
+Duration: 2.000 seconds
+Text: I mean, you could delay it.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:53:09.620
+End: 00:53:13.620
+Duration: 4.000 seconds
+Text: That's what I mean. Like tonight. I meant like tonight if this.
+--------------------------------------------------
+City Manager:
+Start: 00:53:13.620
+End: 00:53:18.620
+Duration: 5.000 seconds
+Text: Well, the state statute for special assessments has a timeline.
+--------------------------------------------------
+City Manager:
+Start: 00:53:18.620
+End: 00:53:26.620
+Duration: 8.000 seconds
+Text: So we have to be able to have the second reading and then allow the 30 days to pay that's all per state statute.
+--------------------------------------------------
+City Manager:
+Start: 00:53:26.620
+End: 00:53:34.620
+Duration: 8.000 seconds
+Text: And then after that, then we go out and notify the public that we want to go to market to issue bonds.
+--------------------------------------------------
+City Manager:
+Start: 00:53:34.620
+End: 00:53:42.620
+Duration: 8.000 seconds
+Text: So we would have to have some direction between now and the February 18th meeting in terms of what you all would want to do in terms of that additional conversation.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:53:42.620
+End: 00:53:45.620
+Duration: 3.000 seconds
+Text: We have a total cost we have to get to.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:53:45.620
+End: 00:53:53.620
+Duration: 8.000 seconds
+Text: So if you change it, you change everybody's calculation or if you want the city just to pay for it, I suppose you could do that.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:53:53.620
+End: 00:54:00.620
+Duration: 7.000 seconds
+Text: No. I think we're opening ourselves up for kind of warm so to speak.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:54:00.620
+End: 00:54:13.620
+Duration: 13.000 seconds
+Text: There is the option of selling the extra lots that our speakers have mentioned, you know, so that then someone else would be responsible for those specials.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:54:13.620
+End: 00:54:18.620
+Duration: 5.000 seconds
+Text: Because they own several lots. That's the real issue here. They have to pay you know through.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:54:18.620
+End: 00:54:22.620
+Duration: 4.000 seconds
+Text: Yeah. So I mean, that's an option. It's probably not very palatable, but.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:54:22.620
+End: 00:54:31.620
+Duration: 9.000 seconds
+Text: I do think we are we are carefully prescribed certain statutes and we don't want to start.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:54:31.620
+End: 00:54:38.620
+Duration: 7.000 seconds
+Text: I think the problem is the petition passed that way. I mean, that's what everyone went into the agreement with that understanding.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:54:38.620
+End: 00:54:45.620
+Duration: 7.000 seconds
+Text: Even if it wasn't communicated well, that's kind of what the deal was.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:54:45.620
+End: 00:54:50.620
+Duration: 5.000 seconds
+Text: So any more comments? Anybody?
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:54:50.620
+End: 00:54:55.620
+Duration: 5.000 seconds
+Text: Then I would. Oh, yeah.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:54:55.620
+End: 00:55:13.620
+Duration: 18.000 seconds
+Text: Okay.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 00:55:13.620
+End: 00:55:20.620
+Duration: 7.000 seconds
+Text: I'll expand like 50606. Go ahead and track if I'm resident of the Elijah edition as well.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 00:55:20.620
+End: 00:55:26.620
+Duration: 6.000 seconds
+Text: I think I'm or just have confusion and maybe even looking at it might be more of a conversation.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 00:55:26.620
+End: 00:55:31.620
+Duration: 5.000 seconds
+Text: But when we bought our house.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 00:55:31.620
+End: 00:55:35.620
+Duration: 4.000 seconds
+Text: And last December.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 00:55:35.620
+End: 00:55:37.620
+Duration: 2.000 seconds
+Text: Was it was.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 00:55:37.620
+End: 00:55:42.620
+Duration: 5.000 seconds
+Text: We're told basically that the estimates of the specials were going to be around $4,000.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 00:55:42.620
+End: 00:55:46.620
+Duration: 4.000 seconds
+Text: That's what we were budgeting for. That's how everything was kind of set.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 00:55:46.620
+End: 00:55:54.620
+Duration: 8.000 seconds
+Text: And as far as I'm aware, there hasn't been any additional sewer street sidewalk, anything like that done in those areas.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 00:55:54.620
+End: 00:56:00.620
+Duration: 6.000 seconds
+Text: And that the estimate came from my realtor who got it from someone at the city.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 00:56:00.620
+End: 00:56:12.620
+Duration: 12.000 seconds
+Text: And I think my confusion is why it's over $1,000 higher without any additional work being done.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 00:56:12.620
+End: 00:56:17.620
+Duration: 5.000 seconds
+Text: So I just don't really understand that it feels a little predatory.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:56:17.620
+End: 00:56:20.620
+Duration: 3.000 seconds
+Text: Makes sense.
+--------------------------------------------------
+City Manager:
+Start: 00:56:20.620
+End: 00:56:29.620
+Duration: 9.000 seconds
+Text: We have been made aware that the information that we provide is based on initially the petition amount,
+--------------------------------------------------
+City Manager:
+Start: 00:56:29.620
+End: 00:56:32.620
+Duration: 3.000 seconds
+Text: which is always higher than the construction amount.
+--------------------------------------------------
+City Manager:
+Start: 00:56:32.620
+End: 00:56:41.620
+Duration: 9.000 seconds
+Text: And then once we get the construction information in terms of that bid, we then add in any contingencies, the design, the soft costs.
+--------------------------------------------------
+City Manager:
+Start: 00:56:41.620
+End: 00:56:46.620
+Duration: 5.000 seconds
+Text: And so we've always been providing around $5,000 or so amount.
+--------------------------------------------------
+City Manager:
+Start: 00:56:46.620
+End: 00:56:55.620
+Duration: 9.000 seconds
+Text: Here recently we were made aware that there is information out in the public that the costs are at $4,000.
+--------------------------------------------------
+City Manager:
+Start: 00:56:55.620
+End: 00:56:57.620
+Duration: 2.000 seconds
+Text: That doesn't come from the city.
+--------------------------------------------------
+City Manager:
+Start: 00:56:57.620
+End: 00:57:07.620
+Duration: 10.000 seconds
+Text: And we've had that exchange with some realtor's and it's unfortunate that that has been provided to property owners or potential property owners.
+--------------------------------------------------
+City Manager:
+Start: 00:57:07.620
+End: 00:57:10.620
+Duration: 3.000 seconds
+Text: But we do not provide that $4,000 amount.
+--------------------------------------------------
+City Manager:
+Start: 00:57:10.620
+End: 00:57:13.620
+Duration: 3.000 seconds
+Text: And it's always been around the $5,000 amount.
+--------------------------------------------------
+City Manager:
+Start: 00:57:13.620
+End: 00:57:16.620
+Duration: 3.000 seconds
+Text: And like I said, it's unfortunate.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:57:16.620
+End: 00:57:19.620
+Duration: 3.000 seconds
+Text: Yeah, I would echo.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:57:19.620
+End: 00:57:22.620
+Duration: 3.000 seconds
+Text: I've had people ask me that question.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:57:22.620
+End: 00:57:27.620
+Duration: 5.000 seconds
+Text: And when I come back and checked with the city, the city has been very forthcoming.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:57:27.620
+End: 00:57:33.620
+Duration: 6.000 seconds
+Text: And it was the realtor who wasn't as forthcoming or maybe the realtor just didn't understand.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:57:33.620
+End: 00:57:34.620
+Duration: 1.000 seconds
+Text: I don't know.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:57:34.620
+End: 00:57:38.620
+Duration: 4.000 seconds
+Text: But yeah, it's a lot more money.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:57:38.620
+End: 00:57:40.620
+Duration: 2.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 00:57:40.620
+End: 00:57:46.620
+Duration: 6.000 seconds
+Text: Okay, I'll get the email that I got or that she had received to make sure that who was from.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:57:46.620
+End: 00:57:47.620
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:57:47.620
+End: 00:57:48.620
+Duration: 1.000 seconds
+Text: Thank you, sir.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:57:48.620
+End: 00:57:49.620
+Duration: 1.000 seconds
+Text: Thanks.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:57:49.620
+End: 00:57:55.620
+Duration: 6.000 seconds
+Text: Rina, just to clarify, when people have those questions, they contact your office, community, who are they contacting?
+--------------------------------------------------
+City Manager:
+Start: 00:57:55.620
+End: 00:58:02.620
+Duration: 7.000 seconds
+Text: There's a formal line that they can use to inquire some of the realtor's in the.
+--------------------------------------------------
+City Manager:
+Start: 00:58:02.620
+End: 00:58:04.620
+Duration: 2.000 seconds
+Text: Oh, the title companies.
+--------------------------------------------------
+City Manager:
+Start: 00:58:04.620
+End: 00:58:06.620
+Duration: 2.000 seconds
+Text: They just call or email.
+--------------------------------------------------
+City Manager:
+Start: 00:58:06.620
+End: 00:58:20.620
+Duration: 14.000 seconds
+Text: But like I mentioned, we have been getting quite a few calls regarding Elijah Edition and discrepancy in terms of what we're providing based on what they are compared to what they received from the realtor title company or the developer.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:58:20.620
+End: 00:58:23.620
+Duration: 3.000 seconds
+Text: Does the register of deed have the email?
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:58:23.620
+End: 00:58:26.620
+Duration: 3.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor McCullough:
+Start: 00:58:26.620
+End: 00:58:30.620
+Duration: 4.000 seconds
+Text: Yeah, please.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:58:30.620
+End: 00:58:32.620
+Duration: 2.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:58:32.620
+End: 00:58:34.620
+Duration: 2.000 seconds
+Text: All right.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:58:34.620
+End: 00:58:36.620
+Duration: 2.000 seconds
+Text: Please.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:58:36.620
+End: 00:58:38.620
+Duration: 2.000 seconds
+Text: All right.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:58:38.620
+End: 00:58:40.620
+Duration: 2.000 seconds
+Text: Please.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:58:40.620
+End: 00:58:50.620
+Duration: 10.000 seconds
+Text: All right.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 00:58:50.620
+End: 00:58:52.620
+Duration: 2.000 seconds
+Text: All right.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 00:58:52.620
+End: 00:58:56.620
+Duration: 4.000 seconds
+Text: My name is Kayla Wanderer-Sonsen.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 00:58:56.620
+End: 00:59:00.620
+Duration: 4.000 seconds
+Text: I am a resident of 5830 Gohhing Drive.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 00:59:00.620
+End: 00:59:04.620
+Duration: 4.000 seconds
+Text: I don't believe I would fall under Elijah Edition.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 00:59:04.620
+End: 00:59:06.620
+Duration: 2.000 seconds
+Text: I would actually fall under Henry Edition.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 00:59:06.620
+End: 00:59:08.620
+Duration: 2.000 seconds
+Text: But we're all kind of in the same neighborhood.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 00:59:08.620
+End: 00:59:12.620
+Duration: 4.000 seconds
+Text: So I've gotten familiar with both sides.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 00:59:12.620
+End: 00:59:14.620
+Duration: 2.000 seconds
+Text: So just a little context.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 00:59:14.620
+End: 00:59:16.620
+Duration: 2.000 seconds
+Text: I came here about five years, lived in apartments.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 00:59:16.620
+End: 00:59:20.620
+Duration: 4.000 seconds
+Text: My fiance goes to a case date just recently graduated with a life science degree.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 00:59:20.620
+End: 00:59:23.620
+Duration: 3.000 seconds
+Text: And we've kind of enjoyed life here.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 00:59:23.620
+End: 00:59:27.620
+Duration: 4.000 seconds
+Text: Both came from originally Omaha, Nebraska, which has a decently high cost of living.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 00:59:27.620
+End: 00:59:32.620
+Duration: 5.000 seconds
+Text: And it was kind of a relief coming to somewhere a little bit smaller.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 00:59:32.620
+End: 00:59:40.620
+Duration: 8.000 seconds
+Text: I have found good success over the last few years working around 50 or plus hours a week.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 00:59:40.620
+End: 00:59:42.620
+Duration: 2.000 seconds
+Text: And I am about 22, 23 years old.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 00:59:42.620
+End: 00:59:44.620
+Duration: 2.000 seconds
+Text: So I have a bit more energy for it.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 00:59:44.620
+End: 00:59:48.620
+Duration: 4.000 seconds
+Text: And it makes it a little bit easier to facilitate a higher income job.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 00:59:48.620
+End: 00:59:50.620
+Duration: 2.000 seconds
+Text: And spend more time working.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 00:59:50.620
+End: 00:59:54.620
+Duration: 4.000 seconds
+Text: But I will say I tell all of my clients and all of my customers I do not really have a life outside of work.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 00:59:54.620
+End: 01:00:01.620
+Duration: 7.000 seconds
+Text: But it's at the cost of gaining a house, gaining a car, being able to live at a place.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:00:01.620
+End: 01:00:05.620
+Duration: 4.000 seconds
+Text: And not have to worry about a landlord breathing down your neck.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:00:05.620
+End: 01:00:10.620
+Duration: 5.000 seconds
+Text: And about February, I want to say about February 13th, I purchased my helmet.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:00:10.620
+End: 01:00:15.620
+Duration: 5.000 seconds
+Text: Goheans first time I've ever bought a home, first mortgage kind of taking on.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:00:15.620
+End: 01:00:17.620
+Duration: 2.000 seconds
+Text: A lot of responsibilities that I was brand new to.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:00:17.620
+End: 01:00:19.620
+Duration: 2.000 seconds
+Text: But I was very interested in it.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:00:19.620
+End: 01:00:25.620
+Duration: 6.000 seconds
+Text: I spent a lot of time researching it and tried to grasp and understand exactly how this is going to work.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:00:25.620
+End: 01:00:32.620
+Duration: 7.000 seconds
+Text: I like them had been kind of quoted a rough estimate on special taxes from both my builder, my realtor.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:00:32.620
+End: 01:00:37.620
+Duration: 5.000 seconds
+Text: And even talking someone in this, I'm not entirely sure who I spoke to.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:00:37.620
+End: 01:00:39.620
+Duration: 2.000 seconds
+Text: But it was about a year ago.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:00:39.620
+End: 01:00:49.620
+Duration: 10.000 seconds
+Text: But they did state to me by my calculations, I distinctly remember about 300 to 350 dollars a month was my calculation.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:00:49.620
+End: 01:00:53.620
+Duration: 4.000 seconds
+Text: That coming out to about $3600.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:00:53.620
+End: 01:00:58.620
+Duration: 5.000 seconds
+Text: And now I'm kind of looking at my tax assessment and how much I'll be paying.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:00:58.620
+End: 01:01:03.620
+Duration: 5.000 seconds
+Text: And if I'm not, I'm trying to remember the exact number do you have for a Henry edition?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:01:03.620
+End: 01:01:04.620
+Duration: 1.000 seconds
+Text: No, certainly.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:01:04.620
+End: 01:01:07.620
+Duration: 3.000 seconds
+Text: Yeah, okay.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:01:07.620
+End: 01:01:08.620
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:01:08.620
+End: 01:01:12.620
+Duration: 4.000 seconds
+Text: So, Henry edition, yeah, 67, 46 all of a sudden.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:01:12.620
+End: 01:01:16.620
+Duration: 4.000 seconds
+Text: Coming out of nowhere and don't be wrong, there's a lot of other things I could be worried about.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:01:16.620
+End: 01:01:23.620
+Duration: 7.000 seconds
+Text: But 67, 46 minus 3600 would put me at around a 31, 46 increase, which is almost a 200 percent increase.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:01:23.620
+End: 01:01:33.620
+Duration: 10.000 seconds
+Text: I know I'm young and it can be a bit easier for young people who aren't as much on a fixed income to handle stuff.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:01:33.620
+End: 01:01:35.620
+Duration: 2.000 seconds
+Text: But at the same time, I will state this.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:01:35.620
+End: 01:01:37.620
+Duration: 2.000 seconds
+Text: I did some calculations.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:01:37.620
+End: 01:01:38.620
+Duration: 1.000 seconds
+Text: I took my mortgage.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:01:38.620
+End: 01:01:45.620
+Duration: 7.000 seconds
+Text: I took my PMI insurance, my insurance, because realistically you're not going to just go out at 23 and buy a house.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:01:45.620
+End: 01:01:46.620
+Duration: 1.000 seconds
+Text: And buy cash.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:01:46.620
+End: 01:01:47.620
+Duration: 1.000 seconds
+Text: So I'm accounting for PMI.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:01:47.620
+End: 01:01:49.620
+Duration: 2.000 seconds
+Text: I'm accounting for home insurance.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:01:49.620
+End: 01:01:51.620
+Duration: 2.000 seconds
+Text: I'm accounting for just living.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:01:51.620
+End: 01:01:52.620
+Duration: 1.000 seconds
+Text: Cost of living.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:01:52.620
+End: 01:01:56.620
+Duration: 4.000 seconds
+Text: I'm not accounting for groceries, bills, like utility heat.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:01:56.620
+End: 01:01:58.620
+Duration: 2.000 seconds
+Text: I'm paying into that.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:01:58.620
+End: 01:02:02.620
+Duration: 4.000 seconds
+Text: But my calculations were coming out too.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:02:02.620
+End: 01:02:06.620
+Duration: 4.000 seconds
+Text: About, what was it?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:02:06.620
+End: 01:02:07.620
+Duration: 1.000 seconds
+Text: Ah.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:02:07.620
+End: 01:02:14.620
+Duration: 7.000 seconds
+Text: So as of 2024, I paid about $104,055, not accounting for special taxes.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:02:14.620
+End: 01:02:21.620
+Duration: 7.000 seconds
+Text: That was just between buying a house, owning a house, and having a car here with property taxes.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:02:21.620
+End: 01:02:25.620
+Duration: 4.000 seconds
+Text: Alone, I was paying $104,000 at the age of 22.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:02:25.620
+End: 01:02:27.620
+Duration: 2.000 seconds
+Text: That to me is insane.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:02:27.620
+End: 01:02:28.620
+Duration: 1.000 seconds
+Text: I bought into it.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:02:28.620
+End: 01:02:30.620
+Duration: 2.000 seconds
+Text: I bought a house at the price I bought.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:02:30.620
+End: 01:02:40.620
+Duration: 10.000 seconds
+Text: But my issue that I'm running into is that having an extra $3,000, $4,000 thrown on top of that is not going to make it any easier.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:02:40.620
+End: 01:02:44.620
+Duration: 4.000 seconds
+Text: I still have to deal with the stress of interest that I take care of my fiance.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:02:44.620
+End: 01:02:47.620
+Duration: 3.000 seconds
+Text: I'm the only person really that works my household.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:02:47.620
+End: 01:02:49.620
+Duration: 2.000 seconds
+Text: And I've met, actually, not these guys.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:02:49.620
+End: 01:02:50.620
+Duration: 1.000 seconds
+Text: They've been great.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:02:50.620
+End: 01:02:51.620
+Duration: 1.000 seconds
+Text: They've been really good neighbors.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:02:51.620
+End: 01:03:00.620
+Duration: 9.000 seconds
+Text: And it hurts my heart to think that they may have to leave what they wanted to be there forever home, just over something that should be assessed maybe in a different way.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:03:00.620
+End: 01:03:05.620
+Duration: 5.000 seconds
+Text: I can understand where everyone comes from on lot sizes and different things for developers and people buying into it.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:03:06.620
+End: 01:03:11.620
+Duration: 5.000 seconds
+Text: In the end, you are talking about the water lines, water usage, you are talking about road usage.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:03:11.620
+End: 01:03:33.620
+Duration: 22.000 seconds
+Text: Seven cars versus one car would be a difference that I think would be divided up between eight different separate amounts, rather than just a single paid by seven versus one paid by one, making it an added a divided by two, which to me seems kind of unfair, especially in the sense that we're all getting the same amount of usage out of it.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:03:33.620
+End: 01:03:44.620
+Duration: 11.000 seconds
+Text: I will own up to paying what I am needed and what I'm required, but I definitely would say that a $96,000 expense coming from me at my age is kind of insane.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:03:44.620
+End: 01:03:46.620
+Duration: 2.000 seconds
+Text: It's more than I put my car.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:03:46.620
+End: 01:03:48.620
+Duration: 2.000 seconds
+Text: It's more than my debt combined besides my house.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:03:48.620
+End: 01:03:57.620
+Duration: 9.000 seconds
+Text: So it just kind of seems crazy to me that we were told one thing and kind of switched and we're kind of just having to deal with it.
+--------------------------------------------------
+Kayla Wanderer-Sonsen:
+Start: 01:03:57.620
+End: 01:04:00.620
+Duration: 3.000 seconds
+Text: But I appreciate your time and look forward to hearing from you.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:04:01.620
+End: 01:04:03.620
+Duration: 2.000 seconds
+Text: Anybody else? Okay.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:04:16.620
+End: 01:04:21.620
+Duration: 5.000 seconds
+Text: You've heard the two ends of it. We're on a fixed income. He's young. It's the same thing.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:04:21.620
+End: 01:04:25.620
+Duration: 4.000 seconds
+Text: We started learning about what this question is.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:04:25.620
+End: 01:04:27.620
+Duration: 2.000 seconds
+Text: I'm sorry. Could you give me your name?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:04:27.620
+End: 01:04:29.620
+Duration: 2.000 seconds
+Text: I'm sorry. Jean Claussen.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:04:29.620
+End: 01:04:30.620
+Duration: 1.000 seconds
+Text: We started learning about this.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:04:30.620
+End: 01:04:31.620
+Duration: 1.000 seconds
+Text: Address please.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:04:31.620
+End: 01:04:32.620
+Duration: 1.000 seconds
+Text: I'm sorry. You're not.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:04:32.620
+End: 01:04:34.620
+Duration: 2.000 seconds
+Text: Well, I'm sorry. 3915 victory drive.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:04:34.620
+End: 01:04:35.620
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:04:35.620
+End: 01:04:41.620
+Duration: 6.000 seconds
+Text: We started learning about the assessments that might be assessed in May of this year about a year ago.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:04:41.620
+End: 01:04:47.620
+Duration: 6.000 seconds
+Text: And we have been here three or four times to every department, including the city manager.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:04:47.620
+End: 01:04:54.620
+Duration: 7.000 seconds
+Text: We've talked to everyone about it and have not ever gotten until we got the letter last night.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:04:54.620
+End: 01:04:58.620
+Duration: 4.000 seconds
+Text: And we were told that it was going to be like everybody else.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:04:58.620
+End: 01:05:03.620
+Duration: 5.000 seconds
+Text: We weren't told it. We were told it was going to be around $3,000.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:05:03.620
+End: 01:05:12.620
+Duration: 9.000 seconds
+Text: When we decided to buy the lots and not put anything on it just to buy the lots, we went and read everything that the city had about those lots.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:05:12.620
+End: 01:05:16.620
+Duration: 4.000 seconds
+Text: What could happen? We read 46 pages at the offices.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:05:16.620
+End: 01:05:19.620
+Duration: 3.000 seconds
+Text: We did everything due diligence that we could do.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:05:19.620
+End: 01:05:25.620
+Duration: 6.000 seconds
+Text: And we had no idea that this is what we're because ours is over 400,000.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:05:25.620
+End: 01:05:31.620
+Duration: 6.000 seconds
+Text: So I mean, it's like I understand that you guys are like, we can just assess the homeowner.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:05:31.620
+End: 01:05:44.620
+Duration: 13.000 seconds
+Text: But when you buy your home and you're not told what it's going to be and it's not, it's just, I mean, what choice do we have?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:05:44.620
+End: 01:05:48.620
+Duration: 4.000 seconds
+Text: There's like, there's nobody can help us anywhere.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:05:48.620
+End: 01:05:54.620
+Duration: 6.000 seconds
+Text: We've been, we've talked to every single person. There's two ladies in the finance department that we probably visited with.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:05:54.620
+End: 01:05:58.620
+Duration: 4.000 seconds
+Text: I don't know, four or five times just to go get updates.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:05:58.620
+End: 01:06:04.620
+Duration: 6.000 seconds
+Text: I just, we don't know where else to go and we don't sleep at night and we worry about it all the time and we don't know what to do.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:06:04.620
+End: 01:06:07.620
+Duration: 3.000 seconds
+Text: And we're not alone in our whole neighborhood is that way.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:06:07.620
+End: 01:06:12.620
+Duration: 5.000 seconds
+Text: It's just and in addition to that, it has been rezoned like four times.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:06:12.620
+End: 01:06:16.620
+Duration: 4.000 seconds
+Text: It was supposed to be single family. Then it got rezoned to multi family.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:06:16.620
+End: 01:06:20.620
+Duration: 4.000 seconds
+Text: And then it got now there that looks like army barracks up there.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:06:20.620
+End: 01:06:23.620
+Duration: 3.000 seconds
+Text: And if you guys are, please go up and look at it.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:06:23.620
+End: 01:06:34.620
+Duration: 11.000 seconds
+Text: And it's the most beautiful pristine area of the city because you've got this beautiful view with now about, I don't know, seven army barracks up there.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:06:34.620
+End: 01:06:37.620
+Duration: 3.000 seconds
+Text: Please come look.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:06:37.620
+End: 01:06:44.620
+Duration: 7.000 seconds
+Text: And when they took our property away and they sliced it down, we were gone for two hours and came back and half of our property was gone.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:06:44.620
+End: 01:06:49.620
+Duration: 5.000 seconds
+Text: And the guy in the, in the deal said, well, this is what my GPS tells me to do.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:06:49.620
+End: 01:06:53.620
+Duration: 4.000 seconds
+Text: And then when the fella from the city came out and said, oh yeah, it was a mistake.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:06:53.620
+End: 01:06:57.620
+Duration: 4.000 seconds
+Text: They brought in dirt, but the whole ground goes like this now.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:06:57.620
+End: 01:07:00.620
+Duration: 3.000 seconds
+Text: And we've had to fill in the dirt. We've had to pay for more money.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:07:00.620
+End: 01:07:04.620
+Duration: 4.000 seconds
+Text: And these were in some machinery trying to get it all fixed up.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:07:04.620
+End: 01:07:07.620
+Duration: 3.000 seconds
+Text: It's just been miserable. And there's no help.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:07:07.620
+End: 01:07:11.620
+Duration: 4.000 seconds
+Text: So just updates. Thank you.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:07:11.620
+End: 01:07:14.620
+Duration: 3.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:07:14.620
+End: 01:07:18.620
+Duration: 4.000 seconds
+Text: Okay. Anybody else? It's going once.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:07:18.620
+End: 01:07:20.620
+Duration: 2.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:07:20.620
+End: 01:07:26.620
+Duration: 6.000 seconds
+Text: We are considering levying special assessments for 14 public improvement districts.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:07:26.620
+End: 01:07:36.620
+Duration: 10.000 seconds
+Text: We will prove a first reading of an ordinance living special assessments against the following benefit benefiting properties in 14 public improvement districts.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:07:36.620
+End: 01:07:42.620
+Duration: 6.000 seconds
+Text: Candlewood shopping center turn lane street improvements ST1914.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:07:42.620
+End: 01:07:53.620
+Duration: 11.000 seconds
+Text: The Highlands at Grand Mayor Unit 2 sanitary sewer s 12014 street ST2012 and water.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:07:53.620
+End: 01:07:57.620
+Duration: 4.000 seconds
+Text: W a 2024 stag. He'll grab.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:07:57.620
+End: 01:08:00.620
+Duration: 3.000 seconds
+Text: Stag. He'll golf course water line improvements.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:08:00.620
+End: 01:08:11.620
+Duration: 11.000 seconds
+Text: W a 2109 Elijah addition sanitary sewer s s196 street STS 1906 and water.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:08:11.620
+End: 01:08:22.620
+Duration: 11.000 seconds
+Text: W a 1916 the Henry edition sanitary sewer 332107 street ST201 2104.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:08:22.620
+End: 01:08:28.620
+Duration: 6.000 seconds
+Text: W a 2 0 1 6 Genesis health club sidewalk improvements.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:08:28.620
+End: 01:08:37.620
+Duration: 9.000 seconds
+Text: S W 1603 and stag hill business community additions sewer s s 2307 and water.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:08:37.620
+End: 01:08:40.620
+Duration: 3.000 seconds
+Text: W a 2311 extensions.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:08:40.620
+End: 01:08:45.620
+Duration: 5.000 seconds
+Text: Do I hear a motion to approve?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:08:45.620
+End: 01:08:47.620
+Duration: 2.000 seconds
+Text: Do I have to repeat all of that?
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:08:47.620
+End: 01:08:49.620
+Duration: 2.000 seconds
+Text: No.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:08:49.620
+End: 01:09:05.620
+Duration: 16.000 seconds
+Text: Okay. I move the way approved first reading of an ordinance living special assessments against those benefit districts in the 14 public improvement districts as read by the mayor.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:09:05.620
+End: 01:09:06.620
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:09:06.620
+End: 01:09:12.620
+Duration: 6.000 seconds
+Text: It's been moving segment.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:09:12.620
+End: 01:09:14.620
+Duration: 2.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:09:14.620
+End: 01:09:16.620
+Duration: 2.000 seconds
+Text: Commissioner.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:09:16.620
+End: 01:09:17.620
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:09:17.620
+End: 01:09:19.620
+Duration: 2.000 seconds
+Text: Commissioner.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:09:19.620
+End: 01:09:21.620
+Duration: 2.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:09:21.620
+End: 01:09:23.620
+Duration: 2.000 seconds
+Text: Mayor.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:09:23.620
+End: 01:09:25.620
+Duration: 2.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:09:25.620
+End: 01:09:26.620
+Duration: 1.000 seconds
+Text: Commissioner.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:09:26.620
+End: 01:09:27.620
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:09:27.620
+End: 01:09:29.620
+Duration: 2.000 seconds
+Text: Motion carries 5-0.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:09:29.620
+End: 01:09:32.620
+Duration: 3.000 seconds
+Text: That is our agenda for the evening.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:09:32.620
+End: 01:09:36.620
+Duration: 4.000 seconds
+Text: Do I hear a motion to adjourn?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:09:36.620
+End: 01:09:39.620
+Duration: 3.000 seconds
+Text: Move the we adjourn the February 4th, 2025 city commission meeting.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:09:39.620
+End: 01:09:40.620
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:09:40.620
+End: 01:09:41.620
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:09:41.620
+End: 01:09:42.620
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Mayor McCullough:
+Start: 01:09:42.620
+End: 01:09:43.620
+Duration: 1.000 seconds
+Text: Would you call the roll please?
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:09:43.620
+End: 01:09:44.620
+Duration: 1.000 seconds
+Text: Mr. Mata.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:09:44.620
+End: 01:09:45.620
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:09:45.620
+End: 01:09:46.620
+Duration: 1.000 seconds
+Text: Commissioner.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:09:46.620
+End: 01:09:47.620
+Duration: 1.000 seconds
+Text: Minton.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:09:47.620
+End: 01:09:48.620
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:09:48.620
+End: 01:09:49.620
+Duration: 1.000 seconds
+Text: Mayor McCullough.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:09:49.620
+End: 01:09:50.620
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:09:50.620
+End: 01:09:51.620
+Duration: 1.000 seconds
+Text: Commissioner Adam Jack.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:09:51.620
+End: 01:09:52.620
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:09:52.620
+End: 01:09:53.620
+Duration: 1.000 seconds
+Text: Commissioner Opell.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:09:53.620
+End: 01:09:54.620
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Adam Track:
+Start: 01:09:54.620
+End: 01:09:57.620
+Duration: 3.000 seconds
+Text: Motion carries 5-0.
+--------------------------------------------------

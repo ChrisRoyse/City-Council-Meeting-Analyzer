@@ -1,0 +1,3357 @@
+Transcription and Diarization for 20180705-7⧸3⧸2018 City Commission Meeting.mp4
+==================================================
+
+Mayor Morse:
+Start: 00:00:00.000
+End: 00:00:22.620
+Duration: 22.620 seconds
+Text: The first item on the agenda is the proclamation declaring parks and recreation month as June.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:00:22.620
+End: 00:00:28.960
+Duration: 6.340 seconds
+Text: And I wonder if all of the folks that are here associated with the parks and rec proclamation
+--------------------------------------------------
+Mayor Morse:
+Start: 00:00:28.960
+End: 00:00:35.960
+Duration: 7.000 seconds
+Text: would join me at the microphone.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:00:35.960
+End: 00:00:44.600
+Duration: 8.640 seconds
+Text: Okay, I think we brought everybody.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:00:44.600
+End: 00:00:45.840
+Duration: 1.240 seconds
+Text: Hi Melissa.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:00:45.840
+End: 00:00:48.760
+Duration: 2.920 seconds
+Text: So come on down.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:00:48.760
+End: 00:00:56.360
+Duration: 7.600 seconds
+Text: Eddie Eastis is the director of parks and recreation at the City of Manhattan.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:00:56.360
+End: 00:01:01.360
+Duration: 5.000 seconds
+Text: And Clemack is the chair, former mayor, city commissioner, long credentials, but he's
+--------------------------------------------------
+Mayor Morse:
+Start: 00:01:01.360
+End: 00:01:06.280
+Duration: 4.920 seconds
+Text: currently the chair of the parks and recreation board advisory board.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:01:06.280
+End: 00:01:12.240
+Duration: 5.960 seconds
+Text: Wyatt Thompson is an assistant director now of parks and recreation.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:01:12.240
+End: 00:01:17.640
+Duration: 5.400 seconds
+Text: He specializes in parks and Mark B. Jam.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:01:17.640
+End: 00:01:23.440
+Duration: 5.800 seconds
+Text: Vice chair of the parks and rec board and.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:01:23.440
+End: 00:01:25.040
+Duration: 1.600 seconds
+Text: I'm not asking Clifford.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:01:25.040
+End: 00:01:26.120
+Duration: 1.080 seconds
+Text: I know Randy.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:01:26.120
+End: 00:01:32.440
+Duration: 6.320 seconds
+Text: Randy Clifford and he leads the recreation side of the parks and recreation board.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:01:32.440
+End: 00:01:35.440
+Duration: 3.000 seconds
+Text: So I will read the proclamation.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:01:35.440
+End: 00:01:40.320
+Duration: 4.880 seconds
+Text: Whereas parks and recreation programs are an integral part of communities throughout this
+--------------------------------------------------
+Mayor Morse:
+Start: 00:01:40.320
+End: 00:01:46.320
+Duration: 6.000 seconds
+Text: country and are vitally important to establishing and maintaining our quality of life, ensuring
+--------------------------------------------------
+Mayor Morse:
+Start: 00:01:46.320
+End: 00:01:51.440
+Duration: 5.120 seconds
+Text: the health of all citizens and contributing to the economic and environmental well-being
+--------------------------------------------------
+Mayor Morse:
+Start: 00:01:51.440
+End: 00:01:54.320
+Duration: 2.880 seconds
+Text: of a community and region.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:01:54.320
+End: 00:02:00.160
+Duration: 5.840 seconds
+Text: And whereas parks and recreation programs built healthy, active communities that aid in
+--------------------------------------------------
+Mayor Morse:
+Start: 00:02:00.160
+End: 00:02:05.840
+Duration: 5.680 seconds
+Text: the prevention of chronic disease, they provide therapeutic recreation services for those
+--------------------------------------------------
+Mayor Morse:
+Start: 00:02:05.840
+End: 00:02:10.880
+Duration: 5.040 seconds
+Text: who are mentally or physically disabled and also improve the mental and emotional health
+--------------------------------------------------
+Mayor Morse:
+Start: 00:02:10.880
+End: 00:02:12.760
+Duration: 1.880 seconds
+Text: of all citizens.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:02:12.760
+End: 00:02:18.840
+Duration: 6.080 seconds
+Text: And whereas parks and recreation programs increase a community's economic prosperity through increased
+--------------------------------------------------
+Mayor Morse:
+Start: 00:02:18.840
+End: 00:02:20.600
+Duration: 1.760 seconds
+Text: property values.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:02:20.600
+End: 00:02:23.080
+Duration: 2.480 seconds
+Text: We like that.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:02:23.080
+End: 00:02:29.400
+Duration: 6.320 seconds
+Text: Expansion of the local tax base increased tourism, the attraction and retention of businesses
+--------------------------------------------------
+Mayor Morse:
+Start: 00:02:29.400
+End: 00:02:31.240
+Duration: 1.840 seconds
+Text: and crime reduction.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:02:31.240
+End: 00:02:36.880
+Duration: 5.640 seconds
+Text: And whereas parks and recreation, natural recreation areas are fundamental to the environmental
+--------------------------------------------------
+Mayor Morse:
+Start: 00:02:36.880
+End: 00:02:42.840
+Duration: 5.960 seconds
+Text: well-being of our community by improving water quality, protecting groundwater, preventing
+--------------------------------------------------
+Mayor Morse:
+Start: 00:02:42.840
+End: 00:02:50.120
+Duration: 7.280 seconds
+Text: floods, improving the quality of air we breathe, providing vegetative buffers to developments,
+--------------------------------------------------
+Mayor Morse:
+Start: 00:02:50.120
+End: 00:02:56.160
+Duration: 6.040 seconds
+Text: using habitats for wildlife and ensuring the ecological beauty of all by providing a place
+--------------------------------------------------
+Mayor Morse:
+Start: 00:02:56.160
+End: 00:03:02.520
+Duration: 6.360 seconds
+Text: for children and adults to connect with nature and recreate outdoors.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:03:02.520
+End: 00:03:07.680
+Duration: 5.160 seconds
+Text: And whereas the U.S. House of Representatives has designated July as Parks and Recreation
+--------------------------------------------------
+Mayor Morse:
+Start: 00:03:07.680
+End: 00:03:13.440
+Duration: 5.760 seconds
+Text: Month and the City of Manhattan recognizes the benefits derived from parks and recreation
+--------------------------------------------------
+Mayor Morse:
+Start: 00:03:13.440
+End: 00:03:14.840
+Duration: 1.400 seconds
+Text: resources.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:03:14.840
+End: 00:03:19.560
+Duration: 4.720 seconds
+Text: Now therefore, I, Linda Morse, Mayor of the City of Manhattan, on behalf of its citizens,
+--------------------------------------------------
+Mayor Morse:
+Start: 00:03:19.560
+End: 00:03:25.960
+Duration: 6.400 seconds
+Text: do hereby proclaim the month of July 2018 as Parks and Recreation Month and encourage
+--------------------------------------------------
+Mayor Morse:
+Start: 00:03:25.960
+End: 00:03:32.160
+Duration: 6.200 seconds
+Text: all citizens to become familiar with the parks, trails, facilities, programs and services available
+--------------------------------------------------
+Mayor Morse:
+Start: 00:03:32.160
+End: 00:03:33.160
+Duration: 1.000 seconds
+Text: to them.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:03:33.160
+End: 00:03:37.160
+Duration: 4.000 seconds
+Text: So, let me present you with the population.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:03:37.160
+End: 00:03:38.160
+Duration: 1.000 seconds
+Text: Yeah, great.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:03:38.160
+End: 00:03:39.160
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:03:39.160
+End: 00:03:41.160
+Duration: 2.000 seconds
+Text: Somebody's in a long time here.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:41.160
+End: 00:03:42.160
+Duration: 1.000 seconds
+Text: I'm sorry.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:03:42.160
+End: 00:03:43.160
+Duration: 1.000 seconds
+Text: I have a break.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:43.160
+End: 00:03:44.160
+Duration: 1.000 seconds
+Text: You have a break.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:44.160
+End: 00:03:45.160
+Duration: 1.000 seconds
+Text: You have a very much.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:03:45.160
+End: 00:03:46.160
+Duration: 1.000 seconds
+Text: So, please.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:03:46.160
+End: 00:03:51.320
+Duration: 5.160 seconds
+Text: Well, Mayor, I've got to tell you that Eddie gave me this sheet with all these facts about
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:03:51.320
+End: 00:03:52.640
+Duration: 1.320 seconds
+Text: the parks and rec.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:03:52.640
+End: 00:03:54.280
+Duration: 1.640 seconds
+Text: He just gave it to me.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:03:54.280
+End: 00:03:58.120
+Duration: 3.840 seconds
+Text: But the one thing is very evident is that we've got great parks.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:03:58.120
+End: 00:03:59.920
+Duration: 1.800 seconds
+Text: We've got wonderful recreation.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:03:59.920
+End: 00:04:03.280
+Duration: 3.360 seconds
+Text: We've got a super department of parks and recreation.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:04:03.280
+End: 00:04:04.280
+Duration: 1.000 seconds
+Text: And guess what?
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:04:04.280
+End: 00:04:10.360
+Duration: 6.080 seconds
+Text: We have the support of the community because of the sales tax issue that passed overwhelmingly
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:04:10.360
+End: 00:04:18.420
+Duration: 8.060 seconds
+Text: to build indoor recreation centers to improve Seaco Park and add to our wonderful trails
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:04:18.420
+End: 00:04:20.960
+Duration: 2.540 seconds
+Text: system in Manhattan as well.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:04:20.960
+End: 00:04:27.400
+Duration: 6.440 seconds
+Text: So, all these things come together to make Manhattan and the quality of life superior.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:04:27.400
+End: 00:04:30.480
+Duration: 3.080 seconds
+Text: And we just thank everybody in your support.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:04:30.480
+End: 00:04:37.920
+Duration: 7.440 seconds
+Text: Now, I want to let you know to City Commission that I had a conference with Johnny Call earlier
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:04:37.920
+End: 00:04:39.240
+Duration: 1.320 seconds
+Text: this afternoon.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:04:39.240
+End: 00:04:44.840
+Duration: 5.600 seconds
+Text: He is in full support of this recognition for parks and rec month.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:04:44.840
+End: 00:04:47.640
+Duration: 2.800 seconds
+Text: And I wanted to let you know that as well.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:04:47.640
+End: 00:04:51.200
+Duration: 3.560 seconds
+Text: And he wanted me to pass out his Johnny Call brochure.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:04:51.200
+End: 00:04:54.840
+Duration: 3.640 seconds
+Text: He was going to autograph these for you, but he was not available.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:04:54.840
+End: 00:04:56.760
+Duration: 1.920 seconds
+Text: But I will hand these out to you.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:04:56.760
+End: 00:04:58.760
+Duration: 2.000 seconds
+Text: So, thank you for your support.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:58.760
+End: 00:04:59.760
+Duration: 1.000 seconds
+Text: Thank you, Mayor.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:04:59.760
+End: 00:05:07.960
+Duration: 8.200 seconds
+Text: Commissioners, for the support for parks and recreation this month.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:05:07.960
+End: 00:05:11.920
+Duration: 3.960 seconds
+Text: I just want to also thank our parks and recreation advisory board.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:05:11.920
+End: 00:05:16.440
+Duration: 4.520 seconds
+Text: We have a group of citizens who volunteer their time and efforts to help provide guidance
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:05:16.440
+End: 00:05:17.440
+Duration: 1.000 seconds
+Text: to the department.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:17.440
+End: 00:05:19.240
+Duration: 1.800 seconds
+Text: And we appreciate that greatly.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:05:19.240
+End: 00:05:23.520
+Duration: 4.280 seconds
+Text: As Mr. Cleamack is here as the chair, Mr. Mochant, as here as Vice Chair, we also have
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:05:23.520
+End: 00:05:26.240
+Duration: 2.720 seconds
+Text: Dave Schaeffer on our park board.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:05:26.240
+End: 00:05:30.360
+Duration: 4.120 seconds
+Text: We have Darryl Edie who is a board of education member as well, Kurt Herman.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:05:30.360
+End: 00:05:32.400
+Duration: 2.040 seconds
+Text: He's also a board of education member.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:05:32.400
+End: 00:05:34.000
+Duration: 1.600 seconds
+Text: He serves on our park board.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:05:34.000
+End: 00:05:37.840
+Duration: 3.840 seconds
+Text: New members Elaine Johannes and Sue Mays just joins us yesterday.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:05:37.840
+End: 00:05:42.280
+Duration: 4.440 seconds
+Text: So I really want to thank them for their efforts because there's a lot of time and commitment
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:05:42.280
+End: 00:05:44.360
+Duration: 2.080 seconds
+Text: to help provide guidance to us.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:05:44.360
+End: 00:05:50.200
+Duration: 5.840 seconds
+Text: I also want to thank the community for, as Ed said, participating in our programs, enjoying
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:05:50.200
+End: 00:05:54.920
+Duration: 4.720 seconds
+Text: the parks, the trails, the facilities, the Discovery Center, the sunset, zoo, all of
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:05:54.920
+End: 00:05:57.880
+Duration: 2.960 seconds
+Text: those things that make this community a great community to live.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:05:57.880
+End: 00:06:02.120
+Duration: 4.240 seconds
+Text: So thank you, community for supporting us and we'll keep providing what it is that you
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:06:02.120
+End: 00:06:03.120
+Duration: 1.000 seconds
+Text: would like to see.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:06:03.120
+End: 00:06:04.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:06:04.120
+End: 00:06:05.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:06:05.120
+End: 00:06:06.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:06.120
+End: 00:06:07.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:07.120
+End: 00:06:08.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:06:08.120
+End: 00:06:09.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:09.120
+End: 00:06:10.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:06:10.120
+End: 00:06:11.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:11.120
+End: 00:06:12.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:06:12.120
+End: 00:06:13.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:13.120
+End: 00:06:14.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:14.120
+End: 00:06:15.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:06:15.120
+End: 00:06:16.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:06:16.120
+End: 00:06:17.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:17.120
+End: 00:06:18.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:18.120
+End: 00:06:19.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:19.120
+End: 00:06:20.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:20.120
+End: 00:06:21.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:21.120
+End: 00:06:22.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:22.120
+End: 00:06:23.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:23.120
+End: 00:06:24.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:24.120
+End: 00:06:25.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:06:25.120
+End: 00:06:26.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:26.120
+End: 00:06:27.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:27.120
+End: 00:06:28.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:06:28.120
+End: 00:06:29.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:29.120
+End: 00:06:30.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:06:30.120
+End: 00:06:31.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:31.120
+End: 00:06:32.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:06:32.120
+End: 00:06:33.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:33.120
+End: 00:06:46.120
+Duration: 13.000 seconds
+Text: Do you have blood siitä que請 el table lateral לק naming?
+--------------------------------------------------
+Mayor Morse:
+Start: 00:06:46.120
+End: 00:07:00.120
+Duration: 14.000 seconds
+Text: So, is anything changes first?
+--------------------------------------------------
+Mayor Morse:
+Start: 00:07:00.120
+End: 00:07:01.120
+Duration: 1.000 seconds
+Text: Maybe next week.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:07:01.120
+End: 00:07:03.720
+Duration: 2.600 seconds
+Text: you for your patients.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:07:03.720
+End: 00:07:04.720
+Duration: 1.000 seconds
+Text: Oh, wait.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:07:04.720
+End: 00:07:10.720
+Duration: 6.000 seconds
+Text: I see some of the Mandela Washington Fellows here.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:07:10.720
+End: 00:07:12.320
+Duration: 1.600 seconds
+Text: They're four.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:07:12.320
+End: 00:07:16.320
+Duration: 4.000 seconds
+Text: Two are return ease.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:07:16.320
+End: 00:07:17.720
+Duration: 1.400 seconds
+Text: I appreciate you coming.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:07:17.720
+End: 00:07:19.320
+Duration: 1.600 seconds
+Text: Thank you so much.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:07:19.320
+End: 00:07:22.420
+Duration: 3.100 seconds
+Text: Yeah, great.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:07:22.420
+End: 00:07:25.720
+Duration: 3.300 seconds
+Text: For those of you who may not know, there are 24, I think.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:07:25.720
+End: 00:07:26.720
+Duration: 1.000 seconds
+Text: 24.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:07:27.520
+End: 00:07:38.920
+Duration: 11.400 seconds
+Text: 25 from Africa, all different countries in Africa that are here in a program associated with the Leadership Studies program at Case State.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:07:38.920
+End: 00:07:41.520
+Duration: 2.600 seconds
+Text: And they're discovering us.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:07:41.520
+End: 00:07:45.120
+Duration: 3.600 seconds
+Text: And we're discovering them.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:07:45.120
+End: 00:07:47.720
+Duration: 2.600 seconds
+Text: And they're telling us about their country.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:07:47.720
+End: 00:07:50.120
+Duration: 2.400 seconds
+Text: We're getting a better understanding of each other.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:07:50.120
+End: 00:07:52.120
+Duration: 2.000 seconds
+Text: And it's all good.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:07:52.120
+End: 00:07:54.720
+Duration: 2.600 seconds
+Text: So we are thrilled that you're here.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:07:54.720
+End: 00:07:56.920
+Duration: 2.200 seconds
+Text: And we'll be seeing you more of you.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:07:56.920
+End: 00:08:00.120
+Duration: 3.200 seconds
+Text: We've just been, I've just been busy a week.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:08:00.120
+End: 00:08:02.120
+Duration: 2.000 seconds
+Text: So anyway, thank you.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:08:02.120
+End: 00:08:03.620
+Duration: 1.500 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:08:03.620
+End: 00:08:08.120
+Duration: 4.500 seconds
+Text: So the next item on the agenda is public comments.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:08:08.120
+End: 00:08:14.620
+Duration: 6.500 seconds
+Text: Is anyone here that wishes to speak on an item that is not on our agenda?
+--------------------------------------------------
+Mayor Morse:
+Start: 00:08:14.620
+End: 00:08:18.120
+Duration: 3.500 seconds
+Text: If so, if you please come forward.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:08:18.120
+End: 00:08:21.420
+Duration: 3.300 seconds
+Text: Sign in on the board.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:08:21.420
+End: 00:08:25.420
+Duration: 4.000 seconds
+Text: Seeing no one, I will close the public comments section.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:08:25.420
+End: 00:08:27.620
+Duration: 2.200 seconds
+Text: And the next section is Commissioner comments.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:08:27.620
+End: 00:08:30.420
+Duration: 2.800 seconds
+Text: If you'd like to commissioners.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:08:30.420
+End: 00:08:35.420
+Duration: 5.000 seconds
+Text: Yeah, very more is kind of stole my thunder a little bit because I was going to talk about the Washington Fellows as well.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:08:35.420
+End: 00:08:37.420
+Duration: 2.000 seconds
+Text: But it's okay. It's okay. They're great.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:08:37.420
+End: 00:08:38.420
+Duration: 1.000 seconds
+Text: About twice.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:08:38.420
+End: 00:08:39.420
+Duration: 1.000 seconds
+Text: So I'll be quick.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:08:39.420
+End: 00:08:45.820
+Duration: 6.400 seconds
+Text: I just wanted to note today that I actually got their privilege to give the Fellows a tour of Civic Plus today.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:08:45.820
+End: 00:08:49.420
+Duration: 3.600 seconds
+Text: And we got to talk about government transparency and cyber security.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:08:49.420
+End: 00:08:52.420
+Duration: 3.000 seconds
+Text: And being an entrepreneur in the community and the importance of that.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:08:52.420
+End: 00:08:55.420
+Duration: 3.000 seconds
+Text: And so I just, this would be my second interaction with them.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:08:55.420
+End: 00:08:57.420
+Duration: 2.000 seconds
+Text: And I have more upcoming.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:08:57.420
+End: 00:08:59.420
+Duration: 2.000 seconds
+Text: And I just want to echo what Mayor Moore said.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:08:59.420
+End: 00:09:01.420
+Duration: 2.000 seconds
+Text: They're here for the next five or six weeks.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:09:01.420
+End: 00:09:03.420
+Duration: 2.000 seconds
+Text: And every time I'm around them, I learn something new.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:09:03.420
+End: 00:09:05.420
+Duration: 2.000 seconds
+Text: And I have an incredible conversation.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:09:05.420
+End: 00:09:09.420
+Duration: 4.000 seconds
+Text: So I'd encourage all of you in any way that you can to get part of the program.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:09:09.420
+End: 00:09:11.420
+Duration: 2.000 seconds
+Text: It's to the leadership studies.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:09:11.420
+End: 00:09:13.420
+Duration: 2.000 seconds
+Text: And yeah, I mean, why they're here.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:09:13.420
+End: 00:09:15.420
+Duration: 2.000 seconds
+Text: We should learn from them.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:09:15.420
+End: 00:09:17.420
+Duration: 2.000 seconds
+Text: And I've just had a great time getting to know them.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:09:17.420
+End: 00:09:19.420
+Duration: 2.000 seconds
+Text: So I wanted to call attention to you all again too.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:09:19.420
+End: 00:09:21.420
+Duration: 2.000 seconds
+Text: So thank you for being here.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:09:21.420
+End: 00:09:23.420
+Duration: 2.000 seconds
+Text: And thank you for being a part of this.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:09:23.420
+End: 00:09:25.420
+Duration: 2.000 seconds
+Text: Yes, welcome.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:09:25.420
+End: 00:09:28.420
+Duration: 3.000 seconds
+Text: To our meeting. Hopefully it's fun.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:09:28.420
+End: 00:09:29.420
+Duration: 1.000 seconds
+Text: Kind of.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:09:29.420
+End: 00:09:33.420
+Duration: 4.000 seconds
+Text: I just want to say happy Independence Day tomorrow.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:09:33.420
+End: 00:09:38.420
+Duration: 5.000 seconds
+Text: And as you're having your fun and spending time with family and friends.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:09:38.420
+End: 00:09:41.420
+Duration: 3.000 seconds
+Text: We do have some policies about fireworks.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:09:41.420
+End: 00:09:45.420
+Duration: 4.000 seconds
+Text: So I just go to one of the websites, Facebook pages, whatever you need.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:09:45.420
+End: 00:09:53.420
+Duration: 8.000 seconds
+Text: Just to adhere to it so we would hate for you to get in any kind of trouble while you're enjoying your day.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:09:53.420
+End: 00:09:55.420
+Duration: 2.000 seconds
+Text: And tomorrow is the last day for fireworks.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:09:55.420
+End: 00:09:59.420
+Duration: 4.000 seconds
+Text: So no more fireworks on Friday from July 1st to July 4th.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:09:59.420
+End: 00:10:01.420
+Duration: 2.000 seconds
+Text: You could shoot off as many as you want.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:10:01.420
+End: 00:10:03.420
+Duration: 2.000 seconds
+Text: I believe you'll live night.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:10:03.420
+End: 00:10:06.420
+Duration: 3.000 seconds
+Text: Again, we're on the website.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:10:06.420
+End: 00:10:10.420
+Duration: 4.000 seconds
+Text: RCPD search committee is in full progress.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:10:10.420
+End: 00:10:17.420
+Duration: 7.000 seconds
+Text: And next week we will be pushing out some information for focus groups on Thursday and Friday.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:10:17.420
+End: 00:10:21.420
+Duration: 4.000 seconds
+Text: So look for those coming from a variety of sources.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:10:21.420
+End: 00:10:25.420
+Duration: 4.000 seconds
+Text: Website, city, county, RCPD, social media, whatever it is.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:10:25.420
+End: 00:10:28.420
+Duration: 3.000 seconds
+Text: And if you don't have a chance to participate in the focus groups,
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:10:28.420
+End: 00:10:36.420
+Duration: 8.000 seconds
+Text: there'll also be an online questionnaire for you to give your responses on what you want to see in your new RCP director.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:10:36.420
+End: 00:10:44.420
+Duration: 8.000 seconds
+Text: So that hasn't been done yet, but I just want to put it out there so you can look for it and know that it's
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:10:44.420
+End: 00:10:50.420
+Duration: 6.000 seconds
+Text: to make sure we get the a good fit for our community and the next director that we're looking for.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:10:50.420
+End: 00:10:54.420
+Duration: 4.000 seconds
+Text: With that happy Independence Day tomorrow.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:10:54.420
+End: 00:11:00.420
+Duration: 6.000 seconds
+Text: Now maybe just to add to what Ed and Eddie were talking about on our parks.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:11:00.420
+End: 00:11:05.420
+Duration: 5.000 seconds
+Text: I'm part of a group that's planting some trees around the community.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:11:05.420
+End: 00:11:10.420
+Duration: 5.000 seconds
+Text: And this has been going on since about last September or October timeframe.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:11:10.420
+End: 00:11:14.420
+Duration: 4.000 seconds
+Text: And I'm very encouraged by what I'm seeing on the trails.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:11:14.420
+End: 00:11:21.420
+Duration: 7.000 seconds
+Text: I guess I just kind of lost sight of how many people are out walking and bicycling and families and so on.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:11:21.420
+End: 00:11:25.420
+Duration: 4.000 seconds
+Text: So really is a tremendous assets for us.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:11:25.420
+End: 00:11:33.420
+Duration: 8.000 seconds
+Text: And besides the health, you know, you just see a lot of people very comfortable walking around the community,
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:11:33.420
+End: 00:11:35.420
+Duration: 2.000 seconds
+Text: which I think is very good for us.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:11:35.420
+End: 00:11:40.420
+Duration: 5.000 seconds
+Text: Maybe just to piggyback on what Usher said.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:11:40.420
+End: 00:11:44.420
+Duration: 4.000 seconds
+Text: The 4th of July is going to be dry, obviously.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:11:44.420
+End: 00:11:47.420
+Duration: 3.000 seconds
+Text: We've already had a lot of fireworks going off.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:11:47.420
+End: 00:11:54.420
+Duration: 7.000 seconds
+Text: And maybe the fire chief would like to give us a little bit on safety concerns for tomorrow.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:11:54.420
+End: 00:11:59.420
+Duration: 5.000 seconds
+Text: Sure. Remember you can light them from eight in the morning till midnight.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:11:59.420
+End: 00:12:03.420
+Duration: 4.000 seconds
+Text: Midnight tomorrow and I will be the last last of that.
+--------------------------------------------------
+City Clerk:
+Start: 00:12:03.420
+End: 00:12:09.420
+Duration: 6.000 seconds
+Text: If you have fireworks, I would recommend doing a going and seeing a public display.
+--------------------------------------------------
+City Clerk:
+Start: 00:12:09.420
+End: 00:12:13.420
+Duration: 4.000 seconds
+Text: But I understand there's a lot of people that want to shoot them themselves.
+--------------------------------------------------
+City Clerk:
+Start: 00:12:13.420
+End: 00:12:16.420
+Duration: 3.000 seconds
+Text: So remember, don't give them the small children.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:12:16.420
+End: 00:12:20.420
+Duration: 4.000 seconds
+Text: Don't light them in glass or metal containers.
+--------------------------------------------------
+City Clerk:
+Start: 00:12:20.420
+End: 00:12:25.420
+Duration: 5.000 seconds
+Text: Plan ahead, you know, water down the area that you plan to shoot your fireworks.
+--------------------------------------------------
+City Clerk:
+Start: 00:12:25.420
+End: 00:12:26.420
+Duration: 1.000 seconds
+Text: Have a bucket available.
+--------------------------------------------------
+City Clerk:
+Start: 00:12:26.420
+End: 00:12:32.420
+Duration: 6.000 seconds
+Text: Maybe a stretch out your garden hose and have it available just in case something gets out of hand.
+--------------------------------------------------
+City Clerk:
+Start: 00:12:32.420
+End: 00:12:36.420
+Duration: 4.000 seconds
+Text: And then obviously fireworks and alcohol don't mix well.
+--------------------------------------------------
+City Clerk:
+Start: 00:12:36.420
+End: 00:12:39.420
+Duration: 3.000 seconds
+Text: So I recommend you do it sober.
+--------------------------------------------------
+City Clerk:
+Start: 00:12:39.420
+End: 00:12:47.420
+Duration: 8.000 seconds
+Text: And then like I say, have fun and enjoy it, but just be safe and use them correctly.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:12:47.420
+End: 00:12:59.420
+Duration: 12.000 seconds
+Text: Thank you very much. I thought you were going to make a pitch for watering your bushes and trees and your yards because everything is very dry.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:12:59.420
+End: 00:13:04.420
+Duration: 5.000 seconds
+Text: So tomorrow night or tomorrow morning,
+--------------------------------------------------
+Mayor Morse:
+Start: 00:13:04.420
+End: 00:13:13.420
+Duration: 9.000 seconds
+Text: I think it's sober, co-honus, is hosting a pancake feed at Potter Hall from 730 to 11.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:13:13.420
+End: 00:13:15.420
+Duration: 2.000 seconds
+Text: And I just want to give them a pat.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:13:15.420
+End: 00:13:18.420
+Duration: 3.000 seconds
+Text: Sometimes you look for something to do on a holiday.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:13:18.420
+End: 00:13:21.420
+Duration: 3.000 seconds
+Text: So the pancake feed is in the morning.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:13:21.420
+End: 00:13:29.420
+Duration: 8.000 seconds
+Text: And then tomorrow evening at 630, the Manhattan Municipal Band will be playing at the band shell in the Arts and the Park stage.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:13:29.420
+End: 00:13:35.420
+Duration: 6.000 seconds
+Text: And they do a wonderful job and they are such a great patriotic music.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:13:35.420
+End: 00:13:39.420
+Duration: 4.000 seconds
+Text: Just tap your toes. It's wonderful.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:13:39.420
+End: 00:13:52.420
+Duration: 13.000 seconds
+Text: And Arts and the Park has a performance, a different musical performance every Friday night through the end of July at the Arts and the Park stage in City Park.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:13:52.420
+End: 00:14:00.420
+Duration: 8.000 seconds
+Text: There are fireworks, not so much here in Manhattan, but Junction City has a huge firework display.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:14:00.420
+End: 00:14:02.420
+Duration: 2.000 seconds
+Text: We all know what Mego does.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:14:02.420
+End: 00:14:07.420
+Duration: 5.000 seconds
+Text: The Manhattan Country Club here in Manhattan has a fireworks display.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:14:07.420
+End: 00:14:14.420
+Duration: 7.000 seconds
+Text: And what I try to do is back away to a hill at a distance so I can see them all.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:14:14.420
+End: 00:14:17.420
+Duration: 3.000 seconds
+Text: But the Country Club has our local.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:14:17.420
+End: 00:14:19.420
+Duration: 2.000 seconds
+Text: At least I saw a permit go through.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:14:19.420
+End: 00:14:22.420
+Duration: 3.000 seconds
+Text: So hooray for what they're doing that.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:14:22.420
+End: 00:14:26.420
+Duration: 4.000 seconds
+Text: There's something else that we do in this community that's a little bit unusual.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:14:26.420
+End: 00:14:29.420
+Duration: 3.000 seconds
+Text: It's called furniture amnesty day.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:14:29.420
+End: 00:14:35.420
+Duration: 6.000 seconds
+Text: And if you have some furniture you would like to get rid of and you don't want to have to haul it off yourself.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:14:35.420
+End: 00:14:37.420
+Duration: 2.000 seconds
+Text: Maybe it's heavy or whatever.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:14:37.420
+End: 00:14:46.420
+Duration: 9.000 seconds
+Text: Or you're new to the community and you don't have much furniture and you need a kitchen table or a couch or a dining room chair.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:14:46.420
+End: 00:14:47.420
+Duration: 1.000 seconds
+Text: Something like that.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:14:47.420
+End: 00:14:52.420
+Duration: 5.000 seconds
+Text: This is just for you because this is free furniture.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:14:52.420
+End: 00:14:58.420
+Duration: 6.000 seconds
+Text: We have so many people coming and going in our community that that furniture is always moving around.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:14:58.420
+End: 00:15:03.420
+Duration: 5.000 seconds
+Text: So you can donate beginning at like eight o'clock in the morning.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:15:03.420
+End: 00:15:06.420
+Duration: 3.000 seconds
+Text: Well, you need to call two days ahead of time.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:15:06.420
+End: 00:15:11.420
+Duration: 5.000 seconds
+Text: But it will be held on Friday, July 27th beginning at 8 a.m.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:15:11.420
+End: 00:15:16.420
+Duration: 5.000 seconds
+Text: And there's a whole, I'm told there's a whole crew of volunteer fire department.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:15:16.420
+End: 00:15:20.420
+Duration: 4.000 seconds
+Text: And I don't even know the organizations that are supporting this.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:15:20.420
+End: 00:15:24.420
+Duration: 4.000 seconds
+Text: But leadership studies at case stayed and hands on case state the United Way.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:15:24.420
+End: 00:15:29.420
+Duration: 5.000 seconds
+Text: They will go to your home that morning and pick up the furniture that you want to discard.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:15:29.420
+End: 00:15:41.420
+Duration: 12.000 seconds
+Text: They'll take it to city park and beginning at 11 o'clock you can go to customers can go to city park and register for a time slot.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:15:41.420
+End: 00:15:48.420
+Duration: 7.000 seconds
+Text: Might be two hours later, but you will have the opportunity to go and pick out some furniture.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:15:48.420
+End: 00:15:53.420
+Duration: 5.000 seconds
+Text: There what these volunteers will be picking up furniture all day.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:15:53.420
+End: 00:15:58.420
+Duration: 5.000 seconds
+Text: So there'll be an infusion of new furniture coming in all day.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:15:58.420
+End: 00:16:03.420
+Duration: 5.000 seconds
+Text: So I just think it's a wonderful thing that our community does for for the citizens here.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:16:03.420
+End: 00:16:07.420
+Duration: 4.000 seconds
+Text: So let me I just wanted to make sure I explained enough about it.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:16:07.420
+End: 00:16:15.420
+Duration: 8.000 seconds
+Text: If you go to city of mhk.com slash furniture, you'll be able to find all the information about that.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:16:15.420
+End: 00:16:24.420
+Duration: 9.000 seconds
+Text: So with that, that would complete the commissioner comments and now we're ready for the consent agenda.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:16:24.420
+End: 00:16:35.420
+Duration: 11.000 seconds
+Text: And the items on the consent agenda are those of a routine and housekeeping nature or those items that have been previously reviewed by the city commission.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:16:35.420
+End: 00:16:41.420
+Duration: 6.000 seconds
+Text: The commissioner may request an item be moved to the end of the general agenda.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:16:41.420
+End: 00:16:48.420
+Duration: 7.000 seconds
+Text: Does the commission have any questions or comments on any of the consent agenda items?
+--------------------------------------------------
+City Clerk:
+Start: 00:16:48.420
+End: 00:16:51.420
+Duration: 3.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:16:51.420
+End: 00:16:53.420
+Duration: 2.000 seconds
+Text: Seeing none.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:16:53.420
+End: 00:16:55.420
+Duration: 2.000 seconds
+Text: I move, we accept.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:16:55.420
+End: 00:17:00.420
+Duration: 5.000 seconds
+Text: Oh, we need public comment. Sorry. Sorry. I'm just you.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:17:00.420
+End: 00:17:05.420
+Duration: 5.000 seconds
+Text: Anyone in the audience wish to make any public comments?
+--------------------------------------------------
+Mayor Morse:
+Start: 00:17:05.420
+End: 00:17:09.420
+Duration: 4.000 seconds
+Text: Seeing no one, I will close the public comments. Thank you. All right.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:17:09.420
+End: 00:17:13.420
+Duration: 4.000 seconds
+Text: I'm sorry. I move. We approve the consent agenda.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:17:13.420
+End: 00:17:14.420
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:17:14.420
+End: 00:17:18.420
+Duration: 4.000 seconds
+Text: A motion and a second city clerk. Gary fees. Would you call the roll?
+--------------------------------------------------
+Mayor Morse:
+Start: 00:17:18.420
+End: 00:17:20.420
+Duration: 2.000 seconds
+Text: Mir Morris. Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:20.420
+End: 00:17:22.420
+Duration: 2.000 seconds
+Text: Commissioner Dawson. Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:22.420
+End: 00:17:23.420
+Duration: 1.000 seconds
+Text: Commissioner. Ready? Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:23.420
+End: 00:17:28.420
+Duration: 5.000 seconds
+Text: Commissioner McGee. Yes. Motion carries. 4, 0.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:17:28.420
+End: 00:17:33.420
+Duration: 5.000 seconds
+Text: Okay. The next item. This actually this meeting is going to go pretty fast. I hope.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:17:33.420
+End: 00:17:35.420
+Duration: 2.000 seconds
+Text: That seems like it might.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:17:35.420
+End: 00:17:52.420
+Duration: 17.000 seconds
+Text: We're ready for the general agenda. The first item is to consider the first reading of an ordinance rezoning the AmeriCare PUD from i5, business park district and R3, multiple family residential district.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:17:52.420
+End: 00:18:02.420
+Duration: 10.000 seconds
+Text: With a portion of the property in the airport overlay district to plan changing it to planned unit development with a portion of the site in the airport overlay district.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:18:02.420
+End: 00:18:07.420
+Duration: 5.000 seconds
+Text: So Chad Bunger, the assistant director of community development will be our presenter.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:07.420
+End: 00:18:10.420
+Duration: 3.000 seconds
+Text: Good evening. Thank you, Mayor. Good evening, commissioners.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:10.420
+End: 00:18:14.420
+Duration: 4.000 seconds
+Text: Provide the staff report summary.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:14.420
+End: 00:18:21.420
+Duration: 7.000 seconds
+Text: We are in the Stonehaven neighborhood, which is just off of Miller Parkway.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:21.420
+End: 00:18:26.420
+Duration: 5.000 seconds
+Text: We're generally speaking of this outlined area.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:26.420
+End: 00:18:44.420
+Duration: 18.000 seconds
+Text: That's part of the larger Stonehaven unit two development. Part of it where most of it was rezoned last summer in 2017 and forwarding the development plans.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:44.420
+End: 00:18:53.420
+Duration: 9.000 seconds
+Text: The rezoning that sits today is on your left. The majority of the site was rezoned to R3.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:53.420
+End: 00:19:04.420
+Duration: 11.000 seconds
+Text: The proposed use as a assisted living and nursing home type facility would fall within a conditional use of the R3 district.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:04.420
+End: 00:19:26.420
+Duration: 22.000 seconds
+Text: However, because of the development type with multiple separate dwelling units on one lot, use of travel easements and other factors, the rezoning to a plan unit development was a better fit for the proposal.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:26.420
+End: 00:19:40.420
+Duration: 14.000 seconds
+Text: So I'll go ahead and fill out the proposal as well as, and I'll get into this more, this I-5 area here at the corner of Amherst and Miller Parkway is also being treated within the PD and I'll elaborate that.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:40.420
+End: 00:19:51.420
+Duration: 11.000 seconds
+Text: So the proposal is to a PD as well as incorporate it or to continue to include it into the airport overlay district, which works to address any potential impacts that may be put upon the
+--------------------------------------------------
+City Clerk:
+Start: 00:19:51.420
+End: 00:20:06.420
+Duration: 15.000 seconds
+Text: the airport, regional airport. So we are looking at three lots that are part of this proposed PUD. It's a little over 11 acres and total.
+--------------------------------------------------
+City Clerk:
+Start: 00:20:06.420
+End: 00:20:23.420
+Duration: 17.000 seconds
+Text: Lot six and seven will be part of the AmeriCare facilities and then Lot 5 is a vacant undeveloped track or there's no development plans yet today but I'll explain why we get to that point here right now.
+--------------------------------------------------
+City Clerk:
+Start: 00:20:23.420
+End: 00:20:47.420
+Duration: 24.000 seconds
+Text: The rezoning that occurred last summer followed the proposed plat for Stonehaven unit two and Lot 5 in that plat or what will now become Lot 5 in that plat is too small of Lot area for the I-5 district.
+--------------------------------------------------
+City Clerk:
+Start: 00:20:47.420
+End: 00:21:08.420
+Duration: 21.000 seconds
+Text: The rezoning that occurred at that time left it as I-5 but it didn't take an account the area that was being proposed. And so without addressing it either through variants with the border zoning appeals or through this PUD process, it would be unbuildable and the plat could not go through based on our subdivision regulations.
+--------------------------------------------------
+City Clerk:
+Start: 00:21:08.420
+End: 00:21:32.420
+Duration: 24.000 seconds
+Text: The city and the developer or the property owner chose the PUD route in that the variant standards are pretty tough. One of the hardest ones to overcome is what is the hardship that is not created or excuse me the unique condition that's not created by the owner as well as the hardship and being that the property owner is creating the plat, it's tough to overcome those factors.
+--------------------------------------------------
+City Clerk:
+Start: 00:21:32.420
+End: 00:21:55.420
+Duration: 23.000 seconds
+Text: So they're folding into the PUD with all the uses permitted in conditional as part of the PUD as well as the bulk regulations so the setbacks, the building heights, the lock coverage, the other use limitations that would address screening.
+--------------------------------------------------
+City Clerk:
+Start: 00:21:55.420
+End: 00:22:05.420
+Duration: 10.000 seconds
+Text: All those are being folded into the PUD, the only one regulation of the I-5 that's not being included is a lot area, all the other ones would be.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:05.420
+End: 00:22:15.420
+Duration: 10.000 seconds
+Text: The other piece to note is there will be no access off of Miller Parkway only off of what would be extended of Amherst Avenue with the development.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:15.420
+End: 00:22:28.420
+Duration: 13.000 seconds
+Text: So there is no plan for this lot now when a development does come we will address it through the PUD process.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:28.420
+End: 00:22:41.420
+Duration: 13.000 seconds
+Text: The development plans that we do have are for Lot 6 and 7. Lot 6s will have the arbor which is a memory care facility that will have 32 units in it.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:41.420
+End: 00:22:53.420
+Duration: 12.000 seconds
+Text: I believe this will be the arbor here that will be developed in two phases each with 16 units based on the dental market demand.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:53.420
+End: 00:22:55.420
+Duration: 2.000 seconds
+Text: Excuse me, that is the arbor.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:55.420
+End: 00:23:08.420
+Duration: 13.000 seconds
+Text: And then the assisted living facility now here will have 30 units as well as the other pieces to assist the residents and that will be built in one phase.
+--------------------------------------------------
+City Clerk:
+Start: 00:23:08.420
+End: 00:23:15.420
+Duration: 7.000 seconds
+Text: So this will be two facilities on Lot 6s.
+--------------------------------------------------
+City Clerk:
+Start: 00:23:15.420
+End: 00:23:27.420
+Duration: 12.000 seconds
+Text: As you can see the parking lot and the access of our off of Amherst Avenue here through the circle of type driveway.
+--------------------------------------------------
+City Clerk:
+Start: 00:23:27.420
+End: 00:23:34.420
+Duration: 7.000 seconds
+Text: And then Lot 7 will be the cottages. These are duplexes and triplexes.
+--------------------------------------------------
+City Clerk:
+Start: 00:23:34.420
+End: 00:23:39.420
+Duration: 5.000 seconds
+Text: The duplexes are going to be two bedroom units and the triplexes are single family or single bedroom units.
+--------------------------------------------------
+City Clerk:
+Start: 00:23:39.420
+End: 00:23:48.420
+Duration: 9.000 seconds
+Text: They will also be built in phases and as you can see here they will be accessed with travel easements circling the and dissecting the site.
+--------------------------------------------------
+City Clerk:
+Start: 00:23:48.420
+End: 00:23:53.420
+Duration: 5.000 seconds
+Text: The Austrian parking provided in the area as well as covered car porches for the residents.
+--------------------------------------------------
+City Clerk:
+Start: 00:23:53.420
+End: 00:24:00.420
+Duration: 7.000 seconds
+Text: There's also a clubhouse proposed and some outdoor amenities proposed throughout it.
+--------------------------------------------------
+City Clerk:
+Start: 00:24:00.420
+End: 00:24:05.420
+Duration: 5.000 seconds
+Text: Architectural elevations of the assisted living facility.
+--------------------------------------------------
+City Clerk:
+Start: 00:24:05.420
+End: 00:24:11.420
+Duration: 6.000 seconds
+Text: And then the arbor's memory care facility.
+--------------------------------------------------
+City Clerk:
+Start: 00:24:11.420
+End: 00:24:23.420
+Duration: 12.000 seconds
+Text: And as I apologize this was washed out so bad but the cottage units, the duplexes, the triplexes as well as the clubhouses.
+--------------------------------------------------
+City Clerk:
+Start: 00:24:23.420
+End: 00:24:33.420
+Duration: 10.000 seconds
+Text: As you can see the surrounding zoning. There are a variety of residential uses. Some pudies with town homes and multi-family here.
+--------------------------------------------------
+City Clerk:
+Start: 00:24:33.420
+End: 00:24:40.420
+Duration: 7.000 seconds
+Text: And the family as well as the i5 district that remains.
+--------------------------------------------------
+City Clerk:
+Start: 00:24:40.420
+End: 00:24:50.420
+Duration: 10.000 seconds
+Text: And a view, kind of an orthogonal view of the variety of uses that are built and kind of get an idea of the train.
+--------------------------------------------------
+City Clerk:
+Start: 00:24:50.420
+End: 00:24:57.420
+Duration: 7.000 seconds
+Text: I won't go into much more detail unless you ask me to.
+--------------------------------------------------
+City Clerk:
+Start: 00:24:57.420
+End: 00:25:06.420
+Duration: 9.000 seconds
+Text: The comprehensive plan was determined that the proposed development meets, conformed, generally conformed the comprehensive plan.
+--------------------------------------------------
+City Clerk:
+Start: 00:25:06.420
+End: 00:25:15.420
+Duration: 9.000 seconds
+Text: Like I mentioned the R3 district that it was rezoned to was found to conform to the comprehensive plan of the rezoning.
+--------------------------------------------------
+City Clerk:
+Start: 00:25:15.420
+End: 00:25:24.420
+Duration: 9.000 seconds
+Text: And then the pud process just fits better with the development plan that that is before you tonight.
+--------------------------------------------------
+City Clerk:
+Start: 00:25:24.420
+End: 00:25:30.420
+Duration: 6.000 seconds
+Text: The planning board has reviewed this item recommended approval to you.
+--------------------------------------------------
+City Clerk:
+Start: 00:25:30.420
+End: 00:25:33.420
+Duration: 3.000 seconds
+Text: Staff recommended 11 conditions of approval.
+--------------------------------------------------
+City Clerk:
+Start: 00:25:33.420
+End: 00:25:42.420
+Duration: 9.000 seconds
+Text: And then the planning board added a 12th to make sure that any lighting plans were addressed.
+--------------------------------------------------
+City Clerk:
+Start: 00:25:42.420
+End: 00:25:46.420
+Duration: 4.000 seconds
+Text: The applicant did provide us with a detailed lighting plan following the planning board meeting.
+--------------------------------------------------
+City Clerk:
+Start: 00:25:46.420
+End: 00:25:54.420
+Duration: 8.000 seconds
+Text: We have that. No light will spill off the site. So it conforms with our zoning requirements.
+--------------------------------------------------
+City Clerk:
+Start: 00:25:54.420
+End: 00:25:58.420
+Duration: 4.000 seconds
+Text: So I think that's all I really have. I'd be happy to answer your questions.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:25:58.420
+End: 00:26:04.420
+Duration: 6.000 seconds
+Text: Can you go back to slides? Yep. And I'm sorry if I'm missing something.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:26:04.420
+End: 00:26:07.420
+Duration: 3.000 seconds
+Text: So where would the access points and exit points for the facility be?
+--------------------------------------------------
+City Clerk:
+Start: 00:26:07.420
+End: 00:26:15.420
+Duration: 8.000 seconds
+Text: Sure. So envision Amherst Avenue coming down this way, generally speaking, following the property line.
+--------------------------------------------------
+City Clerk:
+Start: 00:26:15.420
+End: 00:26:20.420
+Duration: 5.000 seconds
+Text: And I don't know exactly. I'll be best if I probably just go to the site plan.
+--------------------------------------------------
+City Clerk:
+Start: 00:26:20.420
+End: 00:26:27.420
+Duration: 7.000 seconds
+Text: So this is lot five here. There'll be two access points off of Amherst.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:26:27.420
+End: 00:26:30.420
+Duration: 3.000 seconds
+Text: So for lots of things who pays for that additional infrastructure?
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:26:30.420
+End: 00:26:35.420
+Duration: 5.000 seconds
+Text: Would it be a special that was a part of that property or how did that work?
+--------------------------------------------------
+City Clerk:
+Start: 00:26:35.420
+End: 00:26:40.420
+Duration: 5.000 seconds
+Text: I don't know if we've discussed that. Let the applicant discuss how they plan to finance the.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:26:40.420
+End: 00:26:51.420
+Duration: 11.000 seconds
+Text: Is that fair to discuss and a rezoning? Katie. That's more of a legal question.
+--------------------------------------------------
+City Clerk:
+Start: 00:26:52.420
+End: 00:26:58.420
+Duration: 6.000 seconds
+Text: Are you wanting to make a zoning decision based upon the plan for financing the road improvement?
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:26:58.420
+End: 00:27:01.420
+Duration: 3.000 seconds
+Text: Is that the question for me to make a zoning decision based on that?
+--------------------------------------------------
+City Clerk:
+Start: 00:27:01.420
+End: 00:27:07.420
+Duration: 6.000 seconds
+Text: Your zoning decision has to be based on those golden factors that are in the report and that Chad can cover.
+--------------------------------------------------
+City Clerk:
+Start: 00:27:07.420
+End: 00:27:15.420
+Duration: 8.000 seconds
+Text: We can go through. And we've provided analysis in the staff report. So if you believe that that relates to one of those golden factors,
+--------------------------------------------------
+City Clerk:
+Start: 00:27:15.420
+End: 00:27:21.420
+Duration: 6.000 seconds
+Text: that's something that you can stay. But if it does not relate to one of those factors, then it wouldn't serve as a basis for the decision.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:27:21.420
+End: 00:27:27.420
+Duration: 6.000 seconds
+Text: Okay. Then it's probably not pertinent at this moment, but that's something I definitely want to just have a little bit of better understanding.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:27:27.420
+End: 00:27:36.420
+Duration: 9.000 seconds
+Text: Sure about. But otherwise that was my only.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:27:36.420
+End: 00:27:51.420
+Duration: 15.000 seconds
+Text: I don't have any further comments. I think I just wanted a little bit more clarification as far as when I was reading the planning board discussion.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:27:51.420
+End: 00:27:52.420
+Duration: 1.000 seconds
+Text: I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I
+--------------------------------------------------
+City Clerk:
+Start: 00:28:21.420
+End: 00:28:51.420
+Duration: 30.000 seconds
+Text: don't know. I don't know. I don't know. I don't know.
+--------------------------------------------------
+City Clerk:
+Start: 00:28:51.420
+End: 00:28:56.980
+Duration: 5.560 seconds
+Text: which are identical to the I-5 permitted in conditional uses,
+--------------------------------------------------
+City Clerk:
+Start: 00:28:56.980
+End: 00:29:03.260
+Duration: 6.280 seconds
+Text: as well as any development on there will need to conform to all the setback,
+--------------------------------------------------
+City Clerk:
+Start: 00:29:03.260
+End: 00:29:10.380
+Duration: 7.120 seconds
+Text: lock coverage, building height, and any of the other use limitations of the I-5 district.
+--------------------------------------------------
+City Clerk:
+Start: 00:29:10.380
+End: 00:29:20.060
+Duration: 9.680 seconds
+Text: It's really just a streamlined way to address the small lot area due to the rezoning that occurred last summer.
+--------------------------------------------------
+City Clerk:
+Start: 00:29:20.060
+End: 00:29:25.500
+Duration: 5.440 seconds
+Text: So it's really well-function as an I-5, it'll just be within this beauty.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:29:25.500
+End: 00:29:30.820
+Duration: 5.320 seconds
+Text: Well, when it said no longer required to meet all five, it was kind of worded.
+--------------------------------------------------
+City Clerk:
+Start: 00:29:30.820
+End: 00:29:34.260
+Duration: 3.440 seconds
+Text: Yeah, it is a difficult thing to explain.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:29:34.260
+End: 00:29:40.860
+Duration: 6.600 seconds
+Text: And mainly because we have all of those set in place, I just wanted to make sure we are still using the ordinances
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:29:40.860
+End: 00:29:47.020
+Duration: 6.160 seconds
+Text: and the I-5 regulations the way they ought to be used without making acceptance of
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:29:47.020
+End: 00:29:50.500
+Duration: 3.480 seconds
+Text: conditionals, conditions for all of them.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:29:50.500
+End: 00:29:52.500
+Duration: 2.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:29:52.500
+End: 00:29:53.580
+Duration: 1.080 seconds
+Text: Thank you, Chad.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:29:53.580
+End: 00:30:04.660
+Duration: 11.080 seconds
+Text: With that, does the developer have any interest in speaking to us?
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:30:04.660
+End: 00:30:08.460
+Duration: 3.800 seconds
+Text: Well, I would have an interest in taking any questions that you may have,
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:30:08.460
+End: 00:30:10.980
+Duration: 2.520 seconds
+Text: particularly regarding a lot five.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:30:10.980
+End: 00:30:12.300
+Duration: 1.320 seconds
+Text: This is your Neil Porton.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:30:12.300
+End: 00:30:13.300
+Duration: 1.000 seconds
+Text: I am Neil Porton.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:30:13.300
+End: 00:30:13.620
+Duration: 0.320 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:30:13.620
+End: 00:30:14.540
+Duration: 0.920 seconds
+Text: Fire construction.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:30:14.540
+End: 00:30:15.140
+Duration: 0.600 seconds
+Text: OK.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:30:15.140
+End: 00:30:15.780
+Duration: 0.640 seconds
+Text: OK.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:30:15.780
+End: 00:30:21.100
+Duration: 5.320 seconds
+Text: And so we're going to retain ownership of lot five here for a little while,
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:30:21.100
+End: 00:30:26.100
+Duration: 5.000 seconds
+Text: and so I could answer any questions regarding that.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:30:26.100
+End: 00:30:31.700
+Duration: 5.600 seconds
+Text: Otherwise, I'm happy to introduce Neil Slattery with AmeriCare to talk to you about the improvements
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:30:31.700
+End: 00:30:36.220
+Duration: 4.520 seconds
+Text: that they're planning on lot six and seven.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:30:36.220
+End: 00:30:36.820
+Duration: 0.600 seconds
+Text: OK.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:30:36.820
+End: 00:30:39.740
+Duration: 2.920 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:30:39.740
+End: 00:30:43.700
+Duration: 3.960 seconds
+Text: Mr. Slatter, you've issued a state your name and address.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:30:43.700
+End: 00:30:44.900
+Duration: 1.200 seconds
+Text: I think is what we usually do.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:44.900
+End: 00:30:45.900
+Duration: 1.000 seconds
+Text: Good evening, everyone.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:45.900
+End: 00:30:46.900
+Duration: 1.000 seconds
+Text: My name is Neil Slattery.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:46.900
+End: 00:30:49.220
+Duration: 2.320 seconds
+Text: I'm a staff engineer for AmeriCare.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:49.220
+End: 00:30:54.780
+Duration: 5.560 seconds
+Text: Address at 3310 Blood Creek Drive, Columbia, Missouri.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:54.780
+End: 00:30:59.140
+Duration: 4.360 seconds
+Text: First I'd like to say that AmeriCare is excited to come into the Manhattan community.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:59.140
+End: 00:31:04.180
+Duration: 5.040 seconds
+Text: For those of you that don't know AmeriCare has been in the business, so for 30 something
+--------------------------------------------------
+City Clerk:
+Start: 00:31:04.180
+End: 00:31:09.300
+Duration: 5.120 seconds
+Text: years, they've grown from a handful of facilities and small communities.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:09.300
+End: 00:31:15.740
+Duration: 6.440 seconds
+Text: And now they're in five states and about 140 facilities.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:15.740
+End: 00:31:21.100
+Duration: 5.360 seconds
+Text: As staff has indicated in their report, lot six would be two large assisted living buildings,
+--------------------------------------------------
+City Clerk:
+Start: 00:31:21.100
+End: 00:31:23.700
+Duration: 2.600 seconds
+Text: one, specializing in memory care.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:23.700
+End: 00:31:26.700
+Duration: 3.000 seconds
+Text: This is overseen by the state of Kansas.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:26.700
+End: 00:31:29.780
+Duration: 3.080 seconds
+Text: Lot seven will be still being assisted living use.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:29.780
+End: 00:31:34.940
+Duration: 5.160 seconds
+Text: They're attached to independent cottages for added amenities.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:34.940
+End: 00:31:39.620
+Duration: 4.680 seconds
+Text: For those residents that don't quite need the two large buildings yet, I'm here to
+--------------------------------------------------
+City Clerk:
+Start: 00:31:39.620
+End: 00:31:42.380
+Duration: 2.760 seconds
+Text: answer any additional questions that you may have.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:42.380
+End: 00:31:44.340
+Duration: 1.960 seconds
+Text: Give me an idea on schedule.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:44.340
+End: 00:31:49.700
+Duration: 5.360 seconds
+Text: If everything moves forward tonight, we'll probably get, we've already started on design
+--------------------------------------------------
+City Clerk:
+Start: 00:31:49.700
+End: 00:31:53.260
+Duration: 3.560 seconds
+Text: with the goal of hopefully starting some dirt work late this year.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:53.260
+End: 00:31:58.820
+Duration: 5.560 seconds
+Text: This project would take about a year and a half and doors hopefully open in the mid summer
+--------------------------------------------------
+City Clerk:
+Start: 00:31:58.820
+End: 00:32:00.820
+Duration: 2.000 seconds
+Text: 2020.
+--------------------------------------------------
+City Clerk:
+Start: 00:32:00.820
+End: 00:32:01.820
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:32:01.820
+End: 00:32:04.140
+Duration: 2.320 seconds
+Text: Do you have questions, Jerry?
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:32:04.140
+End: 00:32:08.740
+Duration: 4.600 seconds
+Text: Yeah, Chad, I have an question.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:32:08.740
+End: 00:32:13.140
+Duration: 4.400 seconds
+Text: So maybe it is pertinent for me to bring it up because I read rule number 11 and it says
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:32:13.140
+End: 00:32:19.100
+Duration: 5.960 seconds
+Text: whether adequate sewer, water facilities, streets and other needed public services exist.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:32:19.100
+End: 00:32:23.100
+Duration: 4.000 seconds
+Text: And our answer to that question was public water, sanitary sewer and streets are planned
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:32:23.100
+End: 00:32:27.100
+Duration: 4.000 seconds
+Text: for the site and are available to be installed on that site.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:32:27.100
+End: 00:32:31.380
+Duration: 4.280 seconds
+Text: So that essentially is just, is that saying we could put a street there or there is a plan
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:32:31.380
+End: 00:32:33.060
+Duration: 1.680 seconds
+Text: to put a street there?
+--------------------------------------------------
+City Clerk:
+Start: 00:32:33.060
+End: 00:32:41.500
+Duration: 8.440 seconds
+Text: So the preliminary plan and then the development plans all show that a street and all the sewer
+--------------------------------------------------
+City Clerk:
+Start: 00:32:41.500
+End: 00:32:45.180
+Duration: 3.680 seconds
+Text: and water to serve the whole development can occur.
+--------------------------------------------------
+City Clerk:
+Start: 00:32:45.180
+End: 00:32:51.140
+Duration: 5.960 seconds
+Text: Public works has reviewed that last summer and really no changes are occurring with the
+--------------------------------------------------
+City Clerk:
+Start: 00:32:51.140
+End: 00:32:52.460
+Duration: 1.320 seconds
+Text: development plan.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:32:52.460
+End: 00:32:57.420
+Duration: 4.960 seconds
+Text: So it essentially just means it's possible for a street to be there.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:32:57.420
+End: 00:33:00.140
+Duration: 2.720 seconds
+Text: The details of that still need to be worked out essentially.
+--------------------------------------------------
+City Clerk:
+Start: 00:33:00.140
+End: 00:33:01.140
+Duration: 1.000 seconds
+Text: Correct.
+--------------------------------------------------
+City Clerk:
+Start: 00:33:01.140
+End: 00:33:02.140
+Duration: 1.000 seconds
+Text: Yeah, my thought needed.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:33:02.140
+End: 00:33:02.980
+Duration: 0.840 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:33:03.980
+End: 00:33:04.980
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:33:04.980
+End: 00:33:10.980
+Duration: 6.000 seconds
+Text: Are there other questions or does anyone else wish to speak?
+--------------------------------------------------
+Mayor Morse:
+Start: 00:33:10.980
+End: 00:33:11.980
+Duration: 1.000 seconds
+Text: Mr. Slatter yet?
+--------------------------------------------------
+Mayor Morse:
+Start: 00:33:11.980
+End: 00:33:13.980
+Duration: 2.000 seconds
+Text: Are there other questions?
+--------------------------------------------------
+Mayor Morse:
+Start: 00:33:13.980
+End: 00:33:14.980
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:33:14.980
+End: 00:33:15.980
+Duration: 1.000 seconds
+Text: Thank you very much.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:33:15.980
+End: 00:33:25.980
+Duration: 10.000 seconds
+Text: With that, the close the public, is there anyone that wishes to speak from the public
+--------------------------------------------------
+Mayor Morse:
+Start: 00:33:25.980
+End: 00:33:28.980
+Duration: 3.000 seconds
+Text: with regard to this proposal?
+--------------------------------------------------
+Mayor Morse:
+Start: 00:33:28.980
+End: 00:33:33.020
+Duration: 4.040 seconds
+Text: We've heard from the staff and the developer.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:33:33.020
+End: 00:33:34.020
+Duration: 1.000 seconds
+Text: No one from the public.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:33:34.020
+End: 00:33:40.860
+Duration: 6.840 seconds
+Text: I'll close the public comments section and ask the commission to, if they have any further
+--------------------------------------------------
+Mayor Morse:
+Start: 00:33:40.860
+End: 00:33:42.260
+Duration: 1.400 seconds
+Text: questions or...
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:33:42.260
+End: 00:33:50.260
+Duration: 8.000 seconds
+Text: Just a comment maybe I'd appreciate Neil Horton and Rich Sideler.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:33:50.260
+End: 00:33:52.940
+Duration: 2.680 seconds
+Text: Patients and hard work.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:33:52.940
+End: 00:33:59.740
+Duration: 6.800 seconds
+Text: I know their intent in the beginning was to make all of this coordinated with the neighborhood
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:33:59.740
+End: 00:34:01.940
+Duration: 2.200 seconds
+Text: and of course they've done a fine job with that.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:34:01.940
+End: 00:34:07.380
+Duration: 5.440 seconds
+Text: And this PUD of course makes it quite a bit smoother but we appreciate the patience and
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:34:07.380
+End: 00:34:10.140
+Duration: 2.760 seconds
+Text: the time it's taken to put all this in place.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:34:10.140
+End: 00:34:16.140
+Duration: 6.000 seconds
+Text: Neil Slatter, we appreciate you coming to town and providing a service that we think
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:34:16.140
+End: 00:34:21.300
+Duration: 5.160 seconds
+Text: we can take advantage of and certainly need it here in town.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:34:21.300
+End: 00:34:26.340
+Duration: 5.040 seconds
+Text: So, I'm ready to make motion.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:34:26.340
+End: 00:34:32.780
+Duration: 6.440 seconds
+Text: I would just like to say that certainly it seems that this kind of a facility is needed
+--------------------------------------------------
+Mayor Morse:
+Start: 00:34:32.780
+End: 00:34:34.180
+Duration: 1.400 seconds
+Text: here in our community.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:34:34.180
+End: 00:34:41.900
+Duration: 7.720 seconds
+Text: We have a baby boomer, a bulge in the population coming here and the facilities we have are
+--------------------------------------------------
+Mayor Morse:
+Start: 00:34:41.900
+End: 00:34:47.220
+Duration: 5.320 seconds
+Text: largely deemed to be full and certainly we have a need for memory care.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:34:47.220
+End: 00:34:56.940
+Duration: 9.720 seconds
+Text: So it seems like the appropriate thing and as we actually just kind of open up this
+--------------------------------------------------
+Mayor Morse:
+Start: 00:34:56.940
+End: 00:35:01.060
+Duration: 4.120 seconds
+Text: area also this is a good first to go through.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:35:01.060
+End: 00:35:11.380
+Duration: 10.320 seconds
+Text: So I'm pleased on the basis, the basis of the planning board support also and the scrutiny
+--------------------------------------------------
+Mayor Morse:
+Start: 00:35:11.380
+End: 00:35:12.380
+Duration: 1.000 seconds
+Text: that they exercised.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:35:12.380
+End: 00:35:17.460
+Duration: 5.080 seconds
+Text: I plan to support the motion.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:35:17.460
+End: 00:35:23.300
+Duration: 5.840 seconds
+Text: Right, no I think this fits with the plan that we have for the area and I think there is
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:35:23.300
+End: 00:35:28.180
+Duration: 4.880 seconds
+Text: a need in our community for assisted living and it seems to have several options and I think
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:35:28.180
+End: 00:35:30.220
+Duration: 2.040 seconds
+Text: that's what people want more now than ever before.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:35:30.220
+End: 00:35:37.180
+Duration: 6.960 seconds
+Text: It's have more options instead of just confined to one particular way of meeting their needs.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:35:37.180
+End: 00:35:42.140
+Duration: 4.960 seconds
+Text: I think the neighborhood, I'm glad that the neighborhood was all right with this as
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:35:42.140
+End: 00:35:48.300
+Duration: 6.160 seconds
+Text: well and the way it came about I think this probably fits better although it took us
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:35:48.300
+End: 00:35:49.580
+Duration: 1.280 seconds
+Text: longer to get here.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:35:49.580
+End: 00:35:57.460
+Duration: 7.880 seconds
+Text: I think it's, I have, well I wish them well in that area and I hope this is up and going
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:35:57.460
+End: 00:36:00.460
+Duration: 3.000 seconds
+Text: because there's a lot of need in our community for such facilities.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:36:00.460
+End: 00:36:01.460
+Duration: 1.000 seconds
+Text: So thank you.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:36:01.460
+End: 00:36:05.100
+Duration: 3.640 seconds
+Text: And just say I go to the commissioner of comments, my questioning around the road has nothing
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:36:05.100
+End: 00:36:09.340
+Duration: 4.240 seconds
+Text: to do with my displeasure of hopefully the future use of this slot just with a tight
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:36:09.340
+End: 00:36:13.660
+Duration: 4.320 seconds
+Text: budget I want to make sure I understand the implications of what we're doing so I'm
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:36:13.660
+End: 00:36:19.300
+Duration: 5.640 seconds
+Text: excited to see this too and I go to commissioner comm, Commissioner Dawson's comments on your
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:36:19.300
+End: 00:36:26.540
+Duration: 7.240 seconds
+Text: patience through the process.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:36:26.540
+End: 00:36:33.740
+Duration: 7.200 seconds
+Text: I move we approve the first reading of an ordinance rezoning America PUD 11.3 to acre
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:36:33.740
+End: 00:36:39.580
+Duration: 5.840 seconds
+Text: of site from I five business park district and R three multiple family residential district
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:36:39.580
+End: 00:36:46.740
+Duration: 7.160 seconds
+Text: with a portion of this district in the AO airport overlay district to plan unit development
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:36:46.740
+End: 00:36:52.120
+Duration: 5.380 seconds
+Text: with a portion of this district to contain the AO airport overlay district based on the
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:36:52.120
+End: 00:36:56.380
+Duration: 4.260 seconds
+Text: findings and the staff report with 12 conditions of approval.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:36:56.380
+End: 00:36:59.380
+Duration: 3.000 seconds
+Text: Second, there's a motion and a second.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:36:59.380
+End: 00:37:02.220
+Duration: 2.840 seconds
+Text: City clerk would you call the roll?
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:37:02.220
+End: 00:37:03.220
+Duration: 1.000 seconds
+Text: Commissioner Dawson.
+--------------------------------------------------
+City Clerk:
+Start: 00:37:03.220
+End: 00:37:04.220
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:37:04.220
+End: 00:37:05.220
+Duration: 1.000 seconds
+Text: Commissioner Reddy.
+--------------------------------------------------
+City Clerk:
+Start: 00:37:05.220
+End: 00:37:06.220
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:37:06.220
+End: 00:37:07.220
+Duration: 1.000 seconds
+Text: Commissioner McKee.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:37:07.220
+End: 00:37:08.220
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:37:08.220
+End: 00:37:09.220
+Duration: 1.000 seconds
+Text: And Mayor Mors.
+--------------------------------------------------
+City Clerk:
+Start: 00:37:09.220
+End: 00:37:10.220
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:37:10.220
+End: 00:37:11.220
+Duration: 1.000 seconds
+Text: Motion carries.
+--------------------------------------------------
+City Clerk:
+Start: 00:37:11.220
+End: 00:37:12.220
+Duration: 1.000 seconds
+Text: Four zero.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:37:12.220
+End: 00:37:13.220
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:37:13.220
+End: 00:37:19.900
+Duration: 6.680 seconds
+Text: The next item on the agenda is to consider the first reading of an ordinance rezoning a .37
+--------------------------------------------------
+Mayor Morse:
+Start: 00:37:19.900
+End: 00:37:28.980
+Duration: 9.080 seconds
+Text: acre tract of land in Stonehaven addition unit two from residential a airport overlay single
+--------------------------------------------------
+Mayor Morse:
+Start: 00:37:28.980
+End: 00:37:36.500
+Duration: 7.520 seconds
+Text: family residential district with the airport overlay to I five AO business park district
+--------------------------------------------------
+Mayor Morse:
+Start: 00:37:36.500
+End: 00:37:38.900
+Duration: 2.400 seconds
+Text: with airport overlay.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:37:38.900
+End: 00:37:42.940
+Duration: 4.040 seconds
+Text: Someday we have to undo the tongue to a smart.
+--------------------------------------------------
+City Clerk:
+Start: 00:37:42.940
+End: 00:37:44.780
+Duration: 1.840 seconds
+Text: Maybe the audio can solve that.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:37:44.780
+End: 00:37:46.700
+Duration: 1.920 seconds
+Text: Thank you very much and Chad your back.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:37:46.700
+End: 00:37:47.700
+Duration: 1.000 seconds
+Text: So good.
+--------------------------------------------------
+City Clerk:
+Start: 00:37:47.700
+End: 00:37:49.740
+Duration: 2.040 seconds
+Text: Thank you again.
+--------------------------------------------------
+City Clerk:
+Start: 00:37:49.740
+End: 00:37:55.900
+Duration: 6.160 seconds
+Text: This review this quickly as well.
+--------------------------------------------------
+City Clerk:
+Start: 00:37:56.700
+End: 00:37:58.900
+Duration: 2.200 seconds
+Text: Again, we're in the Stonehaven area.
+--------------------------------------------------
+City Clerk:
+Start: 00:37:58.900
+End: 00:38:08.260
+Duration: 9.360 seconds
+Text: The same neighborhood we were just at dealing with this .37 acre track.
+--------------------------------------------------
+City Clerk:
+Start: 00:38:08.260
+End: 00:38:15.820
+Duration: 7.560 seconds
+Text: This was the rezoning of the land prior to last summer with the Stonehaven development.
+--------------------------------------------------
+City Clerk:
+Start: 00:38:15.820
+End: 00:38:21.460
+Duration: 5.640 seconds
+Text: As you can see the I five industrial business park district excuse me generally followed
+--------------------------------------------------
+City Clerk:
+Start: 00:38:21.460
+End: 00:38:25.740
+Duration: 4.280 seconds
+Text: this section line I believe is what it is.
+--------------------------------------------------
+City Clerk:
+Start: 00:38:25.740
+End: 00:38:32.260
+Duration: 6.520 seconds
+Text: And this land was to the I five in the land of south was our single family residential.
+--------------------------------------------------
+City Clerk:
+Start: 00:38:32.260
+End: 00:38:40.740
+Duration: 8.480 seconds
+Text: The development proposal last summer extended the or was proposed to have a commercial area
+--------------------------------------------------
+City Clerk:
+Start: 00:38:40.740
+End: 00:38:44.660
+Duration: 3.920 seconds
+Text: that was slightly larger than what was on that section line.
+--------------------------------------------------
+City Clerk:
+Start: 00:38:44.660
+End: 00:38:49.660
+Duration: 5.000 seconds
+Text: It dropped the south about 40 feet.
+--------------------------------------------------
+City Clerk:
+Start: 00:38:49.660
+End: 00:38:55.300
+Duration: 5.640 seconds
+Text: And again this is a remnant of that rezoning decision.
+--------------------------------------------------
+City Clerk:
+Start: 00:38:55.300
+End: 00:39:02.940
+Duration: 7.640 seconds
+Text: What occurred was as you know the single family further to the south the R three area here
+--------------------------------------------------
+City Clerk:
+Start: 00:39:02.940
+End: 00:39:05.940
+Duration: 3.000 seconds
+Text: and then the I five area generally remained.
+--------------------------------------------------
+City Clerk:
+Start: 00:39:05.940
+End: 00:39:13.420
+Duration: 7.480 seconds
+Text: This was an unfortunate byproduct of that rezoning that did not get rezoned and its original
+--------------------------------------------------
+City Clerk:
+Start: 00:39:13.420
+End: 00:39:17.300
+Duration: 3.880 seconds
+Text: R single family residential remained.
+--------------------------------------------------
+City Clerk:
+Start: 00:39:17.300
+End: 00:39:24.540
+Duration: 7.240 seconds
+Text: So the rezoning question before you tonight is really to rezoning it to match its neighbor
+--------------------------------------------------
+City Clerk:
+Start: 00:39:24.540
+End: 00:39:28.180
+Duration: 3.640 seconds
+Text: to the north in the I five district.
+--------------------------------------------------
+City Clerk:
+Start: 00:39:28.180
+End: 00:39:34.540
+Duration: 6.360 seconds
+Text: It's completely undevelopable and would impact the final platt if not rezoned.
+--------------------------------------------------
+City Clerk:
+Start: 00:39:34.540
+End: 00:39:37.540
+Duration: 3.000 seconds
+Text: And so that is what's before you.
+--------------------------------------------------
+City Clerk:
+Start: 00:39:37.540
+End: 00:39:40.340
+Duration: 2.800 seconds
+Text: Again, you can see the platt.
+--------------------------------------------------
+City Clerk:
+Start: 00:39:40.340
+End: 00:39:48.580
+Duration: 8.240 seconds
+Text: This was the original property line with the I five and the proposed platt has that property
+--------------------------------------------------
+City Clerk:
+Start: 00:39:48.580
+End: 00:39:51.820
+Duration: 3.240 seconds
+Text: line moved south about 40 feet.
+--------------------------------------------------
+City Clerk:
+Start: 00:39:51.820
+End: 00:40:00.780
+Duration: 8.960 seconds
+Text: So just bringing this all into one zoning district and one last time to make it as clear as possible.
+--------------------------------------------------
+City Clerk:
+Start: 00:40:00.780
+End: 00:40:05.140
+Duration: 4.360 seconds
+Text: There are no plans that we are aware of for this site.
+--------------------------------------------------
+City Clerk:
+Start: 00:40:05.140
+End: 00:40:09.020
+Duration: 3.880 seconds
+Text: Other than just to maintain its I five business park district.
+--------------------------------------------------
+City Clerk:
+Start: 00:40:09.180
+End: 00:40:17.460
+Duration: 8.280 seconds
+Text: This would pave the way for the final platt and and future developments.
+--------------------------------------------------
+City Clerk:
+Start: 00:40:17.460
+End: 00:40:24.940
+Duration: 7.480 seconds
+Text: I think that's really all I have similar findings by the planning board that heard this two
+--------------------------------------------------
+City Clerk:
+Start: 00:40:24.940
+End: 00:40:31.380
+Duration: 6.440 seconds
+Text: weeks ago and they also recommend approval of the proposed rezoning.
+--------------------------------------------------
+City Clerk:
+Start: 00:40:31.380
+End: 00:40:37.820
+Duration: 6.440 seconds
+Text: If you're happening any answering questions you may have.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:40:37.820
+End: 00:40:39.820
+Duration: 2.000 seconds
+Text: Are there questions?
+--------------------------------------------------
+Mayor Morse:
+Start: 00:40:39.820
+End: 00:40:40.820
+Duration: 1.000 seconds
+Text: Thank you, Chad.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:40:40.820
+End: 00:40:41.820
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:40:41.820
+End: 00:40:46.820
+Duration: 5.000 seconds
+Text: Does the developer wish to speak to us?
+--------------------------------------------------
+Mayor Morse:
+Start: 00:40:46.820
+End: 00:40:47.820
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:40:47.820
+End: 00:40:48.820
+Duration: 1.000 seconds
+Text: Fairly straightforward.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:40:48.820
+End: 00:40:49.820
+Duration: 1.000 seconds
+Text: You're thinking.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:40:49.820
+End: 00:40:50.820
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:40:50.820
+End: 00:40:53.820
+Duration: 3.000 seconds
+Text: I don't see any problem with this.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:40:53.820
+End: 00:40:54.820
+Duration: 1.000 seconds
+Text: I'm willing to make a motion.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:40:54.820
+End: 00:40:55.820
+Duration: 1.000 seconds
+Text: There's more comments.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:40:55.820
+End: 00:41:01.300
+Duration: 5.480 seconds
+Text: I think it makes sense to align things so that there are no problem.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:41:01.300
+End: 00:41:03.300
+Duration: 2.000 seconds
+Text: We don't leave problems for the future.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:41:03.300
+End: 00:41:05.820
+Duration: 2.520 seconds
+Text: So this would be a good point.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:41:06.820
+End: 00:41:07.820
+Duration: 1.000 seconds
+Text: I move.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:41:07.820
+End: 00:41:09.820
+Duration: 2.000 seconds
+Text: We approve first reading of an ordinance rezoning.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:41:09.820
+End: 00:41:11.820
+Duration: 2.000 seconds
+Text: We have to have public comment.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:41:11.820
+End: 00:41:12.820
+Duration: 1.000 seconds
+Text: I know.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:41:12.820
+End: 00:41:15.820
+Duration: 3.000 seconds
+Text: It's confused.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:41:15.820
+End: 00:41:20.820
+Duration: 5.000 seconds
+Text: So does anyone from the public wish to speak to this proposal?
+--------------------------------------------------
+Mayor Morse:
+Start: 00:41:20.820
+End: 00:41:23.820
+Duration: 3.000 seconds
+Text: Anyone have any concerns?
+--------------------------------------------------
+Mayor Morse:
+Start: 00:41:23.820
+End: 00:41:24.820
+Duration: 1.000 seconds
+Text: Seeing no one.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:41:24.820
+End: 00:41:26.820
+Duration: 2.000 seconds
+Text: I'll close the public comment section.
+--------------------------------------------------
+City Clerk:
+Start: 00:41:26.820
+End: 00:41:27.820
+Duration: 1.000 seconds
+Text: You should.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:41:27.820
+End: 00:41:29.820
+Duration: 2.000 seconds
+Text: We're all a little sorry.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:41:29.820
+End: 00:41:30.820
+Duration: 1.000 seconds
+Text: I move.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:41:30.820
+End: 00:41:35.700
+Duration: 4.880 seconds
+Text: We approve first reading of an ordinance rezoning a .37 acre track of land from the
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:41:35.700
+End: 00:41:41.700
+Duration: 6.000 seconds
+Text: R.A.O. single family residential district with the airport overlay to I.5.
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:41:41.700
+End: 00:41:47.700
+Duration: 6.000 seconds
+Text: A.O. business park district with the airport overlay based on the findings and the staff report and
+--------------------------------------------------
+Commissioner McGee:
+Start: 00:41:47.700
+End: 00:41:52.700
+Duration: 5.000 seconds
+Text: recommendations of the Manhattan Urban Area Planning Board planning board.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:41:52.700
+End: 00:41:53.700
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:41:53.700
+End: 00:41:54.700
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:41:54.700
+End: 00:41:56.700
+Duration: 2.000 seconds
+Text: There's a motion and a second.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:41:56.700
+End: 00:41:58.700
+Duration: 2.000 seconds
+Text: I said it clear but you call the role.
+--------------------------------------------------
+City Clerk:
+Start: 00:41:58.700
+End: 00:41:59.700
+Duration: 1.000 seconds
+Text: Commissioner Ready.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:41:59.700
+End: 00:42:00.700
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:42:00.700
+End: 00:42:01.700
+Duration: 1.000 seconds
+Text: Commissioner McKee.
+--------------------------------------------------
+City Clerk:
+Start: 00:42:01.700
+End: 00:42:02.700
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:42:02.700
+End: 00:42:03.700
+Duration: 1.000 seconds
+Text: Mayor Morse.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:42:03.700
+End: 00:42:04.700
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Dawson:
+Start: 00:42:05.700
+End: 00:42:07.700
+Duration: 2.000 seconds
+Text: Motion carries.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:42:07.700
+End: 00:42:08.700
+Duration: 1.000 seconds
+Text: For 0.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:42:08.700
+End: 00:42:09.700
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:42:09.700
+End: 00:42:11.700
+Duration: 2.000 seconds
+Text: That completes our agenda.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:42:11.700
+End: 00:42:19.700
+Duration: 8.000 seconds
+Text: I would like to just encourage everyone to have a safe and enjoyable Independence Day.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:42:19.700
+End: 00:42:22.700
+Duration: 3.000 seconds
+Text: Holiday tomorrow as you celebrate our country's birthday.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:42:22.700
+End: 00:42:26.700
+Duration: 4.000 seconds
+Text: And I'd also like to encourage you to fly a mhk.
+--------------------------------------------------
+City Clerk:
+Start: 00:42:26.700
+End: 00:42:27.700
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------

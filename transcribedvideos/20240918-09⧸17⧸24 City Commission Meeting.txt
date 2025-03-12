@@ -1,0 +1,5247 @@
+Transcription and Diarization for 20240918-09⧸17⧸24 City Commission Meeting.mp4
+==================================================
+
+City Clerk:
+Start: 00:00:00.000
+End: 00:00:09.360
+Duration: 9.360 seconds
+Text: Good evening. It is now 6 o'clock and we will I will call the what day it's
+--------------------------------------------------
+City Clerk:
+Start: 00:00:09.360
+End: 00:00:14.160
+Duration: 4.800 seconds
+Text: today. Thank you. The two states September 17th,
+--------------------------------------------------
+City Clerk:
+Start: 00:00:14.160
+End: 00:00:20.480
+Duration: 6.320 seconds
+Text: 9th, 2024 City Commission meeting to order. City clerk please call the roll.
+--------------------------------------------------
+Staff Member:
+Start: 00:00:20.480
+End: 00:00:24.320
+Duration: 3.840 seconds
+Text: Mayor Adam check. Here. Mr. McCullough. Yes.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:00:25.040
+End: 00:00:28.560
+Duration: 3.520 seconds
+Text: Mr. O'Palt. Present. Mr. Armada. Here.
+--------------------------------------------------
+Staff Member:
+Start: 00:00:28.560
+End: 00:00:32.960
+Duration: 4.400 seconds
+Text: Mr. Mitton. Here. Mayor we have five commissioners present. The Gourmet 3 is met.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:32.960
+End: 00:00:36.240
+Duration: 3.280 seconds
+Text: Thank you. Please rise and join me in saying the pledge of allegiance.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:00:38.560
+End: 00:00:45.040
+Duration: 6.480 seconds
+Text: I pledge allegiance to the flag of the United States of America and to the Republic for which it
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:00:45.040
+End: 00:00:50.800
+Duration: 5.760 seconds
+Text: stands one nation under God in the result with liberty and justice for all.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:55.120
+End: 00:01:01.120
+Duration: 6.000 seconds
+Text: Thank you. We have three proclamations this evening. The first has been
+--------------------------------------------------
+City Clerk:
+Start: 00:01:02.480
+End: 00:01:12.640
+Duration: 10.160 seconds
+Text: requested by Sarah Larson, Laura Renfrow and Dr. Susan Metzger representing the daughters of the
+--------------------------------------------------
+City Clerk:
+Start: 00:01:12.640
+End: 00:01:14.320
+Duration: 1.680 seconds
+Text: American Revolution.
+--------------------------------------------------
+City Clerk:
+Start: 00:01:27.920
+End: 00:01:35.760
+Duration: 7.840 seconds
+Text: Whereas September 17th, 2024 marks the 237th anniversary of the drafting of the
+--------------------------------------------------
+City Clerk:
+Start: 00:01:35.760
+End: 00:01:40.560
+Duration: 4.800 seconds
+Text: Constitution of the United States by the Constitutional Commission Convention.
+--------------------------------------------------
+City Clerk:
+Start: 00:01:41.120
+End: 00:01:46.320
+Duration: 5.200 seconds
+Text: And whereas it is fitting and proper to officially recognize this magnificent document
+--------------------------------------------------
+City Clerk:
+Start: 00:01:46.320
+End: 00:01:52.880
+Duration: 6.560 seconds
+Text: and the anniversary of its creation. And whereas it is fitting and proper to officially
+--------------------------------------------------
+City Clerk:
+Start: 00:01:52.880
+End: 00:01:58.640
+Duration: 5.760 seconds
+Text: recognize the patriotic celebrations which will commemorate the occasion.
+--------------------------------------------------
+City Clerk:
+Start: 00:01:59.440
+End: 00:02:06.080
+Duration: 6.640 seconds
+Text: And whereas public law 915 guarantees the issuing of a proclamation each year by the President
+--------------------------------------------------
+City Clerk:
+Start: 00:02:06.080
+End: 00:02:13.360
+Duration: 7.280 seconds
+Text: of the United States, designating September 17th through 23rd as Constitution Week.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:14.160
+End: 00:02:20.640
+Duration: 6.480 seconds
+Text: Now therefore I, Susan Adam Jack, Mayor of the City of Manhattan, do here by proclam
+--------------------------------------------------
+City Clerk:
+Start: 00:02:21.280
+End: 00:02:29.360
+Duration: 8.080 seconds
+Text: September 17th, 2017 through the 23rd, 2024 as Constitution Week in Manhattan.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:30.240
+End: 00:02:38.080
+Duration: 7.840 seconds
+Text: And I ask our citizens to reaffirm the ideals, the framers of the Constitution had in 1787.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:38.640
+End: 00:02:46.240
+Duration: 7.600 seconds
+Text: And I urge all citizens to study the Constitution and reflect on the privileges of being an American
+--------------------------------------------------
+City Clerk:
+Start: 00:02:46.720
+End: 00:02:51.120
+Duration: 4.400 seconds
+Text: with all the rights and responsibilities which that privilege involves.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:52.080
+End: 00:03:00.240
+Duration: 8.160 seconds
+Text: In witness whereof, I hear by here unto, set my hand and caused this seal of the City of
+--------------------------------------------------
+City Clerk:
+Start: 00:03:00.240
+End: 00:03:05.840
+Duration: 5.600 seconds
+Text: Manhattan Kansas to be affixed this 17th day of September 2024.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:03:21.840
+End: 00:03:29.680
+Duration: 7.840 seconds
+Text: Thank you so much, Miss Mayor. The Polyogden D.A.R. chapter is very proud to celebrate
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:03:29.680
+End: 00:03:34.800
+Duration: 5.120 seconds
+Text: Constitution Week as the D.A.R. was the first actually to petition Congress for
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:03:35.520
+End: 00:03:42.480
+Duration: 6.960 seconds
+Text: Constitution Week celebrations in 1955 and then brought into law sign by our great 34th President
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:03:42.480
+End: 00:03:48.640
+Duration: 6.160 seconds
+Text: from the 34th state of Kansas to white D.I.'s and how are in 1956. Around town we have different
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:03:48.640
+End: 00:03:53.440
+Duration: 4.800 seconds
+Text: activities going on at our last chapter meeting. We actually had a nice Constitution bingo with a
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:03:53.440
+End: 00:04:00.880
+Duration: 7.440 seconds
+Text: lot of fun facts. We also passed out 577 pocket constitutions to the elementary schools,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:04:00.880
+End: 00:04:05.600
+Duration: 4.720 seconds
+Text: fourth graders around town and then also we have displays and business windows throughout the
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:04:05.600
+End: 00:04:10.800
+Duration: 5.200 seconds
+Text: town too. So we're very excited there's actually fall on Constitution Day. Today is actually
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:04:10.800
+End: 00:04:13.520
+Duration: 2.720 seconds
+Text: a holy Constitution Day so we're excited to celebrate with everyone.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:21.840
+End: 00:04:28.720
+Duration: 6.880 seconds
+Text: Our next proclamation has been requested by big brothers, big sisters of Manhattan.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:30.480
+End: 00:04:36.240
+Duration: 5.760 seconds
+Text: We will be joined by Michelle Sink and anyone else.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:37.200
+End: 00:04:40.400
+Duration: 3.200 seconds
+Text: Okay. Kendall Getsman.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:45.200
+End: 00:04:53.280
+Duration: 8.080 seconds
+Text: And Melissa Sultan. Whereas the young people of Manhattan are the future leaders of our community,
+--------------------------------------------------
+City Clerk:
+Start: 00:04:53.920
+End: 00:05:00.480
+Duration: 6.560 seconds
+Text: whereas many of these young individuals require effective mentoring programs to navigate various
+--------------------------------------------------
+City Clerk:
+Start: 00:05:00.480
+End: 00:05:06.080
+Duration: 5.600 seconds
+Text: social and financial hardships. And whereas Kansas big brothers, big sisters play a
+--------------------------------------------------
+City Clerk:
+Start: 00:05:06.080
+End: 00:05:14.320
+Duration: 8.240 seconds
+Text: sub pivotal role in substance abuse prevention, delinquency prevention, literacy initiatives,
+--------------------------------------------------
+City Clerk:
+Start: 00:05:14.320
+End: 00:05:21.120
+Duration: 6.800 seconds
+Text: and more through its mentoring efforts. And whereas the big brothers, big sisters organization
+--------------------------------------------------
+City Clerk:
+Start: 00:05:21.120
+End: 00:05:26.640
+Duration: 5.520 seconds
+Text: in our community provides quality activities and an nurturing environment through mentoring,
+--------------------------------------------------
+City Clerk:
+Start: 00:05:27.280
+End: 00:05:33.760
+Duration: 6.480 seconds
+Text: ensuring our youth have the support they need. And whereas Kansas big brothers, big sisters
+--------------------------------------------------
+City Clerk:
+Start: 00:05:33.760
+End: 00:05:40.720
+Duration: 6.960 seconds
+Text: serving Riley County have celebrated over 30 years of service to the community. Now therefore
+--------------------------------------------------
+City Clerk:
+Start: 00:05:40.720
+End: 00:05:46.640
+Duration: 5.920 seconds
+Text: I, Susan Adam check mayor of the city of Manhattan, Kansas, do hereby proclaim September,
+--------------------------------------------------
+City Clerk:
+Start: 00:05:46.640
+End: 00:05:52.640
+Duration: 6.000 seconds
+Text: 24 September, 2024 as Kansas big brothers, big sisters month.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:55.920
+End: 00:06:03.200
+Duration: 7.280 seconds
+Text: Sorry. In the city of Manhattan and I urge all citizens to join with me in recognizing and
+--------------------------------------------------
+City Clerk:
+Start: 00:06:03.200
+End: 00:06:09.360
+Duration: 6.160 seconds
+Text: commanding Kansas big brothers, big sisters organization for their exceptional and impactful
+--------------------------------------------------
+City Clerk:
+Start: 00:06:09.360
+End: 00:06:16.320
+Duration: 6.960 seconds
+Text: service to youth. In witness thereof, I have here on to set my hand and cause the seal of
+--------------------------------------------------
+City Clerk:
+Start: 00:06:16.320
+End: 00:06:23.680
+Duration: 7.360 seconds
+Text: Manhattan Kansas to be affixed this 17th day of September, 2024. Congratulations.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:06:47.280
+End: 00:06:53.280
+Duration: 6.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:04.960
+End: 00:07:10.480
+Duration: 5.520 seconds
+Text: And we have one last proclamation tonight, Michael Roscala.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:11.440
+End: 00:07:15.760
+Duration: 4.320 seconds
+Text: Hello.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:19.440
+End: 00:07:26.080
+Duration: 6.640 seconds
+Text: We have been requested to identify September as recovery month in our community.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:27.680
+End: 00:07:33.600
+Duration: 5.920 seconds
+Text: Whereas behavioral health is an essential part of health and overall wellness and prevention
+--------------------------------------------------
+City Clerk:
+Start: 00:07:33.600
+End: 00:07:40.560
+Duration: 6.960 seconds
+Text: works treatment is effective and people can and do recover from substance abuse and mental
+--------------------------------------------------
+City Clerk:
+Start: 00:07:40.560
+End: 00:07:48.480
+Duration: 7.920 seconds
+Text: disorders. And whereas it is critical to educate our policymakers, friends and family members,
+--------------------------------------------------
+City Clerk:
+Start: 00:07:48.480
+End: 00:07:55.280
+Duration: 6.800 seconds
+Text: healthcare providers and businesses that substance use and mental disorders are treatable.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:56.080
+End: 00:08:01.760
+Duration: 5.680 seconds
+Text: And that people should seek assistance for these conditions with the same urgency they would
+--------------------------------------------------
+City Clerk:
+Start: 00:08:01.760
+End: 00:08:08.480
+Duration: 6.720 seconds
+Text: have in any other health condition. And whereas almost 21 million Americans have at least one
+--------------------------------------------------
+City Clerk:
+Start: 00:08:08.480
+End: 00:08:17.760
+Duration: 9.280 seconds
+Text: addiction, yet only 10% of them receive treatment and drug overdose deaths have more than tripled
+--------------------------------------------------
+City Clerk:
+Start: 00:08:17.760
+End: 00:08:27.680
+Duration: 9.920 seconds
+Text: since 1990. Whereas social support is crucial and social isolation is a risk factor for relapse
+--------------------------------------------------
+City Clerk:
+Start: 00:08:27.680
+End: 00:08:33.920
+Duration: 6.240 seconds
+Text: and physical distancing measures in quarantine may be especially difficult for people in recovery
+--------------------------------------------------
+City Clerk:
+Start: 00:08:33.920
+End: 00:08:40.160
+Duration: 6.240 seconds
+Text: because they limit access to meetings of peer support groups and other sources of social connection.
+--------------------------------------------------
+City Clerk:
+Start: 00:08:41.280
+End: 00:08:47.360
+Duration: 6.080 seconds
+Text: And whereas the U.S. Department of Health and Human Services, the substance abuse and mental health
+--------------------------------------------------
+City Clerk:
+Start: 00:08:47.360
+End: 00:08:55.440
+Duration: 8.080 seconds
+Text: services administration, the White House Office of National Drug Control Policy and Pawnee Mental
+--------------------------------------------------
+City Clerk:
+Start: 00:08:55.440
+End: 00:09:03.120
+Duration: 7.680 seconds
+Text: Health Services observe recovery month to raise awareness and understanding of recovery from
+--------------------------------------------------
+City Clerk:
+Start: 00:09:03.120
+End: 00:09:11.120
+Duration: 8.000 seconds
+Text: substance abuse, substance use and mental disorders. Now therefore, I Susan Adam check,
+--------------------------------------------------
+City Clerk:
+Start: 00:09:11.120
+End: 00:09:19.200
+Duration: 8.080 seconds
+Text: mayor of the city of Manhattan, Kansas, to hear by declare September 2024 as recovery month in
+--------------------------------------------------
+City Clerk:
+Start: 00:09:19.200
+End: 00:09:26.160
+Duration: 6.960 seconds
+Text: Manhattan. And I call upon citizens, government agencies, public and private institutions,
+--------------------------------------------------
+City Clerk:
+Start: 00:09:26.160
+End: 00:09:34.400
+Duration: 8.240 seconds
+Text: businesses and schools to recognize the importance of recovery and to commit our community to
+--------------------------------------------------
+City Clerk:
+Start: 00:09:34.400
+End: 00:09:41.680
+Duration: 7.280 seconds
+Text: increasing awareness and understanding of substance use and mental disorders and need for appropriate
+--------------------------------------------------
+City Clerk:
+Start: 00:09:41.680
+End: 00:09:49.520
+Duration: 7.840 seconds
+Text: and accessible services for all people. In witness thereof, I have here unto set my hand
+--------------------------------------------------
+City Clerk:
+Start: 00:09:49.520
+End: 00:09:56.560
+Duration: 7.040 seconds
+Text: and caused the seal of the city of Manhattan, Kansas to be affixed this 17th day of September 2024.
+--------------------------------------------------
+City Clerk:
+Start: 00:09:59.520
+End: 00:10:00.480
+Duration: 0.960 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:10:03.840
+End: 00:10:04.640
+Duration: 0.800 seconds
+Text: Thank you, Mr. Mayor.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:10:04.800
+End: 00:10:15.280
+Duration: 10.480 seconds
+Text: My name is Mike Criscala. I am the CEO of Plenty Mental Health. I would like to see this opportunity
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:10:15.280
+End: 00:10:21.360
+Duration: 6.080 seconds
+Text: to thank you for acknowledging the month of September as National Recovery Month. This signifies
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:10:23.360
+End: 00:10:28.560
+Duration: 5.200 seconds
+Text: your commitment to the promotion of the importance of mental health and substance use disorder
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:10:28.560
+End: 00:10:39.040
+Duration: 10.480 seconds
+Text: treatment. National Recovery Month, which started in 1989, is a national observance held every
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:10:39.040
+End: 00:10:45.920
+Duration: 6.880 seconds
+Text: September to promote and support new evidence-based treatment and recovery practices, the nation's
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:10:45.920
+End: 00:10:54.560
+Duration: 8.640 seconds
+Text: strong and proud recovery community and the dedication of service providers like Pony and communities
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:10:54.560
+End: 00:11:02.800
+Duration: 8.240 seconds
+Text: who make recovery in all its forms possible. In 2023, the U.S. Substance Abuse and Mental Health
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:11:02.800
+End: 00:11:13.840
+Duration: 11.040 seconds
+Text: Administration published a report indicating that in 2021, 70 million adults aged 18 or older
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:11:13.840
+End: 00:11:20.640
+Duration: 6.800 seconds
+Text: perceived that they ever had a substance use or mental health and or mental health problem
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:11:21.520
+End: 00:11:27.360
+Duration: 5.840 seconds
+Text: in the U.S. It is not a surprise that the month of September is also suicide prevention month.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:11:29.120
+End: 00:11:37.920
+Duration: 8.800 seconds
+Text: Suicide and recovery are closely intertwined. In fact, one in four individuals who died by suicide
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:11:38.560
+End: 00:11:44.400
+Duration: 5.840 seconds
+Text: had been struggling with substance use disorder using drugs or alcohol at that time.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:11:44.720
+End: 00:11:53.280
+Duration: 8.560 seconds
+Text: The U.S. Substance Abuse and Mental Health Administration published some alarming data. More than
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:11:53.280
+End: 00:12:02.320
+Duration: 9.040 seconds
+Text: 49,000 people in the U.S. died by suicide in 2022. That's one death every 11 minutes.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:12:04.080
+End: 00:12:08.400
+Duration: 4.320 seconds
+Text: We at Pony Mental Health Technology promote the importance of recovery services
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:12:08.480
+End: 00:12:12.560
+Duration: 4.080 seconds
+Text: and are committed to suicide prevention. We appreciate the City of Manhattan's
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:12:13.440
+End: 00:12:19.440
+Duration: 6.000 seconds
+Text: support to recovery services and to the mission of Pony and for allowing us to get this proclamation
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:12:19.440
+End: 00:12:23.840
+Duration: 4.400 seconds
+Text: signed. Thank you.
+--------------------------------------------------
+Staff Member:
+Start: 00:12:29.280
+End: 00:12:31.760
+Duration: 2.480 seconds
+Text: Susan, could you ask him for the number that you call?
+--------------------------------------------------
+Staff Member:
+Start: 00:12:32.640
+End: 00:12:34.880
+Duration: 2.240 seconds
+Text: Sorry? The number is it 988?
+--------------------------------------------------
+City Clerk:
+Start: 00:12:34.880
+End: 00:12:37.600
+Duration: 2.720 seconds
+Text: It 988 is at the suicide prevention.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:12:38.400
+End: 00:12:47.680
+Duration: 9.280 seconds
+Text: 988 is a suicide prevention also for Pony any time anyone needs care. In crisis, they can call
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:12:48.320
+End: 00:12:58.720
+Duration: 10.400 seconds
+Text: 785-587-4300 and that gives you access to our recovery services to our crisis stabilization services.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:12:58.720
+End: 00:13:09.120
+Duration: 10.400 seconds
+Text: We treat not only folks who live in Manhattan, Riley County, we treat folks who come to us
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:13:09.120
+End: 00:13:15.920
+Duration: 6.800 seconds
+Text: from all counties. We are substance use treatment provider. We are a certified community
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:13:15.920
+End: 00:13:25.360
+Duration: 9.440 seconds
+Text: behavior health clinic and the phone number to call is 785-587-4300 or you can go to Pony.org.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:13:26.000
+End: 00:13:28.000
+Duration: 2.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:13:42.480
+End: 00:13:45.680
+Duration: 3.200 seconds
+Text: Thank you all for the important work that you do in our community.
+--------------------------------------------------
+City Clerk:
+Start: 00:13:46.400
+End: 00:13:59.680
+Duration: 13.280 seconds
+Text: Those wishing to make public comments not related to items on the agenda can do so at this time.
+--------------------------------------------------
+City Clerk:
+Start: 00:14:00.800
+End: 00:14:06.560
+Duration: 5.760 seconds
+Text: No one has signed up before the meeting or if there are other members of the public who would like
+--------------------------------------------------
+City Clerk:
+Start: 00:14:06.560
+End: 00:14:16.640
+Duration: 10.080 seconds
+Text: to speak please be sure to sign in and state your name and residential address or organization you
+--------------------------------------------------
+City Clerk:
+Start: 00:14:16.640
+End: 00:14:25.280
+Duration: 8.640 seconds
+Text: are representing. Each speaker has five minutes can speak only once and must stop speaking when
+--------------------------------------------------
+City Clerk:
+Start: 00:14:25.280
+End: 00:14:30.720
+Duration: 5.440 seconds
+Text: the timer sounds. Neither the commissioners nor staff will answer questions or debate and issue.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:14:36.560
+End: 00:14:58.720
+Duration: 22.160 seconds
+Text: Jessica Winters 408 Houston Street.
+--------------------------------------------------
+City Clerk:
+Start: 00:14:58.720
+End: 00:15:03.760
+Duration: 5.040 seconds
+Text: Jessica we are aware that is a commercial property. Can you state your residential address please?
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:15:04.240
+End: 00:15:19.440
+Duration: 15.200 seconds
+Text: No where in the rules does it state that I have to excuse me.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:19.440
+End: 00:15:39.760
+Duration: 20.320 seconds
+Text: According to policy manual resolution number 022-024b at the POTEM a speaker must state their name
+--------------------------------------------------
+City Clerk:
+Start: 00:15:39.760
+End: 00:15:45.680
+Duration: 5.920 seconds
+Text: residential address and if applicable organization they represent into the microphone.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:15:46.240
+End: 00:15:51.280
+Duration: 5.040 seconds
+Text: Yes it's not a residential address that is that is my residential address.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:15:54.880
+End: 00:16:04.240
+Duration: 9.360 seconds
+Text: I am not willing to disclose the exact place that I live because I'm a trans woman and I normally
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:16:04.240
+End: 00:16:08.720
+Duration: 4.480 seconds
+Text: don't say things that people like. And because you don't live in Manhattan.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:16:09.680
+End: 00:16:20.800
+Duration: 11.120 seconds
+Text: I mean I do but I will resign and come back to this later.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:16:23.520
+End: 00:16:25.200
+Duration: 1.680 seconds
+Text: That is the way you want to play it.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:38.720
+End: 00:16:47.280
+Duration: 8.560 seconds
+Text: Is there anyone else who would like to make public comment on an item not included on the agenda?
+--------------------------------------------------
+City Clerk:
+Start: 00:16:50.480
+End: 00:16:55.280
+Duration: 4.800 seconds
+Text: Seeing none we will close public comment commissioners have you comments to make?
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:16:57.840
+End: 00:17:01.600
+Duration: 3.760 seconds
+Text: I just want to announce we kicked off the class from the career program in the fourth grades
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:17:01.600
+End: 00:17:07.200
+Duration: 5.600 seconds
+Text: across the school district or across all of Manhattan. So we have 28 business sponsors
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:17:07.200
+End: 00:17:12.400
+Duration: 5.200 seconds
+Text: sponsoring every fourth grade classroom in Manhattan and it's a really great program to
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:17:12.400
+End: 00:17:16.800
+Duration: 4.400 seconds
+Text: expose kids to different careers. So this is our seventh or eighth year doing that.
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:17:16.800
+End: 00:17:20.720
+Duration: 3.920 seconds
+Text: So just an exciting thing and appreciate all the businesses that support that program. It's
+--------------------------------------------------
+Staff Member:
+Start: 00:17:20.720
+End: 00:17:31.040
+Duration: 10.320 seconds
+Text: through the chamber program. I have a calendar that tells what day it is all the way through what
+--------------------------------------------------
+Staff Member:
+Start: 00:17:31.040
+End: 00:17:36.480
+Duration: 5.440 seconds
+Text: you should celebrate on that day and I try and carefully observe it particularly chocolate chip cookie
+--------------------------------------------------
+Staff Member:
+Start: 00:17:36.480
+End: 00:17:44.800
+Duration: 8.320 seconds
+Text: day. But today is and it fits right in with the D.A.R.s presentation National Voter Registration Day
+--------------------------------------------------
+Staff Member:
+Start: 00:17:44.800
+End: 00:17:50.960
+Duration: 6.160 seconds
+Text: and it is very very easy to sign up and register to vote in Kansas. And you know you'd always go
+--------------------------------------------------
+Staff Member:
+Start: 00:17:50.960
+End: 00:17:56.720
+Duration: 5.760 seconds
+Text: down to the clerk's office you can google it and find other places or it's very simple you just
+--------------------------------------------------
+Staff Member:
+Start: 00:17:56.720
+End: 00:18:02.560
+Duration: 5.840 seconds
+Text: have to have one piece of identification and it doesn't have to be a driver's license. So please
+--------------------------------------------------
+Staff Member:
+Start: 00:18:02.560
+End: 00:18:07.520
+Duration: 4.960 seconds
+Text: if you're not imagine everybody here is registered but those who might be listening to us
+--------------------------------------------------
+Staff Member:
+Start: 00:18:07.520
+End: 00:18:16.400
+Duration: 8.880 seconds
+Text: get out there and register so your vote makes an impact. I would just like to know that I had the
+--------------------------------------------------
+City Clerk:
+Start: 00:18:16.400
+End: 00:18:23.920
+Duration: 7.520 seconds
+Text: opportunity to speak last week before the West Loop Westside Business Association and also the
+--------------------------------------------------
+City Clerk:
+Start: 00:18:23.920
+End: 00:18:30.160
+Duration: 6.240 seconds
+Text: established business leaders at the Chamber of Commerce about some of the decisions that we have
+--------------------------------------------------
+City Clerk:
+Start: 00:18:30.160
+End: 00:18:38.160
+Duration: 8.000 seconds
+Text: made throughout this past year both participants in both groups expressed appreciation that they
+--------------------------------------------------
+City Clerk:
+Start: 00:18:38.160
+End: 00:18:45.280
+Duration: 7.120 seconds
+Text: had a better understanding of the commission's decision making process and appreciated the updates.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:47.920
+End: 00:18:54.240
+Duration: 6.320 seconds
+Text: We will now move on to the consent agenda items on the consent agenda are those of a routine
+--------------------------------------------------
+City Clerk:
+Start: 00:18:54.240
+End: 00:19:01.120
+Duration: 6.880 seconds
+Text: and housekeeping nature or those items which have previously been reviewed by the City Commission.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:01.120
+End: 00:19:05.680
+Duration: 4.560 seconds
+Text: A commissioner may request and I don't be moved for separate discussion and consideration
+--------------------------------------------------
+City Clerk:
+Start: 00:19:06.240
+End: 00:19:11.920
+Duration: 5.680 seconds
+Text: immediately following the consent agenda or at a different point on the agenda if desired.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:14.880
+End: 00:19:17.680
+Duration: 2.800 seconds
+Text: Do we have a motion to approve the consent agenda?
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:19:17.680
+End: 00:19:21.120
+Duration: 3.440 seconds
+Text: I move to approve the consent agenda.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:19:21.120
+End: 00:19:22.160
+Duration: 1.040 seconds
+Text: Second.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:22.160
+End: 00:19:25.840
+Duration: 3.680 seconds
+Text: Clerk please, please call the roll.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:27.840
+End: 00:19:35.040
+Duration: 7.200 seconds
+Text: I'm sorry is there anyone in the public who would like to make a comment on any of the consent agenda items?
+--------------------------------------------------
+City Clerk:
+Start: 00:19:41.840
+End: 00:19:43.360
+Duration: 1.520 seconds
+Text: Seeing none we will call the roll.
+--------------------------------------------------
+Staff Member:
+Start: 00:19:43.360
+End: 00:19:46.240
+Duration: 2.880 seconds
+Text: Mr. McCullough?
+--------------------------------------------------
+Staff Member:
+Start: 00:19:46.240
+End: 00:19:47.040
+Duration: 0.800 seconds
+Text: Yes.
+--------------------------------------------------
+Staff Member:
+Start: 00:19:47.040
+End: 00:19:48.000
+Duration: 0.960 seconds
+Text: Mr. Opel?
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:19:48.000
+End: 00:19:48.800
+Duration: 0.800 seconds
+Text: Yes.
+--------------------------------------------------
+Staff Member:
+Start: 00:19:48.800
+End: 00:19:49.600
+Duration: 0.800 seconds
+Text: Mr. Mata?
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:19:49.600
+End: 00:19:50.240
+Duration: 0.640 seconds
+Text: Yes.
+--------------------------------------------------
+Staff Member:
+Start: 00:19:50.240
+End: 00:19:51.040
+Duration: 0.800 seconds
+Text: Mr. Mitten?
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:19:51.040
+End: 00:19:51.760
+Duration: 0.720 seconds
+Text: Yes.
+--------------------------------------------------
+Staff Member:
+Start: 00:19:51.760
+End: 00:19:52.720
+Duration: 0.960 seconds
+Text: Mayor Amjak?
+--------------------------------------------------
+City Clerk:
+Start: 00:19:52.720
+End: 00:19:53.360
+Duration: 0.640 seconds
+Text: Yes.
+--------------------------------------------------
+Staff Member:
+Start: 00:19:53.360
+End: 00:19:55.440
+Duration: 2.080 seconds
+Text: Motion carries 5-0.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:55.440
+End: 00:19:55.840
+Duration: 0.400 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:55.840
+End: 00:20:04.480
+Duration: 8.640 seconds
+Text: I would just like to note that as part of the consent agenda we have designated three individuals to
+--------------------------------------------------
+City Clerk:
+Start: 00:20:04.480
+End: 00:20:09.920
+Duration: 5.440 seconds
+Text: participate on two of our advisory boards.
+--------------------------------------------------
+City Clerk:
+Start: 00:20:09.920
+End: 00:20:14.800
+Duration: 4.880 seconds
+Text: Constance Bird Song has been reappointed to the Frederick Douglass Recreation Complex
+--------------------------------------------------
+City Clerk:
+Start: 00:20:14.800
+End: 00:20:25.440
+Duration: 10.640 seconds
+Text: Advice Report and Liz Beakman and Vern Werke have both been reappointed to the partner city
+--------------------------------------------------
+City Clerk:
+Start: 00:20:25.440
+End: 00:20:26.400
+Duration: 0.960 seconds
+Text: Advice Report.
+--------------------------------------------------
+City Clerk:
+Start: 00:20:26.400
+End: 00:20:28.880
+Duration: 2.480 seconds
+Text: So we thank you for your service to our community.
+--------------------------------------------------
+City Clerk:
+Start: 00:20:28.880
+End: 00:20:38.880
+Duration: 10.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Clerk:
+Start: 00:20:38.880
+End: 00:20:39.920
+Duration: 1.040 seconds
+Text: All right.
+--------------------------------------------------
+City Clerk:
+Start: 00:20:39.920
+End: 00:20:45.680
+Duration: 5.760 seconds
+Text: So we will now move on to the general agenda.
+--------------------------------------------------
+City Clerk:
+Start: 00:20:45.680
+End: 00:20:54.720
+Duration: 9.040 seconds
+Text: Comment from the public related to any item on the general agenda is permitted each person
+--------------------------------------------------
+City Clerk:
+Start: 00:20:55.680
+End: 00:21:00.960
+Duration: 5.280 seconds
+Text: as stated before will be limited to one speaking opportunity for up to five units reach item
+--------------------------------------------------
+City Clerk:
+Start: 00:21:00.960
+End: 00:21:01.680
+Duration: 0.720 seconds
+Text: in its section.
+--------------------------------------------------
+City Clerk:
+Start: 00:21:02.560
+End: 00:21:11.440
+Duration: 8.880 seconds
+Text: Our first action tonight will be to consider adopting the 2025 budget and the 2025 through
+--------------------------------------------------
+City Clerk:
+Start: 00:21:11.440
+End: 00:21:14.640
+Duration: 3.200 seconds
+Text: 2029 capital improvement program.
+--------------------------------------------------
+City Manager:
+Start: 00:21:17.280
+End: 00:21:18.480
+Duration: 1.200 seconds
+Text: Thank you, Mayor commissioners.
+--------------------------------------------------
+City Manager:
+Start: 00:21:19.280
+End: 00:21:21.280
+Duration: 2.000 seconds
+Text: Provide a quick overview.
+--------------------------------------------------
+City Manager:
+Start: 00:21:21.280
+End: 00:21:25.840
+Duration: 4.560 seconds
+Text: The three items tonight before you on the general agenda as the mayor mentioned is second reading.
+--------------------------------------------------
+City Manager:
+Start: 00:21:26.480
+End: 00:21:28.720
+Duration: 2.240 seconds
+Text: First reading was approved on September 3rd.
+--------------------------------------------------
+City Manager:
+Start: 00:21:29.440
+End: 00:21:33.760
+Duration: 4.320 seconds
+Text: We also have first reading of a salary ordinance for you to consider.
+--------------------------------------------------
+City Manager:
+Start: 00:21:33.760
+End: 00:21:39.680
+Duration: 5.920 seconds
+Text: This is for the non-union personnel adjustments which there are no cost of living and no merit
+--------------------------------------------------
+City Manager:
+Start: 00:21:39.680
+End: 00:21:40.320
+Duration: 0.640 seconds
+Text: adjustments.
+--------------------------------------------------
+City Manager:
+Start: 00:21:41.200
+End: 00:21:43.760
+Duration: 2.560 seconds
+Text: We also have the memorandum of agreement for the union.
+--------------------------------------------------
+City Manager:
+Start: 00:21:43.760
+End: 00:21:46.880
+Duration: 3.120 seconds
+Text: There is a 2.5% increase for 2025.
+--------------------------------------------------
+City Manager:
+Start: 00:21:47.440
+End: 00:21:52.560
+Duration: 5.120 seconds
+Text: In addition to an adjustment to article 25 dealing with arbitration.
+--------------------------------------------------
+City Manager:
+Start: 00:21:55.040
+End: 00:21:58.000
+Duration: 2.960 seconds
+Text: This is a summary we provided a couple weeks ago.
+--------------------------------------------------
+City Manager:
+Start: 00:21:58.000
+End: 00:22:03.280
+Duration: 5.280 seconds
+Text: We wanted to highlight just the percentage of property tax that goes into each of these areas.
+--------------------------------------------------
+City Manager:
+Start: 00:22:04.160
+End: 00:22:09.360
+Duration: 5.200 seconds
+Text: This can get a little bit confusing in terms of just what where your tax dollars go but in the
+--------------------------------------------------
+City Manager:
+Start: 00:22:09.360
+End: 00:22:10.400
+Duration: 1.040 seconds
+Text: general fund.
+--------------------------------------------------
+City Manager:
+Start: 00:22:10.400
+End: 00:22:16.800
+Duration: 6.400 seconds
+Text: We were roughly $4 million last year and we're going to be close to just over $8 million in 2020.
+--------------------------------------------------
+City Manager:
+Start: 00:22:17.840
+End: 00:22:23.520
+Duration: 5.680 seconds
+Text: The special revenue is really a reflection from a property tax perspective of what funds
+--------------------------------------------------
+City Manager:
+Start: 00:22:23.520
+End: 00:22:24.080
+Duration: 0.560 seconds
+Text: are CPD.
+--------------------------------------------------
+City Manager:
+Start: 00:22:24.080
+End: 00:22:29.600
+Duration: 5.520 seconds
+Text: Then the bond and interest fund obviously with a shift of three mills away from the bond
+--------------------------------------------------
+City Manager:
+Start: 00:22:29.600
+End: 00:22:31.680
+Duration: 2.080 seconds
+Text: and interest into the general fund.
+--------------------------------------------------
+City Manager:
+Start: 00:22:31.680
+End: 00:22:33.680
+Duration: 2.000 seconds
+Text: You see that reduction in percentage.
+--------------------------------------------------
+City Manager:
+Start: 00:22:33.680
+End: 00:22:38.640
+Duration: 4.960 seconds
+Text: We did grow from 225 million to 229 million overall.
+--------------------------------------------------
+City Manager:
+Start: 00:22:40.320
+End: 00:22:46.640
+Duration: 6.320 seconds
+Text: Highlights of 4.1% increase to the tax base that's delivered to you all by the county of
+--------------------------------------------------
+City Manager:
+Start: 00:22:46.640
+End: 00:22:47.600
+Duration: 0.960 seconds
+Text: Fraser's office.
+--------------------------------------------------
+City Manager:
+Start: 00:22:48.400
+End: 00:22:54.000
+Duration: 5.600 seconds
+Text: That's their process of going out January 1 and determining a value and a property.
+--------------------------------------------------
+City Manager:
+Start: 00:22:54.000
+End: 00:22:59.280
+Duration: 5.280 seconds
+Text: The property owner then has several months to approach them and appeal that.
+--------------------------------------------------
+City Manager:
+Start: 00:22:59.280
+End: 00:23:05.280
+Duration: 6.000 seconds
+Text: But those appeals are typically completed by the summertime and then we are given a percentage
+--------------------------------------------------
+City Manager:
+Start: 00:23:05.280
+End: 00:23:08.720
+Duration: 3.440 seconds
+Text: and an overall tax base increase.
+--------------------------------------------------
+City Manager:
+Start: 00:23:09.680
+End: 00:23:16.560
+Duration: 6.880 seconds
+Text: We do have 2.76 mill increase for the general fund of roughly $2.4 million.
+--------------------------------------------------
+City Manager:
+Start: 00:23:17.280
+End: 00:23:23.680
+Duration: 6.400 seconds
+Text: We are recommending a no cost living and no increase as we mentioned and then continue to monitor
+--------------------------------------------------
+City Manager:
+Start: 00:23:23.680
+End: 00:23:25.920
+Duration: 2.240 seconds
+Text: various revenue streams and make any changes.
+--------------------------------------------------
+City Manager:
+Start: 00:23:27.280
+End: 00:23:31.520
+Duration: 4.240 seconds
+Text: This is more of a reflection of just where your total property taxes are at.
+--------------------------------------------------
+City Manager:
+Start: 00:23:32.240
+End: 00:23:36.800
+Duration: 4.560 seconds
+Text: Again with that $4 million increase it's really a move out of the bond and interest for
+--------------------------------------------------
+City Manager:
+Start: 00:23:36.880
+End: 00:23:42.480
+Duration: 5.600 seconds
+Text: roughly half of it and then the mill increase for the city services and our CPD and the library make
+--------------------------------------------------
+City Manager:
+Start: 00:23:42.480
+End: 00:23:50.800
+Duration: 8.320 seconds
+Text: up the remainder. This is a breakdown and analysis of the mill levie itself. We provided this
+--------------------------------------------------
+City Manager:
+Start: 00:23:50.800
+End: 00:23:55.600
+Duration: 4.800 seconds
+Text: a couple weeks ago. It's here if we need to refer back to it in our discussion.
+--------------------------------------------------
+City Manager:
+Start: 00:23:56.160
+End: 00:24:01.680
+Duration: 5.520 seconds
+Text: This is a spreadsheet that we showed a few months ago.
+--------------------------------------------------
+City Manager:
+Start: 00:24:02.640
+End: 00:24:09.360
+Duration: 6.720 seconds
+Text: The Riley County and USDA 383 have come in with their mill levies, had their hearings.
+--------------------------------------------------
+City Manager:
+Start: 00:24:09.360
+End: 00:24:14.000
+Duration: 4.640 seconds
+Text: They remained basically the same as what we projected a couple weeks ago.
+--------------------------------------------------
+City Manager:
+Start: 00:24:16.640
+End: 00:24:23.200
+Duration: 6.560 seconds
+Text: This is a carrying a house really from 2020 at a $200,000 value and increasing it by the
+--------------------------------------------------
+City Manager:
+Start: 00:24:23.200
+End: 00:24:30.720
+Duration: 7.520 seconds
+Text: valuation each year thereafter and also adjusting it for the mill levies in each year of 2020 through.
+--------------------------------------------------
+City Manager:
+Start: 00:24:31.280
+End: 00:24:37.200
+Duration: 5.920 seconds
+Text: What we're projecting here for 2024. The reason there's a split in the date is because of the
+--------------------------------------------------
+City Manager:
+Start: 00:24:37.200
+End: 00:24:42.880
+Duration: 5.680 seconds
+Text: process it takes to actually get to a point where you all are adopting mill levies here in the
+--------------------------------------------------
+City Manager:
+Start: 00:24:42.880
+End: 00:24:49.520
+Duration: 6.640 seconds
+Text: September timeframe. The property tax bill you all will receive will come out in November with
+--------------------------------------------------
+City Manager:
+Start: 00:24:49.520
+End: 00:24:56.320
+Duration: 6.800 seconds
+Text: first half due in December and then second half due in April of 2025. So the process is really
+--------------------------------------------------
+City Manager:
+Start: 00:24:56.320
+End: 00:25:01.600
+Duration: 5.280 seconds
+Text: overlap each other in terms of a calendar year but we wanted to highlight of a property really
+--------------------------------------------------
+City Manager:
+Start: 00:25:01.600
+End: 00:25:10.400
+Duration: 8.800 seconds
+Text: starting in 2020. You can see the 1% growth, the 5.9% growth, the 9.7 that was last year and then
+--------------------------------------------------
+City Manager:
+Start: 00:25:10.400
+End: 00:25:18.560
+Duration: 8.160 seconds
+Text: this year at the 4.1%. You can also then look at the total mill levie and we had 155 mills,
+--------------------------------------------------
+City Manager:
+Start: 00:25:18.560
+End: 00:25:25.360
+Duration: 6.800 seconds
+Text: 157, 156 significant drop last year. We weren't the only ones dropping. The county was dropping last
+--------------------------------------------------
+City Manager:
+Start: 00:25:25.360
+End: 00:25:32.240
+Duration: 6.880 seconds
+Text: year as well. You can see the city going from 52 to 48 and the county going from 42 to 39.
+--------------------------------------------------
+City Manager:
+Start: 00:25:32.240
+End: 00:25:37.760
+Duration: 5.520 seconds
+Text: The county continued that trend even this year as well as a school district basically hanging
+--------------------------------------------------
+City Manager:
+Start: 00:25:37.760
+End: 00:25:46.560
+Duration: 8.800 seconds
+Text: right around that 50 or that 60 mill level. But you can see the difference between 155, 157, 156
+--------------------------------------------------
+City Manager:
+Start: 00:25:47.120
+End: 00:25:55.280
+Duration: 8.160 seconds
+Text: significant drop and then a rebound on our end. It's a 1.25% increase from 150.376 mills
+--------------------------------------------------
+City Manager:
+Start: 00:25:55.600
+End: 00:26:09.360
+Duration: 13.760 seconds
+Text: to 152.277 proposed. For a $244,000 home it is a $215 annual increase to your property tax bill
+--------------------------------------------------
+City Manager:
+Start: 00:26:09.360
+End: 00:26:17.680
+Duration: 8.320 seconds
+Text: based on a property back in 2020 of $200,000 and it growing over the next four years at the rate
+--------------------------------------------------
+City Manager:
+Start: 00:26:17.680
+End: 00:26:22.000
+Duration: 4.320 seconds
+Text: at which the appraisers office came in with a percentage for overall growth.
+--------------------------------------------------
+City Manager:
+Start: 00:26:24.000
+End: 00:26:32.880
+Duration: 8.880 seconds
+Text: This is a further breakdown of that same $244,000 house in Manhattan. If you uh your
+--------------------------------------------------
+City Manager:
+Start: 00:26:32.880
+End: 00:26:39.360
+Duration: 6.480 seconds
+Text: your straight mill levie calculation is that valuation times 11.5%. You get a taxable value,
+--------------------------------------------------
+City Manager:
+Start: 00:26:39.360
+End: 00:26:45.200
+Duration: 5.840 seconds
+Text: it's really your assessed value of 28,070 and then you take it times the mill rates. All the
+--------------------------------------------------
+City Manager:
+Start: 00:26:45.200
+End: 00:26:50.560
+Duration: 5.360 seconds
+Text: mill rates for all the entities are out here to the side. This would be for really the bill you'll
+--------------------------------------------------
+City Manager:
+Start: 00:26:50.560
+End: 00:26:58.160
+Duration: 7.600 seconds
+Text: get in November. That's due in December and April. There is a total identical to the prior slide
+--------------------------------------------------
+City Manager:
+Start: 00:26:58.160
+End: 00:27:07.440
+Duration: 9.280 seconds
+Text: of $4,274 and $43,152.277 mills and you can see the percentage breakdown whereas the state of
+--------------------------------------------------
+City Manager:
+Start: 00:27:07.440
+End: 00:27:15.120
+Duration: 7.680 seconds
+Text: Kansas at 1% school district almost 40% Riley County almost 25% we're just under 12
+--------------------------------------------------
+City Manager:
+Start: 00:27:16.080
+End: 00:27:23.840
+Duration: 7.760 seconds
+Text: PD another 19 and a half library 2.8 and library employee benefit fund at just at 0.6. That's
+--------------------------------------------------
+City Manager:
+Start: 00:27:23.840
+End: 00:27:30.240
+Duration: 6.400 seconds
+Text: your 100% of your tax bill with in break it down on a per day basis. So overall this property
+--------------------------------------------------
+City Manager:
+Start: 00:27:30.240
+End: 00:27:37.760
+Duration: 7.520 seconds
+Text: is spending $11.71 a day and you can see the percentages and where your taxes go based on this
+--------------------------------------------------
+City Manager:
+Start: 00:27:37.760
+End: 00:27:47.600
+Duration: 9.840 seconds
+Text: statement. General fund comparison we highlight again 23 actuals we spent $39 million in the
+--------------------------------------------------
+City Manager:
+Start: 00:27:47.600
+End: 00:27:52.640
+Duration: 5.040 seconds
+Text: general fund. Again this is where all these departments operate this is their personnel their
+--------------------------------------------------
+City Manager:
+Start: 00:27:52.640
+End: 00:27:58.960
+Duration: 6.320 seconds
+Text: contractual services their commodities this is our people out doing their jobs every day. We are
+--------------------------------------------------
+City Manager:
+Start: 00:27:58.960
+End: 00:28:07.520
+Duration: 8.560 seconds
+Text: proposing a million dollar decrease for 2025 from what we spent in 2023. We're projecting about
+--------------------------------------------------
+City Manager:
+Start: 00:28:07.520
+End: 00:28:13.440
+Duration: 5.920 seconds
+Text: 38.6 million for this year but the budget we have before you this evening highlights the variants
+--------------------------------------------------
+City Manager:
+Start: 00:28:13.440
+End: 00:28:21.520
+Duration: 8.080 seconds
+Text: out to the right the $1.8 million decrease that we anticipate from where we were a few weeks
+--------------------------------------------------
+City Manager:
+Start: 00:28:21.520
+End: 00:28:28.080
+Duration: 6.560 seconds
+Text: a few months ago when the budget prepped. Transient guest tax has been a topic throughout the entire
+--------------------------------------------------
+City Manager:
+Start: 00:28:28.080
+End: 00:28:35.920
+Duration: 7.840 seconds
+Text: budget season. Been a lot of discussion a lot of different proposals a lot of significant increase
+--------------------------------------------------
+City Manager:
+Start: 00:28:35.920
+End: 00:28:43.440
+Duration: 7.520 seconds
+Text: in requests this year. We do have some payments that we make on an annual basis. I think roughly
+--------------------------------------------------
+City Manager:
+Start: 00:28:43.440
+End: 00:28:48.400
+Duration: 4.960 seconds
+Text: you're talking about a $400,000 increase for a lot of the entities over and above what they
+--------------------------------------------------
+City Manager:
+Start: 00:28:48.400
+End: 00:28:56.320
+Duration: 7.920 seconds
+Text: receive for 2024. The revenue appears to be there the projections are $2.75 million in transient
+--------------------------------------------------
+City Manager:
+Start: 00:28:56.320
+End: 00:29:02.720
+Duration: 6.400 seconds
+Text: guest tax for the 2025 budget. We are projecting around that same dollar amount for this year
+--------------------------------------------------
+City Manager:
+Start: 00:29:02.720
+End: 00:29:08.400
+Duration: 5.680 seconds
+Text: and last year our actual was over 3 million. So we've seen a little bit of a down tick in terms
+--------------------------------------------------
+City Manager:
+Start: 00:29:08.400
+End: 00:29:15.520
+Duration: 7.120 seconds
+Text: of hotel business but it seems to be holding steady for this year after January.
+--------------------------------------------------
+City Manager:
+Start: 00:29:18.880
+End: 00:29:24.880
+Duration: 6.000 seconds
+Text: This is our breakdown of just where we anticipate ending the year 2025 at about a 9.2
+--------------------------------------------------
+City Manager:
+Start: 00:29:24.880
+End: 00:29:31.120
+Duration: 6.240 seconds
+Text: $3 million threshold. One of the changes that we've provided the ARPA injection did drop to
+--------------------------------------------------
+City Manager:
+Start: 00:29:31.120
+End: 00:29:39.680
+Duration: 8.560 seconds
+Text: $3.88. We had spent some money with GFOA and some of our consultants in anticipation of the ERP
+--------------------------------------------------
+City Manager:
+Start: 00:29:39.680
+End: 00:29:46.080
+Duration: 6.400 seconds
+Text: system. We have a slide in a couple here that highlights that breakdown but we've been consistent
+--------------------------------------------------
+City Manager:
+Start: 00:29:46.080
+End: 00:29:50.960
+Duration: 4.880 seconds
+Text: really on the other revenues and expenses that we have forecasted for you all.
+--------------------------------------------------
+City Manager:
+Start: 00:29:53.120
+End: 00:29:59.120
+Duration: 6.000 seconds
+Text: General fund forecast again just highlighting the assumptions of the one-time cash, the one
+--------------------------------------------------
+City Manager:
+Start: 00:29:59.280
+End: 00:30:05.920
+Duration: 6.640 seconds
+Text: ARPA transient guest tax looking at the three mills from bond and interest, the 2.76 mills increase
+--------------------------------------------------
+City Manager:
+Start: 00:30:07.120
+End: 00:30:12.080
+Duration: 4.960 seconds
+Text: in the general fund and then we're looking at that revenues and expenditures increasing by 3%
+--------------------------------------------------
+City Manager:
+Start: 00:30:12.080
+End: 00:30:18.400
+Duration: 6.320 seconds
+Text: thereafter. We're obviously going to have a conversation for the 2026 budget. We don't like to
+--------------------------------------------------
+City Manager:
+Start: 00:30:18.400
+End: 00:30:23.680
+Duration: 5.280 seconds
+Text: necessarily see this cash balance continue into decline. So trying to get our revenues and our
+--------------------------------------------------
+City Manager:
+Start: 00:30:23.680
+End: 00:30:29.280
+Duration: 5.600 seconds
+Text: expenses to balance out, we feel like we've made some substantial gains from the 22 actuals where we
+--------------------------------------------------
+City Manager:
+Start: 00:30:29.280
+End: 00:30:38.240
+Duration: 8.960 seconds
+Text: had close to an $8 million gap. Our actuals in 23 were over just under 5 million and we're projecting
+--------------------------------------------------
+City Manager:
+Start: 00:30:38.960
+End: 00:30:46.160
+Duration: 7.200 seconds
+Text: about a million and a half or about a million dollar difference this year. Our projected and
+--------------------------------------------------
+City Manager:
+Start: 00:30:46.640
+End: 00:30:55.040
+Duration: 8.400 seconds
+Text: that's with all that cash coming in. That's with the 4.5.3 5.4 million coming in. Next year though,
+--------------------------------------------------
+City Manager:
+Start: 00:30:55.040
+End: 00:31:01.280
+Duration: 6.240 seconds
+Text: we're going to have to really get back into the revenues and expenditures and try to prevent this
+--------------------------------------------------
+City Manager:
+Start: 00:31:01.280
+End: 00:31:09.440
+Duration: 8.160 seconds
+Text: continued decline. This is that breakdown of the ARPA highlighting the 763,000 spent on the
+--------------------------------------------------
+City Manager:
+Start: 00:31:09.440
+End: 00:31:15.600
+Duration: 6.160 seconds
+Text: consulting and acquisition of the ERP services. We had some additional ARPA consulting services as
+--------------------------------------------------
+City Manager:
+Start: 00:31:15.600
+End: 00:31:22.880
+Duration: 7.280 seconds
+Text: well leaving the 3.885 million for the transfer into the general fund by the end of this year.
+--------------------------------------------------
+City Manager:
+Start: 00:31:24.320
+End: 00:31:29.840
+Duration: 5.520 seconds
+Text: Ready to stand for any questions you may have. Again, the two additional items on the salary,
+--------------------------------------------------
+City Manager:
+Start: 00:31:30.720
+End: 00:31:35.440
+Duration: 4.720 seconds
+Text: ordinance adoption. This is first reading, but it's consistent with what you see from a budget
+--------------------------------------------------
+City Manager:
+Start: 00:31:35.440
+End: 00:31:40.000
+Duration: 4.560 seconds
+Text: sheet perspective and the memorandum of agreement. We actually have an agreement with the union
+--------------------------------------------------
+City Manager:
+Start: 00:31:40.000
+End: 00:31:47.760
+Duration: 7.760 seconds
+Text: that goes through the end of 2026 and then we negotiate wages. Sometimes we do a two on rare
+--------------------------------------------------
+City Manager:
+Start: 00:31:47.760
+End: 00:31:53.440
+Duration: 5.680 seconds
+Text: occasions we get a three year wage deal. This year is a one year wage deal and as I mentioned,
+--------------------------------------------------
+City Manager:
+Start: 00:31:53.440
+End: 00:32:00.240
+Duration: 6.800 seconds
+Text: Article 25 has to do with arbitration and how we deal with that situation as management.
+--------------------------------------------------
+City Manager:
+Start: 00:32:01.520
+End: 00:32:05.680
+Duration: 4.160 seconds
+Text: That's the summary of your three items. I'm happy to answer any questions if I can.
+--------------------------------------------------
+Staff Member:
+Start: 00:32:05.680
+End: 00:32:15.120
+Duration: 9.440 seconds
+Text: The ARPA money is COVID money, right? It is. Yes. And I thought that that was pigeonholed for IT.
+--------------------------------------------------
+City Manager:
+Start: 00:32:16.240
+End: 00:32:23.440
+Duration: 7.200 seconds
+Text: So the ERP system, we talked about that earlier this year. It could either stand alone and pay cash
+--------------------------------------------------
+City Manager:
+Start: 00:32:23.440
+End: 00:32:28.400
+Duration: 4.960 seconds
+Text: for that system or we can debt service it. In the governing body, the commission gave us direction
+--------------------------------------------------
+City Manager:
+Start: 00:32:28.400
+End: 00:32:34.800
+Duration: 6.400 seconds
+Text: to move towards a cash injection within the general fund instead of issuing all that towards the ERP
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:32:34.800
+End: 00:32:46.640
+Duration: 11.840 seconds
+Text: system. Thank you. What's our strategy with the Bond and Interest Fund long term? Because
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:32:48.320
+End: 00:32:55.760
+Duration: 7.440 seconds
+Text: the cash balance is going down. I'm assuming with us not putting any property taxes into that
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:32:55.760
+End: 00:33:06.240
+Duration: 10.480 seconds
+Text: Bond and Interest Fund. So how do we make that work? Yeah, we highlighted earlier this year,
+--------------------------------------------------
+City Manager:
+Start: 00:33:06.800
+End: 00:33:11.680
+Duration: 4.880 seconds
+Text: Reen, I think we're at $17 million cash balance in the Bond and Interest Fund. We obviously have
+--------------------------------------------------
+City Manager:
+Start: 00:33:11.680
+End: 00:33:17.920
+Duration: 6.240 seconds
+Text: a lot of sales tax going into that fund at this moment. The question was posed and we felt
+--------------------------------------------------
+City Manager:
+Start: 00:33:17.920
+End: 00:33:22.800
+Duration: 4.880 seconds
+Text: like direction was received to go ahead and move those three mills. It's obviously over $2.1,
+--------------------------------------------------
+City Manager:
+Start: 00:33:22.800
+End: 00:33:28.480
+Duration: 5.680 seconds
+Text: $2.2 million. I think we're going to have to look back to the out years and look at that debt
+--------------------------------------------------
+City Manager:
+Start: 00:33:28.480
+End: 00:33:36.480
+Duration: 8.000 seconds
+Text: coming on and the revenues and the forecast that we have. That mill levy has declined. In the last
+--------------------------------------------------
+City Manager:
+Start: 00:33:38.240
+End: 00:33:44.000
+Duration: 5.760 seconds
+Text: six, seven years in the Bond and Interest because we have past sales tax to help us with projects
+--------------------------------------------------
+City Manager:
+Start: 00:33:44.000
+End: 00:33:50.080
+Duration: 6.080 seconds
+Text: and debt. It's given that balance where it's given you the flexibility to move that mill levy down.
+--------------------------------------------------
+City Manager:
+Start: 00:33:50.080
+End: 00:33:54.080
+Duration: 4.000 seconds
+Text: Obviously with three mills out this year, we're going to have to continue to look at that.
+--------------------------------------------------
+City Manager:
+Start: 00:33:54.080
+End: 00:33:58.000
+Duration: 3.920 seconds
+Text: I think you've got an opportunity with two sales tax questions that will be rolling off in the
+--------------------------------------------------
+City Manager:
+Start: 00:33:58.000
+End: 00:34:03.760
+Duration: 5.760 seconds
+Text: next couple of years. How do you want to structure those? Any of that for debt, any of that for projects,
+--------------------------------------------------
+City Manager:
+Start: 00:34:03.760
+End: 00:34:10.720
+Duration: 6.960 seconds
+Text: any of that for operations? I think those are some options from a sales tax perspective. If there's
+--------------------------------------------------
+City Manager:
+Start: 00:34:10.720
+End: 00:34:15.600
+Duration: 4.880 seconds
+Text: no additional new revenues, you're going to be into the revenue discussion from a mill levy
+--------------------------------------------------
+City Manager:
+Start: 00:34:15.600
+End: 00:34:19.600
+Duration: 4.000 seconds
+Text: perspective going back into the Bond and Interest. But the Bond and Interest has a lot of different
+--------------------------------------------------
+City Manager:
+Start: 00:34:19.600
+End: 00:34:25.760
+Duration: 6.160 seconds
+Text: revenue streams. It's not only property taxes. Clearly, people who like to look at our debt and
+--------------------------------------------------
+City Manager:
+Start: 00:34:25.760
+End: 00:34:30.960
+Duration: 5.200 seconds
+Text: look at our finances will get a little nervous with us pulling these three out. But the cash balance
+--------------------------------------------------
+City Manager:
+Start: 00:34:30.960
+End: 00:34:35.840
+Duration: 4.880 seconds
+Text: should hopefully level that out from a concern. But as that cash balance comes down, they're going
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:34:35.840
+End: 00:34:44.400
+Duration: 8.560 seconds
+Text: to be looking for that stable revenue stream. And how can we, and I'm probably asking repeating
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:34:44.400
+End: 00:34:52.640
+Duration: 8.240 seconds
+Text: myself here, but how can we start to work in capital improvements? Things are going to break.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:34:53.840
+End: 00:34:56.320
+Duration: 2.480 seconds
+Text: Next year, things are going to break and we're going to have to pay for it.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:34:58.400
+End: 00:35:04.880
+Duration: 6.480 seconds
+Text: I mean, yes, we do have cash balance that we can potentially use to do that in an emergency.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:35:06.160
+End: 00:35:08.480
+Duration: 2.320 seconds
+Text: How can we prevent it from becoming an emergency, though?
+--------------------------------------------------
+City Manager:
+Start: 00:35:09.440
+End: 00:35:16.480
+Duration: 7.040 seconds
+Text: Yeah, I think it's that philosophical approach, Commissioner O'Bilt, that it's been said many times
+--------------------------------------------------
+City Manager:
+Start: 00:35:16.480
+End: 00:35:23.760
+Duration: 7.280 seconds
+Text: in here. New City Manager, new approach, new discussions with you all, the direction you all want
+--------------------------------------------------
+City Manager:
+Start: 00:35:23.760
+End: 00:35:30.480
+Duration: 6.720 seconds
+Text: to go. I think those things, we could repeat those right now. I think your retreat in January is
+--------------------------------------------------
+City Manager:
+Start: 00:35:30.480
+End: 00:35:36.240
+Duration: 5.760 seconds
+Text: going to be pivotal. We're trying to get revenues and expenses to balance out. And then I think you
+--------------------------------------------------
+City Manager:
+Start: 00:35:36.400
+End: 00:35:43.120
+Duration: 6.720 seconds
+Text: start to look at, can you continue to reduce expenses to create a gap, to get your capital expenditures,
+--------------------------------------------------
+City Manager:
+Start: 00:35:43.120
+End: 00:35:48.240
+Duration: 5.120 seconds
+Text: to get your equipment, to pay the people that are doing the job, or do you look to the revenue
+--------------------------------------------------
+City Manager:
+Start: 00:35:48.240
+End: 00:35:53.520
+Duration: 5.280 seconds
+Text: side? And is that sales tax, is that property tax, is that fees? I think you've got a parking
+--------------------------------------------------
+City Manager:
+Start: 00:35:53.520
+End: 00:35:57.760
+Duration: 4.240 seconds
+Text: wreck department who's been up in front of you a lot in the last few months talking about cost
+--------------------------------------------------
+City Manager:
+Start: 00:35:57.760
+End: 00:36:03.840
+Duration: 6.080 seconds
+Text: recovery, which means increasing potentially the cost of your programs for people who are
+--------------------------------------------------
+City Manager:
+Start: 00:36:03.840
+End: 00:36:09.760
+Duration: 5.920 seconds
+Text: participating to pay more of their share. I mean, the expenses aren't necessarily going down,
+--------------------------------------------------
+City Manager:
+Start: 00:36:10.400
+End: 00:36:15.360
+Duration: 4.960 seconds
+Text: but there's a targeted increase in revenue. So we need to continue to have those conversations,
+--------------------------------------------------
+City Manager:
+Start: 00:36:16.080
+End: 00:36:20.720
+Duration: 4.640 seconds
+Text: transient guest tax, obviously, has been on the table in a lot of different ways. We do a lot
+--------------------------------------------------
+City Manager:
+Start: 00:36:20.720
+End: 00:36:27.280
+Duration: 6.560 seconds
+Text: to help keep man hat and attractive from a tourism standpoint. The so does the CVB, so does the
+--------------------------------------------------
+City Manager:
+Start: 00:36:27.280
+End: 00:36:32.000
+Duration: 4.720 seconds
+Text: ABA, so does the DMI. There's a lot of groups out there trying to do that. It's a balancing act
+--------------------------------------------------
+City Manager:
+Start: 00:36:32.000
+End: 00:36:36.960
+Duration: 4.960 seconds
+Text: in terms of what service are you going to pay for, and where revenue streams are you going to try
+--------------------------------------------------
+City Manager:
+Start: 00:36:36.960
+End: 00:36:47.440
+Duration: 10.480 seconds
+Text: to leverage to do that? Other questions or comments from the commissioners? John?
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:36:49.520
+End: 00:36:55.360
+Duration: 5.840 seconds
+Text: I don't have questions, I can make comments. I mean, I'll just come back to kind of what we were
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:36:55.360
+End: 00:37:00.000
+Duration: 4.640 seconds
+Text: talking about at the last meeting since this is the last vote. I know a lot of times the votes
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:37:00.000
+End: 00:37:04.960
+Duration: 4.960 seconds
+Text: before it was always like, well, we can always take it down, and we don't have to make a decision.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:37:04.960
+End: 00:37:09.680
+Duration: 4.720 seconds
+Text: Well, this one, we have to make a decision because there aren't any more votes to go.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:37:10.800
+End: 00:37:16.480
+Duration: 5.680 seconds
+Text: When I look at the numbers, there's still the same numbers, but I kind of calculate some percentages
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:37:16.480
+End: 00:37:25.760
+Duration: 9.280 seconds
+Text: differently. The, it's a 12.6 percent tax increase, but the part that's not the city controlled,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:37:26.480
+End: 00:37:31.680
+Duration: 5.200 seconds
+Text: usually that conversation is staff doing it. Now, I kind of come back, is that the police
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:37:31.680
+End: 00:37:38.160
+Duration: 6.480 seconds
+Text: department library only going up 7.9? We're going up 12.6. That means our staff is going up 23 percent.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:37:40.480
+End: 00:37:50.560
+Duration: 10.080 seconds
+Text: So that's a big increase. And I just want to revisit what we were before. I have a really hard time
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:37:51.520
+End: 00:37:58.160
+Duration: 6.640 seconds
+Text: when we're not giving raises, we're increasing taxes, double digits, but yet outside agencies,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:37:58.160
+End: 00:38:04.240
+Duration: 6.080 seconds
+Text: we're going to give anywhere from 20 percent to 100 percent increase for total of a 25 percent
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:38:04.240
+End: 00:38:10.240
+Duration: 6.000 seconds
+Text: increase. And that's money that we could use. I would say use it to offset some of this tax
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:38:10.240
+End: 00:38:18.160
+Duration: 7.920 seconds
+Text: increase. And then we can look how we can approach things the next year. The other thing is,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:38:18.160
+End: 00:38:25.280
+Duration: 7.120 seconds
+Text: I brought up, you know, cost recovery to get that up to 30 percent, get us another close to $400,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:38:25.280
+End: 00:38:30.640
+Duration: 5.360 seconds
+Text: $1,000 that we'd be able to take off. And I think that would be something we would just want to move
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:38:31.360
+End: 00:38:37.520
+Duration: 6.160 seconds
+Text: and try to get up to that best practice, 35, 40 percent as we go into the out years. Because I
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:38:37.520
+End: 00:38:42.000
+Duration: 4.480 seconds
+Text: think there's a good question, what do we do after this year? One is we continue with that cost
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:38:42.080
+End: 00:38:49.040
+Duration: 6.960 seconds
+Text: recovery. Two, we need to really, I don't want to give any increases, but challenge the chamber
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:38:49.040
+End: 00:38:53.360
+Duration: 4.320 seconds
+Text: who's got the economic development contract, the convention visitors bureau with the same amount of
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:38:53.360
+End: 00:39:00.000
+Duration: 6.640 seconds
+Text: budget to try to, you know, increase the economic activity that we have. Also, as you mentioned,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:39:00.000
+End: 00:39:05.200
+Duration: 5.200 seconds
+Text: push deficiencies, you are getting a new city manager, when I go to the grocery store, I get a lot
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:39:05.200
+End: 00:39:10.240
+Duration: 5.040 seconds
+Text: of questions, you know, why did that go up so much? What's happening? And I think we should have
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:39:10.240
+End: 00:39:14.960
+Duration: 4.720 seconds
+Text: expectations that we're going to get some efficiencies and get a return on our investment.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:39:16.240
+End: 00:39:21.360
+Duration: 5.120 seconds
+Text: While these aren't a panacea, we do have other assets we can sell. We have the REATH Fire Station
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:39:22.000
+End: 00:39:27.120
+Duration: 5.120 seconds
+Text: that, you know, I've heard there's some interest in and, you know, we have the new joint maintenance
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:39:27.120
+End: 00:39:32.640
+Duration: 5.520 seconds
+Text: facility. We have enough space to take care of everything. And did mention cost recovery,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:39:32.640
+End: 00:39:37.440
+Duration: 4.800 seconds
+Text: but also on the parks and rec side, I think we need to be innovative with the marketing,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:39:37.440
+End: 00:39:42.080
+Duration: 4.640 seconds
+Text: not only the signs in the outfield, can we have sponsor parks, things of other nature
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:39:42.080
+End: 00:39:48.240
+Duration: 6.160 seconds
+Text: that I think we really need to be aggressive and go after and do. So, you know, I'd like to take this
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:39:49.440
+End: 00:39:54.640
+Duration: 5.200 seconds
+Text: number down some with the transist guest tax and the cost recovery. Hopefully,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:39:54.640
+End: 00:40:01.280
+Duration: 6.640 seconds
+Text: someone's got some other ideas on how to get it down and try to take some of this burden off the
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:40:01.520
+End: 00:40:07.520
+Duration: 6.000 seconds
+Text: tax fare. And again, just from a philosophical part of half a really hard time giving such big
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:40:07.520
+End: 00:40:12.720
+Duration: 5.200 seconds
+Text: increases to outside agencies. We're not giving anything, at least right now, to social services.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:40:13.600
+End: 00:40:18.480
+Duration: 4.880 seconds
+Text: And I was, you know, talked about should we cut them? I don't want to cut them when we're given
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:40:19.120
+End: 00:40:27.280
+Duration: 8.160 seconds
+Text: double digit increases to outside agencies. And even if we gave, made them flat, I think flat's
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:40:27.280
+End: 00:40:33.840
+Duration: 6.560 seconds
+Text: the place to go, which is where we're at. But this is it. This is the last night. I think we need to
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:40:33.840
+End: 00:40:39.920
+Duration: 6.080 seconds
+Text: take some of these savings. And just again to talk about the transit guest tax. I know that was
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:40:39.920
+End: 00:40:48.320
+Duration: 8.400 seconds
+Text: back before and people talk about the percentage. I mean, it is for the city commission to make that
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:40:48.320
+End: 00:40:54.080
+Duration: 5.760 seconds
+Text: decision. Sometimes it seems like people act like it's their money or whatever. It really isn't,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:40:54.080
+End: 00:41:01.920
+Duration: 7.840 seconds
+Text: we've got things like parking services. We've got the streets to take care of. And there's a lot
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:41:01.920
+End: 00:41:07.920
+Duration: 6.000 seconds
+Text: of things that go with having all those people come into town for events and everything else.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:41:11.680
+End: 00:41:16.000
+Duration: 4.320 seconds
+Text: What did you use for that 23% increase number?
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:41:16.400
+End: 00:41:20.160
+Duration: 3.760 seconds
+Text: I just took that number to that.
+--------------------------------------------------
+City Clerk:
+Start: 00:41:22.320
+End: 00:41:27.520
+Duration: 5.200 seconds
+Text: Gentlemen, can you please say out what you're looking at? What I'm doing is taking
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:41:27.520
+End: 00:41:35.120
+Duration: 7.600 seconds
+Text: the, he just, yeah, he took the, the total of you look at, on your published mill levy.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:41:35.920
+End: 00:41:42.080
+Duration: 6.160 seconds
+Text: And if you just look at the total number 12996, which is what is often referred to as the city
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:41:42.080
+End: 00:41:50.080
+Duration: 8.000 seconds
+Text: controllable amount and compare it to the 10, 5, 6, 7, that's a 23% increase. When you think about it,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:41:50.080
+End: 00:41:58.560
+Duration: 8.480 seconds
+Text: the police department and the library are only going up 7.9%, and they're a larger percentage
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:41:58.560
+End: 00:42:04.720
+Duration: 6.160 seconds
+Text: of the total property tax bill. So to get to 12.6, the other half has to be pretty significant
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:42:04.720
+End: 00:42:08.400
+Duration: 3.680 seconds
+Text: to get to that number. That's what it about comes out to 23%.
+--------------------------------------------------
+Staff Member:
+Start: 00:42:14.240
+End: 00:42:22.560
+Duration: 8.320 seconds
+Text: Well, when I look back at 2023 and the mill levy was 52.154. And now we're talking about a
+--------------------------------------------------
+Staff Member:
+Start: 00:42:22.560
+End: 00:42:30.240
+Duration: 7.680 seconds
+Text: mill levy of 52.925. We're really pretty flat with the mill levy. And we don't have the dollars
+--------------------------------------------------
+Staff Member:
+Start: 00:42:30.320
+End: 00:42:37.520
+Duration: 7.200 seconds
+Text: that we had last year to kind of make up for the fact that we lowered the mill levy three mills.
+--------------------------------------------------
+Staff Member:
+Start: 00:42:37.520
+End: 00:42:44.560
+Duration: 7.040 seconds
+Text: So what we're doing is kind of just getting back to what the progression we would have seen had,
+--------------------------------------------------
+Staff Member:
+Start: 00:42:44.560
+End: 00:42:51.440
+Duration: 6.880 seconds
+Text: we not lowered it so significantly last year. Yeah, I just want to kind of, when you look at the mill
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:42:51.440
+End: 00:42:56.000
+Duration: 4.560 seconds
+Text: levy, that's true, but when you look at the total taxes, the tax revenue did go up because we had
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:42:56.000
+End: 00:43:01.520
+Duration: 5.520 seconds
+Text: such large valuations close to double digits like 9.7. And if you broke that down for residential
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:43:01.520
+End: 00:43:09.280
+Duration: 7.760 seconds
+Text: people, it went up over 13%. So that was residential people still saw, you know, pretty good tax
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:43:09.280
+End: 00:43:19.360
+Duration: 10.080 seconds
+Text: increases even though we took down that mill levy. But I think some of that increase came from new
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:43:19.360
+End: 00:43:25.760
+Duration: 6.400 seconds
+Text: buildings and things. I think it was pretty minimal. Most of it was that residential side that
+--------------------------------------------------
+City Clerk:
+Start: 00:43:25.760
+End: 00:43:35.120
+Duration: 9.360 seconds
+Text: went up just by appreciation. John, is there an opportunity to revisit your
+--------------------------------------------------
+City Clerk:
+Start: 00:43:37.520
+End: 00:43:42.800
+Duration: 5.280 seconds
+Text: suggestion to keep the budgets of outside agencies flat this year?
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:43:44.320
+End: 00:43:50.400
+Duration: 6.080 seconds
+Text: I mean, yes, that's what I'd like to do when you use that as doing offset to the property tax.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:43:50.400
+End: 00:43:57.520
+Duration: 7.120 seconds
+Text: That's about 400,000. And again, I'd like to see that cost recovery as well, but maybe you
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:43:57.520
+End: 00:44:10.240
+Duration: 12.720 seconds
+Text: take one issue at a time and debate that one out. So that 400,000, if you cut that from,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:44:11.520
+End: 00:44:17.680
+Duration: 6.160 seconds
+Text: that would come from economic development or from from from the transit guest tests. In other
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:44:17.680
+End: 00:44:23.760
+Duration: 6.080 seconds
+Text: words, we'd keep them flat. Don't take anything away. But don't give any increases.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:44:23.760
+End: 00:44:35.200
+Duration: 11.440 seconds
+Text: Right. I guess I'm just trying to think of a marginal effect of taking that away or not. I don't
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:44:35.200
+End: 00:44:44.240
+Duration: 9.040 seconds
+Text: know. What could CVB do with that extra money versus when we split that 400,000 across all of the
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:44:44.240
+End: 00:44:50.400
+Duration: 6.160 seconds
+Text: taxpayers? I understand it would show that we're trying to keep the levee down as much as possible.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:44:53.360
+End: 00:45:01.120
+Duration: 7.760 seconds
+Text: But what's the impact of that? I mean, it's always hard to tell. I mean, we're already at like
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:45:01.120
+End: 00:45:05.680
+Duration: 4.560 seconds
+Text: 1.3 million, like, see we go into 1.6 million. I mean, how high are we going to go
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:45:06.640
+End: 00:45:13.440
+Duration: 6.800 seconds
+Text: you know, with that budget? Do we really think we need to increase a 20% or like the whole thing,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:45:13.440
+End: 00:45:22.880
+Duration: 9.440 seconds
+Text: 25% the whole group? And again, it's a way to say that, you know, we got staff there that are,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:45:22.880
+End: 00:45:29.920
+Duration: 7.040 seconds
+Text: you know, making sacrifices when asked them to do more with less. And I think it's the same thing
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:45:31.120
+End: 00:45:39.360
+Duration: 8.240 seconds
+Text: here is, you know, do we really, are we going to get that much for return on our investment,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:45:39.440
+End: 00:45:45.760
+Duration: 6.320 seconds
+Text: putting that 400,000? Are we going to really see that? What does that translate to in terms of
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:45:45.760
+End: 00:45:52.880
+Duration: 7.120 seconds
+Text: reducing the mill lift? Are we talking about 0.5 or? You're talking about a half a mill. But see,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:45:52.880
+End: 00:45:58.400
+Duration: 5.520 seconds
+Text: that's the way it always, you can increment that in my mind to death and you never take a reduction
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:45:58.400
+End: 00:46:03.440
+Duration: 5.040 seconds
+Text: because it's only a little here and a little there. But those little hairs and theirs add up. I
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:46:03.440
+End: 00:46:11.360
+Duration: 7.920 seconds
+Text: would add a lot more to this, but I'm at least trying to get something. And again, to me, I just
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:46:11.360
+End: 00:46:20.320
+Duration: 8.960 seconds
+Text: have a very hard to say when we're making the taxpayer make more, to pay more, and we're making the
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:46:20.320
+End: 00:46:29.040
+Duration: 8.720 seconds
+Text: city take less and not give increases. I mean, I guess if you really guess that this 400,000 is going
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:46:29.040
+End: 00:46:37.200
+Duration: 8.160 seconds
+Text: to bring some huge windfall, you can make that argument. I'd like to, the other thing is,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:46:38.880
+End: 00:46:45.920
+Duration: 7.040 seconds
+Text: I want to keep that tax, I'm fighting to keep that base low because of the higher we bring it,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:46:45.920
+End: 00:46:51.200
+Duration: 5.280 seconds
+Text: the more it's going to be compounded on the next time and then build the next time after. So all
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:46:51.200
+End: 00:46:56.960
+Duration: 5.760 seconds
+Text: these little ones, this half mill here, three quarters mills there, it's added onto the base and
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:46:56.960
+End: 00:47:02.320
+Duration: 5.360 seconds
+Text: it gets added on the next year and added on the next year. So in lots of ways, I'm fighting to keep
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:47:02.320
+End: 00:47:11.600
+Duration: 9.280 seconds
+Text: that rate as low as possible so it doesn't compound any more year after year because that's what happens
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:47:11.600
+End: 00:47:17.040
+Duration: 5.440 seconds
+Text: when it's only a half a mill here. But the flip sides true as well. We would be in a very different
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:47:17.040
+End: 00:47:23.760
+Duration: 6.720 seconds
+Text: situation right now. This conversation if the millevi wouldn't have been reduced last year.
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:47:24.640
+End: 00:47:30.720
+Duration: 6.080 seconds
+Text: So I think it's the slower we are to recover, the slower we are to get where we need to be,
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:47:30.720
+End: 00:47:37.360
+Duration: 6.640 seconds
+Text: the longer the hurt is going to be. The longer it's going to take us to dig our way out of there.
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:47:37.360
+End: 00:47:42.560
+Duration: 5.200 seconds
+Text: And I mean, my goal was to stay quiet until after public comment and clearly that did not,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:47:42.560
+End: 00:47:46.240
+Duration: 3.680 seconds
+Text: that did not work. Yeah, you can make that argument. I mean, that's my one tax increase from
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:47:46.240
+End: 00:47:51.360
+Duration: 5.120 seconds
+Text: Nirvana argument. I know. And you and I argue about that one. Specifically, I mean, TGT is where
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:47:51.360
+End: 00:48:02.000
+Duration: 10.640 seconds
+Text: a lot of the discussion last time did occur. The comments last time were, you know, and this time
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:48:02.000
+End: 00:48:11.520
+Duration: 9.520 seconds
+Text: it's not fair to the city staff. And those aren't the same comparisons. This isn't about, oh,
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:48:11.520
+End: 00:48:18.000
+Duration: 6.480 seconds
+Text: let's just bump up and give TGT, you know, all those entities raises. This is taking that money
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:48:18.000
+End: 00:48:25.040
+Duration: 7.040 seconds
+Text: and telling them you need to produce more sales tax revenue for us. In the way, you know,
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:48:25.040
+End: 00:48:29.520
+Duration: 4.480 seconds
+Text: there are a couple ways that we're going to get property taxes down and that's more people paying
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:48:29.520
+End: 00:48:37.840
+Duration: 8.320 seconds
+Text: them. So expansion or increasing our sales tax revenue. Okay. And you know, we talked about
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:48:37.840
+End: 00:48:42.800
+Duration: 4.960 seconds
+Text: putting in key performance indicators in their face. So are you willing to pull the contract if
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:48:42.800
+End: 00:48:47.520
+Duration: 4.720 seconds
+Text: we don't see those numbers? I'm willing to tie funding to where where that is. No, well,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:48:47.520
+End: 00:48:51.280
+Duration: 3.760 seconds
+Text: you can tie funding to it, but if it doesn't come, you're just going to lower their number a
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:48:51.280
+End: 00:48:56.000
+Duration: 4.720 seconds
+Text: little. Are you willing to go find something else to do it? So I think all of those are absolutely
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:48:56.000
+End: 00:49:00.080
+Duration: 4.080 seconds
+Text: on the table. What I just say make them produce first and let's give them something versus
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:49:00.080
+End: 00:49:05.120
+Duration: 5.040 seconds
+Text: giving them 25% and then say hit these numbers. And when we're getting to the 25%, I know a
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:49:05.120
+End: 00:49:11.120
+Duration: 6.000 seconds
+Text: significant chunk is is CVB related to where we're at. I mean, I think we ought to be looking at
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:49:11.120
+End: 00:49:15.520
+Duration: 4.400 seconds
+Text: occupancy rates. We need more people in town, all of those things. We can get through that. I do
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:49:15.520
+End: 00:49:22.880
+Duration: 7.360 seconds
+Text: want to point out on downtown Manhattan, a large chunk of what DMI was requesting was for
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:49:22.880
+End: 00:49:28.240
+Duration: 5.360 seconds
+Text: maintaining Houston Street, streetscapes. We're spending millions down there. We've got
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:49:28.240
+End: 00:49:34.080
+Duration: 5.840 seconds
+Text: art and light coming in. We know how important it is for people to have, I mean, all the things
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:49:34.080
+End: 00:49:40.480
+Duration: 6.400 seconds
+Text: that make that area unique and beautiful, not just the roads and those, but the I'm going to butcher
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:49:40.960
+End: 00:49:45.920
+Duration: 4.960 seconds
+Text: Gina can talk about it later, but I mean, we're talking about the lighting, the flower basket.
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:49:45.920
+End: 00:49:50.880
+Duration: 4.960 seconds
+Text: People want it to look clean and beautiful and that's going to, that does, place making does
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:49:50.880
+End: 00:49:56.880
+Duration: 6.000 seconds
+Text: increase property taxes. So it's not, I do want to point out on specifically with DMI's funds
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:49:57.440
+End: 00:50:04.000
+Duration: 6.560 seconds
+Text: that they're requesting there isn't an ad to what they're currently having to produce this year,
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:50:04.000
+End: 00:50:09.840
+Duration: 5.840 seconds
+Text: currently having to do. If does that make sense? Like we're adding a whole street that's getting
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:50:09.840
+End: 00:50:18.160
+Duration: 8.320 seconds
+Text: redone as part of, as part of what that request covers. I'm still, I think we all know very much on
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:50:18.160
+End: 00:50:25.440
+Duration: 7.280 seconds
+Text: keeping the, I will, and I told John, I will can see we don't have those indicators set up yet,
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:50:25.440
+End: 00:50:31.520
+Duration: 6.080 seconds
+Text: and I think though moving that pulling that money from TGT and just bumping it over either to
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:50:31.520
+End: 00:50:37.200
+Duration: 5.680 seconds
+Text: reduce property taxes or, I mean, that's essentially what it is. That's, that's short-sighted. We're
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:50:37.200
+End: 00:50:44.000
+Duration: 6.800 seconds
+Text: not going to be able to increase our revenues, sales tax revenues. And again, we're not pulling
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:50:44.000
+End: 00:50:48.400
+Duration: 4.400 seconds
+Text: money, we're just not giving a big fact. Well, we're not, we're, we're not fulfilling the
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:50:48.720
+End: 00:50:53.680
+Duration: 4.960 seconds
+Text: request. I think my preference is if we have questions about how they're planning to use that
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:50:53.680
+End: 00:50:59.520
+Duration: 5.840 seconds
+Text: and how we're planning to turn that into additional sales tax revenue, we need to retast them with
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:50:59.520
+End: 00:51:05.280
+Duration: 5.760 seconds
+Text: coming back and telling us how they're going to do it. We can keep the money in the fund and assign it
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:51:06.080
+End: 00:51:12.400
+Duration: 6.320 seconds
+Text: later. I think my, my ad vacation is just not, not pulling that and, and adding that to the general fund.
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:51:12.400
+End: 00:51:18.240
+Duration: 5.840 seconds
+Text: If we need to see more and we need to say, here's what we expect you to do before we're going to give you any additional,
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:51:18.240
+End: 00:51:22.000
+Duration: 3.760 seconds
+Text: I think absolutely we should do that then and have them come back and, and we can
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:51:22.800
+End: 00:51:27.920
+Duration: 5.120 seconds
+Text: give them the funds that we think are appropriate. But, I mean, John, that's just where you and I have
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:51:27.920
+End: 00:51:34.560
+Duration: 6.640 seconds
+Text: disagreed specifically on that point on how to use that. Yeah, I still think at the, the time we were at,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:51:34.560
+End: 00:51:41.040
+Duration: 6.480 seconds
+Text: we're asking everyone else to do more with less. We need to do the same here and we need to try to
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:51:41.040
+End: 00:51:47.200
+Duration: 6.160 seconds
+Text: keep that right down as much as we can and then work on the goals the next year. Because all this
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:51:47.200
+End: 00:51:51.040
+Duration: 3.840 seconds
+Text: is is, no one else seems to be coming up with anything. I think trying to come up with ideas
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:51:51.040
+End: 00:51:54.640
+Duration: 3.600 seconds
+Text: here and there and everyone else that seems to want. You, I mean, you have came up with some,
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:51:54.640
+End: 00:51:59.520
+Duration: 4.880 seconds
+Text: some great ideas and I think the cost recovery I've talked with Aaron about that a little bit and
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:51:59.600
+End: 00:52:06.880
+Duration: 7.280 seconds
+Text: we'll hear from that in October later in October. I think with that we, we got to vote now.
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:52:06.880
+End: 00:52:13.200
+Duration: 6.320 seconds
+Text: I know. I was saying with that we can't, we can't count those funds. Even if we bump it up to 30%,
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:52:13.200
+End: 00:52:18.000
+Duration: 4.800 seconds
+Text: I do think, I do agree with you, we need to get up to industry standard. I think there's probably,
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:52:18.000
+End: 00:52:21.680
+Duration: 3.680 seconds
+Text: it's probably going to move slower than you or I would want on that. We just can't count that as
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:52:21.680
+End: 00:52:26.800
+Duration: 5.120 seconds
+Text: revenue. I don't think we'll know what will happen if we keep cutting expenses. We may not be able to
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:52:26.800
+End: 00:52:30.000
+Duration: 3.200 seconds
+Text: offer the same programs that we've always offered, which would cut into some of that.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:52:30.000
+End: 00:52:33.440
+Duration: 3.440 seconds
+Text: The necessity is the mother and invention. If you don't go to put it down there as a number to
+--------------------------------------------------
+City Clerk:
+Start: 00:52:33.440
+End: 00:52:40.800
+Duration: 7.360 seconds
+Text: hit, you're not going to hit it. I think one of the issues is that we are trying to determine a
+--------------------------------------------------
+City Clerk:
+Start: 00:52:40.800
+End: 00:52:50.480
+Duration: 9.680 seconds
+Text: budget today and we will not have those discussions with the chamber with CVB with the social service
+--------------------------------------------------
+City Clerk:
+Start: 00:52:50.480
+End: 00:52:58.080
+Duration: 7.600 seconds
+Text: agencies with Parks and Rec for another month or two. Part of what I would like to see either
+--------------------------------------------------
+City Clerk:
+Start: 00:52:58.080
+End: 00:53:06.160
+Duration: 8.080 seconds
+Text: add our retreat or prior to is a discussion about how can we be budgeting for these entities when
+--------------------------------------------------
+City Clerk:
+Start: 00:53:06.160
+End: 00:53:11.920
+Duration: 5.760 seconds
+Text: we have not yet had those discussions. Does that imply that we start the budget process a month
+--------------------------------------------------
+City Clerk:
+Start: 00:53:12.000
+End: 00:53:22.080
+Duration: 10.080 seconds
+Text: earlier in order to start doing that? I don't know, but that's part of my concern, my reluctance to
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:53:22.080
+End: 00:53:26.160
+Duration: 4.080 seconds
+Text: to. I mean, that's why I called earlier for for making some decisions earlier,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:53:26.160
+End: 00:53:31.280
+Duration: 5.120 seconds
+Text: pushing this beforehand because yeah, tonight we're just down to the down to the night. I mean,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:53:31.280
+End: 00:53:34.480
+Duration: 3.200 seconds
+Text: the sense I'm getting this commission says I just want to go with this number, go with the highest
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:53:34.480
+End: 00:53:40.240
+Duration: 5.760 seconds
+Text: number possible and we went to this the beginning and we can always take it down later and we can
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:53:40.240
+End: 00:53:47.040
+Duration: 6.800 seconds
+Text: go into the next meeting in the in the next meeting. I mean, we can get the meeting over
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:53:47.040
+End: 00:53:53.840
+Duration: 6.800 seconds
+Text: quick if you guys just want to keep just spend the money, but I mean, I really, you know,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:53:55.520
+End: 00:54:00.720
+Duration: 5.200 seconds
+Text: if you've got that much confidence, it's 400,000 all of a sudden materialized and give us all that
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:54:00.720
+End: 00:54:09.120
+Duration: 8.400 seconds
+Text: extra stuff this next year. I mean, to say we're going to talk about it later, they did their
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:54:09.120
+End: 00:54:14.480
+Duration: 5.360 seconds
+Text: presentations here. No, we have to take a budget vote and vote on their request. We should have
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:54:14.480
+End: 00:54:19.920
+Duration: 5.440 seconds
+Text: all the information we need at this point in time. I mean, I do think our expectations of what
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:54:19.920
+End: 00:54:24.960
+Duration: 5.040 seconds
+Text: they're producing change from when they when they first presented. I don't think there was a lot
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:54:24.960
+End: 00:54:30.480
+Duration: 5.520 seconds
+Text: of pushback or a lot of questions necessarily or saying, okay, that's nicely you want these,
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:54:30.480
+End: 00:54:35.600
+Duration: 5.120 seconds
+Text: but here's what we really need to see. That's a more recent discussion that we heard we're supposed
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:54:35.600
+End: 00:54:45.040
+Duration: 9.440 seconds
+Text: to get 60 percent. We did hear that and I know that that is a jump from last year. Once again,
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:54:45.040
+End: 00:54:51.280
+Duration: 6.240 seconds
+Text: and I told you this, like I can see if we don't have the information, then I'm not saying we grant
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:54:51.280
+End: 00:54:56.320
+Duration: 5.040 seconds
+Text: it all right now. I'm saying that then we hold it in that fund. My advocate is not too,
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:54:56.320
+End: 00:55:03.280
+Duration: 6.960 seconds
+Text: I think it's very short-sighted very quick to move it and reduce the property taxes with it,
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:55:03.280
+End: 00:55:09.280
+Duration: 6.000 seconds
+Text: because we aren't going to get that back. I think we keep it in that fund, have more discussions
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:55:09.280
+End: 00:55:14.080
+Duration: 4.800 seconds
+Text: if we need to see more, which is a new conversation that we've started. We need to see more
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:55:14.080
+End: 00:55:18.320
+Duration: 4.240 seconds
+Text: performance measures or create those in order to figure out how we are. All I hear is I don't want
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:55:18.320
+End: 00:55:22.160
+Duration: 3.840 seconds
+Text: to hear anything that's going to take this number down. I mean, John, I'll be honest, I'm
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:55:22.160
+End: 00:55:27.360
+Duration: 5.200 seconds
+Text: significantly worried. The long-term future, if we do take that down, we're already seeing that our
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:55:27.440
+End: 00:55:34.400
+Duration: 6.960 seconds
+Text: revenues and our budgets aren't matching. The other opportunity is how far are we pulling the
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:55:34.400
+End: 00:55:40.080
+Duration: 5.680 seconds
+Text: city budget down? We're under what they were last year. The expenses is what I mean. We're under
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:55:40.080
+End: 00:55:47.440
+Duration: 7.360 seconds
+Text: what we were last year by 600,000. A million from there. I don't know. I mean, to me, those are the
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:55:47.440
+End: 00:55:52.320
+Duration: 4.880 seconds
+Text: reasonable reductions. We've talked about others. We haven't really brought up. I thought you had
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:55:52.320
+End: 00:55:58.080
+Duration: 5.760 seconds
+Text: some you were going to recommend. I mean, I did. I've been working Scott over on the fire department.
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:55:58.080
+End: 00:56:03.920
+Duration: 5.840 seconds
+Text: I mean, I am worried about how that budget has increased. I told you I was going to wait till
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:56:03.920
+End: 00:56:07.840
+Duration: 3.920 seconds
+Text: after public comment to go through all of this, John. I mean, I was worried with where that. Okay,
+--------------------------------------------------
+Staff Member:
+Start: 00:56:07.840
+End: 00:56:12.960
+Duration: 5.120 seconds
+Text: let's go to public health. We can't make a remark. I would just echo Jamie. I'm really concerned
+--------------------------------------------------
+Staff Member:
+Start: 00:56:12.960
+End: 00:56:18.800
+Duration: 5.840 seconds
+Text: that we have no money for capital improvement in this budget, basically if another roof falls
+--------------------------------------------------
+Staff Member:
+Start: 00:56:18.800
+End: 00:56:25.360
+Duration: 6.560 seconds
+Text: in or that kind of thing. It would seem to me that we're trying to get back to a level playing
+--------------------------------------------------
+Staff Member:
+Start: 00:56:25.360
+End: 00:56:34.960
+Duration: 9.600 seconds
+Text: field. We're not giving staff any raises. I really almost resent that. What we're doing is we're
+--------------------------------------------------
+Staff Member:
+Start: 00:56:34.960
+End: 00:56:43.520
+Duration: 8.560 seconds
+Text: getting back to normal and trying to fund things adequately. I think perhaps if there's money in the
+--------------------------------------------------
+Staff Member:
+Start: 00:56:43.520
+End: 00:56:51.680
+Duration: 8.160 seconds
+Text: CBB budget, we've got things like the parking structure falling apart. Well, he's the TG money for
+--------------------------------------------------
+Staff Member:
+Start: 00:56:51.680
+End: 00:57:06.720
+Duration: 15.040 seconds
+Text: that. That's, but we can't. We can. Well, anyway, I realize that there are people who are trying
+--------------------------------------------------
+Staff Member:
+Start: 00:57:06.720
+End: 00:57:12.160
+Duration: 5.440 seconds
+Text: to age in place who have problems with their property taxes. But I think sometimes people don't
+--------------------------------------------------
+Staff Member:
+Start: 00:57:12.160
+End: 00:57:20.800
+Duration: 8.640 seconds
+Text: realize that going up three mills is not $10 million. It's $105 for some houses. And that's up. I know.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:57:20.800
+End: 00:57:28.800
+Duration: 8.000 seconds
+Text: Yeah, it's only a couple of pedicures you said. We'll maintain decorum at the Padaeus, please.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:57:29.600
+End: 00:57:46.160
+Duration: 16.560 seconds
+Text: True. I guess my where I'm very unclear is what is our strategy, long term. I hear you, John,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:57:47.520
+End: 00:57:55.840
+Duration: 8.320 seconds
+Text: the way I'm interpreting what you're saying is it is a this year. Let's keep it low this year.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:57:55.840
+End: 00:58:04.720
+Duration: 8.880 seconds
+Text: But we're going to have the same conversation next year. And even with our four-mill increase,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:58:04.720
+End: 00:58:13.760
+Duration: 9.040 seconds
+Text: there's still we don't have capital improvements. We don't have pay raises. And that's not going to go away.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:58:17.600
+End: 00:58:24.880
+Duration: 7.280 seconds
+Text: So, are we just getting through this year with a budget and then hope that next year we can work
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:58:24.880
+End: 00:58:30.720
+Duration: 5.840 seconds
+Text: on it more? And that may be the case because we've got three of us who've never gone through this
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:58:30.720
+End: 00:58:41.600
+Duration: 10.880 seconds
+Text: budget process before. But it just it seems like we are making a lot of reactionary decisions
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:58:41.600
+End: 00:58:48.000
+Duration: 6.400 seconds
+Text: and suggestions. And I don't I want to be sure that we're we're all focused on the long term
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:58:48.000
+End: 00:58:53.600
+Duration: 5.600 seconds
+Text: health of the city. Well, if you don't want to take the budget down, which I still think is the
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:58:53.600
+End: 00:58:59.440
+Duration: 5.840 seconds
+Text: best way to do it, take the TGT, put the goal of the budget is for that extra revenue and put
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:58:59.440
+End: 00:59:07.120
+Duration: 7.680 seconds
+Text: it all into reserve if there's a problem. Because at least that way we're not spending the one instance,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:59:07.120
+End: 00:59:13.040
+Duration: 5.920 seconds
+Text: we're not spending the money. And on the second instance, we're putting an expectation out there to
+--------------------------------------------------
+Commissioner Mc:
+Start: 00:59:13.040
+End: 00:59:18.560
+Duration: 5.520 seconds
+Text: get to a certain level. Did you just agree with me from earlier of keeping it in reserve? I say
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:59:18.640
+End: 00:59:23.760
+Duration: 5.120 seconds
+Text: that's better than giving it away. Oh, you agreed with me. It kind of sounds like a compromise.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:59:25.440
+End: 00:59:31.360
+Duration: 5.920 seconds
+Text: So, we opened for public comment? Yeah, but I think I think we might have just made a
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:59:32.880
+End: 00:59:37.200
+Duration: 4.320 seconds
+Text: did we just I think we might have found some kind of compromise that we may want to consider.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 00:59:37.200
+End: 00:59:40.960
+Duration: 3.760 seconds
+Text: So, let's make sure we keep that in mind after public comment.
+--------------------------------------------------
+City Clerk:
+Start: 00:59:41.040
+End: 00:59:54.080
+Duration: 13.040 seconds
+Text: We will now open the floor for public comment. If anyone would like to address the commission on the
+--------------------------------------------------
+City Clerk:
+Start: 00:59:54.080
+End: 01:00:06.160
+Duration: 12.080 seconds
+Text: matter of adopting the 2025 budget. It's me again.
+--------------------------------------------------
+Staff Member:
+Start: 01:00:08.800
+End: 01:00:17.520
+Duration: 8.720 seconds
+Text: Gina Snyder, Executive Director Downtown Manhattan, 32-7 Valley Drive. So, John.
+--------------------------------------------------
+Staff Member:
+Start: 01:00:17.600
+End: 01:00:32.320
+Duration: 14.720 seconds
+Text: Not today. Not buds today. I do have to take a little bit of you're kind of frustrating me
+--------------------------------------------------
+Staff Member:
+Start: 01:00:32.960
+End: 01:00:39.840
+Duration: 6.880 seconds
+Text: because when you say this $400,000 is going to what are we going to do? Produce a miracle?
+--------------------------------------------------
+City Clerk:
+Start: 01:00:39.920
+End: 01:00:42.720
+Duration: 2.800 seconds
+Text: Excuse me, Gina, just to say Jared, can you set the timer?
+--------------------------------------------------
+Staff Member:
+Start: 01:00:49.360
+End: 01:00:55.920
+Duration: 6.560 seconds
+Text: So, I want to speak about just DMI. I don't want to speak about this $400,000.
+--------------------------------------------------
+Staff Member:
+Start: 01:00:56.800
+End: 01:01:03.680
+Duration: 6.880 seconds
+Text: I'm asking for $183,000, which is little over 6% of the transient guest tax fund.
+--------------------------------------------------
+Staff Member:
+Start: 01:01:04.480
+End: 01:01:15.200
+Duration: 10.720 seconds
+Text: And we do way more with less all the time. I've been here for 16 years and we have had four
+--------------------------------------------------
+Staff Member:
+Start: 01:01:15.200
+End: 01:01:22.400
+Duration: 7.200 seconds
+Text: increases in all the time that I've been here. We're not prevalent. We don't, we're
+--------------------------------------------------
+Staff Member:
+Start: 01:01:22.400
+End: 01:01:29.920
+Duration: 7.520 seconds
+Text: frivolous. We don't, we're good stewards of the money. So, right now, I don't want to be lumped
+--------------------------------------------------
+Staff Member:
+Start: 01:01:30.400
+End: 01:01:34.880
+Duration: 4.480 seconds
+Text: in. I really don't. I want to stand alone. I want downtown to stand alone on our merits.
+--------------------------------------------------
+Staff Member:
+Start: 01:01:35.600
+End: 01:01:42.880
+Duration: 7.280 seconds
+Text: Bring the metrics at me. I'm ready. I think that we can prove that we are successfully spending
+--------------------------------------------------
+Staff Member:
+Start: 01:01:42.880
+End: 01:01:50.640
+Duration: 7.760 seconds
+Text: this money in a way that has massive return on investment. I also want to address that this is
+--------------------------------------------------
+Staff Member:
+Start: 01:01:50.640
+End: 01:02:01.600
+Duration: 10.960 seconds
+Text: not just about flower baskets. DMI and the city have entered into a relationship for a long time
+--------------------------------------------------
+Staff Member:
+Start: 01:02:02.240
+End: 01:02:09.600
+Duration: 7.360 seconds
+Text: about placemaking for economic vibrancy. That's essentially what we do. And placemaking is a
+--------------------------------------------------
+Staff Member:
+Start: 01:02:09.600
+End: 01:02:19.280
+Duration: 9.680 seconds
+Text: collaborative process. It is about creating public spaces that are vibrant, engaging, community
+--------------------------------------------------
+Staff Member:
+Start: 01:02:19.280
+End: 01:02:27.360
+Duration: 8.080 seconds
+Text: oriented. It's about design and beautification and safety and a sense of identity, cleanliness.
+--------------------------------------------------
+Staff Member:
+Start: 01:02:27.360
+End: 01:02:33.680
+Duration: 6.320 seconds
+Text: It's a whole bunch of things and it takes a relationship in order to make those kind of things
+--------------------------------------------------
+Staff Member:
+Start: 01:02:33.680
+End: 01:02:43.520
+Duration: 9.840 seconds
+Text: happen. Placemaking is a powerful economic driver. It is, it is a fact you can ask any economist
+--------------------------------------------------
+Staff Member:
+Start: 01:02:43.520
+End: 01:02:49.360
+Duration: 5.840 seconds
+Text: that you want. Pick whoever you want to ask about placemaking and they will tell you what
+--------------------------------------------------
+Staff Member:
+Start: 01:02:49.360
+End: 01:02:56.480
+Duration: 7.120 seconds
+Text: placemaking does in communities, in cities, in urban areas, in rural communities. The most
+--------------------------------------------------
+Staff Member:
+Start: 01:02:56.480
+End: 01:03:03.840
+Duration: 7.360 seconds
+Text: important thing that it does is increase foot traffic. And it's when you create these intentional,
+--------------------------------------------------
+Staff Member:
+Start: 01:03:03.840
+End: 01:03:10.480
+Duration: 6.640 seconds
+Text: functional spaces, it encourages people to spend time together and encourages people to spend
+--------------------------------------------------
+Staff Member:
+Start: 01:03:10.480
+End: 01:03:17.120
+Duration: 6.640 seconds
+Text: a lot of time in that location with their resources, making community with each other,
+--------------------------------------------------
+Staff Member:
+Start: 01:03:17.120
+End: 01:03:25.120
+Duration: 8.000 seconds
+Text: shopping and dining and wanting to have a sense of belonging in this area. And when people spend
+--------------------------------------------------
+Staff Member:
+Start: 01:03:25.120
+End: 01:03:33.920
+Duration: 8.800 seconds
+Text: their time, they usually spend their money. It's about tourism. And when again placemaking is done
+--------------------------------------------------
+Staff Member:
+Start: 01:03:33.920
+End: 01:03:40.560
+Duration: 6.640 seconds
+Text: with intention and it's well designed and you have cared for public space with, with unique
+--------------------------------------------------
+Staff Member:
+Start: 01:03:40.560
+End: 01:03:47.200
+Duration: 6.640 seconds
+Text: and impactful event programming. You are attracting locals and you are attracting visitors.
+--------------------------------------------------
+Staff Member:
+Start: 01:03:48.160
+End: 01:03:52.080
+Duration: 3.920 seconds
+Text: And as we all know, because we've talked about it a million times over visitors,
+--------------------------------------------------
+Staff Member:
+Start: 01:03:52.080
+End: 01:03:56.960
+Duration: 4.880 seconds
+Text: stimulate the local economy. I know Marsha would agree with me on that. They spend money on
+--------------------------------------------------
+Staff Member:
+Start: 01:03:57.040
+End: 01:04:04.640
+Duration: 7.600 seconds
+Text: accommodations, dining, shopping and events. Placemaking, this relationship we have with the city,
+--------------------------------------------------
+Staff Member:
+Start: 01:04:05.200
+End: 01:04:09.680
+Duration: 4.480 seconds
+Text: the events that we do downtown also improve property values. This is a fact.
+--------------------------------------------------
+Staff Member:
+Start: 01:04:10.320
+End: 01:04:16.640
+Duration: 6.320 seconds
+Text: Well maintained, clean, safe and vibrant space. Races the value of nearby properties.
+--------------------------------------------------
+Staff Member:
+Start: 01:04:16.640
+End: 01:04:24.000
+Duration: 7.360 seconds
+Text: Communities that invest in placemaking see increases in real estate demand. We are 100%
+--------------------------------------------------
+Staff Member:
+Start: 01:04:24.000
+End: 01:04:30.000
+Duration: 6.000 seconds
+Text: commercially occupied downtown. And residential. We just moved a business into a closet
+--------------------------------------------------
+Staff Member:
+Start: 01:04:30.640
+End: 01:04:37.280
+Duration: 6.640 seconds
+Text: because it was the only space that we had while they wait for a space to open up. That is a true story.
+--------------------------------------------------
+Staff Member:
+Start: 01:04:38.320
+End: 01:04:45.440
+Duration: 7.120 seconds
+Text: It's we have demand. We've created a demand in downtown. And by attracting investment,
+--------------------------------------------------
+Staff Member:
+Start: 01:04:45.440
+End: 01:04:52.320
+Duration: 6.880 seconds
+Text: a vibrant, attractive public place, signal, that a community is thriving and innovative. Why would
+--------------------------------------------------
+Staff Member:
+Start: 01:04:52.320
+End: 01:05:01.040
+Duration: 8.720 seconds
+Text: we cut ourselves off at the knees while we are doing so well? That extra $93,000 is a lot
+--------------------------------------------------
+Staff Member:
+Start: 01:05:01.040
+End: 01:05:07.120
+Duration: 6.080 seconds
+Text: in our world. And it's pennies in this transient guest tax fund. It really is. I know you think the
+--------------------------------------------------
+Staff Member:
+Start: 01:05:07.120
+End: 01:05:14.480
+Duration: 7.360 seconds
+Text: microscopic little they add up and they do add up. But you take that $93,000 additional $93,000
+--------------------------------------------------
+Staff Member:
+Start: 01:05:15.040
+End: 01:05:22.320
+Duration: 7.280 seconds
+Text: away from our request. Then I'll tell you what what you're not going to get to the to the front
+--------------------------------------------------
+Staff Member:
+Start: 01:05:22.320
+End: 01:05:27.280
+Duration: 4.960 seconds
+Text: porch of the city. You're not going to get a beautiful corridor that you just spent
+--------------------------------------------------
+Staff Member:
+Start: 01:05:28.720
+End: 01:05:35.280
+Duration: 6.560 seconds
+Text: a good millions of dollars on for our brand new neighbor, the Museum of Art and Light. We will have
+--------------------------------------------------
+Staff Member:
+Start: 01:05:35.280
+End: 01:05:40.800
+Duration: 5.520 seconds
+Text: that void, that dark void that you mostly see during festival of lights and during
+--------------------------------------------------
+Staff Member:
+Start: 01:05:40.880
+End: 01:05:48.720
+Duration: 7.840 seconds
+Text: the pandemic. I think you know where I'm going with this. I hope that you will consider
+--------------------------------------------------
+City Clerk:
+Start: 01:05:49.360
+End: 01:05:56.720
+Duration: 7.360 seconds
+Text: funding us at our full request. Thank you, Gina. Is there anyone else who would like to make public
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:05:56.720
+End: 01:06:07.680
+Duration: 10.960 seconds
+Text: comment? Hello, my name is Phil Preston. My wife and I live here in Manhattan. I'll
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:06:08.240
+End: 01:06:15.760
+Duration: 7.520 seconds
+Text: fill this out in just a second. I would just like to make two points. One, she and I sent a text
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:06:15.760
+End: 01:06:21.520
+Duration: 5.760 seconds
+Text: to all the members of the commission, not too long ago. We had no response from anybody on the
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:06:21.520
+End: 01:06:26.480
+Duration: 4.960 seconds
+Text: commission. I was a little surprised at that because we are voting citizens in town here and I
+--------------------------------------------------
+City Clerk:
+Start: 01:06:26.480
+End: 01:06:30.720
+Duration: 4.240 seconds
+Text: would have expected. Excuse me, Phil. You do need to state your address. Please. Okay, I'm sorry.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:06:30.720
+End: 01:06:37.040
+Duration: 6.320 seconds
+Text: 4504 grand bluffs court in Manhattan. And excuse me, I will give you a few extra minutes.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:06:37.040
+End: 01:06:45.600
+Duration: 8.560 seconds
+Text: Did you send a text or an email? Email. Email, I'm sorry. I'm sorry. Email. And anyway, in that,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:06:47.200
+End: 01:06:54.000
+Duration: 6.800 seconds
+Text: and just two quick points that I want to make and I won't use up my whole five minutes.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:06:54.400
+End: 01:07:01.600
+Duration: 7.200 seconds
+Text: The unrealized gain that we spoke up, yes, property values are going up in Manhattan. It seems
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:07:01.600
+End: 01:07:11.200
+Duration: 9.600 seconds
+Text: to be a popular city in the state of Kansas. But as senior citizens with fixed incomes, our income
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:07:12.240
+End: 01:07:21.200
+Duration: 8.960 seconds
+Text: may go up slightly based on CPI or our government mandated increase. But other than that,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:07:21.280
+End: 01:07:28.560
+Duration: 7.280 seconds
+Text: we're on a fixed income. So any, any gain we have in the value of our house is an unrealized gain.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:07:28.560
+End: 01:07:36.480
+Duration: 7.920 seconds
+Text: That does not go in the bank. But you're taking real authors out of our pocket for that unrealized
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:07:36.480
+End: 01:07:42.720
+Duration: 6.240 seconds
+Text: gain. And I know I said that or we said that in our email, but I have to emphasize that again.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:07:42.720
+End: 01:07:48.720
+Duration: 6.000 seconds
+Text: The other thing is it has a tax, a property tax appraiser in California for my whole career.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:07:49.600
+End: 01:07:56.800
+Duration: 7.200 seconds
+Text: California dealt with this problem about these increases that cannot be planned for.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:07:57.520
+End: 01:08:02.400
+Duration: 4.880 seconds
+Text: And people like us on fixed income, you're going with these types of increases that you're
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:08:02.400
+End: 01:08:08.160
+Duration: 5.760 seconds
+Text: talking about for this year. You're going to force us out of our home here in Manhattan. And
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:08:08.160
+End: 01:08:15.600
+Duration: 7.440 seconds
+Text: that's unfortunate over time. So the other thing that I'm not hearing in your budget discussions
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:08:16.320
+End: 01:08:22.800
+Duration: 6.480 seconds
+Text: as a senior manager in the assessor's office in California, always the discussion center around
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:08:22.800
+End: 01:08:30.080
+Duration: 7.280 seconds
+Text: essential and non-essential budget expenditures. I'm not hearing that here. There are things that
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:08:30.080
+End: 01:08:35.680
+Duration: 5.600 seconds
+Text: I've heard from Parks and Rec about an indoor pool. And I don't want to pick on that. I know there
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:08:35.680
+End: 01:08:43.120
+Duration: 7.440 seconds
+Text: are people that want that. But that seems to me like a non-essential budget item. Again, with all
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:08:43.120
+End: 01:08:49.440
+Duration: 6.320 seconds
+Text: due respect to the director of Parks and Rec. But getting salt, one of the things on your consent
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:08:50.480
+End: 01:08:56.720
+Duration: 6.240 seconds
+Text: agenda tonight, getting salt in case of snow. To me, that's an essential item. It needs to be there
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:08:56.720
+End: 01:09:02.960
+Duration: 6.240 seconds
+Text: in case we have snow fixing potholes, things like that. Those are essential items. But I hope
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:09:02.960
+End: 01:09:08.400
+Duration: 5.440 seconds
+Text: that the commission considers that type of discussion when you're looking at these requests
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:09:08.400
+End: 01:09:12.080
+Duration: 3.680 seconds
+Text: from the different departments. Yes. I appreciate your time. Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:09:14.960
+End: 01:09:22.960
+Duration: 8.000 seconds
+Text: Thank you. Is there anyone?
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:09:38.400
+End: 01:10:06.560
+Duration: 28.160 seconds
+Text: Good evening. Thank you for having this meeting. We do need to
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:10:08.560
+End: 01:10:15.280
+Duration: 6.720 seconds
+Text: get some things resolved. I know we do. Oh, I'm sorry. Did I just cook with the Aguil Business
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:10:15.280
+End: 01:10:24.880
+Duration: 9.600 seconds
+Text: Association? My address is 68.54. Jacobin Circle. Just as an acknowledgement, I'm sure
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:10:24.880
+End: 01:10:30.240
+Duration: 5.360 seconds
+Text: everybody knows, but Aguil is undergoing a lot of change. We're in a redevelopment mode. We've
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:10:30.240
+End: 01:10:41.760
+Duration: 11.520 seconds
+Text: got a lot of construction going on. There are things that we must do. We have to keep going on,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:10:41.760
+End: 01:10:49.440
+Duration: 7.680 seconds
+Text: because we are an economic driver for a lot of things that do happen here in town. We haven't
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:10:49.440
+End: 01:10:57.040
+Duration: 7.600 seconds
+Text: asked for any extra money. I've been the director since 2019, and we've never asked for a change.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:10:57.120
+End: 01:11:08.800
+Duration: 11.680 seconds
+Text: We are doing less than we were doing in 2019, because things have cost go up, and we haven't made
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:11:08.800
+End: 01:11:19.440
+Duration: 10.640 seconds
+Text: those changes. What we're trying to do is get a real balance into Aguil and help be the
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:11:19.440
+End: 01:11:25.600
+Duration: 6.160 seconds
+Text: economic driver that we can be. We want to put our best foot forward. We know that with the
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:11:26.400
+End: 01:11:32.880
+Duration: 6.480 seconds
+Text: construction and redevelopment, it's a process. What we want to do is be as viable as we can.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:11:34.080
+End: 01:11:41.360
+Duration: 7.280 seconds
+Text: We're fortunate that we pretty much are, we get a new business and opened just last Friday.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:11:41.360
+End: 01:11:46.880
+Duration: 5.520 seconds
+Text: We got another one that's going to open up here another week. There is a lot of interest
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:11:46.880
+End: 01:11:52.880
+Duration: 6.000 seconds
+Text: in what's going on in Aguil, and we just want to try to keep up with that. That's the cost for
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:11:52.960
+End: 01:11:57.520
+Duration: 4.560 seconds
+Text: our request, and I hope you consider it. Thank you. Thank you, Dennis.
+--------------------------------------------------
+City Clerk:
+Start: 01:12:01.040
+End: 01:12:03.440
+Duration: 2.400 seconds
+Text: Is there anyone else who would like to make any remarks?
+--------------------------------------------------
+City Clerk:
+Start: 01:12:07.360
+End: 01:12:09.200
+Duration: 1.840 seconds
+Text: Public comment is now closed.
+--------------------------------------------------
+City Clerk:
+Start: 01:12:13.680
+End: 01:12:18.320
+Duration: 4.640 seconds
+Text: Commissioners, have you any final questions of city staff?
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:12:18.560
+End: 01:12:24.160
+Duration: 5.600 seconds
+Text: Yes, John was leading me to this one. Can we, Jason, we change it to the,
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:12:25.520
+End: 01:12:29.840
+Duration: 4.320 seconds
+Text: sorry, look alive over there, Jason, look alive. Jared's got it.
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:12:31.840
+End: 01:12:34.400
+Duration: 2.560 seconds
+Text: I don't know which one it is, where all the city budgets are.
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:12:35.760
+End: 01:12:36.720
+Duration: 0.960 seconds
+Text: The different apartments.
+--------------------------------------------------
+Staff Member:
+Start: 01:12:36.720
+End: 01:12:42.080
+Duration: 5.360 seconds
+Text: Thanks for the keep-in-er debacle, so I'm trying to do a little more responsibly.
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:12:42.480
+End: 01:12:43.440
+Duration: 0.960 seconds
+Text: Which one? Good job.
+--------------------------------------------------
+City Manager:
+Start: 01:12:43.520
+End: 01:12:44.440
+Duration: 0.920 seconds
+Text: The bottom.
+--------------------------------------------------
+City Manager:
+Start: 01:12:44.440
+End: 01:12:45.440
+Duration: 1.000 seconds
+Text: So green.
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:12:47.840
+End: 01:12:55.680
+Duration: 7.840 seconds
+Text: So I mean, this is something that keep going. There you go. This is what John and I were talking about.
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:12:57.280
+End: 01:13:03.280
+Duration: 6.000 seconds
+Text: Scott has probably taken most of my wrath on this, on where we're at, on our department's
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:13:03.280
+End: 01:13:10.800
+Duration: 7.520 seconds
+Text: been. I mean, I ignored that 39-8 column to be completely honest. Those were budgets that
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:13:10.800
+End: 01:13:14.400
+Duration: 3.600 seconds
+Text: were produced. And so when I've been looking at how can we lower things? I'm looking at
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:13:15.040
+End: 01:13:21.920
+Duration: 6.880 seconds
+Text: 2024 to the 38 budget. And I did have a lot of questions for Scott. I don't know if you want to
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:13:21.920
+End: 01:13:28.800
+Duration: 6.880 seconds
+Text: pop up here, Scott, and kind of explain. I did have a big concern about the, what, $500,000
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:13:28.800
+End: 01:13:34.640
+Duration: 5.840 seconds
+Text: increase. I know the union is part of that. There's animal control or the animal shelter had
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:13:34.640
+End: 01:13:40.640
+Duration: 6.000 seconds
+Text: an increase, some commodities. But I did, I did question about 200,000 and I, I don't want to put
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:13:40.640
+End: 01:13:46.640
+Duration: 6.000 seconds
+Text: words in your mouth, but I believe that part of that is our staffing levels on, on minimum staffing.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:13:47.200
+End: 01:13:53.920
+Duration: 6.720 seconds
+Text: It is. That's, that's the bulk of it. We dropped down to 19. That's not ideal for us. We talked about
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:13:53.920
+End: 01:13:58.800
+Duration: 4.880 seconds
+Text: it originally that it has an effect on not only the safety of firefighters, it has to do with our
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:13:59.200
+End: 01:14:07.040
+Duration: 7.840 seconds
+Text: ISO rating. So as a way, when we're, we're in our expenditures, when the city manager directs,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:14:07.040
+End: 01:14:11.840
+Duration: 4.800 seconds
+Text: that we need to start having target budgets, the first two areas that we go into cut are training.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:14:12.480
+End: 01:14:17.040
+Duration: 4.560 seconds
+Text: And then we look at our staffing. Staffing is really hard. We're actually working on
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:14:17.680
+End: 01:14:22.640
+Duration: 4.960 seconds
+Text: providing some details on that with over time of about four different types of over time.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:14:23.440
+End: 01:14:27.360
+Duration: 3.920 seconds
+Text: We have our minimum staffing. We have a multiple number of people that go on,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:14:28.880
+End: 01:14:35.840
+Duration: 6.960 seconds
+Text: medical restricted duty because of the type of work they do. There is an effect of the parental leave
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:14:35.840
+End: 01:14:41.040
+Duration: 5.200 seconds
+Text: within the fire department. We're trying to figure out where that's at. And then we have just the
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:14:41.040
+End: 01:14:46.080
+Duration: 5.040 seconds
+Text: standard shift shift shortage that we had because we have vacation slots. We have medical leave
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:14:46.080
+End: 01:14:50.960
+Duration: 4.880 seconds
+Text: and we have a minimum staffing. So there's all, it's, it's complicated. There's a lot to it.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:14:50.960
+End: 01:14:56.640
+Duration: 5.680 seconds
+Text: But that's really where that 200,000 that we were talking about. We put back, we put back in there,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:14:57.360
+End: 01:15:01.920
+Duration: 4.560 seconds
+Text: knowing that if there is a need, revenues aren't coming. Those are the areas we're going to cut.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:15:03.600
+End: 01:15:08.960
+Duration: 5.360 seconds
+Text: Ron and Jason over the years know that we're not going to, there's that next spec they,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:15:08.960
+End: 01:15:13.600
+Duration: 4.640 seconds
+Text: next spec did carry over for us typically, depending on how our staffing is.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:15:15.680
+End: 01:15:21.760
+Duration: 6.080 seconds
+Text: Back in August, we're also two over of our staffing preparing. We've dropped that. We don't have
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:15:22.720
+End: 01:15:29.280
+Duration: 6.560 seconds
+Text: individuals anymore. We're actually down one, one member on our operation side. So that's kind of
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:15:29.280
+End: 01:15:35.040
+Duration: 5.760 seconds
+Text: where that money is. Thanks, Scott. I mean, so when I, when I've been going through this and I've
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:15:35.040
+End: 01:15:40.400
+Duration: 5.360 seconds
+Text: been working just about every department head over, except for Brandon, everybody's nice to the
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:15:40.400
+End: 01:15:45.680
+Duration: 5.280 seconds
+Text: report around here. Brandon's disagreeing with that. I mean, and those are some things that,
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:15:45.680
+End: 01:15:51.440
+Duration: 5.760 seconds
+Text: and I think when it comes down to it, what Scott said about if the revenues aren't coming in
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:15:51.440
+End: 01:15:56.320
+Duration: 4.880 seconds
+Text: where they're at, then then it looks like we'll go down to a reduction from 20 to 19 on minimum
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:15:56.320
+End: 01:16:03.280
+Duration: 6.960 seconds
+Text: staffing as a potential cost, cost saving approach. I mean, I was willing to, to keep that. John,
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:16:03.280
+End: 01:16:06.640
+Duration: 3.360 seconds
+Text: you had some other strategies. I'm going to kick it back over to you.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:16:09.040
+End: 01:16:14.800
+Duration: 5.760 seconds
+Text: Unlowering that bottom line. Well, my other ones had to do with where I just didn't see where we got
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:16:15.280
+End: 01:16:21.920
+Duration: 6.640 seconds
+Text: money back when we did the ATA or we were going to have the sale of that building pay for that.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:16:21.920
+End: 01:16:29.040
+Duration: 7.120 seconds
+Text: Well, first with Lee Mill was coming out of the general fund and then it became kind of shadow money.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:16:29.040
+End: 01:16:37.840
+Duration: 8.800 seconds
+Text: And that type of thing. So that's how I came up with a higher number. Again, I so like to get
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:16:37.840
+End: 01:16:44.320
+Duration: 6.480 seconds
+Text: this down. I mean, I don't challenge people's budgets or go after the TGT or the organizations
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:16:44.320
+End: 01:16:50.480
+Duration: 6.160 seconds
+Text: there out of some spider something. It's just that I've been the whole time of the commission
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:16:50.480
+End: 01:16:55.840
+Duration: 5.360 seconds
+Text: been a taxpayer advocate and that's when I'm continuing to do. No, I don't want to do it, but the
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:16:55.840
+End: 01:17:00.800
+Duration: 4.960 seconds
+Text: city in a very bad place. But I'm also one of the things that groups need to be challenged in
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:17:00.800
+End: 01:17:08.560
+Duration: 7.760 seconds
+Text: order to get to numbers. I will say that when you look at like the chamber study and everything
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:17:08.560
+End: 01:17:13.680
+Duration: 5.120 seconds
+Text: else, downtown was the area that it showed the progress. It came out of what was,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:17:13.680
+End: 01:17:20.000
+Duration: 6.320 seconds
+Text: what we saw there. Dennis, you've been beat up so much down there with everything going on. It's
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:17:20.000
+End: 01:17:27.840
+Duration: 7.840 seconds
+Text: hard to tell. You have no baseline to, you know, compared to. And I think the chamber is such macro
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:17:27.840
+End: 01:17:32.400
+Duration: 4.560 seconds
+Text: and with COVID, it's hard to tell. But the bottom line is for the past decade, we've been stagnant.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:17:33.600
+End: 01:17:39.840
+Duration: 6.240 seconds
+Text: Jobs, population, everything else. So, and I know COVID was in the middle, but it was more than COVID
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:17:39.840
+End: 01:17:46.480
+Duration: 6.640 seconds
+Text: that we've been following this trend. And one of our biggest things is costs and housing costs.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:17:47.520
+End: 01:17:55.120
+Duration: 7.600 seconds
+Text: And we need to keep those down. And I don't know, just from the community standpoint of the people
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:17:55.120
+End: 01:18:01.360
+Duration: 6.240 seconds
+Text: that, you know, come here and talk. To me, it doesn't seem like we've really needed an effort to
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:18:01.360
+End: 01:18:08.240
+Duration: 6.880 seconds
+Text: try to chip away at this thing. And I understand that. I do want to point out we, we established it for
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:18:08.240
+End: 01:18:14.320
+Duration: 6.080 seconds
+Text: in looking at the numbers from the front end, seeing that that's what we felt like it could take.
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:18:15.280
+End: 01:18:20.000
+Duration: 4.720 seconds
+Text: That initial number, I mean, we could have said, you know what, let's make the max six mills.
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:18:20.000
+End: 01:18:24.560
+Duration: 4.560 seconds
+Text: And then maybe we would have looked like heroes when we brought it down to four. But instead, I felt
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:18:24.560
+End: 01:18:30.000
+Duration: 5.440 seconds
+Text: like taking a more realistic and, and preparing people for that. And every person I've talked to,
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:18:30.000
+End: 01:18:35.600
+Duration: 5.600 seconds
+Text: when they say, how's it going? I'm like, well, it's looking like four mills right now. I think that
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:18:35.600
+End: 01:18:41.040
+Duration: 5.440 seconds
+Text: was the approach. At least I was going for a scene. That's what it would take. It's still not
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:18:41.040
+End: 01:18:46.080
+Duration: 5.040 seconds
+Text: getting us where, where I think we all wish we were. I mean, a few months ago, we were talking about
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:18:46.080
+End: 01:18:55.840
+Duration: 9.760 seconds
+Text: making a, you know, I'm a resolution order to not let the, that cash reserve drop. I mean, that was
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:18:55.840
+End: 01:19:01.200
+Duration: 5.360 seconds
+Text: a whole conversation we had about how can we maintain that cash balance. And, and now we're still not
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:19:01.200
+End: 01:19:06.800
+Duration: 5.600 seconds
+Text: getting there. I do, I mean, I appreciate all of John's efforts. And I know we disagree on a lot
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:19:06.800
+End: 01:19:16.320
+Duration: 9.520 seconds
+Text: of things. But I think pushing, to me, that 38 million is, is in digging through it, that feels
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:19:16.320
+End: 01:19:22.560
+Duration: 6.240 seconds
+Text: the lowest realistic without cutting services, which is what people are paying their taxes for,
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:19:22.560
+End: 01:19:28.160
+Duration: 5.600 seconds
+Text: is to get the services. And it's, it's no fun. I wish, I wish we weren't the group that was going
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:19:28.160
+End: 01:19:32.240
+Duration: 4.080 seconds
+Text: to raise them back up. The, the property taxes. But I just think that that's where we're at.
+--------------------------------------------------
+Staff Member:
+Start: 01:19:33.520
+End: 01:19:40.240
+Duration: 6.720 seconds
+Text: Could I just add that we haven't even talked about inflation. I mean, dumb trucks cost more
+--------------------------------------------------
+Staff Member:
+Start: 01:19:40.240
+End: 01:19:46.800
+Duration: 6.560 seconds
+Text: this year than they did two years ago. I mean, trying to keep everything flat really is negative.
+--------------------------------------------------
+Staff Member:
+Start: 01:19:46.800
+End: 01:19:53.440
+Duration: 6.640 seconds
+Text: We're going backwards. And we're not spending the dollars that we should to keep things working
+--------------------------------------------------
+Staff Member:
+Start: 01:19:53.440
+End: 01:20:00.480
+Duration: 7.040 seconds
+Text: for people. And again, you know, it's confusing, but your general fund money, your dollars that we're
+--------------------------------------------------
+Staff Member:
+Start: 01:20:01.440
+End: 01:20:11.760
+Duration: 10.320 seconds
+Text: taking to, to provide you with police, fire, library, all those things. We're, we're, we're really
+--------------------------------------------------
+Staff Member:
+Start: 01:20:11.760
+End: 01:20:19.040
+Duration: 7.280 seconds
+Text: basically going back to what we were doing in 2023. And there have been, I don't want to see
+--------------------------------------------------
+Staff Member:
+Start: 01:20:19.040
+End: 01:20:27.040
+Duration: 8.000 seconds
+Text: fewer firemen around. I want to know that when, if I need to fire help, that they're going to be
+--------------------------------------------------
+Staff Member:
+Start: 01:20:27.040
+End: 01:20:33.280
+Duration: 6.240 seconds
+Text: at least, you know, one company come and the others to back them up. I mean, I don't want to have
+--------------------------------------------------
+Staff Member:
+Start: 01:20:33.280
+End: 01:20:40.880
+Duration: 7.600 seconds
+Text: fewer police on the streets. I want to know that, that if I call and I live by Agibil, so I call
+--------------------------------------------------
+Staff Member:
+Start: 01:20:40.880
+End: 01:20:46.800
+Duration: 5.920 seconds
+Text: occasionally, that they're going to be there like that. And, and that's what I want. And I'm willing
+--------------------------------------------------
+Staff Member:
+Start: 01:20:47.600
+End: 01:20:53.920
+Duration: 6.320 seconds
+Text: to pay for that because it's worse what the city is doing for me. And what we're trying to do for
+--------------------------------------------------
+Staff Member:
+Start: 01:20:53.920
+End: 01:21:02.880
+Duration: 8.960 seconds
+Text: the city as commissioners with more housing, with more tourists, with more just people coming and
+--------------------------------------------------
+Staff Member:
+Start: 01:21:02.880
+End: 01:21:08.720
+Duration: 5.840 seconds
+Text: spending those tax dollars. And should we look at something like indoor water that will not be a
+--------------------------------------------------
+Staff Member:
+Start: 01:21:08.720
+End: 01:21:14.240
+Duration: 5.520 seconds
+Text: property tax issue, that will be a sales tax issue. And you can go against it if you want to.
+--------------------------------------------------
+Staff Member:
+Start: 01:21:15.040
+End: 01:21:23.680
+Duration: 8.640 seconds
+Text: So I just would like to suggest that we, I'd the bullet go with four and, and work on, if we feel
+--------------------------------------------------
+Staff Member:
+Start: 01:21:23.680
+End: 01:21:31.040
+Duration: 7.360 seconds
+Text: that we're not getting the, the value we should out of any of our auxiliary groups, then we sit down
+--------------------------------------------------
+Staff Member:
+Start: 01:21:31.040
+End: 01:21:38.400
+Duration: 7.360 seconds
+Text: with them in the next four months and say we, we want to see exactly what the outcome you're going to
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:21:38.400
+End: 01:21:46.480
+Duration: 8.080 seconds
+Text: give us and what it's going to cost. Again, I don't think the changes proposed is going to,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:21:46.480
+End: 01:21:55.440
+Duration: 8.960 seconds
+Text: not going to change police at all, not going to change, fire either. And we're not talking
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:21:55.440
+End: 01:22:01.680
+Duration: 6.240 seconds
+Text: any of those agencies, we're just talking about not giving significant increases.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:22:02.000
+End: 01:22:16.560
+Duration: 14.560 seconds
+Text: But the, not increasing their funding, their expenses are still increasing. And, you know, I was kind
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:22:16.560
+End: 01:22:25.600
+Duration: 9.040 seconds
+Text: of struck when we saw between 2022 and 2023, our property and liability insurance went up 229
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:22:25.600
+End: 01:22:32.320
+Duration: 6.720 seconds
+Text: percent or something like that. You know, we've gotten the same roughly million dollars from the
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:22:32.320
+End: 01:22:45.120
+Duration: 12.800 seconds
+Text: state for road fund since the 90s. You know, so our costs of doing business are increasing along with
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:22:45.120
+End: 01:22:55.840
+Duration: 10.720 seconds
+Text: everybody else's costs of living. And so, you know, we should be having that conversation of
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:22:58.720
+End: 01:23:07.920
+Duration: 9.200 seconds
+Text: what, you know, making those priorities involved. And I know we've set a lot this last, this year,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:23:07.920
+End: 01:23:11.600
+Duration: 3.680 seconds
+Text: we're getting a new city manager. We don't want to make big changes and I get that.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:23:12.560
+End: 01:23:19.360
+Duration: 6.800 seconds
+Text: But I really want us to challenge ourselves and to challenge city staff to put those priorities
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:23:19.360
+End: 01:23:25.920
+Duration: 6.560 seconds
+Text: in place so that we can have those conversations. Because I don't know, I don't know that you're,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:23:26.960
+End: 01:23:33.680
+Duration: 6.720 seconds
+Text: you want to cut is necessarily targeted to those essential services or those prioritized services.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:23:33.680
+End: 01:23:44.640
+Duration: 10.960 seconds
+Text: It's more of a general, general cut. So, I'm having very conflictive feelings about all of this
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:23:44.640
+End: 01:23:51.600
+Duration: 6.960 seconds
+Text: right now. I'm just trying to pick out where I think the opportunity is with the least risk to it.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:23:51.600
+End: 01:23:57.520
+Duration: 5.920 seconds
+Text: And again, as I said before, if you just want to keep this mill living where it hasn't come in,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:23:58.160
+End: 01:24:03.440
+Duration: 5.280 seconds
+Text: throw it into the reserves. Just don't, one end is thrown in the reserves. The other end
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:24:03.440
+End: 01:24:09.040
+Duration: 5.600 seconds
+Text: is putting the challenge out to hit that cost recovery number, put that in the budget,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:24:09.040
+End: 01:24:11.760
+Duration: 2.720 seconds
+Text: but you got the money in the reserves. It's something happens.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:24:12.880
+End: 01:24:19.520
+Duration: 6.640 seconds
+Text: How would that look? What do you mean? Just take up a sketch balance and take up the cost recovery.
+--------------------------------------------------
+City Clerk:
+Start: 01:24:22.640
+End: 01:24:27.760
+Duration: 5.120 seconds
+Text: What do you mean? Like, I mean, that's necessarily said, what does cost recovery look like for
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:24:27.760
+End: 01:24:31.440
+Duration: 3.680 seconds
+Text: the road's department? Well, I think he's just, I don't know, I'm talking about parks and rent.
+--------------------------------------------------
+City Clerk:
+Start: 01:24:31.840
+End: 01:24:38.240
+Duration: 6.400 seconds
+Text: I don't think he can rely on parks and rec to sustain.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:24:38.240
+End: 01:24:40.640
+Duration: 2.400 seconds
+Text: You don't. You'll have the money in the reserve if you got a problem.
+--------------------------------------------------
+City Clerk:
+Start: 01:24:46.480
+End: 01:24:54.560
+Duration: 8.080 seconds
+Text: I have not spoken with Aaron about his plans for cost recovery, but I think that they will be,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:24:54.560
+End: 01:25:01.600
+Duration: 7.040 seconds
+Text: I imagine some of the challenges. He can do it. It's the question, we'll have a commission do it,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:25:01.600
+End: 01:25:03.440
+Duration: 1.840 seconds
+Text: because what's going to happen is they're going to come here.
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:25:04.320
+End: 01:25:09.520
+Duration: 5.200 seconds
+Text: I mean, it's, it's cost recovery is not going to be the most popular plan. And for many of the
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:25:09.520
+End: 01:25:16.000
+Duration: 6.480 seconds
+Text: people who are going to be impacted by property taxes, who are more significantly impacted,
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:25:16.000
+End: 01:25:21.280
+Duration: 5.280 seconds
+Text: might be the same people impacted by parks and rec cost recovery increases, but it is the way to
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:25:21.280
+End: 01:25:28.080
+Duration: 6.800 seconds
+Text: tie funding to those using or tie the cost to those using the services. You know, I,
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:25:28.800
+End: 01:25:35.600
+Duration: 6.800 seconds
+Text: I think Aaron's approach is not as aggressive of approaches, John's, but the goal is to get back to
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:25:35.600
+End: 01:25:41.840
+Duration: 6.240 seconds
+Text: a more industry standard and to you've already increased that quite a bit. Yes, Aaron, from
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:25:42.480
+End: 01:25:46.240
+Duration: 3.760 seconds
+Text: I don't remember your numbers off the staff ahead, but we're going that way. So Aaron will present that
+--------------------------------------------------
+City Clerk:
+Start: 01:25:46.960
+End: 01:25:57.600
+Duration: 10.640 seconds
+Text: soon. And I understand that's a department and to return to the one we were really under industry
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:25:57.600
+End: 01:26:05.120
+Duration: 7.520 seconds
+Text: standard. So that's where I see the opportunity in looking at the numbers on how to get there.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:26:05.120
+End: 01:26:09.840
+Duration: 4.720 seconds
+Text: And again, I think he can do it. It's whether the commission, because they'll be here. We're under
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:26:09.840
+End: 01:26:16.880
+Duration: 7.040 seconds
+Text: industry standard for firefighters as well for their staffing. So, like, well,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:26:17.920
+End: 01:26:19.840
+Duration: 1.920 seconds
+Text: and we don't have a lot of money. Well, the proposed increase.
+--------------------------------------------------
+City Clerk:
+Start: 01:26:23.040
+End: 01:26:28.640
+Duration: 5.600 seconds
+Text: Jason just said, people who look at our bond rating may be concerned about
+--------------------------------------------------
+City Clerk:
+Start: 01:26:28.640
+End: 01:26:33.440
+Duration: 4.800 seconds
+Text: the level of cash reserves. I mean, so I think those are all we need. Well, all right, but what I
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:26:33.440
+End: 01:26:42.800
+Duration: 9.360 seconds
+Text: suggested when the effect wasn't affected. That's what I'm trying to get a challenge, some to work
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:26:42.800
+End: 01:26:52.160
+Duration: 9.360 seconds
+Text: towards. So what are you proposing that we will, how would it look on a motion or something like
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:26:52.160
+End: 01:27:00.880
+Duration: 8.720 seconds
+Text: that? Like take the cost recovery up. So John's suggesting that it's about 389,000 as was John's
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:27:00.880
+End: 01:27:08.000
+Duration: 7.120 seconds
+Text: number, $400,000. And were you suggesting lowering the millevi or by that amount? No, just keeping
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:27:08.000
+End: 01:27:18.320
+Duration: 10.320 seconds
+Text: that in banking. That's into his reserve. Okay. So the millevi doesn't change. You lost me. No, it's just,
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:27:18.320
+End: 01:27:23.440
+Duration: 5.120 seconds
+Text: it's just, it's trying to compromise. That's just possible. I understand. John's compromising. He's still
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:27:23.440
+End: 01:27:30.080
+Duration: 6.640 seconds
+Text: going to vote no on it, but John is over here compromising. So what John's saying is booking that as
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:27:30.080
+End: 01:27:35.920
+Duration: 5.840 seconds
+Text: some as revenue as additional revenue to get that cash balance reserve where we're at. That's
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:27:35.920
+End: 01:27:42.080
+Duration: 6.160 seconds
+Text: what you're suggesting. You don't have a risk because he's not cutting any change. It's just putting
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:27:42.080
+End: 01:27:49.280
+Duration: 7.200 seconds
+Text: the goal out there and something to shoot for versus, oh, we'll try a little on the side to do it.
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:27:49.520
+End: 01:27:55.040
+Duration: 5.520 seconds
+Text: But I don't, I mean, that doesn't have to be that decision doesn't have to be made today if we're
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:27:55.040
+End: 01:28:00.000
+Duration: 4.960 seconds
+Text: not reducing the mill by it. You don't think that that can wait. That's not an October discussion
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:28:00.000
+End: 01:28:04.960
+Duration: 4.960 seconds
+Text: because if we're not going to change the mill, which I mean, I'm not changing the mill by that amount,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:28:04.960
+End: 01:28:08.480
+Duration: 3.520 seconds
+Text: then if we're, if we're going to, if we're going to find if we kick it, if we go to the next,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:28:08.480
+End: 01:28:12.800
+Duration: 4.320 seconds
+Text: we'll just go to the next and go to the next. But it doesn't, it doesn't lower the bottom line at all.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:28:13.360
+End: 01:28:18.560
+Duration: 5.200 seconds
+Text: No, it doesn't. Okay. So it really doesn't affect what we would be voting on tonight. You can make it
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:28:18.560
+End: 01:28:31.840
+Duration: 13.280 seconds
+Text: affected. You can make your motion such. So Jason's biting his tongue down. That doesn't change anything
+--------------------------------------------------
+Staff Member:
+Start: 01:28:31.840
+End: 01:28:37.600
+Duration: 5.760 seconds
+Text: in the ordinance. So it doesn't change. No, I'd like to move. We approve ordinance number seven,
+--------------------------------------------------
+Staff Member:
+Start: 01:28:37.600
+End: 01:28:45.360
+Duration: 7.760 seconds
+Text: seven, one nine, adopting the 2025 City budget and resolution number 091724C,
+--------------------------------------------------
+Staff Member:
+Start: 01:28:45.840
+End: 01:28:53.920
+Duration: 8.080 seconds
+Text: adopting 2025, 2029, capital and procurement. Is there a second?
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:28:58.640
+End: 01:29:03.920
+Duration: 5.280 seconds
+Text: Well, as part of this passing a budget to grant those outside agencies, those increases.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:29:04.560
+End: 01:29:10.960
+Duration: 6.400 seconds
+Text: She didn't move with any changes. So yes. So because that was another one we could do and put into reserve.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:29:13.360
+End: 01:29:14.960
+Duration: 1.600 seconds
+Text: I see. We later. We wanted.
+--------------------------------------------------
+City Clerk:
+Start: 01:29:17.360
+End: 01:29:19.280
+Duration: 1.920 seconds
+Text: City clerk, what you call the role, please.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:29:19.280
+End: 01:29:20.960
+Duration: 1.680 seconds
+Text: Do you want to show up? No.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:29:22.160
+End: 01:29:23.360
+Duration: 1.200 seconds
+Text: Can you show Mata? No.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:29:23.360
+End: 01:29:24.560
+Duration: 1.200 seconds
+Text: Can you show me?
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:29:28.560
+End: 01:29:32.560
+Duration: 4.000 seconds
+Text: No, I wouldn't leave the TGT in in TGT in for us to set up.
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:29:32.960
+End: 01:29:34.640
+Duration: 1.680 seconds
+Text: Huh? Just say no. No.
+--------------------------------------------------
+Staff Member:
+Start: 01:29:36.080
+End: 01:29:40.400
+Duration: 4.320 seconds
+Text: Thanks Jason. Mayor Adam Jack. Yes. Commissioner McCullough. Yes.
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:29:40.400
+End: 01:29:46.320
+Duration: 5.920 seconds
+Text: Motion failed. Two to three. Okay. I'm going to move that we approve ordinance number seven, seven,
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:29:46.320
+End: 01:29:54.720
+Duration: 8.400 seconds
+Text: one nine, adopting the 2025 City budget and resolution number 0291724C, adopting the 2025, 2029,
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:29:54.720
+End: 01:30:01.760
+Duration: 7.040 seconds
+Text: capital and procurement program with the TGT funds staying in TGT to be distributed after
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:30:01.760
+End: 01:30:08.720
+Duration: 6.960 seconds
+Text: further discussion with the TGT fund recipients. Can I say it like that?
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:30:12.160
+End: 01:30:13.760
+Duration: 1.600 seconds
+Text: You say denying the increase.
+--------------------------------------------------
+City Manager:
+Start: 01:30:17.600
+End: 01:30:25.760
+Duration: 8.160 seconds
+Text: So you're going to pass a budget with an undefined line item within the transit gas tax allocation.
+--------------------------------------------------
+City Manager:
+Start: 01:30:26.640
+End: 01:30:27.280
+Duration: 0.640 seconds
+Text: You're going to.
+--------------------------------------------------
+City Manager:
+Start: 01:30:29.520
+End: 01:30:34.320
+Duration: 4.800 seconds
+Text: You're putting it off to a featured day. It won't change the numbers that I believe we submit to the
+--------------------------------------------------
+City Manager:
+Start: 01:30:34.320
+End: 01:30:43.040
+Duration: 8.720 seconds
+Text: county for a budget. Right. You do have end of year contracts with every entity receiving those
+--------------------------------------------------
+City Manager:
+Start: 01:30:43.040
+End: 01:30:48.720
+Duration: 5.680 seconds
+Text: funds. So I mean, I don't think your motion's a whole lot different than what Karen. It wasn't.
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:30:48.720
+End: 01:30:53.920
+Duration: 5.200 seconds
+Text: I was. Yeah. I was worried. We had all just discussed the. You are basically telling them their
+--------------------------------------------------
+City Manager:
+Start: 01:30:53.920
+End: 01:31:00.240
+Duration: 6.320 seconds
+Text: end of your contracts or to be determined based on the budgeted amount that was approved.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:31:02.240
+End: 01:31:09.680
+Duration: 7.440 seconds
+Text: So we can approve up to that amount. Can we approve with a resolution or something that would.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:31:11.120
+End: 01:31:18.400
+Duration: 7.280 seconds
+Text: Well, let's just ask this question. Doesn't make any difference which way it's approved
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:31:19.360
+End: 01:31:26.320
+Duration: 6.960 seconds
+Text: whether or not they end up getting the money. It just sets us up for the contracts. We're going to
+--------------------------------------------------
+City Manager:
+Start: 01:31:26.320
+End: 01:31:30.960
+Duration: 4.640 seconds
+Text: bring back at the end of the year. We typically have resolution tonight because it gives them an
+--------------------------------------------------
+City Manager:
+Start: 01:31:30.960
+End: 01:31:36.640
+Duration: 5.680 seconds
+Text: indication that gives staff an indication of where to bring those contracts back for operating
+--------------------------------------------------
+City Manager:
+Start: 01:31:36.640
+End: 01:31:43.120
+Duration: 6.480 seconds
+Text: 2025. If you're not changing the budgeted amount and you're not like holding them to 2024 cash,
+--------------------------------------------------
+City Manager:
+Start: 01:31:43.120
+End: 01:31:50.880
+Duration: 7.760 seconds
+Text: 2024 budgeted amount or contractual amounts and you're going to put, you know, the budgeted
+--------------------------------------------------
+City Manager:
+Start: 01:31:50.880
+End: 01:31:56.960
+Duration: 6.080 seconds
+Text: amount would stay the same in the fund even if you kept it in a reserve if it's this TGT cash
+--------------------------------------------------
+City Manager:
+Start: 01:31:56.960
+End: 01:32:04.800
+Duration: 7.840 seconds
+Text: balance. So tonight typically is direction from you all. So everybody who's proposed a budgeted
+--------------------------------------------------
+City Manager:
+Start: 01:32:04.800
+End: 01:32:10.320
+Duration: 5.520 seconds
+Text: amount for 2025 knows are they getting it or not. But if you're essentially telling the.
+--------------------------------------------------
+City Manager:
+Start: 01:32:11.200
+End: 01:32:17.680
+Duration: 6.480 seconds
+Text: If you're telling the transient gas tax recipients that is undetermined, believe we can still pass
+--------------------------------------------------
+City Manager:
+Start: 01:32:17.680
+End: 01:32:24.960
+Duration: 7.280 seconds
+Text: the budget with that allocation present in the TGT giving the commission flexibility in 2025
+--------------------------------------------------
+City Manager:
+Start: 01:32:24.960
+End: 01:32:30.960
+Duration: 6.000 seconds
+Text: through those contracts. Would you agree, Reena? I would agree. It's something similar to what we're
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:32:30.960
+End: 01:32:37.520
+Duration: 6.560 seconds
+Text: doing with. Um, sis fab for social service advisory board and special alcohol. But again,
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:32:37.520
+End: 01:32:43.760
+Duration: 6.240 seconds
+Text: we do need to have that information in before December that that that number needs to be known
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:32:43.760
+End: 01:32:49.920
+Duration: 6.160 seconds
+Text: in terms of what we are going to give those agencies. I guess my question still comes down to
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:32:52.400
+End: 01:33:00.480
+Duration: 8.080 seconds
+Text: if we were to have say one of the three of us voted yes on the last one would we have been bound
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:33:00.480
+End: 01:33:05.280
+Duration: 4.800 seconds
+Text: to give them that money? No. Oh, I messed that up. Okay. Then it doesn't. Then it really doesn't matter.
+--------------------------------------------------
+City Manager:
+Start: 01:33:05.280
+End: 01:33:09.520
+Duration: 4.240 seconds
+Text: Your end of your contract set forth what your expectations are for 2025.
+--------------------------------------------------
+City Clerk:
+Start: 01:33:10.480
+End: 01:33:17.440
+Duration: 6.960 seconds
+Text: And I would guess that the recipients have taken the measure of the room and may come back with
+--------------------------------------------------
+City Clerk:
+Start: 01:33:17.440
+End: 01:33:24.560
+Duration: 7.120 seconds
+Text: some different numbers or accountability or yeah, kind of indicators of accountability, which I
+--------------------------------------------------
+City Clerk:
+Start: 01:33:24.560
+End: 01:33:29.760
+Duration: 5.200 seconds
+Text: think we're all in agreement on that that would not be a bad thing. I've not heard anything from
+--------------------------------------------------
+City Clerk:
+Start: 01:33:29.760
+End: 01:33:37.040
+Duration: 7.280 seconds
+Text: any of the recipients that they would object to having some objective numeric,
+--------------------------------------------------
+City Clerk:
+Start: 01:33:37.760
+End: 01:33:45.040
+Duration: 7.280 seconds
+Text: quantifiable indicators to demonstrate how those funds have been used and what their
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:33:47.760
+End: 01:33:52.000
+Duration: 4.240 seconds
+Text: product has been. Guys, I apologize for messing that up. That was my thought we had to have that
+--------------------------------------------------
+Staff Member:
+Start: 01:33:52.000
+End: 01:33:58.080
+Duration: 6.080 seconds
+Text: clarification. Um, I think we've all agreed we need measurable outcomes. And
+--------------------------------------------------
+Staff Member:
+Start: 01:33:58.720
+End: 01:34:03.840
+Duration: 5.120 seconds
+Text: and there's no question about that, but it doesn't have much to do with the mill. Okay.
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:34:06.960
+End: 01:34:13.280
+Duration: 6.320 seconds
+Text: So I'd have to remove to I can't just switch my vote to a yes.
+--------------------------------------------------
+City Manager:
+Start: 01:34:14.240
+End: 01:34:18.480
+Duration: 4.240 seconds
+Text: No, you just need to move the motion. It can be the same motion and if that's what you want to
+--------------------------------------------------
+City Clerk:
+Start: 01:34:18.480
+End: 01:34:27.200
+Duration: 8.720 seconds
+Text: approve. Okay, if this motion is not seconded, it dies. So, okay, so I move to approve ordinance
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:34:27.200
+End: 01:34:36.000
+Duration: 8.800 seconds
+Text: number 7719 adopting the 2025 city budget and resolution number 0 91724 dash C adopting the 2025
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:34:36.000
+End: 01:34:45.680
+Duration: 9.680 seconds
+Text: 2029 capital improvement program. Second, um, city clerk, will you call the role, please?
+--------------------------------------------------
+Staff Member:
+Start: 01:34:47.200
+End: 01:34:53.200
+Duration: 6.000 seconds
+Text: Commissioner Mata? No. Commissioner Mitten? Yes. Mayor Adam check? Yes.
+--------------------------------------------------
+Staff Member:
+Start: 01:34:53.920
+End: 01:35:00.560
+Duration: 6.640 seconds
+Text: Commissioner McCullough? Yes. Commissioner O'Palt? No. Motion carries three to two.
+--------------------------------------------------
+City Manager:
+Start: 01:35:02.320
+End: 01:35:09.200
+Duration: 6.880 seconds
+Text: Thank you. We need two more motions on the salary ordinance and the MOU. Yes, thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:35:10.320
+End: 01:35:17.120
+Duration: 6.800 seconds
+Text: We want to do public comment on that. Is there any public comment on the sorry
+--------------------------------------------------
+City Clerk:
+Start: 01:35:17.200
+End: 01:35:26.560
+Duration: 9.360 seconds
+Text: question agent? The commission will now consider salary ordinance for 2025,
+--------------------------------------------------
+City Clerk:
+Start: 01:35:27.600
+End: 01:35:34.160
+Duration: 6.560 seconds
+Text: approving the first reading of the salary ordinance, which basically states that there will be,
+--------------------------------------------------
+City Clerk:
+Start: 01:35:35.200
+End: 01:35:40.640
+Duration: 5.440 seconds
+Text: may I say that? No cost of living increases for staff in the year to come.
+--------------------------------------------------
+City Clerk:
+Start: 01:35:40.880
+End: 01:35:54.160
+Duration: 13.280 seconds
+Text: Is there a motion to just looking for public comment? Public comment? Okay, motion to move to consider.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:35:54.160
+End: 01:35:57.840
+Duration: 3.680 seconds
+Text: I'll move to approve the first reading of the 2025 salary ordinance.
+--------------------------------------------------
+City Clerk:
+Start: 01:36:00.320
+End: 01:36:04.880
+Duration: 4.560 seconds
+Text: Second, um, city clerk, will you call the role, please?
+--------------------------------------------------
+Staff Member:
+Start: 01:36:05.440
+End: 01:36:12.000
+Duration: 6.560 seconds
+Text: Commissioner Mitten? Yes. Mayor Adam check? Yes. Commissioner McCullough? No. I think they should
+--------------------------------------------------
+Staff Member:
+Start: 01:36:12.000
+End: 01:36:19.200
+Duration: 7.200 seconds
+Text: have a cost of living. Commissioner O'Palt? Yes. Commissioner Mata? Yes. Motion carries four to one.
+--------------------------------------------------
+City Clerk:
+Start: 01:36:20.400
+End: 01:36:27.680
+Duration: 7.280 seconds
+Text: I'd like to use my prerogative to please, uh, to extend our gratitude to all of the department
+--------------------------------------------------
+City Clerk:
+Start: 01:36:27.680
+End: 01:36:34.320
+Duration: 6.640 seconds
+Text: heads who are here tonight. We appreciate the sacrifice that your staffs are making and,
+--------------------------------------------------
+City Clerk:
+Start: 01:36:36.640
+End: 01:36:43.040
+Duration: 6.400 seconds
+Text: please let them know we, they may not be doing it willingly, but we appreciate that that is an
+--------------------------------------------------
+City Clerk:
+Start: 01:36:43.040
+End: 01:36:50.880
+Duration: 7.840 seconds
+Text: action that they have agreed to. We have a third motion to consider changes to a memo of
+--------------------------------------------------
+City Clerk:
+Start: 01:36:50.880
+End: 01:36:56.000
+Duration: 5.120 seconds
+Text: agreement with local 2275 international association of firefighters.
+--------------------------------------------------
+Staff Member:
+Start: 01:36:56.000
+End: 01:37:03.680
+Duration: 7.680 seconds
+Text: I move approval of resolution number 091724D. Seconded.
+--------------------------------------------------
+City Clerk:
+Start: 01:37:03.680
+End: 01:37:09.520
+Duration: 5.840 seconds
+Text: Uh, city clerk, will you please, uh, sorry, public comment?
+--------------------------------------------------
+City Clerk:
+Start: 01:37:12.720
+End: 01:37:16.960
+Duration: 4.240 seconds
+Text: City clerk, will you call the role, please? Mayor Adam check? Yes.
+--------------------------------------------------
+Staff Member:
+Start: 01:37:17.600
+End: 01:37:22.240
+Duration: 4.640 seconds
+Text: Commissioner McCullough? Yes. Commissioner O'Palt? Yes. Commissioner Mata? Yes.
+--------------------------------------------------
+Staff Member:
+Start: 01:37:23.200
+End: 01:37:31.120
+Duration: 7.920 seconds
+Text: Commissioner Mata? Or keys myself? Thank you, well motion carries four to zero to one.
+--------------------------------------------------
+City Manager:
+Start: 01:37:33.680
+End: 01:37:39.200
+Duration: 5.520 seconds
+Text: And one more item. Our city attorney Katie Jackson will be attending the League of Kansas
+--------------------------------------------------
+City Manager:
+Start: 01:37:39.200
+End: 01:37:45.600
+Duration: 6.400 seconds
+Text: municipalities conference here at the end of the month. I don't believe anybody else from the
+--------------------------------------------------
+City Manager:
+Start: 01:37:45.600
+End: 01:37:51.280
+Duration: 5.680 seconds
+Text: city is going. There are voting rights in last year she did represent us and voted for the city.
+--------------------------------------------------
+City Manager:
+Start: 01:37:51.280
+End: 01:37:53.840
+Duration: 2.560 seconds
+Text: I'm looking for concurrence from the commission this evening.
+--------------------------------------------------
+City Manager:
+Start: 01:37:54.320
+End: 01:37:59.200
+Duration: 4.880 seconds
+Text: Recording to have those voting rights. I concur. Yep. You all are fine with that. So
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:37:59.920
+End: 01:38:08.000
+Duration: 8.080 seconds
+Text: what are the voting items or gist of? There the the body every member city will vote on the
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:38:08.000
+End: 01:38:12.800
+Duration: 4.800 seconds
+Text: statement of municipal policy, which the the League adopts every year and then if there's like a
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:38:12.800
+End: 01:38:19.920
+Duration: 7.120 seconds
+Text: any the budget and any by-law changes. Pretty standard. Okay. Is this I'm happy to take any
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:38:20.000
+End: 01:38:25.520
+Duration: 5.520 seconds
+Text: comments if the commission has any? You're going to read through all that. Yes. I'm happy to to take
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:38:25.520
+End: 01:38:30.320
+Duration: 4.800 seconds
+Text: all comments. Thank you. Thank you. Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:38:32.320
+End: 01:38:39.200
+Duration: 6.880 seconds
+Text: Yes. Before we adjourn I would just like to express my my appreciation to members of the
+--------------------------------------------------
+City Clerk:
+Start: 01:38:39.200
+End: 01:38:45.600
+Duration: 6.400 seconds
+Text: public who appeared before us two weeks ago and again tonight for your expressing your concerns
+--------------------------------------------------
+City Clerk:
+Start: 01:38:45.600
+End: 01:38:54.320
+Duration: 8.720 seconds
+Text: about the tax increase. Please understand we recognize the impact that this has on individuals.
+--------------------------------------------------
+City Clerk:
+Start: 01:38:54.320
+End: 01:39:02.400
+Duration: 8.080 seconds
+Text: We are trying to be responsible regarding the overall budget and financial health for the entire city.
+--------------------------------------------------
+Commissioner Mc:
+Start: 01:39:03.920
+End: 01:39:11.600
+Duration: 7.680 seconds
+Text: Is there a motion to adjourn please? I move. We adjourn September 17, 2024. City commission meeting.
+--------------------------------------------------
+City Clerk:
+Start: 01:39:12.240
+End: 01:39:17.040
+Duration: 4.800 seconds
+Text: Second. City clerk we call the roll please.
+--------------------------------------------------
+Staff Member:
+Start: 01:39:17.040
+End: 01:39:19.200
+Duration: 2.160 seconds
+Text: Commissioner Colo. Yes.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:39:19.200
+End: 01:39:21.040
+Duration: 1.840 seconds
+Text: Commissioner O'Palt. Yes.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:39:21.040
+End: 01:39:22.800
+Duration: 1.760 seconds
+Text: Commissioner Mata. Yes.
+--------------------------------------------------
+Staff Member:
+Start: 01:39:22.800
+End: 01:39:26.080
+Duration: 3.280 seconds
+Text: Commissioner Mitten. Yes. Mayor Adam check. Yes.
+--------------------------------------------------
+Mayor Adam Jack:
+Start: 01:39:26.800
+End: 01:39:29.440
+Duration: 2.640 seconds
+Text: Motion carries 5-0. Thank you.
+--------------------------------------------------

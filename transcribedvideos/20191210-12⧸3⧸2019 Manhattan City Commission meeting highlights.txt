@@ -1,0 +1,723 @@
+Transcription and Diarization for 20191210-12⧸3⧸2019 Manhattan City Commission meeting highlights.mp4
+==================================================
+
+City Clerk:
+Start: 00:00:00.000
+End: 00:00:05.000
+Duration: 5.000 seconds
+Text: We'll call the three December meeting of the Manhattan City Commission to order.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:05.000
+End: 00:00:07.000
+Duration: 2.000 seconds
+Text: Discussion on the consent agenda.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:07.000
+End: 00:00:12.000
+Duration: 5.000 seconds
+Text: I just have two comments.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:12.000
+End: 00:00:16.000
+Duration: 4.000 seconds
+Text: You know, item G is going to change the adoption fee at the animal shelter.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:16.000
+End: 00:00:18.000
+Duration: 2.000 seconds
+Text: And I'm happy to see that.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:18.000
+End: 00:00:20.000
+Duration: 2.000 seconds
+Text: And also the time that the animals will be there.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:20.000
+End: 00:00:22.000
+Duration: 2.000 seconds
+Text: They can be adopted after three days.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:22.000
+End: 00:00:27.000
+Duration: 5.000 seconds
+Text: And for those of you that aren't aware, of course, it costs a little bit of money to run the animal shelter.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:27.000
+End: 00:00:30.000
+Duration: 3.000 seconds
+Text: The longer the animals are there, the more expense.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:30.000
+End: 00:00:37.000
+Duration: 7.000 seconds
+Text: And I think over the past year, management's done a great job of improving what goes on down there.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:37.000
+End: 00:00:38.000
+Duration: 1.000 seconds
+Text: And they had a great event.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:38.000
+End: 00:00:41.000
+Duration: 3.000 seconds
+Text: That was Black Friday on Saturday.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:41.000
+End: 00:00:43.000
+Duration: 2.000 seconds
+Text: I think 14, 15 cats got adopted.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:43.000
+End: 00:00:44.000
+Duration: 1.000 seconds
+Text: I thought that was great.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:44.000
+End: 00:00:46.000
+Duration: 2.000 seconds
+Text: And having a great turn over there.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:46.000
+End: 00:00:50.000
+Duration: 4.000 seconds
+Text: And I think this is going to help with shelter operation.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:50.000
+End: 00:00:55.000
+Duration: 5.000 seconds
+Text: And the other item is item P, which is the design for the community house renovation.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:55.000
+End: 00:01:01.000
+Duration: 6.000 seconds
+Text: That's something I've been personally interested in for about the past five years to get that building repurposed.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:01.000
+End: 00:01:03.000
+Duration: 2.000 seconds
+Text: And I think that's coming along real well.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:03.000
+End: 00:01:08.000
+Duration: 5.000 seconds
+Text: It's going to become again a very nice asset for the community.
+--------------------------------------------------
+City Clerk:
+Start: 00:01:08.000
+End: 00:01:17.000
+Duration: 9.000 seconds
+Text: I have no further comments, but I would move that the commission approve the consent agenda as distributed.
+--------------------------------------------------
+City Clerk:
+Start: 00:01:17.000
+End: 00:01:19.000
+Duration: 2.000 seconds
+Text: A second.
+--------------------------------------------------
+City Clerk:
+Start: 00:01:19.000
+End: 00:01:22.000
+Duration: 3.000 seconds
+Text: You call the role, please.
+--------------------------------------------------
+City Clerk:
+Start: 00:01:22.000
+End: 00:01:24.000
+Duration: 2.000 seconds
+Text: Mayor Dotson.
+--------------------------------------------------
+City Clerk:
+Start: 00:01:24.000
+End: 00:01:27.000
+Duration: 3.000 seconds
+Text: Commissioner Reddler.
+--------------------------------------------------
+City Clerk:
+Start: 00:01:27.000
+End: 00:01:30.000
+Duration: 3.000 seconds
+Text: Commissioner Rikki.
+--------------------------------------------------
+City Clerk:
+Start: 00:01:30.000
+End: 00:01:31.000
+Duration: 1.000 seconds
+Text: Commissioner Morse.
+--------------------------------------------------
+City Clerk:
+Start: 00:01:31.000
+End: 00:01:35.000
+Duration: 4.000 seconds
+Text: Motion carries 5-0.
+--------------------------------------------------
+City Clerk:
+Start: 00:01:35.000
+End: 00:01:39.000
+Duration: 4.000 seconds
+Text: Now move to item 5, which is general agenda.
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:01:39.000
+End: 00:01:44.000
+Duration: 5.000 seconds
+Text: It's a good reminder to the viewing audience and those here that we have moved.
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:01:44.000
+End: 00:01:47.000
+Duration: 3.000 seconds
+Text: I know this rec center to December 17th.
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:01:47.000
+End: 00:01:53.000
+Duration: 6.000 seconds
+Text: But yes, the first item this evening is dealing with a waiver request from the Manhattan Area Housing Partnership.
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:01:53.000
+End: 00:02:04.000
+Duration: 11.000 seconds
+Text: If you recall where we have been in negotiations and do have an agreement with Manhattan Area Housing Partnership to develop on 19 lots within Lemile Village.
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:02:04.000
+End: 00:02:18.000
+Duration: 14.000 seconds
+Text: When we were negotiating that contract and talking about that land transfer, there was a request for us to consider waiving the building permit fees and the water and sewer connection fees for each of these sites.
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:02:18.000
+End: 00:02:29.000
+Duration: 11.000 seconds
+Text: This evening they are asking for a total of $95,000 worth of waivers for water and sewer hook up fees at $59,886.
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:02:29.000
+End: 00:02:36.000
+Duration: 7.000 seconds
+Text: And the building permit fee estimated at just over $35,707.
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:02:36.000
+End: 00:02:45.000
+Duration: 9.000 seconds
+Text: This waiving of these fees will allow them to offer rents at a much lower rate than if they have to cover these fees.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:45.000
+End: 00:02:49.000
+Duration: 4.000 seconds
+Text: Our rents are $450,000 to $650.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:49.000
+End: 00:02:56.000
+Duration: 7.000 seconds
+Text: But actually the limit for tax credit properties is $750,000 to $1,073.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:02:56.000
+End: 00:03:00.000
+Duration: 4.000 seconds
+Text: So the folks that you're running to, do they pay the water bills?
+--------------------------------------------------
+City Clerk:
+Start: 00:03:00.000
+End: 00:03:02.000
+Duration: 2.000 seconds
+Text: No, we pay the water bills.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:02.000
+End: 00:03:03.000
+Duration: 1.000 seconds
+Text: Okay, you pay the water bill.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:03.000
+End: 00:03:05.000
+Duration: 2.000 seconds
+Text: They will have electric only.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:05.000
+End: 00:03:08.000
+Duration: 3.000 seconds
+Text: We pay the water and sewer bills on an ongoing basis.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:09.000
+End: 00:03:21.000
+Duration: 12.000 seconds
+Text: Yeah, I just want to say I'm not real supportive at all of the utility connection fees because we continually go to that fund and take money out of it all the time.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:21.000
+End: 00:03:28.000
+Duration: 7.000 seconds
+Text: And every year we're raising the water rates, 3%, 5%, and that's why I asked the question, who's paying the water bills?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:28.000
+End: 00:03:32.000
+Duration: 4.000 seconds
+Text: So this isn't going to help you because your water bill is going to keep going up.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:33.000
+End: 00:03:36.000
+Duration: 3.000 seconds
+Text: And so I for sure can't support the utility connection fee.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:36.000
+End: 00:03:40.000
+Duration: 4.000 seconds
+Text: It sounds like it's going to make that much difference anyway on the rent costs.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:40.000
+End: 00:03:43.000
+Duration: 3.000 seconds
+Text: And I don't think we should do that for just about any project.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:43.000
+End: 00:03:49.000
+Duration: 6.000 seconds
+Text: I could see doing it for the USD simply because that was one taxpayer pot going into another one.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:49.000
+End: 00:03:52.000
+Duration: 3.000 seconds
+Text: If we charged on the taxpayer, it's going to pay no matter what on that.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:52.000
+End: 00:03:55.000
+Duration: 3.000 seconds
+Text: But this is a case where no, I can't support that at all.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:55.000
+End: 00:03:59.000
+Duration: 4.000 seconds
+Text: As far as the building permit fees fine.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:59.000
+End: 00:04:02.000
+Duration: 3.000 seconds
+Text: We can do that. I'm for affordable housing.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:02.000
+End: 00:04:08.000
+Duration: 6.000 seconds
+Text: That's going to be something that the code office ends up dealing with, but they don't have a fund that we raid like the water fund.
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:04:08.000
+End: 00:04:23.000
+Duration: 15.000 seconds
+Text: So I am a yes on this, and I'm supportive of this, but I just want to make clear moving forward that unless the city finds additional sources of revenue, projects like this will not happen and cannot happen.
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:04:24.000
+End: 00:04:31.000
+Duration: 7.000 seconds
+Text: Unless we have some kind of growth spurt and increase our population exponentially.
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:04:31.000
+End: 00:04:33.000
+Duration: 2.000 seconds
+Text: I just don't think that this is in the cards in the future.
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:04:33.000
+End: 00:04:40.000
+Duration: 7.000 seconds
+Text: So I support it today, but if I was in a commission hearing this a year or two from now, I think I know what the situation would be.
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:04:40.000
+End: 00:04:42.000
+Duration: 2.000 seconds
+Text: And I'm not sure I would be supportive.
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:04:42.000
+End: 00:04:51.000
+Duration: 9.000 seconds
+Text: So I'm a yes vote tonight, but hopefully, hopefully we get something figured out in terms of revenue because housing trust fund things like that aren't going to happen.
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:04:51.000
+End: 00:04:56.000
+Duration: 5.000 seconds
+Text: Unless we seriously consider things like sales tax initiatives, because I don't see another route.
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:04:56.000
+End: 00:04:58.000
+Duration: 2.000 seconds
+Text: So I'm a yes.
+--------------------------------------------------
+Mayor Dotson:
+Start: 00:04:58.000
+End: 00:05:11.000
+Duration: 13.000 seconds
+Text: I move we approve the Manhattan housing Manhattan area housing partnership request regarding the waiver of building permit fees and utility connection fees for lots 34 through 52.
+--------------------------------------------------
+Mayor Dotson:
+Start: 00:05:11.000
+End: 00:05:12.000
+Duration: 1.000 seconds
+Text: Lee Mel Village.
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:05:12.000
+End: 00:05:13.000
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:15.000
+End: 00:05:16.000
+Duration: 1.000 seconds
+Text: Call the roll, please.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:17.000
+End: 00:05:20.000
+Duration: 3.000 seconds
+Text: Commissioner ready.
+--------------------------------------------------
+Mayor Dotson:
+Start: 00:05:20.000
+End: 00:05:21.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:21.000
+End: 00:05:22.000
+Duration: 1.000 seconds
+Text: Commissioner Butler.
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:05:22.000
+End: 00:05:23.000
+Duration: 1.000 seconds
+Text: No.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:23.000
+End: 00:05:25.000
+Duration: 2.000 seconds
+Text: Commissioner McKee.
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:05:25.000
+End: 00:05:26.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:26.000
+End: 00:05:27.000
+Duration: 1.000 seconds
+Text: Commissioner Morris.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:27.000
+End: 00:05:28.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:28.000
+End: 00:05:29.000
+Duration: 1.000 seconds
+Text: Mayor Dawson.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:29.000
+End: 00:05:30.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:30.000
+End: 00:05:34.000
+Duration: 4.000 seconds
+Text: Motion carries four to one.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:34.000
+End: 00:05:44.000
+Duration: 10.000 seconds
+Text: I move to item B, which is to consider the first reading out of ordinance amending Article 4 section or four days, two of five C five.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:44.000
+End: 00:05:52.000
+Duration: 8.000 seconds
+Text: Highway service commercial district of the Manhattan zoning regulations to add group daycare is a permitted use.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:52.000
+End: 00:05:58.000
+Duration: 6.000 seconds
+Text: And you'll hear from Chad Bunger, assistant director of community development.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:05:58.000
+End: 00:06:01.000
+Duration: 3.000 seconds
+Text: Good evening. Thank you, Mayor. Good evening, commissioners.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:06:01.000
+End: 00:06:07.000
+Duration: 6.000 seconds
+Text: The Living World Church on Amherst Avenue. It's currently zone C five.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:06:07.000
+End: 00:06:14.000
+Duration: 7.000 seconds
+Text: I was going through the process of creating a group daycare center for the public.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:06:14.000
+End: 00:06:20.000
+Duration: 6.000 seconds
+Text: Going through the state permitting and county permitting requirements, building code requirements, whatnot.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:06:20.000
+End: 00:06:31.000
+Duration: 11.000 seconds
+Text: And then came to the community development department for zoning review and group daycare centers are not permitted in the C five district.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:06:31.000
+End: 00:06:35.000
+Duration: 4.000 seconds
+Text: It was determined that wouldn't be allowed into the current zoning.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:06:35.000
+End: 00:06:44.000
+Duration: 9.000 seconds
+Text: If it was just for the patrons of the church, we could have worked with it, but open to the public was not going to be possible.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:06:44.000
+End: 00:07:00.000
+Duration: 16.000 seconds
+Text: So looking at a variety of options, staff cell of on proposing amending the C five highway service commercial district to allow group daycares.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:07:00.000
+End: 00:07:05.000
+Duration: 5.000 seconds
+Text: To summarize what was in the planning board packet.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:07:05.000
+End: 00:07:26.000
+Duration: 21.000 seconds
+Text: The state licensing safety requirements will handle a lot of the potential issues that could not be real compatible with the auto oriented district that C five district is such as fences around playgrounds and drop off requirements and those sort of things.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:07:26.000
+End: 00:07:41.000
+Duration: 15.000 seconds
+Text: The C five district is a very broad wide use. And so any use characteristics of a group daycare center is going to be very similar to other retail and auto oriented things.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:07:41.000
+End: 00:07:49.000
+Duration: 8.000 seconds
+Text: The planning board reviewed this a few weeks ago and did recommend approval. And so that is before you.
+--------------------------------------------------
+Mayor Dotson:
+Start: 00:07:49.000
+End: 00:07:57.000
+Duration: 8.000 seconds
+Text: I think I thought there was a lot of churches that do this is this new to this particular area is that what it is specific to the zoning district.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:07:57.000
+End: 00:08:09.000
+Duration: 12.000 seconds
+Text: This zoning area. So I just have always had most other churches in town or in residential districts or in commercial districts that allow group daycares.
+--------------------------------------------------
+City Clerk:
+Start: 00:08:09.000
+End: 00:08:21.000
+Duration: 12.000 seconds
+Text: Mayor it seems logical to me that we would add adult or daycare facilities to the C five zoning district.
+--------------------------------------------------
+City Clerk:
+Start: 00:08:21.000
+End: 00:08:37.000
+Duration: 16.000 seconds
+Text: I'm not sure why we would have restricted it but it would always have required offense. So it just makes sense that we do this and we want to encourage more daycare. And this will be one way to do it.
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:08:37.000
+End: 00:08:52.000
+Duration: 15.000 seconds
+Text: I move we approve first reading of an ordinance amending Article 4 section 4 205 C five highway service commercial district and the Manhattan zoning regulations as proposed based on the findings and the staff report and the recommendation the Manhattan Urban Area Planning Board.
+--------------------------------------------------
+City Clerk:
+Start: 00:08:52.000
+End: 00:08:56.000
+Duration: 4.000 seconds
+Text: I second the motion. Call the roll please.
+--------------------------------------------------
+City Clerk:
+Start: 00:08:56.000
+End: 00:09:05.000
+Duration: 9.000 seconds
+Text: Commissioner Butler. Yes. Commissioner McKee. Yes. Commissioner Morris. Yes. Mayor Dawson. Yes. Commissioner Reddy. Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:09:05.000
+End: 00:09:20.000
+Duration: 15.000 seconds
+Text: Oshim Keri's 5 0. You now will move to item C which is to consider the first reading of an ordinance amending ordinance number 7422 and the final development plan for a lot for Abbott's landing commercial PUD. And again it will be Chad Bunger.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:09:20.000
+End: 00:09:49.000
+Duration: 29.000 seconds
+Text: So a few months ago the the Abbott's landing PUD was amended to allow scooters coffee. It was on this very small lot for there at the corner of Alvin's place and McCall Road originally was proposed as more of an ATM drive through kiosk sort of thing and scooters purchased land and had a drive through
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:09:49.000
+End: 00:10:09.000
+Duration: 20.000 seconds
+Text: coffee kiosk approved. But the PUD expressly prohibited any type of ground sign associated with this lot. Let's see the sign package that was approved is shown here primarily on or completely on the building as well as menu boards and those sort of things.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:10:09.000
+End: 00:10:31.000
+Duration: 22.000 seconds
+Text: The proposal before you tonight is to add this monument or a pile on sign be 10 foot tall total 300 excuse me 36 square feet of signage to be located here at the southwest corner of the site.
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:10:31.000
+End: 00:10:39.000
+Duration: 8.000 seconds
+Text: I move that we approve first reading of an ordinance amending ordinance number 7422 and the final development plan of the Abbott's landing plan,
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:10:39.000
+End: 00:10:51.000
+Duration: 12.000 seconds
+Text: June and development generally located in the northwest corner McCall Road and Alvin's place based on the findings in the staff report with five conditions of approval and the recommendation of Manhattan Urban Area Planning Board.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:10:51.000
+End: 00:10:53.000
+Duration: 2.000 seconds
+Text: Second.
+--------------------------------------------------
+City Clerk:
+Start: 00:10:53.000
+End: 00:10:55.000
+Duration: 2.000 seconds
+Text: Call roll please.
+--------------------------------------------------
+City Clerk:
+Start: 00:10:55.000
+End: 00:10:56.000
+Duration: 1.000 seconds
+Text: Commissioner McKee.
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:10:56.000
+End: 00:10:57.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:10:57.000
+End: 00:10:58.000
+Duration: 1.000 seconds
+Text: Commissioner Morris.
+--------------------------------------------------
+City Clerk:
+Start: 00:10:58.000
+End: 00:10:59.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:10:59.000
+End: 00:11:00.000
+Duration: 1.000 seconds
+Text: Mayor Dotson.
+--------------------------------------------------
+City Clerk:
+Start: 00:11:00.000
+End: 00:11:01.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:11:01.000
+End: 00:11:02.000
+Duration: 1.000 seconds
+Text: Commissioner Ready.
+--------------------------------------------------
+City Clerk:
+Start: 00:11:02.000
+End: 00:11:03.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:11:03.000
+End: 00:11:04.000
+Duration: 1.000 seconds
+Text: Commissioner Butler.
+--------------------------------------------------
+City Clerk:
+Start: 00:11:04.000
+End: 00:11:05.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:11:05.000
+End: 00:11:06.000
+Duration: 1.000 seconds
+Text: Motion carries 50.
+--------------------------------------------------

@@ -1,0 +1,190 @@
+{
+  "open_ended_analysis": {
+    "primary_themes": [
+      {
+        "theme": "Public Infrastructure & Maintenance",
+        "description": "Issues related to the physical upkeep of the city, including specific buildings and improvements to stormwater control.",
+        "notable_points": [
+          "Discussion about condition of specific buildings",
+          "Approval of $6.19 million contract for storm sewer installation"
+        ]
+      },
+      {
+        "theme": "Upcoming Community Events",
+        "description": "Promotion of dinners, lighting ceremony, parades, and other holiday events to get residents involved.",
+        "notable_points": [
+          "Mayor's Lighted Holiday Christmas Parade on Friday",
+          "Opportunity to cut a Christmas tree at Parks and Rec event"
+        ]
+      },
+      {
+        "theme": "Affordable Housing",
+        "description": "Discussion about the need for, and potential funding of, affordable housing in the community.",
+        "notable_points": [
+          "Consideration of waiver of fees for Manhattan Area Housing Partnership",
+          "Discussion about impact of potential project on rental rates"
+        ]
+      }
+    ],
+    "significant_discussions": [
+      {
+        "topic": "Request for waiver of fees for Manhattan Area Housing Partnership",
+        "significance": "The outcome could directly impact the creation of affordable housing options, which may affect many residents, particularly those with low or fixed incomes.",
+        "stakeholders": [
+          "Manhattan Area Housing Partnership",
+          "Current and potential residents of Manhattan, particularly those in need of affordable housing"
+        ]
+      },
+      {
+        "topic": "Storm Sewer Installation",
+        "significance": "This contract could affect all residents living nearby or affected by the specific sewer line, with impact on the local infrastructure and potential for flood prevention.",
+        "stakeholders": [
+          "Residents living near the proposed sewer line",
+          "City's infrastructure maintenance team",
+          "Amino Brothers of Kansas City, Kansas"
+        ]
+      }
+    ],
+    "unexpected_elements": [
+      {
+        "element": "Detailed discussion of the city's animal shelter and licensing for pets",
+        "context": "This discussion demonstrates the city's commitment to animal welfare and the crucial role the shelter and licensing play within the community."
+      }
+    ]
+  },
+  "directed_analysis": {
+    "land_use": {
+      "present": true,
+      "significance": "High",
+      "context": "Land use was heavily discussed in this meeting, primarily with a focus on planning for affordable housing for seniors. The plot of land in question involves 19 lots currently owned by the city that it intends to sell to Manhattan Area Housing Partnership. The council discussed how adopting this plan will guarantee set rents for the next thirty years and ensure affordable living for local seniors.",
+      "notable_points": [
+        "The city owns 19 lots intended for affordable senior housing",
+        "Manhattan Area Housing Partnership plans to acquire these properties."
+      ]
+    },
+    "economic_development": {
+      "present": true,
+      "significance": "Medium",
+      "context": "Economic development discussions were centered largely around the impact on the local economy from creating affordable housing for seniors. The meeting also included talk of the Christmas tree event, which is likely to bring economic activity to the town.",
+      "notable_points": [
+        "Planned affordable housing project for seniors",
+        "Event planning for city activities"
+      ]
+    },
+    "taxes_budget": {
+      "present": true,
+      "significance": "Medium",
+      "context": "In this meeting, several tax/budget related issues were discussed. These include the costs borne by the city in maintaining vacant properties taken up by the Manhattan Area Housing Partnership for the planned housing project, as well as the potential funds to be collected from the sale of these properties.",
+      "notable_points": [
+        "Potential revenue from the sale of city-owned lands",
+        "Long term cost savings if partnership takes burden off city"
+      ]
+    },
+    "other_significant_topics": [
+      {
+        "topic": "Building Maintenance and Safety",
+        "significance": "Medium",
+        "context": "Concerns were raised about the condition of certain buildings in the city, including discussions about a structure at 420 Toto Creek Boulevard that was declared a total loss by the fire department previously."
+      }
+    ]
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 4,
+      "speaking_time": {
+        "Transcription and Diarization for 20191205-12\u29f84\u29f82019 Manhattan City Commission Meeting.mp4": 1.0,
+        "Commissioner Dawson": 502.6,
+        "Commissioner Butler": 486.23999999999984,
+        "Mayor Dotson": 335.83999999999986
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [
+        "Commissioner Dawson",
+        "Commissioner Butler",
+        "Mayor Dotson"
+      ],
+      "observation": "Mayor Dotson, Commissioner Dawson and Commissioner Butler seem to dominate the discussions. They have spoken the most, with Commissioner Dawson having the most speaking time, followed by Commissioner Butler and Mayor Dotson. Mayor Dotson seems to be responsible for facilitating the meeting and interacting with the public."
+    },
+    "interaction_patterns": {
+      "pattern": "The speakers, especially the dominant speakers, frequently engage in discussions with each other, sometimes asking each other questions or building on each other's points. They also respond to comments and questions from the public, indicating an interactive dynamic. The public also asks questions and provides comments.",
+      "notable_exchanges": [
+        "Dawson and Butler discussing the consent agenda and related costs",
+        "Mayor Dotson's interaction with Jill from the housing partnership"
+      ]
+    },
+    "topic_ownership": [
+      {
+        "speaker": "Mayor Dotson",
+        "topics": [
+          "Pledge of allegiance",
+          "Agenda",
+          "Public comments"
+        ]
+      },
+      {
+        "speaker": "Commissioner Dawson",
+        "topics": [
+          "Specials costs",
+          "Affordable housing",
+          "Rents"
+        ]
+      },
+      {
+        "speaker": "Commissioner Butler",
+        "topics": [
+          "Adoption fee at the animal shelter",
+          "Community house renovation"
+        ]
+      }
+    ],
+    "public_participation": {
+      "level": "Medium",
+      "observation": "There is a good level of public participation with some public members speaking during the public comment period. Members of the public ask questions, as well as provide feedback or commentary on the discussed topics. This suggests a relatively healthy level of engagement between the public and city officials."
+    }
+  },
+  "emergent_patterns": {
+    "recurring_themes": [
+      {
+        "theme": "Renovation and development",
+        "evidence": "Topics regarding building improvements, affordable housing development projects, and infrastructure projects frequently appear throughout the meeting."
+      },
+      {
+        "theme": "Community events and services",
+        "evidence": "City officials discuss upcoming local events and overall wellbeing of the community, including a Christmas parade and a Parks and Rec sponsored tree-cutting event."
+      },
+      {
+        "theme": "Public involvement",
+        "evidence": "City official values public comment and invites members of the public to share their thoughts and concerns."
+      }
+    ],
+    "underlying_tensions": [
+      {
+        "tension": "Community concerns vs fiscal responsibility",
+        "between": [
+          "City officials",
+          "Public"
+        ],
+        "context": "The tension lies in addressing community needs and concerns, such as infrastructure maintenance and affordable housing, while responsibly managing city resources and expenditures."
+      }
+    ],
+    "decision_patterns": {
+      "pattern": "Public consultation and City Commission agreement",
+      "observation": "Decisions are typically made following public comments and a consensus among City Commissioners. A vote of approval is required for matters regarding city's fund expenditures."
+    },
+    "language_patterns": {
+      "formality": "High",
+      "technical_density": "Medium",
+      "emotional_tone": "Neutral",
+      "notable_features": [
+        "Use of specific technical terms for housing developments and civil infrastructure projects.",
+        "Addressing the public in a formal but welcoming and inclusive manner.",
+        "Very professional and concise language, with little use of slang or informal language."
+      ]
+    },
+    "other_insights": [
+      "City officials show an active role in organizing and promoting local events, which indicates their commitment to community engagement and a vibrant local culture.",
+      "The discussion of city expenditure shows that fiscal responsibility is a high priority for the council, which is often balanced against the need to address community concerns and development projects."
+    ]
+  }
+}

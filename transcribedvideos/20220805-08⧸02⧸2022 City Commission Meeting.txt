@@ -1,0 +1,5187 @@
+Transcription and Diarization for 20220805-08⧸02⧸2022 City Commission Meeting.mp4
+==================================================
+
+Mayor Morris:
+Start: 00:00:00.000
+End: 00:00:10.860
+Duration: 10.860 seconds
+Text: Good evening and welcome to this August the second meeting of the Manhattan City Commission.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:00:10.860
+End: 00:00:14.280
+Duration: 3.420 seconds
+Text: I hope you have voted by now.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:00:14.280
+End: 00:00:17.880
+Duration: 3.600 seconds
+Text: This is the last minute reminder that the polls close at seven.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:00:17.880
+End: 00:00:22.000
+Duration: 4.120 seconds
+Text: I can't imagine anybody watching and is interested in the City Commission hasn't voted
+--------------------------------------------------
+Mayor Morris:
+Start: 00:00:22.000
+End: 00:00:23.000
+Duration: 1.000 seconds
+Text: already.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:00:23.000
+End: 00:00:30.000
+Duration: 7.000 seconds
+Text: If you would join me for the roll call, we're going to do that for you're right.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:00:30.000
+End: 00:00:35.000
+Duration: 5.000 seconds
+Text: Mayor Morris, present.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:00:35.000
+End: 00:00:37.000
+Duration: 2.000 seconds
+Text: Commissioner Hattisall.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:00:37.000
+End: 00:00:38.000
+Duration: 1.000 seconds
+Text: Present.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:00:38.000
+End: 00:00:39.000
+Duration: 1.000 seconds
+Text: Commissioner Reddy.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:00:39.000
+End: 00:00:40.000
+Duration: 1.000 seconds
+Text: Present.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:00:40.000
+End: 00:00:41.000
+Duration: 1.000 seconds
+Text: Commissioner Butler.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:00:41.000
+End: 00:00:42.000
+Duration: 1.000 seconds
+Text: Present.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:00:42.000
+End: 00:00:43.000
+Duration: 1.000 seconds
+Text: Commissioner Mata.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:00:43.000
+End: 00:00:44.000
+Duration: 1.000 seconds
+Text: Here.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:00:44.000
+End: 00:00:46.000
+Duration: 2.000 seconds
+Text: We have five commissioners.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:00:46.000
+End: 00:00:48.000
+Duration: 2.000 seconds
+Text: We have a core mayor.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:00:48.000
+End: 00:00:51.000
+Duration: 3.000 seconds
+Text: At this point we'll have the pledge of allegiance.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:00:51.000
+End: 00:00:54.000
+Duration: 3.000 seconds
+Text: Would you stand and join me?
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:00:54.000
+End: 00:01:00.080
+Duration: 6.080 seconds
+Text: I pledge allegiance to the flag of the United States of America and to the Republic for which
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:01:00.080
+End: 00:01:01.080
+Duration: 1.000 seconds
+Text: it stands.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:01:01.080
+End: 00:01:08.080
+Duration: 7.000 seconds
+Text: One nation under God, indivisible, with liberty and justice are all.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:01:08.080
+End: 00:01:15.080
+Duration: 7.000 seconds
+Text: I don't believe there's any recognition.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:01:15.080
+End: 00:01:27.760
+Duration: 12.680 seconds
+Text: There are no proclamations this evening.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:01:27.760
+End: 00:01:30.480
+Duration: 2.720 seconds
+Text: But this is the first meeting of the month.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:01:30.480
+End: 00:01:36.380
+Duration: 5.900 seconds
+Text: So this is at this meeting that we have open public comments or the opportunity for open
+--------------------------------------------------
+Mayor Morris:
+Start: 00:01:36.380
+End: 00:01:38.980
+Duration: 2.600 seconds
+Text: public comments.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:01:38.980
+End: 00:01:45.660
+Duration: 6.680 seconds
+Text: So those wanting to make comments not related to an item on the agenda can do so at this
+--------------------------------------------------
+Mayor Morris:
+Start: 00:01:45.660
+End: 00:01:47.660
+Duration: 2.000 seconds
+Text: time.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:01:47.660
+End: 00:01:50.780
+Duration: 3.120 seconds
+Text: No one signed up ahead of time.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:01:50.780
+End: 00:01:53.580
+Duration: 2.800 seconds
+Text: We would ask that you state your name and address.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:01:53.580
+End: 00:01:54.980
+Duration: 1.400 seconds
+Text: Is anyone wish to come forward?
+--------------------------------------------------
+Mayor Morris:
+Start: 00:01:54.980
+End: 00:02:00.220
+Duration: 5.240 seconds
+Text: You would have five minutes.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:02:00.220
+End: 00:02:03.340
+Duration: 3.120 seconds
+Text: Saying no rush to the podium.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:02:03.340
+End: 00:02:07.340
+Duration: 4.000 seconds
+Text: I would close the public comment period.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:02:07.340
+End: 00:02:12.340
+Duration: 5.000 seconds
+Text: So we'll move on to commissioner comments.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:12.340
+End: 00:02:13.340
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:02:13.340
+End: 00:02:14.340
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:02:14.340
+End: 00:02:18.580
+Duration: 4.240 seconds
+Text: I want to mention that everybody counts.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:02:18.580
+End: 00:02:20.580
+Duration: 2.000 seconds
+Text: We'll be doing.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:02:20.580
+End: 00:02:21.580
+Duration: 1.000 seconds
+Text: We'll be at the.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:02:21.580
+End: 00:02:26.220
+Duration: 4.640 seconds
+Text: I guess at the Douglas Center area area on you.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:02:26.220
+End: 00:02:29.300
+Duration: 3.080 seconds
+Text: All the social service agencies will be there.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:02:29.300
+End: 00:02:35.300
+Duration: 6.000 seconds
+Text: Lots of information along with services that they provide.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:02:35.300
+End: 00:02:40.740
+Duration: 5.440 seconds
+Text: So if you know any families, students or anybody else that is involved or you think might benefit
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:02:40.740
+End: 00:02:43.780
+Duration: 3.040 seconds
+Text: from these services, please bring them along.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:02:43.780
+End: 00:02:48.180
+Duration: 4.400 seconds
+Text: Or if you want to take something back to them also, that's also provided.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:02:48.180
+End: 00:02:52.740
+Duration: 4.560 seconds
+Text: I've always learned a lot from all of the organizations that we have in our community.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:02:52.740
+End: 00:02:54.540
+Duration: 1.800 seconds
+Text: Very useful, very productive.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:02:54.540
+End: 00:02:59.060
+Duration: 4.520 seconds
+Text: And I highly recommend any one of you making a trip down there and collecting as much information
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:02:59.060
+End: 00:03:01.820
+Duration: 2.760 seconds
+Text: as you need for what is provided in our community.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:03:01.820
+End: 00:03:04.820
+Duration: 3.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:03:04.820
+End: 00:03:12.500
+Duration: 7.680 seconds
+Text: I support you, Shows endorsement of the everybody counts this coming Saturday at the Douglas
+--------------------------------------------------
+Mayor Morris:
+Start: 00:03:12.500
+End: 00:03:15.460
+Duration: 2.960 seconds
+Text: Center Park.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:03:15.460
+End: 00:03:19.340
+Duration: 3.880 seconds
+Text: And I plan to attend and look forward to seeing people there.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:03:19.340
+End: 00:03:24.300
+Duration: 4.960 seconds
+Text: I even considered having a booth in case people wanted to come and talk to the mayor.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:03:24.300
+End: 00:03:26.700
+Duration: 2.400 seconds
+Text: But that might be a little strange.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:03:26.700
+End: 00:03:32.420
+Duration: 5.720 seconds
+Text: Anyway, it would be something I could do by just walking around also.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:03:32.420
+End: 00:03:34.340
+Duration: 1.920 seconds
+Text: So invite people to come.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:03:34.340
+End: 00:03:37.060
+Duration: 2.720 seconds
+Text: It's going to be a hot day, I think.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:03:37.060
+End: 00:03:39.980
+Duration: 2.920 seconds
+Text: Anyway, I don't think it's going to be cool.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:03:39.980
+End: 00:03:46.220
+Duration: 6.240 seconds
+Text: So all right, next would be the consent agenda.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:03:46.220
+End: 00:03:51.180
+Duration: 4.960 seconds
+Text: The items on the consent agenda are those of a routine in housekeeping nature or those
+--------------------------------------------------
+Mayor Morris:
+Start: 00:03:51.180
+End: 00:03:55.060
+Duration: 3.880 seconds
+Text: items which have previously been reviewed by the City Commission.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:03:55.060
+End: 00:04:01.020
+Duration: 5.960 seconds
+Text: A commissioner may request an item be removed from for separate discussion and consideration
+--------------------------------------------------
+Mayor Morris:
+Start: 00:04:01.020
+End: 00:04:05.900
+Duration: 4.880 seconds
+Text: immediately following the consent agenda or at a different point on the agenda if desired
+--------------------------------------------------
+Mayor Morris:
+Start: 00:04:05.900
+End: 00:04:07.420
+Duration: 1.520 seconds
+Text: by the City Commission.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:04:07.420
+End: 00:04:12.140
+Duration: 4.720 seconds
+Text: This a commission have any questions or comments on any of the consent agenda items.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:04:12.140
+End: 00:04:18.740
+Duration: 6.600 seconds
+Text: I just wanted to mention, you know, item E, if somebody is reading that, it may look
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:04:18.740
+End: 00:04:21.140
+Duration: 2.400 seconds
+Text: like a, we're loving a new tax.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:04:21.140
+End: 00:04:26.180
+Duration: 5.040 seconds
+Text: And of course, no, this is the tax that was approved by the voters, the extended economic
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:04:26.180
+End: 00:04:28.860
+Duration: 2.680 seconds
+Text: development tax that goes into pot county.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:04:28.860
+End: 00:04:29.860
+Duration: 1.000 seconds
+Text: So it's not new.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:04:29.860
+End: 00:04:30.860
+Duration: 1.000 seconds
+Text: It's just a formality.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:30.860
+End: 00:04:31.860
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:31.860
+End: 00:04:32.860
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:04:32.860
+End: 00:04:44.980
+Duration: 12.120 seconds
+Text: And the next item is public comment for items on the consent agenda.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:04:44.980
+End: 00:04:48.660
+Duration: 3.680 seconds
+Text: If you've had the opportunity to review them and you have any comments now would be the
+--------------------------------------------------
+Mayor Morris:
+Start: 00:04:48.660
+End: 00:05:00.140
+Duration: 11.480 seconds
+Text: time saying no one now close the opportunity for public comment on the consent agenda.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:05:00.140
+End: 00:05:02.380
+Duration: 2.240 seconds
+Text: Is there a motion from the commission?
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:05:02.380
+End: 00:05:05.100
+Duration: 2.720 seconds
+Text: I move that we approve the consent agenda.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:05:05.100
+End: 00:05:06.100
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:05:06.100
+End: 00:05:08.860
+Duration: 2.760 seconds
+Text: We have a motion and a second.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:05:08.860
+End: 00:05:17.300
+Duration: 8.440 seconds
+Text: City Clerk would you, I can, well, you know who did that, who, please call the roll.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:05:17.300
+End: 00:05:19.300
+Duration: 2.000 seconds
+Text: Mr. Hadisle.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:05:19.300
+End: 00:05:20.300
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:05:20.300
+End: 00:05:21.300
+Duration: 1.000 seconds
+Text: Mr. Ready.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:05:21.300
+End: 00:05:22.300
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:05:22.300
+End: 00:05:23.300
+Duration: 1.000 seconds
+Text: Mr. Butler.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:05:23.300
+End: 00:05:24.300
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:05:24.300
+End: 00:05:25.300
+Duration: 1.000 seconds
+Text: Mr. Armada.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:05:25.300
+End: 00:05:26.300
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:05:26.300
+End: 00:05:27.300
+Duration: 1.000 seconds
+Text: Mayor Morris.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:05:27.300
+End: 00:05:28.300
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:05:28.300
+End: 00:05:30.300
+Duration: 2.000 seconds
+Text: Motion carries five to zero.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:05:30.300
+End: 00:05:33.580
+Duration: 3.280 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:05:33.580
+End: 00:05:47.100
+Duration: 13.520 seconds
+Text: And the next item is a public hearing to consider rezoning the property at 625 South
+--------------------------------------------------
+Mayor Morris:
+Start: 00:05:47.100
+End: 00:05:57.420
+Duration: 10.320 seconds
+Text: 10th Street from I.L. Light Industrial to ICS Industrial slash commercial services district.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:05:57.420
+End: 00:06:03.700
+Duration: 6.280 seconds
+Text: And Stephanie Peterson, the director of community development will lead us.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:06:03.700
+End: 00:06:04.700
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:06:04.700
+End: 00:06:06.340
+Duration: 1.640 seconds
+Text: Thank you for that introduction.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:06:06.340
+End: 00:06:09.340
+Duration: 3.000 seconds
+Text: We had a call in audible about 20 minutes ago upstairs.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:06:09.340
+End: 00:06:11.100
+Duration: 1.760 seconds
+Text: So I will be presenting this item.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:06:11.100
+End: 00:06:15.700
+Duration: 4.600 seconds
+Text: Barry was unable to be here.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:06:15.700
+End: 00:06:20.900
+Duration: 5.200 seconds
+Text: This off you had already stated this is the rezoning of 625 South 10th Street probably
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:06:20.900
+End: 00:06:24.140
+Duration: 3.240 seconds
+Text: more commonly known as how he's recycling center.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:06:24.140
+End: 00:06:29.780
+Duration: 5.640 seconds
+Text: And this is the public hearing for the rezoning from I.L. Light Industrial to ICS Industrial
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:06:29.780
+End: 00:06:34.620
+Duration: 4.840 seconds
+Text: Commercial Service District.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:06:34.620
+End: 00:06:39.020
+Duration: 4.400 seconds
+Text: The general vicinity of the property is along Fort Rally Boulevard and the southeast
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:06:39.020
+End: 00:06:41.900
+Duration: 2.880 seconds
+Text: part of the community.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:06:41.900
+End: 00:06:46.340
+Duration: 4.440 seconds
+Text: There's a vicinity map showing the parcel that is being rezoned.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:06:46.340
+End: 00:06:52.740
+Duration: 6.400 seconds
+Text: One thing to note is that part of the reason that the property is asking to be rezoned is
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:06:52.740
+End: 00:06:55.460
+Duration: 2.720 seconds
+Text: when the MDC was adopted.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:06:55.460
+End: 00:07:03.460
+Duration: 8.000 seconds
+Text: It took the original zoning that was I.L.3 which was light industrial that had allowed recycling
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:07:03.460
+End: 00:07:05.300
+Duration: 1.840 seconds
+Text: center as a permitted use.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:07:05.300
+End: 00:07:11.660
+Duration: 6.360 seconds
+Text: And then it converted over after the MDC's adoption to light industrial which no longer
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:07:11.660
+End: 00:07:15.260
+Duration: 3.600 seconds
+Text: allowed for a recycling operation.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:07:15.260
+End: 00:07:22.140
+Duration: 6.880 seconds
+Text: They have been operating with a conditional use for a while now and they just wanted to
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:07:22.140
+End: 00:07:27.060
+Duration: 4.920 seconds
+Text: go through the process where they're no longer a nonconforming use.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:07:27.060
+End: 00:07:30.740
+Duration: 3.680 seconds
+Text: Excuse me.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:07:30.740
+End: 00:07:36.700
+Duration: 5.960 seconds
+Text: The zoning changed ICS that is consistent with the future land use plan that's in the
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:07:36.700
+End: 00:07:39.860
+Duration: 3.160 seconds
+Text: Manhattan Urban Area Comprehensive Plan.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:07:39.860
+End: 00:07:44.700
+Duration: 4.840 seconds
+Text: Here's the property with the star.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:07:44.700
+End: 00:07:48.660
+Duration: 3.960 seconds
+Text: And then the zoning map and the properties that are within the same vicinity.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:07:48.660
+End: 00:07:53.380
+Duration: 4.720 seconds
+Text: The ICS zoning is appropriate for the surrounding properties.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:07:53.380
+End: 00:07:58.540
+Duration: 5.160 seconds
+Text: It would be consistent with the other uses within this area.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:07:58.540
+End: 00:08:04.740
+Duration: 6.200 seconds
+Text: And both the Manhattan Urban Area and Union is unanimously a recommended approval of the
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:08:04.740
+End: 00:08:05.820
+Duration: 1.080 seconds
+Text: rezoning request.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:08:05.820
+End: 00:08:07.540
+Duration: 1.720 seconds
+Text: We had no public comments.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:08:07.540
+End: 00:08:11.980
+Duration: 4.440 seconds
+Text: There was no comment from the board other than clarifying questions.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:08:11.980
+End: 00:08:17.180
+Duration: 5.200 seconds
+Text: And then at the July meeting of the Board of Zoning Appeals that board also unanimously
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:08:17.180
+End: 00:08:24.380
+Duration: 7.200 seconds
+Text: approved the conditional use permit to allow for the recycling center to operate in the ICS.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:08:24.380
+End: 00:08:29.380
+Duration: 5.000 seconds
+Text: Just as a side note for your information, we do have certain zoning districts.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:08:29.380
+End: 00:08:34.140
+Duration: 4.760 seconds
+Text: One of them being general industrial, which would have allowed the recycling center permitted
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:08:34.140
+End: 00:08:35.140
+Duration: 1.000 seconds
+Text: outright.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:08:35.140
+End: 00:08:40.020
+Duration: 4.880 seconds
+Text: However, there's some signage that the owner is looking at in the future and that wouldn't
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:08:40.020
+End: 00:08:42.460
+Duration: 2.440 seconds
+Text: have been permitted with that zoning district.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:08:42.460
+End: 00:08:47.140
+Duration: 4.680 seconds
+Text: So their preference was the ICS knowing that they had to get that conditional use permit
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:08:47.140
+End: 00:08:52.700
+Duration: 5.560 seconds
+Text: in order to continue to operate as a recycling center.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:08:52.700
+End: 00:08:57.340
+Duration: 4.640 seconds
+Text: So staff's recommendation as well as the recommendation from the Manhattan Urban Area
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:08:57.340
+End: 00:09:02.740
+Duration: 5.400 seconds
+Text: Planning Board is to approve the first reading of an ordinance rezoning 625 South Tent
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:09:02.740
+End: 00:09:08.860
+Duration: 6.120 seconds
+Text: Street from IL Light Industrial to ICS Industrial Commercial Services District based on the
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:09:08.860
+End: 00:09:10.580
+Duration: 1.720 seconds
+Text: findings and the staff report.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:09:10.580
+End: 00:09:16.380
+Duration: 5.800 seconds
+Text: And with that, I'll stand for any questions you might have.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:09:17.380
+End: 00:09:20.100
+Duration: 2.720 seconds
+Text: I'm not at this point.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:09:20.100
+End: 00:09:21.100
+Duration: 1.000 seconds
+Text: It looks like.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:09:21.100
+End: 00:09:22.100
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:09:22.100
+End: 00:09:23.100
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:09:23.100
+End: 00:09:27.500
+Duration: 4.400 seconds
+Text: I think the background information was excellent and thus no questions.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:09:27.500
+End: 00:09:28.500
+Duration: 1.000 seconds
+Text: Thank you, Stephanie.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:09:28.500
+End: 00:09:30.940
+Duration: 2.440 seconds
+Text: I'd like to.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:09:30.940
+End: 00:09:35.540
+Duration: 4.600 seconds
+Text: There's a section here about announcing X Part A communication.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:09:35.540
+End: 00:09:41.220
+Duration: 5.680 seconds
+Text: So prior to proceeding further, each member of the governing body who has engaged in any
+--------------------------------------------------
+Mayor Morris:
+Start: 00:09:41.220
+End: 00:09:45.940
+Duration: 4.720 seconds
+Text: X Part A communication with any individual either in favor of or against the matter
+--------------------------------------------------
+Mayor Morris:
+Start: 00:09:45.940
+End: 00:09:51.380
+Duration: 5.440 seconds
+Text: being considered must state that the communication occurred and indicate that even in light of
+--------------------------------------------------
+Mayor Morris:
+Start: 00:09:51.380
+End: 00:09:56.940
+Duration: 5.560 seconds
+Text: having engaged in the communication, if you are able to fairly objectively and impartially
+--------------------------------------------------
+Mayor Morris:
+Start: 00:09:56.940
+End: 00:10:05.500
+Duration: 8.560 seconds
+Text: consider the measure based only upon the evidence provided on the record at this meeting.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:10:05.500
+End: 00:10:10.380
+Duration: 4.880 seconds
+Text: I was not contacted because nobody cares.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:10:10.380
+End: 00:10:12.700
+Duration: 2.320 seconds
+Text: I didn't, I spoke with our city manager.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:10:12.700
+End: 00:10:17.380
+Duration: 4.680 seconds
+Text: I had a few questions, but it wasn't in favor or opposed to the recommendation.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:10:17.380
+End: 00:10:21.460
+Duration: 4.080 seconds
+Text: So you didn't have any contact?
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:10:21.460
+End: 00:10:23.260
+Duration: 1.800 seconds
+Text: No contact.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:10:23.260
+End: 00:10:29.820
+Duration: 6.560 seconds
+Text: I too, in a meeting, talked to the city manager, but I had no outside contacts outside the city.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:10:29.820
+End: 00:10:31.580
+Duration: 1.760 seconds
+Text: So all right.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:10:31.580
+End: 00:10:38.260
+Duration: 6.680 seconds
+Text: If we, at this point, I would open the public hearing on this proposal.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:10:38.260
+End: 00:10:45.900
+Duration: 7.640 seconds
+Text: So if anyone in the audience wishes to come forward, has an opinion or would like to express
+--------------------------------------------------
+Mayor Morris:
+Start: 00:10:45.900
+End: 00:10:53.780
+Duration: 7.880 seconds
+Text: the concern now is the time.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:10:53.780
+End: 00:10:57.580
+Duration: 3.800 seconds
+Text: If you do, I have another paragraph to read.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:10:57.580
+End: 00:11:03.540
+Duration: 5.960 seconds
+Text: So anyway.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:11:03.540
+End: 00:11:07.020
+Duration: 3.480 seconds
+Text: Seeing no one, I will close the public hearing.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:11:07.020
+End: 00:11:15.340
+Duration: 8.320 seconds
+Text: And is there a representative of the applicant here?
+--------------------------------------------------
+Mayor Morris:
+Start: 00:11:15.340
+End: 00:11:16.820
+Duration: 1.480 seconds
+Text: I don't see anyone.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:11:16.820
+End: 00:11:19.500
+Duration: 2.680 seconds
+Text: I don't see anyone I don't know.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:11:19.500
+End: 00:11:21.260
+Duration: 1.760 seconds
+Text: So there must not be.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:11:21.260
+End: 00:11:22.260
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:11:22.260
+End: 00:11:25.500
+Duration: 3.240 seconds
+Text: So I don't need to ask that person to come forward.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:11:25.500
+End: 00:11:29.540
+Duration: 4.040 seconds
+Text: Does the city staff, you have any final comments?
+--------------------------------------------------
+Mayor Morris:
+Start: 00:11:29.540
+End: 00:11:33.260
+Duration: 3.720 seconds
+Text: And the commissioners, do you have any other questions?
+--------------------------------------------------
+Mayor Morris:
+Start: 00:11:33.260
+End: 00:11:34.260
+Duration: 1.000 seconds
+Text: One last time.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:11:34.260
+End: 00:11:35.260
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:11:35.820
+End: 00:11:38.220
+Duration: 2.400 seconds
+Text: Is there a motion from the commission?
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:11:38.220
+End: 00:11:39.060
+Duration: 0.840 seconds
+Text: I make a motion.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:11:39.060
+End: 00:11:39.820
+Duration: 0.760 seconds
+Text: We approve.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:11:39.820
+End: 00:11:47.860
+Duration: 8.040 seconds
+Text: First reading of ordinance rezoning 625, cell 10th street, IO Light Industrial, the ICS, industrial
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:11:47.860
+End: 00:11:51.020
+Duration: 3.160 seconds
+Text: commercial services based on findings and staff report.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:11:51.020
+End: 00:11:52.500
+Duration: 1.480 seconds
+Text: I'll second it.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:11:52.500
+End: 00:11:53.580
+Duration: 1.080 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:11:53.580
+End: 00:11:59.780
+Duration: 6.200 seconds
+Text: City clerk, Brenda, we have a role.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:11:59.780
+End: 00:12:01.820
+Duration: 2.040 seconds
+Text: Commissioner Rae De.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:12:01.820
+End: 00:12:02.980
+Duration: 1.160 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:12:02.980
+End: 00:12:04.020
+Duration: 1.040 seconds
+Text: Commissioner Butler?
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:12:04.020
+End: 00:12:05.100
+Duration: 1.080 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:12:05.100
+End: 00:12:06.100
+Duration: 1.000 seconds
+Text: Commissioner Mata?
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:12:06.100
+End: 00:12:07.100
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:12:07.100
+End: 00:12:08.100
+Duration: 1.000 seconds
+Text: Mayor Morris?
+--------------------------------------------------
+Mayor Morris:
+Start: 00:12:08.100
+End: 00:12:09.100
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:12:09.100
+End: 00:12:10.100
+Duration: 1.000 seconds
+Text: Commissioner Hattasal?
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:12:10.100
+End: 00:12:11.100
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:12:11.100
+End: 00:12:13.100
+Duration: 2.000 seconds
+Text: Motion carries 5-0.
+--------------------------------------------------
+City Clerk:
+Start: 00:12:13.100
+End: 00:12:14.100
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:12:14.100
+End: 00:12:19.020
+Duration: 4.920 seconds
+Text: And now we shift to, thank you very much, everyone.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:12:19.020
+End: 00:12:25.260
+Duration: 6.240 seconds
+Text: We shift to the general agenda and we will consider the nomination of UMA Street historic
+--------------------------------------------------
+Mayor Morris:
+Start: 00:12:25.260
+End: 00:12:26.260
+Duration: 1.000 seconds
+Text: district.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:12:26.260
+End: 00:12:30.700
+Duration: 4.440 seconds
+Text: I think that's all it says.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:12:30.700
+End: 00:12:31.700
+Duration: 1.000 seconds
+Text: Ben Chmiel.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:12:31.700
+End: 00:12:32.700
+Duration: 1.000 seconds
+Text: Hello.
+--------------------------------------------------
+City Manager:
+Start: 00:12:33.260
+End: 00:12:34.940
+Duration: 1.680 seconds
+Text: Good evening commissioners.
+--------------------------------------------------
+City Manager:
+Start: 00:12:34.940
+End: 00:12:39.220
+Duration: 4.280 seconds
+Text: Ben Chmiel, senior planner in the community development department.
+--------------------------------------------------
+City Manager:
+Start: 00:12:39.220
+End: 00:12:45.180
+Duration: 5.960 seconds
+Text: Tonight we'll be looking at a proposal to create a historic district in the 900 block
+--------------------------------------------------
+City Manager:
+Start: 00:12:45.180
+End: 00:12:46.540
+Duration: 1.360 seconds
+Text: of UMA Street.
+--------------------------------------------------
+City Manager:
+Start: 00:12:46.540
+End: 00:12:49.540
+Duration: 3.000 seconds
+Text: A little bit more detail on that in a minute.
+--------------------------------------------------
+City Manager:
+Start: 00:12:49.540
+End: 00:12:53.620
+Duration: 4.080 seconds
+Text: But first I wanted to give you kind of a timeline of this project.
+--------------------------------------------------
+City Manager:
+Start: 00:12:53.620
+End: 00:12:57.260
+Duration: 3.640 seconds
+Text: It really started in 2012.
+--------------------------------------------------
+City Manager:
+Start: 00:12:57.260
+End: 00:13:02.260
+Duration: 5.000 seconds
+Text: The city was awarded a grant from the State Historic Preservation Office, or SHIPO.
+--------------------------------------------------
+City Manager:
+Start: 00:13:02.980
+End: 00:13:06.340
+Duration: 3.360 seconds
+Text: To study the area generally south of points.
+--------------------------------------------------
+City Manager:
+Start: 00:13:06.340
+End: 00:13:11.340
+Duration: 5.000 seconds
+Text: It was called the African American Cultural Resources Survey, geared toward studying the
+--------------------------------------------------
+City Manager:
+Start: 00:13:11.340
+End: 00:13:16.980
+Duration: 5.640 seconds
+Text: significance of the area as it relates to the development of the black community in Manhattan
+--------------------------------------------------
+City Manager:
+Start: 00:13:16.980
+End: 00:13:18.580
+Duration: 1.600 seconds
+Text: over time.
+--------------------------------------------------
+City Manager:
+Start: 00:13:18.580
+End: 00:13:22.420
+Duration: 3.840 seconds
+Text: A couple of things came out of that survey.
+--------------------------------------------------
+City Manager:
+Start: 00:13:22.420
+End: 00:13:26.140
+Duration: 3.720 seconds
+Text: Two buildings were listed on the National Register of Historic Places.
+--------------------------------------------------
+City Manager:
+Start: 00:13:26.140
+End: 00:13:27.900
+Duration: 1.760 seconds
+Text: But that was really all that happened.
+--------------------------------------------------
+City Manager:
+Start: 00:13:27.900
+End: 00:13:31.580
+Duration: 3.680 seconds
+Text: Typically out of these surveys we see historic districts form.
+--------------------------------------------------
+City Manager:
+Start: 00:13:31.580
+End: 00:13:35.180
+Duration: 3.600 seconds
+Text: Just those two individuals were listed at that time.
+--------------------------------------------------
+City Manager:
+Start: 00:13:35.180
+End: 00:13:40.100
+Duration: 4.920 seconds
+Text: The State Dormant for the better part of six years.
+--------------------------------------------------
+City Manager:
+Start: 00:13:40.100
+End: 00:13:46.220
+Duration: 6.120 seconds
+Text: In 2018, CD staff met with Parks and Rec staff to kind of look at financing options for
+--------------------------------------------------
+City Manager:
+Start: 00:13:46.220
+End: 00:13:51.860
+Duration: 5.640 seconds
+Text: some improvements that they were looking at in the Douglas Center and Douglas Center
+--------------------------------------------------
+City Manager:
+Start: 00:13:51.860
+End: 00:13:53.700
+Duration: 1.840 seconds
+Text: Annex.
+--------------------------------------------------
+City Manager:
+Start: 00:13:53.700
+End: 00:13:57.580
+Duration: 3.880 seconds
+Text: We knew at the time that those two buildings were potentially eligible for the National
+--------------------------------------------------
+City Manager:
+Start: 00:13:57.580
+End: 00:13:59.060
+Duration: 1.480 seconds
+Text: Register.
+--------------------------------------------------
+City Manager:
+Start: 00:13:59.060
+End: 00:14:02.780
+Duration: 3.720 seconds
+Text: And thus, if they were listed, could qualify for tax credits.
+--------------------------------------------------
+City Manager:
+Start: 00:14:02.780
+End: 00:14:07.780
+Duration: 5.000 seconds
+Text: So staff was interested in pursuing or looking into that.
+--------------------------------------------------
+City Manager:
+Start: 00:14:07.780
+End: 00:14:12.940
+Duration: 5.160 seconds
+Text: So we went to the Frederick Douglass Recreation Center Advisory Board at the end of 2018 to
+--------------------------------------------------
+City Manager:
+Start: 00:14:12.940
+End: 00:14:14.580
+Duration: 1.640 seconds
+Text: get their input.
+--------------------------------------------------
+City Manager:
+Start: 00:14:14.580
+End: 00:14:21.540
+Duration: 6.960 seconds
+Text: At that time, the board actually recommended looking at a broader area to potentially create
+--------------------------------------------------
+City Manager:
+Start: 00:14:21.540
+End: 00:14:25.380
+Duration: 3.840 seconds
+Text: a historic district in that thematic nomination.
+--------------------------------------------------
+City Manager:
+Start: 00:14:25.380
+End: 00:14:32.180
+Duration: 6.800 seconds
+Text: So in 2019, we've heard from the State who said a district of the sort would be eligible
+--------------------------------------------------
+City Manager:
+Start: 00:14:32.180
+End: 00:14:34.660
+Duration: 2.480 seconds
+Text: for the National Register.
+--------------------------------------------------
+City Manager:
+Start: 00:14:34.660
+End: 00:14:41.220
+Duration: 6.560 seconds
+Text: At the time, the Douglas Activity Center was being proposed and was about to be underway.
+--------------------------------------------------
+City Manager:
+Start: 00:14:41.220
+End: 00:14:46.740
+Duration: 5.520 seconds
+Text: Staff was kind of wary of doing both a historic district and seeing that project come to fruition
+--------------------------------------------------
+City Manager:
+Start: 00:14:46.740
+End: 00:14:48.540
+Duration: 1.800 seconds
+Text: at the same time.
+--------------------------------------------------
+City Manager:
+Start: 00:14:48.540
+End: 00:14:50.940
+Duration: 2.400 seconds
+Text: So we put that on the back burner.
+--------------------------------------------------
+City Manager:
+Start: 00:14:50.940
+End: 00:14:56.580
+Duration: 5.640 seconds
+Text: Meanwhile, COVID happened, made engagement and meetings really difficult.
+--------------------------------------------------
+City Manager:
+Start: 00:14:56.580
+End: 00:15:01.660
+Duration: 5.080 seconds
+Text: So by 2021, that activity center was complete.
+--------------------------------------------------
+City Manager:
+Start: 00:15:01.660
+End: 00:15:07.220
+Duration: 5.560 seconds
+Text: And so this year, we re-engaged that board to see if it was something that they were still
+--------------------------------------------------
+City Manager:
+Start: 00:15:07.220
+End: 00:15:11.780
+Duration: 4.560 seconds
+Text: interested in and they unanimously supported that.
+--------------------------------------------------
+City Manager:
+Start: 00:15:11.780
+End: 00:15:17.260
+Duration: 5.480 seconds
+Text: So since then, we've gone to various other boards, the Parks and Rec Advisory Board, the
+--------------------------------------------------
+City Manager:
+Start: 00:15:17.260
+End: 00:15:23.300
+Duration: 6.040 seconds
+Text: Historic Resources Board, who have unanimously supported the project, as well we began to
+--------------------------------------------------
+City Manager:
+Start: 00:15:23.300
+End: 00:15:30.580
+Duration: 7.280 seconds
+Text: engage property owners that would be included in the district and got support from them.
+--------------------------------------------------
+City Manager:
+Start: 00:15:30.580
+End: 00:15:38.980
+Duration: 8.400 seconds
+Text: So the actual district would be located south of points, like I said, on the 900 block
+--------------------------------------------------
+City Manager:
+Start: 00:15:38.980
+End: 00:15:46.700
+Duration: 7.720 seconds
+Text: of Uma Street, including 831 Uma Street, which is the Pilgrim Baptist Church, already listed
+--------------------------------------------------
+City Manager:
+Start: 00:15:46.700
+End: 00:15:47.700
+Duration: 1.000 seconds
+Text: on the National Register.
+--------------------------------------------------
+City Manager:
+Start: 00:15:47.700
+End: 00:15:52.780
+Duration: 5.080 seconds
+Text: That was one of those buildings that were listed after that survey in 2012, so it made sense
+--------------------------------------------------
+City Manager:
+Start: 00:15:52.780
+End: 00:15:56.620
+Duration: 3.840 seconds
+Text: to include it in a proposed district.
+--------------------------------------------------
+City Manager:
+Start: 00:15:56.620
+End: 00:16:03.020
+Duration: 6.400 seconds
+Text: So generally, it includes the Douglas Center, Douglas Center Annex, Mount Zion Church,
+--------------------------------------------------
+City Manager:
+Start: 00:16:03.020
+End: 00:16:06.020
+Duration: 3.000 seconds
+Text: and the Cobb Blue Mason's Lodge.
+--------------------------------------------------
+City Manager:
+Start: 00:16:06.020
+End: 00:16:10.700
+Duration: 4.680 seconds
+Text: Here's a list of those properties.
+--------------------------------------------------
+City Manager:
+Start: 00:16:10.700
+End: 00:16:16.180
+Duration: 5.480 seconds
+Text: The year they were constructed and their status as a contributing or non-contributing
+--------------------------------------------------
+City Manager:
+Start: 00:16:16.660
+End: 00:16:20.100
+Duration: 3.440 seconds
+Text: property within the district.
+--------------------------------------------------
+City Manager:
+Start: 00:16:20.100
+End: 00:16:25.100
+Duration: 5.000 seconds
+Text: So there are three registration levels when it comes to historic preservation.
+--------------------------------------------------
+City Manager:
+Start: 00:16:25.100
+End: 00:16:29.260
+Duration: 4.160 seconds
+Text: There's the local register, state register, and the national register.
+--------------------------------------------------
+City Manager:
+Start: 00:16:29.260
+End: 00:16:36.300
+Duration: 7.040 seconds
+Text: This would be a, we would be pursuing state and national listing in this case.
+--------------------------------------------------
+City Manager:
+Start: 00:16:36.300
+End: 00:16:41.940
+Duration: 5.640 seconds
+Text: So historic designation in order to designate a historic district.
+--------------------------------------------------
+City Manager:
+Start: 00:16:41.940
+End: 00:16:45.900
+Duration: 3.960 seconds
+Text: There are four criteria for evaluation.
+--------------------------------------------------
+City Manager:
+Start: 00:16:45.900
+End: 00:16:51.140
+Duration: 5.240 seconds
+Text: In 2019, I mentioned SHIPO determined that it would be, this district would be eligible
+--------------------------------------------------
+City Manager:
+Start: 00:16:51.140
+End: 00:17:01.220
+Duration: 10.080 seconds
+Text: under criterion A for its relationship to black ethnic heritage in the black community
+--------------------------------------------------
+City Manager:
+Start: 00:17:01.220
+End: 00:17:03.500
+Duration: 2.280 seconds
+Text: in Manhattan.
+--------------------------------------------------
+City Manager:
+Start: 00:17:03.500
+End: 00:17:07.940
+Duration: 4.440 seconds
+Text: So it has to be one of those criteria and have integrity, meaning that the buildings
+--------------------------------------------------
+City Manager:
+Start: 00:17:07.940
+End: 00:17:14.580
+Duration: 6.640 seconds
+Text: can't be substantially modified or damaged beyond their original appearance.
+--------------------------------------------------
+City Manager:
+Start: 00:17:14.580
+End: 00:17:19.580
+Duration: 5.000 seconds
+Text: So just a little bit of background on the history of this area.
+--------------------------------------------------
+City Manager:
+Start: 00:17:19.580
+End: 00:17:25.780
+Duration: 6.200 seconds
+Text: South of points along the Uma Street for Eilibullavard was historically the primary neighborhood
+--------------------------------------------------
+City Manager:
+Start: 00:17:25.780
+End: 00:17:29.820
+Duration: 4.040 seconds
+Text: of the black community throughout Manhattan's history.
+--------------------------------------------------
+City Manager:
+Start: 00:17:29.820
+End: 00:17:36.820
+Duration: 7.000 seconds
+Text: The outline here would be the proposed district right in the center of that neighborhood,
+--------------------------------------------------
+City Manager:
+Start: 00:17:36.820
+End: 00:17:44.380
+Duration: 7.560 seconds
+Text: really where all of the, really the hub for all social, political, cultural activity
+--------------------------------------------------
+City Manager:
+Start: 00:17:44.380
+End: 00:17:50.340
+Duration: 5.960 seconds
+Text: for that community throughout the early history of Manhattan.
+--------------------------------------------------
+City Manager:
+Start: 00:17:50.340
+End: 00:17:54.620
+Duration: 4.280 seconds
+Text: Just to give you an idea of what these buildings have looked like over time.
+--------------------------------------------------
+City Manager:
+Start: 00:17:54.620
+End: 00:17:58.540
+Duration: 3.920 seconds
+Text: This is the Douglas Center annex, originally the Douglas school.
+--------------------------------------------------
+City Manager:
+Start: 00:17:58.540
+End: 00:18:05.220
+Duration: 6.680 seconds
+Text: It was Manhattan's first black elementary school.
+--------------------------------------------------
+City Manager:
+Start: 00:18:05.220
+End: 00:18:07.700
+Duration: 2.480 seconds
+Text: It hasn't changed a whole lot over time.
+--------------------------------------------------
+City Manager:
+Start: 00:18:07.700
+End: 00:18:13.980
+Duration: 6.280 seconds
+Text: This is Shepherd's Chapel, which today is the Cobb Blue Mason's Lodge converted to the
+--------------------------------------------------
+City Manager:
+Start: 00:18:13.980
+End: 00:18:19.700
+Duration: 5.720 seconds
+Text: Mason's Lodge in the late 60s or early 70s.
+--------------------------------------------------
+City Manager:
+Start: 00:18:19.700
+End: 00:18:26.380
+Duration: 6.680 seconds
+Text: Pilgrim Baptist, originally second Baptist Church already on the national register.
+--------------------------------------------------
+City Manager:
+Start: 00:18:26.380
+End: 00:18:33.260
+Duration: 6.880 seconds
+Text: This is the Douglas Center, originally constructed as a USO for black soldiers in World War
+--------------------------------------------------
+City Manager:
+Start: 00:18:33.260
+End: 00:18:36.900
+Duration: 3.640 seconds
+Text: II.
+--------------------------------------------------
+City Manager:
+Start: 00:18:36.900
+End: 00:18:40.980
+Duration: 4.080 seconds
+Text: Why preserve these buildings?
+--------------------------------------------------
+City Manager:
+Start: 00:18:40.980
+End: 00:18:44.900
+Duration: 3.920 seconds
+Text: Historic buildings undoubtedly connect us to our past.
+--------------------------------------------------
+City Manager:
+Start: 00:18:44.900
+End: 00:18:50.060
+Duration: 5.160 seconds
+Text: The relics of our culture heritage traditions and history that we can actually interact with,
+--------------------------------------------------
+City Manager:
+Start: 00:18:50.060
+End: 00:18:52.180
+Duration: 2.120 seconds
+Text: touch and see in a meaningful way.
+--------------------------------------------------
+City Manager:
+Start: 00:18:52.180
+End: 00:18:57.380
+Duration: 5.200 seconds
+Text: The make our community a unique place to live and make it a place that we can take pride
+--------------------------------------------------
+City Manager:
+Start: 00:18:57.380
+End: 00:18:58.380
+Duration: 1.000 seconds
+Text: in.
+--------------------------------------------------
+City Manager:
+Start: 00:18:58.380
+End: 00:19:04.100
+Duration: 5.720 seconds
+Text: I throw this image up here just to show you what preservation does in our community.
+--------------------------------------------------
+City Manager:
+Start: 00:19:04.100
+End: 00:19:11.540
+Duration: 7.440 seconds
+Text: This is the Union Pacific Depot in 1980, shortly after it shut down, fell out of use.
+--------------------------------------------------
+City Manager:
+Start: 00:19:11.540
+End: 00:19:17.580
+Duration: 6.040 seconds
+Text: And through a very wide sweeping community effort, including listing on the state register,
+--------------------------------------------------
+City Manager:
+Start: 00:19:17.580
+End: 00:19:24.300
+Duration: 6.720 seconds
+Text: community involvement, several individuals donating money, grants, tax credits, we were
+--------------------------------------------------
+City Manager:
+Start: 00:19:24.300
+End: 00:19:28.220
+Duration: 3.920 seconds
+Text: able to turn it into what you see today.
+--------------------------------------------------
+City Manager:
+Start: 00:19:28.220
+End: 00:19:34.100
+Duration: 5.880 seconds
+Text: It would not have happened if it didn't have access to the resources by being listed
+--------------------------------------------------
+City Manager:
+Start: 00:19:34.100
+End: 00:19:36.420
+Duration: 2.320 seconds
+Text: on the state register.
+--------------------------------------------------
+City Manager:
+Start: 00:19:36.420
+End: 00:19:42.220
+Duration: 5.800 seconds
+Text: Second reason I talked about it with that project, there are financial incentives to pursue
+--------------------------------------------------
+City Manager:
+Start: 00:19:42.220
+End: 00:19:44.780
+Duration: 2.560 seconds
+Text: historic designation at the state level.
+--------------------------------------------------
+City Manager:
+Start: 00:19:44.780
+End: 00:19:51.300
+Duration: 6.520 seconds
+Text: There's a 25% tax credit offered for qualifying rehab expenditures at the federal level.
+--------------------------------------------------
+City Manager:
+Start: 00:19:51.300
+End: 00:19:53.380
+Duration: 2.080 seconds
+Text: There's a 20%.
+--------------------------------------------------
+City Manager:
+Start: 00:19:53.380
+End: 00:19:59.260
+Duration: 5.880 seconds
+Text: The city would not qualify for that federal credit, but at the state level, we would because
+--------------------------------------------------
+City Manager:
+Start: 00:19:59.260
+End: 00:20:03.060
+Duration: 3.800 seconds
+Text: those tax credits are transferable.
+--------------------------------------------------
+City Manager:
+Start: 00:20:03.060
+End: 00:20:10.620
+Duration: 7.560 seconds
+Text: So there's a lot that can fall into the category of qualified expenditures.
+--------------------------------------------------
+City Manager:
+Start: 00:20:10.620
+End: 00:20:12.380
+Duration: 1.760 seconds
+Text: Here's a list.
+--------------------------------------------------
+City Manager:
+Start: 00:20:12.380
+End: 00:20:16.060
+Duration: 3.680 seconds
+Text: Anything that wouldn't fall out of the building if you turned it upside down and shook it
+--------------------------------------------------
+City Manager:
+Start: 00:20:16.060
+End: 00:20:20.900
+Duration: 4.840 seconds
+Text: would qualify for tax credits.
+--------------------------------------------------
+City Manager:
+Start: 00:20:20.900
+End: 00:20:25.820
+Duration: 4.920 seconds
+Text: Furthermore there are grants that are available through the state and other non-government organizations
+--------------------------------------------------
+City Manager:
+Start: 00:20:25.820
+End: 00:20:28.900
+Duration: 3.080 seconds
+Text: on occasion.
+--------------------------------------------------
+City Manager:
+Start: 00:20:28.900
+End: 00:20:34.100
+Duration: 5.200 seconds
+Text: To give you an idea of how those have been utilized in the city in 2021, just this last year,
+--------------------------------------------------
+City Manager:
+Start: 00:20:34.100
+End: 00:20:40.140
+Duration: 6.040 seconds
+Text: we had three cores of a million in improvements in historic districts and properties and
+--------------------------------------------------
+City Manager:
+Start: 00:20:40.140
+End: 00:20:45.060
+Duration: 4.920 seconds
+Text: $1.3 million in tax credits issued throughout the city.
+--------------------------------------------------
+City Manager:
+Start: 00:20:45.060
+End: 00:20:50.140
+Duration: 5.080 seconds
+Text: Since 2002, when we started measuring this, we've had 5.1 million issued to property
+--------------------------------------------------
+City Manager:
+Start: 00:20:50.140
+End: 00:20:54.100
+Duration: 3.960 seconds
+Text: owners in the city with another 1 million in the pike.
+--------------------------------------------------
+City Manager:
+Start: 00:20:54.100
+End: 00:20:58.060
+Duration: 3.960 seconds
+Text: There's a little graph of what that looks like.
+--------------------------------------------------
+City Manager:
+Start: 00:20:58.060
+End: 00:21:05.140
+Duration: 7.080 seconds
+Text: So we've had a pretty recent boom in improvements to historic properties and utilization of tax
+--------------------------------------------------
+City Manager:
+Start: 00:21:05.140
+End: 00:21:06.140
+Duration: 1.000 seconds
+Text: credits.
+--------------------------------------------------
+City Manager:
+Start: 00:21:06.140
+End: 00:21:11.940
+Duration: 5.800 seconds
+Text: So the other side of the coin with those financial incentives is an additional review for projects
+--------------------------------------------------
+City Manager:
+Start: 00:21:11.940
+End: 00:21:14.980
+Duration: 3.040 seconds
+Text: affecting historic property.
+--------------------------------------------------
+City Manager:
+Start: 00:21:14.980
+End: 00:21:19.820
+Duration: 4.840 seconds
+Text: Because the city of Manhattan has a certified local government, we can do those reviews here
+--------------------------------------------------
+City Manager:
+Start: 00:21:19.820
+End: 00:21:23.020
+Duration: 3.200 seconds
+Text: at the city, as opposed to in Topeka.
+--------------------------------------------------
+City Manager:
+Start: 00:21:23.020
+End: 00:21:28.620
+Duration: 5.600 seconds
+Text: Any time a building permit, don't permit sign permit, or zoning action, public improvement
+--------------------------------------------------
+City Manager:
+Start: 00:21:28.620
+End: 00:21:31.460
+Duration: 2.840 seconds
+Text: happens on one of the properties.
+--------------------------------------------------
+City Manager:
+Start: 00:21:31.460
+End: 00:21:36.260
+Duration: 4.800 seconds
+Text: It has to be reviewed either by city staff, if it's small enough, or the HRB if it's what's
+--------------------------------------------------
+City Manager:
+Start: 00:21:36.260
+End: 00:21:38.300
+Duration: 2.040 seconds
+Text: considered a major project.
+--------------------------------------------------
+City Manager:
+Start: 00:21:38.300
+End: 00:21:44.700
+Duration: 6.400 seconds
+Text: The HRB utilizes the secretary of interior standards in order to judge those projects
+--------------------------------------------------
+City Manager:
+Start: 00:21:44.700
+End: 00:21:47.820
+Duration: 3.120 seconds
+Text: compatibility.
+--------------------------------------------------
+City Manager:
+Start: 00:21:47.820
+End: 00:21:57.060
+Duration: 9.240 seconds
+Text: To give you an idea of how that has played out in recent history, so since 2019, 61 projects
+--------------------------------------------------
+City Manager:
+Start: 00:21:57.060
+End: 00:22:00.820
+Duration: 3.760 seconds
+Text: have been reviewed by the city through that process.
+--------------------------------------------------
+City Manager:
+Start: 00:22:00.820
+End: 00:22:07.780
+Duration: 6.960 seconds
+Text: 46 were reviewed and approved by staff, 15 reviewed and approved by the HRB of those that
+--------------------------------------------------
+City Manager:
+Start: 00:22:07.780
+End: 00:22:09.780
+Duration: 2.000 seconds
+Text: went to the HRB.
+--------------------------------------------------
+City Manager:
+Start: 00:22:09.780
+End: 00:22:14.980
+Duration: 5.200 seconds
+Text: Four were denied, two were modified, resummeted and approved, two were appealed to the city
+--------------------------------------------------
+City Manager:
+Start: 00:22:14.980
+End: 00:22:21.020
+Duration: 6.040 seconds
+Text: commission, and as you are familiar, one was overturned and the other upheld.
+--------------------------------------------------
+City Manager:
+Start: 00:22:21.020
+End: 00:22:26.100
+Duration: 5.080 seconds
+Text: Prior to 2019, there were 106 projects reviewed by the city, none of which were denied by
+--------------------------------------------------
+City Manager:
+Start: 00:22:26.100
+End: 00:22:28.420
+Duration: 2.320 seconds
+Text: staff or the HRB.
+--------------------------------------------------
+City Manager:
+Start: 00:22:28.420
+End: 00:22:35.380
+Duration: 6.960 seconds
+Text: So since 2014, which is around when I started with the city, between staff and HRB, we have
+--------------------------------------------------
+City Manager:
+Start: 00:22:35.380
+End: 00:22:38.540
+Duration: 3.160 seconds
+Text: an approval rating of 97.6%.
+--------------------------------------------------
+City Manager:
+Start: 00:22:38.540
+End: 00:22:48.420
+Duration: 9.880 seconds
+Text: If you count going to city commission for appeals, that number increases to 99.4%.
+--------------------------------------------------
+City Manager:
+Start: 00:22:48.420
+End: 00:22:55.540
+Duration: 7.120 seconds
+Text: So tonight, we're soliciting support consent from the city commission to be included in
+--------------------------------------------------
+City Manager:
+Start: 00:22:55.540
+End: 00:22:57.660
+Duration: 2.120 seconds
+Text: this historic district.
+--------------------------------------------------
+City Manager:
+Start: 00:22:57.660
+End: 00:23:04.840
+Duration: 7.180 seconds
+Text: The state requires that 50% of property owners within the district consent or rather not
+--------------------------------------------------
+City Manager:
+Start: 00:23:04.840
+End: 00:23:07.140
+Duration: 2.300 seconds
+Text: oppose the nomination.
+--------------------------------------------------
+City Manager:
+Start: 00:23:07.140
+End: 00:23:14.820
+Duration: 7.680 seconds
+Text: We have four total owners in this district, one of which is the city of Manhattan.
+--------------------------------------------------
+City Manager:
+Start: 00:23:14.820
+End: 00:23:23.540
+Duration: 8.720 seconds
+Text: So currently, since city staff has gotten support, letters of support from those other three
+--------------------------------------------------
+City Manager:
+Start: 00:23:23.540
+End: 00:23:30.060
+Duration: 6.520 seconds
+Text: property owners, so currently we're at 75% consent.
+--------------------------------------------------
+City Manager:
+Start: 00:23:30.060
+End: 00:23:34.940
+Duration: 4.880 seconds
+Text: The way it works with historic districts, it's just the number of property owners, it
+--------------------------------------------------
+City Manager:
+Start: 00:23:34.940
+End: 00:23:39.620
+Duration: 4.680 seconds
+Text: doesn't matter how much property you own or how many properties.
+--------------------------------------------------
+City Manager:
+Start: 00:23:39.620
+End: 00:23:47.060
+Duration: 7.440 seconds
+Text: So it's looking at the senate in the house at the federal legislature, it works more
+--------------------------------------------------
+City Manager:
+Start: 00:23:47.060
+End: 00:23:50.060
+Duration: 3.000 seconds
+Text: like the senate than it does the house.
+--------------------------------------------------
+City Manager:
+Start: 00:23:50.060
+End: 00:23:56.860
+Duration: 6.800 seconds
+Text: So whereas 75% right now and staff is looking for consent from the city.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:23:56.860
+End: 00:24:03.860
+Duration: 7.000 seconds
+Text: Before you leave that map, the question mark there on that parking lot, explain that,
+--------------------------------------------------
+City Manager:
+Start: 00:24:03.860
+End: 00:24:05.420
+Duration: 1.560 seconds
+Text: please.
+--------------------------------------------------
+City Manager:
+Start: 00:24:05.420
+End: 00:24:09.420
+Duration: 4.000 seconds
+Text: So these three properties with the question marks over the Margar City Own.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:24:09.420
+End: 00:24:14.900
+Duration: 5.480 seconds
+Text: So the parking lot there by the, between the Douglas Center and the church is owned
+--------------------------------------------------
+Mayor Morris:
+Start: 00:24:14.900
+End: 00:24:15.900
+Duration: 1.000 seconds
+Text: by the city.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:24:15.900
+End: 00:24:16.900
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+City Manager:
+Start: 00:24:16.900
+End: 00:24:21.940
+Duration: 5.040 seconds
+Text: I'm not sure why, but it is a separate property.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:24:21.940
+End: 00:24:28.740
+Duration: 6.800 seconds
+Text: I knew we had some issues being able to, for the public park in the parking lot because
+--------------------------------------------------
+Mayor Morris:
+Start: 00:24:28.740
+End: 00:24:32.580
+Duration: 3.840 seconds
+Text: the church, do we lease it or something to the church?
+--------------------------------------------------
+Mayor Morris:
+Start: 00:24:32.580
+End: 00:24:35.700
+Duration: 3.120 seconds
+Text: How there were issues in the past.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:24:35.700
+End: 00:24:39.420
+Duration: 3.720 seconds
+Text: I don't, I don't remember the history.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:24:39.420
+End: 00:24:43.140
+Duration: 3.720 seconds
+Text: My recollection is that we, we've always, it's always been a parking lot, it's not always
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:24:43.140
+End: 00:24:44.500
+Duration: 1.360 seconds
+Text: been a paved parking lot.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:24:44.500
+End: 00:24:45.500
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:24:45.500
+End: 00:24:46.500
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:24:46.500
+End: 00:24:48.900
+Duration: 2.400 seconds
+Text: But when we did pave it, it created more use.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:24:48.900
+End: 00:24:55.900
+Duration: 7.000 seconds
+Text: And so we've had, I don't know, I don't recall and they may recall, but the, I don't think
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:24:55.900
+End: 00:25:00.580
+Duration: 4.680 seconds
+Text: we ever had a lease arrangements, we just had an agreement that allows them to use it when
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:25:00.580
+End: 00:25:01.900
+Duration: 1.320 seconds
+Text: we don't need to use it.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:25:01.900
+End: 00:25:02.900
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:25:02.900
+End: 00:25:04.820
+Duration: 1.920 seconds
+Text: Those are fairly compatible times.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:25:04.820
+End: 00:25:05.820
+Duration: 1.000 seconds
+Text: And it works very well.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:25:05.820
+End: 00:25:06.820
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:25:06.820
+End: 00:25:07.820
+Duration: 1.000 seconds
+Text: Good.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:25:07.820
+End: 00:25:09.820
+Duration: 2.000 seconds
+Text: I don't know what I'm remembering.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:25:09.820
+End: 00:25:10.820
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Manager:
+Start: 00:25:10.820
+End: 00:25:14.980
+Duration: 4.160 seconds
+Text: So this is the timeline moving forward.
+--------------------------------------------------
+City Manager:
+Start: 00:25:14.980
+End: 00:25:23.180
+Duration: 8.200 seconds
+Text: The nomination deadline for a final, final application is due August 7th.
+--------------------------------------------------
+City Manager:
+Start: 00:25:23.180
+End: 00:25:27.180
+Duration: 4.000 seconds
+Text: September 14th is a National Park Service Grant Application deadline.
+--------------------------------------------------
+City Manager:
+Start: 00:25:27.180
+End: 00:25:35.820
+Duration: 8.640 seconds
+Text: I'll bring that up because the reason the city, or city staff has moved the kind of the
+--------------------------------------------------
+City Manager:
+Start: 00:25:35.820
+End: 00:25:42.220
+Duration: 6.400 seconds
+Text: timeline on this project to the forefront is because of that grant application deadline.
+--------------------------------------------------
+City Manager:
+Start: 00:25:42.220
+End: 00:25:47.820
+Duration: 5.600 seconds
+Text: There's a private individual who at this time, which is to remain anonymous, who was looking
+--------------------------------------------------
+City Manager:
+Start: 00:25:47.820
+End: 00:25:54.980
+Duration: 7.160 seconds
+Text: to establish a Black History Museum and Cultural Center within the district.
+--------------------------------------------------
+City Manager:
+Start: 00:25:54.980
+End: 00:26:01.140
+Duration: 6.160 seconds
+Text: That grant would, that project would qualify for funds from that grant.
+--------------------------------------------------
+City Manager:
+Start: 00:26:01.140
+End: 00:26:07.420
+Duration: 6.280 seconds
+Text: But the, its qualifications depend on it being eligible for the National Register.
+--------------------------------------------------
+City Manager:
+Start: 00:26:07.420
+End: 00:26:14.400
+Duration: 6.980 seconds
+Text: So this was a project that city staff was exploring the pursuit of and that private
+--------------------------------------------------
+City Manager:
+Start: 00:26:14.400
+End: 00:26:20.580
+Duration: 6.180 seconds
+Text: endeavor just sort of lined up well with our timeline.
+--------------------------------------------------
+City Manager:
+Start: 00:26:20.580
+End: 00:26:25.700
+Duration: 5.120 seconds
+Text: So if the nomination were to move forward and submit in August 7th, it would go to the
+--------------------------------------------------
+City Manager:
+Start: 00:26:25.700
+End: 00:26:33.340
+Duration: 7.640 seconds
+Text: November 5th State Sites Review Board Meeting for state listing.
+--------------------------------------------------
+City Manager:
+Start: 00:26:33.340
+End: 00:26:40.140
+Duration: 6.800 seconds
+Text: This is the request that is mentioned in your packets consent from the city as a property
+--------------------------------------------------
+City Manager:
+Start: 00:26:40.140
+End: 00:26:45.420
+Duration: 5.280 seconds
+Text: owner and direction for city administration to submit the nomination.
+--------------------------------------------------
+City Manager:
+Start: 00:26:45.420
+End: 00:26:50.620
+Duration: 5.200 seconds
+Text: I'll say it for questions.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:26:50.620
+End: 00:26:51.620
+Duration: 1.000 seconds
+Text: Questions?
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:26:51.620
+End: 00:26:52.620
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:26:52.620
+End: 00:26:53.620
+Duration: 1.000 seconds
+Text: Thanks Ben.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:26:53.620
+End: 00:26:56.660
+Duration: 3.040 seconds
+Text: For the presentation.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:26:56.660
+End: 00:27:02.060
+Duration: 5.400 seconds
+Text: So out of the, my understanding is it doesn't matter the percentage of property that's being
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:27:02.060
+End: 00:27:08.100
+Duration: 6.040 seconds
+Text: owned by any of the four property owners, you just need the majority of the property
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:27:08.100
+End: 00:27:09.740
+Duration: 1.640 seconds
+Text: owners to approve it.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:27:09.740
+End: 00:27:12.260
+Duration: 2.520 seconds
+Text: So you have 75% already.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:27:12.260
+End: 00:27:17.660
+Duration: 5.400 seconds
+Text: So even if this commission voted, let's say not to move forward with it, you still have
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:27:17.660
+End: 00:27:18.660
+Duration: 1.000 seconds
+Text: the 75%.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:27:18.660
+End: 00:27:24.140
+Duration: 5.480 seconds
+Text: So is there any barriers to that for it to still move forward or?
+--------------------------------------------------
+City Manager:
+Start: 00:27:24.140
+End: 00:27:28.940
+Duration: 4.800 seconds
+Text: Staff would not submit that nomination if it were not the direction that the city commission
+--------------------------------------------------
+City Manager:
+Start: 00:27:28.940
+End: 00:27:29.940
+Duration: 1.000 seconds
+Text: wanted to go.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:27:29.940
+End: 00:27:32.620
+Duration: 2.680 seconds
+Text: So one of the other property owners have to take it up, I suppose.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:27:32.620
+End: 00:27:34.620
+Duration: 2.000 seconds
+Text: Potentially, yeah.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:27:34.620
+End: 00:27:47.300
+Duration: 12.680 seconds
+Text: And for, I believe the Federal Douglass, Federal Douglass Advisory Board approved and the Manhattan
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:27:47.300
+End: 00:27:53.860
+Duration: 6.560 seconds
+Text: Parks and Rec Advisory Board as well as the Historic Resources Advisory Board all approved
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:27:53.860
+End: 00:27:54.860
+Duration: 1.000 seconds
+Text: it, right?
+--------------------------------------------------
+City Manager:
+Start: 00:27:54.860
+End: 00:27:58.380
+Duration: 3.520 seconds
+Text: Yeah, all three boards were unanimous in there.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:27:58.380
+End: 00:28:01.060
+Duration: 2.680 seconds
+Text: They were approval and support of this.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:28:01.060
+End: 00:28:03.620
+Duration: 2.560 seconds
+Text: And is there any other area in our community?
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:28:03.620
+End: 00:28:05.260
+Duration: 1.640 seconds
+Text: You may have mentioned it.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:28:05.260
+End: 00:28:06.260
+Duration: 1.000 seconds
+Text: I'm not sure.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:28:06.260
+End: 00:28:14.580
+Duration: 8.320 seconds
+Text: Any other area in our community that's been designated or has historic perspective as far
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:28:14.580
+End: 00:28:20.980
+Duration: 6.400 seconds
+Text: as the African American community and their importance or impact on our community as any
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:28:20.980
+End: 00:28:24.100
+Duration: 3.120 seconds
+Text: other area in Manhattan been designated as such.
+--------------------------------------------------
+City Manager:
+Start: 00:28:24.100
+End: 00:28:28.700
+Duration: 4.600 seconds
+Text: There are no individual resources, I don't think so either.
+--------------------------------------------------
+City Manager:
+Start: 00:28:28.700
+End: 00:28:34.980
+Duration: 6.280 seconds
+Text: This would be the first historic designation of the recognizing specifically Black history
+--------------------------------------------------
+City Manager:
+Start: 00:28:34.980
+End: 00:28:36.300
+Duration: 1.320 seconds
+Text: within the city.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:28:36.300
+End: 00:28:40.100
+Duration: 3.800 seconds
+Text: Okay, thank you.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:28:40.100
+End: 00:28:47.700
+Duration: 7.600 seconds
+Text: So, there's been a change over the years now with the whole environment thing.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:28:47.700
+End: 00:28:53.660
+Duration: 5.960 seconds
+Text: If this is designated a historic district, if you're outside of the boundary, you can
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:28:53.660
+End: 00:28:58.820
+Duration: 5.160 seconds
+Text: still, you don't have to run any kind of, if someone's to put privacy fence or build
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:28:58.820
+End: 00:29:03.220
+Duration: 4.400 seconds
+Text: a shed in their backyard, they don't have to go through the historic.
+--------------------------------------------------
+City Manager:
+Start: 00:29:03.220
+End: 00:29:04.220
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:29:04.220
+End: 00:29:06.460
+Duration: 2.240 seconds
+Text: Or do they, how's that work now?
+--------------------------------------------------
+City Manager:
+Start: 00:29:06.460
+End: 00:29:11.420
+Duration: 4.960 seconds
+Text: Yeah, environments, environments law was struck down in 2013.
+--------------------------------------------------
+City Manager:
+Start: 00:29:11.420
+End: 00:29:17.420
+Duration: 6.000 seconds
+Text: So any property, property outside of a historic district is not affected by the existence
+--------------------------------------------------
+City Manager:
+Start: 00:29:17.420
+End: 00:29:18.420
+Duration: 1.000 seconds
+Text: of that district.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:29:18.420
+End: 00:29:19.420
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:29:19.420
+End: 00:29:23.420
+Duration: 4.000 seconds
+Text: I just want to make sure.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:29:23.420
+End: 00:29:30.220
+Duration: 6.800 seconds
+Text: One of the question I had, a good presentation appears that everything's on in order or everything
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:29:30.220
+End: 00:29:31.460
+Duration: 1.240 seconds
+Text: makes sense.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:29:31.460
+End: 00:29:37.300
+Duration: 5.840 seconds
+Text: Everybody's approved and they were the last one of the properties to and to approve this.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:29:37.300
+End: 00:29:39.300
+Duration: 2.000 seconds
+Text: We've got someone wanting to do a project.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:29:39.300
+End: 00:29:42.140
+Duration: 2.840 seconds
+Text: It sounds like a really good project.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:29:42.140
+End: 00:29:47.140
+Duration: 5.000 seconds
+Text: I always get worried with these historical things that something comes back later that, you
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:29:47.140
+End: 00:29:53.340
+Duration: 6.200 seconds
+Text: know, that we can't do a development or we, some private property owners forced to do
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:29:53.340
+End: 00:29:54.340
+Duration: 1.000 seconds
+Text: something.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:29:54.340
+End: 00:30:02.260
+Duration: 7.920 seconds
+Text: But I really can't find anything in this one that I really worry about in any way.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:30:02.260
+End: 00:30:05.540
+Duration: 3.280 seconds
+Text: Is there anything I should be worried about?
+--------------------------------------------------
+City Manager:
+Start: 00:30:05.540
+End: 00:30:10.700
+Duration: 5.160 seconds
+Text: Good question.
+--------------------------------------------------
+City Manager:
+Start: 00:30:10.700
+End: 00:30:18.100
+Duration: 7.400 seconds
+Text: This has been very simple compared to other historic districts establishing them in the past.
+--------------------------------------------------
+City Manager:
+Start: 00:30:18.100
+End: 00:30:23.580
+Duration: 5.480 seconds
+Text: That simply comes from unanimous support from the property owners within them.
+--------------------------------------------------
+City Manager:
+Start: 00:30:23.580
+End: 00:30:29.420
+Duration: 5.840 seconds
+Text: We have larger historic districts that, you know, we're dealing with 40, 50, 60 property
+--------------------------------------------------
+City Manager:
+Start: 00:30:29.420
+End: 00:30:34.620
+Duration: 5.200 seconds
+Text: owners and many of them are not okay with being in a historic district.
+--------------------------------------------------
+City Manager:
+Start: 00:30:34.620
+End: 00:30:41.580
+Duration: 6.960 seconds
+Text: So this is very rare that we have this much support from those within the district that
+--------------------------------------------------
+City Manager:
+Start: 00:30:41.580
+End: 00:30:43.980
+Duration: 2.400 seconds
+Text: have a vested interest.
+--------------------------------------------------
+City Manager:
+Start: 00:30:43.980
+End: 00:30:48.300
+Duration: 4.320 seconds
+Text: What's your point about, you know, potential pitfalls in the future?
+--------------------------------------------------
+City Manager:
+Start: 00:30:48.300
+End: 00:30:57.700
+Duration: 9.400 seconds
+Text: I did mention the restrictions or rather the additional review process that projects affecting
+--------------------------------------------------
+City Manager:
+Start: 00:30:57.700
+End: 00:31:01.060
+Duration: 3.360 seconds
+Text: these structures in the district have to go through.
+--------------------------------------------------
+City Manager:
+Start: 00:31:01.060
+End: 00:31:07.460
+Duration: 6.400 seconds
+Text: This commission is well familiar with the appeal process that is in place should there
+--------------------------------------------------
+City Manager:
+Start: 00:31:07.540
+End: 00:31:14.780
+Duration: 7.240 seconds
+Text: be an instance where it is maybe not necessary to adhere to the standards that the secretary
+--------------------------------------------------
+City Manager:
+Start: 00:31:14.780
+End: 00:31:17.940
+Duration: 3.160 seconds
+Text: of the interiors laid out.
+--------------------------------------------------
+City Manager:
+Start: 00:31:17.940
+End: 00:31:24.940
+Duration: 7.000 seconds
+Text: The city has quite a bit of control in this district being, you know, owning two of the resources
+--------------------------------------------------
+City Manager:
+Start: 00:31:24.940
+End: 00:31:27.860
+Duration: 2.920 seconds
+Text: within the district.
+--------------------------------------------------
+City Manager:
+Start: 00:31:27.860
+End: 00:31:33.940
+Duration: 6.080 seconds
+Text: If you're familiar with those appeal processes, you know, the city of Manhattan does have
+--------------------------------------------------
+City Manager:
+Start: 00:31:33.940
+End: 00:31:38.660
+Duration: 4.720 seconds
+Text: a lot of leverage when it comes to, you know, deciding if a project should move forward
+--------------------------------------------------
+City Manager:
+Start: 00:31:38.660
+End: 00:31:40.660
+Duration: 2.000 seconds
+Text: or not.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:31:40.660
+End: 00:31:44.660
+Duration: 4.000 seconds
+Text: So I'll take that as not really.
+--------------------------------------------------
+City Manager:
+Start: 00:31:44.660
+End: 00:31:47.260
+Duration: 2.600 seconds
+Text: Staff has no major concerns.
+--------------------------------------------------
+City Manager:
+Start: 00:31:47.260
+End: 00:31:53.020
+Duration: 5.760 seconds
+Text: The Douglas Activity Center was completed.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:31:53.020
+End: 00:32:00.220
+Duration: 7.200 seconds
+Text: And you just might walk through a situation where if there's a park improvement proposed
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:32:00.220
+End: 00:32:05.060
+Duration: 4.840 seconds
+Text: within the confines of the district, just the process that would go say maybe a new picnic
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:32:05.060
+End: 00:32:06.060
+Duration: 1.000 seconds
+Text: shelter or something.
+--------------------------------------------------
+City Manager:
+Start: 00:32:06.060
+End: 00:32:07.780
+Duration: 1.720 seconds
+Text: Yeah, absolutely.
+--------------------------------------------------
+City Manager:
+Start: 00:32:07.780
+End: 00:32:13.940
+Duration: 6.160 seconds
+Text: So in that example, a new picnic shelter that would require a review.
+--------------------------------------------------
+City Manager:
+Start: 00:32:13.940
+End: 00:32:18.340
+Duration: 4.400 seconds
+Text: We would, staff would consider that a minor review and then city administration or city
+--------------------------------------------------
+City Manager:
+Start: 00:32:18.340
+End: 00:32:20.140
+Duration: 1.800 seconds
+Text: staff could approve of that.
+--------------------------------------------------
+City Manager:
+Start: 00:32:20.140
+End: 00:32:26.700
+Duration: 6.560 seconds
+Text: I wouldn't see any issue with the construction of a shelter under any circumstances unless
+--------------------------------------------------
+City Manager:
+Start: 00:32:26.700
+End: 00:32:31.780
+Duration: 5.080 seconds
+Text: it were really large.
+--------------------------------------------------
+City Manager:
+Start: 00:32:31.780
+End: 00:32:37.980
+Duration: 6.200 seconds
+Text: Another example, so the Douglas Activity Center, were that, were this district in place
+--------------------------------------------------
+City Manager:
+Start: 00:32:37.980
+End: 00:32:42.540
+Duration: 4.560 seconds
+Text: and were proposed to be located in the actual park here?
+--------------------------------------------------
+City Manager:
+Start: 00:32:42.540
+End: 00:32:48.460
+Duration: 5.920 seconds
+Text: Staff may have some reservations about that and I imagine the HRB would as well.
+--------------------------------------------------
+City Manager:
+Start: 00:32:48.460
+End: 00:32:56.140
+Duration: 7.680 seconds
+Text: You know, there may be a higher standard for materials or what the site layout of that
+--------------------------------------------------
+City Manager:
+Start: 00:32:56.140
+End: 00:32:58.980
+Duration: 2.840 seconds
+Text: would look like.
+--------------------------------------------------
+City Manager:
+Start: 00:32:58.980
+End: 00:33:07.220
+Duration: 8.240 seconds
+Text: But being, being that there's an appeal process, if that were to go to the city commission,
+--------------------------------------------------
+City Manager:
+Start: 00:33:07.220
+End: 00:33:11.900
+Duration: 4.680 seconds
+Text: you know, you could cite a, you know, a park's plan that said that, no, this is the location
+--------------------------------------------------
+City Manager:
+Start: 00:33:11.900
+End: 00:33:15.740
+Duration: 3.840 seconds
+Text: and it's, you know, for, for the good of the community to have this here.
+--------------------------------------------------
+City Manager:
+Start: 00:33:15.740
+End: 00:33:19.180
+Duration: 3.440 seconds
+Text: I don't know, does that help?
+--------------------------------------------------
+Mayor Morris:
+Start: 00:33:20.060
+End: 00:33:25.460
+Duration: 5.400 seconds
+Text: The only thing I can think of that might be a variable is the red basket.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:33:25.460
+End: 00:33:31.180
+Duration: 5.720 seconds
+Text: It might not, these buildings have stood the test of time for the most part.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:33:31.180
+End: 00:33:39.220
+Duration: 8.040 seconds
+Text: But the red basket is not probably going to be preserved forever.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:33:39.220
+End: 00:33:44.580
+Duration: 5.360 seconds
+Text: So if it were to move and I can see as the community grows the need for the red basket
+--------------------------------------------------
+Mayor Morris:
+Start: 00:33:44.580
+End: 00:33:48.780
+Duration: 4.200 seconds
+Text: it could be expanded or the size or it could move.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:33:48.780
+End: 00:33:52.500
+Duration: 3.720 seconds
+Text: Just, this isn't a what if question.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:33:52.500
+End: 00:33:55.100
+Duration: 2.600 seconds
+Text: It's in the district.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:33:55.100
+End: 00:33:56.100
+Duration: 1.000 seconds
+Text: It is not.
+--------------------------------------------------
+City Manager:
+Start: 00:33:56.100
+End: 00:33:58.100
+Duration: 2.000 seconds
+Text: It's just south of the alley here.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:33:58.100
+End: 00:33:59.100
+Duration: 1.000 seconds
+Text: It's outside.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:33:59.100
+End: 00:34:00.100
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:34:00.100
+End: 00:34:05.380
+Duration: 5.280 seconds
+Text: Now, so the question then is, if something is within so many feet of the district, is it
+--------------------------------------------------
+Mayor Morris:
+Start: 00:34:05.380
+End: 00:34:06.380
+Duration: 1.000 seconds
+Text: affected?
+--------------------------------------------------
+City Manager:
+Start: 00:34:06.380
+End: 00:34:07.380
+Duration: 1.000 seconds
+Text: No.
+--------------------------------------------------
+City Manager:
+Start: 00:34:07.380
+End: 00:34:08.380
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Manager:
+Start: 00:34:08.380
+End: 00:34:09.380
+Duration: 1.000 seconds
+Text: It is not.
+--------------------------------------------------
+City Manager:
+Start: 00:34:09.580
+End: 00:34:20.980
+Duration: 11.400 seconds
+Text: We did go through some review with a parking lot here that will be renewed.
+--------------------------------------------------
+City Manager:
+Start: 00:34:20.980
+End: 00:34:25.500
+Duration: 4.520 seconds
+Text: We did kind of have an eye toward preservation in that, but, you know, just replacing the
+--------------------------------------------------
+City Manager:
+Start: 00:34:25.500
+End: 00:34:26.500
+Duration: 1.000 seconds
+Text: parking lot.
+--------------------------------------------------
+City Manager:
+Start: 00:34:26.500
+End: 00:34:29.660
+Duration: 3.160 seconds
+Text: There's really nothing to have an objection to.
+--------------------------------------------------
+City Manager:
+Start: 00:34:29.660
+End: 00:34:32.620
+Duration: 2.960 seconds
+Text: This building was demolished recently.
+--------------------------------------------------
+City Manager:
+Start: 00:34:32.620
+End: 00:34:36.300
+Duration: 3.680 seconds
+Text: It's just a tin, basically a glorified tin shed.
+--------------------------------------------------
+City Manager:
+Start: 00:34:37.300
+End: 00:34:42.140
+Duration: 4.840 seconds
+Text: The demolition of that wouldn't have been an issue, you know, not being a building that
+--------------------------------------------------
+City Manager:
+Start: 00:34:42.140
+End: 00:34:44.620
+Duration: 2.480 seconds
+Text: really contributes to the historic nature.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:34:44.620
+End: 00:34:45.620
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:34:45.620
+End: 00:34:46.620
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:34:46.620
+End: 00:34:50.780
+Duration: 4.160 seconds
+Text: I'm saying no more questions.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:34:50.780
+End: 00:34:56.940
+Duration: 6.160 seconds
+Text: I'd like to open the meeting to public comment.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:34:56.940
+End: 00:35:01.820
+Duration: 4.880 seconds
+Text: Members of the public are welcome to come forward, state your name and your address and
+--------------------------------------------------
+Mayor Morris:
+Start: 00:35:01.820
+End: 00:35:08.460
+Duration: 6.640 seconds
+Text: sign the paper and who you might be representing.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:35:08.460
+End: 00:35:13.460
+Duration: 5.000 seconds
+Text: Each speaker has five minutes and I can only speak once.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:35:13.460
+End: 00:35:17.140
+Duration: 3.680 seconds
+Text: We'll take your comments under advice.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:35:17.140
+End: 00:35:21.500
+Duration: 4.360 seconds
+Text: And if you'd like to come forward, please now is the time.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:35:21.500
+End: 00:35:26.300
+Duration: 4.800 seconds
+Text: You're on the hot seat, David Baker.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:35:26.300
+End: 00:35:29.540
+Duration: 3.240 seconds
+Text: No, welcome.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:35:29.540
+End: 00:35:40.860
+Duration: 11.320 seconds
+Text: Commissioner, my name is Dave Baker.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:35:40.860
+End: 00:35:44.420
+Duration: 3.560 seconds
+Text: I resided 2626 Sue Mac here in Manhattan.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:35:44.420
+End: 00:35:50.460
+Duration: 6.040 seconds
+Text: I still own my property that I was born and raised in at 1231, and I'm here to solicit
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:35:50.460
+End: 00:35:54.260
+Duration: 3.800 seconds
+Text: your support for this human street historical district.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:35:54.260
+End: 00:35:57.980
+Duration: 3.720 seconds
+Text: I think it's very important.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:35:57.980
+End: 00:36:00.540
+Duration: 2.560 seconds
+Text: There's about three quick points here.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:36:00.540
+End: 00:36:03.900
+Duration: 3.360 seconds
+Text: I left Manhattan in 1984.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:36:03.900
+End: 00:36:07.020
+Duration: 3.120 seconds
+Text: My coaching career moved to Oklahoma.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:36:07.020
+End: 00:36:12.180
+Duration: 5.160 seconds
+Text: And when I left Fort Roller, Fort, for, for, for, for, you know, street was Fort Roller
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:36:12.180
+End: 00:36:14.660
+Duration: 2.480 seconds
+Text: Boulevard today.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:36:14.660
+End: 00:36:18.580
+Duration: 3.920 seconds
+Text: It was the main corridor on the south side of Manhattan, Kansas.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:36:18.580
+End: 00:36:22.900
+Duration: 4.320 seconds
+Text: And so you couldn't get from the east or the west side without going down you street.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:36:22.900
+End: 00:36:28.620
+Duration: 5.720 seconds
+Text: And so, you know, street is a very important street in this community.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:36:28.620
+End: 00:36:34.140
+Duration: 5.520 seconds
+Text: It was the main street of the black community as we once knew yesterday's black community
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:36:34.140
+End: 00:36:35.820
+Duration: 1.680 seconds
+Text: is gone.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:36:35.820
+End: 00:36:40.180
+Duration: 4.360 seconds
+Text: We do not, we have more African American people living in this community today than we did
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:36:40.180
+End: 00:36:47.780
+Duration: 7.600 seconds
+Text: back in the day, but they all do not live in one area as we did when I grew up here.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:36:47.780
+End: 00:36:53.420
+Duration: 5.640 seconds
+Text: There are five buildings left, only five buildings left on the south side of town on
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:36:53.420
+End: 00:36:55.100
+Duration: 1.680 seconds
+Text: UMass Street.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:36:55.100
+End: 00:37:01.420
+Duration: 6.320 seconds
+Text: Bethel Church, which is on 4th and UMass, Pilgrim Baptist Church right there at Nithon
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:37:01.420
+End: 00:37:09.100
+Duration: 7.680 seconds
+Text: UMass, Douglas Center, Douglas School, which was in the next and Shabber Chapel Church.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:37:09.100
+End: 00:37:12.580
+Duration: 3.480 seconds
+Text: Those buildings are very, very important to this community.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:37:12.580
+End: 00:37:14.100
+Duration: 1.520 seconds
+Text: There's no saying about history.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:37:14.100
+End: 00:37:17.380
+Duration: 3.280 seconds
+Text: Once it goes away, it does not come back.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:37:17.380
+End: 00:37:22.580
+Duration: 5.200 seconds
+Text: So I think it's very important that we reserve those facilities and make this a historical
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:37:22.580
+End: 00:37:23.580
+Duration: 1.000 seconds
+Text: district.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:37:23.580
+End: 00:37:30.220
+Duration: 6.640 seconds
+Text: I'm working with some people right now trying to refurbish the Shabber Chapel Church.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:37:30.220
+End: 00:37:36.100
+Duration: 5.880 seconds
+Text: And if we get that done, that will make that a wonderful historical district.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:37:36.100
+End: 00:37:39.580
+Duration: 3.480 seconds
+Text: And speaking with Ben today, I think there's only like four historical districts in Manhattan
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:37:39.580
+End: 00:37:40.580
+Duration: 1.000 seconds
+Text: and Kansas.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:37:40.580
+End: 00:37:42.060
+Duration: 1.480 seconds
+Text: That's not very many for it.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:37:42.060
+End: 00:37:43.540
+Duration: 1.480 seconds
+Text: It can be an exercise.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:37:43.540
+End: 00:37:47.340
+Duration: 3.800 seconds
+Text: So getting another one on the south side of Manhattan on UMass Street, I think we
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:37:47.340
+End: 00:37:50.140
+Duration: 2.800 seconds
+Text: would certainly be a nascent to this community.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:37:50.140
+End: 00:37:51.460
+Duration: 1.320 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:37:51.460
+End: 00:37:55.260
+Duration: 3.800 seconds
+Text: Thank you, David.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:37:55.260
+End: 00:37:57.260
+Duration: 2.000 seconds
+Text: Has anyone else wish to come forward?
+--------------------------------------------------
+City Clerk:
+Start: 00:37:57.260
+End: 00:38:05.580
+Duration: 8.320 seconds
+Text: Is there a pen?
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:38:05.580
+End: 00:38:17.300
+Duration: 11.720 seconds
+Text: Well, I think you know me.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:38:47.300
+End: 00:38:58.500
+Duration: 11.200 seconds
+Text: I'm Linda Glasgow, 2236 Snowbird Drive here in Manhattan.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:38:58.500
+End: 00:39:04.220
+Duration: 5.720 seconds
+Text: Tonight I'm representing the 65 families who are members of the Manhattan Rally County
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:39:04.220
+End: 00:39:06.580
+Duration: 2.360 seconds
+Text: Preservation Alliance.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:39:06.580
+End: 00:39:12.260
+Duration: 5.680 seconds
+Text: We enthusiastically support this proposed district.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:39:12.260
+End: 00:39:16.340
+Duration: 4.080 seconds
+Text: We think it will be a wonderful asset to our community.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:39:16.340
+End: 00:39:23.180
+Duration: 6.840 seconds
+Text: And I think it will be very interesting when a book that is proposed about the UMass
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:39:23.180
+End: 00:39:25.940
+Duration: 2.760 seconds
+Text: Street area will be published.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:39:25.940
+End: 00:39:32.420
+Duration: 6.480 seconds
+Text: I think we will all benefit from learning more about this very vibrant area that is very
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:39:32.420
+End: 00:39:36.180
+Duration: 3.760 seconds
+Text: different today than it was way back when.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:39:36.180
+End: 00:39:45.700
+Duration: 9.520 seconds
+Text: And I think it will be pretty fascinating to learn the impact that this little district
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:39:45.700
+End: 00:39:48.140
+Duration: 2.440 seconds
+Text: has had on the wider world.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:39:48.140
+End: 00:39:55.180
+Duration: 7.040 seconds
+Text: So again, we certainly do appreciate your efforts here tonight and thank the group that's
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:39:55.180
+End: 00:39:56.180
+Duration: 1.000 seconds
+Text: brought this forward.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:39:56.180
+End: 00:39:58.180
+Duration: 2.000 seconds
+Text: Thank you so much.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:39:58.180
+End: 00:40:02.180
+Duration: 4.000 seconds
+Text: Thank you, Linda.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:40:02.180
+End: 00:40:09.380
+Duration: 7.200 seconds
+Text: Good evening.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:40:09.380
+End: 00:40:10.900
+Duration: 1.520 seconds
+Text: My name is Kathy Jebel Towsie.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:40:10.900
+End: 00:40:13.300
+Duration: 2.400 seconds
+Text: I live at 100 South Delaware Avenue.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:40:13.300
+End: 00:40:16.180
+Duration: 2.880 seconds
+Text: I am very much in favor of this historic district.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:40:16.180
+End: 00:40:21.060
+Duration: 4.880 seconds
+Text: I think it will help all of us better understand and appreciate the history of this area and
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:40:21.060
+End: 00:40:23.340
+Duration: 2.280 seconds
+Text: its importance to our community.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:40:23.340
+End: 00:40:26.860
+Duration: 3.520 seconds
+Text: Another thing I wanted to mention that came up during the Parks and Reckover Advisory
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:40:26.860
+End: 00:40:32.060
+Duration: 5.200 seconds
+Text: Board meeting was it was mentioned that the city frequently gets federal funds to help
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:40:32.060
+End: 00:40:33.660
+Duration: 1.600 seconds
+Text: with the Douglas Center.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:40:33.660
+End: 00:40:38.660
+Duration: 5.000 seconds
+Text: And when federal funds are used, there's a review process called the Section 106 review.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:40:38.660
+End: 00:40:42.620
+Duration: 3.960 seconds
+Text: And there are a lot of things under that umbrella that get reviewed that aren't necessarily
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:40:42.620
+End: 00:40:49.660
+Duration: 7.040 seconds
+Text: applicable like environmental impact, burial grounds, things like that, but also under
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:40:49.660
+End: 00:40:51.940
+Duration: 2.280 seconds
+Text: that is historic preservation.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:40:51.940
+End: 00:40:58.540
+Duration: 6.600 seconds
+Text: So my point is that the city to some extent is already, every time they use federal funds,
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:40:58.540
+End: 00:41:04.900
+Duration: 6.360 seconds
+Text: already been doing sort of a review process in terms of historic preservation to make
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:41:04.900
+End: 00:41:09.780
+Duration: 4.880 seconds
+Text: sure that whatever work is happening is not going to cause a problem in terms of historic
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:41:09.780
+End: 00:41:10.780
+Duration: 1.000 seconds
+Text: preservation.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:41:10.780
+End: 00:41:14.700
+Duration: 3.920 seconds
+Text: And in a way, it won't be too much of an extra burden than what the city is already been
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:41:14.700
+End: 00:41:19.100
+Duration: 4.400 seconds
+Text: experiencing when they use federal funds on either the center or the annex.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:41:19.100
+End: 00:41:20.100
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:41:20.100
+End: 00:41:21.420
+Duration: 1.320 seconds
+Text: Thank you, Kathy.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:41:40.780
+End: 00:41:54.060
+Duration: 13.280 seconds
+Text: Even in Commissioner's, my name is Vincent Tracy.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:41:54.060
+End: 00:41:56.820
+Duration: 2.760 seconds
+Text: I live at 304 Knoxbury Drive.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:41:56.820
+End: 00:42:01.660
+Duration: 4.840 seconds
+Text: And I'm a member of the Masonic fraternity here in Manhattan.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:42:01.660
+End: 00:42:07.300
+Duration: 5.640 seconds
+Text: And my brothers and the Prince Hall affiliate are very much in favor of having this district
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:42:07.700
+End: 00:42:13.620
+Duration: 5.920 seconds
+Text: approved so that funding can be made available to make the Cove Blue structure back into
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:42:13.620
+End: 00:42:20.260
+Duration: 6.640 seconds
+Text: the thing that was a glory in the first church, black church in our community.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:42:20.260
+End: 00:42:23.860
+Duration: 3.600 seconds
+Text: So I'm asking you all to approve this.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:42:23.860
+End: 00:42:25.260
+Duration: 1.400 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:42:25.260
+End: 00:42:29.020
+Duration: 3.760 seconds
+Text: Thank you, Vince.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:42:29.020
+End: 00:42:34.060
+Duration: 5.040 seconds
+Text: Where is your Masonic fraternity you mentioned?
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:42:34.060
+End: 00:42:35.860
+Duration: 1.800 seconds
+Text: 321 Houston.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:42:35.860
+End: 00:42:36.860
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:42:37.860
+End: 00:42:40.860
+Duration: 3.000 seconds
+Text: I just didn't know.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:42:40.860
+End: 00:42:41.860
+Duration: 1.000 seconds
+Text: Thanks.
+--------------------------------------------------
+City Clerk:
+Start: 00:42:41.860
+End: 00:42:42.860
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:42:42.860
+End: 00:42:50.020
+Duration: 7.160 seconds
+Text: Does anyone else wish to speak to this issue?
+--------------------------------------------------
+Mayor Morris:
+Start: 00:42:50.020
+End: 00:42:55.260
+Duration: 5.240 seconds
+Text: He would come forward, please.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:42:55.260
+End: 00:42:58.260
+Duration: 3.000 seconds
+Text: One more recruit.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:42:58.260
+End: 00:43:10.740
+Duration: 12.480 seconds
+Text: My name is Carl Rivers.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:43:10.740
+End: 00:43:14.780
+Duration: 4.040 seconds
+Text: I live at 2119 Prairie Field here in Manhattan.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:43:14.780
+End: 00:43:21.940
+Duration: 7.160 seconds
+Text: And my family goes back in time, one of the founders as far as the bike, like Dave Baker
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:43:21.940
+End: 00:43:23.860
+Duration: 1.920 seconds
+Text: were related.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:43:23.860
+End: 00:43:28.780
+Duration: 4.920 seconds
+Text: And I just want to say I am in favor of this historical society.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:43:28.780
+End: 00:43:31.580
+Duration: 2.800 seconds
+Text: Got a lot of memories.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:43:31.580
+End: 00:43:34.220
+Duration: 2.640 seconds
+Text: I went to Shepherd's Church.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:43:34.220
+End: 00:43:40.420
+Duration: 6.200 seconds
+Text: The parking lot there next to the Mount Zion Church was where my aunt and uncle lived
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:43:40.420
+End: 00:43:42.020
+Duration: 1.600 seconds
+Text: for several years.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:43:42.020
+End: 00:43:46.420
+Duration: 4.400 seconds
+Text: The house was owned by my great uncle.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:43:46.420
+End: 00:43:51.500
+Duration: 5.080 seconds
+Text: And so it's my home area.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:43:51.500
+End: 00:43:56.860
+Duration: 5.360 seconds
+Text: And I would like to see it preserved.
+--------------------------------------------------
+City Clerk:
+Start: 00:43:56.860
+End: 00:44:21.340
+Duration: 24.480 seconds
+Text: Thank you, Carl.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:44:21.340
+End: 00:44:28.340
+Duration: 7.000 seconds
+Text: Does anyone else wish to come forward?
+--------------------------------------------------
+Mayor Morris:
+Start: 00:44:28.340
+End: 00:44:30.220
+Duration: 1.880 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:44:30.220
+End: 00:44:36.380
+Duration: 6.160 seconds
+Text: Seeing no one else, I will close the public hearing.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:44:36.380
+End: 00:44:38.620
+Duration: 2.240 seconds
+Text: Commissioners, do you have any more further questions?
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:44:38.620
+End: 00:44:43.940
+Duration: 5.320 seconds
+Text: I just want to ask the rec centers, not at all, in the district, goes the way that line
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:44:43.940
+End: 00:44:45.940
+Duration: 2.000 seconds
+Text: goes by the bread basket.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:44:45.940
+End: 00:44:46.940
+Duration: 1.000 seconds
+Text: It is not.
+--------------------------------------------------
+City Clerk:
+Start: 00:44:46.940
+End: 00:44:47.940
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:44:48.060
+End: 00:44:49.060
+Duration: 1.000 seconds
+Text: And I have any problems.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:44:49.060
+End: 00:44:50.660
+Duration: 1.600 seconds
+Text: Mark answered the question.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:44:50.660
+End: 00:44:55.060
+Duration: 4.400 seconds
+Text: I was concerned about to be sure that we don't have any problems with the development outside
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:44:55.060
+End: 00:44:59.540
+Duration: 4.480 seconds
+Text: of it, but the district itself looks like a winner.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:44:59.540
+End: 00:45:02.860
+Duration: 3.320 seconds
+Text: I really appreciate the city bringing this to us.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:45:02.860
+End: 00:45:10.140
+Duration: 7.280 seconds
+Text: And I think it's pretty significant to recognize and preserve our African-American community
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:45:10.140
+End: 00:45:16.500
+Duration: 6.360 seconds
+Text: within Manhattan for the future, for our children, as well as future families, and to recognize
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:45:16.500
+End: 00:45:24.860
+Duration: 8.360 seconds
+Text: it and put more funding into it, to make sure that it is, people can visit and make sure
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:45:24.860
+End: 00:45:28.740
+Duration: 3.880 seconds
+Text: that we are doing our due diligence to preserve it.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:45:28.740
+End: 00:45:32.900
+Duration: 4.160 seconds
+Text: So thank you for everybody here that commented on it and also has taken the initiative to
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:45:32.900
+End: 00:45:37.540
+Duration: 4.640 seconds
+Text: move it forward, as well as the anonymous applicant that would like to do more as far as
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:45:37.540
+End: 00:45:41.020
+Duration: 3.480 seconds
+Text: a museum in that area as well.
+--------------------------------------------------
+City Clerk:
+Start: 00:45:42.020
+End: 00:45:43.020
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:45:43.020
+End: 00:45:49.020
+Duration: 6.000 seconds
+Text: I'll make a motion to authorize the mayor to sign a letter of consent for the proposed
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:45:49.020
+End: 00:45:54.740
+Duration: 5.720 seconds
+Text: human-street historic district and direct city staff to finalize and submit a nomination
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:45:54.740
+End: 00:45:58.540
+Duration: 3.800 seconds
+Text: for the district to the state and national register of historic places.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:45:58.540
+End: 00:45:59.540
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:45:59.540
+End: 00:46:09.540
+Duration: 10.000 seconds
+Text: Okay. Under comments, now that we have a motion on the floor, I would just like to say
+--------------------------------------------------
+Mayor Morris:
+Start: 00:46:09.540
+End: 00:46:12.740
+Duration: 3.200 seconds
+Text: that I support this historic district.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:46:12.740
+End: 00:46:20.500
+Duration: 7.760 seconds
+Text: I think other communities have highlighted their African-American black heritage.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:46:20.500
+End: 00:46:27.700
+Duration: 7.200 seconds
+Text: I know that Junction City is initiating a, even a trail and I'm hopeful that it will
+--------------------------------------------------
+Mayor Morris:
+Start: 00:46:27.700
+End: 00:46:31.260
+Duration: 3.560 seconds
+Text: go further than, you know, come this way.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:46:31.260
+End: 00:46:36.580
+Duration: 5.320 seconds
+Text: But to peak, certainly, with the Brown V Board of Education site, there are, you know,
+--------------------------------------------------
+Mayor Morris:
+Start: 00:46:36.580
+End: 00:46:41.100
+Duration: 4.520 seconds
+Text: if we don't, and David Baker, you make a wonderful point that history will be lost if we
+--------------------------------------------------
+Mayor Morris:
+Start: 00:46:41.100
+End: 00:46:43.020
+Duration: 1.920 seconds
+Text: don't do something to preserve it.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:46:43.020
+End: 00:46:50.260
+Duration: 7.240 seconds
+Text: So this is our opportunity to make that difference.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:46:50.260
+End: 00:46:52.820
+Duration: 2.560 seconds
+Text: That's kind of, sorry, it's taken this long.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:46:52.820
+End: 00:46:53.820
+Duration: 1.000 seconds
+Text: It's 2022.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:46:53.820
+End: 00:46:56.340
+Duration: 2.520 seconds
+Text: It should have happened a while back, probably.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:46:56.340
+End: 00:46:59.260
+Duration: 2.920 seconds
+Text: So about at any rate, I plan to support it.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:46:59.260
+End: 00:47:01.260
+Duration: 2.000 seconds
+Text: Any other comments from commissioners?
+--------------------------------------------------
+Mayor Morris:
+Start: 00:47:01.260
+End: 00:47:02.260
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:47:02.260
+End: 00:47:04.780
+Duration: 2.520 seconds
+Text: City Clerk, would you call the role?
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:47:04.780
+End: 00:47:05.780
+Duration: 1.000 seconds
+Text: Mr. Butler?
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:47:05.780
+End: 00:47:06.780
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:47:06.780
+End: 00:47:07.780
+Duration: 1.000 seconds
+Text: Mr. Mata?
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:47:07.780
+End: 00:47:08.780
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:47:08.780
+End: 00:47:09.780
+Duration: 1.000 seconds
+Text: Mayor Morris?
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:47:09.780
+End: 00:47:10.780
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:47:10.780
+End: 00:47:11.780
+Duration: 1.000 seconds
+Text: Mr. Hassel?
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:47:11.780
+End: 00:47:12.780
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:47:12.780
+End: 00:47:13.780
+Duration: 1.000 seconds
+Text: Mr. Ready?
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:47:13.780
+End: 00:47:14.780
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:47:14.780
+End: 00:47:15.780
+Duration: 1.000 seconds
+Text: Motion carries.
+--------------------------------------------------
+City Clerk:
+Start: 00:47:15.780
+End: 00:47:16.780
+Duration: 1.000 seconds
+Text: 5-0.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:47:16.780
+End: 00:47:19.340
+Duration: 2.560 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:47:19.340
+End: 00:47:23.860
+Duration: 4.520 seconds
+Text: That concludes the actual business portion of our meeting.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:47:23.860
+End: 00:47:27.940
+Duration: 4.080 seconds
+Text: But there is an executive session planned for this evening.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:47:27.940
+End: 00:47:35.220
+Duration: 7.280 seconds
+Text: So we are estimating 30 minutes, and I need a motion.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:47:35.220
+End: 00:47:39.020
+Duration: 3.800 seconds
+Text: So who's prepared to offer that?
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:47:39.020
+End: 00:47:40.020
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:47:40.020
+End: 00:47:48.860
+Duration: 8.840 seconds
+Text: Mayor, I move that we go recess into executive session to discuss specific employees, performances,
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:47:48.860
+End: 00:48:00.180
+Duration: 11.320 seconds
+Text: pursuant to the exception set forth in KSA 75-4319B, one allowing for discussion of personnel
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:48:00.180
+End: 00:48:08.700
+Duration: 8.520 seconds
+Text: matters of non-elected personnel and to resume the open meeting at 715.
+--------------------------------------------------
+City Clerk:
+Start: 00:48:08.700
+End: 00:48:09.700
+Duration: 1.000 seconds
+Text: Yeah?
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:48:09.700
+End: 00:48:10.700
+Duration: 1.000 seconds
+Text: At 715.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:48:10.700
+End: 00:48:15.940
+Duration: 5.240 seconds
+Text: 720 in the City Commission room.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:48:15.940
+End: 00:48:17.940
+Duration: 2.000 seconds
+Text: I'll second.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:48:17.940
+End: 00:48:18.940
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:48:18.940
+End: 00:48:19.940
+Duration: 1.000 seconds
+Text: We have a motion and a second.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:48:19.940
+End: 00:48:20.940
+Duration: 1.000 seconds
+Text: Is there further discussion?
+--------------------------------------------------
+Mayor Morris:
+Start: 00:48:20.940
+End: 00:48:21.940
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:48:21.940
+End: 00:48:24.940
+Duration: 3.000 seconds
+Text: City Clerk, would you call the role?
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:48:24.940
+End: 00:48:25.940
+Duration: 1.000 seconds
+Text: Mr. Mata?
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:48:25.940
+End: 00:48:26.940
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:48:26.940
+End: 00:48:27.940
+Duration: 1.000 seconds
+Text: Mayor Morris?
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:48:27.940
+End: 00:48:28.940
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:48:28.940
+End: 00:48:29.940
+Duration: 1.000 seconds
+Text: Commissioner Hassel?
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:48:29.940
+End: 00:48:30.940
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:48:30.940
+End: 00:48:31.940
+Duration: 1.000 seconds
+Text: Commissioner Ready?
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:48:31.940
+End: 00:48:32.940
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:48:32.940
+End: 00:48:33.940
+Duration: 1.000 seconds
+Text: Commissioner Butler?
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:48:33.940
+End: 00:48:34.940
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:48:34.940
+End: 00:48:35.940
+Duration: 1.000 seconds
+Text: Motion carries.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:48:35.940
+End: 00:48:36.940
+Duration: 1.000 seconds
+Text: 5-0.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:48:36.940
+End: 00:48:37.940
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:48:37.940
+End: 00:48:38.940
+Duration: 1.000 seconds
+Text: What time is it, you should?
+--------------------------------------------------
+Mayor Morris:
+Start: 00:48:38.940
+End: 00:48:41.940
+Duration: 3.000 seconds
+Text: We will return to this room for the official adjournment.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:48:41.940
+End: 00:48:42.940
+Duration: 1.000 seconds
+Text: 720.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:48:42.940
+End: 00:48:46.940
+Duration: 4.000 seconds
+Text: I don't believe there is any action anticipated.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:48:46.940
+End: 00:48:53.940
+Duration: 7.000 seconds
+Text: I think we will be able to move on to the next meeting.
+--------------------------------------------------
+City Clerk:
+Start: 00:48:53.940
+End: 00:49:01.940
+Duration: 8.000 seconds
+Text: Beyond at the end of the meeting, just not that I'm aware of anyway.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:49:01.940
+End: 00:49:16.940
+Duration: 15.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:49:31.940
+End: 00:49:41.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:50:01.940
+End: 00:50:11.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:50:32.940
+End: 00:50:41.940
+Duration: 9.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:50:41.940
+End: 00:50:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:50:51.940
+End: 00:51:01.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:51:01.940
+End: 00:51:11.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:51:11.940
+End: 00:51:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:51:21.940
+End: 00:51:31.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:51:31.940
+End: 00:51:41.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:51:41.940
+End: 00:51:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:51:51.940
+End: 00:52:01.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:52:01.940
+End: 00:52:11.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:52:11.940
+End: 00:52:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:52:21.940
+End: 00:52:31.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:52:31.940
+End: 00:52:41.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:52:41.940
+End: 00:52:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:52:51.940
+End: 00:53:01.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:53:01.940
+End: 00:53:11.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:53:11.940
+End: 00:53:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:53:21.940
+End: 00:53:31.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:53:31.940
+End: 00:53:41.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:53:41.940
+End: 00:53:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:53:51.940
+End: 00:54:01.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:54:01.940
+End: 00:54:11.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:54:11.940
+End: 00:54:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:54:21.940
+End: 00:54:31.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:54:31.940
+End: 00:54:41.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:54:41.940
+End: 00:54:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:54:51.940
+End: 00:55:01.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:55:01.940
+End: 00:55:11.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:55:11.940
+End: 00:55:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:55:21.940
+End: 00:55:31.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:55:31.940
+End: 00:55:41.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:55:41.940
+End: 00:55:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:55:51.940
+End: 00:56:01.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:56:01.940
+End: 00:56:11.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:56:11.940
+End: 00:56:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:56:41.940
+End: 00:56:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:57:11.940
+End: 00:57:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:57:21.940
+End: 00:57:31.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:57:31.940
+End: 00:57:41.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:57:41.940
+End: 00:57:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:57:51.940
+End: 00:58:01.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:58:01.940
+End: 00:58:11.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:58:11.940
+End: 00:58:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:58:41.940
+End: 00:58:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:59:11.940
+End: 00:59:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:59:41.940
+End: 00:59:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:00:11.940
+End: 01:00:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:00:41.940
+End: 01:00:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:01:11.940
+End: 01:01:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:01:41.940
+End: 01:01:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:02:11.940
+End: 01:02:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:02:41.940
+End: 01:02:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:03:11.940
+End: 01:03:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:03:41.940
+End: 01:03:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:04:11.940
+End: 01:04:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:04:41.940
+End: 01:04:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:05:11.940
+End: 01:05:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:05:41.940
+End: 01:05:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:06:11.940
+End: 01:06:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:06:41.940
+End: 01:06:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:07:11.940
+End: 01:07:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:07:41.940
+End: 01:07:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:08:11.940
+End: 01:08:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:08:41.940
+End: 01:08:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:09:11.940
+End: 01:09:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:09:41.940
+End: 01:09:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:10:11.940
+End: 01:10:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:10:41.940
+End: 01:10:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:11:11.940
+End: 01:11:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:11:41.940
+End: 01:11:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:12:11.940
+End: 01:12:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:12:41.940
+End: 01:12:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:13:11.940
+End: 01:13:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:13:41.940
+End: 01:13:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:14:11.940
+End: 01:14:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:14:41.940
+End: 01:14:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:15:11.940
+End: 01:15:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:15:41.940
+End: 01:15:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:16:11.940
+End: 01:16:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:16:41.940
+End: 01:16:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:17:11.940
+End: 01:17:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:17:41.940
+End: 01:17:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:18:11.940
+End: 01:18:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:18:41.940
+End: 01:18:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:19:11.940
+End: 01:19:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:19:41.940
+End: 01:19:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:20:11.940
+End: 01:20:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:20:41.940
+End: 01:20:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Morris:
+Start: 01:21:11.940
+End: 01:21:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:21:41.940
+End: 01:21:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:22:11.940
+End: 01:22:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:22:41.940
+End: 01:22:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:23:11.940
+End: 01:23:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:23:41.940
+End: 01:23:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:24:11.940
+End: 01:24:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:24:41.940
+End: 01:24:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:25:11.940
+End: 01:25:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:25:41.940
+End: 01:25:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:26:11.940
+End: 01:26:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:26:41.940
+End: 01:26:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:27:11.940
+End: 01:27:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:27:41.940
+End: 01:27:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:28:11.940
+End: 01:28:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:28:41.940
+End: 01:28:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:29:11.940
+End: 01:29:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:29:41.940
+End: 01:29:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:30:11.940
+End: 01:30:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:30:41.940
+End: 01:30:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:31:11.940
+End: 01:31:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:31:41.940
+End: 01:31:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:32:11.940
+End: 01:32:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:32:41.940
+End: 01:32:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:33:11.940
+End: 01:33:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:33:41.940
+End: 01:33:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:34:11.940
+End: 01:34:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:34:41.940
+End: 01:34:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:35:11.940
+End: 01:35:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:35:41.940
+End: 01:35:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:36:11.940
+End: 01:36:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:36:41.940
+End: 01:36:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:37:11.940
+End: 01:37:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:37:41.940
+End: 01:37:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:38:11.940
+End: 01:38:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:38:41.940
+End: 01:38:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:39:11.940
+End: 01:39:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:39:41.940
+End: 01:39:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:40:11.940
+End: 01:40:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:40:41.940
+End: 01:40:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:41:11.940
+End: 01:41:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:41:41.940
+End: 01:41:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:42:11.940
+End: 01:42:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:42:41.940
+End: 01:42:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:43:11.940
+End: 01:43:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:43:41.940
+End: 01:43:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:44:11.940
+End: 01:44:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:44:41.940
+End: 01:44:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:45:11.940
+End: 01:45:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:45:41.940
+End: 01:45:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:46:11.940
+End: 01:46:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:46:41.940
+End: 01:46:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:47:11.940
+End: 01:47:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:47:41.940
+End: 01:47:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:48:11.940
+End: 01:48:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:48:41.940
+End: 01:48:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:49:11.940
+End: 01:49:21.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:49:41.940
+End: 01:49:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 01:50:11.940
+End: 01:50:31.940
+Duration: 20.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Morris:
+Start: 01:50:31.940
+End: 01:50:41.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Morris:
+Start: 01:50:41.940
+End: 01:50:51.940
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------

@@ -1,0 +1,196 @@
+{
+  "open_ended_analysis": {
+    "primary_themes": [
+      {
+        "theme": "Economic Development and Job Creation",
+        "description": "The council discussed incentivizing job creation through a proposed state package. Discussions focused on the potential economic outcomes, the number of jobs to be created, and the economic benefits to the state.",
+        "notable_points": [
+          "13 jobs to be created at $5,000 per job",
+          "Talents may be brought back to Manhattan",
+          "Starting salary of the jobs is estimated around $71,000"
+        ]
+      },
+      {
+        "theme": "Strategic Planning",
+        "description": "The council addressed the matter of the draft of the strategic plan, discussing its organization, its aimed goals, and the potential for public input into the plan.",
+        "notable_points": [
+          "Strategic plan has been in works for nine months",
+          "Emphasis on ongoing community and public input",
+          "Plan aims to balance current services with future development"
+        ]
+      }
+    ],
+    "significant_discussions": [
+      {
+        "topic": "Drafting and Implementing the Strategic Plan",
+        "significance": "A strategic plan sets the direction for the city's development in the coming years. The discussion on its draft, contents, and implementation indicates the council's long-term commitment to guided growth and development.",
+        "stakeholders": [
+          "City Council Members",
+          "City Staff",
+          "Manhattan residents",
+          "Business Community"
+        ]
+      },
+      {
+        "topic": "Job Creation and Economic Incentives",
+        "significance": "Job creation and economic development are key indicators of the city\u2019s growth and prosperity. The council's attention to the state package shows recognition of the need to boost the city\u2019s economy and decrease unemployment rates.",
+        "stakeholders": [
+          "City Council Members",
+          "State of Kansas",
+          "Job Seekers",
+          "Local businesses",
+          "Residents"
+        ]
+      }
+    ],
+    "unexpected_elements": [
+      {
+        "element": "A discussion on a community committee appointed by the council",
+        "context": "This suggests the council's engagement strategy involves meaningful participation from a wide variety of community members, offering a space where citizens can express their thoughts and concerns about the city's direction."
+      }
+    ]
+  },
+  "directed_analysis": {
+    "land_use": {
+      "present": false,
+      "significance": "Low",
+      "context": "Land use topics such as zoning, housing, development, and urban planning were not explicitly mentioned or discussed during this city council meeting.",
+      "notable_points": []
+    },
+    "economic_development": {
+      "present": true,
+      "significance": "High",
+      "context": "Economic development was a significant topic of the meeting with focus on job creation, providing incentives and economic development strategies. The council discussed incentivizing businesses to create job opportunities, with specific mention of a package involving job creation at $5,000 per job, resulting in a total package of $65,000 from the city and $381,485 from the state of Kansas. They referred to this as part of their economic development strategy, with the aim of drawing talent back to Manhattan.",
+      "notable_points": [
+        "Discussing incentivizing businesses to create jobs",
+        "Discussion of an economic package for job creation at $5,000 per job"
+      ]
+    },
+    "taxes_budget": {
+      "present": true,
+      "significance": "Medium",
+      "context": "Tax and budget topics were discussed in the context of economic development programs and initiatives. The council deliberated on utilizing funds from the economic development initiative for investment purposes.",
+      "notable_points": [
+        "Discussion on investment from economic development funds"
+      ]
+    },
+    "other_significant_topics": [
+      {
+        "topic": "Strategic Planning",
+        "significance": "High",
+        "context": "A major part of the meeting was dedicated to discussing the final draft of the strategic plan for the city. They discussed the goals, actions, and implementation strategies of the plan. This included input from the public, prioritizing actions and integrating it with existing services and programs, and plans for future monitoring and updates."
+      }
+    ]
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 5,
+      "speaking_time": {
+        "Commissioner Butler": 569.2000000000002,
+        "Commissioner Reddy": 378.4000000000001,
+        "Mayor Butler": 170.64,
+        "City Manager": 984.64,
+        "Commissioner Estabrick": 96.72
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [
+        "City Manager",
+        "Commissioner Butler",
+        "Mayor Butler"
+      ],
+      "observation": "The city manager appears to be the most dominant speaker based on their speaking time, segments, and their role in directing the flow of discussion. Commissioner Butler also has significantly higher speaking time and segments indicating a leadership role. Mayor Butler, despite having fewer segments and speaking time, has significant power in the meeting as they approve decisions."
+    },
+    "interaction_patterns": {
+      "pattern": "The meeting seems to be very organized and structured. One speaker talks at a time and everyone listens and waits for their turn to speak. Questions are asked and answers are sought.",
+      "notable_exchanges": [
+        "Commissioner Reddy and City Manager discussing economic incentives",
+        "Commissioner Estabrick and City Manager discussing job creation and wages"
+      ]
+    },
+    "topic_ownership": [
+      {
+        "speaker": "City Manager",
+        "topics": [
+          "Strategic plan",
+          "Community engagement",
+          "Plan adoption"
+        ]
+      },
+      {
+        "speaker": "Commissioner Butler",
+        "topics": [
+          "Economic development",
+          "Investment"
+        ]
+      },
+      {
+        "speaker": "Mayor Butler",
+        "topics": [
+          "Job creation",
+          "Economic development",
+          "Community improvement"
+        ]
+      },
+      {
+        "speaker": "Commissioner Reddy",
+        "topics": [
+          "Economic incentives",
+          "Investment"
+        ]
+      },
+      {
+        "speaker": "Commissioner Estabrick",
+        "topics": [
+          "Job creation",
+          "Wages"
+        ]
+      }
+    ],
+    "public_participation": {
+      "level": "Low",
+      "observation": "The meeting had limited public participation. During the public comment period, no public comments were made. However, earlier public input was mentioned as having been solicited and incorporated into the strategic plan."
+    }
+  },
+  "emergent_patterns": {
+    "recurring_themes": [
+      {
+        "theme": "Economic Development",
+        "evidence": "The meeting starts off with a discussion about incentivizing job creation and investment in Manhattan. The city council is planning to spend $65,000 to incentivize the creation of 13 jobs, alongside $381,485 provided by the state."
+      },
+      {
+        "theme": "Community Participation and Input",
+        "evidence": "The council refers to the importance of community participation in the process of creating the strategic plan. They mention public open houses and online forums where residents could provide feedback."
+      },
+      {
+        "theme": "Impact of The American Rescue Plan",
+        "evidence": "There is discussion of creating a spending plan for the American Rescue Plan funds. The council plans to identify how to spend the funding to best meet the needs of the community."
+      }
+    ],
+    "underlying_tensions": [
+      {
+        "tension": "Balancing the continuity of core services and innovative strategies",
+        "between": [
+          "City Council",
+          "Community"
+        ],
+        "context": "The council recognizes the need to balance providing existing services with achieving the goals and actions outlined in the strategic plan. This could create tension with members of the community who have different or contradictory priorities."
+      }
+    ],
+    "decision_patterns": {
+      "pattern": "Informed decision-making involving community input",
+      "observation": "The council places significant emphasis on community engagement and public input when making decisions. For instance, the prioritization of different actions in the strategic plan is influenced by public input gathered through open houses and online surveys."
+    },
+    "language_patterns": {
+      "formality": "Medium",
+      "technical_density": "Medium",
+      "emotional_tone": "Neutral",
+      "notable_features": [
+        "The council members use technical language as they discuss budgeting and funding, but they balance this with simpler language to ensure that their audience can understand the discussion."
+      ]
+    },
+    "other_insights": [
+      "The meeting illustrates how local government is striving for transparency and accountability by involving the community in decision-making processes. This is not only evident in their ongoing efforts to seek community input, but also in their discussions about the strategic plan which they recognize will need to be flexible to adapt to evolving circumstances."
+    ]
+  }
+}

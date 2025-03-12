@@ -1,0 +1,2607 @@
+Transcription and Diarization for 20200205-2⧸4⧸2020 Manhattan City Commission Meeting.mp4
+==================================================
+
+Mayor Ready:
+Start: 00:00:00.000
+End: 00:00:10.240
+Duration: 10.240 seconds
+Text: Okay, let's go ahead and get started on our City Commission meeting.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:00:10.240
+End: 00:00:15.320
+Duration: 5.080 seconds
+Text: Welcome. It's February 4th. Let's go ahead and stay and do the Pledge of Allegiance, please.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:15.320
+End: 00:00:21.000
+Duration: 5.680 seconds
+Text: I pledge allegiance to five of the United States of America, to the Republic of the
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:00:21.000
+End: 00:00:31.000
+Duration: 10.000 seconds
+Text: Canada, for which it stands. One Nation under God, indivisible with liberty and justice for all.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:00:31.000
+End: 00:00:36.000
+Duration: 5.000 seconds
+Text: Okay, with that, let's go ahead and do public comment.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:00:36.000
+End: 00:00:41.000
+Duration: 5.000 seconds
+Text: Have one person signed up?
+--------------------------------------------------
+Mayor Ready:
+Start: 00:00:41.000
+End: 00:00:47.000
+Duration: 6.000 seconds
+Text: Any public comment?
+--------------------------------------------------
+Mayor Ready:
+Start: 00:00:48.000
+End: 00:00:55.000
+Duration: 7.000 seconds
+Text: Okay, we'll see them. We'll move on to Commissioner comments.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:00:55.000
+End: 00:00:59.000
+Duration: 4.000 seconds
+Text: Any Commissioner comments?
+--------------------------------------------------
+Mayor Ready:
+Start: 00:00:59.000
+End: 00:01:05.000
+Duration: 6.000 seconds
+Text: Here? Any Commissioner comments?
+--------------------------------------------------
+Mayor Ready:
+Start: 00:01:05.000
+End: 00:01:08.000
+Duration: 3.000 seconds
+Text: Linda, Linda.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:01:08.000
+End: 00:01:11.000
+Duration: 3.000 seconds
+Text: Did you have something Linda?
+--------------------------------------------------
+Mayor Ready:
+Start: 00:01:11.000
+End: 00:01:18.000
+Duration: 7.000 seconds
+Text: All right. I did want to say last Friday, the City Commissioners, we all met at the Flint Hills Discovery Center,
+--------------------------------------------------
+Mayor Ready:
+Start: 00:01:18.000
+End: 00:01:23.000
+Duration: 5.000 seconds
+Text: along with some of our city staff to discuss City Commission goals.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:01:23.000
+End: 00:01:30.000
+Duration: 7.000 seconds
+Text: And Ron, fear our city manager is going to consolidate all of them, and we should have them back to the public in about a month or so.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:01:30.000
+End: 00:01:37.000
+Duration: 7.000 seconds
+Text: We will revisit. Typically, we review projects or our goals from the past couple of years.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:01:37.000
+End: 00:01:44.000
+Duration: 7.000 seconds
+Text: Some we have completed, some that are ongoing, and some that we might still need to push forward with for several more years.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:01:44.000
+End: 00:01:47.000
+Duration: 3.000 seconds
+Text: And some new ones we may have added onto the list.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:01:47.000
+End: 00:01:54.000
+Duration: 7.000 seconds
+Text: So once again, once we get all of those out, we will make it available for public and have another discussion to make sure we are confirmed
+--------------------------------------------------
+Mayor Ready:
+Start: 00:01:54.000
+End: 00:01:57.000
+Duration: 3.000 seconds
+Text: and what we want for the next couple of years.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:01:57.000
+End: 00:02:06.000
+Duration: 9.000 seconds
+Text: There is something called Planning and Pints. It's at the tap house tomorrow, I believe. 639, and I think Chad,
+--------------------------------------------------
+Mayor Ready:
+Start: 00:02:06.000
+End: 00:02:09.000
+Duration: 3.000 seconds
+Text: I do the mediator for that one. I don't know.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:02:09.000
+End: 00:02:16.000
+Duration: 7.000 seconds
+Text: Runs the show. If you want to know things that are going on in Manhattan as far as projects and neighborhoods and such,
+--------------------------------------------------
+Mayor Ready:
+Start: 00:02:16.000
+End: 00:02:24.000
+Duration: 8.000 seconds
+Text: tap house a great place. That's a great fun place to meet and talk about things that are concerned to you and your neighborhoods are in the surrounding area.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:02:24.000
+End: 00:02:34.000
+Duration: 10.000 seconds
+Text: And either learn something new or ask questions in a non-televised manner with some experts at your disposal.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:02:34.000
+End: 00:02:39.000
+Duration: 5.000 seconds
+Text: With that, we will go on to our consent agenda.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:02:39.000
+End: 00:02:46.000
+Duration: 7.000 seconds
+Text: The items on consent agenda are those of routine and housekeeping nature or those items which have previously been reviewed by the City Commission.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:02:46.000
+End: 00:02:50.000
+Duration: 4.000 seconds
+Text: A commission may request an item be moved to the end of the general agenda.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:02:50.000
+End: 00:02:58.000
+Duration: 8.000 seconds
+Text: Does the commission have any questions or comments on any of the consent agenda items?
+--------------------------------------------------
+Mayor Ready:
+Start: 00:02:58.000
+End: 00:03:03.000
+Duration: 5.000 seconds
+Text: Any public comment?
+--------------------------------------------------
+Mayor Ready:
+Start: 00:03:03.000
+End: 00:03:08.000
+Duration: 5.000 seconds
+Text: Seeing none, please call the roll.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:03:08.000
+End: 00:03:11.000
+Duration: 3.000 seconds
+Text: Oh, we need a motion.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:03:11.000
+End: 00:03:17.000
+Duration: 6.000 seconds
+Text: There a motion.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:17.000
+End: 00:03:19.000
+Duration: 2.000 seconds
+Text: Consent agenda?
+--------------------------------------------------
+City Clerk:
+Start: 00:03:19.000
+End: 00:03:20.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:20.000
+End: 00:03:22.000
+Duration: 2.000 seconds
+Text: I move approval of the consent agenda.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:22.000
+End: 00:03:23.000
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:03:23.000
+End: 00:03:24.000
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:03:24.000
+End: 00:03:26.000
+Duration: 2.000 seconds
+Text: Please call the roll.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:26.000
+End: 00:03:27.000
+Duration: 1.000 seconds
+Text: Mayor Ready?
+--------------------------------------------------
+Mayor Ready:
+Start: 00:03:27.000
+End: 00:03:28.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:28.000
+End: 00:03:29.000
+Duration: 1.000 seconds
+Text: Fisher Butler?
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:03:29.000
+End: 00:03:30.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:30.000
+End: 00:03:31.000
+Duration: 1.000 seconds
+Text: Fisher Morse?
+--------------------------------------------------
+City Clerk:
+Start: 00:03:31.000
+End: 00:03:32.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:32.000
+End: 00:03:33.000
+Duration: 1.000 seconds
+Text: Fisher Hattisall?
+--------------------------------------------------
+City Clerk:
+Start: 00:03:33.000
+End: 00:03:34.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:34.000
+End: 00:03:35.000
+Duration: 1.000 seconds
+Text: Fisher Estabrit?
+--------------------------------------------------
+City Clerk:
+Start: 00:03:35.000
+End: 00:03:36.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:36.000
+End: 00:03:38.000
+Duration: 2.000 seconds
+Text: Carrie's 50.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:03:38.000
+End: 00:03:50.000
+Duration: 12.000 seconds
+Text: Next is public hearing on special assessment and Rina is going to present on the special assessments this evening.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:50.000
+End: 00:03:53.000
+Duration: 3.000 seconds
+Text: Good evening commissioners.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:53.000
+End: 00:04:04.000
+Duration: 11.000 seconds
+Text: In your package you received information about our special assessment process for May 2020 and I would like to go over that information with you this evening.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:04.000
+End: 00:04:09.000
+Duration: 5.000 seconds
+Text: The city sales bonds twice a year normally may in November for the May series.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:09.000
+End: 00:04:12.000
+Duration: 3.000 seconds
+Text: The city includes all special assessment projects.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:12.000
+End: 00:04:18.000
+Duration: 6.000 seconds
+Text: We have this May 2020 series 20 projects that we will be bonding.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:18.000
+End: 00:04:23.000
+Duration: 5.000 seconds
+Text: The benefits districts were created by petition and a resolution on January 21st.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:23.000
+End: 00:04:27.000
+Duration: 4.000 seconds
+Text: The city commission said February 4th as the date to hold a public hearing.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:27.000
+End: 00:04:33.000
+Duration: 6.000 seconds
+Text: An ordinance letting special assessments against the benefiting property properties is presented in the packet.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:33.000
+End: 00:04:38.000
+Duration: 5.000 seconds
+Text: And all property owners were notified by letter about the amount and purpose of their assessment.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:38.000
+End: 00:04:43.000
+Duration: 5.000 seconds
+Text: I notice a public hearing was published in the Manhattan Mercury as well.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:43.000
+End: 00:04:48.000
+Duration: 5.000 seconds
+Text: This evening the purpose of the public hearing is to hear questions or objections from property owners concerning their assessments.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:48.000
+End: 00:04:54.000
+Duration: 6.000 seconds
+Text: We have received five calls regarding the letters and this special assessment process in general.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:54.000
+End: 00:05:00.000
+Duration: 6.000 seconds
+Text: We have received no calls regarding the calculation or any technical issues regarding the assessments.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:00.000
+End: 00:05:06.000
+Duration: 6.000 seconds
+Text: When you first received your packet last week we had 23 projects included in there.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:06.000
+End: 00:05:17.000
+Duration: 11.000 seconds
+Text: The letters were sent out. One of the developers had contacted us requesting that their assessments and their temporary notes be extended for a year.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:17.000
+End: 00:05:24.000
+Duration: 7.000 seconds
+Text: We contacted our bond council and consulted with city administration to get confirmation that we could extend those for one more year.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:24.000
+End: 00:05:26.000
+Duration: 2.000 seconds
+Text: And it was approved by all parties.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:26.000
+End: 00:05:32.000
+Duration: 6.000 seconds
+Text: And so we gave that courtesy to that developer and that information is presented in your packet as well.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:32.000
+End: 00:05:36.000
+Duration: 4.000 seconds
+Text: It was for the Highlands at Grand Mary unit one and Prairie Village.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:36.000
+End: 00:05:45.000
+Duration: 9.000 seconds
+Text: And so the cost that we were bond in 2020 for special assessments is $4,895,000.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:45.000
+End: 00:05:47.000
+Duration: 2.000 seconds
+Text: The projects are listed.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:47.000
+End: 00:05:54.000
+Duration: 7.000 seconds
+Text: Pinehurst Edition, scene of crossing addition, lands down, unit three, leg stone addition, leg stone ridge addition,
+--------------------------------------------------
+City Clerk:
+Start: 00:05:54.000
+End: 00:05:57.000
+Duration: 3.000 seconds
+Text: legacy ridge addition and Wells landing.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:57.000
+End: 00:05:59.000
+Duration: 2.000 seconds
+Text: And those are the total cost.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:59.000
+End: 00:06:07.000
+Duration: 8.000 seconds
+Text: There is a city at large portion related to leg stone ridge addition and that amount is being paid for by the bond at interest form.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:07.000
+End: 00:06:10.000
+Duration: 3.000 seconds
+Text: That's for trail.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:10.000
+End: 00:06:23.000
+Duration: 13.000 seconds
+Text: Here is the map. The map appears better in your packet, but it lists all the properties and the benefit districts within the city that are going to bond in May 2020.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:23.000
+End: 00:06:29.000
+Duration: 6.000 seconds
+Text: Our next steps, the second reading of the special assessment ordinance will be considered on February 18th.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:29.000
+End: 00:06:34.000
+Duration: 5.000 seconds
+Text: Property owners will receive a second letter which gives them the opportunity to pass their assessments.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:34.000
+End: 00:06:37.000
+Duration: 3.000 seconds
+Text: Pay their assessments in full by March 20th.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:37.000
+End: 00:06:45.000
+Duration: 8.000 seconds
+Text: If not, pay the assessments will bond in May and be advertised over 20 years in our bond issue will be on May 19th this year.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:45.000
+End: 00:06:50.000
+Duration: 5.000 seconds
+Text: Assessments will appear in November 2020 text statements.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:50.000
+End: 00:06:52.000
+Duration: 2.000 seconds
+Text: And that is all for my presentation.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:52.000
+End: 00:06:55.000
+Duration: 3.000 seconds
+Text: Welcome questions.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:06:55.000
+End: 00:07:03.000
+Duration: 8.000 seconds
+Text: Questions. Thank you, Arena. Your questions for you.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:03.000
+End: 00:07:04.000
+Duration: 1.000 seconds
+Text: Public.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:04.000
+End: 00:07:06.000
+Duration: 2.000 seconds
+Text: I just want to ask that one just to just to clarify.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:07:06.000
+End: 00:07:12.000
+Duration: 6.000 seconds
+Text: I'm sure that the city at large portion had to do with parts.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:07:12.000
+End: 00:07:23.000
+Duration: 11.000 seconds
+Text: There is if it's a trail that was, if you recall, the leg stone ridge comes off of Miller Parkway just just to the east of Sing Drive.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:07:23.000
+End: 00:07:27.000
+Duration: 4.000 seconds
+Text: It's the new one that's kind of long that ridge and it's part of that subdivision.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:07:27.000
+End: 00:07:39.000
+Duration: 12.000 seconds
+Text: The developer cooperated to put in a trail that would link the park on the south and then there was additional park land acquired on the on the north.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:07:39.000
+End: 00:07:47.000
+Duration: 8.000 seconds
+Text: So it's a linkage down to the other subdivisions above Annabrik Park and west of Annabrik Park.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:07:47.000
+End: 00:07:52.000
+Duration: 5.000 seconds
+Text: So it connects with the sidewalk system and then connects to the bridge that goes into Annabrik Park.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:07:52.000
+End: 00:07:58.000
+Duration: 6.000 seconds
+Text: So it was a cost share on the trail with the subdivision in the city at large and that's our share.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:07:58.000
+End: 00:08:01.000
+Duration: 3.000 seconds
+Text: Yeah, I think that was a good thing just so people understand.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:08:01.000
+End: 00:08:07.000
+Duration: 6.000 seconds
+Text: You know what that is because that helps us with the trail system and connecting the parts.
+--------------------------------------------------
+City Clerk:
+Start: 00:08:07.000
+End: 00:08:10.000
+Duration: 3.000 seconds
+Text: Other questions?
+--------------------------------------------------
+Mayor Ready:
+Start: 00:08:10.000
+End: 00:08:14.000
+Duration: 4.000 seconds
+Text: Public comment? Public hearing?
+--------------------------------------------------
+Mayor Ready:
+Start: 00:08:14.000
+End: 00:08:19.000
+Duration: 5.000 seconds
+Text: Opening up the public hearing.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:08:19.000
+End: 00:08:25.000
+Duration: 6.000 seconds
+Text: Seeing none. Public hearing period is closed.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:08:25.000
+End: 00:08:28.000
+Duration: 3.000 seconds
+Text: So somebody like to read the motion?
+--------------------------------------------------
+Speaker_4:
+Start: 00:08:28.000
+End: 00:08:29.000
+Duration: 1.000 seconds
+Text: I will.
+--------------------------------------------------
+Speaker_4:
+Start: 00:08:29.000
+End: 00:08:39.000
+Duration: 10.000 seconds
+Text: I move that we approve the first reading of an ordinance levying special assessments against the benefiting properties and the following 20 projects which have been completed.
+--------------------------------------------------
+Speaker_4:
+Start: 00:08:39.000
+End: 00:08:42.000
+Duration: 3.000 seconds
+Text: Pinehurst Edition, Sanitary Sewer Street and Water.
+--------------------------------------------------
+Speaker_4:
+Start: 00:08:42.000
+End: 00:08:45.000
+Duration: 3.000 seconds
+Text: The Washington Crossing Edition, Sanitary Sewer Street and Water.
+--------------------------------------------------
+Speaker_4:
+Start: 00:08:45.000
+End: 00:08:48.000
+Duration: 3.000 seconds
+Text: West Anderson Avenue Street.
+--------------------------------------------------
+Speaker_4:
+Start: 00:08:48.000
+End: 00:08:51.000
+Duration: 3.000 seconds
+Text: Lands downed Edition Unit 3, Sanitary Sewer Street and Water.
+--------------------------------------------------
+Speaker_4:
+Start: 00:08:51.000
+End: 00:08:54.000
+Duration: 3.000 seconds
+Text: Ledstone Edition, Street and Water.
+--------------------------------------------------
+Speaker_4:
+Start: 00:08:54.000
+End: 00:08:58.000
+Duration: 4.000 seconds
+Text: Ledstone Ridge Edition, Sanitary Sewer Street.
+--------------------------------------------------
+Speaker_4:
+Start: 00:08:58.000
+End: 00:09:00.000
+Duration: 2.000 seconds
+Text: Multi-use Trail and Water.
+--------------------------------------------------
+Speaker_4:
+Start: 00:09:00.000
+End: 00:09:06.000
+Duration: 6.000 seconds
+Text: Legacy Ridge Edition, Sanitary Sewer Street and Water and Wells Landing, Sanitary Sewer.
+--------------------------------------------------
+City Clerk:
+Start: 00:09:06.000
+End: 00:09:07.000
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:09:07.000
+End: 00:09:09.000
+Duration: 2.000 seconds
+Text: Please call the roll.
+--------------------------------------------------
+City Clerk:
+Start: 00:09:09.000
+End: 00:09:11.000
+Duration: 2.000 seconds
+Text: Commissioner Butler?
+--------------------------------------------------
+City Clerk:
+Start: 00:09:11.000
+End: 00:09:12.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:09:12.000
+End: 00:09:13.000
+Duration: 1.000 seconds
+Text: Commissioner Morris?
+--------------------------------------------------
+City Clerk:
+Start: 00:09:13.000
+End: 00:09:14.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:09:14.000
+End: 00:09:15.000
+Duration: 1.000 seconds
+Text: Commissioner Hattesall?
+--------------------------------------------------
+City Clerk:
+Start: 00:09:15.000
+End: 00:09:16.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:16.000
+End: 00:09:17.000
+Duration: 1.000 seconds
+Text: Commissioner Estaburk?
+--------------------------------------------------
+City Clerk:
+Start: 00:09:17.000
+End: 00:09:18.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:09:18.000
+End: 00:09:19.000
+Duration: 1.000 seconds
+Text: Mayor Ready?
+--------------------------------------------------
+City Clerk:
+Start: 00:09:19.000
+End: 00:09:20.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:09:20.000
+End: 00:09:22.000
+Duration: 2.000 seconds
+Text: Motion carries 5-0.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:09:22.000
+End: 00:09:23.000
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:09:23.000
+End: 00:09:24.000
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:09:24.000
+End: 00:09:25.000
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:09:25.000
+End: 00:09:26.000
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:09:26.000
+End: 00:09:27.000
+Duration: 1.000 seconds
+Text: Next we're on the General Agenda.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:09:27.000
+End: 00:09:28.000
+Duration: 1.000 seconds
+Text: Tonight's a discussion.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:09:28.000
+End: 00:09:35.000
+Duration: 7.000 seconds
+Text: We're going to do an overview of proposed Manhattan Housing Market Analysis and Policy Strategy Study and draft request for qualifications.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:09:35.000
+End: 00:09:40.000
+Duration: 5.000 seconds
+Text: Chad Bunder, Assistant Director of the Community Development, is our presenter.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:09:40.000
+End: 00:09:42.000
+Duration: 2.000 seconds
+Text: Thank you, Mayor and good evening.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:09:42.000
+End: 00:09:44.000
+Duration: 2.000 seconds
+Text: Mayor and Commissioner.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:09:44.000
+End: 00:09:45.000
+Duration: 1.000 seconds
+Text: Commissioner.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:09:45.000
+End: 00:09:56.000
+Duration: 11.000 seconds
+Text: So, I don't think it's a surprise that there is a lot of conversation about the availability of quality of affordable housing in Manhattan and the region.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:09:56.000
+End: 00:10:08.000
+Duration: 12.000 seconds
+Text: And because of that important topic, a number of groups and folks have had discussions and are generating solution ideas on the topic.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:10:08.000
+End: 00:10:23.000
+Duration: 15.000 seconds
+Text: And so, in this year's budget, we were approved to have this housing market analysis and policy strategy study to help with that conversation and help with the direction there.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:10:23.000
+End: 00:10:37.000
+Duration: 14.000 seconds
+Text: And so, I'll provide an overview of what we're thinking the study will look like and that goes along with the draft request for qualifications that was included in your packet.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:10:37.000
+End: 00:10:52.000
+Duration: 15.000 seconds
+Text: The idea here is that we would hire a consultant or consultant team to help the community develop this critical comprehensive housing policy document that will provide us with strategy.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:10:52.000
+End: 00:11:03.000
+Duration: 11.000 seconds
+Text: And we would hire a consultant team to help us with strategies, policies, projects and programs to address suitable housing needs for Manhattan.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:11:03.000
+End: 00:11:09.000
+Duration: 6.000 seconds
+Text: We're using the term suitable housing rather than affordable housing or whatnot.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:11:09.000
+End: 00:11:36.000
+Duration: 27.000 seconds
+Text: So, we're using the broader term to emphasize that we're not just talking about the price tag of a home, but that the house or housing needs include the size, the type, where it's located, those sort of things to address that whole, the whole element of housing.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:11:36.000
+End: 00:11:46.000
+Duration: 10.000 seconds
+Text: So, we're using the term suitable housing for the housing needs for Manhattan.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:11:46.000
+End: 00:11:57.000
+Duration: 11.000 seconds
+Text: So, I'll provide an overview of what we're doing and how we're doing.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:11:57.000
+End: 00:12:07.000
+Duration: 10.000 seconds
+Text: So, I'll provide an overview of what we're doing and how we're doing.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:12:07.000
+End: 00:12:18.000
+Duration: 11.000 seconds
+Text: So, we're not fully, may not fully understand or grasp the situations that are facing us when it comes to housing.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:12:18.000
+End: 00:12:36.000
+Duration: 18.000 seconds
+Text: And so, what we wanted to do here is use a data-driven approach first to lay out what our problems are and what those issues may be before we dive into possible solutions and those sort of things.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:12:36.000
+End: 00:12:59.000
+Duration: 23.000 seconds
+Text: So, that's really kind of how we've laid this out. The baseline element is to get an understanding of today's housing stock, home sales that are going on today, the demographics, economic indicators, cost of living, those sort of things for the entire region.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:12:59.000
+End: 00:13:18.000
+Duration: 19.000 seconds
+Text: So, I don't have a full, I couldn't explain you exactly what the regions boundaries are. We'll let our consultant that will eventually hire help guide us and frame that for us, but it will be a regional look at what the baseline information is.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:13:18.000
+End: 00:13:34.000
+Duration: 16.000 seconds
+Text: We'll then take that information and project out into the future, what our community may look like in terms of demographics and the economy, the homes that we've built or will build, excuse me, based on trends.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:13:34.000
+End: 00:13:54.000
+Duration: 20.000 seconds
+Text: So, we know in the future what those needs will be. We anticipate that will be a 20-year projection. Again, we'll rely on the expertise of our consultant team to help us figure that out precisely, but we want to cast a very broad horizon so we can get a full understanding of what's in front of us.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:13:54.000
+End: 00:14:06.000
+Duration: 12.000 seconds
+Text: And then from there, we'll figure out, all right, if we know we're going to have this many folks and we're only building this many homes, then we have a gap in certain element of our market.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:14:06.000
+End: 00:14:17.000
+Duration: 11.000 seconds
+Text: And so we know that going into working with the community to determine our vision and our goals for this policy document.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:14:17.000
+End: 00:14:28.000
+Duration: 11.000 seconds
+Text: Try it again to establish what our data points are early in this project rather than jumping straight to the end to discuss solutions.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:14:28.000
+End: 00:14:43.000
+Duration: 15.000 seconds
+Text: As you can see there, we mentioned or I note will have significant public involvement, so we'll engage citizens, stakeholders in a variety of formats to get their input for the creation of the vision of goals.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:14:43.000
+End: 00:15:06.000
+Duration: 23.000 seconds
+Text: From there, we'll do a little bit of nasal gazing, looking at our belly buttons to see what are we doing to hinder addressing our suitable housing needs, be it land-used codes or building codes, internal market issues, financing those sort of things.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:15:07.000
+End: 00:15:21.000
+Duration: 14.000 seconds
+Text: And then all that then gets funneled into recommendations for strategies, policies, etc. We'll definitely rely heavily on the expertise within Manhattan, but then also the expertise from our consultant.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:15:21.000
+End: 00:15:27.000
+Duration: 6.000 seconds
+Text: And then finally, we're going to ask the consultant to provide us evaluation tools for those strategies.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:15:27.000
+End: 00:15:37.000
+Duration: 10.000 seconds
+Text: So the idea is that this is not just a snapshot and time and then once in the next couple of years we shelved it because it's outdated.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:15:37.000
+End: 00:15:52.000
+Duration: 15.000 seconds
+Text: We want to be able to evaluate routinely evaluate the policies and programs to make sure that we're meeting those needs and we don't let the information get stale.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:15:53.000
+End: 00:16:02.000
+Duration: 9.000 seconds
+Text: Some areas of emphasis, if I didn't already say this, we will analyze the entire housing market.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:16:02.000
+End: 00:16:17.000
+Duration: 15.000 seconds
+Text: So both the owner and rental markets from the high end down to the low end and everywhere in between with a high focus on data as well as spatial relevant information.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:16:17.000
+End: 00:16:30.000
+Duration: 13.000 seconds
+Text: So we'll be able to apply this in mapping software to see if there's any hidden pockets of success or not so great issues across the city.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:16:30.000
+End: 00:16:40.000
+Duration: 10.000 seconds
+Text: Like I mentioned the projection year and how much we will value and want input from the public.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:16:40.000
+End: 00:16:49.000
+Duration: 9.000 seconds
+Text: I don't think I said this, but our intent is that this will be a policy document for the city of Manhattan.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:16:49.000
+End: 00:17:04.000
+Duration: 15.000 seconds
+Text: I know there's plenty of housing going on in every direction outside of the city limits, but with limited resources that we have and the fact that we don't have jurisdiction in those areas, this, the focus will be for the city of Manhattan.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:17:04.000
+End: 00:17:24.000
+Duration: 20.000 seconds
+Text: Housing is definitely a regional issue and so we'll work with our partners in the region where we can to address those things where we can partner and maybe gain some economies of scale or do those sort of things, but the largest focus will be within the city.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:17:24.000
+End: 00:17:33.000
+Duration: 9.000 seconds
+Text: We'll have an emphasis on low-to-moderate income, households, student housing and housing for soldiers and their families.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:17:34.000
+End: 00:17:38.000
+Duration: 4.000 seconds
+Text: I hope we are able to tease that information out.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:17:38.000
+End: 00:17:49.000
+Duration: 11.000 seconds
+Text: I have a suspicion that the student housing may shadow our other housing needs within the city.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:17:49.000
+End: 00:18:01.000
+Duration: 12.000 seconds
+Text: For instance, if you look at the census report for Manhattan, we have a little over 25% of Manhattan residents living at or below the poverty rate.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:18:02.000
+End: 00:18:15.000
+Duration: 13.000 seconds
+Text: One could easily say that's largely due in part due to our students who go to school full time, maybe work part time and then have other sources of financial support.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:18:15.000
+End: 00:18:25.000
+Duration: 10.000 seconds
+Text: But I'm afraid that maybe making that quick judgment may overshadow some other housing needs that are in our neighbor's face.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:18:26.000
+End: 00:18:32.000
+Duration: 6.000 seconds
+Text: I'd like to tease those elements out just to get a better understanding of that full spectrum.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:18:32.000
+End: 00:18:39.000
+Duration: 7.000 seconds
+Text: I hope I explain the evaluation tool that we want to do or get from our consultants effectively.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:18:40.000
+End: 00:18:55.000
+Duration: 15.000 seconds
+Text: So, in addition to gaining input from the public, we'll definitely have this effort be led with some sort of committees.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:18:56.000
+End: 00:19:03.000
+Duration: 7.000 seconds
+Text: Don't know exactly what that will look like and we'll wait till we get a consultant on board to see how they would prefer it.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:19:03.000
+End: 00:19:08.000
+Duration: 5.000 seconds
+Text: I would imagine we'll have some sort of technical committees as well as a citizen committee.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:19:08.000
+End: 00:19:20.000
+Duration: 12.000 seconds
+Text: And this long list is definitely not exhaustive of who could be on those committees, but it gives us an idea of some folks that we may want to invite along with this study.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:19:21.000
+End: 00:19:27.000
+Duration: 6.000 seconds
+Text: We can have one more slide and we'll be done with this and kind of give you an overview of the timeline.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:19:27.000
+End: 00:19:49.000
+Duration: 22.000 seconds
+Text: So depending on how this discussion goes, if you give us a green light, we'll finish up the RFU and get it back in front of you in a couple of weeks and then go through the procurement process as quick as we can with the anticipation we'll get to get the consultant on board some time June July.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:19:50.000
+End: 00:19:55.000
+Duration: 5.000 seconds
+Text: And then take about a year to 18 months to complete the study.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:19:55.000
+End: 00:20:04.000
+Duration: 9.000 seconds
+Text: So, I went through that quickly, hopefully I covered all the things and if not, I'm here to answer any questions you may have.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:20:04.000
+End: 00:20:11.000
+Duration: 7.000 seconds
+Text: Just to the paperhead, some stuff on that, what your slides don't have is cost and funding source for that cost.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:20:11.000
+End: 00:20:13.000
+Duration: 2.000 seconds
+Text: I'm sorry, what was that?
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:20:13.000
+End: 00:20:16.000
+Duration: 3.000 seconds
+Text: Cost of the project and the funding sources.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:20:17.000
+End: 00:20:19.000
+Duration: 2.000 seconds
+Text: I didn't mention that, I apologize.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:20:19.000
+End: 00:20:24.000
+Duration: 5.000 seconds
+Text: So the budgeted item is $95,000.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:20:24.000
+End: 00:20:32.000
+Duration: 8.000 seconds
+Text: We looked at other communities to peek at us going through a project now.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:20:32.000
+End: 00:20:40.000
+Duration: 8.000 seconds
+Text: Lowernds went through one a few years ago and both of them cost about that $75,000 to $100,000.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:20:40.000
+End: 00:20:52.000
+Duration: 12.000 seconds
+Text: The dollar, how that split up is through a few different funds and I think through the three utility enterprise funds and then I have it here.
+--------------------------------------------------
+Speaker_4:
+Start: 00:20:52.000
+End: 00:20:54.000
+Duration: 2.000 seconds
+Text: Excuse me.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:20:54.000
+End: 00:20:55.000
+Duration: 1.000 seconds
+Text: What's that?
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:20:55.000
+End: 00:20:57.000
+Duration: 2.000 seconds
+Text: Economic development fund, yes.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:20:57.000
+End: 00:21:04.000
+Duration: 7.000 seconds
+Text: So split four ways I do believe.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:21:04.000
+End: 00:21:08.000
+Duration: 4.000 seconds
+Text: Other questions for Chad?
+--------------------------------------------------
+Speaker_4:
+Start: 00:21:08.000
+End: 00:21:18.000
+Duration: 10.000 seconds
+Text: So how is this information going to be better than the enlightened self-interest of a developer putting his and his bankers money at risk?
+--------------------------------------------------
+Speaker_4:
+Start: 00:21:18.000
+End: 00:21:25.000
+Duration: 7.000 seconds
+Text: They will obviously do research to figure out what's the market needs and various things like that.
+--------------------------------------------------
+Speaker_4:
+Start: 00:21:25.000
+End: 00:21:35.000
+Duration: 10.000 seconds
+Text: And unless the city is going to get into the building houses and running them out and subsidizing them, I don't know what projects and programs and stuff.
+--------------------------------------------------
+Speaker_4:
+Start: 00:21:35.000
+End: 00:21:53.000
+Duration: 18.000 seconds
+Text: The city is going to be able to implement the proven affordable housing projects that the city does are facilitating the tax rate tax credit housing which we've got a couple hundred of them.
+--------------------------------------------------
+Speaker_4:
+Start: 00:21:53.000
+End: 00:22:02.000
+Duration: 9.000 seconds
+Text: It's waiving $50,000 worth of a hook up fees so that they could make affordable housing up there in Miller Ranch.
+--------------------------------------------------
+Speaker_4:
+Start: 00:22:02.000
+End: 00:22:12.000
+Duration: 10.000 seconds
+Text: And that is the only thing I think the city should be doing to make housing more affordable because we're going to be fighting market forces of supply and demand.
+--------------------------------------------------
+Speaker_4:
+Start: 00:22:12.000
+End: 00:22:17.000
+Duration: 5.000 seconds
+Text: And right now there's a lot of supply and not much demand.
+--------------------------------------------------
+Speaker_4:
+Start: 00:22:17.000
+End: 00:22:22.000
+Duration: 5.000 seconds
+Text: And so over and I don't see any of that change significantly over the next 18 months.
+--------------------------------------------------
+Speaker_4:
+Start: 00:22:22.000
+End: 00:22:32.000
+Duration: 10.000 seconds
+Text: And so that will continue to drive the price of rents down making them more affordable just like 15 years ago when people were complaining about affordable housing.
+--------------------------------------------------
+Speaker_4:
+Start: 00:22:32.000
+End: 00:22:36.000
+Duration: 4.000 seconds
+Text: And I kept saying supply, supply, we need more supply.
+--------------------------------------------------
+Speaker_4:
+Start: 00:22:36.000
+End: 00:22:43.000
+Duration: 7.000 seconds
+Text: And that will drive the price of housing down and it eventually has now with the de-crested enrollment at case date.
+--------------------------------------------------
+Speaker_4:
+Start: 00:22:43.000
+End: 00:23:03.000
+Duration: 20.000 seconds
+Text: And so I hate to sit around work too much because I'm not going to probably vote yes to even fund this thing when the time comes because while the information is handy, we can driving down the streets talking to developers, talking to landlords, talking to people we ought to be able to figure out.
+--------------------------------------------------
+Speaker_4:
+Start: 00:23:03.000
+End: 00:23:17.000
+Duration: 14.000 seconds
+Text: We got way too much of this that sitting empty. The developers and people who are putting their own money at risk will know what kind of things that are selling that they should build.
+--------------------------------------------------
+Speaker_4:
+Start: 00:23:17.000
+End: 00:23:31.000
+Duration: 14.000 seconds
+Text: And I just don't know where the city's role in making figuring out we will need more affordable housing. Well, get a roommate. That's the most affordable thing that anybody can ever do for their house to drop down, drive down their housing costs.
+--------------------------------------------------
+Speaker_4:
+Start: 00:23:31.000
+End: 00:23:40.000
+Duration: 9.000 seconds
+Text: Everybody would like to have a one bedroom apartment live by themselves and have a dog. Well, that's $700 a month with the pet rent.
+--------------------------------------------------
+Speaker_4:
+Start: 00:23:40.000
+End: 00:23:49.000
+Duration: 9.000 seconds
+Text: And so maybe you don't always get exactly what you want, but there's ways, get a roommate, get a two bedroom for $750 and don't get a dog.
+--------------------------------------------------
+Speaker_4:
+Start: 00:23:49.000
+End: 00:24:00.000
+Duration: 11.000 seconds
+Text: And suddenly you got $200 more in your pocket every month. And so I'm going to stop now. But I would just wondered that I don't know where this is going to give us piles and piles.
+--------------------------------------------------
+Speaker_4:
+Start: 00:24:00.000
+End: 00:24:19.000
+Duration: 19.000 seconds
+Text: And piles of data which people will ponder and drink a lot of coffee over. But I don't really know at the end of the day what will the city do with this information that's outside of the realm of what the marketplace will already determine this community needs.
+--------------------------------------------------
+Speaker_4:
+Start: 00:24:19.000
+End: 00:24:24.000
+Duration: 5.000 seconds
+Text: That's a long I don't even need to answer that, but that's what you want to.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:24:24.000
+End: 00:24:35.000
+Duration: 11.000 seconds
+Text: I don't know what those solutions will be like. I get your point about the city participating in the free market.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:24:35.000
+End: 00:24:52.000
+Duration: 17.000 seconds
+Text: Never in my wildest dreams will I envision that or or would support that this data would be used to dictate annexation or rezoning efforts. That's free market.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:24:52.000
+End: 00:25:03.000
+Duration: 11.000 seconds
+Text: And I don't want to interfere with that. What I think it could do on that topic is better informed developers and lenders of what may be needed.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:25:03.000
+End: 00:25:18.000
+Duration: 15.000 seconds
+Text: So they have the best information sitting through public or excuse me, a pre application meetings. I hear the gamut of we need more single family. We need more for single apartment single bedroom apartment or we need four bedroom apartments.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:25:18.000
+End: 00:25:40.000
+Duration: 22.000 seconds
+Text: Never I've heard a consensus from developers of what man had truly needs. So I hope this information will help that also. There is no doubt a section of our housing market that is not cost effective for developer.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:25:40.000
+End: 00:26:08.000
+Duration: 28.000 seconds
+Text: So I think that's the reason that they will need some sort of assistance. I'm not suggesting necessarily the city subsidizes that or uses those funds, but we certainly have partners within the community and maybe generate more partners to help with those housing segments because it's, you know, those are our folks that do a variety of things around the community that we need.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:26:08.000
+End: 00:26:27.000
+Duration: 19.000 seconds
+Text: We don't have appropriate housing for them and we don't have those jobs and and you know a lot of things don't happen in man had so that's how I see this working is some suggestions or recommendations that maybe not the city undertakes completely but our partners in the housing world could help with.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:26:28.000
+End: 00:26:41.000
+Duration: 13.000 seconds
+Text: You know, I'll comment I agree with what Commissioner had us all said is like as I thought this over it's like fine we'll get this study and we'll have all this data and the government's not going to be able to do anything with it.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:26:41.000
+End: 00:26:53.000
+Duration: 12.000 seconds
+Text: Execute a plan because it's not you know there's two kinds of data there's data and there's useful data. This may not be useful data to what a local government agency can actually do something with.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:26:53.000
+End: 00:27:20.000
+Duration: 27.000 seconds
+Text: It troubles me you know we want to spend $95,000 on a consultant and I got a couple emails from some of local builders I won't give you their names but they felt like you know if we just put together this you know housing advisory board and we talked about it the retreat and put some of local people in here and just got them together sort of like that flood committee we had that they can probably produce as good a data as any consultant can.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:27:20.000
+End: 00:27:46.000
+Duration: 26.000 seconds
+Text: And it won't cost us $95,000 and the other thing that I find interesting there is that part of affordable housing is your water bill and your sewer bill and what are we doing we're funding an affordable housing study by again pyridic money from the enterprise folks and I clearly am not going to support that that that's loon to see again you know how can that help us with affordable housing.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:27:46.000
+End: 00:28:01.000
+Duration: 15.000 seconds
+Text: You know the main thing we can do with affordable housing is drive down property tax. You know we can control code zoning all those things so you know in my mind this is just not a good expenditure $95,000 and it's definitely not a good expenditure of enterprise money.
+--------------------------------------------------
+City Clerk:
+Start: 00:28:01.000
+End: 00:28:29.000
+Duration: 28.000 seconds
+Text: I do have a question and that is about the census data and when it will be available to this consultant rather than creating a study that does not have access we've been living with 2010 census data for a long time and it has distorted things.
+--------------------------------------------------
+City Clerk:
+Start: 00:28:29.000
+End: 00:28:39.000
+Duration: 10.000 seconds
+Text: As far as I'm concerned it has because we don't have good real data so how soon is you're also in the census.
+--------------------------------------------------
+City Clerk:
+Start: 00:28:39.000
+End: 00:28:50.000
+Duration: 11.000 seconds
+Text: What do you call it one what's the name of the census group here in any way so one count or something in this count.
+--------------------------------------------------
+City Clerk:
+Start: 00:28:50.000
+End: 00:29:03.000
+Duration: 13.000 seconds
+Text: Okay whatever it is so how soon and will will this study will the census data be completed in time for this study to have you submit.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:29:03.000
+End: 00:29:19.000
+Duration: 16.000 seconds
+Text: So this April will be the first round account they'll do a follow up in the community in July or the summer and we after they process it and we probably won't see.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:29:19.000
+End: 00:29:35.000
+Duration: 16.000 seconds
+Text: We don't see any certified information from the US Senate to census until late 2021 so we're a good year and a half two years from seeing that information.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:29:35.000
+End: 00:29:55.000
+Duration: 20.000 seconds
+Text: We do have census estimations annual estimations that augment the you know the every 10 years census so it's not as if we are living without census data it's just not the complete count that happens every 10 years.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:29:55.000
+End: 00:30:02.000
+Duration: 7.000 seconds
+Text: But it is it is highly relevant and good data and we use it all the time for information throughout the city.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:02.000
+End: 00:30:19.000
+Duration: 17.000 seconds
+Text: I do know that this study has been put off several years because it's on the CIP I think and it's been pushed forward and I believe our community could benefit could have benefited from it in the past on some of the decisions we've made.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:19.000
+End: 00:30:33.000
+Duration: 14.000 seconds
+Text: And I think it is important that we know our community and that kind of data is important at least as I look at the materials that are developed.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:33.000
+End: 00:30:55.000
+Duration: 22.000 seconds
+Text: I wanted to ask to about where ordinary citizens are listed in your you've got committees but I want to be sure that citizens have the opportunity for input also.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:30:55.000
+End: 00:31:24.000
+Duration: 29.000 seconds
+Text: Yeah I'm spelled out exactly how that engagement will work. I really want the expertise of the consultant but through this whole visioning barrier analysis and developing of the recommendations we look to engage the broader public extensively be it open houses committee meetings forms like this online elements where we can provide information or seat feedback.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:31:24.000
+End: 00:31:39.000
+Duration: 15.000 seconds
+Text: There's multiple ways we want to get to folks that are not on a particular committee but are willing to provide their input.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:40.000
+End: 00:32:06.000
+Duration: 26.000 seconds
+Text: One of the interest areas I have had for the last couple of years is what the homeless population is in this community and I have I really can't get that from any one source that is that isn't three years old or you know I see Topeka has a and other communities have a one day they just did their homeless count.
+--------------------------------------------------
+City Clerk:
+Start: 00:32:06.000
+End: 00:32:30.000
+Duration: 24.000 seconds
+Text: And that's what they'll use all year long hours is more difficult to come by and so the opposite of a housing study is the home would be the homeless count and so I would like to try to identify that number two as not.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:32:30.000
+End: 00:32:52.000
+Duration: 22.000 seconds
+Text: I believe for sure that segment of our population will be included in this and I believe we did a similar homeless residents count if you will just last month I believe it was commission I did I see it.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:32:52.000
+End: 00:33:00.000
+Duration: 8.000 seconds
+Text: So the point in time count is done nationally every year and that's what you're referring to is like January 23 or something that happened here.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:33:00.000
+End: 00:33:04.000
+Duration: 4.000 seconds
+Text: Sure it has to it's a HUD requirement.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:33:04.000
+End: 00:33:14.000
+Duration: 10.000 seconds
+Text: Those numbers that definition of homelessness is not the same definition the school district uses so it's a different number but it's available we also fall into what is available.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:33:14.000
+End: 00:33:30.000
+Duration: 16.000 seconds
+Text: I can send it out but it's the HUD website where the balance of state is what we fall into that's what's easier when you look at Topeka they have a number we fall under with the balance of state that's basically everyone else that's not a big metro.
+--------------------------------------------------
+City Clerk:
+Start: 00:33:30.000
+End: 00:33:48.000
+Duration: 18.000 seconds
+Text: Because I think that's an important figure also and around the country the number of homelessness number of homeless is going up and I think we need to keep an eye on what's happening here in that regard.
+--------------------------------------------------
+City Clerk:
+Start: 00:33:48.000
+End: 00:34:16.000
+Duration: 28.000 seconds
+Text: So I am particularly interested in the affordable part of this study and that would be my emphasis and that's probably what I'm going to call it throughout the whole thing is I'm just started out as an effort to identify the affordable issues and I don't want this study to be completed without having addressing that.
+--------------------------------------------------
+City Clerk:
+Start: 00:34:16.000
+End: 00:34:44.000
+Duration: 28.000 seconds
+Text: And so you read the whole thing and you can't find with that part that's important so I want to be sure more citizens are involved I know the special interests will show up and they'll be the voices that are loudest but ordinary citizens are should be able to participate we have some old housing stock here and I want to be sure that that gets addressed also thank you.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:34:44.000
+End: 00:34:53.000
+Duration: 9.000 seconds
+Text: It's not going to be easy right no it is I think a vital policy document for us.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:34:53.000
+End: 00:35:09.000
+Duration: 16.000 seconds
+Text: So I have a couple well first of all the timeline I just want to be clear because that kind of sets some of my questions up the July to December 2021 is project completion.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:09.000
+End: 00:35:29.000
+Duration: 20.000 seconds
+Text: So that's talking about 18 months from now then we'd have this piece of paper potentially for a next commission to act on but basically is what we're looking at so that is a long time.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:29.000
+End: 00:35:58.000
+Duration: 29.000 seconds
+Text: So that goes back to my question of I I guess let me start out by saying you you mentioned this is suitable housing and I noticed in the writing workforce housing is listed you mentioned affordable housing and others but workforce housing is the perspective that I come from because that has always been missing from this argument it's secular we are we heard it tonight.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:58.000
+End: 00:36:25.000
+Duration: 27.000 seconds
+Text: Tonight on from the commission that we have anecdotal evidence why don't we get these developers together they can support there's and then it goes into student versus developers types of arguments when the data that we often see points to we're missing a workforce we're missing that backbone work that blue collar that type of worker that would actually spur business and draw in business.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:25.000
+End: 00:36:54.000
+Duration: 29.000 seconds
+Text: We don't have the labor force so it goes back to retention and talent and so that's why I say workforce because we have to stop thinking about this is affordable student housing or unaffordable to some people that need to let invisible hand of the market solve the problems so that us versus verse them makes this important to me and that it's a document that would help with objective analysis.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:55.000
+End: 00:37:24.000
+Duration: 29.000 seconds
+Text: And give us a foundation to build a consensus around of what the problem is because we could look at these stakeholders we could have all of these people listed right here on your advisory committee and they could probably craft different papers I know case state people could definitely craft papers and developers everybody's going to have their angle and do the work but if we don't have buy in from this commission we don't have buy in and we don't have buy in.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:25.000
+End: 00:37:54.000
+Duration: 29.000 seconds
+Text: From the people that would be utilizing that information that this is objective and it doesn't have a slant towards one developer or one segment of the community then it isn't worth anything so we must do that and this seems like the only way that we could get a piece of paper that it gives us data that isn't already tainted by somebody's history or baggage in the community that has a agenda so to speak so that makes it worth it to me.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:55.000
+End: 00:38:24.000
+Duration: 29.000 seconds
+Text: And I think that we have to remember when we talk about yeah it would be easy to get those certain people to the table and I think we have we have 18 months before this paper is ready if we move forward then we need to do things between now and then and that includes creating that I think advisory board that it looks like you have some of the makeup potentially here there's ways to explore that.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:24.000
+End: 00:38:53.000
+Duration: 29.000 seconds
+Text: Look at what what do we do with this document there's there's all kinds of things that we can do with it and I my background was working with homelessness and with HUD so I speak this language a little bit and I think there's so many there's so many grants and opportunities that you can apply for if you have something like this available that isn't just from a developer right like that it is part of your consolidated plan as part of your vision there's ways to get outside funds.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:54.000
+End: 00:39:23.000
+Duration: 29.000 seconds
+Text: There's ways to get private buy-in and then potentially work with businesses in the community to around that cost but we have the opportunity to do something between now and next July I would suggest putting some of those people that feel like they have evidence and if they want to work on their own if they want to present that data this this would not do anything but validate or or unvalidate their data I think that's the key.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:24.000
+End: 00:39:53.000
+Duration: 29.000 seconds
+Text: We have something to work towards but in the meantime we can't just sit here and do nothing there's a ton of housing stock that isn't in this purpose for the last decade and isn't ready for the next decade of our workforce let's not wait two years to start repurposing that housing we could do re revitalization projects in the next 18 months get that going either through other funds or whatever but this is a this is an end goal or a milestone and show us what we're doing.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:39:54.000
+End: 00:40:21.000
+Duration: 27.000 seconds
+Text: So that's a quite a bit of information but ever since I came on the board on the city commission even before I came on to the city commission the conversation has always been around housing whether it's rental housing suitable housing affordable housing case date housing whatever it is it's always been about housing but we've never had anything concrete to hold on to.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:40:21.000
+End: 00:40:33.000
+Duration: 12.000 seconds
+Text: I think that is something we need to have is the data piece and to have somebody that's impartial so they don't have some kind of other interest in it except providing us clear data.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:40:33.000
+End: 00:40:58.000
+Duration: 25.000 seconds
+Text: We always have numbers anywhere from 60 to 65 about rental housing percent for rental housing we have I know that the habitat for humanity is always looking for houses or property and then they realize that the majority of our property is rentals and they couldn't really do much with that in the city of Manhattan so they moved to the romigo or to augden in other areas to do this.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:40:58.000
+End: 00:41:17.000
+Duration: 19.000 seconds
+Text: This is worth putting some money into mainly because like I said the study will give us some concrete data from an impartial party where this is their strength and having some stakeholders from our community be a part of that is a big change for us as well to be part of that discussion.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:41:17.000
+End: 00:41:46.000
+Duration: 29.000 seconds
+Text: One of the things we heard at the goal setting retreat was Trent armbrust when he presented and we also heard from Paddy Clark when she presented and some of the other presenters at the regional leaders meeting in Olathe was the demographic of seniors increasing and they needed different type of housing whether it's ranch housing whether it's a smaller type of housing whether it's more access for entryways and such and that's not a piece we've always discussed.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:41:46.000
+End: 00:42:09.000
+Duration: 23.000 seconds
+Text: We've always discussed students and Fort Riley but we haven't discussed its other increasing demographic in our community and throughout our region and that's what I heard loud and clear and I think that's the piece that may not show up at a city commission meeting that may not show up at any of the discussions we have but we know the need is there because I've heard it at least three or four times and just the past couple of weeks.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:42:09.000
+End: 00:42:32.000
+Duration: 23.000 seconds
+Text: So I think that's something we need to understand it's not just the young professionals and it's not just students and it's not just Fort Riley we have an entire demographic that we need to think about that are our unfixed income that do want to stay in their homes that may have health issues and they want to be the other piece we heard was that most of people want to be in a high density area what does that look like.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:42:32.000
+End: 00:42:42.000
+Duration: 10.000 seconds
+Text: Property valuations go up when you have businesses and such that also create property valuations to go to increase regardless of what we do with the mill levy here.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:42:42.000
+End: 00:43:01.000
+Duration: 19.000 seconds
+Text: If you're in a community that's growing your property valuations are going to go up and when I hear faculty moving sorry working at Kansas State University they love coming to the university but their assumption is oh it's Manhattan Kansas the prices must not be that high for housing and there's always sticker shock when they come here and I've heard that continue to be a high density area.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:43:01.000
+End: 00:43:13.000
+Duration: 12.000 seconds
+Text: And I've heard that continuously as well that they've never realized how much more expensive it is than what they anticipated we're talking 200,000 to 300,000, 500,000 dollars and that's not what they expected.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:43:13.000
+End: 00:43:21.000
+Duration: 8.000 seconds
+Text: So I think and they're moving to our surrounding region they're moving out of Manhattan or choosing to live outside of Manhattan.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:43:21.000
+End: 00:43:34.000
+Duration: 13.000 seconds
+Text: So if we want to keep them here we need hardcore data I do agree it's about supply and demand but chances are even what we have right now is expensive for a lot of people and the homelessness piece.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:43:34.000
+End: 00:43:43.000
+Duration: 9.000 seconds
+Text: So as a teacher one of the things I noticed at Ogden and other schools is homelessness looks different like Erin was saying for students.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:43:43.000
+End: 00:43:53.000
+Duration: 10.000 seconds
+Text: So if you get evicted you move in with a family or friends and now you're homeless you're not in a shelter necessarily but now you're with like five other members and you don't have a place to go.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:43:53.000
+End: 00:44:00.000
+Duration: 7.000 seconds
+Text: Homelessness doesn't mean they're always under a bridge they're not invisible but they're living with somebody else trying to find that housing.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:44:00.000
+End: 00:44:11.000
+Duration: 11.000 seconds
+Text: When we talk about social services budget which is often what we're going to discuss when they come to us the need is there for individuals where too much bureaucracy is not involved
+--------------------------------------------------
+Mayor Ready:
+Start: 00:44:11.000
+End: 00:44:18.000
+Duration: 7.000 seconds
+Text: and they still want to be anonymous because of other threats that might be in their life or other challenges they're going through.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:44:18.000
+End: 00:44:27.000
+Duration: 9.000 seconds
+Text: So we need to have them also at the table for representation nobody wants to go into a shelter and stay at an emergency shelter they want to find a place to go.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:44:27.000
+End: 00:44:35.000
+Duration: 8.000 seconds
+Text: So I think those are some of the conversations hopefully a study like this will provide for us just because we don't see them in this room.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:44:35.000
+End: 00:44:47.000
+Duration: 12.000 seconds
+Text: We have a lot of a lot of issues with housing and the minute we come to that thought of we have a problem let's find a solution this is one of those ways and future commissioners do use such data.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:44:47.000
+End: 00:45:01.000
+Duration: 14.000 seconds
+Text: I've seen I mean master plans that were here before I ever came on that we still pursued because they were a document would constantly go to the comprehensive plan for example we would constantly go to that.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:45:01.000
+End: 00:45:15.000
+Duration: 14.000 seconds
+Text: The UDO also fits into this so we look at tiny homes smaller homes and a smaller spot and where does banking fall into that where the developers fall into that so all of these need to work cohesively.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:45:15.000
+End: 00:45:24.000
+Duration: 9.000 seconds
+Text: That's a lot that I've said but hopefully it gives some direction as far as my understanding of what we want to get out of a housing study.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:45:24.000
+End: 00:45:36.000
+Duration: 12.000 seconds
+Text: I know the discussions are going to be ongoing but as you develop that request for proposals or request for qualifications I would like some of those things to be clear and people who have done this before.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:45:36.000
+End: 00:45:52.000
+Duration: 16.000 seconds
+Text: So you were given a draft of the request for qualifications where there's some elements missing or not quite clear or if you have other comments or inputs I'd be happy to take them but at the end of the day we'd like to get the if you're agreeable to it.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:45:52.000
+End: 00:46:04.000
+Duration: 12.000 seconds
+Text: The study that RFQ to you in short order for consideration and moving this project forward.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:46:04.000
+End: 00:46:07.000
+Duration: 3.000 seconds
+Text: Just somebody who has experience in it.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:46:07.000
+End: 00:46:09.000
+Duration: 2.000 seconds
+Text: Yeah and that's what we're after.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:46:09.000
+End: 00:46:17.000
+Duration: 8.000 seconds
+Text: That's a special niche of planning and economics that we hope to hire to give us some guidance.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:46:17.000
+End: 00:46:21.000
+Duration: 4.000 seconds
+Text: Yeah, I think this covers it pretty well.
+--------------------------------------------------
+City Clerk:
+Start: 00:46:21.000
+End: 00:46:38.000
+Duration: 17.000 seconds
+Text: My question had to do from the section on development of the scope of work was when you referenced other stakeholders but then in your PowerPoint this evening you've spelled out who the stakeholders you intend to engage.
+--------------------------------------------------
+City Clerk:
+Start: 00:46:38.000
+End: 00:46:48.000
+Duration: 10.000 seconds
+Text: And then I've asked you to add public to it the general public to it too so the stakeholders are our citizens ultimately.
+--------------------------------------------------
+City Clerk:
+Start: 00:46:48.000
+End: 00:46:50.000
+Duration: 2.000 seconds
+Text: And that was my question.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:46:50.000
+End: 00:47:03.000
+Duration: 13.000 seconds
+Text: This is only going to be only as good as the citizens that participate in our efforts to get out and work with our neighbors.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:47:03.000
+End: 00:47:20.000
+Duration: 17.000 seconds
+Text: So this list is really just a short not complete list of folks that may serve on a committee or two but getting this information back to the community seeking input from them will be vital for a successful program.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:47:20.000
+End: 00:47:32.000
+Duration: 12.000 seconds
+Text: I think if you can tell us when those are being organized that would be great so we can reach out to some of those different demographics typically populations from minority populations or other populations are not reached out to as much.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:47:32.000
+End: 00:47:37.000
+Duration: 5.000 seconds
+Text: And we'll see if they can participate or at least we can go to them also.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:47:37.000
+End: 00:47:43.000
+Duration: 6.000 seconds
+Text: I am looking forward to how the census comes out. It'll be interesting to see what those numbers look like.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:47:43.000
+End: 00:47:49.000
+Duration: 6.000 seconds
+Text: It would be ideal if we waited to the census but truthfully I think this is too important of a document.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:47:49.000
+End: 00:48:00.000
+Duration: 11.000 seconds
+Text: Yeah, and we'll still have plenty of good information about our housing stock and demographics that if we waited two years we're two years further behind of finding homes for teachers.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:48:00.000
+End: 00:48:19.000
+Duration: 19.000 seconds
+Text: Home for professors and everyone in between. So to me this is an important document for us as a community so we can make our workforce have a safe comfortable spot to live in not just homeless or students or whatever it's a spectrum of my opinion.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:48:19.000
+End: 00:48:27.000
+Duration: 8.000 seconds
+Text: It is, Bra. Other questions from the public or comments from the public.
+--------------------------------------------------
+City Clerk:
+Start: 00:48:30.000
+End: 00:48:46.000
+Duration: 16.000 seconds
+Text: Mayor and commissioners, my name is Christy Rodriguez. I'm the program director of Regenery Imagine and I just wanted to say that I completely support the analysis.
+--------------------------------------------------
+City Clerk:
+Start: 00:48:46.000
+End: 00:48:50.000
+Duration: 4.000 seconds
+Text: We have been talking about it for more than a year.
+--------------------------------------------------
+City Clerk:
+Start: 00:48:50.000
+End: 00:49:10.000
+Duration: 20.000 seconds
+Text: It is a critical element that has been identified in the plan to look at how do we move forward and renovating and construction both to make sure that we have a community that supports our labor.
+--------------------------------------------------
+City Clerk:
+Start: 00:49:10.000
+End: 00:49:21.000
+Duration: 11.000 seconds
+Text: We have a hard labor market. I hear all the time that people come and then they can't find a place that either they can afford or that is suitable.
+--------------------------------------------------
+City Clerk:
+Start: 00:49:21.000
+End: 00:49:30.000
+Duration: 9.000 seconds
+Text: When you look at demographic information aging in place is key. We want to be able to retain our population as well.
+--------------------------------------------------
+City Clerk:
+Start: 00:49:30.000
+End: 00:49:41.000
+Duration: 11.000 seconds
+Text: And so from a Regenery Imagine standpoint it's critical that we have this data in order to make data driven decisions moving forward.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:49:41.000
+End: 00:49:49.000
+Duration: 8.000 seconds
+Text: Thank you, Chris. Thank you. Did you sign it? Did you sign it? Oh, I can't yes.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:49:49.000
+End: 00:49:58.000
+Duration: 9.000 seconds
+Text: Other public comment.
+--------------------------------------------------
+City Clerk:
+Start: 00:49:58.000
+End: 00:50:08.000
+Duration: 10.000 seconds
+Text: This would be a good time to ask Chad. When you say the Manhattan Chamber of Commerce does that include under that umbrella of the Regenery Imagine effort?
+--------------------------------------------------
+City Clerk:
+Start: 00:50:08.000
+End: 00:50:17.000
+Duration: 9.000 seconds
+Text: I want to be sure that Regenery Imagine may have one emphasis and the Chamber itself could have another.
+--------------------------------------------------
+City Clerk:
+Start: 00:50:17.000
+End: 00:50:23.000
+Duration: 6.000 seconds
+Text: So I'm just making sure that both are represented.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:50:23.000
+End: 00:50:33.000
+Duration: 10.000 seconds
+Text: So yeah, my MMO reference to Chamber broadly but Christie Jason may have a different take on.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:50:33.000
+End: 00:50:40.000
+Duration: 7.000 seconds
+Text: There's support housing. Yes. Both Regenery Imagine and Chad.
+--------------------------------------------------
+City Clerk:
+Start: 00:50:40.000
+End: 00:50:47.000
+Duration: 7.000 seconds
+Text: I can provide a little bit of clarification. So Manhattan is a huge part of Regenery Imagine.
+--------------------------------------------------
+City Clerk:
+Start: 00:50:47.000
+End: 00:50:55.000
+Duration: 8.000 seconds
+Text: So although some of the data will be looking at the region as Chad said that's yet to be defined.
+--------------------------------------------------
+City Clerk:
+Start: 00:50:55.000
+End: 00:51:04.000
+Duration: 9.000 seconds
+Text: But I'm assuming it'll include the Regenery Imagine components. But the strategies and the recommendations are going to be Manhattan specific.
+--------------------------------------------------
+City Clerk:
+Start: 00:51:04.000
+End: 00:51:10.000
+Duration: 6.000 seconds
+Text: And that will then launch Manhattan hopefully in a good direction moving forward.
+--------------------------------------------------
+City Clerk:
+Start: 00:51:10.000
+End: 00:51:21.000
+Duration: 11.000 seconds
+Text: So we have a built environment work group that Chad and a lot of people within the community serve on and housing is the key focus.
+--------------------------------------------------
+City Clerk:
+Start: 00:51:21.000
+End: 00:51:27.000
+Duration: 6.000 seconds
+Text: The last discussion that we had said, you know, everyone does have their opinion.
+--------------------------------------------------
+City Clerk:
+Start: 00:51:27.000
+End: 00:51:36.000
+Duration: 9.000 seconds
+Text: But we need data to drive anything moving forward. So quite frankly that group stopped meeting hoping that this analysis would come forward.
+--------------------------------------------------
+City Clerk:
+Start: 00:51:36.000
+End: 00:51:42.000
+Duration: 6.000 seconds
+Text: Now I think that there are things that we can do in the meantime to help move things forward.
+--------------------------------------------------
+City Clerk:
+Start: 00:51:42.000
+End: 00:51:50.000
+Duration: 8.000 seconds
+Text: But without that data we want to be making decisions based on that neutral data.
+--------------------------------------------------
+City Clerk:
+Start: 00:51:50.000
+End: 00:51:53.000
+Duration: 3.000 seconds
+Text: Hopefully that helps to explain.
+--------------------------------------------------
+City Clerk:
+Start: 00:51:53.000
+End: 00:52:01.000
+Duration: 8.000 seconds
+Text: I understand what you're saying. I just sometimes think the Business Advocacy Committee is made up of totally business people.
+--------------------------------------------------
+City Clerk:
+Start: 00:52:01.000
+End: 00:52:07.000
+Duration: 6.000 seconds
+Text: And not always an understanding of a sense of place and the built environment.
+--------------------------------------------------
+City Clerk:
+Start: 00:52:07.000
+End: 00:52:14.000
+Duration: 7.000 seconds
+Text: And I just want to be sure that both of those make it through the to the end.
+--------------------------------------------------
+City Clerk:
+Start: 00:52:14.000
+End: 00:52:16.000
+Duration: 2.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:52:16.000
+End: 00:52:18.000
+Duration: 2.000 seconds
+Text: Thank you, Christian.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:52:18.000
+End: 00:52:24.000
+Duration: 6.000 seconds
+Text: Anybody else for public comment?
+--------------------------------------------------
+Mayor Ready:
+Start: 00:52:24.000
+End: 00:52:29.000
+Duration: 5.000 seconds
+Text: Okay. Let me close the comment. This was just a discussion. So there's no vote necessary.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:52:29.000
+End: 00:52:32.000
+Duration: 3.000 seconds
+Text: Are there other comments from the city commission? Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:52:32.000
+End: 00:52:41.000
+Duration: 9.000 seconds
+Text: I was just going to say so Chad on that the members from the neighborhood, the 10 different areas. So that'd be a digital additional 10 potential people.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:52:41.000
+End: 00:52:47.000
+Duration: 6.000 seconds
+Text: If we can identify them in those sections that you have in our packet that are blocked off.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:52:47.000
+End: 00:52:53.000
+Duration: 6.000 seconds
+Text: So that kind of could also fill a lot of gaps for people that we don't have listed out in different ways.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:52:53.000
+End: 00:53:08.000
+Duration: 15.000 seconds
+Text: I think the challenge that you have before you in challenge we may have if we have a advisory council or board is to bring all those stakeholders that are listed there to the table.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:53:08.000
+End: 00:53:12.000
+Duration: 4.000 seconds
+Text: And to keep them at the table is the challenge.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:53:12.000
+End: 00:53:21.000
+Duration: 9.000 seconds
+Text: And so this may be a carrot. This study may be a carrot. There's several things we have to do to get them to stay at the table.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:53:21.000
+End: 00:53:38.000
+Duration: 17.000 seconds
+Text: But right now that that's the biggest thing that's been missing is there's been siloed activity all over the place with all the different and antidotes come out from that where there's an essentialized clearing house of that information sharing of data and moving forward.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:53:38.000
+End: 00:53:47.000
+Duration: 9.000 seconds
+Text: I think it's an endeavor that we should be doing and I'm glad that we're hopefully starting that process.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:53:47.000
+End: 00:53:49.000
+Duration: 2.000 seconds
+Text: Yeah, thank you. Yes, Mark.
+--------------------------------------------------
+Speaker_4:
+Start: 00:53:49.000
+End: 00:53:52.000
+Duration: 3.000 seconds
+Text: Just to wrap up my rant on affordable housing.
+--------------------------------------------------
+Speaker_4:
+Start: 00:53:52.000
+End: 00:54:01.000
+Duration: 9.000 seconds
+Text: The, yeah, like my interest lies in the fact is what is driving up the cost of housing in Manhattan compared to everywhere else.
+--------------------------------------------------
+Speaker_4:
+Start: 00:54:01.000
+End: 00:54:05.000
+Duration: 4.000 seconds
+Text: And so it doesn't the I don't want to form some formal committee.
+--------------------------------------------------
+Speaker_4:
+Start: 00:54:05.000
+End: 00:54:14.000
+Duration: 9.000 seconds
+Text: But I made call half a dozen people and get together with for beers and talk about what drives up the cost of construction.
+--------------------------------------------------
+Speaker_4:
+Start: 00:54:14.000
+End: 00:54:23.000
+Duration: 9.000 seconds
+Text: Is it, is it the cost of land? Is it the dig into rock every time to put in sewer water streets? Is it the code?
+--------------------------------------------------
+Speaker_4:
+Start: 00:54:23.000
+End: 00:54:40.000
+Duration: 17.000 seconds
+Text: The code things is that the zoning regulations make it too hard. Is it the fact that obviously everybody flocks over to pot county because of lower property taxes because of Jeffrey energy center and we don't have anything like that to pay half of the property taxes for the county like pot county does.
+--------------------------------------------------
+Speaker_4:
+Start: 00:54:40.000
+End: 00:54:50.000
+Duration: 10.000 seconds
+Text: But at some point, I think yeah, whatever part of lack of affordable housing, the government is causing.
+--------------------------------------------------
+Speaker_4:
+Start: 00:54:50.000
+End: 00:54:58.000
+Duration: 8.000 seconds
+Text: I think I want to spend some time focusing on that. Is it the over sizing the water mains? They started putting in six inches instead of four inch water mains and subdivisions.
+--------------------------------------------------
+Speaker_4:
+Start: 00:54:58.000
+End: 00:55:09.000
+Duration: 11.000 seconds
+Text: Even though I don't think there is any complaints of water pressure issues, but that that's an extra thousand dollars of hundred yards or something or whatever it is that over sizing.
+--------------------------------------------------
+Speaker_4:
+Start: 00:55:09.000
+End: 00:55:18.000
+Duration: 9.000 seconds
+Text: Or is it strictly property taxes with everything is that if that's what what is driven up housing costs so much because rentals.
+--------------------------------------------------
+Speaker_4:
+Start: 00:55:18.000
+End: 00:55:28.000
+Duration: 10.000 seconds
+Text: The landlords never pay the property tax. It's always passed on to the tenants. So every time they pass a bond issue and they talk about hundred fifty thousand dollar house paying X amount of money.
+--------------------------------------------------
+Speaker_4:
+Start: 00:55:28.000
+End: 00:55:40.000
+Duration: 12.000 seconds
+Text: Well, a seven hundred dollar two bedroom apartment just got socked for an extra fifty dollars because of because of the property tax increases between the school board county and the little bit the city did.
+--------------------------------------------------
+Speaker_4:
+Start: 00:55:40.000
+End: 00:55:49.000
+Duration: 9.000 seconds
+Text: So at some point, I'm going to over the next three years focus a little bit more on, okay, what can we do to stop driving up the cost of housing.
+--------------------------------------------------
+Speaker_4:
+Start: 00:55:49.000
+End: 00:56:02.000
+Duration: 13.000 seconds
+Text: And then I don't know exactly what we can do to drive it down and I don't know what we can do to repurpose existing housing other than come up with some kind of rehabilitation project things where the city puts a little bit of money.
+--------------------------------------------------
+Speaker_4:
+Start: 00:56:02.000
+End: 00:56:12.000
+Duration: 10.000 seconds
+Text: I'm not interested. Apparently to get the downtown continue to redevelop the downtown. That's probably going to require a whole bunch of city money.
+--------------------------------------------------
+Speaker_4:
+Start: 00:56:12.000
+End: 00:56:20.000
+Duration: 8.000 seconds
+Text: I don't think anybody's ready for that again, but if we could do some things through some thing.
+--------------------------------------------------
+Speaker_4:
+Start: 00:56:20.000
+End: 00:56:27.000
+Duration: 7.000 seconds
+Text: I would like us to start looking to see how can we encourage some of this older housing to be redeveloped to be improved.
+--------------------------------------------------
+Speaker_4:
+Start: 00:56:27.000
+End: 00:56:39.000
+Duration: 12.000 seconds
+Text: I'm all in favor of getting old stock revitalized and not just tearing it down and building another 12plex. God forbid we'd get any more of those, but that's the kind of thing.
+--------------------------------------------------
+Speaker_4:
+Start: 00:56:39.000
+End: 00:56:44.000
+Duration: 5.000 seconds
+Text: I'm just going to spend a little bit of time sometime and maybe I'll do it on my own and report back to you.
+--------------------------------------------------
+Speaker_4:
+Start: 00:56:44.000
+End: 00:56:51.000
+Duration: 7.000 seconds
+Text: But that is an issue that has been ignored and we if we're going to seriously look at what we can do about making housing affordable.
+--------------------------------------------------
+Speaker_4:
+Start: 00:56:51.000
+End: 00:57:00.000
+Duration: 9.000 seconds
+Text: That has to be a little bit of thing we look at what is driving it up and what can we what are we doing that's driving it up and can we stop doing that.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:57:00.000
+End: 00:57:13.000
+Duration: 13.000 seconds
+Text: No, I agree with you completely. I think there are some factors that we do have control over between the school district, the city and the county as far as property taxes and bond initiatives.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:57:13.000
+End: 00:57:26.000
+Duration: 13.000 seconds
+Text: That is something we can look closer at and property valuations going out being in a university town in itself creates a different type of property valuation compared to some of our regional areas.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:57:26.000
+End: 00:57:31.000
+Duration: 5.000 seconds
+Text: I think that's one place we are constantly trying to see how to keep.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:57:31.000
+End: 00:57:41.000
+Duration: 10.000 seconds
+Text: But the CDBG funds and other funds that we have in place trying to revitalize some of those and we have the Manhattan housing authority and the DUDO ones and all of these things.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:57:41.000
+End: 00:57:47.000
+Duration: 6.000 seconds
+Text: So I think those are some things we constantly have to look at and maybe some people are not educated enough about those either.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:57:47.000
+End: 00:57:57.000
+Duration: 10.000 seconds
+Text: The bureaucracy as far as filling out paperwork is so much it's almost like you need you need a different degree just to fill out some of those applications.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:57:57.000
+End: 00:58:03.000
+Duration: 6.000 seconds
+Text: And I think those are some methods that we need to have people working with individuals that are in need of affordable housing.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:58:03.000
+End: 00:58:12.000
+Duration: 9.000 seconds
+Text: We have some stock there and like I said the paperwork is huge or they don't meet some of those requirements. That's the other piece and how to work through that.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:58:12.000
+End: 00:58:37.000
+Duration: 25.000 seconds
+Text: Yeah. One of the things that came out of our retreat that was really enlightening to me was that Commissioner Butler, Commissioner Hadasal have a whole lot of passion about creating workforce or affordable housing but not necessarily from the same perspective as you often hear other people.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:58:37.000
+End: 00:58:45.000
+Duration: 8.000 seconds
+Text: And so that was that was enlightening to me. Removing those barriers, finding ways to make things more affordable by getting government out of the way.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:58:45.000
+End: 00:58:56.000
+Duration: 11.000 seconds
+Text: Inefficiencies are a part of this discussion. So I think that's it doesn't get set enough and maybe I'll never say it again but they had some good ideas.
+--------------------------------------------------
+Mayor Ready:
+Start: 00:58:56.000
+End: 00:59:01.000
+Duration: 5.000 seconds
+Text: Okay. Go ahead. Did you want to say something?
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:59:01.000
+End: 00:59:17.000
+Duration: 16.000 seconds
+Text: No, I was just going to say you know Ron always takes on the staff you know the discussion and then they move on so it sounds like the majority of the commission is interested in pursuing the RFQ but I would like to get the commission to make a comment on funding.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:59:17.000
+End: 00:59:26.000
+Duration: 9.000 seconds
+Text: What I want to know is does the commission as a whole agree to use the water fund to fund this thing? And of course, I already know my phone on that. We ought to say absolutely no.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 00:59:26.000
+End: 00:59:34.000
+Duration: 8.000 seconds
+Text: And then the staff can come up with a funding plan that doesn't include that.
+--------------------------------------------------
+City Clerk:
+Start: 00:59:34.000
+End: 00:59:49.000
+Duration: 15.000 seconds
+Text: I have always been an advocate of conserving the economic development money and waiting for some of these idealistic I guess since we haven't had any practical ones come along.
+--------------------------------------------------
+City Clerk:
+Start: 00:59:49.000
+End: 01:00:01.000
+Duration: 12.000 seconds
+Text: But I'm willing to fund this out of economic development. I think it is that important that we develop that we know ourselves and have access to this data.
+--------------------------------------------------
+City Clerk:
+Start: 01:00:01.000
+End: 01:00:11.000
+Duration: 10.000 seconds
+Text: And some people say show me the data. Well, we're after the data with this project and that makes sense to me.
+--------------------------------------------------
+City Clerk:
+Start: 01:00:11.000
+End: 01:00:15.000
+Duration: 4.000 seconds
+Text: Other comments?
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:00:15.000
+End: 01:00:24.000
+Duration: 9.000 seconds
+Text: I would be comfortable with joining Linda on that through economic development.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:00:24.000
+End: 01:00:37.000
+Duration: 13.000 seconds
+Text: To me, the water fund is important but also trying to solve affordable housing by using the water money is also a tricky argument.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:00:37.000
+End: 01:00:49.000
+Duration: 12.000 seconds
+Text: But if there is availability in the economic development fund at this point for this to work, I would be all for that.
+--------------------------------------------------
+Speaker_4:
+Start: 01:00:49.000
+End: 01:00:54.000
+Duration: 5.000 seconds
+Text: That's probably not anything. C-D-B-G funds could be used for. There's no other.
+--------------------------------------------------
+Speaker_4:
+Start: 01:00:54.000
+End: 01:00:57.000
+Duration: 3.000 seconds
+Text: They can't be used for conserving for stuff like that.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 01:00:57.000
+End: 01:01:02.000
+Duration: 5.000 seconds
+Text: It could if it was looking at a qualified particular area.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 01:01:02.000
+End: 01:01:08.000
+Duration: 6.000 seconds
+Text: Potentially, it would be needed to get it in your annual plan and it would be difficult.
+--------------------------------------------------
+Speaker_4:
+Start: 01:01:08.000
+End: 01:01:19.000
+Duration: 11.000 seconds
+Text: I don't know how much money is in the eco-divo thing. But it's not comfortable with using utility funds for everything.
+--------------------------------------------------
+Speaker_4:
+Start: 01:01:19.000
+End: 01:01:28.000
+Duration: 9.000 seconds
+Text: Since we've already formed five meetings into the year and we've already rated them for three different things.
+--------------------------------------------------
+Speaker_4:
+Start: 01:01:28.000
+End: 01:01:37.000
+Duration: 9.000 seconds
+Text: If we can see if there's eco-divo money available, that would probably be as justifiable as anything.
+--------------------------------------------------
+City Clerk:
+Start: 01:01:37.000
+End: 01:01:46.000
+Duration: 9.000 seconds
+Text: Just to clarify, approved in the 2020 budget, it was about $59,000 of the $95,000 total that was eco-divo.
+--------------------------------------------------
+City Clerk:
+Start: 01:01:46.000
+End: 01:01:51.000
+Duration: 5.000 seconds
+Text: And then the remaining $30,000 was split among the water, wastewater and storm water.
+--------------------------------------------------
+City Clerk:
+Start: 01:01:51.000
+End: 01:01:58.000
+Duration: 7.000 seconds
+Text: So you'd be increasing the eco-divo cost about $30,000 if you wanted to fund it fully from eco-divo.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 01:01:58.000
+End: 01:02:05.000
+Duration: 7.000 seconds
+Text: I can support that or any other source other than the enterprise funds. That's just what my issue.
+--------------------------------------------------
+Mayor Ready:
+Start: 01:02:06.000
+End: 01:02:17.000
+Duration: 11.000 seconds
+Text: I don't mind if we use the eco-divo funds, but I do think even if we use the enterprise funds, when you think about housing, part of that is water sources.
+--------------------------------------------------
+Mayor Ready:
+Start: 01:02:17.000
+End: 01:02:22.000
+Duration: 5.000 seconds
+Text: And how we, how that impacts some of these housing places where people live.
+--------------------------------------------------
+Mayor Ready:
+Start: 01:02:22.000
+End: 01:02:30.000
+Duration: 8.000 seconds
+Text: I'm not uncomfortable using the enterprise fund. So to me, it doesn't matter which fund we use in this particular study.
+--------------------------------------------------
+Mayor Ready:
+Start: 01:02:30.000
+End: 01:02:41.000
+Duration: 11.000 seconds
+Text: I think the outcome is eventually we will have data enough to make sure we have housing, which also includes our pipes and whatever plumbing systems that we want to have.
+--------------------------------------------------
+Mayor Ready:
+Start: 01:02:41.000
+End: 01:02:53.000
+Duration: 12.000 seconds
+Text: And where they are, because some of the areas that have the worst infrastructure as far as our storm water systems is where some of the expenses are falling because of flooding and such.
+--------------------------------------------------
+Mayor Ready:
+Start: 01:02:53.000
+End: 01:03:00.000
+Duration: 7.000 seconds
+Text: So I think we need to think about it in a comprehensive manner, especially for a housing study.
+--------------------------------------------------
+Mayor Ready:
+Start: 01:03:00.000
+End: 01:03:06.000
+Duration: 6.000 seconds
+Text: When you think about housing, a lot of water systems are involved in housing. And where they are located is sometimes more expensive.
+--------------------------------------------------
+Mayor Ready:
+Start: 01:03:06.000
+End: 01:03:15.000
+Duration: 9.000 seconds
+Text: Even the house may not be expensive, but because of the infrastructure that's there, they may be experiencing more types of displacement or water issues.
+--------------------------------------------------
+Mayor Ready:
+Start: 01:03:15.000
+End: 01:03:19.000
+Duration: 4.000 seconds
+Text: And that's part of the problem we're having right now.
+--------------------------------------------------
+City Clerk:
+Start: 01:03:19.000
+End: 01:03:28.000
+Duration: 9.000 seconds
+Text: I can actually support the enterprise funds too. I'm just to clarify because housing is what generates those funds.
+--------------------------------------------------
+City Clerk:
+Start: 01:03:28.000
+End: 01:03:43.000
+Duration: 15.000 seconds
+Text: And so there is a direct tie and a direct relationship between the two. But if it takes using the Economic Development Fund to get off a dead center or to get enough to support this I, then I would do that.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 01:03:43.000
+End: 01:03:51.000
+Duration: 8.000 seconds
+Text: To me, the only direct tie to the water funds and affordable housing is as you raise your water bills, it makes housing less affordable.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 01:03:51.000
+End: 01:04:02.000
+Duration: 11.000 seconds
+Text: When you come here to buy a house and I did this the first time in 78, what do you look at? Property tax, what are your utilities cost, what are your water rates, what are your sewer rates.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 01:04:02.000
+End: 01:04:07.000
+Duration: 5.000 seconds
+Text: You look at what the total bill is going to be. It's not just the interest rate on the house and the mortgage.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 01:04:07.000
+End: 01:04:16.000
+Duration: 9.000 seconds
+Text: And that's why I'm adamant. I brought it up with the retreat that we need to stop rating the enterprise funds to cover other things.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 01:04:16.000
+End: 01:04:26.000
+Duration: 10.000 seconds
+Text: And we should use it only for enterprise funds functions. And that means using it to fix the sewer lines, the water lines, the flooding and all that.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 01:04:26.000
+End: 01:04:33.000
+Duration: 7.000 seconds
+Text: And quit using it to pay dues for the Kansas National League of Cities and higher consultants to do studies.
+--------------------------------------------------
+Mayor Ready:
+Start: 01:04:33.000
+End: 01:04:38.000
+Duration: 5.000 seconds
+Text: Well, you're digressing because I think you're probably going to vote no on this anyway.
+--------------------------------------------------
+Mayor Ready:
+Start: 01:04:38.000
+End: 01:04:59.000
+Duration: 21.000 seconds
+Text: Yeah, so it has nothing to do with which fund it comes out of. But in this case, because we are talking about housing, where the pipes are, if they are not adequately sufficient in the infrastructure of the housing, we usually have one of some of our most vulnerable populations in those areas that get flooded.
+--------------------------------------------------
+Mayor Ready:
+Start: 01:04:59.000
+End: 01:05:12.000
+Duration: 13.000 seconds
+Text: And sometimes that's cheap housing. So we need to be clear when we are talking about a housing study that we are also keeping our citizens safe from flooding.
+--------------------------------------------------
+Mayor Ready:
+Start: 01:05:12.000
+End: 01:05:23.000
+Duration: 11.000 seconds
+Text: So I don't see it at two separate issues. Equal diva, obviously, I mean, we put it from economic development funds, but my idea of economic development funds is also job creation.
+--------------------------------------------------
+Mayor Ready:
+Start: 01:05:23.000
+End: 01:05:37.000
+Duration: 14.000 seconds
+Text: But we can't, I'm comfortable using economic development funds for this, but I'm also comfortable with using enterprise funds for this because I see both of those as a comprehensive place for a housing study.
+--------------------------------------------------
+Mayor Ready:
+Start: 01:05:37.000
+End: 01:05:41.000
+Duration: 4.000 seconds
+Text: Any other comments?
+--------------------------------------------------
+Mayor Ready:
+Start: 01:05:41.000
+End: 01:05:42.000
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:05:42.000
+End: 01:05:47.000
+Duration: 5.000 seconds
+Text: Oh, real quick. Sorry, I just had to wait till you look there.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:05:47.000
+End: 01:05:49.000
+Duration: 2.000 seconds
+Text: Last word, Aaron.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:05:49.000
+End: 01:05:59.000
+Duration: 10.000 seconds
+Text: If we move forward since it sounds like it's not going to matter either way with the way it's written today, with the water, that's for the other two.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:05:59.000
+End: 01:06:07.000
+Duration: 8.000 seconds
+Text: I will support moving the water fund. I wanted to be known that I see housing as economic development. I think that's where it's at. That's what we've heard.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:06:07.000
+End: 01:06:18.000
+Duration: 11.000 seconds
+Text: So that's why that is if we could do it that way, we could do it that way. If we have a motion before us and you somebody else wants to make it as is, then there's no motion.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:06:18.000
+End: 01:06:24.000
+Duration: 6.000 seconds
+Text: Sorry, sorry, sorry, sorry. Yeah. But going forward, I would be okay with either.
+--------------------------------------------------
+Mayor Ready:
+Start: 01:06:24.000
+End: 01:06:29.000
+Duration: 5.000 seconds
+Text: So I think you have a majority. I'm not sure what all you heard, but I heard a majority for a few things.
+--------------------------------------------------
+Chad Bunger, Assistant Director of Community Development:
+Start: 01:06:29.000
+End: 01:06:33.000
+Duration: 4.000 seconds
+Text: Appreciate the discussion. Yeah, I think you got some good feedback.
+--------------------------------------------------
+Mayor Ready:
+Start: 01:06:33.000
+End: 01:06:39.000
+Duration: 6.000 seconds
+Text: Okay, if there are no other comments or discussion, we are adjourned for the evening. Thank you all.
+--------------------------------------------------
+Mayor Ready:
+Start: 01:07:03.000
+End: 01:07:13.000
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------

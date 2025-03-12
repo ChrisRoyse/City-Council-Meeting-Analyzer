@@ -1,0 +1,166 @@
+{
+  "open_ended_analysis": {
+    "primary_themes": [
+      {
+        "theme": "City Board Appointments",
+        "description": "There was a lot of discussion around the appointments to the Social Services Advisory Board and the Special Alcohol Funds Board, with many on the council urging for action to consolidate these two boards into one and streamline the process.",
+        "notable_points": [
+          "Several commissioners were impatient with the speed of progress on consolidating the two boards.",
+          "The decision was made not to approve certain appointments to expedite the process of board consolidation.",
+          "There seems to be a majority support for the consolidation of the boards."
+        ]
+      },
+      {
+        "theme": "Community Events and Celebrations",
+        "description": "Commissioners thanked community members for their participation in recent events and highlighted local successes, including Manhattan High School's state championship and Kansas State University's conference championship.",
+        "notable_points": [
+          "Commissioners highlighted the importance of community participation and celebration of local victories.",
+          "The holiday season was flagged as a crucial time for supporting local non-profits and initiatives."
+        ]
+      }
+    ],
+    "significant_discussions": [
+      {
+        "topic": "Plans to Amend Townhomes at Miller Ranch Signage",
+        "significance": "This proposed change seems to be of interest to the community and the commission as it impacts the visuals of the local area.",
+        "stakeholders": [
+          "Residents of the Townhomes at Miller Ranch",
+          "Local community",
+          "City commission"
+        ]
+      }
+    ],
+    "unexpected_elements": [
+      {
+        "element": "Resistance to Board Appointments",
+        "context": "The unusual atmosphere of frustration concerning the board appointment process was notable, particularly a push to consolidate the Social Services Advisory Board and the Special Alcohol Funds Board."
+      }
+    ]
+  },
+  "directed_analysis": {
+    "land_use": {
+      "present": true,
+      "significance": "Medium",
+      "context": "Land use was discussed in the context of a public hearing regarding amendments to the townhomes at Miller Ranch, planned unit development for signage. However, detailed insights into the discussion regarding this land use topic were not available in the provided transcript. ",
+      "notable_points": [
+        "Amendment to the townhomes at Miller Ranch PUD for signage"
+      ]
+    },
+    "economic_development": {
+      "present": true,
+      "significance": "High",
+      "context": "There was an extensive discussion about the significance of the city's special events, specifically a parade and how it promotes community engagement and attracts visitors to the city. In addition, the topic of supporting local non-profit organizations was mentioned, emphasizing the importance of supporting the local economy particularly during the holiday season.",
+      "notable_points": [
+        "Commissioner highlighted the relevance of local events in promoting the city as a destination",
+        "Encouragement to donate to local non-profits signifying the importance of a strong local economy"
+      ]
+    },
+    "taxes_budget": {
+      "present": false,
+      "significance": "Low",
+      "context": "",
+      "notable_points": []
+    },
+    "other_significant_topics": [
+      {
+        "topic": "Board Consolidation",
+        "significance": "High",
+        "context": "There was significant discussion regarding dissolving the special alcohol board and the social services advisory board and forming a consolidated board. The commissioners showed frustration about the delays in this process and expressed the need for action to be taken."
+      }
+    ]
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 5,
+      "speaking_time": {
+        "Transcription and Diarization for 20221209-12\u29f806\u29f822 City Commission Meeting.mp4": 15.24,
+        "Mayor Linda Morse": 480.40000000000003,
+        "City Clerk Brenda Wolf": 82.32000000000001,
+        "Commissioner Butler": 600.4000000000002,
+        "Commissioner Maudet": 271.56
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [
+        "Mayor Linda Morse",
+        "Commissioner Butler"
+      ],
+      "observation": "Mayor Linda Morse and Commissioner Butler seem to lead or dominate the discussions. Morse, as the Mayor, sets the agenda and leads the procedural aspects of the meeting, while Butler is the most vocal in terms of speaking time and number of segments, engaging actively in the discussions and debates."
+    },
+    "interaction_patterns": {
+      "pattern": "Speakers interact in an official manner, usually sequentially with the Mayor inviting, prompting, or responding to comments from others. There are instances of more dynamic interaction when commission members engage in discussion or debate, particularly around contentious issues such as the appointments issue.",
+      "notable_exchanges": [
+        "The discussion and debate around denying or approving appointments to the social services and alcohol funds boards."
+      ]
+    },
+    "topic_ownership": [
+      {
+        "speaker": "Mayor Linda Morse",
+        "topics": [
+          "Meeting procedures",
+          "Public comments",
+          "Approval of the consent agenda",
+          "Appointment board issue"
+        ]
+      },
+      {
+        "speaker": "Commissioner Butler",
+        "topics": [
+          "Approval of the consent agenda",
+          "Appointment board issue",
+          "Urban Planning",
+          "Community events"
+        ]
+      },
+      {
+        "speaker": "City Clerk Brenda Wolf",
+        "topics": [
+          "Roll calls",
+          "Procedural clarifications"
+        ]
+      }
+    ],
+    "public_participation": {
+      "level": "Low",
+      "observation": "The public's participation seems quite low. While there are opportunities given for the public to speak, the transcripts do not show any significant public engagement."
+    }
+  },
+  "emergent_patterns": {
+    "recurring_themes": [
+      {
+        "theme": "City improvement and citizen support",
+        "evidence": "References to community engagement such as attending parades, donating to local nonprofits, and enhancing community infrastructure. This is shown by Commissioner Butler's comments on parade turnout, encouraging donations to Flint Hills bread basket and Commissioner Mata's comments on Manhattan High School and Case State's successes."
+      },
+      {
+        "theme": "Board and Commission management",
+        "evidence": "Several discussions are centered on the Board appointments, disbanding or merging of certain boards, and creating a new consolidated board. There is a desire to move forward and reduce inefficiencies in the system."
+      }
+    ],
+    "underlying_tensions": [
+      {
+        "tension": "Impatience with the pace of administrative processes",
+        "between": [
+          "Commissioners"
+        ],
+        "context": "There is a clear sense of frustration among some commissioners with the perceived slow progress of board consolidation. This is noticeable in Commissioner Haswell's insistence on hastening the process to consolidate the social services advisory board and special alcohol funds board."
+      }
+    ],
+    "decision_patterns": {
+      "pattern": "Discussion, motion, and voting",
+      "observation": "Decisions are often discussed by the commissioners, followed by a formal motion and a roll-call vote. For example, the decision on appointments to certain boards followed this pattern."
+    },
+    "language_patterns": {
+      "formality": "High",
+      "technical_density": "Medium",
+      "emotional_tone": "Neutral to slightly tense",
+      "notable_features": [
+        "Use of formal parliamentary language like 'motion', 'second', and 'call the roll'",
+        "'yea' and 'nay' language for voting",
+        "addressing each other using official titles, i.e., 'Commissioner {Last Name}'"
+      ]
+    },
+    "other_insights": [
+      "When there is resistance or disagreement among the commissioners, the meeting dynamics seem to become more procedural and formalized, perhaps as a way to manage the underlying conflict and keep discussion orderly and productive."
+    ]
+  }
+}

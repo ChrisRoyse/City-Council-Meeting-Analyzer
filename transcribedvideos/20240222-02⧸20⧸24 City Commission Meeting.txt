@@ -1,0 +1,3921 @@
+Transcription and Diarization for 20240222-02⧸20⧸24 City Commission Meeting.mp4
+==================================================
+
+Staff Member:
+Start: 00:00:00.000
+End: 00:00:11.480
+Duration: 11.480 seconds
+Text: Okay the clock shows it being 6 p.m. So I'd like to call the City Commission meeting for Tuesday, February 20th to order and first order business is roll call.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:13.680
+End: 00:00:19.760
+Duration: 6.080 seconds
+Text: Mayor Butler here Commissioner Adam track prison Commissioner McCola. Yes
+--------------------------------------------------
+City Clerk:
+Start: 00:00:20.880
+End: 00:00:22.880
+Duration: 2.000 seconds
+Text: Commissioner O'Palt here
+--------------------------------------------------
+City Clerk:
+Start: 00:00:22.880
+End: 00:00:24.880
+Duration: 2.000 seconds
+Text: Commissioner Mata here
+--------------------------------------------------
+City Clerk:
+Start: 00:00:24.880
+End: 00:00:31.240
+Duration: 6.360 seconds
+Text: Mayor we have five commissioners present the quorum of three is met. Okay excellent. Please join me in the pledge of allegiance
+--------------------------------------------------
+City Clerk:
+Start: 00:00:33.480
+End: 00:00:40.360
+Duration: 6.880 seconds
+Text: I pledge allegiance to the flag of the United States of America and to the Republic for which stands
+--------------------------------------------------
+City Clerk:
+Start: 00:00:41.080
+End: 00:00:45.760
+Duration: 4.680 seconds
+Text: One nation under God in the visible with liberty and justice for all
+--------------------------------------------------
+Mayor Butler:
+Start: 00:00:46.000
+End: 00:00:48.000
+Duration: 2.000 seconds
+Text: Okay
+--------------------------------------------------
+Staff Member:
+Start: 00:00:54.000
+End: 00:00:59.200
+Duration: 5.200 seconds
+Text: Okay next order of business is Commissioner comments so John good
+--------------------------------------------------
+Staff Member:
+Start: 00:00:59.840
+End: 00:01:01.840
+Duration: 2.000 seconds
+Text: Peter
+--------------------------------------------------
+City Clerk:
+Start: 00:01:02.560
+End: 00:01:09.640
+Duration: 7.080 seconds
+Text: Friday at five o'clock the library sales starts at the library this year you have to be a member to come on Friday
+--------------------------------------------------
+City Clerk:
+Start: 00:01:09.640
+End: 00:01:14.120
+Duration: 4.480 seconds
+Text: But memberships only $10 they have a lot of wonderful books for the book sale
+--------------------------------------------------
+City Clerk:
+Start: 00:01:14.120
+End: 00:01:16.120
+Duration: 2.000 seconds
+Text: So
+--------------------------------------------------
+Mick Charney:
+Start: 00:01:16.640
+End: 00:01:23.840
+Duration: 7.200 seconds
+Text: Yes, I'd like to request that resolution F3 be removed from the consent agenda
+--------------------------------------------------
+Staff Member:
+Start: 00:01:26.040
+End: 00:01:28.040
+Duration: 2.000 seconds
+Text: Okay, we can do that
+--------------------------------------------------
+Staff Member:
+Start: 00:01:28.040
+End: 00:01:30.040
+Duration: 2.000 seconds
+Text: We'll move that to the first item after
+--------------------------------------------------
+Staff Member:
+Start: 00:01:31.160
+End: 00:01:34.520
+Duration: 3.360 seconds
+Text: After the consent agenda and that's item F3
+--------------------------------------------------
+Staff Member:
+Start: 00:01:37.160
+End: 00:01:43.480
+Duration: 6.320 seconds
+Text: Okay, and then for those of you that weren't present at the Douglas Center this morning at
+--------------------------------------------------
+Staff Member:
+Start: 00:01:43.480
+End: 00:01:47.920
+Duration: 4.440 seconds
+Text: 10 o'clock they unveiled the statues so if you got some time drive by there
+--------------------------------------------------
+Staff Member:
+Start: 00:01:48.360
+End: 00:01:54.840
+Duration: 6.480 seconds
+Text: There's four statues in place to two school children and of course the two army veterans of a world war two
+--------------------------------------------------
+Staff Member:
+Start: 00:01:55.560
+End: 00:01:59.160
+Duration: 3.600 seconds
+Text: Really outstanding addition to that little historic center there
+--------------------------------------------------
+Staff Member:
+Start: 00:01:59.160
+End: 00:02:06.760
+Duration: 7.600 seconds
+Text: So there was a good crowd out there today and a good panel discussion. So so a great addition to the city of a great piece of artwork
+--------------------------------------------------
+Staff Member:
+Start: 00:02:06.760
+End: 00:02:10.400
+Duration: 3.640 seconds
+Text: If you look at the details on those statues very well done
+--------------------------------------------------
+Staff Member:
+Start: 00:02:10.400
+End: 00:02:19.320
+Duration: 8.920 seconds
+Text: Okay, let's move on to the consent agenda now items on the consent agenda are those of a routine and housekeeping nature
+--------------------------------------------------
+Staff Member:
+Start: 00:02:19.640
+End: 00:02:25.400
+Duration: 5.760 seconds
+Text: Or those items which had previously been reviewed by the city commission it may be approved in one motion and a
+--------------------------------------------------
+Staff Member:
+Start: 00:02:25.880
+End: 00:02:31.120
+Duration: 5.240 seconds
+Text: Commissioner may request an item be removed from the separate discussion and consider to meetly afterwards
+--------------------------------------------------
+Staff Member:
+Start: 00:02:31.120
+End: 00:02:33.920
+Duration: 2.800 seconds
+Text: Which we've done for item F3?
+--------------------------------------------------
+Staff Member:
+Start: 00:02:34.440
+End: 00:02:37.600
+Duration: 3.160 seconds
+Text: So any comments on the consent agenda from the commission
+--------------------------------------------------
+Staff Member:
+Start: 00:02:40.520
+End: 00:02:43.680
+Duration: 3.160 seconds
+Text: Okay, seeing none's or any public comment on the consent agenda
+--------------------------------------------------
+Staff Member:
+Start: 00:02:46.240
+End: 00:02:52.280
+Duration: 6.040 seconds
+Text: Okay, seeing none then we can entertain a motion to approve the agenda minus item F3
+--------------------------------------------------
+Mick Charney:
+Start: 00:02:54.400
+End: 00:03:00.000
+Duration: 5.600 seconds
+Text: I so move that we consent approve the consent agenda minus item F3
+--------------------------------------------------
+City Clerk:
+Start: 00:03:01.440
+End: 00:03:02.480
+Duration: 1.040 seconds
+Text: Second
+--------------------------------------------------
+Staff Member:
+Start: 00:03:02.480
+End: 00:03:05.240
+Duration: 2.760 seconds
+Text: Here we have a motion in a second. Please call the roll
+--------------------------------------------------
+City Clerk:
+Start: 00:03:06.760
+End: 00:03:08.760
+Duration: 2.000 seconds
+Text: Commissioner Adam Chak. Yes
+--------------------------------------------------
+City Clerk:
+Start: 00:03:09.680
+End: 00:03:13.200
+Duration: 3.520 seconds
+Text: Commissioner McCola. Yes, Commissioner O'Palt. Yes
+--------------------------------------------------
+City Clerk:
+Start: 00:03:13.960
+End: 00:03:15.960
+Duration: 2.000 seconds
+Text: Commissioner Mata. Yes
+--------------------------------------------------
+City Clerk:
+Start: 00:03:15.960
+End: 00:03:17.960
+Duration: 2.000 seconds
+Text: Mayor Butler. Yes
+--------------------------------------------------
+City Clerk:
+Start: 00:03:18.400
+End: 00:03:20.400
+Duration: 2.000 seconds
+Text: motion carries five to zero
+--------------------------------------------------
+Staff Member:
+Start: 00:03:21.000
+End: 00:03:23.000
+Duration: 2.000 seconds
+Text: Okay, then we'll move on to
+--------------------------------------------------
+City Clerk:
+Start: 00:03:23.200
+End: 00:03:30.440
+Duration: 7.240 seconds
+Text: Item F3 and Susan you can take the lead on that. Yes, this is a resolution relating to sponsorships
+--------------------------------------------------
+Mick Charney:
+Start: 00:03:31.240
+End: 00:03:33.240
+Duration: 2.000 seconds
+Text: for city departments
+--------------------------------------------------
+Mick Charney:
+Start: 00:03:33.840
+End: 00:03:35.840
+Duration: 2.000 seconds
+Text: It establishes we have
+--------------------------------------------------
+Mick Charney:
+Start: 00:03:35.840
+End: 00:03:37.840
+Duration: 2.000 seconds
+Text: a
+--------------------------------------------------
+Mick Charney:
+Start: 00:03:37.840
+End: 00:03:47.440
+Duration: 9.600 seconds
+Text: Procedure which establishes guidelines for city departments to enter into contracts with organizations to sponsor city facilities programs at services etc
+--------------------------------------------------
+Mick Charney:
+Start: 00:03:47.880
+End: 00:03:54.920
+Duration: 7.040 seconds
+Text: The city does not allow sponsorships from entities who sales business reputation are advertising are
+--------------------------------------------------
+Mick Charney:
+Start: 00:03:55.520
+End: 00:03:58.560
+Duration: 3.040 seconds
+Text: substantially related to drugs tobacco or firearms
+--------------------------------------------------
+Mick Charney:
+Start: 00:03:59.280
+End: 00:04:03.720
+Duration: 4.440 seconds
+Text: Last year the Kansas legislature adopted House bill 21
+--------------------------------------------------
+Mick Charney:
+Start: 00:04:04.320
+End: 00:04:10.800
+Duration: 6.480 seconds
+Text: 0 0 that prohibits cities from giving preferential treatment to or discriminating against a
+--------------------------------------------------
+Mick Charney:
+Start: 00:04:11.160
+End: 00:04:15.600
+Duration: 4.440 seconds
+Text: company based upon any environmental social or governance criteria
+--------------------------------------------------
+Mick Charney:
+Start: 00:04:16.360
+End: 00:04:20.040
+Duration: 3.680 seconds
+Text: including the manufacturing distributing and selling of firearms I
+--------------------------------------------------
+Mick Charney:
+Start: 00:04:21.360
+End: 00:04:23.360
+Duration: 2.000 seconds
+Text: Recognize that this
+--------------------------------------------------
+Mick Charney:
+Start: 00:04:24.400
+End: 00:04:27.080
+Duration: 2.680 seconds
+Text: Item is to have our city
+--------------------------------------------------
+Mick Charney:
+Start: 00:04:27.400
+End: 00:04:29.400
+Duration: 2.000 seconds
+Text: resolution
+--------------------------------------------------
+Mick Charney:
+Start: 00:04:29.400
+End: 00:04:31.400
+Duration: 2.000 seconds
+Text: city
+--------------------------------------------------
+Mick Charney:
+Start: 00:04:31.400
+End: 00:04:35.640
+Duration: 4.240 seconds
+Text: Codes be in compliance with state law, but I would like to I
+--------------------------------------------------
+Mick Charney:
+Start: 00:04:36.440
+End: 00:04:40.560
+Duration: 4.120 seconds
+Text: I am disappointed that we are being asked to
+--------------------------------------------------
+Mick Charney:
+Start: 00:04:42.680
+End: 00:04:44.680
+Duration: 2.000 seconds
+Text: alter our
+--------------------------------------------------
+Mick Charney:
+Start: 00:04:44.840
+End: 00:04:49.940
+Duration: 5.100 seconds
+Text: Regulations in order to potentially allow the advertising the support of firearms
+--------------------------------------------------
+Mick Charney:
+Start: 00:04:50.340
+End: 00:04:57.700
+Duration: 7.360 seconds
+Text: Manufacturers on city for city events and so I would just like to have a voice vote on this particular resolution
+--------------------------------------------------
+Staff Member:
+Start: 00:05:01.540
+End: 00:05:07.280
+Duration: 5.740 seconds
+Text: Okay, we have to I guess Katie quick question for you we have to follow the state statute correct
+--------------------------------------------------
+Staff Member:
+Start: 00:05:07.460
+End: 00:05:15.380
+Duration: 7.920 seconds
+Text: Yes, we do okay, so there really isn't any option, but but the state statute did it just say firearms or did it and did it?
+--------------------------------------------------
+City Clerk:
+Start: 00:05:15.980
+End: 00:05:19.820
+Duration: 3.840 seconds
+Text: Just fire well it has other criteria in that in that group
+--------------------------------------------------
+City Clerk:
+Start: 00:05:19.820
+End: 00:05:24.980
+Duration: 5.160 seconds
+Text: But the one that's relevant to our policy was firearms the other things that are mentioned in the state law or not
+--------------------------------------------------
+Staff Member:
+Start: 00:05:25.300
+End: 00:05:31.740
+Duration: 6.440 seconds
+Text: Okay, so we still don't have to do drugs or any of those other things and then my other question is that it says we
+--------------------------------------------------
+Staff Member:
+Start: 00:05:31.940
+End: 00:05:36.620
+Duration: 4.680 seconds
+Text: You know guidelines to enter into a sponsorship agreement, but that doesn't mean we have to right?
+--------------------------------------------------
+City Clerk:
+Start: 00:05:39.020
+End: 00:05:42.180
+Duration: 3.160 seconds
+Text: I guess if Mayor D. Mean if it if it meets our criteria
+--------------------------------------------------
+City Clerk:
+Start: 00:05:42.580
+End: 00:05:50.820
+Duration: 8.240 seconds
+Text: Otherwise the sponsorship we have to allow that opportunity for people who we can't discriminate against it is pretty limited in the bill and the resolution speaks to that
+--------------------------------------------------
+City Clerk:
+Start: 00:05:50.820
+End: 00:05:55.100
+Duration: 4.280 seconds
+Text: It's a company so it has to be a for-profit company that's primary businesses
+--------------------------------------------------
+City Clerk:
+Start: 00:05:55.420
+End: 00:05:57.420
+Duration: 2.000 seconds
+Text: And I think those fact words are in here
+--------------------------------------------------
+City Clerk:
+Start: 00:05:58.060
+End: 00:06:03.940
+Duration: 5.880 seconds
+Text: Manufacturing distributing or selling firearms, so that's that is like a specific category of business
+--------------------------------------------------
+City Clerk:
+Start: 00:06:04.180
+End: 00:06:08.980
+Duration: 4.800 seconds
+Text: It's not any organization related to firearms, but typically if someone
+--------------------------------------------------
+City Clerk:
+Start: 00:06:09.340
+End: 00:06:15.600
+Duration: 6.260 seconds
+Text: Were to if someone in that category wanted a sponsorship and otherwise met our criteria and we would grant it
+--------------------------------------------------
+City Clerk:
+Start: 00:06:15.600
+End: 00:06:17.860
+Duration: 2.260 seconds
+Text: We would need to do that if it didn't meet our criteria
+--------------------------------------------------
+City Clerk:
+Start: 00:06:17.860
+End: 00:06:21.780
+Duration: 3.920 seconds
+Text: We never have to grant a sponsorship if otherwise it doesn't fit with our
+--------------------------------------------------
+City Clerk:
+Start: 00:06:22.340
+End: 00:06:29.380
+Duration: 7.040 seconds
+Text: policy, but but but we're not gonna have to deal with drugs and tobacco and that correct those things are still excluded from
+--------------------------------------------------
+Staff Member:
+Start: 00:06:29.740
+End: 00:06:34.180
+Duration: 4.440 seconds
+Text: Sponsorships. Okay, well that that's that's good. Okay any other comments
+--------------------------------------------------
+City Clerk:
+Start: 00:06:36.780
+End: 00:06:38.780
+Duration: 2.000 seconds
+Text: I'm fine with it
+--------------------------------------------------
+Staff Member:
+Start: 00:06:39.980
+End: 00:06:45.220
+Duration: 5.240 seconds
+Text: Yeah, seems like we don't really have an option of denying it. Yeah, I can't overturn the state law
+--------------------------------------------------
+City Clerk:
+Start: 00:06:45.220
+End: 00:06:49.420
+Duration: 4.200 seconds
+Text: But but it's a good discussion. Yeah, I mean it definitely brings in the you know the home rule
+--------------------------------------------------
+City Clerk:
+Start: 00:06:49.980
+End: 00:06:51.460
+Duration: 1.480 seconds
+Text: it's
+--------------------------------------------------
+City Clerk:
+Start: 00:06:51.460
+End: 00:06:54.780
+Duration: 3.320 seconds
+Text: Certainly one of those times that the legislature has chosen to override that
+--------------------------------------------------
+City Clerk:
+Start: 00:06:55.820
+End: 00:06:59.940
+Duration: 4.120 seconds
+Text: And yeah, I can definitely understand why you'd be disappointed Susan
+--------------------------------------------------
+City Clerk:
+Start: 00:07:01.140
+End: 00:07:03.140
+Duration: 2.000 seconds
+Text: It makes a lot of sense so
+--------------------------------------------------
+Mayor Butler:
+Start: 00:07:03.580
+End: 00:07:05.580
+Duration: 2.000 seconds
+Text: Yeah
+--------------------------------------------------
+City Clerk:
+Start: 00:07:06.580
+End: 00:07:13.500
+Duration: 6.920 seconds
+Text: I agree it's always interesting that the state passes these rules and regulations that apply to us and
+--------------------------------------------------
+City Clerk:
+Start: 00:07:13.820
+End: 00:07:19.740
+Duration: 5.920 seconds
+Text: That so many of the state legislatures have been either county or city commissioners
+--------------------------------------------------
+City Clerk:
+Start: 00:07:19.740
+End: 00:07:23.660
+Duration: 3.920 seconds
+Text: You think that they would have a little more understanding and sympathy and
+--------------------------------------------------
+City Clerk:
+Start: 00:07:24.820
+End: 00:07:27.500
+Duration: 2.680 seconds
+Text: You willing to work with communities and not just
+--------------------------------------------------
+City Clerk:
+Start: 00:07:28.220
+End: 00:07:30.220
+Duration: 2.000 seconds
+Text: Pass laws by Fiat
+--------------------------------------------------
+Staff Member:
+Start: 00:07:30.540
+End: 00:07:37.140
+Duration: 6.600 seconds
+Text: No, it is no comments. Okay, is there any public comment on this particular topic?
+--------------------------------------------------
+Staff Member:
+Start: 00:07:39.260
+End: 00:07:46.260
+Duration: 7.000 seconds
+Text: Okay, seeing none will close public comment and take a motion to pass the resolution in F3
+--------------------------------------------------
+City Clerk:
+Start: 00:07:47.660
+End: 00:07:51.620
+Duration: 3.960 seconds
+Text: I'll move to pass the resolution in F3 second
+--------------------------------------------------
+Staff Member:
+Start: 00:07:52.500
+End: 00:07:58.060
+Duration: 5.560 seconds
+Text: Did we need to read the whole thing? We have to read it all you'll have to read the line there on F3 or I can do it
+--------------------------------------------------
+Staff Member:
+Start: 00:07:58.780
+End: 00:08:04.540
+Duration: 5.760 seconds
+Text: We move to approve resolution number 0 2 2 0 2 4 dash C
+--------------------------------------------------
+Staff Member:
+Start: 00:08:05.140
+End: 00:08:12.460
+Duration: 7.320 seconds
+Text: Establishing guidelines for city departments to enter into sponsorship agreements with third parties for the support of city assets
+--------------------------------------------------
+Staff Member:
+Start: 00:08:13.060
+End: 00:08:18.420
+Duration: 5.360 seconds
+Text: Facilities programs services projects or events and repealing resolution number
+--------------------------------------------------
+Staff Member:
+Start: 00:08:19.460
+End: 00:08:22.260
+Duration: 2.800 seconds
+Text: 0 4 2 4 1 2 dash alpha
+--------------------------------------------------
+Staff Member:
+Start: 00:08:22.260
+End: 00:08:29.900
+Duration: 7.640 seconds
+Text: Okay, we have a motion in a second. Please call the roll
+--------------------------------------------------
+City Clerk:
+Start: 00:08:31.660
+End: 00:08:37.300
+Duration: 5.640 seconds
+Text: Commissioner McCola. Yes, Commissioner Opellt. Yes, Commissioner Mata. Yes
+--------------------------------------------------
+City Clerk:
+Start: 00:08:38.140
+End: 00:08:41.580
+Duration: 3.440 seconds
+Text: Mayor Butler. Yes, Commissioner Adam Chak. No
+--------------------------------------------------
+City Clerk:
+Start: 00:08:42.900
+End: 00:08:44.900
+Duration: 2.000 seconds
+Text: Motion carries 4 to 1
+--------------------------------------------------
+Staff Member:
+Start: 00:08:49.020
+End: 00:08:51.020
+Duration: 2.000 seconds
+Text: Okay, that takes care of the
+--------------------------------------------------
+Staff Member:
+Start: 00:08:52.260
+End: 00:08:56.340
+Duration: 4.080 seconds
+Text: Consent agenda and items are moved from there move on to the general agenda
+--------------------------------------------------
+Staff Member:
+Start: 00:08:57.340
+End: 00:09:02.060
+Duration: 4.720 seconds
+Text: Comment from the public related to any item on the general agenda that the city commission is allowed
+--------------------------------------------------
+Staff Member:
+Start: 00:09:02.380
+End: 00:09:08.900
+Duration: 6.520 seconds
+Text: Each person will be limited to one speaking opportunity for up to five minutes for each item in this section
+--------------------------------------------------
+Staff Member:
+Start: 00:09:09.420
+End: 00:09:17.180
+Duration: 7.760 seconds
+Text: So the first item on the general agenda is consider contract and amendments for Aggieville public infrastructure improvements AG
+--------------------------------------------------
+Staff Member:
+Start: 00:09:18.020
+End: 00:09:20.020
+Duration: 2.000 seconds
+Text: 2202
+--------------------------------------------------
+City Manager:
+Start: 00:09:20.380
+End: 00:09:23.340
+Duration: 2.960 seconds
+Text: Jason you take it from there. Thank you mayor commissioners
+--------------------------------------------------
+City Manager:
+Start: 00:09:24.460
+End: 00:09:29.220
+Duration: 4.760 seconds
+Text: This is a continuation of an item that the commission entered into contracts
+--------------------------------------------------
+City Manager:
+Start: 00:09:30.020
+End: 00:09:32.020
+Duration: 2.000 seconds
+Text: back in April of
+--------------------------------------------------
+City Manager:
+Start: 00:09:32.940
+End: 00:09:34.460
+Duration: 1.520 seconds
+Text: 22
+--------------------------------------------------
+City Manager:
+Start: 00:09:34.460
+End: 00:09:37.700
+Duration: 3.240 seconds
+Text: We had agreements with both Olsen and
+--------------------------------------------------
+City Manager:
+Start: 00:09:39.260
+End: 00:09:47.820
+Duration: 8.560 seconds
+Text: BHS to construct public improvements in and adjacent to a nearby to the Midtown development obviously last
+--------------------------------------------------
+City Manager:
+Start: 00:09:48.540
+End: 00:09:50.540
+Duration: 2.000 seconds
+Text: spring in 22
+--------------------------------------------------
+City Manager:
+Start: 00:09:50.540
+End: 00:09:58.300
+Duration: 7.760 seconds
+Text: Some of those projects were halted. We've since renegotiated and have development agreements with Midtown and Haney corner
+--------------------------------------------------
+City Manager:
+Start: 00:09:58.740
+End: 00:10:04.940
+Duration: 6.200 seconds
+Text: For their construction which we anticipate will start this year our prior agreements
+--------------------------------------------------
+City Manager:
+Start: 00:10:06.020
+End: 00:10:08.020
+Duration: 2.000 seconds
+Text: with Olsen and BHS
+--------------------------------------------------
+City Manager:
+Start: 00:10:09.660
+End: 00:10:11.660
+Duration: 2.000 seconds
+Text: construction manager risk
+--------------------------------------------------
+City Manager:
+Start: 00:10:11.820
+End: 00:10:22.140
+Duration: 10.320 seconds
+Text: Relationship so we had selected BHS because they were building the Midtown project at the time to go ahead and construct the alley and
+--------------------------------------------------
+City Manager:
+Start: 00:10:22.140
+End: 00:10:27.180
+Duration: 5.040 seconds
+Text: 12th Street and Laramie improvements that were identified the
+--------------------------------------------------
+City Manager:
+Start: 00:10:28.260
+End: 00:10:30.260
+Duration: 2.000 seconds
+Text: project itself
+--------------------------------------------------
+City Manager:
+Start: 00:10:30.260
+End: 00:10:32.260
+Duration: 2.000 seconds
+Text: Has grown
+--------------------------------------------------
+City Manager:
+Start: 00:10:32.260
+End: 00:10:41.420
+Duration: 9.160 seconds
+Text: We have extended into the 1100 block of Laramie with the Haney corner project and in doing so it has resulted in
+--------------------------------------------------
+City Manager:
+Start: 00:10:42.660
+End: 00:10:44.660
+Duration: 2.000 seconds
+Text: additional
+--------------------------------------------------
+City Manager:
+Start: 00:10:44.660
+End: 00:10:50.220
+Duration: 5.560 seconds
+Text: Street alley right away type of improvements this map is probably the best
+--------------------------------------------------
+City Manager:
+Start: 00:10:51.260
+End: 00:10:54.140
+Duration: 2.880 seconds
+Text: Description that we've generated so far
+--------------------------------------------------
+City Manager:
+Start: 00:10:54.820
+End: 00:11:01.780
+Duration: 6.960 seconds
+Text: 12th Street from Moro to Laramie in the green and then Laramie from 12th to North Manhattan
+--------------------------------------------------
+City Manager:
+Start: 00:11:02.060
+End: 00:11:04.060
+Duration: 2.000 seconds
+Text: This was the original
+--------------------------------------------------
+City Manager:
+Start: 00:11:04.220
+End: 00:11:09.060
+Duration: 4.840 seconds
+Text: Anticipated design and construction. This is back in April of 22
+--------------------------------------------------
+City Manager:
+Start: 00:11:09.300
+End: 00:11:13.100
+Duration: 3.800 seconds
+Text: But we agreed with Olsen to go ahead and finalize design and
+--------------------------------------------------
+City Manager:
+Start: 00:11:13.700
+End: 00:11:18.180
+Duration: 4.480 seconds
+Text: We agreed with BHS to bring back a guaranteed maximum price
+--------------------------------------------------
+City Manager:
+Start: 00:11:18.860
+End: 00:11:23.940
+Duration: 5.080 seconds
+Text: The memo lays out it's a little over five hundred and sixty thousand dollars in that design contract
+--------------------------------------------------
+City Manager:
+Start: 00:11:24.660
+End: 00:11:28.660
+Duration: 4.000 seconds
+Text: Before the construction was was halted for the private development
+--------------------------------------------------
+City Manager:
+Start: 00:11:28.660
+End: 00:11:33.780
+Duration: 5.120 seconds
+Text: We had spent a little over a hundred twenty thousand dollars with Olsen on that design
+--------------------------------------------------
+City Manager:
+Start: 00:11:34.100
+End: 00:11:36.100
+Duration: 2.000 seconds
+Text: So we had not finalized it
+--------------------------------------------------
+City Manager:
+Start: 00:11:36.100
+End: 00:11:42.420
+Duration: 6.320 seconds
+Text: We had seen some concepts internally, but we hadn't even brought those back to the commission to get final direction on where you
+--------------------------------------------------
+City Manager:
+Start: 00:11:42.420
+End: 00:11:46.620
+Duration: 4.200 seconds
+Text: Were you really wanted to land from an infrastructure standpoint 12th Street
+--------------------------------------------------
+City Manager:
+Start: 00:11:47.500
+End: 00:11:53.940
+Duration: 6.440 seconds
+Text: Curb it. Well, it's actually building to building so it gets into the details of the sidewalk the sidewalk dining
+--------------------------------------------------
+City Manager:
+Start: 00:11:54.220
+End: 00:11:56.220
+Duration: 2.000 seconds
+Text: Any type of roadway
+--------------------------------------------------
+City Manager:
+Start: 00:11:56.540
+End: 00:11:58.540
+Duration: 2.000 seconds
+Text: improvements Laramie had drop-off zones
+--------------------------------------------------
+City Manager:
+Start: 00:11:59.300
+End: 00:12:01.300
+Duration: 2.000 seconds
+Text: That we previously had designed
+--------------------------------------------------
+City Manager:
+Start: 00:12:01.980
+End: 00:12:05.140
+Duration: 3.160 seconds
+Text: So now that now the scope is expanding and
+--------------------------------------------------
+City Manager:
+Start: 00:12:05.820
+End: 00:12:07.820
+Duration: 2.000 seconds
+Text: Olsen has submitted another
+--------------------------------------------------
+City Manager:
+Start: 00:12:08.260
+End: 00:12:15.060
+Duration: 6.800 seconds
+Text: Amendment to the contract to go ahead and include that learn that section of Laramie from 11th to 12th Street
+--------------------------------------------------
+City Manager:
+Start: 00:12:15.460
+End: 00:12:19.140
+Duration: 3.680 seconds
+Text: We've also picked up 12th from Fremont to Laramie
+--------------------------------------------------
+City Manager:
+Start: 00:12:19.820
+End: 00:12:25.700
+Duration: 5.880 seconds
+Text: We we're gonna take a look at these Fremont to Laramie on 12th can be
+--------------------------------------------------
+City Manager:
+Start: 00:12:26.100
+End: 00:12:29.780
+Duration: 3.680 seconds
+Text: Fazed in more than likely later, but we want to make sure we get
+--------------------------------------------------
+City Manager:
+Start: 00:12:30.140
+End: 00:12:38.780
+Duration: 8.640 seconds
+Text: This design in the works so we're ready to move into that section as soon as we can come off Laramie in the 12th Street construction
+--------------------------------------------------
+City Manager:
+Start: 00:12:39.860
+End: 00:12:44.020
+Duration: 4.160 seconds
+Text: The alleys we've identified in terms of
+--------------------------------------------------
+City Manager:
+Start: 00:12:44.540
+End: 00:12:49.020
+Duration: 4.480 seconds
+Text: putting them back permanently in a format that
+--------------------------------------------------
+City Manager:
+Start: 00:12:50.140
+End: 00:12:55.500
+Duration: 5.360 seconds
+Text: The commission needs the way in the community needs the way in the district needs the way in on that final product
+--------------------------------------------------
+City Manager:
+Start: 00:12:55.860
+End: 00:12:58.860
+Duration: 3.000 seconds
+Text: We've talked about redoing the alleys from the beginning
+--------------------------------------------------
+City Manager:
+Start: 00:12:58.860
+End: 00:13:01.820
+Duration: 2.960 seconds
+Text: We've talked about burying that overhead line and
+--------------------------------------------------
+City Manager:
+Start: 00:13:02.740
+End: 00:13:10.780
+Duration: 8.040 seconds
+Text: Readjusting some of those subgrade infrastructure in order to create that safe environment for the pedestrian and for the vehicle
+--------------------------------------------------
+City Manager:
+Start: 00:13:10.780
+End: 00:13:11.980
+Duration: 1.200 seconds
+Text: We have
+--------------------------------------------------
+City Manager:
+Start: 00:13:11.980
+End: 00:13:18.940
+Duration: 6.960 seconds
+Text: Poles in the middle of our alley not in the middle, but on the edges of our alleys now we have things overhead there are
+--------------------------------------------------
+City Manager:
+Start: 00:13:18.940
+End: 00:13:20.940
+Duration: 2.000 seconds
+Text: Can be
+--------------------------------------------------
+City Manager:
+Start: 00:13:22.420
+End: 00:13:27.500
+Duration: 5.080 seconds
+Text: They're aged infrastructure there are other ways we can provide that infrastructure and going below grade is
+--------------------------------------------------
+City Manager:
+Start: 00:13:28.140
+End: 00:13:33.420
+Duration: 5.280 seconds
+Text: The plan we have been engaged with averagey to go below grade
+--------------------------------------------------
+City Manager:
+Start: 00:13:34.020
+End: 00:13:38.540
+Duration: 4.520 seconds
+Text: Kansas gas service is gonna have to move some of their infrastructure in order to accommodate that and
+--------------------------------------------------
+City Manager:
+Start: 00:13:39.580
+End: 00:13:45.780
+Duration: 6.200 seconds
+Text: also is and BHS are going to be our partners with the design and eventual construction
+--------------------------------------------------
+City Manager:
+Start: 00:13:46.180
+End: 00:13:51.740
+Duration: 5.560 seconds
+Text: The additional scope that we also laid out for BHS was for project management
+--------------------------------------------------
+City Manager:
+Start: 00:13:51.900
+End: 00:13:56.540
+Duration: 4.640 seconds
+Text: So it'll not only be 12th Street and Laramie Street. We'd like BHS to also
+--------------------------------------------------
+City Manager:
+Start: 00:13:57.340
+End: 00:14:04.660
+Duration: 7.320 seconds
+Text: Supervised what's going on in the alleys by way of public infrastructure. This way there's a cohesive and a consistent
+--------------------------------------------------
+City Manager:
+Start: 00:14:05.860
+End: 00:14:11.460
+Duration: 5.600 seconds
+Text: Presence in Aggieville from the contractors perspective so they can communicate effectively with ABA
+--------------------------------------------------
+City Manager:
+Start: 00:14:11.580
+End: 00:14:19.020
+Duration: 7.440 seconds
+Text: They can communicate effectively with adjacent owners and they are also are very well involved in Midtown
+--------------------------------------------------
+City Manager:
+Start: 00:14:19.260
+End: 00:14:22.100
+Duration: 2.840 seconds
+Text: Phase one in the Haney Corner in Midtown phase two
+--------------------------------------------------
+City Manager:
+Start: 00:14:22.180
+End: 00:14:28.060
+Duration: 5.880 seconds
+Text: So they'll be able to provide information on both the public side and the private side with Indian all
+--------------------------------------------------
+City Manager:
+Start: 00:14:28.460
+End: 00:14:31.540
+Duration: 3.080 seconds
+Text: Constituents in Aggieville and back to the city administration
+--------------------------------------------------
+City Manager:
+Start: 00:14:32.140
+End: 00:14:37.940
+Duration: 5.800 seconds
+Text: Which would then obviously hopefully trickle to you all as well for updates on on just how we're progressing
+--------------------------------------------------
+City Manager:
+Start: 00:14:38.460
+End: 00:14:46.220
+Duration: 7.760 seconds
+Text: We really have the rest of 2024 to finalize design. I would anticipate a GMP close to the end of the year from BHS
+--------------------------------------------------
+City Manager:
+Start: 00:14:46.460
+End: 00:14:50.220
+Duration: 3.760 seconds
+Text: So we'll have a better feel for what it's gonna cost but in the interim
+--------------------------------------------------
+City Manager:
+Start: 00:14:50.660
+End: 00:14:57.500
+Duration: 6.840 seconds
+Text: We're gonna need to look at designs. We've already targeted a meeting in late March either the 19th of the 26th
+--------------------------------------------------
+City Manager:
+Start: 00:14:58.020
+End: 00:15:01.700
+Duration: 3.680 seconds
+Text: Well, we can bring back some concepts and get feedback from the commission on
+--------------------------------------------------
+City Manager:
+Start: 00:15:02.340
+End: 00:15:04.780
+Duration: 2.440 seconds
+Text: Primarily 12th Street Laramie
+--------------------------------------------------
+City Manager:
+Start: 00:15:04.900
+End: 00:15:08.980
+Duration: 4.080 seconds
+Text: There's some additional scope within this project to address trash
+--------------------------------------------------
+City Manager:
+Start: 00:15:10.220
+End: 00:15:16.260
+Duration: 6.040 seconds
+Text: This is the opportunity based on our analysis and our prior engagement with consultants
+--------------------------------------------------
+City Manager:
+Start: 00:15:16.900
+End: 00:15:19.180
+Duration: 2.280 seconds
+Text: both these half blocks being under
+--------------------------------------------------
+City Manager:
+Start: 00:15:20.740
+End: 00:15:23.780
+Duration: 3.040 seconds
+Text: Reconstruction redevelopment gives us the opportunity to look at trash
+--------------------------------------------------
+City Manager:
+Start: 00:15:24.540
+End: 00:15:32.460
+Duration: 7.920 seconds
+Text: Comprehensibly we've asked Olson to include some specifics within their scope where they can give us alternatives in the alleys or
+--------------------------------------------------
+City Manager:
+Start: 00:15:32.460
+End: 00:15:37.660
+Duration: 5.200 seconds
+Text: Adjacent to the alleys where we can have consolidated trash if you recall off little morrow
+--------------------------------------------------
+City Manager:
+Start: 00:15:37.660
+End: 00:15:40.820
+Duration: 3.160 seconds
+Text: We worked with both the owners of the rallyhouse building and
+--------------------------------------------------
+City Manager:
+Start: 00:15:41.540
+End: 00:15:48.860
+Duration: 7.320 seconds
+Text: Bill Varney and Joe Gritten over with good sense and insomnia cookies and quick shop they now share
+--------------------------------------------------
+City Manager:
+Start: 00:15:50.500
+End: 00:15:57.860
+Duration: 7.360 seconds
+Text: Trash services off little morrow. We built a facility. It's big enough for a compactor in the event we get there
+--------------------------------------------------
+City Manager:
+Start: 00:15:58.220
+End: 00:16:01.300
+Duration: 3.080 seconds
+Text: but we're not jockeying for
+--------------------------------------------------
+City Manager:
+Start: 00:16:02.180
+End: 00:16:05.740
+Duration: 3.560 seconds
+Text: Trash and eventually we need to address grease as well
+--------------------------------------------------
+City Manager:
+Start: 00:16:06.460
+End: 00:16:10.580
+Duration: 4.120 seconds
+Text: and dealing with those in every business and
+--------------------------------------------------
+City Manager:
+Start: 00:16:11.140
+End: 00:16:15.980
+Duration: 4.840 seconds
+Text: Aguibill it overwhelms you walking down a lot of the alleys in Aguibill
+--------------------------------------------------
+City Manager:
+Start: 00:16:15.980
+End: 00:16:22.260
+Duration: 6.280 seconds
+Text: We'd like Olson to develop some concepts and alternatives for the commission to react to we have studies
+--------------------------------------------------
+City Manager:
+Start: 00:16:22.660
+End: 00:16:24.500
+Duration: 1.840 seconds
+Text: We hired consultants
+--------------------------------------------------
+City Manager:
+Start: 00:16:24.500
+End: 00:16:30.380
+Duration: 5.880 seconds
+Text: Previously when Olson brings back some of their alternatives will include that report again
+--------------------------------------------------
+City Manager:
+Start: 00:16:30.420
+End: 00:16:35.740
+Duration: 5.320 seconds
+Text: If you're interested now we have an Aguibill page that's based in the community development website
+--------------------------------------------------
+City Manager:
+Start: 00:16:35.820
+End: 00:16:42.540
+Duration: 6.720 seconds
+Text: If you want to go to the community development website click on Aguibill the trash report is in that sequence of
+--------------------------------------------------
+City Manager:
+Start: 00:16:43.100
+End: 00:16:45.740
+Duration: 2.640 seconds
+Text: Documents and actions that we've taken in Aguibill since
+--------------------------------------------------
+City Manager:
+Start: 00:16:46.700
+End: 00:16:52.500
+Duration: 5.800 seconds
+Text: 2016 so there's a good seven and a half eight years of the worth of history there the trash and
+--------------------------------------------------
+City Manager:
+Start: 00:16:53.660
+End: 00:16:56.780
+Duration: 3.120 seconds
+Text: Refuse report is there on how we could handle some of that
+--------------------------------------------------
+City Manager:
+Start: 00:16:56.780
+End: 00:16:59.220
+Duration: 2.440 seconds
+Text: So if you if you want to get a jump on that read
+--------------------------------------------------
+City Manager:
+Start: 00:16:59.780
+End: 00:17:05.900
+Duration: 6.120 seconds
+Text: Please do but we've asked Olson to bring some alternative is back for the city to consider with trash
+--------------------------------------------------
+City Manager:
+Start: 00:17:06.580
+End: 00:17:11.020
+Duration: 4.440 seconds
+Text: Just as a reminder the main controversy lied on with trash is it would be
+--------------------------------------------------
+City Manager:
+Start: 00:17:11.620
+End: 00:17:20.020
+Duration: 8.400 seconds
+Text: Consolidated and either administered by a single party and it would take away the ability for individual businesses to
+--------------------------------------------------
+City Manager:
+Start: 00:17:20.220
+End: 00:17:25.700
+Duration: 5.480 seconds
+Text: Contract directly for that service. So that consolidation is really what we're after
+--------------------------------------------------
+City Manager:
+Start: 00:17:26.140
+End: 00:17:29.860
+Duration: 3.720 seconds
+Text: We know we've heard some some resistance to that there's some
+--------------------------------------------------
+City Manager:
+Start: 00:17:30.740
+End: 00:17:36.860
+Duration: 6.120 seconds
+Text: Relationships with businesses and providers that are longstanding and we know there's a resistance there
+--------------------------------------------------
+City Manager:
+Start: 00:17:36.940
+End: 00:17:41.500
+Duration: 4.560 seconds
+Text: But we'd really like to make a decision one way or another because after this
+--------------------------------------------------
+City Manager:
+Start: 00:17:42.260
+End: 00:17:49.380
+Duration: 7.120 seconds
+Text: Two half block development. I think we're gonna be pressed pretty hard to find another opportunity to do this so
+--------------------------------------------------
+City Manager:
+Start: 00:17:50.980
+End: 00:17:52.980
+Duration: 2.000 seconds
+Text: I'm happy to answer any questions
+--------------------------------------------------
+City Manager:
+Start: 00:17:52.980
+End: 00:17:59.500
+Duration: 6.520 seconds
+Text: The agreements obviously we're a little bit over 900k on the design now bumping up from that
+--------------------------------------------------
+City Manager:
+Start: 00:18:00.340
+End: 00:18:04.620
+Duration: 4.280 seconds
+Text: 560 mark. I know Mark Bay Shams here with Olson he can expand on the role
+--------------------------------------------------
+City Manager:
+Start: 00:18:05.260
+End: 00:18:12.900
+Duration: 7.640 seconds
+Text: Olson will have with this project and no Patrick Shudders here with BHS as well. So if you have questions of them, please don't hesitate
+--------------------------------------------------
+City Clerk:
+Start: 00:18:16.500
+End: 00:18:21.900
+Duration: 5.400 seconds
+Text: So just to clarify we're pretty much just voting on the expansion of scope at this point, right?
+--------------------------------------------------
+City Manager:
+Start: 00:18:22.540
+End: 00:18:24.740
+Duration: 2.200 seconds
+Text: Yeah, a couple contracts here in Mending. Okay
+--------------------------------------------------
+City Clerk:
+Start: 00:18:25.860
+End: 00:18:27.860
+Duration: 2.000 seconds
+Text: Will we have the opportunity to
+--------------------------------------------------
+City Clerk:
+Start: 00:18:28.820
+End: 00:18:31.620
+Duration: 2.800 seconds
+Text: Along with design talk about like
+--------------------------------------------------
+City Clerk:
+Start: 00:18:32.140
+End: 00:18:35.060
+Duration: 2.920 seconds
+Text: Timing of all of these things and how we'll be able to
+--------------------------------------------------
+City Clerk:
+Start: 00:18:36.180
+End: 00:18:40.820
+Duration: 4.640 seconds
+Text: Minimize the impact of businesses. Yeah, the public improvements
+--------------------------------------------------
+City Manager:
+Start: 00:18:41.620
+End: 00:18:46.300
+Duration: 4.680 seconds
+Text: Obviously as I mentioned coordinated with the same contractor building the private improvements
+--------------------------------------------------
+City Manager:
+Start: 00:18:46.300
+End: 00:18:50.700
+Duration: 4.400 seconds
+Text: Mm-hmm a lot of our improvements will come towards the end of the project
+--------------------------------------------------
+City Manager:
+Start: 00:18:50.980
+End: 00:18:52.980
+Duration: 2.000 seconds
+Text: The impact of the private
+--------------------------------------------------
+City Manager:
+Start: 00:18:53.180
+End: 00:18:59.300
+Duration: 6.120 seconds
+Text: Construction on the public infrastructure is probably more concerning because that's obviously gonna take more time
+--------------------------------------------------
+City Manager:
+Start: 00:18:59.700
+End: 00:19:07.700
+Duration: 8.000 seconds
+Text: The need for them to be on 12th Street or on Laramie shutting down lanes possibly shutting down streets at periods of time cranes
+--------------------------------------------------
+City Manager:
+Start: 00:19:08.140
+End: 00:19:13.940
+Duration: 5.800 seconds
+Text: Swinging big pieces. We got to keep people safe. Right. I know there's a desire to move through there
+--------------------------------------------------
+City Manager:
+Start: 00:19:13.940
+End: 00:19:16.420
+Duration: 2.480 seconds
+Text: But safety is gonna be a top priority
+--------------------------------------------------
+City Manager:
+Start: 00:19:17.020
+End: 00:19:23.500
+Duration: 6.480 seconds
+Text: But that sequencing is something that I would anticipate as we get into design a public infrastructure
+--------------------------------------------------
+City Manager:
+Start: 00:19:24.100
+End: 00:19:27.940
+Duration: 3.840 seconds
+Text: More clarity will come from the private side and we can get those
+--------------------------------------------------
+City Manager:
+Start: 00:19:28.540
+End: 00:19:33.140
+Duration: 4.600 seconds
+Text: Those timelines overlapping each other and talk and get people really
+--------------------------------------------------
+City Manager:
+Start: 00:19:33.940
+End: 00:19:35.460
+Duration: 1.520 seconds
+Text: informed
+--------------------------------------------------
+City Manager:
+Start: 00:19:35.460
+End: 00:19:38.260
+Duration: 2.800 seconds
+Text: April of this year a lot's going to start
+--------------------------------------------------
+City Clerk:
+Start: 00:19:38.260
+End: 00:19:38.980
+Duration: 0.720 seconds
+Text: Mm-hmm
+--------------------------------------------------
+City Manager:
+Start: 00:19:38.980
+End: 00:19:42.140
+Duration: 3.160 seconds
+Text: And I think the developers here tonight along with this team
+--------------------------------------------------
+City Manager:
+Start: 00:19:42.140
+End: 00:19:47.620
+Duration: 5.480 seconds
+Text: They might be able to jump in there and provide some updated schedules. You also have to consider
+--------------------------------------------------
+City Manager:
+Start: 00:19:48.580
+End: 00:19:50.580
+Duration: 2.000 seconds
+Text: Final development plans from
+--------------------------------------------------
+City Manager:
+Start: 00:19:51.260
+End: 00:19:56.360
+Duration: 5.100 seconds
+Text: Midtown one and two so the handicorn or in the midtown oh the commission
+--------------------------------------------------
+City Manager:
+Start: 00:19:56.700
+End: 00:20:00.260
+Duration: 3.560 seconds
+Text: Final development plans and they can't pull a building permit until that happens
+--------------------------------------------------
+City Manager:
+Start: 00:20:00.260
+End: 00:20:03.880
+Duration: 3.620 seconds
+Text: That's another opportunity for us to talk about timing. Okay. Thanks
+--------------------------------------------------
+City Clerk:
+Start: 00:20:06.940
+End: 00:20:09.620
+Duration: 2.680 seconds
+Text: I would just urge us having been on the counties
+--------------------------------------------------
+City Clerk:
+Start: 00:20:10.180
+End: 00:20:12.940
+Duration: 2.760 seconds
+Text: Solid waste committee for many years to
+--------------------------------------------------
+City Clerk:
+Start: 00:20:14.500
+End: 00:20:16.780
+Duration: 2.280 seconds
+Text: To consolidate as much as we can
+--------------------------------------------------
+City Clerk:
+Start: 00:20:18.340
+End: 00:20:22.780
+Duration: 4.440 seconds
+Text: Obviously there are I'm sure some businesses will have some issues with that
+--------------------------------------------------
+City Clerk:
+Start: 00:20:22.780
+End: 00:20:27.380
+Duration: 4.600 seconds
+Text: But they won't be there forever and if we don't do this and do it right at this point
+--------------------------------------------------
+City Clerk:
+Start: 00:20:27.620
+End: 00:20:30.100
+Duration: 2.480 seconds
+Text: It'll just hang over us also
+--------------------------------------------------
+City Clerk:
+Start: 00:20:30.620
+End: 00:20:33.580
+Duration: 2.960 seconds
+Text: It'd be interesting to see if it can consolidate the grease
+--------------------------------------------------
+City Clerk:
+Start: 00:20:34.620
+End: 00:20:37.900
+Duration: 3.280 seconds
+Text: Because you can then sell that if you have adequate
+--------------------------------------------------
+City Clerk:
+Start: 00:20:38.460
+End: 00:20:40.460
+Duration: 2.000 seconds
+Text: Mounds of it and and you know
+--------------------------------------------------
+City Clerk:
+Start: 00:20:41.220
+End: 00:20:47.100
+Duration: 5.880 seconds
+Text: When the health board was doing the health department was doing inspections of restaurants that was
+--------------------------------------------------
+City Clerk:
+Start: 00:20:47.900
+End: 00:20:50.700
+Duration: 2.800 seconds
+Text: often a significant issue and
+--------------------------------------------------
+City Clerk:
+Start: 00:20:51.180
+End: 00:20:54.700
+Duration: 3.520 seconds
+Text: Too much of the grease was from many restaurants in Manhattan
+--------------------------------------------------
+City Clerk:
+Start: 00:20:56.500
+End: 00:21:04.060
+Duration: 7.560 seconds
+Text: Was going into our water system and which is of course makes it difficult to treat two different programs there
+--------------------------------------------------
+City Manager:
+Start: 00:21:04.060
+End: 00:21:07.740
+Duration: 3.680 seconds
+Text: We have our grease trap program in which we inspect and make sure
+--------------------------------------------------
+City Manager:
+Start: 00:21:08.340
+End: 00:21:11.180
+Duration: 2.840 seconds
+Text: Those businesses are catching it and disposing of it
+--------------------------------------------------
+City Manager:
+Start: 00:21:11.540
+End: 00:21:16.500
+Duration: 4.960 seconds
+Text: I've worked with Dennis cook in the Aguil Business Association in the past we've identified vendors
+--------------------------------------------------
+City Manager:
+Start: 00:21:16.500
+End: 00:21:23.620
+Duration: 7.120 seconds
+Text: There are folks who will actually come in set up small PVC pipe throughout your building and you're able to basically pump it out
+--------------------------------------------------
+City Manager:
+Start: 00:21:23.620
+End: 00:21:29.460
+Duration: 5.840 seconds
+Text: And not have to carry it through a door to an alley to dump in a container. We'd like to explore that as well
+--------------------------------------------------
+City Clerk:
+Start: 00:21:29.460
+End: 00:21:31.460
+Duration: 2.000 seconds
+Text: I would I hope we can yep
+--------------------------------------------------
+City Clerk:
+Start: 00:21:32.460
+End: 00:21:36.740
+Duration: 4.280 seconds
+Text: I hope we can reach that point because it make a lot of sense and then Dennis can
+--------------------------------------------------
+City Manager:
+Start: 00:21:37.740
+End: 00:21:41.900
+Duration: 4.160 seconds
+Text: Confirm this it was my impression those companies would actually come in and install the PVC
+--------------------------------------------------
+City Manager:
+Start: 00:21:42.100
+End: 00:21:45.020
+Duration: 2.920 seconds
+Text: They just wanted that relationship with you for the coming months
+--------------------------------------------------
+City Clerk:
+Start: 00:21:47.620
+End: 00:21:49.620
+Duration: 2.000 seconds
+Text: They probably need to have
+--------------------------------------------------
+City Clerk:
+Start: 00:21:50.460
+End: 00:21:58.700
+Duration: 8.240 seconds
+Text: A group decision on this and and make sure it's worth their while to you know and it's something we can we can get involved with too in terms of
+--------------------------------------------------
+City Manager:
+Start: 00:21:58.700
+End: 00:22:03.260
+Duration: 4.560 seconds
+Text: Requiring it again, not sure how much with trash angriest government
+--------------------------------------------------
+City Manager:
+Start: 00:22:04.380
+End: 00:22:12.020
+Duration: 7.640 seconds
+Text: Presence you want to have there there are options it clearly gives us a better product when we force everyone to do the same thing
+--------------------------------------------------
+City Manager:
+Start: 00:22:12.020
+End: 00:22:13.500
+Duration: 1.480 seconds
+Text: Yeah, if it's a voluntary
+--------------------------------------------------
+City Manager:
+Start: 00:22:13.500
+End: 00:22:16.580
+Duration: 3.080 seconds
+Text: I think you can walk around right now and see the ones who are willing to do it
+--------------------------------------------------
+City Clerk:
+Start: 00:22:16.580
+End: 00:22:20.540
+Duration: 3.960 seconds
+Text: Yeah, I think it's gonna we're gonna have to be the ugly sisters something
+--------------------------------------------------
+Staff Member:
+Start: 00:22:21.100
+End: 00:22:34.420
+Duration: 13.320 seconds
+Text: You know what say I think you know this comprehensive look is important because long-term we needed to fix the alleys and do a bunch of things
+--------------------------------------------------
+Staff Member:
+Start: 00:22:34.420
+End: 00:22:39.460
+Duration: 5.040 seconds
+Text: So essentially we do that I particularly support this trash and grease plan
+--------------------------------------------------
+Staff Member:
+Start: 00:22:39.460
+End: 00:22:41.460
+Duration: 2.000 seconds
+Text: I know that may cause some pain
+--------------------------------------------------
+Staff Member:
+Start: 00:22:41.460
+End: 00:22:47.460
+Duration: 6.000 seconds
+Text: But that little enclosure that's out there on a little morrow that some folks thought was a new Aggieville something
+--------------------------------------------------
+Staff Member:
+Start: 00:22:47.460
+End: 00:22:55.220
+Duration: 7.760 seconds
+Text: That was just a little amenity put on there and and long term if we can get a number of those built and then put the trash
+--------------------------------------------------
+Staff Member:
+Start: 00:22:55.500
+End: 00:23:02.980
+Duration: 7.480 seconds
+Text: Compactors in there it will allow you know better trash service and and you know if you walk down those alleys and and Aggieville
+--------------------------------------------------
+Staff Member:
+Start: 00:23:02.980
+End: 00:23:09.020
+Duration: 6.040 seconds
+Text: It's pretty grim with it with the grease and all that there so so this is something we need to do and and there are going to be those
+--------------------------------------------------
+Staff Member:
+Start: 00:23:09.020
+End: 00:23:13.540
+Duration: 4.520 seconds
+Text: hiccups on who gets the contract and you know some little agreements there
+--------------------------------------------------
+Staff Member:
+Start: 00:23:13.540
+End: 00:23:17.180
+Duration: 3.640 seconds
+Text: But but I think as Karen said we're gonna have to we're gonna have to force this issue
+--------------------------------------------------
+Staff Member:
+Start: 00:23:17.420
+End: 00:23:19.420
+Duration: 2.000 seconds
+Text: Well, we're not gonna get the improvement
+--------------------------------------------------
+Staff Member:
+Start: 00:23:19.660
+End: 00:23:21.660
+Duration: 2.000 seconds
+Text: So so I'm I'm in favor of this
+--------------------------------------------------
+Staff Member:
+Start: 00:23:26.260
+End: 00:23:31.620
+Duration: 5.360 seconds
+Text: Okay, if there's no other commissioner comments will open this to public comment on this topic
+--------------------------------------------------
+Staff Member:
+Start: 00:23:33.220
+End: 00:23:38.500
+Duration: 5.280 seconds
+Text: Come forward you can speak up to five minutes and be sure you state your name in the dress and sign in
+--------------------------------------------------
+City Clerk:
+Start: 00:23:43.540
+End: 00:23:52.740
+Duration: 9.200 seconds
+Text: Mark Bassham with Olsen and I really don't have anything other to add to what Jason already talked about it's
+--------------------------------------------------
+City Clerk:
+Start: 00:23:53.260
+End: 00:23:59.740
+Duration: 6.480 seconds
+Text: That you know we're over doubling the size and including the alleys now with the project so
+--------------------------------------------------
+City Clerk:
+Start: 00:24:00.100
+End: 00:24:08.060
+Duration: 7.960 seconds
+Text: There's just a lot of stuff going on here and to work with both private and the public together and solving
+--------------------------------------------------
+City Clerk:
+Start: 00:24:09.060
+End: 00:24:17.740
+Duration: 8.680 seconds
+Text: There's a lot of issues that we have to work through with doorways and and and and everything all tying together all
+--------------------------------------------------
+City Clerk:
+Start: 00:24:18.180
+End: 00:24:26.020
+Duration: 7.840 seconds
+Text: And so it's really a good partnership right now between the public and the private side we're meeting all the time now and trying to figure this all out
+--------------------------------------------------
+City Clerk:
+Start: 00:24:26.020
+End: 00:24:32.740
+Duration: 6.720 seconds
+Text: So I think in the end it's gonna be painful getting through the next couple years, but I think it's gonna be very well worthwhile
+--------------------------------------------------
+City Clerk:
+Start: 00:24:34.700
+End: 00:24:36.300
+Duration: 1.600 seconds
+Text: Mark
+--------------------------------------------------
+City Clerk:
+Start: 00:24:36.300
+End: 00:24:44.020
+Duration: 7.720 seconds
+Text: In your design it would be really good. I think if you had the possibility of having electric vehicle charging stations
+--------------------------------------------------
+City Clerk:
+Start: 00:24:44.620
+End: 00:24:50.260
+Duration: 5.640 seconds
+Text: Throughout and I don't know you know at what point we move into that kind of thing
+--------------------------------------------------
+City Clerk:
+Start: 00:24:50.260
+End: 00:24:57.300
+Duration: 7.040 seconds
+Text: But I think that there's going to be a demand and I know we have issues with how do we deal with ever G and that kind of thing but
+--------------------------------------------------
+City Clerk:
+Start: 00:24:58.500
+End: 00:25:04.220
+Duration: 5.720 seconds
+Text: Simply the ability to do that. I think would be very important. I think we are looking at that
+--------------------------------------------------
+City Clerk:
+Start: 00:25:06.300
+End: 00:25:10.340
+Duration: 4.040 seconds
+Text: And that's probably for some later later comments that we probably
+--------------------------------------------------
+City Clerk:
+Start: 00:25:11.020
+End: 00:25:15.580
+Duration: 4.560 seconds
+Text: That's it's being looked at the thing is we got to have power down there
+--------------------------------------------------
+City Clerk:
+Start: 00:25:15.580
+End: 00:25:17.380
+Duration: 1.800 seconds
+Text: Yeah, that's what I mean. Yeah, there's no use
+--------------------------------------------------
+City Clerk:
+Start: 00:25:17.380
+End: 00:25:18.340
+Duration: 0.960 seconds
+Text: You know
+--------------------------------------------------
+City Clerk:
+Start: 00:25:18.340
+End: 00:25:23.100
+Duration: 4.760 seconds
+Text: With average E and yeah, you don't want to go back and dig up the street to put in power is what I'm saying
+--------------------------------------------------
+City Clerk:
+Start: 00:25:23.260
+End: 00:25:25.260
+Duration: 2.000 seconds
+Text: So you know even if we don't
+--------------------------------------------------
+City Clerk:
+Start: 00:25:26.020
+End: 00:25:32.100
+Duration: 6.080 seconds
+Text: Initially have the power and the stations to have the ability to have them would be really smart
+--------------------------------------------------
+City Clerk:
+Start: 00:25:34.660
+End: 00:25:36.160
+Duration: 1.500 seconds
+Text: Thank you
+--------------------------------------------------
+Staff Member:
+Start: 00:25:37.160
+End: 00:25:39.720
+Duration: 2.560 seconds
+Text: Can you is there any other public comment?
+--------------------------------------------------
+Staff Member:
+Start: 00:25:42.720
+End: 00:25:47.400
+Duration: 4.680 seconds
+Text: Okay, seeing none will close public comment and any further commissioner comments
+--------------------------------------------------
+Staff Member:
+Start: 00:25:48.120
+End: 00:25:51.240
+Duration: 3.120 seconds
+Text: I have one though. I probably don't don't agree with
+--------------------------------------------------
+Staff Member:
+Start: 00:25:51.840
+End: 00:25:53.840
+Duration: 2.000 seconds
+Text: Karen wanting to put in the electric
+--------------------------------------------------
+Staff Member:
+Start: 00:25:54.600
+End: 00:25:59.600
+Duration: 5.000 seconds
+Text: Charging stations and then that's simply because you know, I've always taken the position. I don't have it
+--------------------------------------------------
+Staff Member:
+Start: 00:26:00.080
+End: 00:26:03.760
+Duration: 3.680 seconds
+Text: Anything against electric cars, but the city doesn't run gas stations
+--------------------------------------------------
+Staff Member:
+Start: 00:26:03.920
+End: 00:26:08.120
+Duration: 4.200 seconds
+Text: And so therefore the city shouldn't run charging stations and what my belief is that
+--------------------------------------------------
+Staff Member:
+Start: 00:26:09.160
+End: 00:26:12.080
+Duration: 2.920 seconds
+Text: If the demand is there some entrepreneur
+--------------------------------------------------
+Staff Member:
+Start: 00:26:12.680
+End: 00:26:19.680
+Duration: 7.000 seconds
+Text: We'll figure out how to do this, you know using a case ease or something of that nature and the added expense of doing that in the city
+--------------------------------------------------
+Staff Member:
+Start: 00:26:19.680
+End: 00:26:23.240
+Duration: 3.560 seconds
+Text: Taking that on and trying to manage it with charging with average E
+--------------------------------------------------
+Staff Member:
+Start: 00:26:24.080
+End: 00:26:31.800
+Duration: 7.720 seconds
+Text: I'm just not inclined to go there right now and I'm expecting the entrepreneurs of the world to step up with the chamber to make that happen
+--------------------------------------------------
+City Clerk:
+Start: 00:26:34.360
+End: 00:26:42.600
+Duration: 8.240 seconds
+Text: When I'm not suggesting the city take that over I'm simply suggesting that we have the ability to have those there without having to read
+--------------------------------------------------
+City Clerk:
+Start: 00:26:43.480
+End: 00:26:46.240
+Duration: 2.760 seconds
+Text: Design our curbs or anything like that
+--------------------------------------------------
+Staff Member:
+Start: 00:26:47.760
+End: 00:26:50.800
+Duration: 3.040 seconds
+Text: You know that makes sense if it's over by the gas station or something
+--------------------------------------------------
+Staff Member:
+Start: 00:26:50.800
+End: 00:26:54.320
+Duration: 3.520 seconds
+Text: But but I just can't see the individual businesses, you know having those out front
+--------------------------------------------------
+Staff Member:
+Start: 00:26:54.320
+End: 00:26:56.680
+Duration: 2.360 seconds
+Text: I mean we've got one down the discovery center
+--------------------------------------------------
+Staff Member:
+Start: 00:26:56.680
+End: 00:27:00.600
+Duration: 3.920 seconds
+Text: I think that was part of the the issue doing that which I know is used on occasion
+--------------------------------------------------
+Staff Member:
+Start: 00:27:00.600
+End: 00:27:07.440
+Duration: 6.840 seconds
+Text: But I just can't see city parking lots having that so that's a you know for further discussion. So any other comments?
+--------------------------------------------------
+Staff Member:
+Start: 00:27:10.400
+End: 00:27:14.600
+Duration: 4.200 seconds
+Text: Okay, then we can entertain a motion on this particular amendment. That's a long one
+--------------------------------------------------
+City Clerk:
+Start: 00:27:18.960
+End: 00:27:23.840
+Duration: 4.880 seconds
+Text: Peter gonna do the hunters and read that one. Yeah, I'll try again here. All right. I move
+--------------------------------------------------
+City Clerk:
+Start: 00:27:24.880
+End: 00:27:30.520
+Duration: 5.640 seconds
+Text: To approve and authorize the mayor and city clerk to execute contract amendment number one in the amount not to exceed
+--------------------------------------------------
+City Clerk:
+Start: 00:27:30.600
+End: 00:27:31.600
+Duration: 1.000 seconds
+Text: an additional
+--------------------------------------------------
+City Clerk:
+Start: 00:27:31.600
+End: 00:27:41.960
+Duration: 10.360 seconds
+Text: 357,827 dollars to the professional services contract with Olson Inc. of Manhattan, Kansas and an agreement with BHS construction Inc. for
+--------------------------------------------------
+City Clerk:
+Start: 00:27:42.160
+End: 00:27:45.600
+Duration: 3.440 seconds
+Text: Project coordination professional services in an amount not to exceed
+--------------------------------------------------
+City Clerk:
+Start: 00:27:46.600
+End: 00:27:48.600
+Duration: 2.000 seconds
+Text: 183
+--------------------------------------------------
+City Clerk:
+Start: 00:27:48.600
+End: 00:27:50.600
+Duration: 2.000 seconds
+Text: 106,843
+--------------------------------------------------
+City Clerk:
+Start: 00:27:50.600
+End: 00:27:58.840
+Duration: 8.240 seconds
+Text: And a first amendment to construction manager at risk agreement for pre-construction services with BHS construction Inc. of Manhattan, Kansas
+--------------------------------------------------
+City Clerk:
+Start: 00:27:59.160
+End: 00:28:06.760
+Duration: 7.600 seconds
+Text: In an additional lump sum amount of $5,000 for the 12th street Laramie Street Alley's and associated public infrastructure
+--------------------------------------------------
+Staff Member:
+Start: 00:28:07.120
+End: 00:28:09.120
+Duration: 2.000 seconds
+Text: I'll second the motion
+--------------------------------------------------
+Staff Member:
+Start: 00:28:10.040
+End: 00:28:13.680
+Duration: 3.640 seconds
+Text: So we have a motion and a second city clerk. Please call the roll
+--------------------------------------------------
+City Clerk:
+Start: 00:28:15.000
+End: 00:28:17.000
+Duration: 2.000 seconds
+Text: Commissioner O'Palt. Yes
+--------------------------------------------------
+City Clerk:
+Start: 00:28:17.480
+End: 00:28:19.480
+Duration: 2.000 seconds
+Text: Commissioner Mata. Yes
+--------------------------------------------------
+City Clerk:
+Start: 00:28:19.480
+End: 00:28:27.040
+Duration: 7.560 seconds
+Text: Mayor Butler. Yes, Commissioner Adam Chack. Yes, Commissioner McCola. Yes, motion carries 5 to 0
+--------------------------------------------------
+Staff Member:
+Start: 00:28:28.040
+End: 00:28:32.840
+Duration: 4.800 seconds
+Text: Okay, then the next item is a discussion item and that's to discuss
+--------------------------------------------------
+Staff Member:
+Start: 00:28:33.480
+End: 00:28:40.560
+Duration: 7.080 seconds
+Text: Applying for state historic preservation grant to hire a consultant to develop a historic preservation plan and
+--------------------------------------------------
+Staff Member:
+Start: 00:28:40.840
+End: 00:28:47.160
+Duration: 6.320 seconds
+Text: The historic resources board has already looked at this and recommends we do so. So take it from there. Yes
+--------------------------------------------------
+City Manager:
+Start: 00:28:48.120
+End: 00:28:55.000
+Duration: 6.880 seconds
+Text: Good evening, Ben Schmiel senior planner community development department. I don't have a presentation for you for you tonight
+--------------------------------------------------
+City Manager:
+Start: 00:28:55.000
+End: 00:29:02.560
+Duration: 7.560 seconds
+Text: So this will hopefully be pretty short on my part. I think it's pretty straightforward as to the information that's been included in your packet
+--------------------------------------------------
+City Manager:
+Start: 00:29:03.200
+End: 00:29:05.200
+Duration: 2.000 seconds
+Text: But just a quick recap
+--------------------------------------------------
+City Manager:
+Start: 00:29:05.440
+End: 00:29:10.480
+Duration: 5.040 seconds
+Text: Last year the state historic preservation office or ship O at the state of Kansas
+--------------------------------------------------
+City Manager:
+Start: 00:29:11.440
+End: 00:29:16.080
+Duration: 4.640 seconds
+Text: Notify this of some excess funding opportunity that they had
+--------------------------------------------------
+City Manager:
+Start: 00:29:17.240
+End: 00:29:24.840
+Duration: 7.600 seconds
+Text: The state is required by the federal government to pass through a certain amount of funding that they receive to certify local governments
+--------------------------------------------------
+City Manager:
+Start: 00:29:25.480
+End: 00:29:27.480
+Duration: 2.000 seconds
+Text: Manhattan is one of those
+--------------------------------------------------
+City Manager:
+Start: 00:29:28.160
+End: 00:29:34.360
+Duration: 6.200 seconds
+Text: So staff went to the historic resources board to notify them of this opportunity and a few different
+--------------------------------------------------
+City Manager:
+Start: 00:29:35.040
+End: 00:29:40.560
+Duration: 5.520 seconds
+Text: Ideas for what the city could use that funding for or apply for was discussed
+--------------------------------------------------
+City Manager:
+Start: 00:29:41.320
+End: 00:29:44.720
+Duration: 3.400 seconds
+Text: The HRB ultimately landed on a
+--------------------------------------------------
+City Manager:
+Start: 00:29:45.760
+End: 00:29:48.840
+Duration: 3.080 seconds
+Text: Project to hire a consultant to create a citywide
+--------------------------------------------------
+City Manager:
+Start: 00:29:49.920
+End: 00:29:51.920
+Duration: 2.000 seconds
+Text: preservation plan
+--------------------------------------------------
+City Manager:
+Start: 00:29:52.400
+End: 00:29:56.680
+Duration: 4.280 seconds
+Text: The scope of that work was is discussed a little bit in the packet
+--------------------------------------------------
+City Manager:
+Start: 00:29:57.280
+End: 00:29:59.280
+Duration: 2.000 seconds
+Text: but ultimately would be
+--------------------------------------------------
+City Manager:
+Start: 00:30:00.280
+End: 00:30:02.280
+Duration: 2.000 seconds
+Text: narrowed down in a
+--------------------------------------------------
+City Manager:
+Start: 00:30:03.080
+End: 00:30:09.160
+Duration: 6.080 seconds
+Text: Grant agreement or an RFP that the city would issue to actually hire a consultant to do that work
+--------------------------------------------------
+City Manager:
+Start: 00:30:09.920
+End: 00:30:13.240
+Duration: 3.320 seconds
+Text: So we don't necessarily need to discuss that tonight
+--------------------------------------------------
+City Manager:
+Start: 00:30:14.360
+End: 00:30:18.760
+Duration: 4.400 seconds
+Text: But the HRB did make a formal recommendation to the city commission to
+--------------------------------------------------
+City Manager:
+Start: 00:30:19.560
+End: 00:30:23.640
+Duration: 4.080 seconds
+Text: Direct city staff to apply for those funds from the state
+--------------------------------------------------
+City Manager:
+Start: 00:30:24.200
+End: 00:30:26.200
+Duration: 2.000 seconds
+Text: The state would require no match
+--------------------------------------------------
+City Manager:
+Start: 00:30:26.760
+End: 00:30:28.280
+Duration: 1.520 seconds
+Text: Which is
+--------------------------------------------------
+City Manager:
+Start: 00:30:28.280
+End: 00:30:33.480
+Duration: 5.200 seconds
+Text: unlike regular grant opportunities that they advertise for normally a
+--------------------------------------------------
+City Manager:
+Start: 00:30:34.160
+End: 00:30:38.040
+Duration: 3.880 seconds
+Text: 40% match is required for projects like this
+--------------------------------------------------
+City Manager:
+Start: 00:30:39.760
+End: 00:30:46.480
+Duration: 6.720 seconds
+Text: Similarly, there is a much higher amount of money that is available for this particular
+--------------------------------------------------
+City Manager:
+Start: 00:30:46.880
+End: 00:30:48.880
+Duration: 2.000 seconds
+Text: Funding opportunity
+--------------------------------------------------
+City Manager:
+Start: 00:30:48.880
+End: 00:30:52.720
+Duration: 3.840 seconds
+Text: Normally funds are capped at about 30,000 for their regular grants
+--------------------------------------------------
+City Manager:
+Start: 00:30:52.720
+End: 00:30:55.840
+Duration: 3.120 seconds
+Text: So the HRB really saw this as an opportunity to
+--------------------------------------------------
+City Manager:
+Start: 00:30:56.280
+End: 00:30:58.280
+Duration: 2.000 seconds
+Text: Build capacity for
+--------------------------------------------------
+City Manager:
+Start: 00:30:58.280
+End: 00:31:02.120
+Duration: 3.840 seconds
+Text: Preservation work in the community but also take advantage of an opportunity to
+--------------------------------------------------
+City Manager:
+Start: 00:31:02.560
+End: 00:31:06.720
+Duration: 4.160 seconds
+Text: Apply for a more big ticket item than they would normally be able to ask for
+--------------------------------------------------
+City Manager:
+Start: 00:31:08.200
+End: 00:31:10.960
+Duration: 2.760 seconds
+Text: So I'd be happy to answer any questions
+--------------------------------------------------
+City Manager:
+Start: 00:31:11.400
+End: 00:31:13.200
+Duration: 1.800 seconds
+Text: Ultimately we're looking for
+--------------------------------------------------
+City Manager:
+Start: 00:31:13.280
+End: 00:31:16.760
+Duration: 3.480 seconds
+Text: Direction from the commission on what to do with without recommendation
+--------------------------------------------------
+Staff Member:
+Start: 00:31:17.160
+End: 00:31:19.160
+Duration: 2.000 seconds
+Text: Okay, so my question to be this
+--------------------------------------------------
+Staff Member:
+Start: 00:31:19.920
+End: 00:31:26.280
+Duration: 6.360 seconds
+Text: Grant essentially some firm is going to be paid grant money to develop this plan
+--------------------------------------------------
+Staff Member:
+Start: 00:31:26.800
+End: 00:31:30.520
+Duration: 3.720 seconds
+Text: Yeah, that would be the idea okay, and will it will it include both
+--------------------------------------------------
+Staff Member:
+Start: 00:31:31.240
+End: 00:31:33.240
+Duration: 2.000 seconds
+Text: public and private
+--------------------------------------------------
+Staff Member:
+Start: 00:31:33.240
+End: 00:31:37.360
+Duration: 4.120 seconds
+Text: property because some of the historic designations are not owned by the city
+--------------------------------------------------
+City Manager:
+Start: 00:31:38.480
+End: 00:31:40.240
+Duration: 1.760 seconds
+Text: It certainly could
+--------------------------------------------------
+City Manager:
+Start: 00:31:40.360
+End: 00:31:46.840
+Duration: 6.480 seconds
+Text: Most preservation plans are our citywide so they look at all assets public or private
+--------------------------------------------------
+Staff Member:
+Start: 00:31:48.560
+End: 00:31:55.600
+Duration: 7.040 seconds
+Text: Okay, and there really is no long-term impact as far as employees or things like that if we if we apply for this grant
+--------------------------------------------------
+Staff Member:
+Start: 00:31:55.600
+End: 00:32:00.680
+Duration: 5.080 seconds
+Text: Get it will will end up with a product that we can put on the shelf and refer to correct yes, yeah
+--------------------------------------------------
+City Clerk:
+Start: 00:32:03.320
+End: 00:32:09.960
+Duration: 6.640 seconds
+Text: I think this is a really good idea because I think while we've really clearly identified the historical properties
+--------------------------------------------------
+City Clerk:
+Start: 00:32:09.960
+End: 00:32:15.200
+Duration: 5.240 seconds
+Text: sort of in the downtown area and moving out from there we we also have some
+--------------------------------------------------
+City Clerk:
+Start: 00:32:16.240
+End: 00:32:22.720
+Duration: 6.480 seconds
+Text: Architecturally interesting housing throughout the city not and of course there's also the stone houses that you know
+--------------------------------------------------
+City Clerk:
+Start: 00:32:22.720
+End: 00:32:24.720
+Duration: 2.000 seconds
+Text: We're farms that are still in existence
+--------------------------------------------------
+City Clerk:
+Start: 00:32:24.960
+End: 00:32:30.720
+Duration: 5.760 seconds
+Text: So I think the idea of getting an overall picture of what is out there. I know that the
+--------------------------------------------------
+City Clerk:
+Start: 00:32:31.640
+End: 00:32:36.040
+Duration: 4.400 seconds
+Text: Commerce Bank is thinking about removing the bank and it's a
+--------------------------------------------------
+City Clerk:
+Start: 00:32:36.680
+End: 00:32:41.760
+Duration: 5.080 seconds
+Text: Prime example of mid-century architecture that we really should try and save somehow
+--------------------------------------------------
+City Clerk:
+Start: 00:32:41.920
+End: 00:32:49.720
+Duration: 7.800 seconds
+Text: So if we can do that and know what's worth saving what's valuable and what really has an aesthetic
+--------------------------------------------------
+City Clerk:
+Start: 00:32:51.280
+End: 00:32:58.160
+Duration: 6.880 seconds
+Text: Value to it. I think that would be great and and then also I think it might be easier if
+--------------------------------------------------
+City Clerk:
+Start: 00:32:59.120
+End: 00:33:05.000
+Duration: 5.880 seconds
+Text: We go to someone and tell them why we want to save this piece of property or this this
+--------------------------------------------------
+City Clerk:
+Start: 00:33:06.000
+End: 00:33:09.960
+Duration: 3.960 seconds
+Text: Business or that kind of thing so I think go for it
+--------------------------------------------------
+City Clerk:
+Start: 00:33:12.200
+End: 00:33:14.200
+Duration: 2.000 seconds
+Text: Yeah, I think having a
+--------------------------------------------------
+City Clerk:
+Start: 00:33:15.720
+End: 00:33:22.440
+Duration: 6.720 seconds
+Text: Recommendation or policy something like that helps us kind of decide what's historic and what's just old
+--------------------------------------------------
+City Clerk:
+Start: 00:33:24.520
+End: 00:33:29.640
+Duration: 5.120 seconds
+Text: There's a lot of buildings that that that have been around for a long time, but
+--------------------------------------------------
+City Clerk:
+Start: 00:33:30.680
+End: 00:33:34.400
+Duration: 3.720 seconds
+Text: And maybe folks just want to keep because they've been around for a long time, but
+--------------------------------------------------
+City Clerk:
+Start: 00:33:35.000
+End: 00:33:38.960
+Duration: 3.960 seconds
+Text: There's a difference I think between that and a historic building so
+--------------------------------------------------
+City Clerk:
+Start: 00:33:39.800
+End: 00:33:42.720
+Duration: 2.920 seconds
+Text: Yeah, I think this would be great. It's not gonna cost us any money. So
+--------------------------------------------------
+City Clerk:
+Start: 00:33:43.640
+End: 00:33:46.120
+Duration: 2.480 seconds
+Text: Yeah, I don't know why we wouldn't do it. Sure
+--------------------------------------------------
+City Clerk:
+Start: 00:33:46.680
+End: 00:33:49.560
+Duration: 2.880 seconds
+Text: Where would this study person be housed?
+--------------------------------------------------
+City Manager:
+Start: 00:33:51.200
+End: 00:33:54.000
+Duration: 2.800 seconds
+Text: So they wouldn't be a city employee they would just be a
+--------------------------------------------------
+City Manager:
+Start: 00:33:54.840
+End: 00:33:59.080
+Duration: 4.240 seconds
+Text: Contractor that would come and go yeah, yeah, okay. Usually there's a
+--------------------------------------------------
+City Manager:
+Start: 00:34:00.000
+End: 00:34:02.000
+Duration: 2.000 seconds
+Text: Project period that the state requires
+--------------------------------------------------
+City Manager:
+Start: 00:34:02.480
+End: 00:34:04.480
+Duration: 2.000 seconds
+Text: Typically these are about a year and a half so
+--------------------------------------------------
+City Manager:
+Start: 00:34:05.520
+End: 00:34:07.520
+Duration: 2.000 seconds
+Text: We would develop a contract that had
+--------------------------------------------------
+City Manager:
+Start: 00:34:08.720
+End: 00:34:11.040
+Duration: 2.320 seconds
+Text: Milestones that they had to meet by a certain deadline
+--------------------------------------------------
+City Clerk:
+Start: 00:34:12.920
+End: 00:34:15.480
+Duration: 2.560 seconds
+Text: Yeah, it's just help to give some clarification when people
+--------------------------------------------------
+City Clerk:
+Start: 00:34:16.320
+End: 00:34:21.600
+Duration: 5.280 seconds
+Text: Want to do something then all of a sudden. Oh, we say that's historic and then there's a big controversy and
+--------------------------------------------------
+City Clerk:
+Start: 00:34:21.720
+End: 00:34:28.080
+Duration: 6.360 seconds
+Text: Thing goes up so if we kind of know that at a time it had helped and just to clarify this this study wouldn't
+--------------------------------------------------
+City Manager:
+Start: 00:34:28.960
+End: 00:34:32.320
+Duration: 3.360 seconds
+Text: Decide that things are you know officially historic or not
+--------------------------------------------------
+City Manager:
+Start: 00:34:32.760
+End: 00:34:35.200
+Duration: 2.440 seconds
+Text: It would give general guidance as to maybe
+--------------------------------------------------
+City Manager:
+Start: 00:34:36.160
+End: 00:34:44.120
+Duration: 7.960 seconds
+Text: classes of buildings or periods of significance that could be explored by either the private sector or the public sector
+--------------------------------------------------
+City Manager:
+Start: 00:34:45.720
+End: 00:34:47.000
+Duration: 1.280 seconds
+Text: So
+--------------------------------------------------
+City Manager:
+Start: 00:34:47.000
+End: 00:34:51.880
+Duration: 4.880 seconds
+Text: You know nominations wouldn't nothing would be nominated through this process, but it would give
+--------------------------------------------------
+City Manager:
+Start: 00:34:52.480
+End: 00:35:00.200
+Duration: 7.720 seconds
+Text: The city both citizens and and the city Manhattan tools to then potentially pursue nominations if it so desired
+--------------------------------------------------
+Staff Member:
+Start: 00:35:03.320
+End: 00:35:05.320
+Duration: 2.000 seconds
+Text: Okay, Susan
+--------------------------------------------------
+City Clerk:
+Start: 00:35:05.320
+End: 00:35:07.320
+Duration: 2.000 seconds
+Text: Got it. No, okay
+--------------------------------------------------
+Staff Member:
+Start: 00:35:08.440
+End: 00:35:14.040
+Duration: 5.600 seconds
+Text: Alright, then let's open this to public comment. Does anyone have a public comment on this discussion item?
+--------------------------------------------------
+Staff Member:
+Start: 00:35:16.000
+End: 00:35:22.120
+Duration: 6.120 seconds
+Text: If so you have five minutes maximum and please come forward state your name and address and please sign in
+--------------------------------------------------
+City Clerk:
+Start: 00:35:33.320
+End: 00:35:35.320
+Duration: 2.000 seconds
+Text: Good
+--------------------------------------------------
+Mick Charney:
+Start: 00:35:41.560
+End: 00:35:43.560
+Duration: 2.000 seconds
+Text: Good morning, good afternoon
+--------------------------------------------------
+Mick Charney:
+Start: 00:35:43.960
+End: 00:35:47.440
+Duration: 3.480 seconds
+Text: Commissioners of mayor Butler my name is Mick Charney. I met
+--------------------------------------------------
+Mick Charney:
+Start: 00:35:48.000
+End: 00:35:53.800
+Duration: 5.800 seconds
+Text: 1420 water food place right here in Manhattan and I currently sit on the historic resources board
+--------------------------------------------------
+Mick Charney:
+Start: 00:35:54.040
+End: 00:35:57.240
+Duration: 3.200 seconds
+Text: But I'd like to make it clear first of all that I speak only for myself
+--------------------------------------------------
+Mick Charney:
+Start: 00:35:57.240
+End: 00:36:01.600
+Duration: 4.360 seconds
+Text: I don't pretend to speak for the board as a whole, but I would point out that we passed this
+--------------------------------------------------
+Mick Charney:
+Start: 00:36:03.320
+End: 00:36:04.320
+Duration: 1.000 seconds
+Text: request
+--------------------------------------------------
+Mick Charney:
+Start: 00:36:04.320
+End: 00:36:06.320
+Duration: 2.000 seconds
+Text: unanimously
+--------------------------------------------------
+Mick Charney:
+Start: 00:36:06.320
+End: 00:36:13.680
+Duration: 7.360 seconds
+Text: Instead I speak in terms of my bona fides, which I'll enumerate very quickly for you. I hope I
+--------------------------------------------------
+Mick Charney:
+Start: 00:36:14.440
+End: 00:36:18.800
+Duration: 4.360 seconds
+Text: Have been studying architectural history for 50 years if not a little bit more
+--------------------------------------------------
+Mick Charney:
+Start: 00:36:18.800
+End: 00:36:25.920
+Duration: 7.120 seconds
+Text: I've been teaching architectural history for 45 years the last 34 years of which I taught here at Case State and
+--------------------------------------------------
+Mick Charney:
+Start: 00:36:26.920
+End: 00:36:35.720
+Duration: 8.800 seconds
+Text: In addition to that I have two degrees in architecture of bachelor's and a master's and I have another third degree doctoral degree in art and architectural history
+--------------------------------------------------
+Mick Charney:
+Start: 00:36:37.520
+End: 00:36:44.080
+Duration: 6.560 seconds
+Text: It's been since I was appointed to the HRB. It's been a real learning experience for me
+--------------------------------------------------
+Mick Charney:
+Start: 00:36:44.280
+End: 00:36:48.880
+Duration: 4.600 seconds
+Text: I've learned a lot about historic preservation. I've done a little bit of historic preservation
+--------------------------------------------------
+Mick Charney:
+Start: 00:36:49.360
+End: 00:36:53.120
+Duration: 3.760 seconds
+Text: consultation in the past, but this has really immersed me in my retirement
+--------------------------------------------------
+Mick Charney:
+Start: 00:36:53.120
+End: 00:36:59.520
+Duration: 6.400 seconds
+Text: It's given me something to do and that eats up a significant amount of my time and I really enjoy doing the research
+--------------------------------------------------
+Mick Charney:
+Start: 00:37:00.240
+End: 00:37:05.760
+Duration: 5.520 seconds
+Text: In researching this proposal in preparation for tonight's deliberation and discussion
+--------------------------------------------------
+Mick Charney:
+Start: 00:37:06.320
+End: 00:37:12.160
+Duration: 5.840 seconds
+Text: It became all the more clear to me that we really need a comprehensive preservation plan for the city as a whole
+--------------------------------------------------
+Mick Charney:
+Start: 00:37:12.880
+End: 00:37:19.280
+Duration: 6.400 seconds
+Text: Because the current ordinance which I think is chapter 25 in the city codes outlines
+--------------------------------------------------
+Mick Charney:
+Start: 00:37:19.760
+End: 00:37:23.920
+Duration: 4.160 seconds
+Text: The sorts of things that the historic resources board ought to be doing
+--------------------------------------------------
+Mick Charney:
+Start: 00:37:24.720
+End: 00:37:30.400
+Duration: 5.680 seconds
+Text: That was 1999, but since then a lot has happened in the city in terms of historic preservation
+--------------------------------------------------
+Mick Charney:
+Start: 00:37:31.120
+End: 00:37:35.440
+Duration: 4.320 seconds
+Text: For example in 2007 the downtown
+--------------------------------------------------
+Mick Charney:
+Start: 00:37:35.840
+End: 00:37:39.920
+Duration: 4.080 seconds
+Text: Historic district was formerly listed on the national register of historic places
+--------------------------------------------------
+Mick Charney:
+Start: 00:37:40.320
+End: 00:37:47.360
+Duration: 7.040 seconds
+Text: 2009 the Houston and Pierre Street residential neighborhood was listed as a historic district on the national register
+--------------------------------------------------
+Mick Charney:
+Start: 00:37:48.000
+End: 00:37:57.600
+Duration: 9.600 seconds
+Text: 2019 was the Wolfhouse district on the national register and just recently the Uma Street last year so on the historic register
+--------------------------------------------------
+Mick Charney:
+Start: 00:37:58.400
+End: 00:38:02.240
+Duration: 3.840 seconds
+Text: And so what's happened over the years is there's been the sort of patchwork of
+--------------------------------------------------
+Mick Charney:
+Start: 00:38:03.120
+End: 00:38:09.280
+Duration: 6.160 seconds
+Text: Activity and historic preservation districts especially but other individual buildings as well all throughout the city
+--------------------------------------------------
+Mick Charney:
+Start: 00:38:09.680
+End: 00:38:13.760
+Duration: 4.080 seconds
+Text: And it's very likely that there may soon be proposals for other historic districts
+--------------------------------------------------
+Mick Charney:
+Start: 00:38:13.840
+End: 00:38:20.080
+Duration: 6.240 seconds
+Text: I'm referring obliquely I suppose to the whole sunset avenue and sunset cemetery area
+--------------------------------------------------
+Mick Charney:
+Start: 00:38:21.040
+End: 00:38:27.040
+Duration: 6.000 seconds
+Text: What the plan would do it's bringing some coherence to what our objectives are
+--------------------------------------------------
+Mick Charney:
+Start: 00:38:27.840
+End: 00:38:30.400
+Duration: 2.560 seconds
+Text: Instead of sort of you know whack the mole
+--------------------------------------------------
+Mick Charney:
+Start: 00:38:30.720
+End: 00:38:33.760
+Duration: 3.040 seconds
+Text: This problem comes up here and arbitrarily another one comes up here
+--------------------------------------------------
+Mick Charney:
+Start: 00:38:34.080
+End: 00:38:41.920
+Duration: 7.840 seconds
+Text: This would give us a template by which we could operate and would also give us the opportunity to revise the city codes and ordinances
+--------------------------------------------------
+Mick Charney:
+Start: 00:38:42.800
+End: 00:38:48.880
+Duration: 6.080 seconds
+Text: With respect to things like now that we have a nationally registered historic downtown district
+--------------------------------------------------
+Mick Charney:
+Start: 00:38:49.200
+End: 00:38:58.640
+Duration: 9.440 seconds
+Text: How do we deal with issues such as infill if the building were to be demolished and somebody were to come back to that property in the historic district and want to build on it
+--------------------------------------------------
+Mick Charney:
+Start: 00:38:58.640
+End: 00:39:03.840
+Duration: 5.200 seconds
+Text: What would be the guidelines that we would have in order to direct the architect the developer
+--------------------------------------------------
+Mick Charney:
+Start: 00:39:04.720
+End: 00:39:06.720
+Duration: 2.000 seconds
+Text: So infill projects
+--------------------------------------------------
+Mick Charney:
+Start: 00:39:06.720
+End: 00:39:08.240
+Duration: 1.520 seconds
+Text: Is a good example
+--------------------------------------------------
+Mick Charney:
+Start: 00:39:08.240
+End: 00:39:10.240
+Duration: 2.000 seconds
+Text: but also things like easements
+--------------------------------------------------
+Mick Charney:
+Start: 00:39:11.120
+End: 00:39:13.040
+Duration: 1.920 seconds
+Text: And the plan could
+--------------------------------------------------
+Mick Charney:
+Start: 00:39:13.680
+End: 00:39:19.200
+Duration: 5.520 seconds
+Text: Historic preservation plan could give us some direction on what types of easements we might grant to property owners
+--------------------------------------------------
+Mick Charney:
+Start: 00:39:20.320
+End: 00:39:22.320
+Duration: 2.000 seconds
+Text: There are tax tax
+--------------------------------------------------
+Mick Charney:
+Start: 00:39:22.640
+End: 00:39:29.120
+Duration: 6.480 seconds
+Text: deductions one can take for certain types of easements whether they're facade easements or landscape easements
+--------------------------------------------------
+Mick Charney:
+Start: 00:39:30.160
+End: 00:39:31.760
+Duration: 1.600 seconds
+Text: also
+--------------------------------------------------
+Mick Charney:
+Start: 00:39:31.760
+End: 00:39:33.760
+Duration: 2.000 seconds
+Text: The plan would help us to
+--------------------------------------------------
+Mick Charney:
+Start: 00:39:34.000
+End: 00:39:37.040
+Duration: 3.040 seconds
+Text: Kind of losing my train of thought here for a minute, but
+--------------------------------------------------
+Mick Charney:
+Start: 00:39:37.680
+End: 00:39:41.120
+Duration: 3.440 seconds
+Text: Oh, it will allow for collaboration to I think between different entities
+--------------------------------------------------
+Mick Charney:
+Start: 00:39:41.920
+End: 00:39:48.640
+Duration: 6.720 seconds
+Text: The historic resource board working and understanding what the preservation of lines is doing what the Riley County Museum is doing
+--------------------------------------------------
+Mick Charney:
+Start: 00:39:49.040
+End: 00:39:53.600
+Duration: 4.560 seconds
+Text: That sort of thing and so I think would bring more cohesiveness to that whole
+--------------------------------------------------
+Mick Charney:
+Start: 00:39:54.400
+End: 00:39:59.280
+Duration: 4.880 seconds
+Text: Issue of historic preservation in the city and one other aspect of a historic preservation plan
+--------------------------------------------------
+Mick Charney:
+Start: 00:39:59.440
+End: 00:40:02.080
+Duration: 2.640 seconds
+Text: It could give us some direction on how we handle heritage
+--------------------------------------------------
+Mick Charney:
+Start: 00:40:02.720
+End: 00:40:03.680
+Duration: 0.960 seconds
+Text: um
+--------------------------------------------------
+Mick Charney:
+Start: 00:40:03.680
+End: 00:40:08.240
+Duration: 4.560 seconds
+Text: Tourism which comes in a couple different forms. There's national natural
+--------------------------------------------------
+Mick Charney:
+Start: 00:40:09.520
+End: 00:40:11.200
+Duration: 1.680 seconds
+Text: Heritage tourism
+--------------------------------------------------
+Mick Charney:
+Start: 00:40:11.200
+End: 00:40:15.280
+Duration: 4.080 seconds
+Text: Which would involve things like perhaps you know, we're in the flint hills and
+--------------------------------------------------
+Mick Charney:
+Start: 00:40:16.400
+End: 00:40:22.800
+Duration: 6.400 seconds
+Text: We have the tall grass prairie and I hear there's a herd of elk wandering around somewhere near the airport
+--------------------------------------------------
+Mick Charney:
+Start: 00:40:23.280
+End: 00:40:25.280
+Duration: 2.000 seconds
+Text: And so that would be a draw for tourists
+--------------------------------------------------
+Mick Charney:
+Start: 00:40:25.360
+End: 00:40:27.360
+Duration: 2.000 seconds
+Text: But then there's also cultural
+--------------------------------------------------
+Mick Charney:
+Start: 00:40:27.360
+End: 00:40:31.520
+Duration: 4.160 seconds
+Text: Heritage tourism and we have some wonderful stories to tell here in town
+--------------------------------------------------
+Mick Charney:
+Start: 00:40:31.920
+End: 00:40:38.240
+Duration: 6.320 seconds
+Text: Whether it's the university and how it was established within eight years of the founding of the city of Manhattan
+--------------------------------------------------
+Mick Charney:
+Start: 00:40:38.720
+End: 00:40:43.440
+Duration: 4.720 seconds
+Text: And people would like to know that story or whether it's umas street and the ex-adusters
+--------------------------------------------------
+Mick Charney:
+Start: 00:40:43.920
+End: 00:40:47.360
+Duration: 3.440 seconds
+Text: And that would give us the opportunity and all sorts of projects
+--------------------------------------------------
+Mick Charney:
+Start: 00:40:47.360
+End: 00:40:51.040
+Duration: 3.680 seconds
+Text: We could embark upon with respect to wayfaring and and so forth
+--------------------------------------------------
+Mick Charney:
+Start: 00:40:51.040
+End: 00:40:53.040
+Duration: 2.000 seconds
+Text: So I see my time is almost up
+--------------------------------------------------
+Mick Charney:
+Start: 00:40:53.040
+End: 00:40:56.240
+Duration: 3.200 seconds
+Text: But I want to thank you for just listening to me. Thanks very much
+--------------------------------------------------
+City Clerk:
+Start: 00:40:57.040
+End: 00:40:59.040
+Duration: 2.000 seconds
+Text: I just have a quick question. Thank you. Yeah, sir
+--------------------------------------------------
+City Clerk:
+Start: 00:41:00.000
+End: 00:41:03.520
+Duration: 3.520 seconds
+Text: This plan do you know if it would kind of help us
+--------------------------------------------------
+City Clerk:
+Start: 00:41:05.280
+End: 00:41:07.600
+Duration: 2.320 seconds
+Text: balance the
+--------------------------------------------------
+City Clerk:
+Start: 00:41:07.600
+End: 00:41:11.920
+Duration: 4.320 seconds
+Text: Need for preservation, but also you know, we've been talking a lot about housing and
+--------------------------------------------------
+City Clerk:
+Start: 00:41:13.520
+End: 00:41:15.680
+Duration: 2.160 seconds
+Text: And I know there's been some talk about
+--------------------------------------------------
+City Clerk:
+Start: 00:41:17.920
+End: 00:41:21.680
+Duration: 3.760 seconds
+Text: Trying to have some redevelopment in some of the older neighborhoods
+--------------------------------------------------
+City Clerk:
+Start: 00:41:22.640
+End: 00:41:25.280
+Duration: 2.640 seconds
+Text: How couldn't that help us kind of balance those things?
+--------------------------------------------------
+City Clerk:
+Start: 00:41:26.000
+End: 00:41:26.800
+Duration: 0.800 seconds
+Text: You know
+--------------------------------------------------
+City Clerk:
+Start: 00:41:26.800
+End: 00:41:30.720
+Duration: 3.920 seconds
+Text: Obviously we want to keep some of the historic buildings and things like that, but
+--------------------------------------------------
+City Clerk:
+Start: 00:41:31.600
+End: 00:41:33.600
+Duration: 2.000 seconds
+Text: Some of them again are just old
+--------------------------------------------------
+City Clerk:
+Start: 00:41:34.560
+End: 00:41:39.680
+Duration: 5.120 seconds
+Text: So what's how can it will this be able to help us kind of find that balance? Do you think I think so?
+--------------------------------------------------
+Mick Charney:
+Start: 00:41:39.680
+End: 00:41:46.320
+Duration: 6.640 seconds
+Text: I think a historic preservation plan could give us some direction on what's significant and what's not and how to judge that significance or not
+--------------------------------------------------
+Mick Charney:
+Start: 00:41:47.920
+End: 00:41:51.200
+Duration: 3.280 seconds
+Text: But maybe you can help me out here a little bit too, but
+--------------------------------------------------
+Mick Charney:
+Start: 00:41:51.760
+End: 00:41:59.520
+Duration: 7.760 seconds
+Text: Yeah, it it should be the sort of plan in my in my way of thinking that would balance the preservation of said they
+--------------------------------------------------
+Mick Charney:
+Start: 00:41:59.680
+End: 00:42:03.680
+Duration: 4.000 seconds
+Text: significant historic resources with the need for progress at the same time
+--------------------------------------------------
+City Clerk:
+Start: 00:42:06.480
+End: 00:42:12.320
+Duration: 5.840 seconds
+Text: I don't know that answers your question or no. Yeah, I just think it's really important that we do look at the community as a whole
+--------------------------------------------------
+City Clerk:
+Start: 00:42:12.720
+End: 00:42:16.720
+Duration: 4.000 seconds
+Text: Because I know that there's some areas nearly school that have interesting, you know
+--------------------------------------------------
+City Clerk:
+Start: 00:42:17.440
+End: 00:42:23.600
+Duration: 6.160 seconds
+Text: Housing was built in the 50s or 60s or that kind of thing so so often we think something has to be 150 years old
+--------------------------------------------------
+City Clerk:
+Start: 00:42:24.160
+End: 00:42:28.320
+Duration: 4.160 seconds
+Text: To be of interest as far as preserve historic preservation, but
+--------------------------------------------------
+Mick Charney:
+Start: 00:42:29.200
+End: 00:42:33.840
+Duration: 4.640 seconds
+Text: Yeah, I think that's a great idea you mentioned a very good point commission McCullough because
+--------------------------------------------------
+Mick Charney:
+Start: 00:42:34.720
+End: 00:42:38.800
+Duration: 4.080 seconds
+Text: A number of buildings will be have already come into that 50 year
+--------------------------------------------------
+Mick Charney:
+Start: 00:42:39.760
+End: 00:42:44.240
+Duration: 4.480 seconds
+Text: Max that they must achieve in terms of their age and there'll be a lot more soon coming
+--------------------------------------------------
+Mick Charney:
+Start: 00:42:44.960
+End: 00:42:49.840
+Duration: 4.880 seconds
+Text: Coming up for eligibility as well. There's some really nice buildings potentially. We could lose if they're not
+--------------------------------------------------
+Mick Charney:
+Start: 00:42:50.400
+End: 00:42:52.400
+Duration: 2.000 seconds
+Text: nominated in some way preserved
+--------------------------------------------------
+Staff Member:
+Start: 00:42:54.000
+End: 00:42:59.760
+Duration: 5.760 seconds
+Text: Okay, thank you. Okay, appreciate that is is there any anyone else? It would like to make public comment on this topic
+--------------------------------------------------
+Mayor Butler:
+Start: 00:43:14.480
+End: 00:43:16.480
+Duration: 2.000 seconds
+Text: Okay
+--------------------------------------------------
+City Clerk:
+Start: 00:43:20.480
+End: 00:43:29.760
+Duration: 9.280 seconds
+Text: Good evening. I'm Linda Glasgow and I would like to divide my comments to my own and then my representation of an organization
+--------------------------------------------------
+City Clerk:
+Start: 00:43:30.560
+End: 00:43:32.560
+Duration: 2.000 seconds
+Text: starting off I'm the
+--------------------------------------------------
+City Clerk:
+Start: 00:43:32.720
+End: 00:43:36.880
+Duration: 4.160 seconds
+Text: Curator of Library and Archives at the Riala County Historical Museum
+--------------------------------------------------
+City Clerk:
+Start: 00:43:37.600
+End: 00:43:39.600
+Duration: 2.000 seconds
+Text: I would be delighted
+--------------------------------------------------
+City Clerk:
+Start: 00:43:39.600
+End: 00:43:44.080
+Duration: 4.480 seconds
+Text: to assist in the research that might take place if
+--------------------------------------------------
+City Clerk:
+Start: 00:43:44.320
+End: 00:43:49.360
+Duration: 5.040 seconds
+Text: We have a preservation professional help guide us in our decision-making in the future
+--------------------------------------------------
+City Clerk:
+Start: 00:43:51.840
+End: 00:43:57.440
+Duration: 5.600 seconds
+Text: speaking as the president of the Manhattan Riala County Preservation Alliance
+--------------------------------------------------
+City Clerk:
+Start: 00:43:59.040
+End: 00:44:05.120
+Duration: 6.080 seconds
+Text: We wholeheartedly endorse the idea of bringing in a preservation professional
+--------------------------------------------------
+City Clerk:
+Start: 00:44:07.040
+End: 00:44:13.360
+Duration: 6.320 seconds
+Text: It'll help make decisions and it will focus our minds as to where we were
+--------------------------------------------------
+City Clerk:
+Start: 00:44:14.320
+End: 00:44:16.720
+Duration: 2.400 seconds
+Text: When we did the Manhattan Historical Survey
+--------------------------------------------------
+City Clerk:
+Start: 00:44:17.440
+End: 00:44:23.920
+Duration: 6.480 seconds
+Text: Back in the late 70s early 80s and look at the pictures of the buildings in the historic districts
+--------------------------------------------------
+City Clerk:
+Start: 00:44:24.560
+End: 00:44:28.080
+Duration: 3.520 seconds
+Text: And then look at them today and see the tremendous
+--------------------------------------------------
+City Clerk:
+Start: 00:44:28.720
+End: 00:44:35.120
+Duration: 6.400 seconds
+Text: asset that we have in our historic districts and what they have done for our community and for the
+--------------------------------------------------
+City Clerk:
+Start: 00:44:36.160
+End: 00:44:43.120
+Duration: 6.960 seconds
+Text: Economy so thank you very much for considering this and on behalf of the Manhattan Riala County Preservation Alliance
+--------------------------------------------------
+City Clerk:
+Start: 00:44:43.680
+End: 00:44:46.800
+Duration: 3.120 seconds
+Text: We hope you will vote yes on this. Thank you
+--------------------------------------------------
+Staff Member:
+Start: 00:44:47.920
+End: 00:44:50.880
+Duration: 2.960 seconds
+Text: Thank you. Is there anyone else that would like to make public comment
+--------------------------------------------------
+Staff Member:
+Start: 00:44:54.400
+End: 00:44:58.560
+Duration: 4.160 seconds
+Text: Okay, sink saying none will close public comment. Any further commissioner comments
+--------------------------------------------------
+Staff Member:
+Start: 00:44:59.680
+End: 00:45:02.560
+Duration: 2.880 seconds
+Text: Now we won't be voting on this item. So we want to be sure we
+--------------------------------------------------
+Staff Member:
+Start: 00:45:03.600
+End: 00:45:09.200
+Duration: 5.600 seconds
+Text: You know give the right guidance to the city staff and based on the discussion looks like we're probably unanimous an agreement that
+--------------------------------------------------
+Staff Member:
+Start: 00:45:09.440
+End: 00:45:12.480
+Duration: 3.040 seconds
+Text: We should at least pursue the grant and we'll work out the details later
+--------------------------------------------------
+Staff Member:
+Start: 00:45:12.960
+End: 00:45:19.040
+Duration: 6.080 seconds
+Text: Yes, so I I can occur. Okay, so that's five of us. You should we should be good to go. Yeah, thank you. Okay
+--------------------------------------------------
+Staff Member:
+Start: 00:45:20.640
+End: 00:45:24.240
+Duration: 3.600 seconds
+Text: Last item on the agenda tonight is executive session
+--------------------------------------------------
+Staff Member:
+Start: 00:45:25.760
+End: 00:45:31.280
+Duration: 5.520 seconds
+Text: And we're gonna need probably a little bit of time to hash this out. I'm thinking at least 30 minutes
+--------------------------------------------------
+Staff Member:
+Start: 00:45:32.720
+End: 00:45:34.720
+Duration: 2.000 seconds
+Text: and so
+--------------------------------------------------
+Staff Member:
+Start: 00:45:35.520
+End: 00:45:39.520
+Duration: 4.000 seconds
+Text: 715 so I'll make the motion that we
+--------------------------------------------------
+Staff Member:
+Start: 00:45:39.840
+End: 00:45:47.520
+Duration: 7.680 seconds
+Text: Recess into executive session to discuss employment matters related to one or more employees pursue it to the exception
+--------------------------------------------------
+Staff Member:
+Start: 00:45:48.080
+End: 00:45:52.320
+Duration: 4.240 seconds
+Text: Set forth in KSA 75 4 3 1 9 B 1
+--------------------------------------------------
+Staff Member:
+Start: 00:45:52.880
+End: 00:46:00.720
+Duration: 7.840 seconds
+Text: Allowing for discussion of personnel matters of non-elected personnel and to resume the open meeting at 715 pm in the city commission room
+--------------------------------------------------
+Staff Member:
+Start: 00:46:03.280
+End: 00:46:06.400
+Duration: 3.120 seconds
+Text: Okay, so we have a motion in a second. Please call the roll
+--------------------------------------------------
+City Clerk:
+Start: 00:46:07.360
+End: 00:46:18.720
+Duration: 11.360 seconds
+Text: Commissioner Mata. Yes, Mayor Butler. Yes, Commissioner Adam track. Yes, Commissioner McCola. Yes, Commissioner O'Palt. Yes, motion carries 5 to 0
+--------------------------------------------------
+Staff Member:
+Start: 00:46:19.040
+End: 00:46:23.040
+Duration: 4.000 seconds
+Text: Okay, we'll recess then into executive session until 715. Thank you
+--------------------------------------------------
+Mayor Butler:
+Start: 00:46:36.400
+End: 00:46:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 00:47:06.400
+End: 00:47:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 00:47:36.400
+End: 00:47:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 00:48:06.400
+End: 00:48:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 00:48:36.400
+End: 00:48:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 00:49:06.400
+End: 00:49:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 00:49:36.400
+End: 00:49:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 00:50:06.400
+End: 00:50:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 00:50:36.400
+End: 00:50:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 00:51:06.400
+End: 00:51:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 00:51:36.400
+End: 00:51:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 00:52:06.400
+End: 00:52:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 00:52:36.400
+End: 00:52:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 00:53:06.400
+End: 00:53:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 00:53:36.400
+End: 00:53:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 00:54:06.400
+End: 00:54:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 00:54:36.400
+End: 00:54:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 00:55:06.400
+End: 00:55:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 00:55:36.400
+End: 00:55:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 00:56:06.400
+End: 00:56:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 00:56:36.400
+End: 00:56:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 00:57:06.400
+End: 00:57:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 00:57:36.400
+End: 00:57:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 00:58:06.400
+End: 00:58:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 00:58:36.400
+End: 00:58:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 00:59:06.400
+End: 00:59:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 00:59:36.400
+End: 00:59:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:00:06.400
+End: 01:00:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:00:36.400
+End: 01:00:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:01:06.400
+End: 01:01:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:01:36.400
+End: 01:01:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:02:06.400
+End: 01:02:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:02:36.400
+End: 01:02:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:03:06.400
+End: 01:03:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:03:36.400
+End: 01:03:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:04:06.400
+End: 01:04:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:04:36.400
+End: 01:04:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:05:06.400
+End: 01:05:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:05:36.400
+End: 01:05:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:06:06.400
+End: 01:06:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:06:36.400
+End: 01:06:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:07:06.400
+End: 01:07:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:07:36.400
+End: 01:07:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:08:06.400
+End: 01:08:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:08:36.400
+End: 01:08:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:09:06.400
+End: 01:09:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:09:36.400
+End: 01:09:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:10:06.400
+End: 01:10:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:10:36.400
+End: 01:10:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:11:06.400
+End: 01:11:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:11:36.400
+End: 01:11:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:12:06.400
+End: 01:12:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:12:36.400
+End: 01:12:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:13:06.400
+End: 01:13:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:13:36.400
+End: 01:13:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:14:06.400
+End: 01:14:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:14:36.400
+End: 01:14:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:15:06.400
+End: 01:15:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mick Charney:
+Start: 01:15:36.400
+End: 01:15:46.400
+Duration: 10.000 seconds
+Text: You
+--------------------------------------------------
+Staff Member:
+Start: 01:16:06.400
+End: 01:16:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:16:36.400
+End: 01:16:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:16:38.400
+End: 01:16:48.400
+Duration: 10.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:17:06.400
+End: 01:17:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:17:36.400
+End: 01:17:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:18:06.400
+End: 01:18:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:18:36.400
+End: 01:18:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:19:06.400
+End: 01:19:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:19:36.400
+End: 01:19:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:20:06.400
+End: 01:20:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:20:36.400
+End: 01:20:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:21:06.400
+End: 01:21:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:21:36.400
+End: 01:21:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:22:06.400
+End: 01:22:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:22:36.400
+End: 01:22:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:23:06.400
+End: 01:23:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:23:36.400
+End: 01:23:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:24:06.400
+End: 01:24:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:24:36.400
+End: 01:24:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:25:06.400
+End: 01:25:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:25:36.400
+End: 01:25:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:26:06.400
+End: 01:26:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:26:36.400
+End: 01:26:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:27:06.400
+End: 01:27:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:27:36.400
+End: 01:27:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:28:06.400
+End: 01:28:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:28:36.400
+End: 01:28:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:29:06.400
+End: 01:29:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:29:36.400
+End: 01:29:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:30:06.400
+End: 01:30:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:30:36.400
+End: 01:30:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:31:06.400
+End: 01:31:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:31:36.400
+End: 01:31:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:32:06.400
+End: 01:32:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:32:36.400
+End: 01:32:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:33:06.400
+End: 01:33:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:33:36.400
+End: 01:33:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:34:06.400
+End: 01:34:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:34:36.400
+End: 01:34:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:35:06.400
+End: 01:35:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:35:36.400
+End: 01:35:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:36:06.400
+End: 01:36:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:36:36.400
+End: 01:36:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:37:06.400
+End: 01:37:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:37:36.400
+End: 01:37:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:38:06.400
+End: 01:38:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:38:36.400
+End: 01:38:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:39:06.400
+End: 01:39:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:39:36.400
+End: 01:39:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:40:06.400
+End: 01:40:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:40:36.400
+End: 01:40:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:41:06.400
+End: 01:41:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:41:36.400
+End: 01:41:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:42:06.400
+End: 01:42:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:42:36.400
+End: 01:42:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:43:06.400
+End: 01:43:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:43:36.400
+End: 01:43:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:44:06.400
+End: 01:44:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Butler:
+Start: 01:44:36.400
+End: 01:44:38.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mick Charney:
+Start: 01:45:06.400
+End: 01:45:08.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Staff Member:
+Start: 01:45:08.400
+End: 01:45:10.400
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------

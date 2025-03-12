@@ -1,0 +1,194 @@
+{
+  "open_ended_analysis": {
+    "primary_themes": [
+      {
+        "theme": "City Budget Amendments",
+        "description": "There is an ongoing discussion regarding the necessity to amend the city budget to accommodate unexpected expenditures and revenue increases.",
+        "notable_points": [
+          "The budget amendments will cover five funds: Fire Pension KPNF, Sales Tax, Employee Benefit, Special Street Maintenance, and Parking Services Fund.",
+          "The amendments are necessary due to increased expenditures and increased revenues from sales tax."
+        ]
+      },
+      {
+        "theme": "Community Events and Proclamations",
+        "description": "There is a notable focus on community-led initiatives like the Festival of Lights and Small Business Saturday.",
+        "notable_points": [
+          "The Festival of Lights is celebrated as a unique holiday event funded through charitable donations.",
+          "Small Business Saturday recognized as an opportunity to support local businesses and boost the local economy."
+        ]
+      }
+    ],
+    "significant_discussions": [
+      {
+        "topic": "Funding Recommendations for Social Services and Special Alcohol Funds",
+        "significance": "These discussions revolve around the allocation of funds to various community agencies, critical for providing needed services in the community.",
+        "stakeholders": [
+          "Manhattan City Commission",
+          "Community Support Funds Advisory Board",
+          "Local service agencies"
+        ]
+      },
+      {
+        "topic": "Staffing Levels and Employee Benefits",
+        "significance": "Concerns were voiced regarding increasing costs of employee benefits and the impact of changes in staffing levels on the city's budget.",
+        "stakeholders": [
+          "Manhattan City Commission",
+          "City Staff"
+        ]
+      }
+    ],
+    "unexpected_elements": [
+      {
+        "element": "Higher requests for social services funding",
+        "context": "The Community Support Funds Advisory Board received significantly more applications for social services funding, leading to a more difficult decision-making process for the distribution of funds."
+      },
+      {
+        "element": "Prolonged Public Hearing",
+        "context": "A public hearing on the considered tax agreement financing plan amendment was unexpectedly postponed due to lack of the required number of commissioners."
+      }
+    ]
+  },
+  "directed_analysis": {
+    "land_use": {
+      "present": false,
+      "significance": "Low",
+      "context": "",
+      "notable_points": []
+    },
+    "economic_development": {
+      "present": false,
+      "significance": "Low",
+      "context": "",
+      "notable_points": []
+    },
+    "taxes_budget": {
+      "present": true,
+      "significance": "High",
+      "context": "A significant part of this meeting was dedicated to discussing the amendment of the 2023 city budget and recommendations for social service funding and special alcohol funding for 2024. The discussion revolved around allocation of funds for different departments including Sales Tax Fund, Employee Benefit, Special Street Maintenance, Parking Services Fund, and the Fire Pension. They also considered requests from various organizations for funding in the upcoming year.",
+      "notable_points": [
+        "Proposed budget amendment included increased allocations for the Sales Tax Fund, Fire Pension and other areas due to higher than expected expenses or revenues.",
+        "In 2024, funding was approved with a minor increase from the previous year for social services and special alcohol funds.",
+        "Use of funds from sales tax collection and allocation for other sectors was discussed. No new property taxes was raised"
+      ]
+    },
+    "other_significant_topics": [
+      {
+        "topic": "Community Initiatives",
+        "significance": "Medium",
+        "context": "The meeting noted initiatives such as the Festival of Lights event to uplift the spirit of the community. The lighting of the holiday tree was mentioned which is an initiative funded through charitable donations and in kind contributions."
+      }
+    ]
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 6,
+      "speaking_time": {
+        "Transcription and Diarization for 20231122-11\u29f821\u29f823 City Commission Meeting.mp4": 8.76,
+        "Mayor Mark Hattiesall": 642.48,
+        "City Manager": 371.88,
+        "Commissioner Butler": 73.0,
+        "City Clerk": 388.0,
+        "Staff Member": 550.0
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [
+        "Mayor Mark Hattiesall",
+        "City Manager"
+      ],
+      "observation": "Mayor Mark Hattiesall and the City Manager seem to be the most active and dominant speakers in the meeting, with the Mayor leading the meeting and the City Manager providing detailed updates and responses to queries. These two figures seem to have a significant influence over the direction of the conversation and the flow of the meeting."
+    },
+    "interaction_patterns": {
+      "pattern": "The meeting follows a relatively formal pattern of interaction where the Mayor calls upon different individuals to speak. There's also some interaction between different speakers, involving both questions and responses.",
+      "notable_exchanges": [
+        "Discussion regarding the 2023 City Budget amendment",
+        "Discussion about the social service funding and special alcohol funding recommendations"
+      ]
+    },
+    "topic_ownership": [
+      {
+        "speaker": "Mayor Mark Hattiesall",
+        "topics": [
+          "Meeting protocols",
+          "Proclamations",
+          "Reviewing the actions"
+        ]
+      },
+      {
+        "speaker": "City Manager",
+        "topics": [
+          "Budget discussions",
+          "Fund amendments",
+          "City projects"
+        ]
+      },
+      {
+        "speaker": "City Clerk",
+        "topics": [
+          "Meeting logistics",
+          "Voting procedures"
+        ]
+      },
+      {
+        "speaker": "Commissioner Butler",
+        "topics": [
+          "Local issues",
+          "Community events"
+        ]
+      },
+      {
+        "speaker": "Staff Member",
+        "topics": [
+          "Specific projects",
+          "Technical details"
+        ]
+      }
+    ],
+    "public_participation": {
+      "level": "Low",
+      "observation": "There seemed to be limited public participation in this meeting, with most of the speaking and decision-making confined to the council members. There's no mention of public comments or questions."
+    }
+  },
+  "emergent_patterns": {
+    "recurring_themes": [
+      {
+        "theme": "Budget Amendments and Funding",
+        "evidence": "City reports on budgets, funding applications, and proposed amendments were regularly examined and discussed."
+      },
+      {
+        "theme": "Community Events and Initiatives",
+        "evidence": "Multiple references to and discussions about community events and initiatives such as the Festival of Lights and Small Business Saturday."
+      },
+      {
+        "theme": "Public Engagement",
+        "evidence": "Frequent opportunities for public comment and the active participation of commissioners in the discussion of issues."
+      }
+    ],
+    "underlying_tensions": [
+      {
+        "tension": "Balancing Funding Allocation",
+        "between": [
+          "City Council",
+          "Community Support Funds Advisory Board",
+          "Applicants"
+        ],
+        "context": "There were significant discussions around the distribution of funds, with a significant increase in demand and more requests from new organizations. Concerted efforts were being made to ensure equitable distribution while adhering to budget limitations."
+      }
+    ],
+    "decision_patterns": {
+      "pattern": "Collaborative and Conscientious Decision Making",
+      "observation": "Decisions, particularly those related to budget and funding, seem to be made carefully after meticulous review and discussion amongst the council members. Inputs from city officials, advisory boards and public comments are taken into account."
+    },
+    "language_patterns": {
+      "formality": "High",
+      "technical_density": "Medium",
+      "emotional_tone": "Neutral",
+      "notable_features": [
+        "Use of official and legislative language, formal introductions, structured discussions and voting procedures."
+      ]
+    },
+    "other_insights": [
+      "Potential financial constraints may be a future concern as there is a constant struggle in managing the available funds and the increasing demands for funding grants for different initiatives."
+    ]
+  }
+}

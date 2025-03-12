@@ -1,0 +1,3711 @@
+Transcription and Diarization for 20210922-09⧸21⧸21 City Commission Legislative Meeting.mp4
+==================================================
+
+Commissioner Morris:
+Start: 00:00:00.000
+End: 00:00:03.080
+Duration: 3.080 seconds
+Text: We've reached 7pm.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:00:03.080
+End: 00:00:10.080
+Duration: 7.000 seconds
+Text: So welcome to the Manhattan City Commission meeting for Tuesday, September 21st, 2021.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:00:10.080
+End: 00:00:13.060
+Duration: 2.980 seconds
+Text: Please join me in the Pledge of Allegiance.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:00:13.060
+End: 00:00:19.520
+Duration: 6.460 seconds
+Text: Pledge of Allegiance to apply on the United States of America.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:00:19.520
+End: 00:00:26.420
+Duration: 6.900 seconds
+Text: The United States, the United States, the United States of America.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:00:26.420
+End: 00:00:28.420
+Duration: 2.000 seconds
+Text: We're all.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:00:28.420
+End: 00:00:31.700
+Duration: 3.280 seconds
+Text: Okay, next item on the agenda is Commissioner Comments.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:00:31.700
+End: 00:00:38.420
+Duration: 6.720 seconds
+Text: So, how do we start with Commissioner Morris, who's joining us via Zoom?
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:00:38.420
+End: 00:00:39.660
+Duration: 1.240 seconds
+Text: Thank you, Mayor.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:00:39.660
+End: 00:00:44.780
+Duration: 5.120 seconds
+Text: I would just like to call attention.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:00:44.780
+End: 00:00:50.220
+Duration: 5.440 seconds
+Text: Riley County Police Department is sponsoring a National Night Out.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:00:50.220
+End: 00:00:56.780
+Duration: 6.560 seconds
+Text: And many of you are aware that some communities have that event every year.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:00:56.780
+End: 00:01:02.100
+Duration: 5.320 seconds
+Text: We, we had in the past have gone with Manhattan Day, right, Ron?
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:01:02.100
+End: 00:01:04.260
+Duration: 2.160 seconds
+Text: And I lost track of that.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:01:04.260
+End: 00:01:09.860
+Duration: 5.600 seconds
+Text: But anyway, it's October 5th from 4 to 8pm at City Park.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:01:09.860
+End: 00:01:18.220
+Duration: 8.360 seconds
+Text: And I also want to just recognize and mark the passing of Cheryl Collins, but an important
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:01:18.220
+End: 00:01:21.740
+Duration: 3.520 seconds
+Text: and valuable keeper of history here in our community.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:01:21.740
+End: 00:01:25.060
+Duration: 3.320 seconds
+Text: And so she's worthy of mentioning.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:01:25.060
+End: 00:01:27.380
+Duration: 2.320 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:01:27.380
+End: 00:01:29.300
+Duration: 1.920 seconds
+Text: Okay, Commissioner Reading.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:01:29.300
+End: 00:01:31.740
+Duration: 2.440 seconds
+Text: Yes, thank you.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:01:31.740
+End: 00:01:40.540
+Duration: 8.800 seconds
+Text: Just want to let the public know that the Eisenhower Rec Center ribbon cutting is this weekend, Sunday at 2 o'clock, I think.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:01:40.540
+End: 00:01:43.460
+Duration: 2.920 seconds
+Text: Sunday at 2 o'clock, everybody's welcome to attend.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:01:43.460
+End: 00:01:52.180
+Duration: 8.720 seconds
+Text: This is from the sales tax initiative that was passed for the rec centers and the trails and parks and such.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:01:52.180
+End: 00:01:56.140
+Duration: 3.960 seconds
+Text: So, Anthony, we did that a little while ago in the summertime.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:01:56.140
+End: 00:01:57.580
+Duration: 1.440 seconds
+Text: Now it's time for Eisenhower.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:01:57.580
+End: 00:02:03.460
+Duration: 5.880 seconds
+Text: Hopefully a lot of you can come and celebrate and see the facility right along with us.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:02:03.460
+End: 00:02:07.220
+Duration: 3.760 seconds
+Text: October 12th is the last day to register to vote in the general election.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:02:07.220
+End: 00:02:10.580
+Duration: 3.360 seconds
+Text: And the advance voting starts October 13th.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:02:10.580
+End: 00:02:31.580
+Duration: 21.000 seconds
+Text: So if you have, if you are new to Manhattan or you've had a change of address or your last name has changed since the last time you voted, this would be a good time to just get on the Riley County elections website and see the status of your registration and if it has changed, you know, to go ahead and redo that.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:02:31.580
+End: 00:02:40.420
+Duration: 8.840 seconds
+Text: I went to down our last, the last third Thursday in downtown last week.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:02:40.420
+End: 00:02:45.660
+Duration: 5.240 seconds
+Text: And it was really fantastic and I don't know what we're going to be seeing in the future.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:02:45.660
+End: 00:02:55.460
+Duration: 9.800 seconds
+Text: But I hadn't been there before when the streets were blocked off and this time the streets were blocked off and that made it really fun environment, the weather was perfect.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:02:55.460
+End: 00:03:03.260
+Duration: 7.800 seconds
+Text: There was pickleball tournaments and it was the axe throwing stuff going on and of course the air guitar contest.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:03:03.260
+End: 00:03:08.700
+Duration: 5.440 seconds
+Text: So it was very lively and vibrant and exciting part to see in Manhattan.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:03:08.700
+End: 00:03:10.420
+Duration: 1.720 seconds
+Text: And I hope we can do more of that.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:03:10.420
+End: 00:03:23.660
+Duration: 13.240 seconds
+Text: And if that, I thought last Thursday was a huge success, but only the businesses can really tell us if it was just the streets that were vibrant or if there was also revenue made in their restaurants and such.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:03:23.660
+End: 00:03:27.620
+Duration: 3.960 seconds
+Text: So I'm looking forward to hearing more about that.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:03:27.620
+End: 00:03:41.540
+Duration: 13.920 seconds
+Text: Commissioner Morris mentioned Cheryl Collins and Icon in our community and a few months ago, maybe not too much a few months ago, but the duty Davis had also passed away from the crisis center.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:03:41.540
+End: 00:03:47.180
+Duration: 5.640 seconds
+Text: Very sad for both of these two individuals which were huge in our community.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:03:47.180
+End: 00:03:52.060
+Duration: 4.880 seconds
+Text: I do want to congratulate Kathy Ray, the new executive director for the crisis center.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:03:52.060
+End: 00:04:01.180
+Duration: 9.120 seconds
+Text: And I know of Kathy on a personal level when I had personal issues in my life a few years ago.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:04:01.180
+End: 00:04:08.300
+Duration: 7.120 seconds
+Text: She was the first one I turned to when it comes to sexual violence, sexual assaults, whatever it might be.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:04:08.300
+End: 00:04:15.700
+Duration: 7.400 seconds
+Text: She was a huge strength for me when I was first trying to figure out what to do with my life and where I was at that time.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:04:15.700
+End: 00:04:19.140
+Duration: 3.440 seconds
+Text: So when I congratulate her, welcome her to Manhattan.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:04:19.140
+End: 00:04:26.100
+Duration: 6.960 seconds
+Text: I believe she's coming from Topeka and I think she's going to be very stellar in her new position at the crisis center.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:04:26.100
+End: 00:04:26.700
+Duration: 0.600 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:04:31.220
+End: 00:04:32.060
+Duration: 0.840 seconds
+Text: Sorry.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:04:34.340
+End: 00:04:44.980
+Duration: 10.640 seconds
+Text: The Food and Farm Council is working on their system plan and seeking community input and that is going pretty well.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:04:44.980
+End: 00:04:52.340
+Duration: 7.360 seconds
+Text: They've reported this morning, there's this afternoon, the 1500 people have completed that survey.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:04:52.340
+End: 00:04:56.100
+Duration: 3.760 seconds
+Text: It takes an average of eight minutes to do.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:04:56.100
+End: 00:05:06.820
+Duration: 10.720 seconds
+Text: You can do it by going to nourishtogether.org and complete the survey either in Spanish, English or they have Mandarin as well.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:05:06.820
+End: 00:05:20.180
+Duration: 13.360 seconds
+Text: So if we could get over 2000 of those surveys completed and even they need some outside of the city of Manhattan to represent the rural areas in the food systems.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:05:20.180
+End: 00:05:26.700
+Duration: 6.520 seconds
+Text: That would be really important information to build on as they build that system out into April.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:05:26.700
+End: 00:05:27.380
+Duration: 0.680 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:05:27.380
+End: 00:05:40.820
+Duration: 13.440 seconds
+Text: Okay, I'm looking forward to seeing the dedication of the Eisenhower Recreation Center but I do want to request from Parks and Rec no basketball competition with proven we're not any good at it.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:05:40.820
+End: 00:05:47.740
+Duration: 6.920 seconds
+Text: Let's move on to the consent agenda.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:05:47.740
+End: 00:05:56.140
+Duration: 8.400 seconds
+Text: The items on the consent agenda are those of a routine and housekeeping nature or those items which have previously been reviewed by the city commission.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:05:56.140
+End: 00:06:00.740
+Duration: 4.600 seconds
+Text: The commissioner may request an item be moved to the end of the general agenda.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:06:00.740
+End: 00:06:07.020
+Duration: 6.280 seconds
+Text: Does the commission have any questions or comments on any of the consent agenda items?
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:06:07.020
+End: 00:06:18.220
+Duration: 11.200 seconds
+Text: Mayor, on the steering committee for the housing study, I think it's great that you made all the selections with our input on it.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:06:18.220
+End: 00:06:23.980
+Duration: 5.760 seconds
+Text: We did receive an email from the Chamber and I think there may have been a Chamber representative not on there.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:06:23.980
+End: 00:06:37.660
+Duration: 13.680 seconds
+Text: One of the things we discussed at our work session I think last time, maybe a couple of sessions ago, where we were going to have a Fort Riley representative also be on it and to represent Fort Riley.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:06:37.660
+End: 00:06:42.860
+Duration: 5.200 seconds
+Text: I wasn't sure if that's something we can do for the Chamber as opposed to opening it up all over again.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:06:42.860
+End: 00:06:45.580
+Duration: 2.720 seconds
+Text: So that's just something I'd like for us to consider.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:06:45.580
+End: 00:06:49.660
+Duration: 4.080 seconds
+Text: I think if we want a Chamber member on there, we'll have them give us a recommendation.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:06:49.660
+End: 00:06:53.980
+Duration: 4.320 seconds
+Text: We just had number 16 because I'd hate to kick someone off that we've already appointed.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:06:53.980
+End: 00:07:03.180
+Duration: 9.200 seconds
+Text: We can do the same with Fort Riley. We get a Fort Riley rep and that'll be number 17 and that's probably the easiest way to handle that because they did miss the deadline because whatever.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:07:03.180
+End: 00:07:06.780
+Duration: 3.600 seconds
+Text: I think if we go with that, if that's fine with everybody, we'll just do that.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:07:06.780
+End: 00:07:08.220
+Duration: 1.440 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:07:11.420
+End: 00:07:14.300
+Duration: 2.880 seconds
+Text: I've got a couple of questions on or comments at least.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:07:14.300
+End: 00:07:29.260
+Duration: 14.960 seconds
+Text: On item C, which is the budget upon further deliberation with myself, I've decided I'm going to vote against this year's budget mostly because we, with the recent re-a census survey information that it's come out.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:07:29.260
+End: 00:07:44.140
+Duration: 14.880 seconds
+Text: It continues to be Manhattan areas flat, pot county area is one of the fastest growing parts of the state and I think we all agree that the main reason is because of lower property taxes and in theory.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:07:44.140
+End: 00:07:46.140
+Duration: 2.000 seconds
+Text: It's slightly lower cost of living over there.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:07:46.140
+End: 00:07:55.260
+Duration: 9.120 seconds
+Text: If we're ever going to stop that sort of flow to the east, we have to at some point try to make Manhattan a little bit more affordable.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:07:55.260
+End: 00:08:13.140
+Duration: 17.880 seconds
+Text: I suspect it's a goner for this year to the budget that we have here but moving forward, it's going to take all of us, the county commission, the school board, the law board, the library board and the city commission also to stand firm and try to
+--------------------------------------------------
+Mayor Butler:
+Start: 00:08:13.140
+End: 00:08:21.140
+Duration: 8.000 seconds
+Text: be all things to all people and provide services to the people.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:08:21.140
+End: 00:08:37.140
+Duration: 16.000 seconds
+Text: A lot of times there ends up being a smaller group that demands some kind of services where there's a lot of people that don't care about those services and when each individual small group starts getting their thing, a lot of other people don't want, people end up paying for things they don't want need.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:08:37.140
+End: 00:08:45.140
+Duration: 8.000 seconds
+Text: So it becomes a big issue of it drives the cost of everything up and it drives the expense to the taxpayer of everything up.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:08:45.140
+End: 00:09:01.140
+Duration: 16.000 seconds
+Text: So going forward here, if you get into the next budget year, I was serious as I could be about trying to make sure next year between the ARPA money and the sales tax money.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:09:01.140
+End: 00:09:06.140
+Duration: 5.000 seconds
+Text: We've got to do something to get the property tax down at least for a few years.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:09:06.140
+End: 00:09:16.140
+Duration: 10.000 seconds
+Text: We don't want to get addicted to the COVID money like people say and then have to keep paying that every year but we need to do something to kind of give us a little bit of a break.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:09:16.140
+End: 00:09:19.140
+Duration: 3.000 seconds
+Text: So that's it for that.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:09:19.140
+End: 00:09:35.140
+Duration: 16.000 seconds
+Text: The second one is item G, which is the item G3, which is the awarding of the fire suppression system for a half a million dollars down at the parking garage.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:09:35.140
+End: 00:09:47.140
+Duration: 12.000 seconds
+Text: If this was a private sector deal and six months from opening up a parking garage or a building or some kind of a project, the code department suddenly springs on the developer or the person building it.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:09:47.140
+End: 00:09:52.140
+Duration: 5.000 seconds
+Text: It's like, oh wait, now suddenly you need a half a million dollar fire suppression system.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:09:52.140
+End: 00:09:57.140
+Duration: 5.000 seconds
+Text: It's like it's one thing to sort of do it to ourselves, their own code services department.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:09:57.140
+End: 00:10:10.140
+Duration: 13.000 seconds
+Text: But if looking at this, if we were a private sector business trying to do this and we suddenly got this got sprung on us, I would be live it as could be because you get a building permit, you got a building permit.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:10:10.140
+End: 00:10:16.140
+Duration: 6.000 seconds
+Text: Build what you said you were going to build and if it wasn't okay the first time, then don't pass it the first time.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:10:16.140
+End: 00:10:23.140
+Duration: 7.000 seconds
+Text: And so somebody give me some kind of explanation because we didn't have $200,000 to make it a pretty looking parking garage.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:10:23.140
+End: 00:10:28.140
+Duration: 5.000 seconds
+Text: But now we got $500,000 to spend on something that's probably never going to be used.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:10:28.140
+End: 00:10:31.140
+Duration: 3.000 seconds
+Text: Help me out here.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:10:31.140
+End: 00:10:34.140
+Duration: 3.000 seconds
+Text: Jason Hillzer is deputy city manager.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:10:34.140
+End: 00:10:41.140
+Duration: 7.000 seconds
+Text: There's quite a history to it. It's not just all of a sudden we found this discrepancy.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:10:41.140
+End: 00:10:52.140
+Duration: 11.000 seconds
+Text: So the architect originally submitted it to code prior to bidding the project with a fire suppression system.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:10:52.140
+End: 00:10:59.140
+Duration: 7.000 seconds
+Text: There were debates throughout many months of us to whether or not it was going to be required.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:10:59.140
+End: 00:11:05.140
+Duration: 6.000 seconds
+Text: Knowing the first floor was going to be occupied, we knew the first floor was going to be sprinkled.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:11:05.140
+End: 00:11:09.140
+Duration: 4.000 seconds
+Text: We knew the connection to the rallyhouse was going to be sprinkled.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:11:09.140
+End: 00:11:22.140
+Duration: 13.000 seconds
+Text: The debate then came over Walker's experience, over McAllen Gordon's experience across the nation and what our local code would require.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:11:22.140
+End: 00:11:28.140
+Duration: 6.000 seconds
+Text: It was missed. It was missed because it didn't make it in the bid documents.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:11:28.140
+End: 00:11:37.140
+Duration: 9.000 seconds
+Text: When they went to get their building permit and code looked at those documents, they were not consistent with what originally was submitted with the fire suppression system.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:11:37.140
+End: 00:11:44.140
+Duration: 7.000 seconds
+Text: It was missed. There's no ifans or buts about it. It should have been in there.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:11:44.140
+End: 00:11:51.140
+Duration: 7.000 seconds
+Text: It wasn't and in Manhattan, a four-story structure or taller, will have fire suppression.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:11:51.140
+End: 00:12:00.140
+Duration: 9.000 seconds
+Text: Even though it's an open air thing made of concrete. That seems unbelievably silly.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:12:00.140
+End: 00:12:06.140
+Duration: 6.000 seconds
+Text: That's fine. I'm going to vote against it just because it just stinks.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:12:06.140
+End: 00:12:08.140
+Duration: 2.000 seconds
+Text: Understood.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:12:08.140
+End: 00:12:16.140
+Duration: 8.000 seconds
+Text: I mean, I had a similar reaction when you see a change order. We expect change orders, but that seemed to be overlooked.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:12:16.140
+End: 00:12:24.140
+Duration: 8.000 seconds
+Text: After talking with Ron, having fire sprinkler systems is normal now.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:12:24.140
+End: 00:12:31.140
+Duration: 7.000 seconds
+Text: I was surprised that it was missed. My understanding is even the other garage and the K-State garage and all of them have it.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:12:31.140
+End: 00:12:38.140
+Duration: 7.000 seconds
+Text: I don't know how it's a J item like that could be overlooked. Mainly because of code.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:12:38.140
+End: 00:12:41.140
+Duration: 3.000 seconds
+Text: That's what we expect of all of our buildings is to have that in there.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:12:41.140
+End: 00:12:45.140
+Duration: 4.000 seconds
+Text: It's unfortunate that it comes with such an expense.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:12:45.140
+End: 00:12:53.140
+Duration: 8.000 seconds
+Text: I also want to make sure that there is a maximum price for these contracts.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:12:53.140
+End: 00:12:59.140
+Duration: 6.000 seconds
+Text: It's likely that we might see more change orders as much as I hate to see them.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:12:59.140
+End: 00:13:02.140
+Duration: 3.000 seconds
+Text: I hope we don't see any more change orders to this.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:13:02.140
+End: 00:13:09.140
+Duration: 7.000 seconds
+Text: Is there a maximum I forgot what the actual term is for this contract for the garage?
+--------------------------------------------------
+Mayor Butler:
+Start: 00:13:09.140
+End: 00:13:15.140
+Duration: 6.000 seconds
+Text: Yes, it's in the paperwork and the packet. It increases the guarantee maximum price.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:13:15.140
+End: 00:13:20.140
+Duration: 5.000 seconds
+Text: This is the only change order we brought to you on this project.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:13:20.140
+End: 00:13:23.140
+Duration: 3.000 seconds
+Text: It's only increased by this much then.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:13:23.140
+End: 00:13:27.140
+Duration: 4.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:13:27.140
+End: 00:13:31.140
+Duration: 4.000 seconds
+Text: Just to follow up, because I do think Mark brings up a good point.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:13:31.140
+End: 00:13:36.140
+Duration: 5.000 seconds
+Text: The concrete carging garage and then the codes were about a four-story building.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:13:36.140
+End: 00:13:39.140
+Duration: 3.000 seconds
+Text: Seems like there are two different things. Is our code wrong?
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:13:39.140
+End: 00:13:44.140
+Duration: 5.000 seconds
+Text: Did we cause that in our local code or is that a federal state code?
+--------------------------------------------------
+Mayor Butler:
+Start: 00:13:44.140
+End: 00:13:49.140
+Duration: 5.000 seconds
+Text: It's the code that we've adopted locally.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:13:49.140
+End: 00:13:51.140
+Duration: 2.000 seconds
+Text: So we're guilty of causing it?
+--------------------------------------------------
+Mayor Butler:
+Start: 00:13:51.140
+End: 00:13:56.140
+Duration: 5.000 seconds
+Text: Well, the requirement and the regulations have been there.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:13:56.140
+End: 00:13:59.140
+Duration: 3.000 seconds
+Text: You're talking about an interpretation.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:13:59.140
+End: 00:14:08.140
+Duration: 9.000 seconds
+Text: And once you got to Manhattan, this thing's 8-10 feet from a building that was built over 100 years ago.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:14:08.140
+End: 00:14:13.140
+Duration: 5.000 seconds
+Text: I mean, strong winds, it's straws or village when it was on fire.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:14:13.140
+End: 00:14:17.140
+Duration: 4.000 seconds
+Text: Easily could have jumped the road.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:14:17.140
+End: 00:14:20.140
+Duration: 3.000 seconds
+Text: It's for everybody's safety to have this there.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:14:20.140
+End: 00:14:28.140
+Duration: 8.000 seconds
+Text: It's the preference. If we were back 18 months ago, we'd be talking to you about why we need a fire suppression system.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:14:28.140
+End: 00:14:32.140
+Duration: 4.000 seconds
+Text: There's no argument the air was made.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:14:32.140
+End: 00:14:37.140
+Duration: 5.000 seconds
+Text: But staff would be here advocating for a fire suppression system.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:14:37.140
+End: 00:14:41.140
+Duration: 4.000 seconds
+Text: Okay, that's good enough.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:14:41.140
+End: 00:14:44.140
+Duration: 3.000 seconds
+Text: There's other comments.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:14:44.140
+End: 00:14:48.140
+Duration: 4.000 seconds
+Text: There are any public comments on the consideration.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:14:48.140
+End: 00:14:50.140
+Duration: 2.000 seconds
+Text: Linda, go ahead.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:14:50.140
+End: 00:14:52.140
+Duration: 2.000 seconds
+Text: Yes, hi.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:14:52.140
+End: 00:14:59.140
+Duration: 7.000 seconds
+Text: I just want to just, well, I was disappointed too about the additional cost for the parking garage.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:14:59.140
+End: 00:15:03.140
+Duration: 4.000 seconds
+Text: But I don't know how to fix it.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:15:03.140
+End: 00:15:13.140
+Duration: 10.000 seconds
+Text: If the national standard is that it has to have it, then it's safety wise whether a car is burning or not that we have it.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:15:13.140
+End: 00:15:16.140
+Duration: 3.000 seconds
+Text: So I'm going to probably support it.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:15:16.140
+End: 00:15:25.140
+Duration: 9.000 seconds
+Text: The second thing is the one gas foundation has given this wonderful grant to sunset zoo for $57,000.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:15:25.140
+End: 00:15:29.140
+Duration: 4.000 seconds
+Text: And that is terrific news.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:15:29.140
+End: 00:15:40.140
+Duration: 11.000 seconds
+Text: With regard to the budget, I am as concerned as anyone else about raising the budget.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:15:40.140
+End: 00:15:48.140
+Duration: 8.000 seconds
+Text: But I also think that as we are recovering from COVID, this recovery is so uneven.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:15:48.140
+End: 00:15:56.140
+Duration: 8.000 seconds
+Text: So I, the national statistics on the housing prices have increased 16%.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:15:56.140
+End: 00:16:03.140
+Duration: 7.000 seconds
+Text: And I read that UPS yet today I read UPS is raising their rate 6%.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:16:03.140
+End: 00:16:13.140
+Duration: 10.000 seconds
+Text: There's just what every day there's, and when I go to the grocery store or a restaurant, the prices have gone up significantly.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:16:13.140
+End: 00:16:20.140
+Duration: 7.000 seconds
+Text: I am not interested and our city employees did not get raises last year.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:16:20.140
+End: 00:16:26.140
+Duration: 6.000 seconds
+Text: I am not interested in punishing our city employees.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:16:26.140
+End: 00:16:29.140
+Duration: 3.000 seconds
+Text: I want to be as fair-minded as possible.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:16:29.140
+End: 00:16:36.140
+Duration: 7.000 seconds
+Text: And I would agree that maybe next year we have to be less.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:16:36.140
+End: 00:16:41.140
+Duration: 5.000 seconds
+Text: But right now we're in a catch-up mode and we're competing.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:16:41.140
+End: 00:16:48.140
+Duration: 7.000 seconds
+Text: We can easily lose employees to someone who's paying the higher rate.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:16:48.140
+End: 00:16:55.140
+Duration: 7.000 seconds
+Text: And they are using COVID money in some cases to augment some of these salaries.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:16:55.140
+End: 00:17:05.140
+Duration: 10.000 seconds
+Text: So I feel compelled to support the current or the budget that we have put forth.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:17:05.140
+End: 00:17:24.140
+Duration: 19.000 seconds
+Text: And with regard to the other item here, the salary ordinance, I thought I did talk with Ron because I thought we were going to wait until the pay study was done.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:17:24.140
+End: 00:17:29.140
+Duration: 5.000 seconds
+Text: And put the rate, the implement the pay.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:17:29.140
+End: 00:17:43.140
+Duration: 14.000 seconds
+Text: But he pointed out that these raises next year will be, will be implemented all throughout the year on the employee's anniversary date.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:17:43.140
+End: 00:17:50.140
+Duration: 7.000 seconds
+Text: And so it's such a variable that we can't just.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:17:50.140
+End: 00:18:06.140
+Duration: 16.000 seconds
+Text: So, and I think it's important to know that the firefighters and the city administration have negotiated this rate.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:18:06.140
+End: 00:18:11.140
+Duration: 5.000 seconds
+Text: And that both parties are satisfied with the raise.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:18:11.140
+End: 00:18:17.140
+Duration: 6.000 seconds
+Text: And I'm pleased to finally have a public art policy.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:18:17.140
+End: 00:18:22.140
+Duration: 5.000 seconds
+Text: And I'll be happy that we're moving forward with that and not dragging our feet.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:18:22.140
+End: 00:18:26.140
+Duration: 4.000 seconds
+Text: So thank you.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:18:26.140
+End: 00:18:32.140
+Duration: 6.000 seconds
+Text: Yeah, there are any public comments on the consent agenda items.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:18:32.140
+End: 00:18:37.140
+Duration: 5.000 seconds
+Text: I'm saying none. We'll close public comments. Are there any other commissioner comments?
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:18:37.140
+End: 00:18:43.140
+Duration: 6.000 seconds
+Text: I want to just make one. Of course, I'm going to agree with Mark. I'm not going to support the budget.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:18:43.140
+End: 00:18:51.140
+Duration: 8.000 seconds
+Text: But I want to be a little bit more specific. I understand that city staff didn't get any pay raises last year, but neither did the citizens.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:18:51.140
+End: 00:18:58.140
+Duration: 7.000 seconds
+Text: And so it's one of those cases where we get emails and got a long letter from a gentleman today.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:18:58.140
+End: 00:19:03.140
+Duration: 5.000 seconds
+Text: And, you know, their view is city staff didn't get fired last year.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:19:03.140
+End: 00:19:07.140
+Duration: 4.000 seconds
+Text: They were taken care of. They sacrificed in COVID just like the taxpayer.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:19:07.140
+End: 00:19:13.140
+Duration: 6.000 seconds
+Text: And they might take the viewpoint of why you punish in the taxpayer because they didn't get raises.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:19:13.140
+End: 00:19:17.140
+Duration: 4.000 seconds
+Text: And Commissioner Morris is correct. You know, we're getting some serious inflation on everything.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:19:17.140
+End: 00:19:24.140
+Duration: 7.000 seconds
+Text: But that doesn't mean the taxpayers paying property tax got a raise and can afford it.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:19:24.140
+End: 00:19:30.140
+Duration: 6.000 seconds
+Text: I think we've really failed to take the federal money and use it to offset that.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:19:30.140
+End: 00:19:37.140
+Duration: 7.000 seconds
+Text: And I think we could have by giving bonuses and things like that for a city staff for working during during COVID.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:19:37.140
+End: 00:19:47.140
+Duration: 10.000 seconds
+Text: That wouldn't have changed your salary as far as retirement, but it would have made a would have made a difference and rewarded the great work that everybody on the staff did last year.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:19:47.140
+End: 00:19:51.140
+Duration: 4.000 seconds
+Text: The other thing is I've always been pounding the drum on lean management.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:19:51.140
+End: 00:19:56.140
+Duration: 5.000 seconds
+Text: And I'm just disappointed we didn't go through this budget and look at specific line items.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:19:56.140
+End: 00:20:00.140
+Duration: 4.000 seconds
+Text: And I'm not going to do that tonight because I'd bore you with 14 pages of stuff.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:20:00.140
+End: 00:20:05.140
+Duration: 5.000 seconds
+Text: But I'm just going to mention two. One item and there says $10,000.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:20:05.140
+End: 00:20:12.140
+Duration: 7.000 seconds
+Text: City commission travel. And I've always been the guy that's, you know, mentioned that I think every year we spend too much money on travel.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:20:12.140
+End: 00:20:18.140
+Duration: 6.000 seconds
+Text: I think Commissioner Morris during the coordination session want to know how much was being spent on the AUSA conference.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:20:18.140
+End: 00:20:23.140
+Duration: 5.000 seconds
+Text: And there's $10,000. I'm sorry if you're in the lean management, that can go.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:20:23.140
+End: 00:20:27.140
+Duration: 4.000 seconds
+Text: That can help pay somebody a bonus working on city pools.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:20:27.140
+End: 00:20:29.140
+Duration: 2.000 seconds
+Text: It doesn't need to go to city commission travel.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:20:29.140
+End: 00:20:38.140
+Duration: 9.000 seconds
+Text: I'm also pretty hard core. I know Ron, but I didn't like my comment today on the radio where I mentioned well one of our city managers unfortunately resigned.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:20:38.140
+End: 00:20:41.140
+Duration: 3.000 seconds
+Text: I would just not rehire the position.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:20:41.140
+End: 00:20:47.140
+Duration: 6.000 seconds
+Text: And I know that's that's a big chunk of salary. And that means Jason's got a work harder.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:20:47.140
+End: 00:20:53.140
+Duration: 6.000 seconds
+Text: I fully understand that also. But maybe the city commission would require a few less power points slides.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:20:53.140
+End: 00:20:59.140
+Duration: 6.000 seconds
+Text: And therefore it would work out. But we need to take some hard hard looks at things like that.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:20:59.140
+End: 00:21:04.140
+Duration: 5.000 seconds
+Text: And we can start shipping away at this. And you know, it is about, you know, putting the money where it needs to go.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:21:04.140
+End: 00:21:09.140
+Duration: 5.000 seconds
+Text: So that, you know, we can keep the key things open and get rid of the waste.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:21:09.140
+End: 00:21:14.140
+Duration: 5.000 seconds
+Text: And that's where I'm at. So I obviously can't support what we've got right now.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:21:14.140
+End: 00:21:18.140
+Duration: 4.000 seconds
+Text: It needs to be significantly lower than what it is.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:21:18.140
+End: 00:21:24.140
+Duration: 6.000 seconds
+Text: So I will make a couple of comments to that as well.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:21:24.140
+End: 00:21:28.140
+Duration: 4.000 seconds
+Text: The burden falls on us. The city commissioners about the workload we give our staff.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:21:28.140
+End: 00:21:35.140
+Duration: 7.000 seconds
+Text: So every time we get projects or anything, any initiatives we want our staff to take on our behalf,
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:21:35.140
+End: 00:21:42.140
+Duration: 7.000 seconds
+Text: that adds to their workload. So we either need to slow down our project pace or stop giving them more stuff to do.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:21:42.140
+End: 00:21:50.140
+Duration: 8.000 seconds
+Text: Or if we want them to do all things for all people, then we need to make sure they have the resources and the staff necessary.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:21:50.140
+End: 00:21:57.140
+Duration: 7.000 seconds
+Text: Earlier we discussed an individual in our community who needed other issues looked at at their home.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:21:57.140
+End: 00:22:06.140
+Duration: 9.000 seconds
+Text: They, staff can do that 24-7. We have some of them replying on weekends, some of them working after five or six o'clock in the evening,
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:22:06.140
+End: 00:22:10.140
+Duration: 4.000 seconds
+Text: taking time away from their own family where there's no work-life balance.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:22:10.140
+End: 00:22:18.140
+Duration: 8.000 seconds
+Text: So that responsibility falls on us on how much responsibility we want to take away from them so that they can have that balance.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:22:18.140
+End: 00:22:26.140
+Duration: 8.000 seconds
+Text: But if we want them to be healthy physically and mentally and work to their full capacity and retain them,
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:22:26.140
+End: 00:22:31.140
+Duration: 5.000 seconds
+Text: then it falls on us on what we do to compensate them for that time.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:22:31.140
+End: 00:22:39.140
+Duration: 8.000 seconds
+Text: So I don't think this is a disservice to our staff. This is exactly what they need.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:22:39.140
+End: 00:22:44.140
+Duration: 5.000 seconds
+Text: In fact, they do so much. It's even hard to quantify it.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:22:44.140
+End: 00:22:51.140
+Duration: 7.000 seconds
+Text: I know when I was a school teacher, you had to be a social worker, a therapist, a teacher,
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:22:51.140
+End: 00:22:55.140
+Duration: 4.000 seconds
+Text: and teach everything all the time, be 100% every single day.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:22:55.140
+End: 00:23:01.140
+Duration: 6.000 seconds
+Text: And that's kind of where our staff is right now. They have to be at their 100% every single day, with less and less.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:23:01.140
+End: 00:23:10.140
+Duration: 9.000 seconds
+Text: And so I think it's just due diligence that we do at least this much for our staff and for our community.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:23:10.140
+End: 00:23:18.140
+Duration: 8.000 seconds
+Text: The community expects their roads, potholes to be filled. Whenever they need it, they need people to respond to their reported app,
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:23:18.140
+End: 00:23:23.140
+Duration: 5.000 seconds
+Text: as soon as they get those reports. And so we're making it faster and more efficient.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:23:23.140
+End: 00:23:33.140
+Duration: 10.000 seconds
+Text: But I think this is not something that I take lightly as far as property taxes or sales taxes or revenue resources.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:23:33.140
+End: 00:23:43.140
+Duration: 10.000 seconds
+Text: It is something I take extremely seriously, and I think this is, at least for this budget, this is, and I will be supporting this budget.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:23:46.140
+End: 00:23:52.140
+Duration: 6.000 seconds
+Text: Hello. So I also will, I guess, make some comments on the budget.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:23:52.140
+End: 00:24:07.140
+Duration: 15.000 seconds
+Text: It's a little hard to find the right word, but it seems, maybe it seems kind of nuts to me, that there's a ton of hand-ringing and worrying.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:24:07.140
+End: 00:24:21.140
+Duration: 14.000 seconds
+Text: And when it about the property taxes, do we move it or we don't? And we're talking about just on a $200,000 house, about two bucks.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:24:21.140
+End: 00:24:28.140
+Duration: 7.000 seconds
+Text: About two bucks a month when it comes to city services.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:24:28.140
+End: 00:24:41.140
+Duration: 13.000 seconds
+Text: When it comes to this 71% of this mill doesn't go to the city services and the problems that were this commission and the city manager's office has the authority to address and what we're asking for the increase over.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:24:41.140
+End: 00:24:51.140
+Duration: 10.000 seconds
+Text: It goes to our CPD, it goes to the library, it goes to the Manhattan Fire Department, different funds in there.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:24:51.140
+End: 00:25:01.140
+Duration: 10.000 seconds
+Text: But to the general fund, it's a small amount. If people are moving to Plot County over two bucks a month, that's not the issue.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:25:01.140
+End: 00:25:08.140
+Duration: 7.000 seconds
+Text: And so to try to deflect it to that is kind of nuts to me.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:25:08.140
+End: 00:25:19.140
+Duration: 11.000 seconds
+Text: What we're also doing is not addressing the two years of problems that we've heard before COVID.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:25:19.140
+End: 00:25:30.140
+Duration: 11.000 seconds
+Text: And maybe a decade. I think the only person on the commission that hasn't been here for quite a while or before.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:25:30.140
+End: 00:25:37.140
+Duration: 7.000 seconds
+Text: And so we're saying somehow this is a new problem and we're the one who send us where the ones to fix it.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:25:37.140
+End: 00:25:42.140
+Duration: 5.000 seconds
+Text: Well, what have we been doing for a decade? And we want to do more the same.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:25:42.140
+End: 00:25:47.140
+Duration: 5.000 seconds
+Text: I don't think that that's going to solve the problem, the retention issues.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:25:47.140
+End: 00:25:55.140
+Duration: 8.000 seconds
+Text: You want to celebrate people leaving. That's the problem. We can't get why won't they stay?
+--------------------------------------------------
+Mayor Butler:
+Start: 00:25:55.140
+End: 00:26:02.140
+Duration: 7.000 seconds
+Text: How do we get better talent here? How do we keep them? Where do we recruit?
+--------------------------------------------------
+Mayor Butler:
+Start: 00:26:02.140
+End: 00:26:09.140
+Duration: 7.000 seconds
+Text: We ask for two bucks to help with that on a $200,000 property.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:26:09.140
+End: 00:26:20.140
+Duration: 11.000 seconds
+Text: And we're sitting up here and ringing our hands over it saying we've got to get, you know, spend all this federal money and find all this other way to do it.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:26:20.140
+End: 00:26:26.140
+Duration: 6.000 seconds
+Text: I think what we need to do is be honest and explain the situation.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:26:26.140
+End: 00:26:36.140
+Duration: 10.000 seconds
+Text: And of course, Mark's right. A vast majority of the funding and the property taxes comes from your schools and your fire department, your police department.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:26:36.140
+End: 00:26:47.140
+Duration: 11.000 seconds
+Text: And maybe you want to fund those things. Maybe they're important. But this is this kind of nuts to me.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:26:47.140
+End: 00:26:56.140
+Duration: 9.000 seconds
+Text: I appreciate that, Aaron. But again, that's the spin that the taxpayers get concerned about when we say, oh, it's RCP, it's a library.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:26:56.140
+End: 00:27:01.140
+Duration: 5.000 seconds
+Text: No, that's the commission's fault. We own both of those. We appointed the people on there. We did the charter ordinance.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:27:01.140
+End: 00:27:10.140
+Duration: 9.000 seconds
+Text: So I just don't buy that. And the people that send me emails, they don't really care to say that Ron only controls this piece of it. They're looking total property tax picture.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:27:10.140
+End: 00:27:19.140
+Duration: 9.000 seconds
+Text: Ron only figured it out. They didn't raise theirs. So, you know, that's where I'm at on it. But, but anyway, it's it's not worth beating the dead horse. I don't think so we can move on from there.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:27:19.140
+End: 00:27:24.140
+Duration: 5.000 seconds
+Text: Somebody like to make a motion.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:27:24.140
+End: 00:27:35.140
+Duration: 11.000 seconds
+Text: Do we need to make an amendment for the appointments? Okay. So I move that we adopt the consent agenda.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:27:35.140
+End: 00:27:44.140
+Duration: 9.000 seconds
+Text: Okay. We have a motion in a second. City clerk, could you please call the roll mayor Butler?
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:27:44.140
+End: 00:27:54.140
+Duration: 10.000 seconds
+Text: Yes, except no on item C budget related number one and number two. But yes, on number three and four.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:27:54.140
+End: 00:27:58.140
+Duration: 4.000 seconds
+Text: Commissioner Morse. Yeah.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:27:58.140
+End: 00:28:11.140
+Duration: 13.000 seconds
+Text: Commissioner Hattiesall. Yes, except for items number C1 and G3 A and B.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:28:11.140
+End: 00:28:15.140
+Duration: 4.000 seconds
+Text: Yes, Commissioner Estabrick. Yes.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:28:15.140
+End: 00:28:33.140
+Duration: 18.000 seconds
+Text: I think I'm going to be confused. So for the budget related items, isn't it all or nothing? You just.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:28:33.140
+End: 00:28:43.140
+Duration: 10.000 seconds
+Text: I mean, that's four items. I mean, I don't have a problem with the fire department thing, but you know, I voted no on the budget and on the salary thing.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:28:43.140
+End: 00:28:49.140
+Duration: 6.000 seconds
+Text: I thought the fire one is also a salary issue. It is, but it's different.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:28:49.140
+End: 00:28:56.140
+Duration: 7.000 seconds
+Text: All right. Either way. Yes.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:28:56.140
+End: 00:29:07.140
+Duration: 11.000 seconds
+Text: Okay. Motion carries five to zero with the exception of the budget item C1 that carried four.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:29:07.140
+End: 00:29:22.140
+Duration: 15.000 seconds
+Text: So sorry, three, three to two and item G3 A and B, which carried four to one.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:29:22.140
+End: 00:29:29.140
+Duration: 7.000 seconds
+Text: Yeah, I think item two on that budget should be what four one.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:29:29.140
+End: 00:29:36.140
+Duration: 7.000 seconds
+Text: Yes, yes, see two three and four carried four to one. No, no.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:29:36.140
+End: 00:29:46.140
+Duration: 10.000 seconds
+Text: Just see one in C2. No, just one was three to two. Two was four to one. C and D were five.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:29:46.140
+End: 00:29:53.140
+Duration: 7.000 seconds
+Text: Yep, we got it. All right. We straight on that. Okay. Okay. Appreciate it.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:29:53.140
+End: 00:30:06.140
+Duration: 13.000 seconds
+Text: All right. That brings us to our one item that's on the General Agenda, which is Levy Project, bid concurrence, betterments and options and payment authorization.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:30:06.140
+End: 00:30:11.140
+Duration: 5.000 seconds
+Text: And I guess Brian, you're going to take the lead on this. Yep. I got the lead on this one. Thank you.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:30:11.140
+End: 00:30:17.140
+Duration: 6.000 seconds
+Text: Commissioner Morris, can you see the PowerPoint? Great.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:30:17.140
+End: 00:30:30.140
+Duration: 13.000 seconds
+Text: Good evening, Mayor, commissioners, Brian Johnson, city and engineer, along with Melissa Corkel, the branch chief of civil works for the United States Army Corps of Engineers at the Kansas City District.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:30:30.140
+End: 00:30:39.140
+Duration: 9.000 seconds
+Text: Tonight's item is a culmination of two plus decades of study, planning, analysis and design of Manhattan's Levy system.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:30:39.140
+End: 00:30:48.140
+Duration: 9.000 seconds
+Text: The presentation represents a once in a generational opportunity to bring a critical phase, critical piece of stormwater infrastructure into the 21st century.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:30:48.140
+End: 00:31:07.140
+Duration: 19.000 seconds
+Text: Reinforcing gate wells, sizing culverts for today's runoff and storm events, adding pumping capacity and and separation of safety improvements and operational improvements are all needed pieces of this infrastructure that protects $1.4 billion.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:31:07.140
+End: 00:31:21.140
+Duration: 14.000 seconds
+Text: That's with a B, a public private investment and economic activity, as well as 11,000 citizens, about 20% of our population.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:31:21.140
+End: 00:31:29.140
+Duration: 8.000 seconds
+Text: So tonight's agenda, we're going to talk a little bit about the background. And I know we've talked about this quite a bit, so I'll go pretty fast on that.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:31:29.140
+End: 00:31:36.140
+Duration: 7.000 seconds
+Text: We'll talk about the public partnering agreement review. We'll talk about the base project and the betterments.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:31:36.140
+End: 00:31:45.140
+Duration: 9.000 seconds
+Text: We'll talk a little bit about financing, and then we'll ask for some direction for the December Great Discussion for stormwater.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:31:45.140
+End: 00:31:57.140
+Duration: 12.000 seconds
+Text: So for the background section, you all know this. We'll go through it pretty quickly. The existing Levy didn't perform as designed in 1993. We all are very aware of that.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:31:57.140
+End: 00:32:10.140
+Duration: 13.000 seconds
+Text: 1993 event was about a 75 year event, so it wasn't a 100 year event. That lack of performance is what initiated the study in 1999 or 1998.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:32:10.140
+End: 00:32:25.140
+Duration: 15.000 seconds
+Text: The initial study was completed in 2004 and 2004 and confirmed the observations from 1993. The initial study said that in a 100 year event, which this Levy has not had to fight against,
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:32:25.140
+End: 00:32:38.140
+Duration: 13.000 seconds
+Text: 100 year event, there was a 50-50 chance that that Levy fails. In 2015, those improvements to bring the Levy up to current standards was identified.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:32:38.140
+End: 00:32:49.140
+Duration: 11.000 seconds
+Text: The USACE Civilian Review Board concurred with recommendations for improvements, and then we submitted for federal funding.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:32:49.140
+End: 00:32:59.140
+Duration: 10.000 seconds
+Text: In 2017, federal funding for designing construction was approved. In 2018, a design agreement between the city and the United States Army Corps of Engineers was approved.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:32:59.140
+End: 00:33:09.140
+Duration: 10.000 seconds
+Text: And in 2019, a public partnership agreement was approved.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:33:09.140
+End: 00:33:20.140
+Duration: 11.000 seconds
+Text: A agreement for design was approved in 2018. Design started and identified parcels for acquisition. In addition to the structural components that are going into the Levy.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:33:20.140
+End: 00:33:36.140
+Duration: 16.000 seconds
+Text: In total, we've acquired almost 50 easements and some of those easements are temporary easements, which means they have a window. So we have a window of construction that we need to meet in order to keep those easements active.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:33:36.140
+End: 00:33:50.140
+Duration: 14.000 seconds
+Text: The public partnership agreement was approved in 2019. That started final design and acquisition. Cost share of 6535 was set. And the first payment was made towards the project.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:33:50.140
+End: 00:34:03.140
+Duration: 13.000 seconds
+Text: The CASEment and Haze Gatewell, which is what a lot of tonight's discussion is going to center around, was appropriated at an 85-15 split at that time, 85-city 15% Corps of Engineers.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:34:03.140
+End: 00:34:13.140
+Duration: 10.000 seconds
+Text: And a little later on, I've got a slide that's going to talk about how the Corps of Engineers has really come to the plate and stepped up to help us with financing that.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:34:14.140
+End: 00:34:29.140
+Duration: 15.000 seconds
+Text: Levy Improvement, so what is the Levy Improvement Project? It raises the Levy between a half a foot and 3.5 feet high, nearly the entire length of the Levy, about 5 miles 29,000 ln feet. So almost the entire Levy is raised.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:34:29.140
+End: 00:34:40.140
+Duration: 11.000 seconds
+Text: We construct four large steepage berms to seal the dry side of the Levy to prevent piping, which wasn't, which was a problem in 93. We had quite a bit of piping actually.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:34:41.140
+End: 00:34:51.140
+Duration: 10.000 seconds
+Text: We replace six gate wells, we reinforce the others. We install 8,000 feet of under-seepage collection. So think of your house with your Assump pump.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:34:51.140
+End: 00:34:58.140
+Duration: 7.000 seconds
+Text: Drain tile. It's an oversized drain tile, is what it looks like. And it collects water, gets it to a pump, throws it up over the Levy.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:34:59.140
+End: 00:35:06.140
+Duration: 7.000 seconds
+Text: 8 new relief well locations, as well as a stop log gap at you, you need Pacific Railroad.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:35:06.140
+End: 00:35:14.140
+Duration: 8.000 seconds
+Text: And I want to talk about that for a minute, because we are still in communications with UPRR. This project does not include those stop gaps.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:35:15.140
+End: 00:35:20.140
+Duration: 5.000 seconds
+Text: Corps of Engineers in the city will continue to work on sensible and reasonable solutions.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:35:21.140
+End: 00:35:32.140
+Duration: 11.000 seconds
+Text: We have narrowed the area down to three possible improvements in this area. However, we do not have a permit from the railroad yet to go do work on their property. We're still working on that.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:35:35.140
+End: 00:35:37.140
+Duration: 2.000 seconds
+Text: So this is the overall project.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:35:38.140
+End: 00:35:46.140
+Duration: 8.000 seconds
+Text: Again, starts the casement of Hayes with the new gate well. Here is your relief wells, along with here.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:35:47.140
+End: 00:35:48.140
+Duration: 1.000 seconds
+Text: And...
+--------------------------------------------------
+Mayor Butler:
+Start: 00:35:48.140
+End: 00:35:49.140
+Duration: 1.000 seconds
+Text: Hey Brian.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:35:49.140
+End: 00:35:54.140
+Duration: 5.000 seconds
+Text: Okay. Can you explain some of the lingo as you go? What is a gate well?
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:35:55.140
+End: 00:36:01.140
+Duration: 6.000 seconds
+Text: So the gate well is the structure that the water runs from the dry side through the Levy to the wet side.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:36:02.140
+End: 00:36:04.140
+Duration: 2.000 seconds
+Text: With some kind of a stop thing, so if the water comes.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:36:04.140
+End: 00:36:08.140
+Duration: 4.000 seconds
+Text: It's got a flap gate on it and it's got a slew skate on it, both.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:36:08.140
+End: 00:36:13.140
+Duration: 5.000 seconds
+Text: Okay. So the flap gate closes when the water on the wet side gets higher than the dry side.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:36:14.140
+End: 00:36:16.140
+Duration: 2.000 seconds
+Text: We also have a stop gate that we can close down.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:36:16.140
+End: 00:36:18.140
+Duration: 2.000 seconds
+Text: Okay. Thank you.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:36:19.140
+End: 00:36:24.140
+Duration: 5.000 seconds
+Text: The relief wells are in here as well as here and here.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:36:24.140
+End: 00:36:32.140
+Duration: 8.000 seconds
+Text: And those are those wells that draw water from the dry side throughout up over to the wet side so that the dry side doesn't get saturated.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:36:33.140
+End: 00:36:37.140
+Duration: 4.000 seconds
+Text: We have some ponding areas down here. We have under-seepage berms here.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:36:38.140
+End: 00:36:41.140
+Duration: 3.000 seconds
+Text: Here and here.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:36:42.140
+End: 00:36:46.140
+Duration: 4.000 seconds
+Text: And then we also have gate wells that are reinforced over in this area.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:36:46.140
+End: 00:36:51.140
+Duration: 5.000 seconds
+Text: Those gate wells stay however we do make significant improvements to them.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:36:56.140
+End: 00:36:58.140
+Duration: 2.000 seconds
+Text: So financially...
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:36:58.140
+End: 00:36:59.140
+Duration: 1.000 seconds
+Text: Let me go back one.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:36:59.140
+End: 00:37:02.140
+Duration: 3.000 seconds
+Text: Payments to date. So where are we at financially?
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:37:03.140
+End: 00:37:07.140
+Duration: 4.000 seconds
+Text: 600,000 was paid for initial design in 2019.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:37:07.140
+End: 00:37:11.140
+Duration: 4.000 seconds
+Text: A million dollars was paid in 2020 to get the final design and bid.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:37:11.140
+End: 00:37:22.140
+Duration: 11.000 seconds
+Text: Prior to bidding, our share of what we anticipated the base project would be was paid at 5.035 million, which is 35% of the base project.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:37:23.140
+End: 00:37:26.140
+Duration: 3.000 seconds
+Text: So total payments to dates, about $6.864 million.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:37:26.140
+End: 00:37:30.140
+Duration: 4.000 seconds
+Text: And then we have credits of about 2 million.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:37:31.140
+End: 00:37:34.140
+Duration: 3.000 seconds
+Text: So total, we have about 8.864 million.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:37:34.140
+End: 00:37:37.140
+Duration: 3.000 seconds
+Text: I'm going to say in the bank, but some of those are credits.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:37:37.140
+End: 00:37:40.140
+Duration: 3.000 seconds
+Text: Cost to date.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:37:40.140
+End: 00:37:42.140
+Duration: 2.000 seconds
+Text: Designed to be 1.5 million.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:37:42.140
+End: 00:37:46.140
+Duration: 4.000 seconds
+Text: Our share of the base project is 4.956 million.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:37:46.140
+End: 00:37:50.140
+Duration: 4.000 seconds
+Text: So total costs do 6.456 million.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:37:50.140
+End: 00:37:59.140
+Duration: 9.000 seconds
+Text: Now from this slide to this slide, we have about 2.4 million in parentheses I'm saying overpay because some of the data is overpaying.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:38:00.140
+End: 00:38:02.140
+Duration: 2.000 seconds
+Text: So that is a credit.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:38:02.140
+End: 00:38:05.140
+Duration: 3.000 seconds
+Text: That is what reduces our base project to 800,000.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:38:05.140
+End: 00:38:09.140
+Duration: 4.000 seconds
+Text: And I got a slide that gets a little bit more in detail in just a minute.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:38:09.140
+End: 00:38:17.140
+Duration: 8.000 seconds
+Text: I will tell you that the core has about 40 accountants working on this thing and Bill and Rob and I are trying our best to keep up.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:38:17.140
+End: 00:38:19.140
+Duration: 2.000 seconds
+Text: Financial analysis.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:38:19.140
+End: 00:38:23.140
+Duration: 4.000 seconds
+Text: So on the betterments, we've got the gate well at McCall Road.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:38:23.140
+End: 00:38:26.140
+Duration: 3.000 seconds
+Text: Estimated 736,000.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:38:26.140
+End: 00:38:28.140
+Duration: 2.000 seconds
+Text: The bid came at 2.2 million.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:38:28.140
+End: 00:38:32.140
+Duration: 4.000 seconds
+Text: That is 100% our share because that gate well is ours.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:38:32.140
+End: 00:38:35.140
+Duration: 3.000 seconds
+Text: Betterment 2 at Hayes and Cacement.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:38:35.140
+End: 00:38:37.140
+Duration: 2.000 seconds
+Text: We have a 7030 split now.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:38:37.140
+End: 00:38:42.140
+Duration: 5.000 seconds
+Text: The core has come to us and said, we understand costs are significantly more than we thought.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:38:42.140
+End: 00:38:46.140
+Duration: 4.000 seconds
+Text: We are willing to help to go to a 7030 split.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:38:46.140
+End: 00:38:49.140
+Duration: 3.000 seconds
+Text: Now that 15% doesn't sound like a lot, but it is about 1.25 million dollars.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:38:49.140
+End: 00:38:51.140
+Duration: 2.000 seconds
+Text: It is a big number.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:38:51.140
+End: 00:38:53.140
+Duration: 2.000 seconds
+Text: So the core has really stepped up.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:38:53.140
+End: 00:38:57.140
+Duration: 4.000 seconds
+Text: They are really trying to help us out with that gate well that came in significantly over budget.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:38:57.140
+End: 00:39:04.140
+Duration: 7.000 seconds
+Text: Betterment 3 is the rip wrap and this is something that has been on our yearly inspection for about a decade.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:39:04.140
+End: 00:39:11.140
+Duration: 7.000 seconds
+Text: The core has been generous enough to let us not put rip wrap on there until this project.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:39:11.140
+End: 00:39:14.140
+Duration: 3.000 seconds
+Text: And what that saved us was one a big payment 10 years ago.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:39:14.140
+End: 00:39:19.140
+Duration: 5.000 seconds
+Text: But two, we also have some economies of scale because we have a contractor in the area doing work.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:39:19.140
+End: 00:39:22.140
+Duration: 3.000 seconds
+Text: We don't have to mobilize a second contractor.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:39:22.140
+End: 00:39:28.140
+Duration: 6.000 seconds
+Text: It also keeps us from damaging that new rip wrap with a new contractor.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:39:28.140
+End: 00:39:36.140
+Duration: 8.000 seconds
+Text: So once that rip wraps in place, we are done and out of there for 30 years and that rip wrap can stay right where it should be.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:39:36.140
+End: 00:39:38.140
+Duration: 2.000 seconds
+Text: Betterment 4 is our pet ramps.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:39:38.140
+End: 00:39:44.140
+Duration: 6.000 seconds
+Text: If you remember, we are going to add some pedestrian ramps over by the animal shelter.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:39:44.140
+End: 00:39:51.140
+Duration: 7.000 seconds
+Text: And we are going to add another ramp, kind of by big lakes, between big lakes and Cacement and Hayes.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:39:51.140
+End: 00:39:58.140
+Duration: 7.000 seconds
+Text: Total on that is 163,081 is what it bit at so we have a pretty good price there.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:39:58.140
+End: 00:40:01.140
+Duration: 3.000 seconds
+Text: Total betterment is about 10.5 million.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:40:01.140
+End: 00:40:07.140
+Duration: 6.000 seconds
+Text: There is some contingencies on that like with every project that comes up to 1.056.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:40:07.140
+End: 00:40:13.140
+Duration: 6.000 seconds
+Text: Total do we had estimated about 6.6 million are total do's about 11.6.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:40:13.140
+End: 00:40:20.140
+Duration: 7.000 seconds
+Text: So our Delta is 4.983 and in just a second we will talk about how the core is going to help us eat that a little bit.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:40:20.140
+End: 00:40:25.140
+Duration: 5.000 seconds
+Text: And then what our financing options are down the road.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:40:25.140
+End: 00:40:32.140
+Duration: 7.000 seconds
+Text: So our base project, base estimators 11.4 million came in at 14.1.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:40:32.140
+End: 00:40:36.140
+Duration: 4.000 seconds
+Text: 35% of this number is ours, comes to 4.9.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:40:36.140
+End: 00:40:39.140
+Duration: 3.000 seconds
+Text: There was some utility relocations.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:40:39.140
+End: 00:40:46.140
+Duration: 7.000 seconds
+Text: So like Blue Township, some spots out at Hunter's Island where we have utilities go up and over the levee.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:40:46.140
+End: 00:40:51.140
+Duration: 5.000 seconds
+Text: Obviously those have to be raised because now the levee is going to be 2 to 3 feet taller.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:40:51.140
+End: 00:41:02.140
+Duration: 11.000 seconds
+Text: So we have some utility relocations, comes into about 2.152 million, 7.5% CE for the relocations 161,000.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:41:02.140
+End: 00:41:07.140
+Duration: 5.000 seconds
+Text: Total utility is about 2.3 million, minus our previous payments.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:41:07.140
+End: 00:41:10.140
+Duration: 3.000 seconds
+Text: We have that excess of 2.4 million.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:41:10.140
+End: 00:41:16.140
+Duration: 6.000 seconds
+Text: The core is actually going to allow us to take our excess and put it towards this project.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:41:16.140
+End: 00:41:18.140
+Duration: 2.000 seconds
+Text: Typically that would not be the case.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:41:18.140
+End: 00:41:23.140
+Duration: 5.000 seconds
+Text: Typically those monies would go in escrow and in 5 years when the project is done.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:41:23.140
+End: 00:41:27.140
+Duration: 4.000 seconds
+Text: We'd add up all the costs, all the betterments, all of our payments, minus her payments.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:41:27.140
+End: 00:41:30.140
+Duration: 3.000 seconds
+Text: We would hope to get a check back in 5 years.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:41:30.140
+End: 00:41:38.140
+Duration: 8.000 seconds
+Text: The core is stepped up and said, we're willing to take some of those dollars, not put them in escrow and help you with the down payment on this thing.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:41:38.140
+End: 00:41:44.140
+Duration: 6.000 seconds
+Text: So our total due on the betterment is only 814,000 as opposed to about 6 million.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:41:44.140
+End: 00:41:53.140
+Duration: 9.000 seconds
+Text: So we paid some in, they're willing to help us a little bit with the down payment on that and that's what that 1.5 million is.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:41:53.140
+End: 00:41:56.140
+Duration: 3.000 seconds
+Text: This is a very busy slide.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:41:56.140
+End: 00:42:01.140
+Duration: 5.000 seconds
+Text: This actually has spread sheets about 30 inches long, it's pretty complex.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:42:01.140
+End: 00:42:16.140
+Duration: 15.000 seconds
+Text: But this is what we've broken down from what we've got from the core as far as payments, base, utility locations, total authorized with this 30.176 million, which is what we've talked about for the better part of a decade.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:42:16.140
+End: 00:42:28.140
+Duration: 12.000 seconds
+Text: 35% of that number is the 10.5, then we add in our betterments, total of all betterments, CD share is bid 11.6, total bid, all items.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:42:28.140
+End: 00:42:35.140
+Duration: 7.000 seconds
+Text: So this is the total contract that the core is managing, 29.62 million.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:42:35.140
+End: 00:42:41.140
+Duration: 6.000 seconds
+Text: So financing due to the overruns, the USACE is offered to help us offset cost in two ways.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:42:41.140
+End: 00:42:49.140
+Duration: 8.000 seconds
+Text: One, they're willing to go a 70-30 split on the gate well, cuts our portion about 1.2 million dollars.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:42:50.140
+End: 00:43:01.140
+Duration: 11.000 seconds
+Text: Also contingencies and CE that we would typically pay up front, which is about 2 to 3 million dollars contingencies, we typically would pay those up front, those funds would go into escrow.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:43:01.140
+End: 00:43:06.140
+Duration: 5.000 seconds
+Text: At the end of the project, the accountants would get to it, they'd add up all the pluses and minuses.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:43:06.140
+End: 00:43:09.140
+Duration: 3.000 seconds
+Text: We would hope by 2026 to get a check back from the core.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:43:09.140
+End: 00:43:17.140
+Duration: 8.000 seconds
+Text: Instead of that, the core is offered to let us pay these contingencies throughout 2022 as quarterly payments.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:43:17.140
+End: 00:43:25.140
+Duration: 8.000 seconds
+Text: So in essence, they've given us basically a 0% interest loan through 2022 to help us come up with these dollars.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:43:25.140
+End: 00:43:36.140
+Duration: 11.000 seconds
+Text: Not only is that a big deal because it's an interest-free loan, also with our $1.66 charge, we're generating about $100,000 to $120,000 a month, we can use those dollars to help buy that down.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:43:36.140
+End: 00:43:41.140
+Duration: 5.000 seconds
+Text: So time is a benefit for us here.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:43:41.140
+End: 00:43:44.140
+Duration: 3.000 seconds
+Text: So what are our options for funding this?
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:43:44.140
+End: 00:43:46.140
+Duration: 2.000 seconds
+Text: Well, this year we implemented a $1.66 charge.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:43:46.140
+End: 00:43:58.140
+Duration: 12.000 seconds
+Text: If you remember, we came back, came before this board in October of last year, took that estimate that we had at that time, we divided by the total number of years, we came up with $1.66.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:43:58.140
+End: 00:44:02.140
+Duration: 4.000 seconds
+Text: That was going to be net zero revenue.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:44:02.140
+End: 00:44:10.140
+Duration: 8.000 seconds
+Text: Every dollar we generated from the $1.66 was going to go to pay to bill for 20 years on a 20-year bond.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:44:10.140
+End: 00:44:20.140
+Duration: 10.000 seconds
+Text: Well, with costs that we have, that $1.66 generates roughly $1 million a year with a yearly bond payment now estimated at about $1.5 million.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:44:20.140
+End: 00:44:23.140
+Duration: 3.000 seconds
+Text: So we've got a $500,000 delta.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:44:23.140
+End: 00:44:32.140
+Duration: 9.000 seconds
+Text: Leaving the surcharge at a $66 does significantly affect future CIP items, and I've got a table here to talk about that.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:44:32.140
+End: 00:44:43.140
+Duration: 11.000 seconds
+Text: If we were to make this revenue neutral, one option would be to raise that $66 next year to $2, and then in 2023 to $2.50.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:44:43.140
+End: 00:44:49.140
+Duration: 6.000 seconds
+Text: That would be a revenue neutral point or somewhere very close to $2.50.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:44:49.140
+End: 00:44:56.140
+Duration: 7.000 seconds
+Text: That would generate the needed $1.5 million to make that 20-year mortgage payment.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:44:56.140
+End: 00:45:06.140
+Duration: 10.000 seconds
+Text: Again, we'll develop a full funding scenario in December for a great discussion, bring it back before you so we can show you exactly what that funding scenarios look like.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:45:06.140
+End: 00:45:16.140
+Duration: 10.000 seconds
+Text: One thing I do want to repeat, the $66 will pay the bills, we will have to put off some future items.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:45:16.140
+End: 00:45:26.140
+Duration: 10.000 seconds
+Text: So our future CIP items. This column is the original CIPs where we had them based on our flattening scenario.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:45:26.140
+End: 00:45:34.140
+Duration: 8.000 seconds
+Text: This column is where we would move those projects out to $2.50.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:45:34.140
+End: 00:45:37.140
+Duration: 3.000 seconds
+Text: And then this is if we stay at the $66.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:45:37.140
+End: 00:45:44.140
+Duration: 7.000 seconds
+Text: You can see there's about five to ten years worth of projects that we would have to move out.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:45:44.140
+End: 00:45:48.140
+Duration: 4.000 seconds
+Text: A lot of those are directly related to downtown.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:45:48.140
+End: 00:45:58.140
+Duration: 10.000 seconds
+Text: So what is our recommendation? Our recommendation is concur with the United States Army Corps of Engineers on a ward of contract ESI, who is the low bidder.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:45:58.140
+End: 00:46:06.140
+Duration: 8.000 seconds
+Text: ESI has done hundreds of millions of dollars worth of work with the Corps of Engineers. They know what they're doing. This is kind of their specialty.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:46:06.140
+End: 00:46:15.140
+Duration: 9.000 seconds
+Text: That low bid amount was $29.62 million. We also are recommending we award all the betterments and utility relocations.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:46:15.140
+End: 00:46:27.140
+Duration: 12.000 seconds
+Text: We accept the $30.70 cost share that the Corps has offered for the betterments. We authorize payments to U.S.A.C.E for the betterments for their remaining share of our utility relocations.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:46:27.140
+End: 00:46:33.140
+Duration: 6.000 seconds
+Text: And then we authorize those installment payments through 2022.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:46:33.140
+End: 00:46:38.140
+Duration: 5.000 seconds
+Text: Now before I stand for questions, there's two things I want to bring up. One is timeline.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:46:38.140
+End: 00:46:43.140
+Duration: 5.000 seconds
+Text: Right now we anticipate heavy construction starting January, February, March.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:46:43.140
+End: 00:46:52.140
+Duration: 9.000 seconds
+Text: Next year we anticipate about a 30-month construction window so that gets us to fall winter of 2024.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:46:52.140
+End: 00:46:58.140
+Duration: 6.000 seconds
+Text: And I do want to talk for just a minute about Mayor Butler's comment last week about the 10 gallon bucket.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:46:58.140
+End: 00:47:07.140
+Duration: 9.000 seconds
+Text: Because you hit it right on the head. Infrastructure we put in upstream of the levy is your 10 gallon bucket.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:47:07.140
+End: 00:47:12.140
+Duration: 5.000 seconds
+Text: We have to get all of that water through the levy, which is your 5 gallon bucket.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:47:12.140
+End: 00:47:18.140
+Duration: 6.000 seconds
+Text: We can spend all the money we want to in the downtown east watershed. It still has to get to the levy.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:47:18.140
+End: 00:47:27.140
+Duration: 9.000 seconds
+Text: The levy is the bottom of the drain. And if we don't make that drain bigger, any money we spend upstream is just going to get water there quicker.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:47:27.140
+End: 00:47:35.140
+Duration: 8.000 seconds
+Text: So your analogy last week about Aguioville with the bucket was spot on. I didn't want to mention that.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:47:35.140
+End: 00:47:38.140
+Duration: 3.000 seconds
+Text: So with that I'll stand for questions.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:47:38.140
+End: 00:47:43.140
+Duration: 5.000 seconds
+Text: Brian, in what way did the levy fail in 93?
+--------------------------------------------------
+Mayor Butler:
+Start: 00:47:43.140
+End: 00:47:50.140
+Duration: 7.000 seconds
+Text: Obviously the north view area was affected by the blue flooding. And Dix was on the wrong side of the levy.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:47:50.140
+End: 00:47:57.140
+Duration: 7.000 seconds
+Text: There's no levy for the Dix edition. Where and how did the levy fail in 93?
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:47:57.140
+End: 00:48:10.140
+Duration: 13.000 seconds
+Text: So two areas. One is the levy was designed with free board. With 2 to 3. So in a 100 year event, there should be about 3 feet of free board from the water surface elevation to the top of the levy.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:48:10.140
+End: 00:48:15.140
+Duration: 5.000 seconds
+Text: That didn't happen. We had about 4 inches of free board.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:48:15.140
+End: 00:48:30.140
+Duration: 15.000 seconds
+Text: And other 4 inches of water goes over. Number 1. And number 2, that was only a 75 year event. If it would have been a 100 year event, you would have raised that water surface profile.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:48:30.140
+End: 00:48:44.140
+Duration: 14.000 seconds
+Text: Okay. And so nothing that we're going to do with this project is anything to make the people of Raspberry and Dix in those places any less likely to flood in 93.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:48:44.140
+End: 00:48:45.140
+Duration: 1.000 seconds
+Text: That is correct.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:48:45.140
+End: 00:48:46.140
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Speaker_4:
+Start: 00:48:46.140
+End: 00:48:55.140
+Duration: 9.000 seconds
+Text: Commissioner Hassel, I want to add to Robot, Director of Public Works. So you can't see where the confluence Brian may be moving your mouse by the water treatment plant.
+--------------------------------------------------
+Speaker_4:
+Start: 00:48:55.140
+End: 00:49:06.140
+Duration: 11.000 seconds
+Text: So there was also sand boils that occurred in 93. So you can kind of see on the graph there where there's under-seepage berms that are going to be added.
+--------------------------------------------------
+Speaker_4:
+Start: 00:49:06.140
+End: 00:49:19.140
+Duration: 13.000 seconds
+Text: Again, water is trying to equalize itself from the wet side to the dry side. So not only is this project raising the elevation to the levy, it is structurally making that stronger as well.
+--------------------------------------------------
+Speaker_4:
+Start: 00:49:19.140
+End: 00:49:39.140
+Duration: 20.000 seconds
+Text: So what do we do with the relief wells do? And that's what some of the stabilization berms do is it makes it structurally stronger from a geotech aspect so that the reliability and the performance will be there for us in, unfortunately, probably the next time we have a 1% of enter 100 year.
+--------------------------------------------------
+Speaker_4:
+Start: 00:49:39.140
+End: 00:49:46.140
+Duration: 7.000 seconds
+Text: So there was other things other than just the free board that Brian spoke of that we would consider deficient.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:49:46.140
+End: 00:49:49.140
+Duration: 3.000 seconds
+Text: So I'm just going to explain to me what a sand boil is.
+--------------------------------------------------
+Speaker_4:
+Start: 00:49:49.140
+End: 00:49:56.140
+Duration: 7.000 seconds
+Text: So a sand boil essentially what happens is water is trying to find a path from the wet side to the dry side.
+--------------------------------------------------
+Speaker_4:
+Start: 00:49:56.140
+End: 00:50:04.140
+Duration: 8.000 seconds
+Text: So it begins to try to equalize and it will go underneath the clay blanket of the levy or the core of the levy.
+--------------------------------------------------
+Speaker_4:
+Start: 00:50:04.140
+End: 00:50:12.140
+Duration: 8.000 seconds
+Text: And it will begin to pop up on the dry side and what it's trying to do is create a channel to move material.
+--------------------------------------------------
+Speaker_4:
+Start: 00:50:12.140
+End: 00:50:17.140
+Duration: 5.000 seconds
+Text: So it kind of looks like a mushroom and all of a sudden water starts bubbling out.
+--------------------------------------------------
+Speaker_4:
+Start: 00:50:17.140
+End: 00:50:25.140
+Duration: 8.000 seconds
+Text: And what's dangerous about it is that those sand boils once they begin to move material.
+--------------------------------------------------
+Speaker_4:
+Start: 00:50:25.140
+End: 00:50:34.140
+Duration: 9.000 seconds
+Text: That means it's like, you know, like an underground cavern that could occur underneath the levy because the material is disappearing.
+--------------------------------------------------
+Speaker_4:
+Start: 00:50:34.140
+End: 00:50:45.140
+Duration: 11.000 seconds
+Text: And what you don't want to have is that top of the levy sump or have a, I don't know, a sinkhole, a mini sinkhole that lowers the elevation of levy.
+--------------------------------------------------
+Speaker_4:
+Start: 00:50:45.140
+End: 00:50:51.140
+Duration: 6.000 seconds
+Text: And obviously the water surface is at a certain elevation than it could come over the top of the levy as well.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:50:51.140
+End: 00:50:57.140
+Duration: 6.000 seconds
+Text: So a great example of a sand boil is two of them. One is really close. The dam at Tuttle Creek.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:50:57.140
+End: 00:51:02.140
+Duration: 5.000 seconds
+Text: There's a channel in the middle of it where water is running all the time. That's a controlled sand boil.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:51:02.140
+End: 00:51:08.140
+Duration: 6.000 seconds
+Text: The water from the wet side is pushing under the dam and going into that creek. That's controlled.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:51:08.140
+End: 00:51:18.140
+Duration: 10.000 seconds
+Text: What these are is uncontrolled. And another example, if you've ever seen video of dam failures where the water comes through the middle of the dam and it's a real small hole and then it gets bigger and bigger and bigger.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:51:18.140
+End: 00:51:28.140
+Duration: 10.000 seconds
+Text: That's another type of sand boil. That's exactly what Rob was talking about where that water collects material as it goes to that dam face and then the dam slumps.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:51:28.140
+End: 00:51:30.140
+Duration: 2.000 seconds
+Text: That's what happens with the levy too.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:51:30.140
+End: 00:51:32.140
+Duration: 2.000 seconds
+Text: Very good explanation, thanks.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:51:34.140
+End: 00:51:44.140
+Duration: 10.000 seconds
+Text: I just had one other question on the betterments because I may, my memory may be wrong on this, but I don't have a problem with the betterments that take care of these wells and things.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:51:44.140
+End: 00:51:51.140
+Duration: 7.000 seconds
+Text: But some of those related to the trail and access and yeah, that's these right here.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:51:51.140
+End: 00:51:55.140
+Duration: 4.000 seconds
+Text: Those head ramps.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:51:55.140
+End: 00:52:02.140
+Duration: 7.000 seconds
+Text: And that 81,000 actually identified through Eddie's parking right.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:52:02.140
+End: 00:52:11.140
+Duration: 9.000 seconds
+Text: So that's already been taken care of because I just didn't want to see you know the $1.66 feet water thing be out for trails.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:52:11.140
+End: 00:52:18.140
+Duration: 7.000 seconds
+Text: So if we, if I had last October's PowerPoint, Rob had a really great slide where he deducted and added and did all that.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:52:18.140
+End: 00:52:20.140
+Duration: 2.000 seconds
+Text: That's what I thought that refreshes my memory.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:52:20.140
+End: 00:52:40.140
+Duration: 20.000 seconds
+Text: And then when you do this final budget analysis, I guess it could include other than trying to raise the water rates more, which is not my favorite, but I don't really have a problem with this targeted thing specifically for the levy to look at that, you know, new economic development sales tax because we did tell the voters if they voted for that.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:52:40.140
+End: 00:52:48.140
+Duration: 8.000 seconds
+Text: It would go 70% to infrastructure and that one offset our ability to, you know, add more, you know, property tax to them and water bills and things.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:52:48.140
+End: 00:52:54.140
+Duration: 6.000 seconds
+Text: So I think that should be considered anyway for the and a huge portion of what's protected by the levees in Park County.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:52:54.140
+End: 00:52:58.140
+Duration: 4.000 seconds
+Text: There's no doubt this whole area protected by the levee.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:52:58.140
+End: 00:53:00.140
+Duration: 2.000 seconds
+Text: Yeah. And of course, that's included in that.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:53:00.140
+End: 00:53:01.140
+Duration: 1.000 seconds
+Text: Yep.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:53:01.140
+End: 00:53:08.140
+Duration: 7.000 seconds
+Text: And then I, you know, I agree with a lot of people in the city have made the comment that, well, this doesn't help us with a Dix edition and all that.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:53:08.140
+End: 00:53:10.140
+Duration: 2.000 seconds
+Text: And of course, that's one of the correct.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:53:10.140
+End: 00:53:14.140
+Duration: 4.000 seconds
+Text: I mean, we're not building a bigger levy to protect that part of the city.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:53:14.140
+End: 00:53:17.140
+Duration: 3.000 seconds
+Text: And some of them may wonder, well, what benefit are they getting out of it?
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:53:17.140
+End: 00:53:22.140
+Duration: 5.000 seconds
+Text: And I just like to remind everybody and Rob already showed you had the pointer where the water plant is.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:53:22.140
+End: 00:53:28.140
+Duration: 6.000 seconds
+Text: If we lose the water plant, then everybody in the city loses water and it's something we can't recover from.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:53:28.140
+End: 00:53:29.140
+Duration: 1.000 seconds
+Text: So there is a benefit.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:53:29.140
+End: 00:53:33.140
+Duration: 4.000 seconds
+Text: Yes, it's not as great as some of the other people in town.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:53:33.140
+End: 00:53:34.140
+Duration: 1.000 seconds
+Text: That's right.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:53:34.140
+End: 00:53:37.140
+Duration: 3.000 seconds
+Text: And it is still a benefit to the northeer area.
+--------------------------------------------------
+Speaker_4:
+Start: 00:53:37.140
+End: 00:53:43.140
+Duration: 6.000 seconds
+Text: Mayor, if I could just add real quick, you made mention of raising the water rate.
+--------------------------------------------------
+Speaker_4:
+Start: 00:53:43.140
+End: 00:53:50.140
+Duration: 7.000 seconds
+Text: I wanted to be real clear when we came to this board last year and we talked about those rate increases.
+--------------------------------------------------
+Speaker_4:
+Start: 00:53:50.140
+End: 00:53:53.140
+Duration: 3.000 seconds
+Text: It was storm water, water and wastewater.
+--------------------------------------------------
+Speaker_4:
+Start: 00:53:53.140
+End: 00:54:03.140
+Duration: 10.000 seconds
+Text: Right now, Randy and I believe on the water and wastewater side, the adjustments that we made in 2020 that took effect for 2021.
+--------------------------------------------------
+Speaker_4:
+Start: 00:54:04.140
+End: 00:54:09.140
+Duration: 5.000 seconds
+Text: Right now, we believe that they are sufficient for this levy project.
+--------------------------------------------------
+Speaker_4:
+Start: 00:54:09.140
+End: 00:54:17.140
+Duration: 8.000 seconds
+Text: It's really the storm water component, the surcharge that we believe isn't going to be sufficient.
+--------------------------------------------------
+Speaker_4:
+Start: 00:54:17.140
+End: 00:54:22.140
+Duration: 5.000 seconds
+Text: Unless you begin to do what Brian did, which is sliding projects further out and so forth.
+--------------------------------------------------
+Speaker_4:
+Start: 00:54:22.140
+End: 00:54:24.140
+Duration: 2.000 seconds
+Text: So I just wanted to clarify that.
+--------------------------------------------------
+Speaker_4:
+Start: 00:54:24.140
+End: 00:54:25.140
+Duration: 1.000 seconds
+Text: We do.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:54:25.140
+End: 00:54:27.140
+Duration: 2.000 seconds
+Text: I hope we don't have to slide the project.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:54:27.140
+End: 00:54:30.140
+Duration: 3.000 seconds
+Text: What I'm saying is see if we can get some of those economic development funds.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:54:31.140
+End: 00:54:36.140
+Duration: 5.000 seconds
+Text: Because we said we were going to be using for infrastructure because I agree that this flooding thing is serious to everybody.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:54:36.140
+End: 00:54:38.140
+Duration: 2.000 seconds
+Text: And I don't want to see those projects delayed.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:54:38.140
+End: 00:54:40.140
+Duration: 2.000 seconds
+Text: I mean, we got to get that water out of here.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:54:40.140
+End: 00:54:41.140
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:54:41.140
+End: 00:54:43.140
+Duration: 2.000 seconds
+Text: And we're making great progress.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:54:43.140
+End: 00:54:44.140
+Duration: 1.000 seconds
+Text: But I don't want to slow it up.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:54:47.140
+End: 00:54:52.140
+Duration: 5.000 seconds
+Text: Could you point out, Brian, where the railroad issue is?
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:54:52.140
+End: 00:54:53.140
+Duration: 1.000 seconds
+Text: Sure.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:54:53.140
+End: 00:54:59.140
+Duration: 6.000 seconds
+Text: Yeah. And it's actually shown on the map in this purple color, this stop lock app.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:54:59.140
+End: 00:55:05.140
+Duration: 6.000 seconds
+Text: So the tracks come through the levy about four feet below the top of the levy.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:55:05.140
+End: 00:55:09.140
+Duration: 4.000 seconds
+Text: And we have to build some currently today we got there and we sandbag it.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:55:09.140
+End: 00:55:17.140
+Duration: 8.000 seconds
+Text: And the existing height of the levy actually exceeds what the core would recommend for a sandbag gap.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:55:17.140
+End: 00:55:22.140
+Duration: 5.000 seconds
+Text: So we're looking at doing possibly what's called a stop lock app or a swing gate.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:55:22.140
+End: 00:55:25.140
+Duration: 3.000 seconds
+Text: We're looking at several different scenarios.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:55:26.140
+End: 00:55:31.140
+Duration: 5.000 seconds
+Text: The issue is we just don't have the permit yet from the railroad.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:55:31.140
+End: 00:55:39.140
+Duration: 8.000 seconds
+Text: We're still working with their engineering folks on what the best way is to seal that gap system so we don't get a leak through there.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:55:39.140
+End: 00:55:43.140
+Duration: 4.000 seconds
+Text: There's all sorts of scenarios that you can use to seal them.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:55:43.140
+End: 00:55:49.140
+Duration: 6.000 seconds
+Text: Sandbags, larger bags, water bags, stop gaps, swing gates.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:55:49.140
+End: 00:55:53.140
+Duration: 4.000 seconds
+Text: The question is what's the best for this scenario?
+--------------------------------------------------
+Mayor Butler:
+Start: 00:55:54.140
+End: 00:55:59.140
+Duration: 5.000 seconds
+Text: So obviously the railroad track was there before the levy was?
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:55:59.140
+End: 00:56:01.140
+Duration: 2.000 seconds
+Text: Absolutely. Yeah, about 1907.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:56:01.140
+End: 00:56:02.140
+Duration: 1.000 seconds
+Text: Oh, sure.
+--------------------------------------------------
+Speaker_4:
+Start: 00:56:02.140
+End: 00:56:08.140
+Duration: 6.000 seconds
+Text: In fact, there's a dip in, there's a cut out in the levy for the railroad train.
+--------------------------------------------------
+Speaker_4:
+Start: 00:56:08.140
+End: 00:56:13.140
+Duration: 5.000 seconds
+Text: And it's physically lower than the top of our levy.
+--------------------------------------------------
+Speaker_4:
+Start: 00:56:13.140
+End: 00:56:17.140
+Duration: 4.000 seconds
+Text: So in the 1960s when the levy was built, that notch.
+--------------------------------------------------
+Speaker_4:
+Start: 00:56:18.140
+End: 00:56:22.140
+Duration: 4.000 seconds
+Text: You knew that the Pacific railroad did not raise the track.
+--------------------------------------------------
+Speaker_4:
+Start: 00:56:22.140
+End: 00:56:29.140
+Duration: 7.000 seconds
+Text: Obviously the bridge is a very short distance bridge would have to go up to.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:56:29.140
+End: 00:56:32.140
+Duration: 3.000 seconds
+Text: Thank you. I just couldn't find it on my map.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:56:32.140
+End: 00:56:33.140
+Duration: 1.000 seconds
+Text: Yeah, it's right here.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:56:33.140
+End: 00:56:38.140
+Duration: 5.000 seconds
+Text: It's actually if you ever go out to the boat ramp, you can see it from the boat ramp.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:56:38.140
+End: 00:56:42.140
+Duration: 4.000 seconds
+Text: And I know that there's a railroad bridge over there.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:56:42.140
+End: 00:56:43.140
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:56:43.140
+End: 00:56:46.140
+Duration: 3.000 seconds
+Text: I know they have bent in one also.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:56:46.140
+End: 00:56:48.140
+Duration: 2.000 seconds
+Text: But it's just still remaining.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:56:48.140
+End: 00:56:50.140
+Duration: 2.000 seconds
+Text: There's an abandoned one down here.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:56:50.140
+End: 00:56:53.140
+Duration: 3.000 seconds
+Text: You can still see the pier is on it when you're on the trail.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:56:53.140
+End: 00:56:57.140
+Duration: 4.000 seconds
+Text: Okay. All right.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:56:57.140
+End: 00:57:03.140
+Duration: 6.000 seconds
+Text: Well, it's just essential that we protect the city.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:57:03.140
+End: 00:57:05.140
+Duration: 2.000 seconds
+Text: And certainly we tried to do that.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:57:05.140
+End: 00:57:07.140
+Duration: 2.000 seconds
+Text: I don't know, 50 years ago, about year.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:57:07.140
+End: 00:57:12.140
+Duration: 5.000 seconds
+Text: And it's important, be important that we shore it up.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:57:12.140
+End: 00:57:15.140
+Duration: 3.000 seconds
+Text: And I wish there were a solution for the Northview area.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:57:15.140
+End: 00:57:17.140
+Duration: 2.000 seconds
+Text: And I just have to support this.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:57:17.140
+End: 00:57:22.140
+Duration: 5.000 seconds
+Text: And if there's another solution, that is that'd be the best scenario.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:57:22.140
+End: 00:57:30.140
+Duration: 8.000 seconds
+Text: But I'm not sure how to get it.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:57:30.140
+End: 00:57:33.140
+Duration: 3.000 seconds
+Text: Now I was going to say the.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:57:33.140
+End: 00:57:37.140
+Duration: 4.000 seconds
+Text: So the levy was accepted at least a couple of years ago.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:57:37.140
+End: 00:57:42.140
+Duration: 5.000 seconds
+Text: And the bids came in greater than what was expected, right?
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:57:42.140
+End: 00:57:44.140
+Duration: 2.000 seconds
+Text: Or they'd leave better and such.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:57:44.140
+End: 00:57:46.140
+Duration: 2.000 seconds
+Text: 25% greater is what was said.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:57:46.140
+End: 00:57:47.140
+Duration: 1.000 seconds
+Text: Yeah, it did.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:57:47.140
+End: 00:57:49.140
+Duration: 2.000 seconds
+Text: And I believe in August.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:57:49.140
+End: 00:57:50.140
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:57:50.140
+End: 00:57:54.140
+Duration: 4.000 seconds
+Text: Okay. And our share is when you say 35% is the 10 million point five.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:57:54.140
+End: 00:57:55.140
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:57:55.140
+End: 00:57:56.140
+Duration: 1.000 seconds
+Text: 10 point five million.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:57:56.140
+End: 00:58:01.140
+Duration: 5.000 seconds
+Text: 35% of the base project, which is estimated still at this 30 million.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:58:01.140
+End: 00:58:03.140
+Duration: 2.000 seconds
+Text: And then plus the betterments.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 00:58:03.140
+End: 00:58:04.140
+Duration: 1.000 seconds
+Text: So they 116.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:58:04.140
+End: 00:58:06.140
+Duration: 2.000 seconds
+Text: Right. And the rest of it is federal.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:58:06.140
+End: 00:58:07.140
+Duration: 1.000 seconds
+Text: Correct.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:58:07.140
+End: 00:58:08.140
+Duration: 1.000 seconds
+Text: Okay. All right.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:58:08.140
+End: 00:58:11.140
+Duration: 3.000 seconds
+Text: I think, you know, when we were talking about this,
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:58:11.140
+End: 00:58:13.140
+Duration: 2.000 seconds
+Text: we weren't expecting to get it.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:58:13.140
+End: 00:58:16.140
+Duration: 3.000 seconds
+Text: And then when we did, we knew there was going to be a city share component to it.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:58:16.140
+End: 00:58:19.140
+Duration: 3.000 seconds
+Text: So it's a little bit greater than what we had anticipated.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:58:19.140
+End: 00:58:26.140
+Duration: 7.000 seconds
+Text: But I believe it's a very necessary for the short term and long term as we continue to grow and improve.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:58:26.140
+End: 00:58:32.140
+Duration: 6.000 seconds
+Text: And we take up more of those spaces because of development and all kinds of mitigation efforts that we're trying to take.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:58:32.140
+End: 00:58:33.140
+Duration: 1.000 seconds
+Text: Yep.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:58:33.140
+End: 00:58:35.140
+Duration: 2.000 seconds
+Text: So yeah, I would support this.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:58:35.140
+End: 00:58:39.140
+Duration: 4.000 seconds
+Text: And I think the options you gave are feasible as well.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:58:39.140
+End: 00:58:40.140
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:58:40.140
+End: 00:58:42.140
+Duration: 2.000 seconds
+Text: I think we have to do it.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 00:58:42.140
+End: 00:58:47.140
+Duration: 5.000 seconds
+Text: So thank you.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:58:47.140
+End: 00:58:51.140
+Duration: 4.000 seconds
+Text: Okay. Do you have any public comments?
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:58:51.140
+End: 00:58:53.140
+Duration: 2.000 seconds
+Text: A few folks in the audience.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:58:53.140
+End: 00:58:54.140
+Duration: 1.000 seconds
+Text: Don't see any public comments.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:58:54.140
+End: 00:58:57.140
+Duration: 3.000 seconds
+Text: So bring it back to the commission.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:58:57.140
+End: 00:59:02.140
+Duration: 5.000 seconds
+Text: I wanted to just clarify on the motion here where we're doing two things.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:59:02.140
+End: 00:59:08.140
+Duration: 6.000 seconds
+Text: We're making it so that this can be passed on one reading due to the extension circumstances.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:59:08.140
+End: 00:59:10.140
+Duration: 2.000 seconds
+Text: Can we clarify exactly what those are?
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:59:10.140
+End: 00:59:15.140
+Duration: 5.000 seconds
+Text: So the public knows.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:59:15.140
+End: 00:59:26.140
+Duration: 11.000 seconds
+Text: So the request is to wave your typical two readings of an ordinance provision and pass this on first reading.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:59:26.140
+End: 00:59:31.140
+Duration: 5.000 seconds
+Text: The course under a short deadline towards the end of this fiscal year.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:59:31.140
+End: 00:59:36.140
+Duration: 5.000 seconds
+Text: And we need to approve it with this meeting.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:59:36.140
+End: 00:59:48.140
+Duration: 12.000 seconds
+Text: And that be your final determination as opposed to waiting for two readings of an ordinance, which we need for additional bonding authority.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:59:48.140
+End: 00:59:50.140
+Duration: 2.000 seconds
+Text: Okay. That makes that makes sense to me.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:59:50.140
+End: 00:59:54.140
+Duration: 4.000 seconds
+Text: Plus the course really helped the sound on the cum release things like you passed out.
+--------------------------------------------------
+Commissioner Morris:
+Start: 00:59:54.140
+End: 00:59:58.140
+Duration: 4.000 seconds
+Text: So I don't see any reason why we shouldn't do that.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:59:59.140
+End: 01:00:00.140
+Duration: 1.000 seconds
+Text: Motion.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:00:00.140
+End: 01:00:01.140
+Duration: 1.000 seconds
+Text: Yep.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:00:01.140
+End: 01:00:02.140
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:00:02.140
+End: 01:00:04.140
+Duration: 2.000 seconds
+Text: Awesome.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:00:04.140
+End: 01:00:26.140
+Duration: 22.000 seconds
+Text: So we, I move that we wave the second reading of the ordinance number 7550 due to exigent circumstances and allow for ordinance number 7550 to be considered for final action with one reading.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:00:26.140
+End: 01:00:28.140
+Duration: 2.000 seconds
+Text: Second.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:00:28.140
+End: 01:00:30.140
+Duration: 2.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Morris:
+Start: 01:00:30.140
+End: 01:00:31.140
+Duration: 1.000 seconds
+Text: So do clerk.
+--------------------------------------------------
+Commissioner Morris:
+Start: 01:00:31.140
+End: 01:00:33.140
+Duration: 2.000 seconds
+Text: We have a motion in a second.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:00:33.140
+End: 01:00:34.140
+Duration: 1.000 seconds
+Text: Commissioner.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:00:34.140
+End: 01:00:36.140
+Duration: 2.000 seconds
+Text: Commissioner Moore's.
+--------------------------------------------------
+Brian Johnson, City Engineer:
+Start: 01:00:42.140
+End: 01:00:44.140
+Duration: 2.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:00:44.140
+End: 01:00:45.140
+Duration: 1.000 seconds
+Text: Commissioner Hadisol.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:00:45.140
+End: 01:00:46.140
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:00:46.140
+End: 01:00:48.140
+Duration: 2.000 seconds
+Text: Commissioner Estabra.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:00:48.140
+End: 01:00:49.140
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:00:49.140
+End: 01:00:50.140
+Duration: 1.000 seconds
+Text: Commissioner Ready.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:00:50.140
+End: 01:00:51.140
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:00:51.140
+End: 01:00:52.140
+Duration: 1.000 seconds
+Text: Mayor Butler.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:00:52.140
+End: 01:00:53.140
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:00:53.140
+End: 01:00:55.140
+Duration: 2.000 seconds
+Text: Motion carries 5 to 0.
+--------------------------------------------------
+Rob Ott, Director of Public Works:
+Start: 01:00:55.140
+End: 01:00:56.140
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:00:56.140
+End: 01:00:57.140
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:00:57.140
+End: 01:01:24.140
+Duration: 27.000 seconds
+Text: Mayor, I, I, I move that we authorize city administration to formally concur with the U.S. U.S. A.S. on award of the Manhattan Levy flood risk management project SM 1813 to the low bitter ESI contracting to accepting contract for each of the optional betterment and utility locations listed in the bid to make 12 million for 432,000
+--------------------------------------------------
+Mayor Butler:
+Start: 01:01:24.140
+End: 01:01:36.140
+Duration: 12.000 seconds
+Text: $381 in total payments to the U.S. A.C.E. as currently invoiced and authorized staff to pay future contingency invoices from the U.S. A.C.E.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:01:36.140
+End: 01:01:55.140
+Duration: 19.000 seconds
+Text: totaling 1,907,208 dollars approve ordinance number 7550 meaning the financing and the betterments portion of the project to improve resolution numbers 0 92121-H and 0 92121-I
+--------------------------------------------------
+Mayor Butler:
+Start: 01:01:55.140
+End: 01:02:10.140
+Duration: 15.000 seconds
+Text: will be organizing financing for the sec for the relocation of sewer SS 2013 and water W.A. 2017 and W.A. 2018 utilities related to the project.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:02:10.140
+End: 01:02:11.140
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Commissioner Morris:
+Start: 01:02:11.140
+End: 01:02:14.140
+Duration: 3.000 seconds
+Text: Okay, we have a motion in the second city clerk.
+--------------------------------------------------
+Commissioner Morris:
+Start: 01:02:14.140
+End: 01:02:15.140
+Duration: 1.000 seconds
+Text: Please call the roll.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:02:15.140
+End: 01:02:16.140
+Duration: 1.000 seconds
+Text: Commissioner Hassel.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:02:16.140
+End: 01:02:17.140
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:02:17.140
+End: 01:02:18.140
+Duration: 1.000 seconds
+Text: Commissioner Estabrog.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:02:18.140
+End: 01:02:19.140
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:02:19.140
+End: 01:02:20.140
+Duration: 1.000 seconds
+Text: Commissioner Reddy.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:02:20.140
+End: 01:02:21.140
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:02:21.140
+End: 01:02:22.140
+Duration: 1.000 seconds
+Text: Mayor Butler.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:02:22.140
+End: 01:02:23.140
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:02:23.140
+End: 01:02:24.140
+Duration: 1.000 seconds
+Text: Commissioner Morse.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:02:24.140
+End: 01:02:25.140
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Butler:
+Start: 01:02:25.140
+End: 01:02:28.140
+Duration: 3.000 seconds
+Text: Motion carries 5 to 0.
+--------------------------------------------------
+Commissioner Morris:
+Start: 01:02:28.140
+End: 01:02:32.140
+Duration: 4.000 seconds
+Text: Okay, good job reading that area and that was one of the longer ones.
+--------------------------------------------------
+Commissioner Morris:
+Start: 01:02:32.140
+End: 01:02:33.140
+Duration: 1.000 seconds
+Text: I appreciate that.
+--------------------------------------------------
+Commissioner Morris:
+Start: 01:02:33.140
+End: 01:02:35.140
+Duration: 2.000 seconds
+Text: That brings us to the end of the meeting.
+--------------------------------------------------
+Commissioner Morris:
+Start: 01:02:35.140
+End: 01:02:41.140
+Duration: 6.000 seconds
+Text: Thank you for attending tonight and the meeting is adjourned.
+--------------------------------------------------

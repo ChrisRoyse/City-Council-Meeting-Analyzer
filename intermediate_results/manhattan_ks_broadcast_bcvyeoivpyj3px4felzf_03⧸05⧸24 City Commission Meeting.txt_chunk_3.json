@@ -1,0 +1,200 @@
+{
+  "open_ended_analysis": {
+    "primary_themes": [
+      {
+        "theme": "Workforce Housing",
+        "description": "The main theme throughout the meeting was the issue of workforce housing and how to provide and incentivize it in Manhattan, Kansas",
+        "notable_points": [
+          "Introduction of incentives to encourage developers to create workforce housing",
+          "Discussion on allowing different types of housing such as downtown lofts or cottage houses",
+          "The need of having housing units affordable and accessible with good transportation and connectivity"
+        ]
+      },
+      {
+        "theme": "Public Subsidy and Incentives",
+        "description": "There was significant discussion about the allocation of public subsidies and incentives for housing development projects.",
+        "notable_points": [
+          "The benefit of these incentives and the potential long-term positive effect on the community",
+          "The need of having a criteria to grade and evaluate projects",
+          "The idea of allocating points for new product types or public infrastructure improvements"
+        ]
+      }
+    ],
+    "significant_discussions": [
+      {
+        "topic": "Criteria and Evaluation of Projects",
+        "significance": "Setting clear criteria allows for fair allocation of available incentives, ensuring the most beneficial projects to be awarded",
+        "stakeholders": [
+          "City council",
+          "City employees",
+          "Housing developers",
+          "Community members"
+        ]
+      },
+      {
+        "topic": "Types of Housing to be Encouraged",
+        "significance": "Discussing the unique types of housing that could be incentivized, like cottage homes or downtown lofts, to address housing needs.",
+        "stakeholders": [
+          "City council",
+          "City employees",
+          "Housing developers",
+          "Community members"
+        ]
+      },
+      {
+        "topic": "Public Subsidy for Workforce Housing",
+        "significance": "The public support implies the necessity and efforts to ensure affordable housing for the workforce in the city",
+        "stakeholders": [
+          "City council",
+          "City employees",
+          "Housing developers",
+          "Community members",
+          "Workforce"
+        ]
+      }
+    ],
+    "unexpected_elements": [
+      {
+        "element": "Active Participation from Public",
+        "context": "An attendee provided detailed feedback regarding public subsidies and energy efficiency standards. This shows a high level of public interest and knowledge in these matters."
+      }
+    ]
+  },
+  "directed_analysis": {
+    "land_use": {
+      "present": true,
+      "significance": "High",
+      "context": "Land use was a primary focus of this meeting. Discussions revolved around evaluating and incentivizing various types of potential developments in the area, including but not limited to downtown lofts, mixed use properties, and cottage homes. There was also dialogue about how the development of such properties might interact with zoning laws.",
+      "notable_points": [
+        "Interest in bringing unique housing types to the community, such as cottage homes.",
+        "Continued emphasis on the need and desire for additional housing in the downtown area.",
+        "Consideration of ensuring buildings are energy efficient and promoting the use of quality building materials."
+      ]
+    },
+    "economic_development": {
+      "present": true,
+      "significance": "Medium",
+      "context": "Economic development was discussed in the context of utilizing certain incentives to spur housing development and in relation to the local workforce. The need for more workforce housing units was emphasized, as was the potential benefits of such development, such as attracting new residents to the area.",
+      "notable_points": [
+        "The council is considering incentives for developers who propose housing solutions that are affordable, accessible, and meet community goals.",
+        "The council believes that investment in workforce housing could lead to more local spending and economic growth."
+      ]
+    },
+    "taxes_budget": {
+      "present": true,
+      "significance": "Medium",
+      "context": "Tax implications of incentivizing new development were discussed with concerns over the potential for revenue loss from property taxes due to abatement policies. The council members, however, recognized this as a necessary trade-off to stimulate new housing development in the area.",
+      "notable_points": [
+        "Preference for tax abatements rather than industrial revenue bonds (IRBs) to stimulate development.",
+        "Council is considering the financial trade-offs such as foregone property tax revenue over the short term for long term economic and community benefits."
+      ]
+    },
+    "other_significant_topics": [
+      {
+        "topic": "Aging Population",
+        "significance": "Medium",
+        "context": "The council discussed the need to consider the aging population's housing needs, focusing on creating homes that are safe, accessible, and located in walkable areas."
+      },
+      {
+        "topic": "Quality of construction",
+        "significance": "Medium",
+        "context": "Concerns were raised about ensuring the quality and durability of new buildings, emphasizing that affordability shouldn't come at the expense of quality, safety, or the longevity of the building."
+      }
+    ]
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 5,
+      "speaking_time": {
+        "City Manager": 33.84,
+        "City Clerk": 494.55999999999995,
+        "Commissioner Adam Chad": 225.52000000000004,
+        "Mayor Butler": 140.72,
+        "Stephanie Peterson, Director of Community Development": 115.75999999999999
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [
+        "City Manager",
+        "Commissioner Adam Chad"
+      ],
+      "observation": "Though the City Manager opens the meeting, much of the dialogue and direction appears to be led by Commissioner Adam Chad."
+    },
+    "interaction_patterns": {
+      "pattern": "The speakers interact through a moderated, but flexible, discussion format. Some of the discussions tend to be more guided while others are more organic, with speakers freely voicing their views and bouncing ideas off each other.",
+      "notable_exchanges": [
+        "The detailed exchange about housing where various considerations were made",
+        "Discussion and feedback on the proposal by Stephanie Peterson, the Director of Community Development",
+        "Public comment from Josh Brewer, executive director of Habitat Freeman"
+      ]
+    },
+    "topic_ownership": [
+      {
+        "speaker": "City Manager",
+        "topics": [
+          "General meeting coordination"
+        ]
+      },
+      {
+        "speaker": "Commissioner Adam Chad",
+        "topics": [
+          "Workforce housing, aging population considerations, subsidy structure"
+        ]
+      },
+      {
+        "speaker": "Mayor Butler",
+        "topics": [
+          "Quality and affordability of the proposed housing units"
+        ]
+      },
+      {
+        "speaker": "Stephanie Peterson, Director of Community Development",
+        "topics": [
+          "Community development, proposed project details"
+        ]
+      }
+    ],
+    "public_participation": {
+      "level": "Medium",
+      "observation": "There is one member of the public who engages in a detailed comment period, Josh Brewer, during the public comment section. Brewer contributes valuable insights and suggestions, indicating a moderate level of public participation in these meetings."
+    }
+  },
+  "emergent_patterns": {
+    "recurring_themes": [
+      {
+        "theme": "Affordable and accessible housing",
+        "evidence": "There is an ongoing discussion about the need for more affordable housing units in the community, with a particular focus on 'workforce housing' and 'starter homes'."
+      },
+      {
+        "theme": "Infrastructure improves",
+        "evidence": "Emphasis is placed on considering the infrastructure associated with proposed housing units, particularly in terms of energy efficiency, access to amenities and public transport, and provisions for aging in place."
+      }
+    ],
+    "underlying_tensions": [
+      {
+        "tension": "Inclusive development versus economic feasibility",
+        "between": [
+          "City councilors",
+          "Developers"
+        ],
+        "context": "There is concern about how to encourage inclusive development, such as affordable housing units with essential amenities and energy-efficient features, while also balancing economic feasibility and market conditions."
+      }
+    ],
+    "decision_patterns": {
+      "pattern": "Consultation and consensus-based decision making",
+      "observation": "Decisions seem to be made through discussion and consultation among the councilors, considering feedback from the public, using tools and scorecards to aid the decision-making process, and attempting to reach a consensus."
+    },
+    "language_patterns": {
+      "formality": "Medium",
+      "technical_density": "High",
+      "emotional_tone": "Concerned, collaborative, problem-solving",
+      "notable_features": [
+        "Use of specific terminology related to urban development and housing policy",
+        "Discussion involves problem-solving and exploration of different perspectives"
+      ]
+    },
+    "other_insights": [
+      "There is an inherent tension between promoting innovative housing solutions (e.g., downtown lofts, green buildings) and potential challenges tied to these options such as accessibility for older people, parking infrastructures and overall affordability for the community."
+    ]
+  }
+}

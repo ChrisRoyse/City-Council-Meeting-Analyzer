@@ -1,0 +1,5475 @@
+Transcription and Diarization for 20230505-05⧸02⧸23 City Commission Meeting.mp4
+==================================================
+
+Staff Member:
+Start: 00:00:00.000
+End: 00:00:03.760
+Duration: 3.760 seconds
+Text: call. Mayor Hussle here.
+--------------------------------------------------
+Staff Member:
+Start: 00:00:03.760
+End: 00:00:04.720
+Duration: 0.960 seconds
+Text: Commissioner Reddy,
+--------------------------------------------------
+Staff Member:
+Start: 00:00:04.720
+End: 00:00:05.480
+Duration: 0.760 seconds
+Text: President,
+--------------------------------------------------
+Staff Member:
+Start: 00:00:05.480
+End: 00:00:06.320
+Duration: 0.840 seconds
+Text: Commissioner Butler,
+--------------------------------------------------
+Staff Member:
+Start: 00:00:06.320
+End: 00:00:07.480
+Duration: 1.160 seconds
+Text: here.
+--------------------------------------------------
+Staff Member:
+Start: 00:00:07.480
+End: 00:00:08.320
+Duration: 0.840 seconds
+Text: Commissioner Mata,
+--------------------------------------------------
+Staff Member:
+Start: 00:00:08.320
+End: 00:00:09.000
+Duration: 0.680 seconds
+Text: here.
+--------------------------------------------------
+Staff Member:
+Start: 00:00:09.000
+End: 00:00:09.840
+Duration: 0.840 seconds
+Text: Commissioner Morris,
+--------------------------------------------------
+Staff Member:
+Start: 00:00:09.840
+End: 00:00:10.760
+Duration: 0.920 seconds
+Text: President,
+--------------------------------------------------
+Staff Member:
+Start: 00:00:10.760
+End: 00:00:11.960
+Duration: 1.200 seconds
+Text: Mayor, we have five
+--------------------------------------------------
+Staff Member:
+Start: 00:00:11.960
+End: 00:00:12.920
+Duration: 0.960 seconds
+Text: commissioners present.
+--------------------------------------------------
+Staff Member:
+Start: 00:00:12.920
+End: 00:00:14.560
+Duration: 1.640 seconds
+Text: The carma three is met.
+--------------------------------------------------
+Staff Member:
+Start: 00:00:14.560
+End: 00:00:15.000
+Duration: 0.440 seconds
+Text: Very good.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:00:15.000
+End: 00:00:15.760
+Duration: 0.760 seconds
+Text: Please join me in the
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:00:15.760
+End: 00:00:17.720
+Duration: 1.960 seconds
+Text: pledge of allegiance.
+--------------------------------------------------
+Staff Member:
+Start: 00:00:17.720
+End: 00:00:20.040
+Duration: 2.320 seconds
+Text: I pledge allegiance to the
+--------------------------------------------------
+Staff Member:
+Start: 00:00:20.040
+End: 00:00:23.040
+Duration: 3.000 seconds
+Text: flag of the United States of America
+--------------------------------------------------
+Staff Member:
+Start: 00:00:23.040
+End: 00:00:24.720
+Duration: 1.680 seconds
+Text: and to the Republic for which
+--------------------------------------------------
+Staff Member:
+Start: 00:00:24.720
+End: 00:00:25.800
+Duration: 1.080 seconds
+Text: it stands.
+--------------------------------------------------
+Staff Member:
+Start: 00:00:25.800
+End: 00:00:27.800
+Duration: 2.000 seconds
+Text: One nation under God,
+--------------------------------------------------
+Staff Member:
+Start: 00:00:27.800
+End: 00:00:29.600
+Duration: 1.800 seconds
+Text: indivisible with liberty
+--------------------------------------------------
+Staff Member:
+Start: 00:00:29.600
+End: 00:00:31.600
+Duration: 2.000 seconds
+Text: and justice for all.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:31.600
+End: 00:00:36.600
+Duration: 5.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:00:36.600
+End: 00:00:39.200
+Duration: 2.600 seconds
+Text: Our first item is some
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:00:39.200
+End: 00:00:40.160
+Duration: 0.960 seconds
+Text: recognition.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:00:40.160
+End: 00:00:43.000
+Duration: 2.840 seconds
+Text: We will begin with
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:00:43.000
+End: 00:00:46.000
+Duration: 3.000 seconds
+Text: recognizing.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:00:46.000
+End: 00:00:49.440
+Duration: 3.440 seconds
+Text: Yeah, outgoing
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:00:49.440
+End: 00:00:50.080
+Duration: 0.640 seconds
+Text: Commissioner,
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:00:50.080
+End: 00:00:50.840
+Duration: 0.760 seconds
+Text: you should ready for her
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:00:50.840
+End: 00:00:52.440
+Duration: 1.600 seconds
+Text: service on the commission.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:00:52.440
+End: 00:00:54.280
+Duration: 1.840 seconds
+Text: Please come down from here.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:00:54.280
+End: 00:00:55.480
+Duration: 1.200 seconds
+Text: Well, he's not here.
+--------------------------------------------------
+Staff Member:
+Start: 00:00:55.480
+End: 00:00:56.480
+Duration: 1.000 seconds
+Text: Oh,
+--------------------------------------------------
+Staff Member:
+Start: 00:00:56.480
+End: 00:00:57.480
+Duration: 1.000 seconds
+Text: yeah.
+--------------------------------------------------
+Staff Member:
+Start: 00:00:57.480
+End: 00:00:59.480
+Duration: 2.000 seconds
+Text: I've got to go with what you
+--------------------------------------------------
+Staff Member:
+Start: 00:00:59.480
+End: 00:01:00.480
+Duration: 1.000 seconds
+Text: got.
+--------------------------------------------------
+Staff Member:
+Start: 00:01:00.480
+End: 00:01:01.480
+Duration: 1.000 seconds
+Text: You got to go down there
+--------------------------------------------------
+Staff Member:
+Start: 00:01:01.480
+End: 00:01:02.480
+Duration: 1.000 seconds
+Text: when you leave.
+--------------------------------------------------
+Staff Member:
+Start: 00:01:02.480
+End: 00:01:04.480
+Duration: 2.000 seconds
+Text: You got to go.
+--------------------------------------------------
+Staff Member:
+Start: 00:01:04.480
+End: 00:01:22.480
+Duration: 18.000 seconds
+Text: I'm going to take
+--------------------------------------------------
+Staff Member:
+Start: 00:01:23.480
+End: 00:01:24.480
+Duration: 1.000 seconds
+Text: the camera.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:01:24.480
+End: 00:01:25.480
+Duration: 1.000 seconds
+Text: Somebody take the camera.
+--------------------------------------------------
+Staff Member:
+Start: 00:01:25.480
+End: 00:01:28.480
+Duration: 3.000 seconds
+Text: Oh, there's Jared.
+--------------------------------------------------
+Staff Member:
+Start: 00:01:28.480
+End: 00:01:29.480
+Duration: 1.000 seconds
+Text: There's
+--------------------------------------------------
+Staff Member:
+Start: 00:01:29.480
+End: 00:01:38.480
+Duration: 9.000 seconds
+Text: a commission ready.
+--------------------------------------------------
+Staff Member:
+Start: 00:01:38.480
+End: 00:01:40.480
+Duration: 2.000 seconds
+Text: This is an opportunity for us
+--------------------------------------------------
+Staff Member:
+Start: 00:01:40.480
+End: 00:01:42.480
+Duration: 2.000 seconds
+Text: to on behalf of the city
+--------------------------------------------------
+Staff Member:
+Start: 00:01:42.480
+End: 00:01:43.480
+Duration: 1.000 seconds
+Text: commission and the city of
+--------------------------------------------------
+Staff Member:
+Start: 00:01:43.480
+End: 00:01:45.480
+Duration: 2.000 seconds
+Text: Manhattan to thank you for
+--------------------------------------------------
+Staff Member:
+Start: 00:01:45.480
+End: 00:01:47.480
+Duration: 2.000 seconds
+Text: your ten years of service
+--------------------------------------------------
+Staff Member:
+Start: 00:01:47.480
+End: 00:01:48.480
+Duration: 1.000 seconds
+Text: with city of Manhattan.
+--------------------------------------------------
+Staff Member:
+Start: 00:01:48.480
+End: 00:01:50.480
+Duration: 2.000 seconds
+Text: And we know this is your last
+--------------------------------------------------
+Staff Member:
+Start: 00:01:50.480
+End: 00:01:51.480
+Duration: 1.000 seconds
+Text: meeting this evening.
+--------------------------------------------------
+Staff Member:
+Start: 00:01:51.480
+End: 00:01:53.480
+Duration: 2.000 seconds
+Text: And it's kind of unusual in
+--------------------------------------------------
+Staff Member:
+Start: 00:01:53.480
+End: 00:01:55.480
+Duration: 2.000 seconds
+Text: that in this kind of situation
+--------------------------------------------------
+Staff Member:
+Start: 00:01:55.480
+End: 00:01:57.480
+Duration: 2.000 seconds
+Text: where we're usually at an
+--------------------------------------------------
+Staff Member:
+Start: 00:01:57.480
+End: 00:01:59.480
+Duration: 2.000 seconds
+Text: election term and you're at
+--------------------------------------------------
+Staff Member:
+Start: 00:01:59.480
+End: 00:02:01.480
+Duration: 2.000 seconds
+Text: the end of your term in this
+--------------------------------------------------
+Staff Member:
+Start: 00:02:01.480
+End: 00:02:03.480
+Duration: 2.000 seconds
+Text: situation, there's two years
+--------------------------------------------------
+Staff Member:
+Start: 00:02:03.480
+End: 00:02:04.480
+Duration: 1.000 seconds
+Text: left on your remaining term.
+--------------------------------------------------
+Staff Member:
+Start: 00:02:04.480
+End: 00:02:05.480
+Duration: 1.000 seconds
+Text: And the commission is going to
+--------------------------------------------------
+Staff Member:
+Start: 00:02:05.480
+End: 00:02:07.480
+Duration: 2.000 seconds
+Text: talk about that next week
+--------------------------------------------------
+Staff Member:
+Start: 00:02:07.480
+End: 00:02:09.480
+Duration: 2.000 seconds
+Text: about again about how that
+--------------------------------------------------
+Staff Member:
+Start: 00:02:09.480
+End: 00:02:10.480
+Duration: 1.000 seconds
+Text: we go with your replacement.
+--------------------------------------------------
+Staff Member:
+Start: 00:02:10.480
+End: 00:02:12.480
+Duration: 2.000 seconds
+Text: But tonight we wanted to take
+--------------------------------------------------
+Staff Member:
+Start: 00:02:12.480
+End: 00:02:14.480
+Duration: 2.000 seconds
+Text: some time to recognize you for
+--------------------------------------------------
+Staff Member:
+Start: 00:02:14.480
+End: 00:02:15.480
+Duration: 1.000 seconds
+Text: your service.
+--------------------------------------------------
+Staff Member:
+Start: 00:02:15.480
+End: 00:02:17.480
+Duration: 2.000 seconds
+Text: And thank you for that service
+--------------------------------------------------
+Staff Member:
+Start: 00:02:17.480
+End: 00:02:19.480
+Duration: 2.000 seconds
+Text: of ten long years and
+--------------------------------------------------
+Staff Member:
+Start: 00:02:20.480
+End: 00:02:22.480
+Duration: 2.000 seconds
+Text: appreciate your commitment
+--------------------------------------------------
+Staff Member:
+Start: 00:02:22.480
+End: 00:02:24.480
+Duration: 2.000 seconds
+Text: and all that you've done on
+--------------------------------------------------
+Staff Member:
+Start: 00:02:24.480
+End: 00:02:25.480
+Duration: 1.000 seconds
+Text: behalf of the city.
+--------------------------------------------------
+Staff Member:
+Start: 00:02:25.480
+End: 00:02:26.480
+Duration: 1.000 seconds
+Text: And Mayor Scott,
+--------------------------------------------------
+Staff Member:
+Start: 00:02:26.480
+End: 00:02:28.480
+Duration: 2.000 seconds
+Text: some comments on a plaque for you?
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:02:28.480
+End: 00:02:30.480
+Duration: 2.000 seconds
+Text: Well, it's a, yeah, you've
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:02:30.480
+End: 00:02:31.480
+Duration: 1.000 seconds
+Text: been a very popular public
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:02:31.480
+End: 00:02:32.480
+Duration: 1.000 seconds
+Text: servant for the last decade
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:02:32.480
+End: 00:02:34.480
+Duration: 2.000 seconds
+Text: here and so we sure appreciate
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:02:34.480
+End: 00:02:35.480
+Duration: 1.000 seconds
+Text: all that you've done and look
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:02:35.480
+End: 00:02:36.480
+Duration: 1.000 seconds
+Text: forward to continuing to have
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:02:36.480
+End: 00:02:38.480
+Duration: 2.000 seconds
+Text: you involved in the community.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:02:38.480
+End: 00:02:42.480
+Duration: 4.000 seconds
+Text: And with that, we'll give you
+--------------------------------------------------
+Staff Member:
+Start: 00:02:42.480
+End: 00:02:45.480
+Duration: 3.000 seconds
+Text: the plaque here.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:46.480
+End: 00:02:47.480
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:02:53.480
+End: 00:02:54.480
+Duration: 1.000 seconds
+Text: There we go.
+--------------------------------------------------
+Staff Member:
+Start: 00:02:54.480
+End: 00:02:55.480
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:02:55.480
+End: 00:02:56.480
+Duration: 1.000 seconds
+Text: Appreciate it.
+--------------------------------------------------
+Staff Member:
+Start: 00:02:56.480
+End: 00:02:57.480
+Duration: 1.000 seconds
+Text: Brian, we've got something on
+--------------------------------------------------
+Staff Member:
+Start: 00:02:57.480
+End: 00:02:58.480
+Duration: 1.000 seconds
+Text: your hand.
+--------------------------------------------------
+Staff Member:
+Start: 00:02:58.480
+End: 00:02:59.480
+Duration: 1.000 seconds
+Text: Sorry, I'm not sure if it's
+--------------------------------------------------
+Staff Member:
+Start: 00:02:59.480
+End: 00:03:01.480
+Duration: 2.000 seconds
+Text: golf balls or what it is, but
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:03:01.480
+End: 00:03:03.480
+Duration: 2.000 seconds
+Text: I thought it was a
+--------------------------------------------------
+Staff Member:
+Start: 00:03:03.480
+End: 00:03:04.480
+Duration: 1.000 seconds
+Text: city coffee mug.
+--------------------------------------------------
+Staff Member:
+Start: 00:03:04.480
+End: 00:03:06.480
+Duration: 2.000 seconds
+Text: There's always a
+--------------------------------------------------
+Staff Member:
+Start: 00:03:06.480
+End: 00:03:08.480
+Duration: 2.000 seconds
+Text: support element and we
+--------------------------------------------------
+Staff Member:
+Start: 00:03:08.480
+End: 00:03:10.480
+Duration: 2.000 seconds
+Text: appreciate all your support
+--------------------------------------------------
+Staff Member:
+Start: 00:03:10.480
+End: 00:03:12.480
+Duration: 2.000 seconds
+Text: for for you during her term.
+--------------------------------------------------
+Staff Member:
+Start: 00:03:12.480
+End: 00:03:13.480
+Duration: 1.000 seconds
+Text: So thank you so much.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:03:14.480
+End: 00:03:15.480
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:03:15.480
+End: 00:03:16.480
+Duration: 1.000 seconds
+Text: I want to say something
+--------------------------------------------------
+Staff Member:
+Start: 00:03:16.480
+End: 00:03:17.480
+Duration: 1.000 seconds
+Text: hour later.
+--------------------------------------------------
+Staff Member:
+Start: 00:03:17.480
+End: 00:03:18.480
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Staff Member:
+Start: 00:03:18.480
+End: 00:03:19.480
+Duration: 1.000 seconds
+Text: I'll say something during
+--------------------------------------------------
+Staff Member:
+Start: 00:03:19.480
+End: 00:03:20.480
+Duration: 1.000 seconds
+Text: public comments, but thank you
+--------------------------------------------------
+Staff Member:
+Start: 00:03:20.480
+End: 00:03:21.480
+Duration: 1.000 seconds
+Text: very much.
+--------------------------------------------------
+Staff Member:
+Start: 00:03:21.480
+End: 00:03:22.480
+Duration: 1.000 seconds
+Text: I really appreciate it.
+--------------------------------------------------
+Staff Member:
+Start: 00:03:22.480
+End: 00:03:23.480
+Duration: 1.000 seconds
+Text: And taking just a few minutes
+--------------------------------------------------
+Staff Member:
+Start: 00:03:23.480
+End: 00:03:24.480
+Duration: 1.000 seconds
+Text: to thank everybody in the
+--------------------------------------------------
+Staff Member:
+Start: 00:03:24.480
+End: 00:03:25.480
+Duration: 1.000 seconds
+Text: audience.
+--------------------------------------------------
+Staff Member:
+Start: 00:03:25.480
+End: 00:03:26.480
+Duration: 1.000 seconds
+Text: I'll say a few minutes comments
+--------------------------------------------------
+Staff Member:
+Start: 00:03:26.480
+End: 00:03:27.480
+Duration: 1.000 seconds
+Text: during my public comments at
+--------------------------------------------------
+City Clerk:
+Start: 00:03:27.480
+End: 00:03:28.480
+Duration: 1.000 seconds
+Text: time.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:28.480
+End: 00:03:29.480
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:29.480
+End: 00:03:30.480
+Duration: 1.000 seconds
+Text: Very good.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:30.480
+End: 00:03:31.480
+Duration: 1.000 seconds
+Text: Applause.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:31.480
+End: 00:03:32.480
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:32.480
+End: 00:03:33.480
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:33.480
+End: 00:03:34.480
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:34.480
+End: 00:03:35.480
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:35.480
+End: 00:03:36.480
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:36.480
+End: 00:03:37.480
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:37.480
+End: 00:03:38.480
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:38.480
+End: 00:03:39.480
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Staff Member:
+Start: 00:03:39.480
+End: 00:03:40.480
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:03:40.480
+End: 00:03:41.480
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:03:41.480
+End: 00:03:42.480
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:03:43.480
+End: 00:03:44.480
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:03:44.480
+End: 00:03:45.480
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:03:45.480
+End: 00:03:46.480
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:03:46.480
+End: 00:03:48.480
+Duration: 2.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Staff Member:
+Start: 00:03:48.480
+End: 00:03:49.480
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:03:49.480
+End: 00:03:50.480
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Staff Member:
+Start: 00:03:50.480
+End: 00:03:51.480
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:03:51.480
+End: 00:03:52.480
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:03:52.480
+End: 00:03:53.480
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Staff Member:
+Start: 00:03:53.480
+End: 00:03:54.480
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:54.480
+End: 00:03:55.480
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:55.480
+End: 00:03:56.480
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:56.480
+End: 00:03:57.480
+Duration: 1.000 seconds
+Text: Good to see you again with the
+--------------------------------------------------
+City Clerk:
+Start: 00:03:57.480
+End: 00:03:58.480
+Duration: 1.000 seconds
+Text: Arbor Day people, which is
+--------------------------------------------------
+City Clerk:
+Start: 00:03:58.480
+End: 00:03:59.480
+Duration: 1.000 seconds
+Text: Jay David Maddox and is
+--------------------------------------------------
+Staff Member:
+Start: 00:03:59.480
+End: 00:04:00.480
+Duration: 1.000 seconds
+Text: Gabriella here too?
+--------------------------------------------------
+Staff Member:
+Start: 00:04:00.480
+End: 00:04:01.480
+Duration: 1.000 seconds
+Text: Come on up.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:01.480
+End: 00:04:02.480
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Staff Member:
+Start: 00:04:02.480
+End: 00:04:05.480
+Duration: 3.000 seconds
+Text: You can introduce some here.
+--------------------------------------------------
+Staff Member:
+Start: 00:04:05.480
+End: 00:04:06.480
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Staff Member:
+Start: 00:04:06.480
+End: 00:04:07.480
+Duration: 1.000 seconds
+Text: This is Gabriella.
+--------------------------------------------------
+Staff Member:
+Start: 00:04:07.480
+End: 00:04:08.480
+Duration: 1.000 seconds
+Text: Means.
+--------------------------------------------------
+Staff Member:
+Start: 00:04:08.480
+End: 00:04:09.480
+Duration: 1.000 seconds
+Text: Gabriella means, she used the
+--------------------------------------------------
+Staff Member:
+Start: 00:04:09.480
+End: 00:04:10.480
+Duration: 1.000 seconds
+Text: president of the alpha cap
+--------------------------------------------------
+Staff Member:
+Start: 00:04:10.480
+End: 00:04:17.120
+Duration: 6.640 seconds
+Text: and three years I've come up here and talked about all things about trees and growing trees and such,
+--------------------------------------------------
+Staff Member:
+Start: 00:04:17.120
+End: 00:04:21.760
+Duration: 4.640 seconds
+Text: but Arbor Day is really just trying to get people to get excited,
+--------------------------------------------------
+Staff Member:
+Start: 00:04:21.760
+End: 00:04:24.960
+Duration: 3.200 seconds
+Text: specifically active and go out there and plant some trees.
+--------------------------------------------------
+Staff Member:
+Start: 00:04:24.960
+End: 00:04:28.200
+Duration: 3.240 seconds
+Text: That is exactly what this group has come to us and wanted to do,
+--------------------------------------------------
+Staff Member:
+Start: 00:04:28.200
+End: 00:04:32.000
+Duration: 3.800 seconds
+Text: so we'll be doing that in a sojourner truth park on Friday afternoon.
+--------------------------------------------------
+Staff Member:
+Start: 00:04:32.000
+End: 00:04:34.240
+Duration: 2.240 seconds
+Text: I'll let them say whatever it is they.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:04:34.240
+End: 00:04:36.440
+Duration: 2.200 seconds
+Text: Yeah, once you guys go ahead.
+--------------------------------------------------
+Staff Member:
+Start: 00:04:36.440
+End: 00:04:41.360
+Duration: 4.920 seconds
+Text: Well, good evening and we thank you for this opportunity.
+--------------------------------------------------
+Staff Member:
+Start: 00:04:41.360
+End: 00:04:42.800
+Duration: 1.440 seconds
+Text: I'm Z. U. Wiley.
+--------------------------------------------------
+Staff Member:
+Start: 00:04:42.800
+End: 00:04:44.640
+Duration: 1.840 seconds
+Text: I'm the assistant dean for diversity.
+--------------------------------------------------
+Staff Member:
+Start: 00:04:44.640
+End: 00:04:47.000
+Duration: 2.360 seconds
+Text: That's my job, but what I do at K State.
+--------------------------------------------------
+Staff Member:
+Start: 00:04:47.000
+End: 00:04:53.840
+Duration: 6.840 seconds
+Text: But in this role, I'm also the graduate advisor to the Capapite chapter of Alpha Cap Alpha Sorority Incorporated.
+--------------------------------------------------
+Staff Member:
+Start: 00:04:53.840
+End: 00:04:58.400
+Duration: 4.560 seconds
+Text: And the reason that we put the emphasis on Arbor Day right now,
+--------------------------------------------------
+Staff Member:
+Start: 00:04:58.400
+End: 00:05:05.160
+Duration: 6.760 seconds
+Text: our theme for the 2022-2026 administration is to enhance the environment.
+--------------------------------------------------
+Staff Member:
+Start: 00:05:05.160
+End: 00:05:09.360
+Duration: 4.200 seconds
+Text: And so the theme is soaring to greater heights of sisterhood and service.
+--------------------------------------------------
+Staff Member:
+Start: 00:05:09.360
+End: 00:05:14.000
+Duration: 4.640 seconds
+Text: So we're just very excited that we can partner with Manhattan Kansas.
+--------------------------------------------------
+Staff Member:
+Start: 00:05:14.000
+End: 00:05:18.560
+Duration: 4.560 seconds
+Text: We've already adopted the surgery and the truth and we've adopted it for the last eight years
+--------------------------------------------------
+Staff Member:
+Start: 00:05:18.560
+End: 00:05:22.120
+Duration: 3.560 seconds
+Text: where we clean and we do it twice a year.
+--------------------------------------------------
+Staff Member:
+Start: 00:05:22.120
+End: 00:05:26.400
+Duration: 4.280 seconds
+Text: And just so proud of Gabriela because she's the president of the undergrad chapter
+--------------------------------------------------
+Staff Member:
+Start: 00:05:26.400
+End: 00:05:30.920
+Duration: 4.520 seconds
+Text: and that she can have this energy to want to make sure that she's doing her civic duty.
+--------------------------------------------------
+Staff Member:
+Start: 00:05:30.920
+End: 00:05:32.800
+Duration: 1.880 seconds
+Text: And also Patricia Huggins.
+--------------------------------------------------
+Staff Member:
+Start: 00:05:32.800
+End: 00:05:36.520
+Duration: 3.720 seconds
+Text: She is a member of our graduate chapter, Mu Ado Megachapter,
+--------------------------------------------------
+Staff Member:
+Start: 00:05:36.520
+End: 00:05:40.040
+Duration: 3.520 seconds
+Text: where we serve Manhattan Kansas, Fort Riley, and Junction City.
+--------------------------------------------------
+Staff Member:
+Start: 00:05:40.040
+End: 00:05:43.520
+Duration: 3.480 seconds
+Text: So just such an honor to be here today and we thank you for this partnership.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:05:43.520
+End: 00:05:48.600
+Duration: 5.080 seconds
+Text: Let me go ahead and read it here and then you guys can have it.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:05:48.600
+End: 00:05:50.800
+Duration: 2.200 seconds
+Text: Whereas trees are essential to life.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:05:50.800
+End: 00:05:52.920
+Duration: 2.120 seconds
+Text: Trees reduce heating and cooling costs.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:05:52.920
+End: 00:05:57.200
+Duration: 4.280 seconds
+Text: Clean and purify the air, provides shelter and food for urban wildlife.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:05:57.200
+End: 00:05:59.440
+Duration: 2.240 seconds
+Text: And in planting and taking care of our trees,
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:05:59.440
+End: 00:06:03.640
+Duration: 4.200 seconds
+Text: an invaluable contribution is being made to the lives of future generations.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:06:03.640
+End: 00:06:07.120
+Duration: 3.480 seconds
+Text: And whereas the City of Manhattan's program of replacing,
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:06:07.120
+End: 00:06:13.000
+Duration: 5.880 seconds
+Text: replaces declining and defective trees as well as beginning tree planting in new developments,
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:06:13.000
+End: 00:06:18.800
+Duration: 5.800 seconds
+Text: this dedication to tree planting will ensure a viable urban forest resource for the future of Manhattan.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:06:18.800
+End: 00:06:23.800
+Duration: 5.000 seconds
+Text: And whereas Manhattan has been recognized as a tree city USA for the past 45 years
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:06:23.800
+End: 00:06:25.840
+Duration: 2.040 seconds
+Text: by the National Arbor Day Foundation.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:06:25.840
+End: 00:06:28.880
+Duration: 3.040 seconds
+Text: Now therefore, I'm Mark Kattasal, Mayor of the City of Manhattan.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:06:28.880
+End: 00:06:33.360
+Duration: 4.480 seconds
+Text: To hereby proclaim Friday May 5th as Arbor Day in the City of Manhattan
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:06:33.360
+End: 00:06:38.640
+Duration: 5.280 seconds
+Text: and urge all citizens to support efforts to protect and manage our trees and woodlands this year.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:06:38.640
+End: 00:06:43.480
+Duration: 4.840 seconds
+Text: The Arbor Day ceremony will be held at Sojourner Truth Park at 2pm.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:06:43.480
+End: 00:06:45.120
+Duration: 1.640 seconds
+Text: 3 o'clock on Friday.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:06:45.120
+End: 00:06:45.920
+Duration: 0.800 seconds
+Text: Here you go.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:06:45.920
+End: 00:06:47.480
+Duration: 1.560 seconds
+Text: I'll let you somebody take it.
+--------------------------------------------------
+Staff Member:
+Start: 00:06:47.480
+End: 00:06:49.480
+Duration: 2.000 seconds
+Text: I'm going to get it into your pocket.
+--------------------------------------------------
+Staff Member:
+Start: 00:06:49.480
+End: 00:06:50.480
+Duration: 1.000 seconds
+Text: OK.
+--------------------------------------------------
+Staff Member:
+Start: 00:06:50.480
+End: 00:06:51.480
+Duration: 1.000 seconds
+Text: There you go.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:51.480
+End: 00:06:53.480
+Duration: 2.000 seconds
+Text: I'm going to get it into your pocket.
+--------------------------------------------------
+Staff Member:
+Start: 00:06:53.480
+End: 00:06:54.960
+Duration: 1.480 seconds
+Text: I'm going to get it into your pocket.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:06:54.960
+End: 00:06:55.960
+Duration: 1.000 seconds
+Text: OK.
+--------------------------------------------------
+Staff Member:
+Start: 00:06:55.960
+End: 00:06:56.960
+Duration: 1.000 seconds
+Text: Give it to you.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:56.960
+End: 00:06:57.960
+Duration: 1.000 seconds
+Text: Very good.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:57.960
+End: 00:06:58.960
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:58.960
+End: 00:06:59.960
+Duration: 1.000 seconds
+Text: Very good.
+--------------------------------------------------
+Staff Member:
+Start: 00:06:59.960
+End: 00:07:00.960
+Duration: 1.000 seconds
+Text: I'll run this to the stair.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:07:00.960
+End: 00:07:01.960
+Duration: 1.000 seconds
+Text: I'll run this to the stair.
+--------------------------------------------------
+Staff Member:
+Start: 00:07:01.960
+End: 00:07:02.960
+Duration: 1.000 seconds
+Text: And here's your extra one.
+--------------------------------------------------
+Staff Member:
+Start: 00:07:02.960
+End: 00:07:03.960
+Duration: 1.000 seconds
+Text: There he is.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:07:03.960
+End: 00:07:04.960
+Duration: 1.000 seconds
+Text: There you go.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:07:04.960
+End: 00:07:05.960
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Staff Member:
+Start: 00:07:05.960
+End: 00:07:06.960
+Duration: 1.000 seconds
+Text: You bet.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:07:06.960
+End: 00:07:07.960
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:07.960
+End: 00:07:08.960
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:08.960
+End: 00:07:09.960
+Duration: 1.000 seconds
+Text: Next up is Poppy Day.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:09.960
+End: 00:07:10.960
+Duration: 1.000 seconds
+Text: Please do.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:10.960
+End: 00:07:11.960
+Duration: 1.000 seconds
+Text: Please do.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:11.960
+End: 00:07:12.960
+Duration: 1.000 seconds
+Text: OK.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:12.960
+End: 00:07:13.960
+Duration: 1.000 seconds
+Text: That's fine.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:07:13.960
+End: 00:07:15.960
+Duration: 2.000 seconds
+Text: It seems to be happening tonight.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:07:15.960
+End: 00:07:16.960
+Duration: 1.000 seconds
+Text: OK.
+--------------------------------------------------
+Staff Member:
+Start: 00:07:16.960
+End: 00:07:17.960
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Staff Member:
+Start: 00:07:17.960
+End: 00:07:18.960
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:07:18.960
+End: 00:07:19.960
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Staff Member:
+Start: 00:07:19.960
+End: 00:07:20.960
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Staff Member:
+Start: 00:07:20.960
+End: 00:07:21.960
+Duration: 1.000 seconds
+Text: Next up is Poppy Day.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:07:21.960
+End: 00:07:22.960
+Duration: 1.000 seconds
+Text: Please do.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:07:22.960
+End: 00:07:24.960
+Duration: 2.000 seconds
+Text: It seems to be happening tonight.
+--------------------------------------------------
+Staff Member:
+Start: 00:07:24.960
+End: 00:07:25.960
+Duration: 1.000 seconds
+Text: OK.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:07:25.960
+End: 00:07:26.960
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:07:26.960
+End: 00:07:27.960
+Duration: 1.000 seconds
+Text: Very good.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:07:27.960
+End: 00:07:29.960
+Duration: 2.000 seconds
+Text: We'll move on to Manhattan Bike Walk-Mont.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:07:29.960
+End: 00:07:35.960
+Duration: 6.000 seconds
+Text: And that would be Nick Sia and Dave Colburn.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:07:35.960
+End: 00:07:36.960
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:07:36.960
+End: 00:07:37.960
+Duration: 1.000 seconds
+Text: Very good.
+--------------------------------------------------
+Staff Member:
+Start: 00:07:37.960
+End: 00:07:38.960
+Duration: 1.000 seconds
+Text: There we go.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:07:38.960
+End: 00:07:39.960
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:07:39.960
+End: 00:07:46.960
+Duration: 7.000 seconds
+Text: Whereas hiking and walking as active transportation modes are clean, quiet, cost-effective, and energy-efficient,
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:07:46.960
+End: 00:07:53.960
+Duration: 7.000 seconds
+Text: methods of travel, and whereas active transportation can encourage routine exercise and improve physical and mental health.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:07:53.960
+End: 00:08:01.960
+Duration: 8.000 seconds
+Text: And whereas active transportation offers residents and tourists alike, the opportunity to experience Manhattan's parks, trails, and historic neighborhoods.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:08:01.960
+End: 00:08:10.960
+Duration: 9.000 seconds
+Text: Whereas bicyclists and pedestrians support local businesses by spending more, visiting often, and contributing to a vibrant public space.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:08:10.960
+End: 00:08:19.960
+Duration: 9.000 seconds
+Text: And whereas by the state law, bicyclists enjoy all rights and privileges of motorists to use public roads free from harassment.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:08:19.960
+End: 00:08:25.960
+Duration: 6.000 seconds
+Text: Whereas Manhattan enjoys a strong community culture of hiking and walking for transportation and recreation.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:08:25.960
+End: 00:08:37.960
+Duration: 12.000 seconds
+Text: I therefore mark how to solve the mayor of the city of Manhattan to hereby proclaim May 2023 as Manhattan Bike Walk-Mont and encourage all citizens to participate in this outstanding endeavor
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:08:37.960
+End: 00:08:40.960
+Duration: 3.000 seconds
+Text: while following appropriate safety procedures.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:08:40.960
+End: 00:08:41.960
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Staff Member:
+Start: 00:08:41.960
+End: 00:08:42.960
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Staff Member:
+Start: 00:08:42.960
+End: 00:08:43.960
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Staff Member:
+Start: 00:08:43.960
+End: 00:08:44.960
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Staff Member:
+Start: 00:08:44.960
+End: 00:08:45.960
+Duration: 1.000 seconds
+Text: Thank you guys.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:08:45.960
+End: 00:08:46.960
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:08:46.960
+End: 00:08:47.960
+Duration: 1.000 seconds
+Text: Something if you'd like.
+--------------------------------------------------
+Staff Member:
+Start: 00:08:47.960
+End: 00:08:49.960
+Duration: 2.000 seconds
+Text: Thank you, Mayor.
+--------------------------------------------------
+Staff Member:
+Start: 00:08:49.960
+End: 00:08:51.960
+Duration: 2.000 seconds
+Text: Thank you, commissioners, for your service.
+--------------------------------------------------
+Staff Member:
+Start: 00:08:51.960
+End: 00:08:58.960
+Duration: 7.000 seconds
+Text: Particularly, thank you to Usha for your service and congratulations on moving on, I guess.
+--------------------------------------------------
+Staff Member:
+Start: 00:08:58.960
+End: 00:09:06.960
+Duration: 8.000 seconds
+Text: I want to say thanks to staff behind the scenes that have supported bike infrastructure in our community for years, particularly Rob.
+--------------------------------------------------
+Staff Member:
+Start: 00:09:06.960
+End: 00:09:09.960
+Duration: 3.000 seconds
+Text: Got the ball rolling a number of years ago.
+--------------------------------------------------
+Staff Member:
+Start: 00:09:09.960
+End: 00:09:18.960
+Duration: 9.000 seconds
+Text: So cyclists of Manhattan are appreciative of the work that's been done on the infrastructure side here in Manhattan.
+--------------------------------------------------
+Staff Member:
+Start: 00:09:18.960
+End: 00:09:22.960
+Duration: 4.000 seconds
+Text: On the recreational side, we'll have our first bike month of event Friday.
+--------------------------------------------------
+Staff Member:
+Start: 00:09:22.960
+End: 00:09:33.960
+Duration: 11.000 seconds
+Text: We'll have a casual gravel bike ride riding from Zendale out to Shamrock Farms where we'll meet the camels and we'll ride on to Rob Wabunse and have some treats and then back to Zendale.
+--------------------------------------------------
+Staff Member:
+Start: 00:09:33.960
+End: 00:09:38.960
+Duration: 5.000 seconds
+Text: So you can ride a bike 20 miles, come join us on Friday.
+--------------------------------------------------
+Staff Member:
+Start: 00:09:38.960
+End: 00:09:39.960
+Duration: 1.000 seconds
+Text: Thanks.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:09:39.960
+End: 00:09:40.960
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Staff Member:
+Start: 00:09:40.960
+End: 00:09:52.960
+Duration: 12.000 seconds
+Text: I am very thankful for the culture of walking and biking here in Manhattan.
+--------------------------------------------------
+Staff Member:
+Start: 00:09:52.960
+End: 00:09:56.960
+Duration: 4.000 seconds
+Text: It's had a profound impact on the way that I see this community.
+--------------------------------------------------
+Staff Member:
+Start: 00:09:56.960
+End: 00:10:03.960
+Duration: 7.000 seconds
+Text: And I encourage everyone to take a walk or take a bike to make their day just that much better.
+--------------------------------------------------
+Staff Member:
+Start: 00:10:03.960
+End: 00:10:09.960
+Duration: 6.000 seconds
+Text: Dave, thank you for everything you've done as part of this community to advance walking and biking.
+--------------------------------------------------
+Staff Member:
+Start: 00:10:09.960
+End: 00:10:10.960
+Duration: 1.000 seconds
+Text: It wouldn't be the same without you.
+--------------------------------------------------
+Staff Member:
+Start: 00:10:10.960
+End: 00:10:14.960
+Duration: 4.000 seconds
+Text: And I forgot to thank you for the work you've done. Good luck in the future.
+--------------------------------------------------
+Staff Member:
+Start: 00:10:14.960
+End: 00:10:15.960
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:10:15.960
+End: 00:10:16.960
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:10:16.960
+End: 00:10:17.960
+Duration: 1.000 seconds
+Text: You got things.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:10:17.960
+End: 00:10:18.960
+Duration: 1.000 seconds
+Text: Next generation, there he is.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:10:18.960
+End: 00:10:19.960
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Clerk:
+Start: 00:10:19.960
+End: 00:10:20.960
+Duration: 1.000 seconds
+Text: Very good.
+--------------------------------------------------
+City Clerk:
+Start: 00:10:20.960
+End: 00:10:23.960
+Duration: 3.000 seconds
+Text: We're in business.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:10:23.960
+End: 00:10:25.960
+Duration: 2.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:10:25.960
+End: 00:10:36.960
+Duration: 11.000 seconds
+Text: The poppy day proclamation and Arya, Dryling and her fan club.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:10:36.960
+End: 00:10:37.960
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:10:37.960
+End: 00:10:38.960
+Duration: 1.000 seconds
+Text: You're welcome.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:10:38.960
+End: 00:10:42.960
+Duration: 4.000 seconds
+Text: Once you hang out here, we'll read this and we'll let you get busy selling.
+--------------------------------------------------
+Staff Member:
+Start: 00:10:42.960
+End: 00:10:43.960
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:10:43.960
+End: 00:10:49.960
+Duration: 6.000 seconds
+Text: We have Lieutenant Colonel John McCray wrote the poem in Flanders fields during World War One.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:10:49.960
+End: 00:11:03.960
+Duration: 14.000 seconds
+Text: And whereas Anna Guren of France and Moina, Michael of Georgia, worked hard to initiate the sale of artificial poppies to help orphans and others left destitute by the war and enlisted to help of the American Legion in 1920.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:11:03.960
+End: 00:11:08.960
+Duration: 5.000 seconds
+Text: The CFW adopted a poppy as its official memorial flower in 1922.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:11:08.960
+End: 00:11:21.960
+Duration: 13.000 seconds
+Text: And whereas America is the land of freedom preserved and protected willingly and freely by citizen soldiers and the millions who have answered the call to arms have died on the field of battle.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:11:21.960
+End: 00:11:27.960
+Duration: 6.000 seconds
+Text: Whereas the nation at peace must be reminded of the price of war and the debt owed to those who have died in war.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:11:27.960
+End: 00:11:39.960
+Duration: 12.000 seconds
+Text: The red poppy has been designated as a symbol of sacrifice of lives in all wars and the poppy itself continues to serve as a perpetual tribute to those who have given their lives in their nation's freedom.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:11:39.960
+End: 00:11:53.960
+Duration: 14.000 seconds
+Text: Whereas the American Legion auxiliary has pledged to remind America annually of this debt through the distribution of the memorial flower and whereas donations for these artificial poppies have helped countless veterans and their widows, widowers and orphans over the years.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:11:53.960
+End: 00:12:08.960
+Duration: 15.000 seconds
+Text: Now therefore, I mark how to solve the mayor of the city of Manhattan to hear by proclaim May 6, 2023 as poppy day and ask that all citizens pay tribute to those who have made the ultimate sacrifice in the name of freedom by wearing the memorial poppy on this day.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:12:08.960
+End: 00:12:11.960
+Duration: 3.000 seconds
+Text: I'd like to say somebody.
+--------------------------------------------------
+Staff Member:
+Start: 00:12:12.960
+End: 00:12:13.960
+Duration: 1.000 seconds
+Text: Very good.
+--------------------------------------------------
+Staff Member:
+Start: 00:12:13.960
+End: 00:12:21.960
+Duration: 8.000 seconds
+Text: I'm Susan Merchzen. I'm with the American Legion auxiliary and this is Arya Dryling.
+--------------------------------------------------
+Staff Member:
+Start: 00:12:21.960
+End: 00:12:36.960
+Duration: 15.000 seconds
+Text: She's our poppy princess for 2023 and we try and have a different poppy princess every year and she's got some things to tell you as to what qualifies her to be poppy princess and then she's going to pass poppy's out to everybody.
+--------------------------------------------------
+Staff Member:
+Start: 00:12:36.960
+End: 00:12:39.960
+Duration: 3.000 seconds
+Text: And if you don't have many tonight, that's perfectly fine.
+--------------------------------------------------
+Staff Member:
+Start: 00:12:39.960
+End: 00:12:45.960
+Duration: 6.000 seconds
+Text: Our goal is to give everybody a poppy and they are made by the veterans.
+--------------------------------------------------
+Staff Member:
+Start: 00:12:45.960
+End: 00:12:47.960
+Duration: 2.000 seconds
+Text: So we don't make them.
+--------------------------------------------------
+Staff Member:
+Start: 00:12:47.960
+End: 00:12:49.960
+Duration: 2.000 seconds
+Text: Okay. Are you?
+--------------------------------------------------
+Staff Member:
+Start: 00:12:49.960
+End: 00:12:57.960
+Duration: 8.000 seconds
+Text: Hello. My name is Arya Dryling. I am the daughter of Dustin Dryling and Kira Vanderbilt of Manhattan.
+--------------------------------------------------
+Staff Member:
+Start: 00:12:57.960
+End: 00:13:02.960
+Duration: 5.000 seconds
+Text: Currently, I am a member of the post-17 American Legion Junior auxiliary.
+--------------------------------------------------
+Staff Member:
+Start: 00:13:02.960
+End: 00:13:11.960
+Duration: 9.000 seconds
+Text: My brother Bo Leo Dryling is a member of the son of the American Legion and my dad is a member of sons of the American Legion and American Legion writers.
+--------------------------------------------------
+Staff Member:
+Start: 00:13:11.960
+End: 00:13:22.960
+Duration: 11.000 seconds
+Text: We join the American Legion family on behalf of my grandfather, Ken Colbertson, who served in the Navy during the Vietnam conflict.
+--------------------------------------------------
+Staff Member:
+Start: 00:13:22.960
+End: 00:13:27.960
+Duration: 5.000 seconds
+Text: I am very honored to be this year's poppy princess in the dressy this evening.
+--------------------------------------------------
+Staff Member:
+Start: 00:13:27.960
+End: 00:13:32.960
+Duration: 5.000 seconds
+Text: The poppy flower is a symbol of remembrance from the first world war.
+--------------------------------------------------
+Staff Member:
+Start: 00:13:32.960
+End: 00:13:41.960
+Duration: 9.000 seconds
+Text: Poppies were a common sight in France along the western front and they flourished in the fields that were ripped from fighting and shelling.
+--------------------------------------------------
+Staff Member:
+Start: 00:13:41.960
+End: 00:13:49.960
+Duration: 8.000 seconds
+Text: Many poems and stories have been written about the enduring beauty of the poppy with the most well-known being in Flandersfield.
+--------------------------------------------------
+Staff Member:
+Start: 00:13:49.960
+End: 00:13:57.960
+Duration: 8.000 seconds
+Text: Soldiers of all nations have come to look on the poppy as a symbol of the sacrifices that soldiers made in all wars.
+--------------------------------------------------
+Staff Member:
+Start: 00:13:57.960
+End: 00:14:08.960
+Duration: 11.000 seconds
+Text: When a poppy signifies honoring the dead and helping the living, the poppies that I present to you this evening were made by veterans at our nation's veterans of the administration hospitals,
+--------------------------------------------------
+Staff Member:
+Start: 00:14:08.960
+End: 00:14:20.960
+Duration: 12.000 seconds
+Text: specifically the VA facility in Topeka. The Veterans Administration Healthcare Network has roughly 1250 facilities serving of 9 million veterans per year.
+--------------------------------------------------
+Staff Member:
+Start: 00:14:20.960
+End: 00:14:30.960
+Duration: 10.000 seconds
+Text: This Saturday on poppy day volunteers from the post-17 American Legion family will be at several locations in Manhattan to hand out poppies to the public.
+--------------------------------------------------
+Staff Member:
+Start: 00:14:30.960
+End: 00:14:39.960
+Duration: 9.000 seconds
+Text: There is no cost to accept a poppy but any donation is greatfully accepted. All donations are used to help veterans and their dependents.
+--------------------------------------------------
+Staff Member:
+Start: 00:14:39.960
+End: 00:14:48.960
+Duration: 9.000 seconds
+Text: In honor of veterans of all wars, I would now like to hand out poppies and accept donations from any other able to give.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:14:48.960
+End: 00:14:50.960
+Duration: 2.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:00.960
+End: 00:15:03.960
+Duration: 3.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:30.960
+End: 00:15:39.960
+Duration: 9.000 seconds
+Text: I'm going to sign the rich yet.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:16:01.960
+End: 00:16:13.960
+Duration: 12.000 seconds
+Text: While she's continuing to pass down the poppies, we will move on to open public comment. Those wanting to make comments not related to any item on the agenda tonight can do so at this time.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:16:13.960
+End: 00:16:20.960
+Duration: 7.000 seconds
+Text: Members of the public that signed up in person will go first. If you haven't already signed up to speak, please be sure to sign in when it's your turn.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:16:20.960
+End: 00:16:27.960
+Duration: 7.000 seconds
+Text: State your name and residential address or organization representing for the record and for those listening or watching this evening.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:16:27.960
+End: 00:16:32.960
+Duration: 5.000 seconds
+Text: Each speaker has up to five minutes. You can speak only once and must stop speaking when the timer sounds.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:16:32.960
+End: 00:16:38.960
+Duration: 6.000 seconds
+Text: Neither the commissioners or the staff will answer questions or debate an issue. We will take your comments under advisement.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:16:38.960
+End: 00:16:44.960
+Duration: 6.000 seconds
+Text: We have two people that signed up. Noah, you're first. If you'd like to come up.
+--------------------------------------------------
+Staff Member:
+Start: 00:16:51.960
+End: 00:17:02.960
+Duration: 11.000 seconds
+Text: Hello. My name is Noah Rude. I live at 926. Claflin Road. And I'm representing the tenant union renters together.
+--------------------------------------------------
+Staff Member:
+Start: 00:17:02.960
+End: 00:17:13.960
+Duration: 11.000 seconds
+Text: On March 17 of this year, tenants from Royal Towers were ordered by Ryan Court Ride of Risk Reduction to vacate the building by May 1st since the building was being condemned.
+--------------------------------------------------
+Staff Member:
+Start: 00:17:13.960
+End: 00:17:19.960
+Duration: 6.000 seconds
+Text: News outlets reported on this issue and made it seem that the city was going to help tenants move and find new housing.
+--------------------------------------------------
+Staff Member:
+Start: 00:17:19.960
+End: 00:17:28.960
+Duration: 9.000 seconds
+Text: Our tenant union renters together, MHK, took it upon ourselves to go directly to tenants and speak with them about their situation and see how we could help.
+--------------------------------------------------
+Staff Member:
+Start: 00:17:28.960
+End: 00:17:37.960
+Duration: 9.000 seconds
+Text: Feeling upset and forgotten, at least 45 of the tenants formed a group on their own to try to get the attention of the public and the city.
+--------------------------------------------------
+Staff Member:
+Start: 00:17:37.960
+End: 00:17:47.960
+Duration: 10.000 seconds
+Text: After talking with a family, students, veteran, a small business owner and other tenants that have been there for many years, we were baffled at what they had to say.
+--------------------------------------------------
+Staff Member:
+Start: 00:17:47.960
+End: 00:17:57.960
+Duration: 10.000 seconds
+Text: Tenants have said this experience has been an absolute nightmare. The short notice in the middle of the school semester and the renting year has forced tenants into a desperate situation.
+--------------------------------------------------
+Staff Member:
+Start: 00:17:57.960
+End: 00:18:00.960
+Duration: 3.000 seconds
+Text: Many feared that they may become homeless.
+--------------------------------------------------
+Staff Member:
+Start: 00:18:00.960
+End: 00:18:07.960
+Duration: 7.000 seconds
+Text: As renters, we are used to slum lords letting their properties deteriorate beyond repair, harassing us and price gouging us.
+--------------------------------------------------
+Staff Member:
+Start: 00:18:07.960
+End: 00:18:14.960
+Duration: 7.000 seconds
+Text: However, what shocked us was the city's continual disregard for the safety and well-being of its residents.
+--------------------------------------------------
+Staff Member:
+Start: 00:18:14.960
+End: 00:18:23.960
+Duration: 9.000 seconds
+Text: Residents are made criminal by the issue of a $500 fine and or jail up to six months if they couldn't find housing and were unable to move out on time.
+--------------------------------------------------
+Staff Member:
+Start: 00:18:24.960
+End: 00:18:42.960
+Duration: 18.000 seconds
+Text: Residents claim that no aid was given to them. If you were to go to the City of Manhattan's official website and you go to the Royal Tower's updates under the section Social Service Assistance, you will find that it is completely blank, which seems like some kind of cruel out of season April Fool's joke.
+--------------------------------------------------
+Staff Member:
+Start: 00:18:42.960
+End: 00:18:47.960
+Duration: 5.000 seconds
+Text: Residents living on the top floors were ordered to leave thousands of dollars worth of furniture and equipment.
+--------------------------------------------------
+Staff Member:
+Start: 00:18:48.960
+End: 00:18:58.960
+Duration: 10.000 seconds
+Text: Desperate tenants were forced to leave the city, the state and seek homeless shelters. Some were fortunate enough to have an inheritance that they could tap into or a friend's couch that they could sleep on.
+--------------------------------------------------
+Staff Member:
+Start: 00:18:58.960
+End: 00:19:10.960
+Duration: 12.000 seconds
+Text: This move caused many tenants into financial devastation with one tenant reporting up to $2,000 in moving expenses alone.
+--------------------------------------------------
+Staff Member:
+Start: 00:19:10.960
+End: 00:19:18.960
+Duration: 8.000 seconds
+Text: We don't know what happened to the other tenants that didn't speak to us if they were able to find housing or not and how much this forced move cost them.
+--------------------------------------------------
+Staff Member:
+Start: 00:19:18.960
+End: 00:19:35.960
+Duration: 17.000 seconds
+Text: While tenants were in distress, frantically trying to find housing in good condition that was affordable and had at least start date within a few months of their move out date, the mayor of Manhattan, Mac, Mark, had assault, took it upon himself to go on Cayman podcast and placed the blame on tenants.
+--------------------------------------------------
+Staff Member:
+Start: 00:19:35.960
+End: 00:19:45.960
+Duration: 10.000 seconds
+Text: During a time when affordable housing is scarce and housing and poor quality is in abundance due to the city's lack of housing regulations, he stated and I quote,
+--------------------------------------------------
+Staff Member:
+Start: 00:19:45.960
+End: 00:19:52.960
+Duration: 7.000 seconds
+Text: The issue is that sometimes people will put up with stuff when they shouldn't because they need to have a place that's less expensive to stay in.
+--------------------------------------------------
+Staff Member:
+Start: 00:19:52.960
+End: 00:19:56.960
+Duration: 4.000 seconds
+Text: End quote. Cayman phrased Mark's words on their website as quote,
+--------------------------------------------------
+Staff Member:
+Start: 00:19:57.960
+End: 00:20:08.960
+Duration: 11.000 seconds
+Text: Residents should never rent a place before seeing it first and to communicate issues to their landlords noting tenants should not put up with negligence no matter how affordable a rental is.
+--------------------------------------------------
+Staff Member:
+Start: 00:20:08.960
+End: 00:20:16.960
+Duration: 8.000 seconds
+Text: End quote. Last I checked, it was the landlord and the city who holds the power to ensure housing is safe and affordable, not tenants.
+--------------------------------------------------
+Staff Member:
+Start: 00:20:16.960
+End: 00:20:29.960
+Duration: 13.000 seconds
+Text: It's incredibly easy to sit up in your ivory tower, fingerwagon victim blame renters who have little money and no power while taking no accountability for the actions you could have taken and can still take.
+--------------------------------------------------
+Staff Member:
+Start: 00:20:29.960
+End: 00:20:43.960
+Duration: 14.000 seconds
+Text: The mayor also said that the system the city has in place worked as if financially devastating tenants and threatening them with either jail and a fine or homelessness was any indication of success.
+--------------------------------------------------
+Staff Member:
+Start: 00:20:44.960
+End: 00:20:56.960
+Duration: 12.000 seconds
+Text: If you want to know the status of tenants at royal towers, you should make the effort to go and talk to them instead of making the assumption that everything worked out and that everyone lived happily ever after.
+--------------------------------------------------
+Staff Member:
+Start: 00:20:56.960
+End: 00:21:05.960
+Duration: 9.000 seconds
+Text: We demand that the city of Manhattan takes the safety and well being of its residents seriously, as well as the safety of the homes that make up our city.
+--------------------------------------------------
+Staff Member:
+Start: 00:21:05.960
+End: 00:21:16.960
+Duration: 11.000 seconds
+Text: Many tenants have expressed the need for financial reparations either from the city or the landlord as the tenants had to abruptly spend thousands of dollars just to move into new housing.
+--------------------------------------------------
+Staff Member:
+Start: 00:21:16.960
+End: 00:21:25.960
+Duration: 9.000 seconds
+Text: We hope in the future that we can have better leadership that takes accountability and holds slum lords accountable during crises like this one. That is all.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:21:26.960
+End: 00:21:34.960
+Duration: 8.000 seconds
+Text: All right, the next one on the agenda is Justin yearly.
+--------------------------------------------------
+Staff Member:
+Start: 00:21:34.960
+End: 00:21:52.960
+Duration: 18.000 seconds
+Text: Good evening, city commissioners. My name is Justin yeary. I live on a 701 North 9th street right across the street from a blue mont elementary.
+--------------------------------------------------
+Staff Member:
+Start: 00:21:53.960
+End: 00:21:59.960
+Duration: 6.000 seconds
+Text: I am here on behalf of the same organization as my friend Noah as organizer for renters together, the tenant union.
+--------------------------------------------------
+Staff Member:
+Start: 00:21:59.960
+End: 00:22:09.960
+Duration: 10.000 seconds
+Text: I am here to talk about the same topic, the royal towers. People here in the audience or the commissioners might not have known because I don't think many people went there.
+--------------------------------------------------
+Staff Member:
+Start: 00:22:10.960
+End: 00:22:23.960
+Duration: 13.000 seconds
+Text: But this Sunday royal towers at the address of 1700 North Manhattan Avenue right across the street from Kansas State University was condemned by the city for its uninhabitable and dangerous living conditions.
+--------------------------------------------------
+Staff Member:
+Start: 00:22:23.960
+End: 00:22:36.960
+Duration: 13.000 seconds
+Text: I know that this county has a commission has spent a lot of money recently. There is a set in the budget as well as I understand $25,000 for gift cards going to Aggieville businesses.
+--------------------------------------------------
+Staff Member:
+Start: 00:22:36.960
+End: 00:22:53.960
+Duration: 17.000 seconds
+Text: This council also gets a lot of money from those same businesses. Commissioner Mata, I know that you were given, I believe in 2021, a campaign donation from a Mr. Michael Hill of Hill investment and rentals as well as Mr. Ryan Brahmall.
+--------------------------------------------------
+Staff Member:
+Start: 00:22:53.960
+End: 00:23:08.960
+Duration: 15.000 seconds
+Text: So there was about $500 from each of them if I'm not mistaken. And for the record let me just say that Mr. Brahmall is the owner of Tubbies and Aggieville which is one of the business that is getting the, basically the subsidies from the city of Manhattan commission in front of you here.
+--------------------------------------------------
+Staff Member:
+Start: 00:23:08.960
+End: 00:23:20.960
+Duration: 12.000 seconds
+Text: And so they will be receiving some of those generous welfare checks for the poor starving corporations. And Mayor Butler, you too, were the recipient of $500 from the same Mr. Hill, Mr. Brahmall.
+--------------------------------------------------
+Staff Member:
+Start: 00:23:20.960
+End: 00:23:28.960
+Duration: 8.000 seconds
+Text: And not only that, you also took another $500 donation from the CFO of a large asphalt manufacturing concern located in town.
+--------------------------------------------------
+Staff Member:
+Start: 00:23:28.960
+End: 00:23:36.960
+Duration: 8.000 seconds
+Text: So I'm very glad that the mayor and the city and all of our esteemed commissioners have so much money to spend, you know, it's good to have that.
+--------------------------------------------------
+Staff Member:
+Start: 00:23:36.960
+End: 00:23:53.960
+Duration: 17.000 seconds
+Text: But I want to know why aren't you spending money to remedy the crisis created by the criminal slum lord by the name of Richard Balderamos who by the way lives in the state of South Carolina, CEO of TD Investment LLC which is slum lord front corporation.
+--------------------------------------------------
+Staff Member:
+Start: 00:23:54.960
+End: 00:24:09.960
+Duration: 15.000 seconds
+Text: So I'm guessing like maybe y'all haven't been there yet, but I have, right? So you all have not personally looked and seen the crumbling cement, the condensation forming on people's windows, walls covered in black mold.
+--------------------------------------------------
+Staff Member:
+Start: 00:24:09.960
+End: 00:24:22.960
+Duration: 13.000 seconds
+Text: People described like a black sludge coming up through the pipes and they dealt with that, right? And it just, it really, you know, I'm guessing that y'all haven't seen that because I don't see it anywhere on the agenda, right?
+--------------------------------------------------
+Staff Member:
+Start: 00:24:22.960
+End: 00:24:31.960
+Duration: 9.000 seconds
+Text: But the city inspector certainly has seen it, which is why the properties condemned, right? So as my friend Noah here said, the tenants now have nowhere to go.
+--------------------------------------------------
+Staff Member:
+Start: 00:24:31.960
+End: 00:24:39.960
+Duration: 8.000 seconds
+Text: They have no more money to spend. They're being forced out and they're forced out by the city and the government that is supposed to work for them.
+--------------------------------------------------
+Staff Member:
+Start: 00:24:39.960
+End: 00:24:46.960
+Duration: 7.000 seconds
+Text: So what are the penalties for those tenants who, you know, for one reason or another stay past the condemnation date?
+--------------------------------------------------
+Staff Member:
+Start: 00:24:46.960
+End: 00:24:57.960
+Duration: 11.000 seconds
+Text: As I understand it, according to the notices, it is a subject to a six month term in jail, a $500 fine or both. And that's per day that they're found in violation.
+--------------------------------------------------
+Staff Member:
+Start: 00:24:57.960
+End: 00:25:04.960
+Duration: 7.000 seconds
+Text: So instead of relief, the city government is sending the police, the RCPD, after these people who have done nothing wrong.
+--------------------------------------------------
+Staff Member:
+Start: 00:25:04.960
+End: 00:25:12.960
+Duration: 8.000 seconds
+Text: Why isn't the slum lord Balderamos being held accountable for creating the situation? He's ultimately the one who's responsible.
+--------------------------------------------------
+Staff Member:
+Start: 00:25:13.960
+End: 00:25:31.960
+Duration: 18.000 seconds
+Text: Where are the fines, the arrests, the jail times, the indictment for Richard Balderamos, the slum lord, whose negligence and gross disregard for human life threatens to throw all of these working class people as well as students out on the street, or even worse it could land them up in jail for doing really nothing wrong.
+--------------------------------------------------
+Staff Member:
+Start: 00:25:31.960
+End: 00:25:39.960
+Duration: 8.000 seconds
+Text: So until this moment, you know, perhaps you could say, I didn't know how bad the situation was, I didn't see it myself, but I'm here to show you and tell you that, right?
+--------------------------------------------------
+Staff Member:
+Start: 00:25:39.960
+End: 00:25:51.960
+Duration: 12.000 seconds
+Text: The city is threatening to prosecute innocent working people and students for the, sort of unquote, crime of being the tenants of the real criminal, the slum lord, Richard Balderamos, South Carolina.
+--------------------------------------------------
+Staff Member:
+Start: 00:25:52.960
+End: 00:26:13.960
+Duration: 21.000 seconds
+Text: So in conclusion, we, the members of renters together, urge the you, the city commissioners, in the strongest possible terms, to adopt a resolution, to bring relief to the tenants at royal towers, and at the same time, to work with the DA to prosecute the criminal slum lord, Richard Balderamos, for his gross neglect and disregard for human life.
+--------------------------------------------------
+Staff Member:
+Start: 00:26:13.960
+End: 00:26:17.960
+Duration: 4.000 seconds
+Text: That's all I got, thank you.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:26:17.960
+End: 00:26:22.960
+Duration: 5.000 seconds
+Text: Any other public comment on items that are not on the agenda for this evening?
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:26:22.960
+End: 00:26:25.960
+Duration: 3.000 seconds
+Text: Come on up, state your name, address.
+--------------------------------------------------
+Staff Member:
+Start: 00:26:25.960
+End: 00:26:29.960
+Duration: 4.000 seconds
+Text: Good evening, city commission of Manhattan. My name is Seamus Neal.
+--------------------------------------------------
+Staff Member:
+Start: 00:26:29.960
+End: 00:26:37.960
+Duration: 8.000 seconds
+Text: I'm a, my address is 7-8-20, Cedar Creek Road, Manhattan.
+--------------------------------------------------
+Staff Member:
+Start: 00:26:37.960
+End: 00:26:54.960
+Duration: 17.000 seconds
+Text: Last September, I had the pleasure of meeting Ron Fierre and, you know, we went over, I had an appeal that I wrote, addressed to the city commission in regards to the denial of massage therapy license.
+--------------------------------------------------
+Staff Member:
+Start: 00:26:54.960
+End: 00:27:00.960
+Duration: 6.000 seconds
+Text: So thank you for providing me the opportunity to speak before you.
+--------------------------------------------------
+Staff Member:
+Start: 00:27:00.960
+End: 00:27:13.960
+Duration: 13.000 seconds
+Text: I understand that according to the city's code section, 1961, which defines the possession of marijuana as a crime of moral turpitude, and the reason for the denial of my application.
+--------------------------------------------------
+Staff Member:
+Start: 00:27:13.960
+End: 00:27:29.960
+Duration: 16.000 seconds
+Text: However, I'm asking you to allow me the grace to offer you where the appeal with plausible reasons why these two convictions do not define my moral standing or competence as a massage therapist serving the community in the city of Manhattan.
+--------------------------------------------------
+Staff Member:
+Start: 00:27:29.960
+End: 00:27:39.960
+Duration: 10.000 seconds
+Text: To do this, I would like to allow those in the community in which I have been serving to offer valid reasons for why I'm a truly a professional massage therapist with excellent moral standing.
+--------------------------------------------------
+Staff Member:
+Start: 00:27:39.960
+End: 00:27:47.960
+Duration: 8.000 seconds
+Text: And I would like the opportunity to continue to grow and benefit the community if I'm allowed the grace to do so.
+--------------------------------------------------
+Staff Member:
+Start: 00:27:47.960
+End: 00:27:52.960
+Duration: 5.000 seconds
+Text: Following sources from the community can offer these valid reasons.
+--------------------------------------------------
+Staff Member:
+Start: 00:27:52.960
+End: 00:28:03.960
+Duration: 11.000 seconds
+Text: In 2021, my massage practice received the award for number one massage from the Mercury, the reviews for my service on Google and massage book.com are excellent.
+--------------------------------------------------
+Staff Member:
+Start: 00:28:03.960
+End: 00:28:10.960
+Duration: 7.000 seconds
+Text: And I have a returning client base that consisting of diverse and reputable community members.
+--------------------------------------------------
+Staff Member:
+Start: 00:28:10.960
+End: 00:28:15.960
+Duration: 5.000 seconds
+Text: Finally, I will provide a statement of personal growth since my convictions.
+--------------------------------------------------
+Staff Member:
+Start: 00:28:15.960
+End: 00:28:25.960
+Duration: 10.000 seconds
+Text: In 2021, I worked at Trisha Studio 24 and we received the Reader's Choice Award for Mercury number one massage.
+--------------------------------------------------
+Staff Member:
+Start: 00:28:25.960
+End: 00:28:34.960
+Duration: 9.000 seconds
+Text: At that time, I was running my business inside the Studio 24 as I'm currently, which resides outside the city of Manhattan.
+--------------------------------------------------
+Staff Member:
+Start: 00:28:34.960
+End: 00:28:45.960
+Duration: 11.000 seconds
+Text: I rent my room and I operate my business from within and I was the only massage therapist serving inside the salon at the time and still am.
+--------------------------------------------------
+Staff Member:
+Start: 00:28:45.960
+End: 00:28:51.960
+Duration: 6.000 seconds
+Text: It was my business, ST Neal Massage and Body Work, and received this recognition.
+--------------------------------------------------
+Staff Member:
+Start: 00:28:51.960
+End: 00:29:00.960
+Duration: 9.000 seconds
+Text: Receiving the award for number one massage is a clear expression from the community that I am a trusted and professional massage therapist with excellent moral standing.
+--------------------------------------------------
+Staff Member:
+Start: 00:29:01.960
+End: 00:29:05.960
+Duration: 4.000 seconds
+Text: On Google reviews, my business has excellent reviews.
+--------------------------------------------------
+Staff Member:
+Start: 00:29:05.960
+End: 00:29:15.960
+Duration: 10.000 seconds
+Text: A comment review from a client of mine from a year ago reads, Shamest is amazing, a real professional with genuine healing touch.
+--------------------------------------------------
+Staff Member:
+Start: 00:29:15.960
+End: 00:29:20.960
+Duration: 5.000 seconds
+Text: I seldom write reviews but had to do it because he was really that good.
+--------------------------------------------------
+Staff Member:
+Start: 00:29:20.960
+End: 00:29:30.960
+Duration: 10.000 seconds
+Text: He alleviated my chronic low back pain, tended to my sore leg muscles from running and I think I am on the way to being healed from an old hip injury that has bugged me for months.
+--------------------------------------------------
+Staff Member:
+Start: 00:29:30.960
+End: 00:29:35.960
+Duration: 5.000 seconds
+Text: The place is very pleasant, relaxing music, very professional approach and environment.
+--------------------------------------------------
+Staff Member:
+Start: 00:29:35.960
+End: 00:29:37.960
+Duration: 2.000 seconds
+Text: I can't recommend them enough.
+--------------------------------------------------
+Staff Member:
+Start: 00:29:37.960
+End: 00:29:45.960
+Duration: 8.000 seconds
+Text: Another comment from another client said, Shamest is amazing, I'm slowly recovering from a slip disc.
+--------------------------------------------------
+Staff Member:
+Start: 00:29:45.960
+End: 00:29:56.960
+Duration: 11.000 seconds
+Text: I walked in, walking, still been over in pain. Shamest focused on the area where it was hurting and let me tell you if you're looking for massage therapist give Shamest a try.
+--------------------------------------------------
+Staff Member:
+Start: 00:29:56.960
+End: 00:30:04.960
+Duration: 8.000 seconds
+Text: You will keep coming back. I left walking with almost no pain, practically straight up. I will definitely be a repeat customer.
+--------------------------------------------------
+Staff Member:
+Start: 00:30:04.960
+End: 00:30:07.960
+Duration: 3.000 seconds
+Text: Thank you Shamest, I almost feel human again.
+--------------------------------------------------
+Staff Member:
+Start: 00:30:08.960
+End: 00:30:17.960
+Duration: 9.000 seconds
+Text: These reviews from others left on Google for my business show that I'm a professional massage therapist changing the lives and making a difference in community.
+--------------------------------------------------
+Staff Member:
+Start: 00:30:17.960
+End: 00:30:24.960
+Duration: 7.000 seconds
+Text: Shamest is very attentive, he makes sure he's aware of your concerns and he even asks for ways to improve personally.
+--------------------------------------------------
+Staff Member:
+Start: 00:30:24.960
+End: 00:30:28.960
+Duration: 4.000 seconds
+Text: Somehow always makes each experience better than the last.
+--------------------------------------------------
+Staff Member:
+Start: 00:30:28.960
+End: 00:30:40.960
+Duration: 12.000 seconds
+Text: It allows me to listen and will continue to utilize massage services available and highly recommend Estineal Massage and Bodywork.
+--------------------------------------------------
+Staff Member:
+Start: 00:30:40.960
+End: 00:30:51.960
+Duration: 11.000 seconds
+Text: These reviews can be found on Google and MassageBook and the fact that Estineal and Massage and Bodywork has excellent reviews with positive feedback from people in the community.
+--------------------------------------------------
+Staff Member:
+Start: 00:30:51.960
+End: 00:30:58.960
+Duration: 7.000 seconds
+Text: I'm glad to have the sign that my service is reputable and trusted and I'm viewed as an excellent massage therapist with moral standing.
+--------------------------------------------------
+Staff Member:
+Start: 00:30:58.960
+End: 00:31:17.960
+Duration: 19.000 seconds
+Text: I have a diverse and reputable client base ranging from professionals of paramedics, first responders, both male and female teachers, those with chronic injuries, those that suffer from anxiety and depression, ADHD.
+--------------------------------------------------
+Staff Member:
+Start: 00:31:17.960
+End: 00:31:32.960
+Duration: 15.000 seconds
+Text: I have a client base, I humbly serve without discrimination and the fact that I have been chosen to serve them, whether it's for reading a good review online, word of mouth or...
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:31:32.960
+End: 00:31:35.960
+Duration: 3.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:31:35.960
+End: 00:32:05.960
+Duration: 30.000 seconds
+Text: I'm not a doctor, I'm just a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor, I'm a doctor
+--------------------------------------------------
+Staff Member:
+Start: 00:32:05.960
+End: 00:32:27.960
+Duration: 22.000 seconds
+Text: Yes, people did live there, I was personally affected by this sudden shutdown of my humble abode and then it was paraded and made fun of and no help was given to any of my neighbors or myself
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:32:27.960
+End: 00:32:39.960
+Duration: 12.000 seconds
+Text: I am outraged and I am terrified
+--------------------------------------------------
+Staff Member:
+Start: 00:32:39.960
+End: 00:32:49.960
+Duration: 10.000 seconds
+Text: The landlord did not reach out to me any time during the move out process
+--------------------------------------------------
+Staff Member:
+Start: 00:32:49.960
+End: 00:32:53.960
+Duration: 4.000 seconds
+Text: Did you guys know that?
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:32:57.960
+End: 00:33:03.960
+Duration: 6.000 seconds
+Text: They still charged me rent from May 3rd
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:33:13.160
+End: 00:33:15.160
+Duration: 2.000 seconds
+Text: Thank you
+--------------------------------------------------
+City Clerk:
+Start: 00:33:15.160
+End: 00:33:17.160
+Duration: 2.000 seconds
+Text: Thank you
+--------------------------------------------------
+Staff Member:
+Start: 00:33:17.160
+End: 00:33:25.160
+Duration: 8.000 seconds
+Text: Shamus and Alfonso could you sign in at the podium please
+--------------------------------------------------
+City Clerk:
+Start: 00:33:45.160
+End: 00:33:47.160
+Duration: 2.000 seconds
+Text: Thank you
+--------------------------------------------------
+City Clerk:
+Start: 00:34:15.160
+End: 00:34:17.160
+Duration: 2.000 seconds
+Text: Thank you
+--------------------------------------------------
+City Clerk:
+Start: 00:34:45.160
+End: 00:34:47.160
+Duration: 2.000 seconds
+Text: Thank you
+--------------------------------------------------
+City Clerk:
+Start: 00:34:47.160
+End: 00:34:49.160
+Duration: 2.000 seconds
+Text: Thank you
+--------------------------------------------------
+City Clerk:
+Start: 00:34:49.160
+End: 00:34:51.160
+Duration: 2.000 seconds
+Text: Thank you
+--------------------------------------------------
+City Clerk:
+Start: 00:34:51.160
+End: 00:34:53.160
+Duration: 2.000 seconds
+Text: Thank you
+--------------------------------------------------
+City Clerk:
+Start: 00:34:53.160
+End: 00:34:55.160
+Duration: 2.000 seconds
+Text: Thank you
+--------------------------------------------------
+City Clerk:
+Start: 00:34:55.160
+End: 00:34:57.160
+Duration: 2.000 seconds
+Text: Thank you
+--------------------------------------------------
+City Clerk:
+Start: 00:34:57.160
+End: 00:34:59.160
+Duration: 2.000 seconds
+Text: Thank you
+--------------------------------------------------
+Staff Member:
+Start: 00:34:59.160
+End: 00:35:07.160
+Duration: 8.000 seconds
+Text: Good evening my name is Melissa Morrell I live at 1772 Castle
+--------------------------------------------------
+Staff Member:
+Start: 00:35:07.160
+End: 00:35:11.160
+Duration: 4.000 seconds
+Text: I'm the project director for the Menat and Area Risk Prevention Coalition
+--------------------------------------------------
+Staff Member:
+Start: 00:35:11.160
+End: 00:35:17.160
+Duration: 6.000 seconds
+Text: Instead of saying that whole long name again I'm just going to say Marpsie
+--------------------------------------------------
+Staff Member:
+Start: 00:35:17.160
+End: 00:35:19.160
+Duration: 2.000 seconds
+Text: So you guys know what it means
+--------------------------------------------------
+Staff Member:
+Start: 00:35:19.160
+End: 00:35:31.160
+Duration: 12.000 seconds
+Text: Since 2013 I'm a lifetime resident Manhattan as well as my husband and we have raised two children in the community
+--------------------------------------------------
+Staff Member:
+Start: 00:35:31.160
+End: 00:35:39.160
+Duration: 8.000 seconds
+Text: The Coalition is made up of representatives of the USD 383 Manhattan Ogden schools
+--------------------------------------------------
+Staff Member:
+Start: 00:35:39.160
+End: 00:35:45.160
+Duration: 6.000 seconds
+Text: Fort Riley, K-State, Boys and Girls Club, UFM, Pony Mental Health Services
+--------------------------------------------------
+Staff Member:
+Start: 00:35:45.160
+End: 00:35:49.160
+Duration: 4.000 seconds
+Text: The Health Department and RCPD
+--------------------------------------------------
+Staff Member:
+Start: 00:35:49.160
+End: 00:35:53.160
+Duration: 4.000 seconds
+Text: Among many others in the community
+--------------------------------------------------
+Staff Member:
+Start: 00:35:53.160
+End: 00:36:01.160
+Duration: 8.000 seconds
+Text: The mission is to reduce risky behaviors through prevention education, community collaboration and other drug-free community
+--------------------------------------------------
+Staff Member:
+Start: 00:36:01.160
+End: 00:36:07.160
+Duration: 6.000 seconds
+Text: Or similar evidence-based strategies
+--------------------------------------------------
+Staff Member:
+Start: 00:36:07.160
+End: 00:36:15.160
+Duration: 8.000 seconds
+Text: We currently have a multi-year federal drug-free community's grant that focuses on ages 12 to 20
+--------------------------------------------------
+Staff Member:
+Start: 00:36:15.160
+End: 00:36:23.160
+Duration: 8.000 seconds
+Text: It encourages us to work closely within our schools and with our leadership to reduce substance abuse
+--------------------------------------------------
+Staff Member:
+Start: 00:36:23.160
+End: 00:36:27.160
+Duration: 4.000 seconds
+Text: Our collaboration with the school district has been critical for our work here in Manhattan
+--------------------------------------------------
+Staff Member:
+Start: 00:36:27.160
+End: 00:36:39.160
+Duration: 12.000 seconds
+Text: Over the years we have worked with the school's prevention programs to hold our events such as sticker shock, media campaigns, data analysis and evaluation efforts
+--------------------------------------------------
+Staff Member:
+Start: 00:36:39.160
+End: 00:36:49.160
+Duration: 10.000 seconds
+Text: We have made all-cott presentations that we have made available for our school district secondary faculty as well as during a parent-night presentation
+--------------------------------------------------
+Staff Member:
+Start: 00:36:49.160
+End: 00:36:59.160
+Duration: 10.000 seconds
+Text: We have worked together to educate parents on the dangers that drugs pose to their children and these efforts have been critical to increase wellness while saving lives
+--------------------------------------------------
+Staff Member:
+Start: 00:36:59.160
+End: 00:37:11.160
+Duration: 12.000 seconds
+Text: In addition to collaborating with the schools on education, our coalition relies on the school's commitment to participation in the Kansas communities that care surveys
+--------------------------------------------------
+Staff Member:
+Start: 00:37:11.160
+End: 00:37:17.160
+Duration: 6.000 seconds
+Text: Our coalition relies on this youth data to complete our community needs assessment each year
+--------------------------------------------------
+Staff Member:
+Start: 00:37:17.160
+End: 00:37:21.160
+Duration: 4.000 seconds
+Text: This is a critical part of the substance abuse prevention work we do
+--------------------------------------------------
+Staff Member:
+Start: 00:37:21.160
+End: 00:37:33.160
+Duration: 12.000 seconds
+Text: The school is able to participate in this survey as a direct result with their special alcohol grant funds that are given out
+--------------------------------------------------
+Staff Member:
+Start: 00:37:33.160
+End: 00:37:45.160
+Duration: 12.000 seconds
+Text: Through the special alcohol grants money that the City Commission has gotten rid of that
+--------------------------------------------------
+Staff Member:
+Start: 00:37:45.160
+End: 00:37:55.160
+Duration: 10.000 seconds
+Text: The City Alcohol and the special advisory you have dissolved both of those and you have just made one committee from that
+--------------------------------------------------
+Staff Member:
+Start: 00:37:55.160
+End: 00:38:01.160
+Duration: 6.000 seconds
+Text: I'm also a parent of two adult children who went to Panda Pre-School Marlatt Elementary
+--------------------------------------------------
+Staff Member:
+Start: 00:38:01.160
+End: 00:38:09.160
+Duration: 8.000 seconds
+Text: When my children attended Marlatt they graduated from sixth grade to seventh grade with the Life Skills program
+--------------------------------------------------
+Staff Member:
+Start: 00:38:09.160
+End: 00:38:15.160
+Duration: 6.000 seconds
+Text: This is an evidence based program that USD383 uses as part of their City Alcohol Grant
+--------------------------------------------------
+Staff Member:
+Start: 00:38:15.160
+End: 00:38:19.160
+Duration: 4.000 seconds
+Text: Both of my children graduated from Manhattan High as well
+--------------------------------------------------
+Staff Member:
+Start: 00:38:19.160
+End: 00:38:25.160
+Duration: 6.000 seconds
+Text: But in 2018 my daughter was diagnosed with a massive brain tumor
+--------------------------------------------------
+Staff Member:
+Start: 00:38:25.160
+End: 00:38:30.160
+Duration: 5.000 seconds
+Text: I did not feel safe with her attending school with her medical condition
+--------------------------------------------------
+Staff Member:
+Start: 00:38:30.160
+End: 00:38:34.160
+Duration: 4.000 seconds
+Text: But please know that I've always been involved with their schools
+--------------------------------------------------
+Staff Member:
+Start: 00:38:34.160
+End: 00:38:46.160
+Duration: 12.000 seconds
+Text: I was involved in any way that I, you know, if a parent wants to know what's going on in their kids' school lives, get involved
+--------------------------------------------------
+Staff Member:
+Start: 00:38:46.160
+End: 00:38:54.160
+Duration: 8.000 seconds
+Text: And that's what I did. I got involved with my kids' classrooms, I got involved with their schools
+--------------------------------------------------
+Staff Member:
+Start: 00:38:54.160
+End: 00:39:04.160
+Duration: 10.000 seconds
+Text: And so I also worked in Manhattan High under Dr. Hardy and I saw everything that happened in the day in the life of a high school
+--------------------------------------------------
+Staff Member:
+Start: 00:39:04.160
+End: 00:39:07.160
+Duration: 3.000 seconds
+Text: And so that was very eye-opening for me
+--------------------------------------------------
+Staff Member:
+Start: 00:39:07.160
+End: 00:39:14.160
+Duration: 7.000 seconds
+Text: And I have directly witnessed the need for continued education in prevention at our high school
+--------------------------------------------------
+Staff Member:
+Start: 00:39:14.160
+End: 00:39:22.160
+Duration: 8.000 seconds
+Text: And with our ninth graders going up to our high school next year, that education needs to be continued
+--------------------------------------------------
+Staff Member:
+Start: 00:39:22.160
+End: 00:39:27.160
+Duration: 5.000 seconds
+Text: So I'm concerned that the Special Alcohol Fund's committee has been dissolved
+--------------------------------------------------
+Staff Member:
+Start: 00:39:27.160
+End: 00:39:33.160
+Duration: 6.000 seconds
+Text: And it's my wish that the school district and other funded agencies continue to get that grant funding
+--------------------------------------------------
+Staff Member:
+Start: 00:39:33.160
+End: 00:39:45.160
+Duration: 12.000 seconds
+Text: Our coalition and federal grant rely on our partnership with the schools and without these funds, our communities, families, and our children will not receive the support that they need and deserve
+--------------------------------------------------
+Staff Member:
+Start: 00:39:45.160
+End: 00:39:51.160
+Duration: 6.000 seconds
+Text: This is a time that youth are struggling with stressors, including those resulting from COVID
+--------------------------------------------------
+Staff Member:
+Start: 00:39:51.160
+End: 00:39:55.160
+Duration: 4.000 seconds
+Text: We need that Special Alcohol Funds to continue to focus on education
+--------------------------------------------------
+Staff Member:
+Start: 00:39:55.160
+End: 00:40:03.160
+Duration: 8.000 seconds
+Text: With the rise of deadly drugs like fentanyl, that is not a time to dismantle a critical school program
+--------------------------------------------------
+Staff Member:
+Start: 00:40:03.160
+End: 00:40:05.160
+Duration: 2.000 seconds
+Text: Good, nice, that's loud
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:40:05.160
+End: 00:40:07.160
+Duration: 2.000 seconds
+Text: All right, good timing
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:40:07.160
+End: 00:40:12.160
+Duration: 5.000 seconds
+Text: Is there anybody else who would like to comment on an item that's not on the agenda for this evening?
+--------------------------------------------------
+City Clerk:
+Start: 00:40:15.160
+End: 00:40:19.160
+Duration: 4.000 seconds
+Text: Okay
+--------------------------------------------------
+City Clerk:
+Start: 00:40:19.160
+End: 00:40:23.160
+Duration: 4.000 seconds
+Text: Oh, no
+--------------------------------------------------
+City Clerk:
+Start: 00:40:23.160
+End: 00:40:27.160
+Duration: 4.000 seconds
+Text: No, no
+--------------------------------------------------
+City Clerk:
+Start: 00:40:45.160
+End: 00:40:49.160
+Duration: 4.000 seconds
+Text: All right
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:40:49.160
+End: 00:40:53.160
+Duration: 4.000 seconds
+Text: Good evening
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:40:53.160
+End: 00:40:59.160
+Duration: 6.000 seconds
+Text: My name is Tyrone Townsend, address is 8857 elderberry run, Manhattan, Kansas
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:40:59.160
+End: 00:41:01.160
+Duration: 2.000 seconds
+Text: Thank you for having me here today
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:41:01.160
+End: 00:41:07.160
+Duration: 6.000 seconds
+Text: I'm here to talk about or advocate at least for that city alcohol grant that was just discussed
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:41:07.160
+End: 00:41:13.160
+Duration: 6.000 seconds
+Text: I'm a former police officer with the Roddy County Police Department where I served for nearly nine years
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:41:13.160
+End: 00:41:19.160
+Duration: 6.000 seconds
+Text: While still in the police department, I went back to school to earn my master's in clinical mental health counseling
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:41:19.160
+End: 00:41:23.160
+Duration: 4.000 seconds
+Text: I now on a private practice where I treat clients with mental health and substance use disorders
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:41:23.160
+End: 00:41:32.160
+Duration: 9.000 seconds
+Text: While at the police department, I spent two years from 2017 to 2019 as the school resource officer in Manhattan High School
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:41:32.160
+End: 00:41:37.160
+Duration: 5.000 seconds
+Text: My role was that of protection, education, and also a mentor to those students
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:41:37.160
+End: 00:41:40.160
+Duration: 3.000 seconds
+Text: That mentorship portion is important
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:41:40.160
+End: 00:41:48.160
+Duration: 8.000 seconds
+Text: I was able to build trust and report with many students who opened up about their home lives and how substance use affected them
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:41:48.160
+End: 00:41:54.160
+Duration: 6.000 seconds
+Text: Students would seek options for substance use or alcohol treatment for the family members initially, at least that's like
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:41:54.160
+End: 00:41:56.160
+Duration: 2.000 seconds
+Text: Again, that's how it started
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:41:56.160
+End: 00:42:00.160
+Duration: 4.000 seconds
+Text: Once more, trust was gained, students would seek help for themselves
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:42:00.160
+End: 00:42:04.160
+Duration: 4.000 seconds
+Text: One point of contention for me was always resources
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:42:04.160
+End: 00:42:06.160
+Duration: 2.000 seconds
+Text: I just didn't have enough
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:42:06.160
+End: 00:42:12.160
+Duration: 6.000 seconds
+Text: What was, I legally and functionally able to do as a police officer?
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:42:12.160
+End: 00:42:16.160
+Duration: 4.000 seconds
+Text: Basically, what was within my scope as we say as counselors?
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:42:16.160
+End: 00:42:22.160
+Duration: 6.000 seconds
+Text: I could provide education to them from a law enforcement perspective as well as from the substance use disorder lens
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:42:22.160
+End: 00:42:26.160
+Duration: 4.000 seconds
+Text: But I was not yet a licensed counselor or a Dictionist counselor
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:42:26.160
+End: 00:42:28.160
+Duration: 2.000 seconds
+Text: I needed more, I need more help
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:42:28.160
+End: 00:42:35.160
+Duration: 7.000 seconds
+Text: I needed a resource such as Kari, whose students could talk to and be heard in directed plan of action
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:42:35.160
+End: 00:42:39.160
+Duration: 4.000 seconds
+Text: And she's a Dictionist counselor, she's here today, Kari
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:42:39.160
+End: 00:42:45.160
+Duration: 6.000 seconds
+Text: Men had in high school is a beautiful school with so many wonderful students, teachers, and staff
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:42:45.160
+End: 00:42:50.160
+Duration: 5.000 seconds
+Text: What it is not is without addiction and substance use
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:42:50.160
+End: 00:42:57.160
+Duration: 7.000 seconds
+Text: Because substance use affects multiple layers of functioning, it takes a multi-dimensional approach to treatment
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:42:57.160
+End: 00:43:04.160
+Duration: 7.000 seconds
+Text: The medical model considers substance use disorders to be a lifelong, chronic, and relapsing condition
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:43:04.160
+End: 00:43:10.160
+Duration: 6.000 seconds
+Text: Therefore, a person with the substance use disorder is never considered cured
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:43:10.160
+End: 00:43:16.160
+Duration: 6.000 seconds
+Text: Only in remission, recovering, or non-practicing
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:43:16.160
+End: 00:43:20.160
+Duration: 4.000 seconds
+Text: Which is why a treatment program within the school is so vital
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:43:20.160
+End: 00:43:26.160
+Duration: 6.000 seconds
+Text: It's something I did not have growing up in Kansas City, Kansas, USD 500
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:43:26.160
+End: 00:43:28.160
+Duration: 2.000 seconds
+Text: The statistics are out there for you to research
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:43:28.160
+End: 00:43:32.160
+Duration: 4.000 seconds
+Text: I want more of you here today with them, that's not my role
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:43:32.160
+End: 00:43:40.160
+Duration: 8.000 seconds
+Text: What I do want to share is what I see when students do not have access to resource for substance use
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:43:40.160
+End: 00:43:44.160
+Duration: 4.000 seconds
+Text: Again, remember, I was a school cop, so I saw it, first hand
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:43:44.160
+End: 00:43:47.160
+Duration: 3.000 seconds
+Text: When that happens, few things happen
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:43:47.160
+End: 00:43:58.160
+Duration: 11.000 seconds
+Text: One, fillings of being a burden or exhausted to the quote others in their lives, which include family members and friends, become the norm
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:43:58.160
+End: 00:44:08.160
+Duration: 10.000 seconds
+Text: Exhausted from doing so, for doing as much self and inner word as they can, or what we call burnout, just fatigue
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:44:08.160
+End: 00:44:12.160
+Duration: 4.000 seconds
+Text: You can only do so much, and remember we're talking about kids
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:44:12.160
+End: 00:44:16.160
+Duration: 4.000 seconds
+Text: Ultimately, what happens is they give up, and that presents at many different levels
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:44:16.160
+End: 00:44:27.160
+Duration: 11.000 seconds
+Text: It can be withdrawal, again relapse, it can be acting out, poor grades, it can even lead to, in some instances, self-harm and suicide
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:44:27.160
+End: 00:44:39.160
+Duration: 12.000 seconds
+Text: What that looks like to each individual is different, but what I can tell you from experience, and those kids, is that they feel abandoned, rejected and not valued
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:44:39.160
+End: 00:44:47.160
+Duration: 8.000 seconds
+Text: I realize that that is not the implicit intention of anyone making these decisions today and in the future
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:44:47.160
+End: 00:44:51.160
+Duration: 4.000 seconds
+Text: I won't play politics, I have no idea
+--------------------------------------------------
+Tyrone Townsend:
+Start: 00:44:51.160
+End: 00:45:06.160
+Duration: 15.000 seconds
+Text: But while that may be true, and I tell my clients this all the time, remember it's not always the intention, but the impact of our experiences and decisions that in the end matter
+--------------------------------------------------
+Staff Member:
+Start: 00:45:06.160
+End: 00:45:09.160
+Duration: 3.000 seconds
+Text: Thank you
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:45:09.160
+End: 00:45:15.160
+Duration: 6.000 seconds
+Text: Thank you, anybody else for items not on the agenda
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:45:15.160
+End: 00:45:25.160
+Duration: 10.000 seconds
+Text: We'll go ahead and close the public comment portion, and we will circle back to the one recognition Mr. Jankovich, if you want to come up here
+--------------------------------------------------
+City Clerk:
+Start: 00:45:25.160
+End: 00:45:32.160
+Duration: 7.000 seconds
+Text: Thank you
+--------------------------------------------------
+City Clerk:
+Start: 00:45:32.160
+End: 00:45:40.160
+Duration: 8.000 seconds
+Text: You have the mic, okay
+--------------------------------------------------
+Staff Member:
+Start: 00:45:40.160
+End: 00:45:47.160
+Duration: 7.000 seconds
+Text: So my apologies to the commission and to the audience being a little bit late, it was kind of a year and a day today at work
+--------------------------------------------------
+Staff Member:
+Start: 00:45:47.160
+End: 00:45:54.160
+Duration: 7.000 seconds
+Text: And I had to go change and come back, so I apologize for rearranging the calendar a little better, the schedule
+--------------------------------------------------
+Staff Member:
+Start: 00:45:54.160
+End: 00:46:00.160
+Duration: 6.000 seconds
+Text: Since I sat up there, I know how hard it is to let those things go, so I appreciate the opportunity
+--------------------------------------------------
+Staff Member:
+Start: 00:46:00.160
+End: 00:46:09.160
+Duration: 9.000 seconds
+Text: So on behalf of the Flint Hills, excuse me, the Central Kansas, Fort Riley chapter of AUSA, which is a national organization voice of the Army
+--------------------------------------------------
+Staff Member:
+Start: 00:46:09.160
+End: 00:46:19.160
+Duration: 10.000 seconds
+Text: We did a presentation on April 4th, or excuse me, April 3rd, to our community partners and recognition of many years of service and support
+--------------------------------------------------
+Staff Member:
+Start: 00:46:19.160
+End: 00:46:31.160
+Duration: 12.000 seconds
+Text: And this is the second longest support for our chapter and for our soldiers, families, veterans, reserve and guard in our area
+--------------------------------------------------
+Staff Member:
+Start: 00:46:31.160
+End: 00:46:35.160
+Duration: 4.000 seconds
+Text: We do have a couple of 50 years, but 36 years is quite a long time
+--------------------------------------------------
+Staff Member:
+Start: 00:46:35.160
+End: 00:46:40.160
+Duration: 5.000 seconds
+Text: Unfortunately, the mayor was unable to be there, oh, because it was a Tuesday night
+--------------------------------------------------
+Staff Member:
+Start: 00:46:40.160
+End: 00:46:45.160
+Duration: 5.000 seconds
+Text: So I was asked to come in and present this in person
+--------------------------------------------------
+Staff Member:
+Start: 00:46:45.160
+End: 00:46:52.160
+Duration: 7.000 seconds
+Text: We had Ben Kerns represent the city that night, which was awesome as a veteran of both the division and from the Army itself
+--------------------------------------------------
+Staff Member:
+Start: 00:46:52.160
+End: 00:46:57.160
+Duration: 5.000 seconds
+Text: So on behalf of our chapter and the national, thank you very much for your support
+--------------------------------------------------
+Staff Member:
+Start: 00:46:57.160
+End: 00:47:01.160
+Duration: 4.000 seconds
+Text: And what goes with it, he also gets a challenge going with this
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:47:01.160
+End: 00:47:03.160
+Duration: 2.000 seconds
+Text: Thank you
+--------------------------------------------------
+Staff Member:
+Start: 00:47:15.160
+End: 00:47:17.160
+Duration: 2.000 seconds
+Text: Thank you, appreciate your support
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:47:17.160
+End: 00:47:35.160
+Duration: 18.000 seconds
+Text: I'm personally, I got my 13 year plaque for my corporate membership, so it's one of the easier things that you can do to help provide support for Fort Riley and the Army in the area because of all the different programs and projects they do working with the soldiers and their families
+--------------------------------------------------
+Staff Member:
+Start: 00:47:35.160
+End: 00:47:47.160
+Duration: 12.000 seconds
+Text: No, it's just been great working with the chapter over the years and making sure where the focus in the community is keeping Fort Riley strong
+--------------------------------------------------
+Staff Member:
+Start: 00:47:47.160
+End: 00:47:49.160
+Duration: 2.000 seconds
+Text: Thank you very much
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:47:49.160
+End: 00:48:04.160
+Duration: 15.000 seconds
+Text: All right, the next item on the agenda is Commissioner comments if we'll start down on the end with Commissioner Morse
+--------------------------------------------------
+Staff Member:
+Start: 00:48:04.160
+End: 00:48:06.160
+Duration: 2.000 seconds
+Text: Yes, thank you
+--------------------------------------------------
+Staff Member:
+Start: 00:48:06.160
+End: 00:48:12.160
+Duration: 6.000 seconds
+Text: I'd like to just call attention to the service, the 10 years of service by Yusha Reddy
+--------------------------------------------------
+Staff Member:
+Start: 00:48:12.160
+End: 00:48:22.160
+Duration: 10.000 seconds
+Text: Who is spending her last hours as a city commissioner? She has been wearing a dual hat for several months now as a state senator
+--------------------------------------------------
+Staff Member:
+Start: 00:48:22.160
+End: 00:48:30.160
+Duration: 8.000 seconds
+Text: And we have not sufficiently celebrated her success as far as I'm concerned
+--------------------------------------------------
+Staff Member:
+Start: 00:48:30.160
+End: 00:48:38.160
+Duration: 8.000 seconds
+Text: And so I'm happy to call attention to the work that she has done in the community for these 10 years
+--------------------------------------------------
+Staff Member:
+Start: 00:48:38.160
+End: 00:48:47.160
+Duration: 9.000 seconds
+Text: It is selfless, she has been a champion of, quite frankly, low income and disadvantaged people
+--------------------------------------------------
+Staff Member:
+Start: 00:48:47.160
+End: 00:48:57.160
+Duration: 10.000 seconds
+Text: When no other voice on this commission did and I just think that she has done an excellent job and I want to call attention to her service
+--------------------------------------------------
+Staff Member:
+Start: 00:48:57.160
+End: 00:49:05.160
+Duration: 8.000 seconds
+Text: And we wish you well, we know, we will see you because you're so active and involved in our community, we will see you often, I'm sure
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:49:05.160
+End: 00:49:08.160
+Duration: 3.000 seconds
+Text: Very good, thank you Commissioner Madhav, anything?
+--------------------------------------------------
+Staff Member:
+Start: 00:49:08.160
+End: 00:49:12.160
+Duration: 4.000 seconds
+Text: We should just want to wish you well as you go forward
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:49:12.160
+End: 00:49:15.160
+Duration: 3.000 seconds
+Text: Thank you, go ahead
+--------------------------------------------------
+Staff Member:
+Start: 00:49:15.160
+End: 00:49:19.160
+Duration: 4.000 seconds
+Text: Thank you, I'm sorry to believe it's my last meeting
+--------------------------------------------------
+Staff Member:
+Start: 00:49:19.160
+End: 00:49:25.160
+Duration: 6.000 seconds
+Text: I think it's become a habit for Tuesday nights to be getting ready and prepped for city commission
+--------------------------------------------------
+Staff Member:
+Start: 00:49:25.160
+End: 00:49:29.160
+Duration: 4.000 seconds
+Text: And I think I will miss the public comment we had tonight
+--------------------------------------------------
+Staff Member:
+Start: 00:49:29.160
+End: 00:49:37.160
+Duration: 8.000 seconds
+Text: We don't see that much in Topeka but we just sort of a variety of issues in the matter of 30 minutes or so that weren't on our agenda
+--------------------------------------------------
+Staff Member:
+Start: 00:49:37.160
+End: 00:49:41.160
+Duration: 4.000 seconds
+Text: So I'll miss those types of, that type of community involvement
+--------------------------------------------------
+Staff Member:
+Start: 00:49:41.160
+End: 00:49:46.160
+Duration: 5.000 seconds
+Text: And I just want to say it's been a pleasure to serve for the past 10 years on the city commission
+--------------------------------------------------
+Staff Member:
+Start: 00:49:46.160
+End: 00:49:52.160
+Duration: 6.000 seconds
+Text: From April 2013 to almost the end of April of 2023
+--------------------------------------------------
+Staff Member:
+Start: 00:49:52.160
+End: 00:50:00.160
+Duration: 8.000 seconds
+Text: And we have a great city staff, great partners in our community and an extraordinary individuals that always step up
+--------------------------------------------------
+Staff Member:
+Start: 00:50:00.160
+End: 00:50:05.160
+Duration: 5.000 seconds
+Text: And this has set a great foundation for me to serve better in the Senate
+--------------------------------------------------
+Staff Member:
+Start: 00:50:05.160
+End: 00:50:18.160
+Duration: 13.000 seconds
+Text: I think it's extremely important was that legislators make all of these decisions, how it impacts our community, whether it's our police department, our fire department, parks and rec, or public works, whatever it might be
+--------------------------------------------------
+Staff Member:
+Start: 00:50:18.160
+End: 00:50:25.160
+Duration: 7.000 seconds
+Text: There's so many decisions that are being made all the time and I think people forget the impact to the local resident
+--------------------------------------------------
+Staff Member:
+Start: 00:50:25.160
+End: 00:50:37.160
+Duration: 12.000 seconds
+Text: It's great, it's been great to be part of Manhattan as it continues to grow and it's been a joy to be part of a lot of the vibrant economic development issues that we had going on as projects
+--------------------------------------------------
+Staff Member:
+Start: 00:50:37.160
+End: 00:50:44.160
+Duration: 7.000 seconds
+Text: And I hope people step up to run for office, you know, local governments is sometimes difficult, sometimes becomes very personal
+--------------------------------------------------
+Staff Member:
+Start: 00:50:44.160
+End: 00:50:51.160
+Duration: 7.000 seconds
+Text: But it's always a joy and you see the impact right away because people tell you about it whether it's good or bad, you will know immediately
+--------------------------------------------------
+Staff Member:
+Start: 00:50:51.160
+End: 00:50:59.160
+Duration: 8.000 seconds
+Text: And I know representation matters, I hope I have served with respect to my counterparts all these years
+--------------------------------------------------
+Staff Member:
+Start: 00:50:59.160
+End: 00:51:05.160
+Duration: 6.000 seconds
+Text: And I hope I live with integrity and represented the city of Manhattan in a dicking a fight manner and I hope to do so in the future
+--------------------------------------------------
+Staff Member:
+Start: 00:51:05.160
+End: 00:51:11.160
+Duration: 6.000 seconds
+Text: It is hard to believe like I said this is my last meeting and I'll continue to watch and be on top of everything
+--------------------------------------------------
+Staff Member:
+Start: 00:51:11.160
+End: 00:51:16.160
+Duration: 5.000 seconds
+Text: And reach out to everybody here when I need assistance in Topeka or around in the community
+--------------------------------------------------
+Staff Member:
+Start: 00:51:16.160
+End: 00:51:23.160
+Duration: 7.000 seconds
+Text: Thank you once again for electing me and after a German it will be my last goodbye
+--------------------------------------------------
+City Clerk:
+Start: 00:51:23.160
+End: 00:51:24.160
+Duration: 1.000 seconds
+Text: Thanks
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:51:24.160
+End: 00:51:36.160
+Duration: 12.000 seconds
+Text: I would just like to add that we've had kind of an anti-Nenskalea Ruth Bader Ginsburg type relationship over the years
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:51:36.160
+End: 00:51:43.160
+Duration: 7.000 seconds
+Text: We've just differ on policies but there's no reason we can't be cordial respectful and friends
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:51:43.160
+End: 00:51:47.160
+Duration: 4.000 seconds
+Text: We'll see you at the next bourbon club I hope when the time comes
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:51:47.160
+End: 00:52:00.160
+Duration: 13.000 seconds
+Text: All right we'll move on to the consent agenda which is items of a routine or housekeeping nature or items which have been previously reviewed by the City Commission and may be approved in one motion
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:52:00.160
+End: 00:52:06.160
+Duration: 6.000 seconds
+Text: A commissioner may request an item be removed from the for separate discussion and consider immediately following the consent agenda
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:52:06.160
+End: 00:52:12.160
+Duration: 6.000 seconds
+Text: Comment from the public related to items on the consent agenda will be allowed and you'll have up to five minutes
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:52:12.160
+End: 00:52:18.160
+Duration: 6.000 seconds
+Text: Are there any question commissioners on any items on the consent agenda?
+--------------------------------------------------
+Staff Member:
+Start: 00:52:18.160
+End: 00:52:26.160
+Duration: 8.000 seconds
+Text: Yeah I just want to comment on the board appointments because we had some public comment worried about special alcohol fund
+--------------------------------------------------
+Staff Member:
+Start: 00:52:26.160
+End: 00:52:37.160
+Duration: 11.000 seconds
+Text: We've got some great recommendations there for the community funds advisory board and they're the ones that we're making recommendations on how to spend that special alcohol money
+--------------------------------------------------
+Staff Member:
+Start: 00:52:37.160
+End: 00:52:52.160
+Duration: 15.000 seconds
+Text: So it's not a case of you know all those funds just disappearing they're just in a new board combined and I think there's probably seven appointments or eight on there tonight which I'm all four
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:52:52.160
+End: 00:52:59.160
+Duration: 7.000 seconds
+Text: Any other commissioner comments or we'll throw it open to the public and we'll discuss it some more
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:52:59.160
+End: 00:53:06.160
+Duration: 7.000 seconds
+Text: Is there anybody in the public care to comment on any items on the consent agenda?
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:53:06.160
+End: 00:53:15.160
+Duration: 9.000 seconds
+Text: All right if not I'll close public comment and look for a motion from the commission I just have a comment or comment
+--------------------------------------------------
+Staff Member:
+Start: 00:53:15.160
+End: 00:53:28.160
+Duration: 13.000 seconds
+Text: I just have a comment and brief and that is that I am going to support the appointments but I'll be watching carefully what happens to the finances and the commitments that are made for support
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:53:28.160
+End: 00:53:45.160
+Duration: 17.000 seconds
+Text: Even though there's some there's some one year two year and three or terms all of them are it's more one and a half years two and a half years and three and a half years because the first term won't end until the end of December of 2024 is that correct Brenda?
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:53:45.160
+End: 00:53:57.160
+Duration: 12.000 seconds
+Text: Yes and so it's there they'll the current board will go through this year's allocations next year's allocations and then there'll be chances for reappointments or people to bail out and at such there so
+--------------------------------------------------
+Staff Member:
+Start: 00:53:58.160
+End: 00:54:02.160
+Duration: 4.000 seconds
+Text: Yeah following up since we are on the community advisory board
+--------------------------------------------------
+Staff Member:
+Start: 00:54:03.160
+End: 00:54:05.160
+Duration: 2.000 seconds
+Text: Commissioner
+--------------------------------------------------
+Staff Member:
+Start: 00:54:05.160
+End: 00:54:17.160
+Duration: 12.000 seconds
+Text: Butler just mentioned about them making the allocations so I just want to be clear this year around earned budget time do the city commissioners do those budget recommendations and then the next board
+--------------------------------------------------
+Staff Member:
+Start: 00:54:17.160
+End: 00:54:19.160
+Duration: 2.000 seconds
+Text: Implement set
+--------------------------------------------------
+Staff Member:
+Start: 00:54:19.160
+End: 00:54:26.160
+Duration: 7.000 seconds
+Text: So the intent is for the commission to set a budget threshold amount and then
+--------------------------------------------------
+Staff Member:
+Start: 00:54:27.160
+End: 00:54:35.160
+Duration: 8.000 seconds
+Text: Budget that amount when they approve the budget because we don't think the committee will have time to do all the processing and time for the budget process
+--------------------------------------------------
+Staff Member:
+Start: 00:54:35.160
+End: 00:54:48.160
+Duration: 13.000 seconds
+Text: But the intent is for that committee to meet and then by the time we're ready to sign contracts with the entities make a recommendation this fall to the commission for those allocations
+--------------------------------------------------
+Staff Member:
+Start: 00:54:48.160
+End: 00:54:52.160
+Duration: 4.000 seconds
+Text: For both the social services and the special alcohol yes, okay, thank you
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:54:52.160
+End: 00:55:00.160
+Duration: 8.000 seconds
+Text: All right, is there a motion then to approve the consent agenda I move we approve the consent agenda
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:55:01.160
+End: 00:55:08.160
+Duration: 7.000 seconds
+Text: Second it's been moved by Commissioner Butler second light commissioner moda to approve the consent agenda. Please call the roll commissioner ready
+--------------------------------------------------
+Staff Member:
+Start: 00:55:09.160
+End: 00:55:17.160
+Duration: 8.000 seconds
+Text: Yes, Mr. Butler yes, mr. Mata yes, Commissioner Morris. Yes, but I'd like my statement to be in the minutes
+--------------------------------------------------
+Staff Member:
+Start: 00:55:17.160
+End: 00:55:24.160
+Duration: 7.000 seconds
+Text: Mayor Hanna's all yes motion carries five to zero
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:55:25.160
+End: 00:55:36.160
+Duration: 11.000 seconds
+Text: All right very good. We'll move on to the next item which is a public hearing which is really considering vacating a utility easement and a drainage easement for a lot 26 of Lee Mill Heights unit 4 bend
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:55:36.160
+End: 00:55:37.160
+Duration: 1.000 seconds
+Text: Currents
+--------------------------------------------------
+Staff Member:
+Start: 00:55:37.160
+End: 00:55:45.160
+Duration: 8.000 seconds
+Text: Even the mayor city commissioners as you mentioned we have a request easing big easements
+--------------------------------------------------
+Staff Member:
+Start: 00:55:46.160
+End: 00:55:49.160
+Duration: 3.000 seconds
+Text: I apologize is that better
+--------------------------------------------------
+Staff Member:
+Start: 00:55:51.160
+End: 00:55:56.160
+Duration: 5.000 seconds
+Text: You just have to stand at one of them you can't stand in the middle or nobody
+--------------------------------------------------
+Staff Member:
+Start: 00:55:57.160
+End: 00:56:00.160
+Duration: 3.000 seconds
+Text: My bad sorry not to worry. It's not nobody knows
+--------------------------------------------------
+Staff Member:
+Start: 00:56:04.160
+End: 00:56:07.160
+Duration: 3.000 seconds
+Text: Okay, we do have a request to vacate easements
+--------------------------------------------------
+Staff Member:
+Start: 00:56:08.160
+End: 00:56:15.160
+Duration: 7.000 seconds
+Text: At this particular lot right here these original easements both the utility and a drainage easement
+--------------------------------------------------
+Staff Member:
+Start: 00:56:16.160
+End: 00:56:24.160
+Duration: 8.000 seconds
+Text: We're including the final plat of the Lee Mill Heights unit 4 just to reference you this right here is the parcel that we'll be discussing
+--------------------------------------------------
+Staff Member:
+Start: 00:56:25.160
+End: 00:56:32.160
+Duration: 7.000 seconds
+Text: This is the big view and the easements are in the back of the yard here in this plat appears that there's no development
+--------------------------------------------------
+Staff Member:
+Start: 00:56:32.160
+End: 00:56:36.160
+Duration: 4.000 seconds
+Text: That's not true. This is now less more circle you'd recognize it as such
+--------------------------------------------------
+Staff Member:
+Start: 00:56:38.160
+End: 00:56:44.960
+Duration: 6.800 seconds
+Text: Applicant has requested this vacation to provide space for an out building right here is the
+--------------------------------------------------
+Staff Member:
+Start: 00:56:46.160
+End: 00:56:55.160
+Duration: 9.000 seconds
+Text: The exhibit that's provided by her engineer showing us the area that would be exhibited once again the utility easement and then the drainage easement is here
+--------------------------------------------------
+Staff Member:
+Start: 00:56:57.160
+End: 00:57:06.160
+Duration: 9.000 seconds
+Text: No utilities are currently in these easements all utilities have responded to the request to vacate the easements all responses support at the vacation
+--------------------------------------------------
+Staff Member:
+Start: 00:57:06.160
+End: 00:57:08.160
+Duration: 2.000 seconds
+Text: of the easements
+--------------------------------------------------
+Staff Member:
+Start: 00:57:09.080
+End: 00:57:15.480
+Duration: 6.400 seconds
+Text: We find that there's no private rights will be injured or endangered by such vacations and that the public will suffer no loss or inconvenience and
+--------------------------------------------------
+Staff Member:
+Start: 00:57:15.720
+End: 00:57:24.160
+Duration: 8.440 seconds
+Text: Request proof first reading of an ordinance vacating utility easements the drainage easement located a lot 26 of the final plat of Lee Mill Heights unit 4 also known as
+--------------------------------------------------
+Staff Member:
+Start: 00:57:25.160
+End: 00:57:28.160
+Duration: 3.000 seconds
+Text: 1037 logic drive Manhattan Riley County, Kansas
+--------------------------------------------------
+Staff Member:
+Start: 00:57:29.160
+End: 00:57:31.160
+Duration: 2.000 seconds
+Text: Any questions or concerns?
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:57:31.160
+End: 00:57:33.160
+Duration: 2.000 seconds
+Text: missioners anything
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:57:33.440
+End: 00:57:43.920
+Duration: 10.480 seconds
+Text: All right, thank you, Ben. We will open up the public hearing for this easement vacation if anybody would care to come forward and comment on it pro or con
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:57:47.160
+End: 00:57:50.560
+Duration: 3.400 seconds
+Text: If not I'll close the public hearing and we would
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:57:51.160
+End: 00:57:54.640
+Duration: 3.480 seconds
+Text: Is there any other questions of anybody? All right? Is there a motion?
+--------------------------------------------------
+Staff Member:
+Start: 00:57:54.640
+End: 00:58:00.560
+Duration: 5.920 seconds
+Text: I think because there are no utilities involved and no expense to the city that it seems
+--------------------------------------------------
+Staff Member:
+Start: 00:58:01.160
+End: 00:58:09.480
+Duration: 8.320 seconds
+Text: Certainly something that we can accommodate so I would make a motion that we find no private rights will be injured or endangered by such
+--------------------------------------------------
+Staff Member:
+Start: 00:58:09.680
+End: 00:58:17.440
+Duration: 7.760 seconds
+Text: Vacation and that the public will suffer no loss or inconvenience thereby and to prove first reading of an ordinance vacating utility
+--------------------------------------------------
+Staff Member:
+Start: 00:58:17.920
+End: 00:58:28.160
+Duration: 10.240 seconds
+Text: Utility easement and drainage easement located at lot 26 of the final plat of of Lee Mill Heights unit 4 also known as 1037
+--------------------------------------------------
+Staff Member:
+Start: 00:58:28.160
+End: 00:58:30.160
+Duration: 2.000 seconds
+Text: Lucic
+--------------------------------------------------
+Staff Member:
+Start: 00:58:30.160
+End: 00:58:37.120
+Duration: 6.960 seconds
+Text: Lucic drive Manhattan Riley County, Kansas project number VA 2303 is there a second
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:58:38.800
+End: 00:58:44.560
+Duration: 5.760 seconds
+Text: It's been moved by commissioner Morse and second by commissioner ready to approve this motion. Please call the rule
+--------------------------------------------------
+Staff Member:
+Start: 00:58:45.040
+End: 00:58:47.040
+Duration: 2.000 seconds
+Text: Commissioner Butler. Yes
+--------------------------------------------------
+Staff Member:
+Start: 00:58:48.040
+End: 00:58:56.120
+Duration: 8.080 seconds
+Text: Commissioner Mata. Yes, Commissioner Morris. Yes Mary Hattiesall. Yes, mr. Ready. Yes, motion carries 5-0
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 00:58:56.760
+End: 00:59:04.960
+Duration: 8.200 seconds
+Text: All right, the next the first item on the general agenda then is considering amending McCall landing planned unit development for a culverse restaurant who?
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 00:59:09.040
+End: 00:59:17.400
+Duration: 8.360 seconds
+Text: Good evening stuff new Peterson director of community development the first item I have for you this evening is a PUD amendment for McCall landing
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 00:59:18.680
+End: 00:59:19.920
+Duration: 1.240 seconds
+Text: the
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 00:59:19.920
+End: 00:59:21.120
+Duration: 1.200 seconds
+Text: subject
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 00:59:21.120
+End: 00:59:25.400
+Duration: 4.280 seconds
+Text: Or the the area subject to tonight's discussion is down here in the corner
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 00:59:25.680
+End: 00:59:31.880
+Duration: 6.200 seconds
+Text: This is the McCall landing PUD the large building up here is minards, which I think helps to orient you
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 00:59:32.160
+End: 00:59:35.480
+Duration: 3.320 seconds
+Text: And so this currently is a vacant site
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 00:59:36.520
+End: 00:59:39.040
+Duration: 2.520 seconds
+Text: Here's the site plan that was provided by the applicant
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 00:59:39.360
+End: 00:59:42.640
+Duration: 3.280 seconds
+Text: This would be both a drive-through and a dine-in restaurant
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 00:59:43.680
+End: 00:59:48.520
+Duration: 4.840 seconds
+Text: The site plan was it meets all the specifications of the existing PUD
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 00:59:49.520
+End: 00:59:53.720
+Duration: 4.200 seconds
+Text: A couple of images of what the building facade would look like including the signage
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 00:59:55.000
+End: 00:59:58.240
+Duration: 3.240 seconds
+Text: This looks like they're typical culvers that you would see other places
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 00:59:59.400
+End: 01:00:06.320
+Duration: 6.920 seconds
+Text: And they did provide a landscaping plan and it meets all of the requirements also of the the PUD
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:00:08.240
+End: 01:00:15.480
+Duration: 7.240 seconds
+Text: This went before the planning board at their April 13th meeting and the planning board recommended approval of amending the PUD
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:00:15.480
+End: 01:00:17.480
+Duration: 2.000 seconds
+Text: I'd vote six to zero
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:00:18.120
+End: 01:00:21.000
+Duration: 2.880 seconds
+Text: There's any questions. I'm happy to answer those
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:00:23.200
+End: 01:00:25.200
+Duration: 2.000 seconds
+Text: Anybody got any for Stephanie?
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:00:26.000
+End: 01:00:30.560
+Duration: 4.560 seconds
+Text: All right, thank you. I will throw it open to the public if anybody cares to comment on this
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:00:31.280
+End: 01:00:33.280
+Duration: 2.000 seconds
+Text: Culver's plan. Please come forward
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:00:35.760
+End: 01:00:42.840
+Duration: 7.080 seconds
+Text: Like everybody's in favor of getting a culver so that's good all right. I will close public comment and look for a motion from the Commission
+--------------------------------------------------
+Staff Member:
+Start: 01:00:45.480
+End: 01:00:47.480
+Duration: 2.000 seconds
+Text: I
+--------------------------------------------------
+Staff Member:
+Start: 01:00:53.040
+End: 01:00:57.080
+Duration: 4.040 seconds
+Text: Planning board to support this so I would move that we
+--------------------------------------------------
+Staff Member:
+Start: 01:00:57.760
+End: 01:01:05.960
+Duration: 8.200 seconds
+Text: Approved the PUD amendment of McCall landing commercial PUD as proposed with the three conditions of approval recommended by staff
+--------------------------------------------------
+Staff Member:
+Start: 01:01:06.120
+End: 01:01:15.160
+Duration: 9.040 seconds
+Text: Based on substantial compliance with section 26-9-D-2-E-1 of the Manhattan Development Code and the findings in the staff
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:01:15.160
+End: 01:01:17.160
+Duration: 2.000 seconds
+Text: Report is there a second
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:01:19.160
+End: 01:01:23.480
+Duration: 4.320 seconds
+Text: Second, all right, it's been moved and seconded to approve the motion. Please call the rule
+--------------------------------------------------
+Staff Member:
+Start: 01:01:25.840
+End: 01:01:34.040
+Duration: 8.200 seconds
+Text: Commissioner Mata. Yes, Commissioner Morris. Yes, Mayor Hassel. Yes, Commissioner Reddy. Yes, Commissioner Butler. Yes
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:01:34.600
+End: 01:01:40.800
+Duration: 6.200 seconds
+Text: Motion carries five to zero. All right, the next item will be consider reducing the Manhattan Development Code Island
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:01:40.800
+End: 01:01:45.040
+Duration: 4.240 seconds
+Text: Landscaping requirement for the Bluemont Elementary School parking lot Stephanie
+--------------------------------------------------
+Staff Member:
+Start: 01:01:50.160
+End: 01:01:52.160
+Duration: 2.000 seconds
+Text: Maybe
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:01:56.840
+End: 01:01:58.840
+Duration: 2.000 seconds
+Text: Let's hand
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:02:11.800
+End: 01:02:16.320
+Duration: 4.520 seconds
+Text: But it's just black though
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:02:20.520
+End: 01:02:22.840
+Duration: 2.320 seconds
+Text: And it's not opening. There we go. Let's try this
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:02:25.440
+End: 01:02:27.440
+Duration: 2.000 seconds
+Text: Okay, we'll go through it this way
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:02:27.840
+End: 01:02:35.200
+Duration: 7.360 seconds
+Text: We have before you a municipal facility review for a bluemont elementary school as mentioned to look at a reduction of landscaping requirements
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:02:35.200
+End: 01:02:43.400
+Duration: 8.200 seconds
+Text: Here's the location of bluemont elementary immediately north of bluemont Avenue
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:02:46.600
+End: 01:02:53.640
+Duration: 7.040 seconds
+Text: The only work the only relief that they are seeking is part of the MDC requires that there be a raised
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:02:54.960
+End: 01:03:00.320
+Duration: 5.360 seconds
+Text: Island and all parking lots of a certain size and that they have a landscaping component to them
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:03:00.440
+End: 01:03:06.280
+Duration: 5.840 seconds
+Text: So the two that are in question here are highlighted in green and this parking lot is already constructed
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:03:06.800
+End: 01:03:12.880
+Duration: 6.080 seconds
+Text: Currently, there is just paint on the parking lot surface and so the school district is seeking
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:03:13.600
+End: 01:03:16.880
+Duration: 3.280 seconds
+Text: Relief from the requirement to have these be raised landscaped islands
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:03:18.160
+End: 01:03:23.360
+Duration: 5.200 seconds
+Text: They did include as part of their their design and as part of the municipal review process is
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:03:23.840
+End: 01:03:25.680
+Duration: 1.840 seconds
+Text: landscaping along the
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:03:25.760
+End: 01:03:28.320
+Duration: 2.560 seconds
+Text: The parking lot as you can see down here on the southern end
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:03:28.560
+End: 01:03:34.400
+Duration: 5.840 seconds
+Text: So that would buffer the parking lot from the from the street from the sidewalk. That's a long bluemont avenue
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:03:35.200
+End: 01:03:37.200
+Duration: 2.000 seconds
+Text: There's also a street tree requirement
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:03:37.760
+End: 01:03:43.920
+Duration: 6.160 seconds
+Text: And that has been met you can faintly or see the the faint outline of some of the trees that are already existing on the site
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:03:44.720
+End: 01:03:48.240
+Duration: 3.520 seconds
+Text: And so the the purpose of the reduction of these islands
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:03:48.720
+End: 01:03:50.240
+Duration: 1.520 seconds
+Text: There were several different
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:03:50.240
+End: 01:03:53.760
+Duration: 3.520 seconds
+Text: Items mentioned by the school district and that were presented to the planning board
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:03:54.000
+End: 01:03:59.840
+Duration: 5.840 seconds
+Text: Those include vehicle flow especially during drop-off and pick up. It's rather a tight design of this parking lot
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:04:00.400
+End: 01:04:06.320
+Duration: 5.920 seconds
+Text: The delivery operations and getting the correct turning radius for those larger vehicles as well as the
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:04:06.800
+End: 01:04:08.800
+Duration: 2.000 seconds
+Text: the
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:04:08.800
+End: 01:04:12.320
+Duration: 3.520 seconds
+Text: ability to properly remove snow and then there was some concern
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:04:12.960
+End: 01:04:19.040
+Duration: 6.080 seconds
+Text: Excuse me brought up by the school district of potential safety concerns of having landscaping in those islands with
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:04:19.440
+End: 01:04:21.440
+Duration: 2.000 seconds
+Text: smaller children walking
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:04:21.760
+End: 01:04:23.760
+Duration: 2.000 seconds
+Text: Through that parking lot
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:04:24.320
+End: 01:04:30.560
+Duration: 6.240 seconds
+Text: This also went before the planning board at their open and then sorry, I jumped ahead of myself
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:04:31.200
+End: 01:04:32.880
+Duration: 1.680 seconds
+Text: This is just showing the
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:04:32.880
+End: 01:04:37.600
+Duration: 4.720 seconds
+Text: Existing aerial imagery we have the parking lots a little bit too new, but this is where it's located on this site
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:04:39.040
+End: 01:04:44.080
+Duration: 5.040 seconds
+Text: This did go before planning board also on April 13th and they voted to
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:04:44.800
+End: 01:04:49.840
+Duration: 5.040 seconds
+Text: Recommend the municipal facility review on a vote of 422
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:04:50.320
+End: 01:04:52.320
+Duration: 2.000 seconds
+Text: So there were two
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:04:52.320
+End: 01:04:53.840
+Duration: 1.520 seconds
+Text: Devoted against it
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:04:53.840
+End: 01:04:56.960
+Duration: 3.120 seconds
+Text: Are there any questions on this I do think we have a
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:04:57.840
+End: 01:05:02.800
+Duration: 4.960 seconds
+Text: Representative from the school district if she cares to speak or if you have any questions of her either
+--------------------------------------------------
+Staff Member:
+Start: 01:05:04.720
+End: 01:05:06.720
+Duration: 2.000 seconds
+Text: Stephanie, so
+--------------------------------------------------
+Staff Member:
+Start: 01:05:06.720
+End: 01:05:10.000
+Duration: 3.280 seconds
+Text: Since we are making an exception and this I just want to make sure that
+--------------------------------------------------
+Staff Member:
+Start: 01:05:11.920
+End: 01:05:17.120
+Duration: 5.200 seconds
+Text: Should is that something we should change in the MDC for the future because we don't want to I
+--------------------------------------------------
+Staff Member:
+Start: 01:05:17.280
+End: 01:05:19.120
+Duration: 1.840 seconds
+Text: Understand the concern
+--------------------------------------------------
+Staff Member:
+Start: 01:05:19.120
+End: 01:05:26.480
+Duration: 7.360 seconds
+Text: But I also want to make sure we are not continuously making an exception to the rule because that was what did the supposed to alleviate a little bit correct
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:05:26.960
+End: 01:05:28.960
+Duration: 2.000 seconds
+Text: That is something that we are looking at
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:05:28.960
+End: 01:05:34.400
+Duration: 5.440 seconds
+Text: I would say that we're also looking at how the next item we have is also a municipal facility review
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:05:35.040
+End: 01:05:38.880
+Duration: 3.840 seconds
+Text: Of how we maybe tailor the MDC to accommodate
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:05:39.360
+End: 01:05:44.960
+Duration: 5.600 seconds
+Text: Public or institutional uses that just don't fit within the zoning district that they currently have
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:05:45.520
+End: 01:05:52.960
+Duration: 7.440 seconds
+Text: A lot of times our schools are zoned residential and there's certain requirements that don't apply to a school that apply to residential or vice versa
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:05:53.280
+End: 01:05:55.280
+Duration: 2.000 seconds
+Text: So that is something that we're looking into
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:05:55.600
+End: 01:05:59.520
+Duration: 3.920 seconds
+Text: And making sure that we're not just creating exceptions for for certain institutions
+--------------------------------------------------
+Staff Member:
+Start: 01:06:00.000
+End: 01:06:02.960
+Duration: 2.960 seconds
+Text: And this one also has my understanding was
+--------------------------------------------------
+Staff Member:
+Start: 01:06:03.760
+End: 01:06:09.520
+Duration: 5.760 seconds
+Text: Some irrigation things like that that they also have to maintain along with the lanes landscaping which would have made it also
+--------------------------------------------------
+Staff Member:
+Start: 01:06:10.000
+End: 01:06:12.000
+Duration: 2.000 seconds
+Text: somewhat challenging is that right?
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:06:12.400
+End: 01:06:15.440
+Duration: 3.040 seconds
+Text: I can't speak to whether they were going to provide irrigation lines or not
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:06:15.520
+End: 01:06:19.360
+Duration: 3.840 seconds
+Text: I know one of the concerns was the overall maintenance of having too much landscaping
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:06:20.160
+End: 01:06:23.680
+Duration: 3.520 seconds
+Text: Just being a school district and having to hire additional maintenance
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:06:24.480
+End: 01:06:26.480
+Duration: 2.000 seconds
+Text: To to help to maintain those areas
+--------------------------------------------------
+Staff Member:
+Start: 01:06:27.360
+End: 01:06:31.600
+Duration: 4.240 seconds
+Text: Yeah, that was only my concern is that not to have too many exceptions to the rule and somehow modify it
+--------------------------------------------------
+Staff Member:
+Start: 01:06:31.840
+End: 01:06:37.200
+Duration: 5.360 seconds
+Text: So it fits it and I will I think being on school grounds. It makes it easier to have a
+--------------------------------------------------
+Staff Member:
+Start: 01:06:38.160
+End: 01:06:43.680
+Duration: 5.520 seconds
+Text: Some kind of consistent pattern of in and out for students and parents as they pick up soon
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:06:47.120
+End: 01:06:49.120
+Duration: 2.000 seconds
+Text: Any other questions for Stephanie
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:06:50.320
+End: 01:06:55.360
+Duration: 5.040 seconds
+Text: All right, thanks. We'll throw it open to public comment if anybody in the public would like to comment on this
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:06:55.920
+End: 01:07:01.280
+Duration: 5.360 seconds
+Text: Reducing the development code requirement. Please come forward state your name and or who you're with
+--------------------------------------------------
+Staff Member:
+Start: 01:07:01.840
+End: 01:07:03.840
+Duration: 2.000 seconds
+Text: I
+--------------------------------------------------
+Staff Member:
+Start: 01:07:03.840
+End: 01:07:07.520
+Duration: 3.680 seconds
+Text: Trisha Brookfront so I'm the construction owner's rep for Manhattan school district
+--------------------------------------------------
+Staff Member:
+Start: 01:07:08.320
+End: 01:07:10.320
+Duration: 2.000 seconds
+Text: So I'm just here to
+--------------------------------------------------
+Staff Member:
+Start: 01:07:11.040
+End: 01:07:15.120
+Duration: 4.080 seconds
+Text: Say I hope that you approve this and if you have any questions for me as to why
+--------------------------------------------------
+Staff Member:
+Start: 01:07:16.480
+End: 01:07:21.680
+Duration: 5.200 seconds
+Text: We asked for this. I'm more than happy to answer those otherwise. I just encourage you to approve this
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:07:23.440
+End: 01:07:25.200
+Duration: 1.760 seconds
+Text: I yeah
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:07:25.200
+End: 01:07:28.320
+Duration: 3.120 seconds
+Text: Trying to keep stuff growing in the middle of concrete is hard anyway
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:07:28.400
+End: 01:07:35.520
+Duration: 7.120 seconds
+Text: And then I like the idea of just keeping it flat with the lines so because people are gonna cut across and they would tear it up sooner than later
+--------------------------------------------------
+Staff Member:
+Start: 01:07:36.160
+End: 01:07:41.760
+Duration: 5.600 seconds
+Text: True and as she as Stephanie pointed out the landscaping that we did to the south is all native grasses
+--------------------------------------------------
+Staff Member:
+Start: 01:07:41.840
+End: 01:07:45.920
+Duration: 4.080 seconds
+Text: So which is obviously you don't have to have a lot of water for them
+--------------------------------------------------
+Staff Member:
+Start: 01:07:46.000
+End: 01:07:49.680
+Duration: 3.680 seconds
+Text: But in there easy to maintain we cut them down once a year and they come back
+--------------------------------------------------
+Staff Member:
+Start: 01:07:50.080
+End: 01:07:52.240
+Duration: 2.160 seconds
+Text: So that's what we've done with a lot of our
+--------------------------------------------------
+Staff Member:
+Start: 01:07:53.120
+End: 01:07:55.280
+Duration: 2.160 seconds
+Text: Planties that we've had to do is native grasses
+--------------------------------------------------
+Staff Member:
+Start: 01:07:55.760
+End: 01:07:56.960
+Duration: 1.200 seconds
+Text: So okay
+--------------------------------------------------
+Staff Member:
+Start: 01:07:57.120
+End: 01:08:02.080
+Duration: 4.960 seconds
+Text: As as the city we have a lot of experiences a lot of experience
+--------------------------------------------------
+Staff Member:
+Start: 01:08:02.480
+End: 01:08:09.600
+Duration: 7.120 seconds
+Text: Trying to keep the lines painted on concrete and I but I think in a school yard that is this tight
+--------------------------------------------------
+Staff Member:
+Start: 01:08:10.320
+End: 01:08:15.840
+Duration: 5.520 seconds
+Text: It would be important that you keep the lines painted so that it is
+--------------------------------------------------
+Staff Member:
+Start: 01:08:16.480
+End: 01:08:19.280
+Duration: 2.800 seconds
+Text: Really clear where the traffic goes and where
+--------------------------------------------------
+Staff Member:
+Start: 01:08:20.160
+End: 01:08:22.160
+Duration: 2.000 seconds
+Text: Where the parking is yes
+--------------------------------------------------
+Staff Member:
+Start: 01:08:22.720
+End: 01:08:24.160
+Duration: 1.440 seconds
+Text: Thank you
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:08:24.320
+End: 01:08:27.120
+Duration: 2.800 seconds
+Text: We'll consider you comments from the applicant so
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:08:28.160
+End: 01:08:30.720
+Duration: 2.560 seconds
+Text: Anybody else in the public care to comment on this
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:08:32.960
+End: 01:08:36.320
+Duration: 3.360 seconds
+Text: All right, if not we'll close public comment and look for a motion from the commission
+--------------------------------------------------
+Staff Member:
+Start: 01:08:43.600
+End: 01:08:45.600
+Duration: 2.000 seconds
+Text: Please
+--------------------------------------------------
+Staff Member:
+Start: 01:08:46.240
+End: 01:08:48.240
+Duration: 2.000 seconds
+Text: I don't know where it is
+--------------------------------------------------
+Staff Member:
+Start: 01:08:51.120
+End: 01:08:58.800
+Duration: 7.680 seconds
+Text: Mayor I find that the public interest to be served is that the right one yet public interest to be served by the parking lot of blue month elementary school
+--------------------------------------------------
+Staff Member:
+Start: 01:08:58.800
+End: 01:09:06.600
+Duration: 7.800 seconds
+Text: Outweigh the impacts upon legitimate community interests and approve first reading of an ordinance authorizing the reduction of landscaping requirements
+--------------------------------------------------
+Staff Member:
+Start: 01:09:06.600
+End: 01:09:14.040
+Duration: 7.440 seconds
+Text: Persument to section 26-90-4 of the Manhattan Development Code and KSA
+--------------------------------------------------
+Staff Member:
+Start: 01:09:14.760
+End: 01:09:23.600
+Duration: 8.840 seconds
+Text: 1748 for blue month elementary school based on the recommendation of the Manhattan Urban Area Planning Board and the findings in the staff report
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:09:24.040
+End: 01:09:26.040
+Duration: 2.000 seconds
+Text: Is there a second
+--------------------------------------------------
+Staff Member:
+Start: 01:09:26.280
+End: 01:09:27.480
+Duration: 1.200 seconds
+Text: No second
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:09:27.480
+End: 01:09:31.880
+Duration: 4.400 seconds
+Text: Been moved by Commissioner Reddy second by Commissioner Butler to approve the motion. Please call the roll
+--------------------------------------------------
+Staff Member:
+Start: 01:09:33.640
+End: 01:09:35.640
+Duration: 2.000 seconds
+Text: Yes
+--------------------------------------------------
+Staff Member:
+Start: 01:09:35.640
+End: 01:09:41.160
+Duration: 5.520 seconds
+Text: Mayor Hattiesel. Yes, is she ready? Yes, is your butler? Yes, is your modder? Yes
+--------------------------------------------------
+Staff Member:
+Start: 01:09:41.640
+End: 01:09:43.640
+Duration: 2.000 seconds
+Text: Ocean carries 5 to 0
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:09:43.880
+End: 01:09:49.800
+Duration: 5.920 seconds
+Text: Our next item is to consider allowing rally county health department to install at the intersection of Claflin Road in Wharton Manor road
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:09:49.800
+End: 01:09:55.480
+Duration: 5.680 seconds
+Text: The digital graphics sign that is currently not allowed in the RH identity residential districts definitely
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:09:55.880
+End: 01:09:59.080
+Duration: 3.200 seconds
+Text: Yes another municipal facility review rally county health department
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:10:00.040
+End: 01:10:01.080
+Duration: 1.040 seconds
+Text: The
+--------------------------------------------------
+Staff Member:
+Start: 01:10:01.160
+End: 01:10:02.360
+Duration: 1.200 seconds
+Text: There we go
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:10:02.520
+End: 01:10:09.000
+Duration: 6.480 seconds
+Text: So to the north up here is Claflin and then Wharton Manor Road so the sign in question is right up here in this northwest corner
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:10:10.840
+End: 01:10:12.840
+Duration: 2.000 seconds
+Text: This is what it looks like today
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:10:12.840
+End: 01:10:14.840
+Duration: 2.000 seconds
+Text: This is what they're wanting to go to
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:10:15.480
+End: 01:10:19.400
+Duration: 3.920 seconds
+Text: That image the the bottom image there that is going to be static
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:10:20.120
+End: 01:10:24.280
+Duration: 4.160 seconds
+Text: They can have that change every 60 seconds, but it can't be an animated sign
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:10:25.160
+End: 01:10:29.480
+Duration: 4.320 seconds
+Text: So that that would help with the safety of motorists along the roadway
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:10:30.120
+End: 01:10:37.160
+Duration: 7.040 seconds
+Text: The reason that we're bringing forth this sign as a municipal facility review is because this type of graphic sign is not allowed in the
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:10:37.480
+End: 01:10:41.320
+Duration: 3.840 seconds
+Text: RH district and the health department is zoned currently our H
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:10:42.040
+End: 01:10:44.840
+Duration: 2.800 seconds
+Text: I kind of alluded to earlier that there's certain requirements
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:10:45.480
+End: 01:10:51.320
+Duration: 5.840 seconds
+Text: That we have our public and institutional uses that they just they're they're inter residential district, but there's certain
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:10:52.120
+End: 01:10:56.760
+Duration: 4.640 seconds
+Text: Needs that they have that don't really align with the zoning so we are we're taking a look at how we can
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:10:57.320
+End: 01:11:01.640
+Duration: 4.320 seconds
+Text: Make this process especially for something like this with a sign make it a little bit easier on the applicant
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:11:02.280
+End: 01:11:05.800
+Duration: 3.520 seconds
+Text: And takes a little bit less staff time to to process those requests
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:11:07.400
+End: 01:11:12.520
+Duration: 5.120 seconds
+Text: That this did also go to the planning board April 13th the planning board
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:11:13.240
+End: 01:11:20.120
+Duration: 6.880 seconds
+Text: Voted to allow for the health department to have the sign or or recommended the commission allow for it the sign to be constructed
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:11:20.760
+End: 01:11:22.760
+Duration: 2.000 seconds
+Text: 60 6 0 correct. Yes
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:11:23.240
+End: 01:11:30.840
+Duration: 7.600 seconds
+Text: All right any questions for this application
+--------------------------------------------------
+Staff Member:
+Start: 01:11:32.200
+End: 01:11:39.240
+Duration: 7.040 seconds
+Text: I mean, I think we talked about digital signs a lot. I mean we had lots and lots and lots of conversations in this case
+--------------------------------------------------
+Staff Member:
+Start: 01:11:39.240
+End: 01:11:43.240
+Duration: 4.000 seconds
+Text: I think it's important for the health department because I have to sometimes
+--------------------------------------------------
+Staff Member:
+Start: 01:11:44.840
+End: 01:11:46.760
+Duration: 1.920 seconds
+Text: Necessary to get information out quickly
+--------------------------------------------------
+Staff Member:
+Start: 01:11:47.640
+End: 01:11:52.280
+Duration: 4.640 seconds
+Text: But we do have ordinances and codes in place for the amount of brightness
+--------------------------------------------------
+Staff Member:
+Start: 01:11:53.480
+End: 01:11:57.960
+Duration: 4.480 seconds
+Text: And font or print or colors and all of that right? Yes correct
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:11:58.440
+End: 01:12:01.560
+Duration: 3.120 seconds
+Text: Okay, I'm especially being in a residential area there are certain
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:12:02.040
+End: 01:12:05.240
+Duration: 3.200 seconds
+Text: This has to dim at a certain time of light or certain time of night
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:12:05.960
+End: 01:12:11.160
+Duration: 5.200 seconds
+Text: And there's certain requirements of what like I said it can't it has to be a static image. It can't have any animation
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:12:11.720
+End: 01:12:19.320
+Duration: 7.600 seconds
+Text: This one can't have color. There's others that that don't but what we're really seeing right now in the sign in industry is a lot of people are going towards
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:12:19.800
+End: 01:12:21.320
+Duration: 1.520 seconds
+Text: more of a
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:12:21.480
+End: 01:12:27.240
+Duration: 5.760 seconds
+Text: Like a TV screen type of sign versus having a your traditional sign that we've we've been seen
+--------------------------------------------------
+Director of Community Development, Steph New Peterson:
+Start: 01:12:27.560
+End: 01:12:33.400
+Duration: 5.840 seconds
+Text: So we also acknowledge that we need to make sure that our code is staying current with the latest trends in the sign industry
+--------------------------------------------------
+Staff Member:
+Start: 01:12:34.120
+End: 01:12:38.680
+Duration: 4.560 seconds
+Text: As long as it's not bothering the neighbors and the brightness of it. I think that's a critical factor. Thank you
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:12:39.560
+End: 01:12:41.560
+Duration: 2.000 seconds
+Text: All right
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:12:41.560
+End: 01:12:46.920
+Duration: 5.360 seconds
+Text: We'll throw it open for any public comment on this item of allowing them to have their
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:12:49.080
+End: 01:12:51.080
+Duration: 2.000 seconds
+Text: digital graphic sign
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:12:52.680
+End: 01:12:58.760
+Duration: 6.080 seconds
+Text: Okay, if not I will close public comment and commissioners and the other questions or so I want to make a motion please
+--------------------------------------------------
+Staff Member:
+Start: 01:13:00.600
+End: 01:13:02.600
+Duration: 2.000 seconds
+Text: I would just say that
+--------------------------------------------------
+Staff Member:
+Start: 01:13:02.600
+End: 01:13:07.160
+Duration: 4.560 seconds
+Text: I really do support our digital sign ordinance and requirements
+--------------------------------------------------
+Staff Member:
+Start: 01:13:07.640
+End: 01:13:11.960
+Duration: 4.320 seconds
+Text: This is a residential area not all of like when we have one on McAll Road
+--------------------------------------------------
+Staff Member:
+Start: 01:13:12.520
+End: 01:13:14.200
+Duration: 1.680 seconds
+Text: It's it's all commercial
+--------------------------------------------------
+Staff Member:
+Start: 01:13:14.200
+End: 01:13:17.240
+Duration: 3.040 seconds
+Text: But I think it requires a review each time and I
+--------------------------------------------------
+Staff Member:
+Start: 01:13:18.040
+End: 01:13:22.120
+Duration: 4.080 seconds
+Text: I really do support that I don't want us to be like some communities with
+--------------------------------------------------
+Staff Member:
+Start: 01:13:22.920
+End: 01:13:24.920
+Duration: 2.000 seconds
+Text: flashing lights and
+--------------------------------------------------
+Staff Member:
+Start: 01:13:25.240
+End: 01:13:29.080
+Duration: 3.840 seconds
+Text: Coming you know that distract you from driving to tell you the truth and sometimes
+--------------------------------------------------
+Staff Member:
+Start: 01:13:29.640
+End: 01:13:36.120
+Duration: 6.480 seconds
+Text: On in some communities there. They're a big distraction. They keep take your eye off the road and surprise
+--------------------------------------------------
+Staff Member:
+Start: 01:13:37.400
+End: 01:13:39.400
+Duration: 2.000 seconds
+Text: So anyway, let me
+--------------------------------------------------
+Staff Member:
+Start: 01:13:40.760
+End: 01:13:41.800
+Duration: 1.040 seconds
+Text: I
+--------------------------------------------------
+Staff Member:
+Start: 01:13:41.800
+End: 01:13:43.800
+Duration: 2.000 seconds
+Text: Is there anybody else wants to speak? I
+--------------------------------------------------
+Staff Member:
+Start: 01:13:45.640
+End: 01:13:48.200
+Duration: 2.560 seconds
+Text: Move that we find that the public interests
+--------------------------------------------------
+Staff Member:
+Start: 01:13:49.160
+End: 01:13:53.560
+Duration: 4.400 seconds
+Text: To be served by the digital graphics sign at the Riley County Health Department outweigh
+--------------------------------------------------
+Staff Member:
+Start: 01:13:54.680
+End: 01:14:00.840
+Duration: 6.160 seconds
+Text: The impacts upon legitimate community interests and approve first reading of an ordinance authorizing a digital graphics sign
+--------------------------------------------------
+Staff Member:
+Start: 01:14:01.400
+End: 01:14:05.320
+Duration: 3.920 seconds
+Text: For the Riley County Health Department based on the recommendation of the Manhattan air
+--------------------------------------------------
+Staff Member:
+Start: 01:14:05.960
+End: 01:14:10.120
+Duration: 4.160 seconds
+Text: Urban area planning board and the findings in the staff report. Is there second
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:14:11.480
+End: 01:14:16.200
+Duration: 4.720 seconds
+Text: Second it's been moved by commissioner Moore's second by commissioner ready to approve this motion
+--------------------------------------------------
+Staff Member:
+Start: 01:14:16.280
+End: 01:14:17.800
+Duration: 1.520 seconds
+Text: Please call the roll
+--------------------------------------------------
+Staff Member:
+Start: 01:14:17.800
+End: 01:14:20.120
+Duration: 2.320 seconds
+Text: Mirror hassle. Yes, mr. Reddy
+--------------------------------------------------
+Staff Member:
+Start: 01:14:20.920
+End: 01:14:28.120
+Duration: 7.200 seconds
+Text: Yes, mr. Butler. Yes, mr. Mata. Yes, mr. Morris. Yes, motion carries five to zero
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:14:29.000
+End: 01:14:33.640
+Duration: 4.640 seconds
+Text: And that ends the general agenda for this evening. We will have an executive session
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:14:34.360
+End: 01:14:40.360
+Duration: 6.000 seconds
+Text: I move that we just recessed in an executive session discuss the terms of the agreement between the city administration and local
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:14:40.840
+End: 01:14:47.880
+Duration: 7.040 seconds
+Text: 2275 International Association of firefighters that presently need to remain confidential pursuant to the exception set forth in KSA
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:14:48.600
+End: 01:14:54.920
+Duration: 6.320 seconds
+Text: 7543 19 B3 related to employer employee negotiations and redo resume the open meeting at
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:14:56.040
+End: 01:14:58.040
+Duration: 2.000 seconds
+Text: 745 p.m. In this room
+--------------------------------------------------
+Staff Member:
+Start: 01:14:58.600
+End: 01:14:59.640
+Duration: 1.040 seconds
+Text: Okay
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:14:59.640
+End: 01:15:03.080
+Duration: 3.440 seconds
+Text: It's been moved and seconded to go into executive session. Please call the roll
+--------------------------------------------------
+Staff Member:
+Start: 01:15:04.600
+End: 01:15:06.360
+Duration: 1.760 seconds
+Text: Mr. Reddy
+--------------------------------------------------
+Staff Member:
+Start: 01:15:06.360
+End: 01:15:17.080
+Duration: 10.720 seconds
+Text: Yes, mr. Butler. Yes, mr. Mata. Yes, mr. Morris. Yes, Mayor Hasl yes motion carries five to zero. We'll see it 745
+--------------------------------------------------
+Staff Member:
+Start: 01:15:33.640
+End: 01:15:36.200
+Duration: 2.560 seconds
+Text: I think you need to research it. I think that sign
+--------------------------------------------------
+City Clerk:
+Start: 01:16:03.640
+End: 01:16:06.600
+Duration: 2.960 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:16:33.640
+End: 01:16:36.600
+Duration: 2.960 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:17:03.640
+End: 01:17:06.600
+Duration: 2.960 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:17:33.640
+End: 01:17:36.600
+Duration: 2.960 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:18:03.640
+End: 01:18:06.600
+Duration: 2.960 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:18:33.640
+End: 01:18:36.600
+Duration: 2.960 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:19:03.640
+End: 01:19:06.600
+Duration: 2.960 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:19:33.640
+End: 01:19:36.600
+Duration: 2.960 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:20:03.640
+End: 01:20:06.600
+Duration: 2.960 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:20:33.640
+End: 01:20:36.600
+Duration: 2.960 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:21:03.640
+End: 01:21:06.600
+Duration: 2.960 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:21:33.640
+End: 01:21:36.600
+Duration: 2.960 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:22:03.640
+End: 01:22:06.600
+Duration: 2.960 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:22:33.640
+End: 01:22:36.600
+Duration: 2.960 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:23:03.640
+End: 01:23:06.600
+Duration: 2.960 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:23:33.640
+End: 01:23:36.600
+Duration: 2.960 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:24:03.640
+End: 01:24:06.600
+Duration: 2.960 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:24:33.640
+End: 01:24:36.600
+Duration: 2.960 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:25:03.640
+End: 01:25:06.600
+Duration: 2.960 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:25:33.640
+End: 01:25:36.600
+Duration: 2.960 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:26:03.640
+End: 01:26:05.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:26:33.640
+End: 01:26:35.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:27:03.640
+End: 01:27:05.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:27:33.640
+End: 01:27:35.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:28:03.640
+End: 01:28:05.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:28:33.640
+End: 01:28:35.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:29:03.640
+End: 01:29:05.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:29:33.640
+End: 01:29:35.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:30:03.640
+End: 01:30:05.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:30:33.640
+End: 01:30:35.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:31:03.640
+End: 01:31:05.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:31:33.640
+End: 01:31:35.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:32:03.640
+End: 01:32:05.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:32:33.640
+End: 01:32:35.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:33:03.640
+End: 01:33:05.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:33:33.640
+End: 01:33:35.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:34:03.640
+End: 01:34:05.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:34:33.640
+End: 01:34:35.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:35:03.640
+End: 01:35:05.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:35:33.640
+End: 01:35:35.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:36:03.640
+End: 01:36:05.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:36:33.640
+End: 01:36:35.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:37:03.640
+End: 01:37:05.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:37:33.640
+End: 01:37:35.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:38:03.640
+End: 01:38:05.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:38:33.640
+End: 01:38:35.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:39:03.640
+End: 01:39:05.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:39:33.640
+End: 01:39:35.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:40:03.640
+End: 01:40:05.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:40:33.640
+End: 01:40:35.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:41:03.640
+End: 01:41:05.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:41:33.640
+End: 01:41:35.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:42:03.640
+End: 01:42:05.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:42:33.640
+End: 01:42:35.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:43:03.640
+End: 01:43:05.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:43:33.640
+End: 01:43:35.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:44:03.640
+End: 01:44:05.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:44:33.640
+End: 01:44:35.640
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+City Clerk:
+Start: 01:44:57.520
+End: 01:44:59.520
+Duration: 2.000 seconds
+Text: You
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:44:59.520
+End: 01:45:04.720
+Duration: 5.200 seconds
+Text: All right, no binding action was taken during an executive session.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:45:04.720
+End: 01:45:08.040
+Duration: 3.320 seconds
+Text: Therefore, no vote in the open meeting is needed.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:45:08.040
+End: 01:45:09.720
+Duration: 1.680 seconds
+Text: Is there a motion to adjourn?
+--------------------------------------------------
+Staff Member:
+Start: 01:45:09.720
+End: 01:45:11.200
+Duration: 1.480 seconds
+Text: Yeah, I'm going to adjourn.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:45:11.200
+End: 01:45:12.200
+Duration: 1.000 seconds
+Text: The second?
+--------------------------------------------------
+Staff Member:
+Start: 01:45:12.200
+End: 01:45:13.200
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:45:13.200
+End: 01:45:17.000
+Duration: 3.800 seconds
+Text: It's been moved by Commissioner Reddy, seconded by Commissioner Morris to adjourn.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:45:17.000
+End: 01:45:18.000
+Duration: 1.000 seconds
+Text: Please call the roll.
+--------------------------------------------------
+Staff Member:
+Start: 01:45:18.000
+End: 01:45:19.000
+Duration: 1.000 seconds
+Text: Mr. Butler?
+--------------------------------------------------
+Staff Member:
+Start: 01:45:19.000
+End: 01:45:20.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Staff Member:
+Start: 01:45:20.000
+End: 01:45:21.000
+Duration: 1.000 seconds
+Text: Commissioner Mada?
+--------------------------------------------------
+Staff Member:
+Start: 01:45:21.000
+End: 01:45:22.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Staff Member:
+Start: 01:45:22.000
+End: 01:45:23.000
+Duration: 1.000 seconds
+Text: Commissioner Morris?
+--------------------------------------------------
+Staff Member:
+Start: 01:45:23.000
+End: 01:45:24.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Staff Member:
+Start: 01:45:24.000
+End: 01:45:25.000
+Duration: 1.000 seconds
+Text: Mayor Hanna's hall?
+--------------------------------------------------
+Staff Member:
+Start: 01:45:25.000
+End: 01:45:26.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Staff Member:
+Start: 01:45:26.000
+End: 01:45:27.000
+Duration: 1.000 seconds
+Text: Commissioner Reddy?
+--------------------------------------------------
+Staff Member:
+Start: 01:45:27.000
+End: 01:45:28.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Staff Member:
+Start: 01:45:28.000
+End: 01:45:29.000
+Duration: 1.000 seconds
+Text: Mr. Serrow.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:45:29.000
+End: 01:45:30.000
+Duration: 1.000 seconds
+Text: Meeting adjourned.
+--------------------------------------------------
+Mayor Mark Hattiesel:
+Start: 01:45:30.000
+End: 01:45:31.000
+Duration: 1.000 seconds
+Text: Thank you for attending.
+--------------------------------------------------

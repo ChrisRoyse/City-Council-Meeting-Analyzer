@@ -1,0 +1,161 @@
+{
+  "open_ended_analysis": {
+    "primary_themes": [
+      {
+        "theme": "Community Development",
+        "description": "The majority of the meeting seemed to be centered around developments in the community, with two primary pieces of legislation involving landscaping requirements for a school and the installation of a digital sign.",
+        "notable_points": [
+          "Reduction of landscaping requirements for Blue Month Elementary School",
+          "Approval of digital sign for the Riley County Health Department"
+        ]
+      }
+    ],
+    "significant_discussions": [
+      {
+        "topic": "Landscaping Requirements for Blue Month Elementary School",
+        "significance": "This was significant as it involved changing previously set regulations, indicating a potential shift in community standards for development. It represents weighing benefit of development against community aesthetic standards.",
+        "stakeholders": [
+          "Manhattan Urban Area Planning Board",
+          "Community Commissioners",
+          "Blue Month Elementary School"
+        ]
+      },
+      {
+        "topic": "Implementation of Digital Sign for Riley County Health Department",
+        "significance": "This discussion was notable because it suggests the city is adapting to modern communication methods and technology. The sign is also designed to quickly disseminate information to public.",
+        "stakeholders": [
+          "Riley County Health Department",
+          "Community Commissioners"
+        ]
+      }
+    ],
+    "unexpected_elements": [
+      {
+        "element": "Executive Session without Vote",
+        "context": "The council went into executive session to discuss terms of an agreement, but no vote or binding action was taken during this session. This is noteworthy as typically, executive sessions can result in significant decision-making. It indicates potential ongoing negotiations or discussions on complex issues."
+      }
+    ]
+  },
+  "directed_analysis": {
+    "land_use": {
+      "present": true,
+      "significance": "High",
+      "context": "The discussion in the meeting revolved mainly around land use, including the reduction of landscaping requirements for Blue Month Elementary School and a request from the Riley County Health Department to install a digital sign on their premises. The aspects of signage, zoning, and legislation surrounding these topics were discussed.",
+      "notable_points": [
+        "Reduction of landscaping requirements for Blue Month Elementary School was approved.",
+        "The digital graphics sign for Riley County Health Department was discussed and eventually approved despite initial reservations given that it is situated in a residential area."
+      ]
+    },
+    "economic_development": {
+      "present": false,
+      "significance": "N/A",
+      "context": "Economic development topics were not discussed in this meeting.",
+      "notable_points": []
+    },
+    "taxes_budget": {
+      "present": false,
+      "significance": "N/A",
+      "context": "Taxes and budget topics were not discussed in this meeting.",
+      "notable_points": []
+    },
+    "other_significant_topics": [
+      {
+        "topic": "Public Safety",
+        "significance": "Medium",
+        "context": "Discussion about the digital signage at the health department also touches on public safety. There are concerns around digital signs causing distraction for drivers and potential issues with brightness, especially in residential areas. The approval of the sign came with the condition that it can't be an animated sign to ensure the safety of motorists."
+      },
+      {
+        "topic": "Employer-Employee Negotiations",
+        "significance": "Medium",
+        "context": "Towards the end of the meeting, there was a move to recess into Executive Session to discuss the terms of an agreement between the City administration and Local 2275 International Association of Firefighters. However, the details or context of these negotiations were not provided."
+      }
+    ]
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 4,
+      "speaking_time": {
+        "Staff Member": 161.48,
+        "Mayor Mark Hattiesel": 93.19999999999999,
+        "Director of Community Development, Steph New Peterson": 105.36000000000001,
+        "City Clerk": 137.20000000000002
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [
+        "Mayor Mark Hattiesel",
+        "Director of Community Development, Steph New Peterson",
+        "Staff Member"
+      ],
+      "observation": "Mayor Hattiesel and Director Peterson tend to lead or initiate a large part of the discussion. The Staff Member has the longest speaking time, indicating a significant involvement in the meeting discussions."
+    },
+    "interaction_patterns": {
+      "pattern": "The speakers take turns discussing and voting on agenda items. Typically, an item is introduced by a council member, followed by an open discussion, and concluded with a vote call.",
+      "notable_exchanges": [
+        "Mayor Hattiesel often cedes the floor for guest speakers and then mediates the subsequent discussion."
+      ]
+    },
+    "topic_ownership": [
+      {
+        "speaker": "Director of Community Development, Steph New Peterson",
+        "topics": [
+          "Community development",
+          "Zoning",
+          "City planning"
+        ]
+      },
+      {
+        "speaker": "Staff Member",
+        "topics": [
+          "General Agenda",
+          "Executive session"
+        ]
+      }
+    ],
+    "public_participation": {
+      "level": "Low",
+      "observation": "The public does not seem to have a strong presence in this meeting. Public opinion is discussed but there does not seem to be active participation from the public during this meeting."
+    }
+  },
+  "emergent_patterns": {
+    "recurring_themes": [
+      {
+        "theme": "Balancing community interests and need for development",
+        "evidence": "The transcript shows continuous discussions and decisions regarding development requirements, such as reduced landscaping at the blue month elementary school and installation of a digital graphics sign, while considering the potential impact on the community."
+      },
+      {
+        "theme": "Continuous improvement and adaptation",
+        "evidence": "There is a recurring mention of updating and modifying the City's codes and processes to remain current with industry trends."
+      },
+      {
+        "theme": "Community Safety",
+        "evidence": "Throughout the discussion, safety of the community members, such as motorists, is considered a significant factor."
+      }
+    ],
+    "underlying_tensions": [
+      {
+        "tension": "Tension between development and preservation of community integrity",
+        "between": [
+          "City council",
+          "Community"
+        ],
+        "context": "The council has to make decisions that allow development (e.g. signs, reduced landscaping) but also protect the interests of community members."
+      }
+    ],
+    "decision_patterns": {
+      "pattern": "Decisions are made on a collective basis, usually through passing motions and roll call voting.",
+      "observation": "There seems to be a democratically collaborative decision-making process, with ample opportunity for discussion and questioning before final decisions are made."
+    },
+    "language_patterns": {
+      "formality": "High",
+      "technical_density": "Medium",
+      "emotional_tone": "Neutral",
+      "notable_features": [
+        "Use of formalized procedures and vocabulary (motions, roll call), use of technical language regarding ordinances and public policy."
+      ]
+    },
+    "other_insights": [
+      "The council works towards ensuring transparency with the public through open discussions and allowing public comments on key decisions."
+    ]
+  }
+}

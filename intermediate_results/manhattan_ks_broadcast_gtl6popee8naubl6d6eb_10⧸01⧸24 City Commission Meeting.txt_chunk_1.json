@@ -1,0 +1,222 @@
+{
+  "open_ended_analysis": {
+    "primary_themes": [
+      {
+        "theme": "Community Health and Workers",
+        "description": "Recognition of Physician Assistance and their significant impact on healthcare in the city, particularly in underserved areas.",
+        "notable_points": [
+          "Mayor Proto proclaims October 6 through 12 as National Physician's Assistant week",
+          "Acknowledgement of PA's for their contribution in delivering quality healthcare"
+        ]
+      },
+      {
+        "theme": "Domestic Violence Awareness",
+        "description": "The council discusses the issue of domestic violence, acknowledging its severe impact on victims, their families, and society at large.",
+        "notable_points": [
+          "Proclamation of October 20-24 as Domestic Violence Awareness month",
+          "Presentation of local and national statistics highlighting the severity of the issue"
+        ]
+      },
+      {
+        "theme": "Local Development and Community Building",
+        "description": "Various topics were broached including the city's 2025 budget plan, housing grievances, and transportation services.",
+        "notable_points": [
+          "Question raised over the allocation of debt funds for 2024 to 2025",
+          "Citizens voiced concern over the commission's approach to community representation, socio-economic issues, and transparency of decisions"
+        ]
+      }
+    ],
+    "significant_discussions": [
+      {
+        "topic": "Community Health, Workforce and Budget",
+        "significance": "The recognition and allocation of resources towards healthcare reflects the city's commitment to its residents' well-being. Similarly, budget discussions show the accountability and transparency that such processes demand from the council.",
+        "stakeholders": [
+          "City council",
+          "PA professionals",
+          "Healthcare providers",
+          "Manhattan residents",
+          "Taxpayers"
+        ]
+      },
+      {
+        "topic": "Domestic Violence Awareness",
+        "significance": "Bringing attention to the issue of domestic violence promotes a supportive and safe environment for victims to seek help. It's an important step towards a community-wide effort to eliminate domestic violence.",
+        "stakeholders": [
+          "City council",
+          "Manhattan residents",
+          "Crisis center providers",
+          "Domestic violence victims and their families"
+        ]
+      },
+      {
+        "topic": "Local Development and Community Building",
+        "significance": "These discussions highlight the various challenges and opportunities within the local community in areas such as housing, transportation, and economy. The exchange between citizens and the city commission also reflects the necessity for dialogue and collaboration in policy-making.",
+        "stakeholders": [
+          "City council",
+          "Local business owners",
+          "Manhattan residents",
+          "Housing and transportation providers"
+        ]
+      }
+    ],
+    "unexpected_elements": [
+      {
+        "element": "Repeated pronunciation of the name 'Borges' during the recognition of Physician's Assistance",
+        "context": "This peculiar moment is unexpected in a formal meeting transcript. The repeated attempts to get the correct pronunciation of the name 'Borges' could signify the emphasis on respect and correct acknowledgement."
+      },
+      {
+        "element": "Discussion around personal stories",
+        "context": "Personal stories from individuals like Darian and Amber about experiences with inequality, LGBT+ rights, and housing challenges surfaced during the meeting, highlighting personal and emotive perspectives often unseen in formal council meetings."
+      }
+    ]
+  },
+  "directed_analysis": {
+    "land_use": {
+      "present": false,
+      "significance": "Low",
+      "context": "Land use was not explicitly discussed during this meeting",
+      "notable_points": []
+    },
+    "economic_development": {
+      "present": false,
+      "significance": "Low",
+      "context": "There was no specific discussion on economic development in terms of business growth or industry expansion.",
+      "notable_points": []
+    },
+    "taxes_budget": {
+      "present": true,
+      "significance": "High",
+      "context": "Taxes and budget were a significant topic of discussion. Some speakers critiqued the Commission's handling of finances and suggested that they more carefully consider implications on taxpayers.",
+      "notable_points": [
+        "A member of the public criticized the Commission's recent property tax decisions and the 2025 budget.",
+        "There was a discussion on the extraction of millions for debt service for 2024 into 2025."
+      ]
+    },
+    "other_significant_topics": [
+      {
+        "topic": "Healthcare Services",
+        "significance": "High",
+        "context": "The role and value of physician assistants were discussed at depth, including their importance to rural areas and their ability to improve patient's quality of life."
+      },
+      {
+        "topic": "Domestic Violence Awareness",
+        "significance": "High",
+        "context": "Domestic Violence Awareness was a significant topic discussed. There were talks on the impacts of domestic violence and services available for victims."
+      }
+    ]
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 5,
+      "speaking_time": {
+        "Transcription and Diarization for manhattan_ks_broadcast_gtl6popee8naubl6d6eb_10\u29f801\u29f824 City Commission Meeting.mp4": 3.5,
+        "Commissioner Mitten": 406.84000000000003,
+        "Mayor Susan Annabcheck": 975.1,
+        "Commissioner Mata": 428.92,
+        "Commissioner Cummins": 29.0
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [
+        "Mayor Susan Annabcheck",
+        "Commissioner Mitten",
+        "Commissioner Mata"
+      ],
+      "observation": "Mayor Susan Annabcheck speaks most frequently and for the longest total duration, indicating that she leads the meeting and drives the topics of discussion. Commissioner Mitten and Commissioner Mata are also vocal and spent considerable amounts of time speaking, indicating they play an active, significant role in the dialogue and decisions."
+    },
+    "interaction_patterns": {
+      "pattern": "The speaker's interchanges appear fairly structured - with the Mayor leading the proceedings. Every speaker gets a chance to speak without much interruption, although some back-and-forth discussions are noted among the commissioners",
+      "notable_exchanges": [
+        "Discussion between Commissioners about the cemetery, potential property tax relief, and comments about the Riley County Law Board",
+        "Exchange between Mayor Susan Annabcheck and Jessica Winters concerning her address issue"
+      ]
+    },
+    "topic_ownership": [
+      {
+        "speaker": "Mayor Susan Annabcheck",
+        "topics": [
+          "General administration, Conducting the meeting, Domestic violence awareness month, Physician's assistance and community acknowledgements"
+        ]
+      },
+      {
+        "speaker": "Commissioner Mitten",
+        "topics": [
+          "Specific issues affecting the community"
+        ]
+      },
+      {
+        "speaker": "Commissioner Mata",
+        "topics": [
+          "Potential property tax relief"
+        ]
+      },
+      {
+        "speaker": "Commissioner Cummins",
+        "topics": [
+          "Not clear from the data provided"
+        ]
+      },
+      {
+        "speaker": "Gary Ols",
+        "topics": [
+          "Critique of the R&R hearing and budget hearing process, Property taxes"
+        ]
+      },
+      {
+        "speaker": "Darian Smith-Getchall and Jessica Winters",
+        "topics": [
+          "Self-representation, Personal experiences and comments about the Commissioners"
+        ]
+      },
+      {
+        "speaker": "Amber Starling",
+        "topics": [
+          "Personal experiences related to her wife and issues of acceptance"
+        ]
+      }
+    ],
+    "public_participation": {
+      "level": "High",
+      "observation": "The meeting had significant participation from several members of the public who spoke on a range of issues. Public comments included personal experiences, advocacy, criticism of the city council and proposals for changes."
+    }
+  },
+  "emergent_patterns": {
+    "recurring_themes": [
+      {
+        "theme": "Acknowledgement of the role and importance of Physician's assistance",
+        "evidence": "The council highlighted the contribution of Physician's assistance to the community and even had a proclamation celebrating them."
+      },
+      {
+        "theme": "Community involvement and representation",
+        "evidence": "Several citizens voiced concern about feeling underrepresented or overlooked by the council, expressing the desire for more transparency and equity in decision-making"
+      }
+    ],
+    "underlying_tensions": [
+      {
+        "tension": "Concerns about transparency and fairness",
+        "between": [
+          "City Council Commissioners",
+          "Local citizens"
+        ],
+        "context": "Several speakers expressed dissatisfaction with perceived inconsistencies in enforcement of speaking rules or decision-making protocols, implying a desire for more transparency and fairness"
+      }
+    ],
+    "decision_patterns": {
+      "pattern": "Decisions are made through voting and open discussions among city council commissioners",
+      "observation": "The commissioners present the issues, discuss them, take public input and vote to make decisions"
+    },
+    "language_patterns": {
+      "formality": "High",
+      "technical_density": "Medium",
+      "emotional_tone": "Mostly calm, occasionally emotional",
+      "notable_features": [
+        "Official titles are used consistently",
+        "Addresses accompanying public comments",
+        "Repetition of names to ensure clear recognition and accuracy"
+      ]
+    },
+    "other_insights": [
+      "Engagement with the public was encouraged and facilitated, but certain community members expressed dissatisfaction with perceived inconsistencies in these practices"
+    ]
+  }
+}

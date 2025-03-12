@@ -1,0 +1,177 @@
+{
+  "open_ended_analysis": {
+    "primary_themes": [
+      {
+        "theme": "Tackling Gender Inequality",
+        "description": "The city council honored International Women's Day and discussed the importance of women's rights and participation in society.",
+        "notable_points": [
+          "Reading of the proclamation for International Women's Day",
+          "Recognition of the contributions and efforts of the American Association of University Women"
+        ]
+      },
+      {
+        "theme": "Community Improvement Initiatives",
+        "description": "The council recognized the Greater Manhattan Community Foundation for its contributions to the betterment of the local community.",
+        "notable_points": [
+          "Discussion about the foundation's philanthropic impact",
+          "Celebration of the foundation's 25th anniversary"
+        ]
+      },
+      {
+        "theme": "Industrial Revenue Bonds (IRB) and Housing Development",
+        "description": "The council engaged in an in-depth discussion regarding the use of industrial revenue bonds (IRB) for rental housing development projects. The focus was on refining the proposed policy and identifying specific criteria to incentivize desirable projects.",
+        "notable_points": [
+          "Discussion on basic requirements and scoring criteria for IRB",
+          "Discussion on creating a policy for using IRB for rental housing development"
+        ]
+      }
+    ],
+    "significant_discussions": [
+      {
+        "topic": "Application of Industrial Revenue Bonds (IRB) in Rental Housing Development",
+        "significance": "This matter is significant as it could directly influence the future development of rental housing in Manhattan, potentially improving the availability of quality rental properties and addressing the city's workforce housing needs.",
+        "stakeholders": [
+          "City commission",
+          "Potential property developers",
+          "Local workforce",
+          "Residents"
+        ]
+      }
+    ],
+    "unexpected_elements": [
+      {
+        "element": "Lack of Public and Commissioner Comments",
+        "context": "Despite the presence of significant topics such as gender equality, community philanthropy and rental housing development, there were no public comments made on these issues. Additionally, there were no comments from the commissioners themselves, which is unexpected in a democratic assembly."
+      }
+    ]
+  },
+  "directed_analysis": {
+    "land_use": {
+      "present": true,
+      "significance": "High",
+      "context": "Land use was a significant point in the meeting, particularly in relation to the development of rental properties. The meeting discussed the proposed policy on Industrial Revenue Bonds (IRBs), which are intended to incentivize development initiatives. Discussions highlighted the requirements and criteria for qualifying developments, including the fact that projects must yield a net gain of two or more dwelling units and must be rental properties. Factors such as the lot size efficiency, proximity to services, and plans for desirable public infrastructure improvements were also discussed as potential scoring criteria.",
+      "notable_points": [
+        "Industrial Revenue Bonds (IRBs) can be used to promote rental housing development",
+        "Projects with a net gain of two or more dwelling units are eligible for IRBs",
+        "Projects must be able to come online within a certain timeframe, potentially three years",
+        "IRBs can potentially incentivize development in specific areas like Aggieville or downtown",
+        "The possibility of giving priority to projects that are under a district plan"
+      ]
+    },
+    "economic_development": {
+      "present": true,
+      "significance": "High",
+      "context": "Economic development was a key theme in the meeting, with discussions centered around how to incentivize development to stimulate population growth, increase rental options, and foster economic activity. The introduction of IRBs as a potential tool for driving development was a focal point.",
+      "notable_points": [
+        "The discussion of ways to incentivize development, such as through the use of IRBs",
+        "The proposal would promote developments that contribute to economic development in areas such as Aggieville or downtown",
+        "The significance of IRBs in steering economic development within the city"
+      ]
+    },
+    "taxes_budget": {
+      "present": true,
+      "significance": "High",
+      "context": "The topic of taxes was frequently brought up in relation to the proposed IRBs. The potential for property tax abatements and sales tax exemptions for qualifying developments was discussed in depth. Specifying the projected tax implications for these qualifying developments over the course of a decade was discussed by the council and was an important aspect of the meeting.",
+      "notable_points": [
+        "The possibility of a property tax abatement for qualifying developments",
+        "The potential for a sales tax exemption on construction materials and labor for qualifying projects",
+        "The discussion of annual tax liability over a 10-year period"
+      ]
+    },
+    "other_significant_topics": [
+      {
+        "topic": "Significance of Women's Rights",
+        "significance": "Medium",
+        "context": "The meeting acknowledged International Women's Day and its significance within the city. There was a proclamation calling on all citizens to observe March as National Women's History Month as well as International Women's Day - March 8, 2024, which was read during the meeting."
+      }
+    ]
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 6,
+      "speaking_time": {
+        "Transcription and Diarization for manhattan_ks_broadcast_bcvyeoivpyj3px4felzf_03\u29f805\u29f824 City Commission Meeting.mp4": 7.72,
+        "Mayor Butler": 403.47999999999985,
+        "City Clerk": 334.04,
+        "Commissioner Adam Chad": 132.00000000000003,
+        "Stephanie Peterson, Director of Community Development": 883.2800000000002,
+        "City Manager": 141.28
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [
+        "Mayor Butler",
+        "Stephanie Peterson, Director of Community Development"
+      ],
+      "observation": "Mayor Butler, being the Mayor, leads the general operation of the meeting, largely controlling the order and flow of the meeting. Additionally, Stephanie Peterson, the Director of Community Development, has substantial speaking time and is the main presenter of the meeting's topic, suggesting her important role in city policies and ordinances."
+    },
+    "interaction_patterns": {
+      "pattern": "The interaction mostly follows a pattern of officials presenting information or proposals, followed by some discussion or questioning among all meeting participants. Virtually all discussions are conducted responsibly and in a focused fashion with no noticeable conflicts.",
+      "notable_exchanges": [
+        "The detailed discussion about IRBs between Stephanie Peterson and various Commissioners."
+      ]
+    },
+    "topic_ownership": [
+      {
+        "speaker": "Mayor Butler",
+        "topics": [
+          "Leading the meeting flow",
+          "Approval of agenda items"
+        ]
+      },
+      {
+        "speaker": "Stephanie Peterson, Director of Community Development",
+        "topics": [
+          "Community development projects",
+          "Industrial Revenue Bonds",
+          "Housing initiatives"
+        ]
+      }
+    ],
+    "public_participation": {
+      "level": "Low",
+      "observation": "Public members are present and some aspect of their projects are discussed, however, no direct verbal participation from the public audience is documented in the provided information."
+    }
+  },
+  "emergent_patterns": {
+    "recurring_themes": [
+      {
+        "theme": "Discussion on Industrial Revenue Bonds (IRBs)",
+        "evidence": "Throughout the meeting, there is continued discussion and debate on the use, application, and effectiveness of Industrial Revenue Bonds (IRBs) as a tool for incentivizing developmental projects. The concentration is on policy issues, specific criteria for awarding points based on the type of product, and how they affect residential properties primarily in the context of rental units and high-density developments."
+      },
+      {
+        "theme": "Women's equality and rights",
+        "evidence": "The meeting starts with a reading of the proclamation related to International Women's Day, signifying a commitment to promoting women's rights and equality."
+      },
+      {
+        "theme": "Community Development and Recognition",
+        "evidence": "The meeting discusses the work and future projects of Greater Manhattan Community Foundation, and highlights the significance and appreciation for community contributions in Manhattan."
+      }
+    ],
+    "underlying_tensions": [
+      {
+        "tension": "Conflict over resources and their distribution",
+        "between": [
+          "City Commission",
+          "Developers"
+        ],
+        "context": "The commissioners are grappling with how best to allocate resources like IRBs to spur desired development. The tension exists between fulfilling developers' demands and adhering to the city\u2019s growth priorities."
+      }
+    ],
+    "decision_patterns": {
+      "pattern": "Collective decision making",
+      "observation": "Decisions seem to be made through a democratic and participative process, with each Commissioner given the opportunity to express their views and concerns. Points are considered in favor of IRBs, and against, allowing for a balanced decision-making process."
+    },
+    "language_patterns": {
+      "formality": "High",
+      "technical_density": "High",
+      "emotional_tone": "Neutral with occasional humorous light-heartedness",
+      "notable_features": [
+        "Use of formal language and technical terms related to city governance and urban planning."
+      ]
+    },
+    "other_insights": [
+      "There's also a notable focus on inclusion and diversity, evident in the acknowledgement of International Women's Day and the attention given to upcoming events promoting the empowerment of women. This highlights an intention towards the promotion of a diverse and inclusive city culture."
+    ]
+  }
+}

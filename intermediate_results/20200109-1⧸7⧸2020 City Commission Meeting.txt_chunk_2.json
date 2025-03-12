@@ -1,0 +1,178 @@
+{
+  "open_ended_analysis": {
+    "primary_themes": [
+      {
+        "theme": "Community Engagement and Recognition",
+        "description": "The meeting featured various instances of community engagement, through discussions on the importance of involving a diverse range of community members on advisory boards and ensuring that everyone is a part of the decision-making process.",
+        "notable_points": [
+          "Recognition of Jared's new city flag initiative",
+          "Appreciation for the diverse city commission in the Manhattan Community"
+        ]
+      },
+      {
+        "theme": "Mental Health",
+        "description": "One key theme was the importance of mental health, with emphasis being put on finding solutions and preventive measures, working on timelines and ways to fund these initiatives.",
+        "notable_points": [
+          "The mention of the crisis stabilization center",
+          "The commitment to work closely with educational entities and businesses to address mental health issues"
+        ]
+      }
+    ],
+    "significant_discussions": [
+      {
+        "topic": "Addressing Mental Health Issues",
+        "significance": "The topic of mental health was raised repeatedly. The significance lies in the recognition that it is an important issue that needs attention and resources.",
+        "stakeholders": [
+          "Manhattan community",
+          "USD-383",
+          "Kansas State University",
+          "Manhattan Area Technical College",
+          "Flint Hills Job Corps",
+          "Manhattan Christian College",
+          "Fort Riley"
+        ]
+      },
+      {
+        "topic": "Diversity and Inclusivity",
+        "significance": "There was a significant emphasis on the diversity and inclusivity of the city commission, reflecting the diverse nature of the Manhattan community. This carries significance in terms of democracy and representation.",
+        "stakeholders": [
+          "Manhattan community"
+        ]
+      }
+    ],
+    "unexpected_elements": [
+      {
+        "element": "The humorous story about Jared's city flag initiative",
+        "context": "This story showed that the city staff and commission are approachable and can act swiftly on new ideas, even those initially mentioned in passing."
+      }
+    ]
+  },
+  "directed_analysis": {
+    "land_use": {
+      "present": false,
+      "significance": "N/A",
+      "context": "Land use was not discussed in this meeting",
+      "notable_points": []
+    },
+    "economic_development": {
+      "present": true,
+      "significance": "High",
+      "context": "Dr. Lind emphasized economic development in terms of workforce development, filling jobs, and attracting businesses. She mentioned working closely with educational entities such as Kansas State University, Manhattan Christian College, Manhattan Area Technical College, etc. to fill the jobs. She also mentioned the need for businesses to have safe zones and flexible schedules to support mental health.",
+      "notable_points": [
+        "Need for more safe workplaces and flexible schedules",
+        "Emphasized collaboration with educational entities and businesses for economic development"
+      ]
+    },
+    "taxes_budget": {
+      "present": true,
+      "significance": "Medium",
+      "context": "The discussion around taxes and budgeting centered around improving and investing back in the Manhattan community. Types of tax initiatives mentioned include: community improvement district for the Manhattan Town Center, Transient Guest Tax to improve the Manhattan Convention Center expansion, Tax Increment Financing District for Aggieville Business District and downtown, and several sales tax initiatives for parks and recreation. Dr. Lind mentioned how these tax initiatives were approved by the community, signifying their desire for progress.",
+      "notable_points": [
+        "Several tax initiatives implemented",
+        "Community approval for tax initiatives",
+        "Focus on investing back into the community"
+      ]
+    },
+    "other_significant_topics": [
+      {
+        "topic": "Mental Health",
+        "significance": "High",
+        "context": "Dr. Lind showed deep concern about mental health issues in the community, mentioning personal knowledge of recent suicides. She identified the need for resources, prevention measures, and removal of stigma in mental health care. She voiced intentions to work closely with the local University, School District, and businesses for solutions and preventive measures."
+      },
+      {
+        "topic": "Community diversity and unity",
+        "significance": "High",
+        "context": "Dr. Lind spoke proudly of the diversity in the Manhattan City Commission. She highlighted how, despite differences in religion, political affiliation, gender, race, age, sexual orientation, and marital status, the commission worked well together with respect for one another. She linked this unity to the success of the Manhattan community."
+      }
+    ]
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 4,
+      "speaking_time": {
+        "Commissioner Usha Reddi": 639.0,
+        "Speaker_0": 33.0,
+        "Commissioner Linda Morse": 1200.0,
+        "City Clerk Brenda Wolf": 366.0
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [
+        "Commissioner Linda Morse",
+        "Commissioner Usha Reddi"
+      ],
+      "observation": "Commissioner Linda Morse had the longest speaking time, showing a high level of control over the discussion. Commissioner Usha Reddi also had significant control over meeting discussions although the speaking time was lower than Commissioner Linda Morse."
+    },
+    "interaction_patterns": {
+      "pattern": "Speakers generally take turns speaking and there is little contention.",
+      "notable_exchanges": [
+        "Dialogue about the hardship of running for office and the cutting of the ribbon at ceremonies - shows a level of camaraderie among participants"
+      ]
+    },
+    "topic_ownership": [
+      {
+        "speaker": "Commissioner Usha Reddi",
+        "topics": [
+          "Recognition of service, governance issues"
+        ]
+      },
+      {
+        "speaker": "Commissioner Linda Morse",
+        "topics": [
+          "City improvements, diversity, mental health, economic development"
+        ]
+      },
+      {
+        "speaker": "City Clerk Brenda Wolf",
+        "topics": [
+          "Acknowledgement of contributions"
+        ]
+      }
+    ],
+    "public_participation": {
+      "level": "Low",
+      "observation": "No public input was documented in the excerpts. All speaking time came from officials indicating public engagement was low during this meeting period."
+    }
+  },
+  "emergent_patterns": {
+    "recurring_themes": [
+      {
+        "theme": "Appreciation and Gratitude",
+        "evidence": "There are consistent expressions of appreciation and gratitude throughout the transcript, from attendees expressing thanks to each other, to city officials thanking community members."
+      },
+      {
+        "theme": "Collaboration and Partnership",
+        "evidence": "The narrative suggests a strong emphasis on close cooperation among city staff, commissioners and the community. There is a repeated mention of the collective efforts and the benefits derived from it."
+      },
+      {
+        "theme": "Community Engagement and Improvement",
+        "evidence": "The transcript reveals a commitment to community outreach and public participation, as illustrated by discussions around improvements, initiatives, and city flag designs."
+      }
+    ],
+    "underlying_tensions": [
+      {
+        "tension": "Mental Health",
+        "between": [
+          "The City Commission",
+          "The Community"
+        ],
+        "context": "Mention of several suicides highlights an urgent need for preventative measures and resources for mental health. It\u2019s a major public concern that the commission faces which requires careful and immediate attention."
+      }
+    ],
+    "decision_patterns": {
+      "pattern": "Democratic Participation",
+      "observation": "City council decisions are taken with major contribution from Commissioners, City Staff, and the Community which is evident from discussions around city flag design and mental health."
+    },
+    "language_patterns": {
+      "formality": "Medium",
+      "technical_density": "Low",
+      "emotional_tone": "Positive and earnest with a sense of urgency for certain issues",
+      "notable_features": [
+        "Frequent use of appreciative language, and a conversational tone that indicates an informal, participatory atmosphere"
+      ]
+    },
+    "other_insights": [
+      "Inclusion and Diversity is highlighted as a strength, suggesting a city council that embraces different backgrounds. The council seems proud of this, indicating a commitment to maintaining such diversity."
+    ]
+  }
+}

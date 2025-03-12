@@ -1,0 +1,2973 @@
+Transcription and Diarization for 20200109-1⧸7⧸2020 City Commission Meeting.mp4
+==================================================
+
+Mayor Mike Dodson:
+Start: 00:00:00.000
+End: 00:00:05.440
+Duration: 5.440 seconds
+Text: We will call the January 7th meeting of the Manhattan City Commission meeting to order.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:00:05.440
+End: 00:00:08.800
+Duration: 3.360 seconds
+Text: The first order of business will be the Pledge of Allegiance.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:00:08.800
+End: 00:00:09.800
+Duration: 1.000 seconds
+Text: Please follow me.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:00:09.800
+End: 00:00:16.800
+Duration: 7.000 seconds
+Text: The Pledge of Allegiance is to the flag of the United States of America and to the Republic
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:00:16.800
+End: 00:00:24.800
+Duration: 8.000 seconds
+Text: for which it stands, one nation under God, indivisible with liberty and justice for
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:00:24.800
+End: 00:00:25.800
+Duration: 1.000 seconds
+Text: all.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:00:39.800
+End: 00:00:56.800
+Duration: 17.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:00:56.800
+End: 00:01:00.800
+Duration: 4.000 seconds
+Text: Technically challenged.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:01:00.800
+End: 00:01:06.800
+Duration: 6.000 seconds
+Text: Well, it's probably fitting to start off the new year with a great proclamation.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:01:07.800
+End: 00:01:10.640
+Duration: 2.840 seconds
+Text: We've got a lot of great folks here to receive it.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:01:10.640
+End: 00:01:16.800
+Duration: 6.160 seconds
+Text: This is for the Dr. Martin Luther King Jr. Community Celebration and Day of Service.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:01:16.800
+End: 00:01:22.040
+Duration: 5.240 seconds
+Text: So as everybody knows in this town, we take great pride in the celebrations that we have
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:01:22.040
+End: 00:01:23.800
+Duration: 1.760 seconds
+Text: for Dr. King.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:01:23.800
+End: 00:01:26.800
+Duration: 3.000 seconds
+Text: We have Juneteenth, which helps do that as well.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:01:26.800
+End: 00:01:28.800
+Duration: 2.000 seconds
+Text: We get closer to the summertime.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:01:28.800
+End: 00:01:34.800
+Duration: 6.000 seconds
+Text: But in the meantime, we're going to do this great celebration tonight.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:01:34.800
+End: 00:01:42.800
+Duration: 8.000 seconds
+Text: And I'd ask all of those involved to please come forward and we'll make this proclamation.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:01:42.800
+End: 00:02:00.800
+Duration: 18.000 seconds
+Text: We're going to do it ourselves.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:02:00.800
+End: 00:02:07.800
+Duration: 7.000 seconds
+Text: As January 20th, 2020, Mark Zip Servants of Dr. Martin Luther King Jr. Federal Holiday and
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:02:07.800
+End: 00:02:14.800
+Duration: 7.000 seconds
+Text: Service Days, established by Public Law, numbered 98-144 in 1983.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:02:14.800
+End: 00:02:20.800
+Duration: 6.000 seconds
+Text: Dr. Martin Luther King Jr. devoted his life to advancing equality, social justice, and opportunity
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:02:20.800
+End: 00:02:26.200
+Duration: 5.400 seconds
+Text: for all and challenged all Americans to participate in the never ending work of building a more
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:02:26.200
+End: 00:02:27.200
+Duration: 1.000 seconds
+Text: perfect union.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:02:27.200
+End: 00:02:32.200
+Duration: 5.000 seconds
+Text: It is appropriate for the City of Manhattan to support a community celebration and Day of
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:02:32.200
+End: 00:02:37.560
+Duration: 5.360 seconds
+Text: Service and observance of the King Holiday and Day of Service honoring Dr. Martin Luther
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:02:37.560
+End: 00:02:38.560
+Duration: 1.000 seconds
+Text: King Jr.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:02:38.560
+End: 00:02:44.360
+Duration: 5.800 seconds
+Text: Now, therefore, I, Michael L. Dodson, Mayor of the City of Manhattan, Kansas, through
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:02:44.360
+End: 00:02:50.760
+Duration: 6.400 seconds
+Text: hereby proclaim January 18th through the 20th, 2020, Dr. Martin Luther King Jr. Community
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:02:50.760
+End: 00:02:56.520
+Duration: 5.760 seconds
+Text: Celebration and Day of Service in Manhattan, Kansas, and urge all people to join and
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:02:56.520
+End: 00:03:02.400
+Duration: 5.880 seconds
+Text: pay tribute to the life and works of Dr. Martin Luther King Jr. and apply his life teachings
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:03:02.400
+End: 00:03:08.760
+Duration: 6.360 seconds
+Text: of service to inspire others to serve and remember his spirit of community.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:03:08.760
+End: 00:03:15.760
+Duration: 7.000 seconds
+Text: I can just hold it.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:03:15.760
+End: 00:03:26.000
+Duration: 10.240 seconds
+Text: Well, we appreciate so much the City recognizing this important holiday and we always love the
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:03:26.000
+End: 00:03:31.760
+Duration: 5.760 seconds
+Text: community support that we have on our various events where we join together to celebrate
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:03:31.760
+End: 00:03:36.560
+Duration: 4.800 seconds
+Text: and remember and continue the work of Dr. King in our community.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:03:36.560
+End: 00:03:45.120
+Duration: 8.560 seconds
+Text: This year we'll be kicking off on Saturday, January 18th at 2 o'clock right here at the
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:03:45.120
+End: 00:03:51.560
+Duration: 6.440 seconds
+Text: Peace Memorial Auditorium with our community celebration and we will have a speaker,
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:03:51.560
+End: 00:03:58.240
+Duration: 6.680 seconds
+Text: Lim Shepard, who will be speaking on the Harlem Renaissance and the Kansas contributions
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:03:58.240
+End: 00:04:01.320
+Duration: 3.080 seconds
+Text: that were made by local artists.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:04:01.320
+End: 00:04:04.400
+Duration: 3.080 seconds
+Text: So we're really excited about that presentation.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:04:04.400
+End: 00:04:11.680
+Duration: 7.280 seconds
+Text: We will also be presenting a local award to someone who embodies the spirit of Martin Luther
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:04:11.720
+End: 00:04:20.160
+Duration: 8.440 seconds
+Text: King Jr. here in our community as well as honoring students who won the art and writing contest.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:04:20.160
+End: 00:04:27.560
+Duration: 7.400 seconds
+Text: So they had a theme on one of MLK's quotes and we had over 100 submissions.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:04:27.560
+End: 00:04:31.040
+Duration: 3.480 seconds
+Text: So it's always exciting to recognize those kids.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:04:31.040
+End: 00:04:39.360
+Duration: 8.320 seconds
+Text: And then on Sunday morning we encourage people to celebrate at their various congregations
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:04:39.360
+End: 00:04:46.360
+Duration: 7.000 seconds
+Text: and then Monday morning we have a prayer breakfast at the four points Sheraton at 8am.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:04:46.360
+End: 00:04:48.360
+Duration: 2.000 seconds
+Text: That's it.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:04:48.360
+End: 00:04:49.360
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:04:49.360
+End: 00:04:50.360
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:04:51.360
+End: 00:04:54.360
+Duration: 3.000 seconds
+Text: Can I get a round of applause?
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:04:54.360
+End: 00:04:57.360
+Duration: 3.000 seconds
+Text: Yes, that's a good idea.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:05:21.360
+End: 00:05:36.360
+Duration: 15.000 seconds
+Text: Well, tonight's a little bit different so we have a little different lineup on how we'll go through the business.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:05:36.360
+End: 00:05:42.360
+Duration: 6.000 seconds
+Text: But we'll first have public comment and we'll have commissioner comments.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:05:42.360
+End: 00:05:48.360
+Duration: 6.000 seconds
+Text: Then we'll do a little piece called Old Business for the consent agenda.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:05:48.360
+End: 00:05:53.360
+Duration: 5.000 seconds
+Text: Then we'll have a change where we'll swear in the new commissioners.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:05:53.360
+End: 00:06:05.360
+Duration: 12.000 seconds
+Text: And then we'll have Mayor Pro Tem ready to do the second part of the consent agenda and then we'll move to the general agenda after that.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:06:05.360
+End: 00:06:12.360
+Duration: 7.000 seconds
+Text: So we don't want to confuse you too much but we have a special meeting tonight.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:06:12.360
+End: 00:06:15.360
+Duration: 3.000 seconds
+Text: So item three is public comment.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:06:15.360
+End: 00:06:28.360
+Duration: 13.000 seconds
+Text: And at this time we'd ask anyone in the public who has any comment at all, we'd ask you not to comment on consent agenda or general agenda items because there'll be an opportunity for that later.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:06:28.360
+End: 00:06:33.360
+Duration: 5.000 seconds
+Text: So any item that's not on those two pieces of business, please come forward.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:06:33.360
+End: 00:06:41.360
+Duration: 8.000 seconds
+Text: We just ask you to state your name and where you live and there's a place to sign up on the dius there and we'd love to hear from you.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:06:41.360
+End: 00:06:45.360
+Duration: 4.000 seconds
+Text: So at this time anyone wishing to make public comment, please come forward.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:07:08.360
+End: 00:07:10.360
+Duration: 2.000 seconds
+Text: Try this one.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:07:10.360
+End: 00:07:16.360
+Duration: 6.000 seconds
+Text: Okay. Good evening and congratulations to our newly elected officials.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:07:16.360
+End: 00:07:29.360
+Duration: 13.000 seconds
+Text: And thank you all of you for having helped my effort, our effort at Kansas State University, the community solutions to affordable housing over the past two years with support from the Kansas Health Foundation.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:07:29.360
+End: 00:07:43.360
+Duration: 14.000 seconds
+Text: We have been able to identify through many, many community conversations, priority areas that this town wants to look at in order to improve the quality safety and affordability of housing in our town.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:07:43.360
+End: 00:07:52.360
+Duration: 9.000 seconds
+Text: And I just want to use this opportunity to share with you our thanks and a copy of our two year report.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:07:52.360
+End: 00:08:21.360
+Duration: 29.000 seconds
+Text: Our project is finished as far as Kansas Health Foundation funding is concerned, but we have discovered through developing coalitions with Pearson's interested in workforce housing, person's interested in routineized rental property inspection, person's interested in targeting specific neighborhoods for improvement and revitalization that there are new coalitions forming in this town that have a vital interest and will continue presenting in this form and in other resources.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:08:21.360
+End: 00:08:26.360
+Duration: 5.000 seconds
+Text: And we have been able to identify and provide information about the work that we have done in this form and in other words, what their ideas are.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:08:26.360
+End: 00:08:33.360
+Duration: 7.000 seconds
+Text: Many of these ideas are policy based, but also they are innovation based and very creative.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:08:33.360
+End: 00:08:37.360
+Duration: 4.000 seconds
+Text: So we look forward to sharing you new news of these movements.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:08:37.360
+End: 00:08:42.360
+Duration: 5.000 seconds
+Text: And I'll give a copy of this to someone who can share it with you later.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:08:42.360
+End: 00:08:50.360
+Duration: 8.000 seconds
+Text: We really are deeply grateful for the attention that we have gotten from city staff, the assistance, and every time we've come to this commission to be heard.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:08:50.360
+End: 00:09:10.360
+Duration: 20.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:09:10.360
+End: 00:09:20.360
+Duration: 10.000 seconds
+Text: I'm Jerry Sextro. I'm the secretary with the Flint Hills Human Rights Project. I would like to begin the thing, either Jerry McKee and Michael Dodson for your service here. We do appreciate it.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:09:20.360
+End: 00:09:27.360
+Duration: 7.000 seconds
+Text: I would especially like to thank Jared. He has been an instrumental help with LGBTQ issues.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:09:27.360
+End: 00:09:34.360
+Duration: 7.000 seconds
+Text: I'm the first openly gay mayor or not your commissioner here in Manhattan. We greatly appreciate all your service here.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:09:34.360
+End: 00:09:48.360
+Duration: 14.000 seconds
+Text: And I would like to ask you as a commission here and as you accept new commissioners onto your board, just to please make LGBTQ issues a priority going forward and make sure we continue on the progress that we've made.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:09:48.360
+End: 00:09:54.360
+Duration: 6.000 seconds
+Text: Thank you for your time. I greatly appreciate it. Thank you.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:09:54.360
+End: 00:10:01.360
+Duration: 7.000 seconds
+Text: Anyone else please.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:10:01.360
+End: 00:10:05.360
+Duration: 4.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:10:05.360
+End: 00:10:14.360
+Duration: 9.000 seconds
+Text: If not, we'll close the public comment period and move item four, which is Commissioner comments. We'll start with Linda.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:10:14.360
+End: 00:10:21.360
+Duration: 7.000 seconds
+Text: I always think that whenever there's a Martin Luther King anything I need to come down and be with you all.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:10:21.360
+End: 00:10:41.360
+Duration: 20.000 seconds
+Text: Been a part of it for so many years. But so I'm pleased that to have that the city has had the opportunity to recognize the Martin Luther King event here and the day and the week or whatever and all of the events that you've planned and looking forward to attending them.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:10:41.360
+End: 00:10:48.360
+Duration: 7.000 seconds
+Text: So just like to thank from personally Jared McKee and Mike Dodson for their service on the commission.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:10:48.360
+End: 00:11:02.360
+Duration: 14.000 seconds
+Text: Jared was a two year person and Mike of course was four. But it's been great to get to know them. They've had we all bring different perspectives and views to our commission role.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:11:02.360
+End: 00:11:12.360
+Duration: 10.000 seconds
+Text: It's all turned out well. I think Manhattan is a better community because we have come together and had some of these discussions.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:11:12.360
+End: 00:11:19.360
+Duration: 7.000 seconds
+Text: And so just want to express appreciation to them. Thank you.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:11:19.360
+End: 00:11:24.360
+Duration: 5.000 seconds
+Text: Yeah. So I'm going to go ahead and use this time to kind of give my closing remarks.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:11:24.360
+End: 00:11:35.360
+Duration: 11.000 seconds
+Text: I try to keep them shorter but as I was writing them I you're going to have to listen to me rant one more time. I never know who knows if I'll ever have a platform like this again.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:11:35.360
+End: 00:11:45.360
+Duration: 10.000 seconds
+Text: And so I want to use this time to talk about something I think is really important. So first and foremost I just want to say it's been an absolute privilege to serve with these four on the commission.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:11:45.360
+End: 00:11:53.360
+Duration: 8.000 seconds
+Text: Mayor Dodson, Wynn Butler, they spent years serving our country in the US Army climbing the ranks where they managed.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:11:53.360
+End: 00:12:03.360
+Duration: 10.000 seconds
+Text: There are thousands of people and budgets much larger than that of the city's commissioner Morris who in my opinion is as much of a staple of this community as Bill Snyder is.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:12:03.360
+End: 00:12:13.360
+Duration: 10.000 seconds
+Text: There are very few people in this town who don't know who Linda is and she is regularly and always at every meeting advocating for your interests and the interests of this community.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:12:13.360
+End: 00:12:19.360
+Duration: 6.000 seconds
+Text: And I think that's really special. She's been an advocate for her community and her neighborhood for years and I think that's amazing.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:12:19.360
+End: 00:12:35.360
+Duration: 16.000 seconds
+Text: And then commissioner ready who built her career investing in the talents of our youth and particularly serving youth and underserving youth and underserved communities also in her spare time she's running for US Senate. So she's a busy lady.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:12:35.360
+End: 00:12:45.360
+Duration: 10.000 seconds
+Text: I just I think she's a perfect example of the American dream and why why it's so important and how immigrants make our cities and our communities and our country so much stronger.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:12:45.360
+End: 00:12:52.360
+Duration: 7.000 seconds
+Text: So to say two years ago when I first got set on this commission that it was kind of intimidating to be around all of these accomplished people would be an understatement.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:12:52.360
+End: 00:12:59.360
+Duration: 7.000 seconds
+Text: I was really intimidated right. But I think during that time they've taught me a great deal and I've taught them something too.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:12:59.360
+End: 00:13:10.360
+Duration: 11.000 seconds
+Text: So one kind of big point that I want to make with this kind of comment is all these commissioners on this day attend a lot of meetings more than just the meetings that we do on Tuesday night.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:13:10.360
+End: 00:13:21.360
+Duration: 11.000 seconds
+Text: And really early on when I was going to these meetings it became quite evident to me that at 99% of these meetings I was going to be by far the youngest person in the room by far the youngest person in the room.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:13:21.360
+End: 00:13:31.360
+Duration: 10.000 seconds
+Text: And so it got me thinking a lot of why that was. Why are more young people not elected to public office? Why are more young people not a part of the bodies of these organizations that I'm meeting with.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:13:31.360
+End: 00:13:42.360
+Duration: 11.000 seconds
+Text: And why or 20-somethings largely left out of these conversations. And so I thought about that a lot and you know economic and structural issues play into it but I can't be the whole reason right.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:13:42.360
+End: 00:13:55.360
+Duration: 13.000 seconds
+Text: I'm setting here and I'm fairly poor so I found a way but why is that. And I had a few experiences during my tenure on the commission that I think illustrated why it is and I'll give you a couple here.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:13:55.360
+End: 00:14:10.360
+Duration: 15.000 seconds
+Text: So first when I first elected the main happened mercury often when they would write about me would put my age behind my name. So they would say Jared McKee comma 25 comma they would also reference my fellow commissioners and they never put their age in the newspaper.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:14:10.360
+End: 00:14:23.360
+Duration: 13.000 seconds
+Text: Now I don't think the mercury intended any malice whatsoever when they did this but it was just kind of how it was. Also when I tend to meet people for the first time I'll say something along the lines of high my name is Jared McKee.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:14:23.360
+End: 00:14:41.360
+Duration: 18.000 seconds
+Text: And more than 75% of the time people say oh wow. Oh wow you're a city commissioner right. Oh wow and I'm like yeah I'm not Jared McKee. And I would like to think that they're like very surprised by my beauty or something of that nature but I don't think that's why it is right.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:14:41.360
+End: 00:15:03.360
+Duration: 22.000 seconds
+Text: I think it's their surprise of how young I am. I think a lot of people knew I was young but they were thinking like 35 to 40 a couple kids young not this kids ink on his diploma still wet young. And so just little things like that then one more thing I went to the parks and rec board meeting one time where they were discussing the Warner Park master plan with disc golf and we all know that was a big issue.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:15:03.360
+End: 00:15:13.360
+Duration: 10.000 seconds
+Text: I went to that meeting because I wanted to see how the board interacted and kind of hear the public comment. I was standing way in the back in the city auditorium not really talking to anybody I just wanted to be there to listen.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:15:13.360
+End: 00:15:25.360
+Duration: 12.000 seconds
+Text: And when the board was about to speak at clean back who's the chair kind of gestured to the back of the room and said to the board make sure that you fully describe your position because we have a city commissioner and it's an adjusted back at me.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:15:25.360
+End: 00:15:38.360
+Duration: 13.000 seconds
+Text: And so I had probably had about three dozen people turn around and all make eye contact with me for about a minute and then kept looking for the city commissioner because they're like it can't be him right like that's not that's not it.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:15:38.360
+End: 00:15:54.360
+Duration: 16.000 seconds
+Text: And so just little experiences like that again I don't think anybody intended any malice when they did any of these things but I think it does illustrate a point that we have this kind of subconscious assumption sometimes that a young person isn't capable or maybe prepared to hold a position of least one.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:15:54.360
+End: 00:16:07.360
+Duration: 13.000 seconds
+Text: And so I think that's the only way to hold a position of leadership or maybe isn't experienced enough to be on authority on an issue and when we make that assumption it's very easy for us to forget about including them in our bodies to help us make decisions.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:16:07.360
+End: 00:16:21.360
+Duration: 14.000 seconds
+Text: I also think that unfortunately in this community there's an underlying notion that young people are just going to leave and so why involve them. Why should they have as much of a say as I have when I own property or I'm been a member of this community for longer.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:16:21.360
+End: 00:16:28.360
+Duration: 7.000 seconds
+Text: And if you don't believe me there are several city commission meetings where I can point to you and that was things that were referenced all the time during public comment.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:16:28.360
+End: 00:16:47.360
+Duration: 19.000 seconds
+Text: So I just a couple of reminders that I wanted to put in here first and foremost 20 something's power the city of Manhattan's cuckooony right period full stock city Manhattan would be very very different if it wasn't for all those young people who decided to go to case stay go to Manhattan technical college and then even stay in this community to start their experience.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:16:48.360
+End: 00:17:08.360
+Duration: 20.000 seconds
+Text: I also in the belief that whether someone's lived here for four years ten years or their whole life that should make no difference in how seriously we consider their needs and their desire or their positions on issues right like just because you've only lived here for one year doesn't mean that you are any less of a citizen of the city of Manhattan than someone who is lived here their whole life.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:17:08.360
+End: 00:17:25.360
+Duration: 17.000 seconds
+Text: Because if we take that notion that they're not as important what that leads to is us attending a meeting a week later wondering why we can't keep young people in this community and why we can't keep graduates from case stay at this community it's an ever-or-envolving problem that never stop.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:17:26.360
+End: 00:17:53.360
+Duration: 27.000 seconds
+Text: So the main thing that I want to tell you is don't ever think of me as special right I'm I got elected young 25 years old but I'm not special I just happen to be the loudest person and I got me to where I was but there are so many 20 somethings in this town that are so much smarter than I am more capable and I am and you need to make sure that those people are a part of your organizations so I'm going to wrap this up with how I started it and about the commission learning from each other.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:17:53.360
+End: 00:18:22.360
+Duration: 29.000 seconds
+Text: When I say that I learned from them and I hope they learned from me it wasn't us teaching each other subjects right was whether us sharing our life experiences and how those things affected affected our lives I don't know what it's like to live on a fixed income and retirement but it's important for me to understand that when I'm voting on a mill increase I don't know what it's like to be burden with medical costs that are ever skyrocketing right because I've been fortunate I don't know what it's like to teach a classroom full of students and not have enough resources I don't know what I'm going to do.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:18:23.360
+End: 00:18:53.360
+Duration: 30.000 seconds
+Text: I don't understand those things but I've been able to learn more about them because of this body but on the flip side of that when you don't include young people in your organizations and your conversations you won't understand what it's like to pay $700 a month in student loan debt I'm a first generation college student I have $50,000 in student loan debt pay $700 a month every life decision I make involves my student loan debt it's the first thing I have to think about right you're going to miss that perspective you won't hear what it's like to not only
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:18:53.360
+End: 00:19:23.360
+Duration: 30.000 seconds
+Text: I have many friends I just had children that are not only struggling to find affordable childcare but to find childcare period just find anybody and they don't have the convenience for one of them to be able to stay home because we live in an economy that demands that both of them work if you don't include young people you might not be able to understand what it feels like to be the first generation in a century who will not grow up to be as wealthy as your parents are right like those things have impacts on the policy decisions that we make up here and so my chances of
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:19:23.360
+End: 00:19:53.360
+Duration: 30.000 seconds
+Text: being challenged to all of you is to go to your organization and look around do you have enough 20 something's involved and if you don't actively recruit them just don't say we welcome you actively recruit them because the every minute that they're not a part of your organizations is a minute that your organization is lesser right because you are missing a vital and needed resource and in light of Martin Luther King Junior Day also desperately find young people of color because they are all
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:19:53.360
+End: 00:20:22.360
+Duration: 29.000 seconds
+Text: almost always left out of the conversation it's just such an important thing so I didn't mean to rant there but again don't think of me as special because I'm not special find more people who are like me because they are out there and they're willing to engage on these issues and be a part of this community and the minute that we start doing a better job engaging them we'll stop having meetings wondering why we can't keep people here and so again I just want to thank you so much from the bottom of my heart
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:20:23.360
+End: 00:20:33.360
+Duration: 10.000 seconds
+Text: for this whole thing it's been amazing and I'm a better human being because I was a part of this so thank you.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:20:33.360
+End: 00:20:45.360
+Duration: 12.000 seconds
+Text: Maybe all those who are going to join the army on Monday could raise their hand.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:20:45.360
+End: 00:21:02.360
+Duration: 17.000 seconds
+Text: We argued a lot up here but I think in a couple of weeks I'm going to be missing these people a lot they didn't they weren't going to yell at me as much as I'm probably going to get here pretty soon so.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:21:02.360
+End: 00:21:07.360
+Duration: 5.000 seconds
+Text: We should.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:21:07.360
+End: 00:21:19.360
+Duration: 12.000 seconds
+Text: Well one of the things I wanted to talk about I'll come back to this in just a minute but we had a legislative session at lunchtime today and we went on for about two hours and found it very helpful.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:21:19.360
+End: 00:21:47.360
+Duration: 28.000 seconds
+Text: We do this periodically where we have the our local representatives from both the House and the Senate and Topeka come in and we provide them with kind of an overview of the city and some of the challenges we're facing and then we have a legislative agenda that we try to advance and it has probably about about 15 things on there we've got a top 10 and then we've got some other things we're concerned about but you know when you present.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:21:47.360
+End: 00:21:58.360
+Duration: 11.000 seconds
+Text: Things to people you want to keep the number down a little bit so it's manageable but we did that for two hours today and it was quite productive.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:21:58.360
+End: 00:22:12.360
+Duration: 14.000 seconds
+Text: We worry a little bit because we we're very like minded that is we've got to have a contingent that is has enough power up in Topeka so that we can get movement on some of these issues but I'd like.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:22:12.360
+End: 00:22:24.360
+Duration: 12.000 seconds
+Text: So we're on to kind of describe maybe those top 10 issues just in summary form so that you can hear some of the things the city's been interested in for probably the past three or four years.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:22:24.360
+End: 00:22:40.360
+Duration: 16.000 seconds
+Text: Thank you Mary it was good to have our local delegation with us that we just kind of updated them on some of our community projects some of those tied into active legislative issues and and some didn't but we wanted them to be aware of some of the things that we were doing in the community.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:22:40.360
+End: 00:23:09.360
+Duration: 29.000 seconds
+Text: In order to advance you know our opportunities one of the things that one of our highest priorities is an opportunity to develop a bioscience districts and so this is something that's been kind of established in previous legislation and we're think it's an opportunity when we have areas around NBAS or other communities have STEM and other science and engineering and different types of innovation districts that they will be able to do.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:23:09.360
+End: 00:23:29.360
+Duration: 20.000 seconds
+Text: So we're going to have a lot of opportunities that they will be able to establish these districts and be able to draw from some of the income tax on new jobs that are created that could some of that money can go back into companies to invest and build new laboratories which is very expensive and or go towards some of our infrastructure needs.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:23:29.360
+End: 00:23:56.360
+Duration: 27.000 seconds
+Text: So the structure was a category in itself and it covers a lot of things anywhere from transportation we mentioned support for the Kansas Department of Transportation 10 year highway plan and and roads program and so it's an area that is needed nationally for growth and support and maintenance obviously that's an area that we've had a lot of attention on with our own point two cent sales tax.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:23:56.360
+End: 00:24:03.360
+Duration: 7.000 seconds
+Text: So we're going to have a lot of money and transportation but also in our water and wastewater and storm water utilities that feed into that.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:24:03.360
+End: 00:24:24.360
+Duration: 21.000 seconds
+Text: Another item is an air as an item that's an issue that's come up the last couple of years it's called the alternative valuation theory and that's where the big box stores primarily are arguing their value of their stores should be perceived as if though it was vacant and their property taxes should be such as that.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:24:24.360
+End: 00:24:37.360
+Duration: 13.000 seconds
+Text: So we don't think that's a very good methodology and certainly one that favors one group over another.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:24:37.360
+End: 00:24:41.360
+Duration: 4.000 seconds
+Text: So we certainly would like to see the legislation active in that.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:24:41.360
+End: 00:24:52.360
+Duration: 11.000 seconds
+Text: The governor had a tax advisory council that met and in one of the recommendations is to restore our local abvalorum tax reduction fund.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:24:52.360
+End: 00:25:15.360
+Duration: 23.000 seconds
+Text: It's been missing for about 18 years since they provided any of this funds and it was designed as the state sharing some of the sales tax revenue that they get in order so localities could keep some of their property taxes down and so we're hopeful that the legislature can bring some of those funds back because we are operating under a property tax lid.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:25:15.360
+End: 00:25:35.360
+Duration: 20.000 seconds
+Text: So that lid doesn't have a lot of exemptions it does exempt police and fire but things like health insurance that we don't really have any control over those costs of increasing and so it as a city that has some growth needs it makes things more difficult for us.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:25:35.360
+End: 00:25:51.360
+Duration: 16.000 seconds
+Text: So some of the main areas we're looking at we had some secondary issues as well but we will have a draft of the legislative platform for the city on our website so you'll be able to look at it there as well.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:25:51.360
+End: 00:26:03.360
+Duration: 12.000 seconds
+Text: Well my remarks I think many of you have heard before I'm not going to change them a lot just because of the occasion but I really appreciate this opportunity to serve Manhattan and the people of Manhattan.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:26:03.360
+End: 00:26:20.360
+Duration: 17.000 seconds
+Text: This is something that my mom and dad did when they were young they did it for most of their lives and my dad is 96 and he's still being asked to come down straight and out the city council so it never ends.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:26:20.360
+End: 00:26:37.360
+Duration: 17.000 seconds
+Text: The most rewarding part of this has been the association I've had with people so I want to take some time not to thank individuals but to thank them as categories because there's simply not enough time to go through all the individuals I've had a chance to touch with.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:26:37.360
+End: 00:26:49.360
+Duration: 12.000 seconds
+Text: I have to thank Diane who's not here tonight she's attending our annual HOA meeting which ought to be a raucous affair so I'm probably better served to be here.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:26:49.360
+End: 00:27:10.360
+Duration: 21.000 seconds
+Text: The city commissioners has been mentioned I mean we all come from different backgrounds we see the world in slightly different ways but at the end of the day we do the city's business we have great discussions and we come out as friends I don't think there's ever been an ugly word uttered about any between any of us and that's a remarkable thing for the community.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:27:10.360
+End: 00:27:25.360
+Duration: 15.000 seconds
+Text: Our local legislators I mentioned earlier are terrific bunch doing the best they can to support us they're working against some real headwinds up in the Tupika but nonetheless they're very hard working people.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:27:25.360
+End: 00:27:48.360
+Duration: 23.000 seconds
+Text: The city staff and the department heads and all those in those departments if you ever get a chance to come in and walk through city hall and chat with those people we've got some folks who really work very very hard and so we ought to be extremely proud of all those people who do the city's business on a day to day basis.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:27:48.360
+End: 00:28:17.360
+Duration: 29.000 seconds
+Text: And you know when when the snow falls when the wind blows when the creek comes up there's always somebody out there doing this work when the fire bill goes off when when the sirens go off we have the RCPD or our fire department EMTs and everybody's responding there's a planning cell that goes to work largely invisible to many people but this city does it very very well particularly during the flooding episode that we had and manage that.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:28:18.360
+End: 00:28:30.360
+Duration: 12.000 seconds
+Text: So well along with the county and in the state and some from the federal government that was that emergency operation center was really well done at a very short period of time.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:28:30.360
+End: 00:28:43.360
+Duration: 13.000 seconds
+Text: We've got a lot of people who are largely invisible who serve on our boards and committees that assist the city commission we talked about that at the meeting at 530.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:28:43.360
+End: 00:28:58.360
+Duration: 15.000 seconds
+Text: We have 32 boards and commissions that look across the broad spectrum of needs for the community and without them the city wouldn't run very well and wouldn't do as good a job as representing all the people of Manhattan.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:28:58.360
+End: 00:29:23.360
+Duration: 25.000 seconds
+Text: We've got volunteers many of you are also volunteers and you know when you go out to these places whether it's the the bread basket or something else to support you see all kinds of wonderful people teaming up to serve those people that are in need from time to time or perhaps over the longer term great civic groups great cooperation among all of them.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:29:23.360
+End: 00:29:48.360
+Duration: 25.000 seconds
+Text: One of the things we enjoy here is great partnerships and I've talked about kind of the internal partnerships that we have with the Chamber of Commerce the neighborhood groups these same civic organizations kinds of state university fort Riley and then the schools I mean we you don't see this too often but the kind of reciprocity we have among all these groups is extraordinary.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:29:48.360
+End: 00:30:01.360
+Duration: 13.000 seconds
+Text: We've had Usha and Linda and I think Jared as well participate in town gown and you know we're either number one or number two all the time across the nation.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:30:01.360
+End: 00:30:11.360
+Duration: 10.000 seconds
+Text: So we ought to be very proud of those associations and the reputation it brings to Manhattan Kansas and to our university.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:30:11.360
+End: 00:30:33.360
+Duration: 22.000 seconds
+Text: We also have great potential you know if you look out at other communities across Kansas and maybe even across the nation they would be very inviolous of the kinds of things that we have now that build very well for our future you know we can start with in bath we can talk about our airport.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:30:33.360
+End: 00:30:55.360
+Duration: 22.000 seconds
+Text: I don't I guess we can announce this now but we're we now have gone from a record last year in 18 of 70,000 flights 70,000 passengers and this this year now at 19 we're at 77,000 who probably get a little bit more when they complete the audit.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:30:55.360
+End: 00:31:08.360
+Duration: 13.000 seconds
+Text: So this is a tremendous growth and this is rather unique for municipal airports and it's been due to the hard work of airport manager and a lot of other people to make that happen.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:31:08.360
+End: 00:31:24.360
+Duration: 16.000 seconds
+Text: We have a foods science corridor that runs arguably from Salina through Manhattan Manhattan being a major hub of this endeavor going all the way to probably St. Louis.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:31:24.360
+End: 00:31:43.360
+Duration: 19.000 seconds
+Text: So there's a lot of opportunity there a lot of science and we're going to take advantage of that. KSU and the foundation have some great plans for expansion of the North Campus corridor that's also enabled by some of the work that the Chamber of Commerce is doing along with the city to help that.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:31:43.360
+End: 00:31:54.360
+Duration: 11.000 seconds
+Text: Great things going on in the city of Aguil just getting started and I think one of the things that ought to be top of all of our minds is how we do economic development.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:31:54.360
+End: 00:32:08.360
+Duration: 14.000 seconds
+Text: We've got a lot of people pulling on the same rope a lot of planning effort is going on right now but with all of these potential sitting out there I think we ought to be very comfortable about where we're going.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:32:08.360
+End: 00:32:18.360
+Duration: 10.000 seconds
+Text: We just have to recognize where we are and keep working hard to make it happen.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:32:18.360
+End: 00:32:35.360
+Duration: 17.000 seconds
+Text: Manhattan is a great city. You know a lot of us had choices about where we go when we retire and things like this and we made a choice to come to Manhattan and have been richly rewarded by doing that.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:32:35.360
+End: 00:32:49.360
+Duration: 14.000 seconds
+Text: And I think we can be assured of having a great future here in Manhattan. We've got challenges. You know we're in a little bit of a flat spot right now but as I think most people realize when you're doing whether you're in business or in private life.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:32:49.360
+End: 00:33:00.360
+Duration: 11.000 seconds
+Text: You've got to take some chances you've got to do risk reward analysis and you've got to make investments and the people that have come before us have made great investments.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:33:00.360
+End: 00:33:11.360
+Duration: 11.000 seconds
+Text: I think this sitting commission has made great investments in the future and I think we'll see them realize and the new commission will do the same thing of guiding Manhattan for the next several years.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:33:11.360
+End: 00:33:21.360
+Duration: 10.000 seconds
+Text: So with that I just want to thank everybody and a great experience for me and I'm looking forward to future opportunities to serve.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:33:21.360
+End: 00:33:33.360
+Duration: 12.000 seconds
+Text: There's a lot of folks out here that I think can benefit from some one more person to help pull on the road so I'm certainly willing to do that.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:33:33.360
+End: 00:33:45.360
+Duration: 12.000 seconds
+Text: So thank you very much. I appreciate my service.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:33:45.360
+End: 00:33:55.360
+Duration: 10.000 seconds
+Text: So we'll now move to consent agenda old business and there are three items on the consent agenda for old business.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:33:55.360
+End: 00:34:04.360
+Duration: 9.000 seconds
+Text: These consent agenda items are items that have been previously considered by the commission or considered administrative in nature.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:34:04.360
+End: 00:34:15.360
+Duration: 11.000 seconds
+Text: So it's also true that any commissioner can take one of those items for further discussion at this time or else move them into the general agenda category.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:34:15.360
+End: 00:34:23.360
+Duration: 8.000 seconds
+Text: So just ask at this time if there are any items that for further discussion.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:34:23.360
+End: 00:34:33.360
+Duration: 10.000 seconds
+Text: Are there any items on this consent agenda old business that the public wishes to comment on?
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:34:33.360
+End: 00:34:38.360
+Duration: 5.000 seconds
+Text: Okay seeing none we'll come back to the commission and ask for motion.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:34:38.360
+End: 00:34:42.360
+Duration: 4.000 seconds
+Text: Mayor I move we approve the consent agenda.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:34:42.360
+End: 00:34:43.360
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:34:43.360
+End: 00:34:46.360
+Duration: 3.000 seconds
+Text: Call the roll please.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:34:46.360
+End: 00:34:48.360
+Duration: 2.000 seconds
+Text: Mayor Dotson.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:34:48.360
+End: 00:34:49.360
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:34:49.360
+End: 00:34:50.360
+Duration: 1.000 seconds
+Text: Commissioner Ready?
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:34:50.360
+End: 00:34:51.360
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:34:51.360
+End: 00:34:52.360
+Duration: 1.000 seconds
+Text: Commissioner Butler?
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:34:52.360
+End: 00:34:53.360
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:34:53.360
+End: 00:34:54.360
+Duration: 1.000 seconds
+Text: Commissioner McKee?
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:34:54.360
+End: 00:34:55.360
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:34:55.360
+End: 00:34:56.360
+Duration: 1.000 seconds
+Text: Commissioner Morse?
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:34:56.360
+End: 00:34:57.360
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:34:57.360
+End: 00:34:59.360
+Duration: 2.000 seconds
+Text: Motion carries 5-0.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:34:59.360
+End: 00:35:00.360
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:35:00.360
+End: 00:35:08.360
+Duration: 8.000 seconds
+Text: And now we'll move to the reorganization portion and we either need a ringmaster or are you going to do this wrong?
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:35:08.360
+End: 00:35:21.360
+Duration: 13.000 seconds
+Text: Well I'll introduce C.C. Clerk Brenda Wolf who will ask the elected newly elected commissioners to join her at the podium for swearing in.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:35:21.360
+End: 00:35:22.360
+Duration: 1.000 seconds
+Text: Good.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:35:23.360
+End: 00:35:24.360
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:35:24.360
+End: 00:35:26.360
+Duration: 2.000 seconds
+Text: Did you guys step down?
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:35:26.360
+End: 00:35:28.360
+Duration: 2.000 seconds
+Text: Did you have the families?
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:35:28.360
+End: 00:35:29.360
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:35:29.360
+End: 00:35:30.360
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:35:30.360
+End: 00:35:31.360
+Duration: 1.000 seconds
+Text: Have the families come forward?
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:35:31.360
+End: 00:35:32.360
+Duration: 1.000 seconds
+Text: Absolutely.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:35:32.360
+End: 00:35:33.360
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:35:33.360
+End: 00:35:34.360
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:35:34.360
+End: 00:35:35.360
+Duration: 1.000 seconds
+Text: Move it.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:35:35.360
+End: 00:35:36.360
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:35:36.360
+End: 00:35:37.360
+Duration: 1.000 seconds
+Text: Good.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:35:37.360
+End: 00:35:38.360
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:35:38.360
+End: 00:35:39.360
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:35:39.360
+End: 00:35:40.360
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:35:40.360
+End: 00:35:44.360
+Duration: 4.000 seconds
+Text: You ever done another each?
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:35:44.360
+End: 00:35:45.360
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:35:45.360
+End: 00:36:10.940
+Duration: 25.580 seconds
+Text: Decisions and repeat.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:36:15.360
+End: 00:36:19.360
+Duration: 4.000 seconds
+Text: The Constitution at the State of Kansas.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:36:19.360
+End: 00:36:24.360
+Duration: 5.000 seconds
+Text: And the court ordinances of the City of Manhattan.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:36:24.360
+End: 00:36:32.360
+Duration: 8.000 seconds
+Text: And faithfully discharge the duties of the City Commissioner.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:36:32.360
+End: 00:36:35.360
+Duration: 3.000 seconds
+Text: The City of Manhattan.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:36:35.360
+End: 00:36:37.360
+Duration: 2.000 seconds
+Text: So long.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:36:37.360
+End: 00:36:40.360
+Duration: 3.000 seconds
+Text: A solid type of right без
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:36:40.360
+End: 00:36:44.360
+Duration: 4.000 seconds
+Text: enforcementimeter, built on courts,
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:36:44.360
+End: 00:36:48.000
+Duration: 3.640 seconds
+Text: for those who are paid sinnerly
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:36:48.000
+End: 00:36:53.360
+Duration: 5.360 seconds
+Text: that I have in the past 24 years.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:36:53.360
+End: 00:37:00.360
+Duration: 7.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:37:30.360
+End: 00:37:32.360
+Duration: 2.000 seconds
+Text: Can I have my chair?
+--------------------------------------------------
+Speaker_0:
+Start: 00:37:32.360
+End: 00:37:34.360
+Duration: 2.000 seconds
+Text: This is not functioning.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:37:34.360
+End: 00:37:36.360
+Duration: 2.000 seconds
+Text: I'm very proud.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:37:36.360
+End: 00:37:38.360
+Duration: 2.000 seconds
+Text: Yeah, this one's better.
+--------------------------------------------------
+Speaker_0:
+Start: 00:37:38.360
+End: 00:37:40.360
+Duration: 2.000 seconds
+Text: Yeah, this one's better.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:37:40.360
+End: 00:38:04.360
+Duration: 24.000 seconds
+Text: I would like to ask the commission for nominations for mayor.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:38:04.360
+End: 00:38:12.360
+Duration: 8.000 seconds
+Text: I would like to ask the commission for a nomination for mayor.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:38:12.360
+End: 00:38:14.360
+Duration: 2.000 seconds
+Text: Second, second of the motion.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:38:14.360
+End: 00:38:16.360
+Duration: 2.000 seconds
+Text: Hearing no other nominations.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:38:16.360
+End: 00:38:18.360
+Duration: 2.000 seconds
+Text: All in favor of commission ready for the position of mayor.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:38:18.360
+End: 00:38:20.360
+Duration: 2.000 seconds
+Text: Say aye.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:38:20.360
+End: 00:38:22.360
+Duration: 2.000 seconds
+Text: Aye.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:38:22.360
+End: 00:38:28.360
+Duration: 6.000 seconds
+Text: Motion carries.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:38:28.360
+End: 00:38:32.360
+Duration: 4.000 seconds
+Text: I would like, no mayor ready.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:38:32.360
+End: 00:38:36.360
+Duration: 4.000 seconds
+Text: I would like to ask the commission for nominations for mayor pro temp.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:38:36.360
+End: 00:38:48.360
+Duration: 12.000 seconds
+Text: I move that commissioner Wynn Butler be appointed to serve as the mayor pro temp until the first working day and to working Tuesday of January 2021.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:38:48.360
+End: 00:38:50.360
+Duration: 2.000 seconds
+Text: Is there a second?
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:38:50.360
+End: 00:38:52.360
+Duration: 2.000 seconds
+Text: Second.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:38:52.360
+End: 00:38:54.360
+Duration: 2.000 seconds
+Text: Hearing no other nominations.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:38:54.360
+End: 00:38:56.360
+Duration: 2.000 seconds
+Text: All in favor of commission of Butler for the position of mayor pro temp. Say aye.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:38:56.360
+End: 00:38:58.360
+Duration: 2.000 seconds
+Text: Aye.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:38:58.360
+End: 00:39:00.360
+Duration: 2.000 seconds
+Text: Motion carries.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:39:00.360
+End: 00:39:02.360
+Duration: 2.000 seconds
+Text: Motion carries.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:39:02.360
+End: 00:39:04.360
+Duration: 2.000 seconds
+Text: Motion carries.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:39:04.360
+End: 00:39:06.360
+Duration: 2.000 seconds
+Text: Motion carries.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:39:06.360
+End: 00:39:08.360
+Duration: 2.000 seconds
+Text: Motion carries.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:39:08.360
+End: 00:39:10.360
+Duration: 2.000 seconds
+Text: Motion carries.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:39:10.360
+End: 00:39:12.360
+Duration: 2.000 seconds
+Text: Motion carries.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:39:12.360
+End: 00:39:14.360
+Duration: 2.000 seconds
+Text: Motion carries.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:39:14.360
+End: 00:39:16.360
+Duration: 2.000 seconds
+Text: Motion carries.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:39:16.360
+End: 00:39:18.360
+Duration: 2.000 seconds
+Text: Motion carries.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:39:18.360
+End: 00:39:20.360
+Duration: 2.000 seconds
+Text: Motion carries.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:39:20.360
+End: 00:39:22.360
+Duration: 2.000 seconds
+Text: Motion carries.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:39:22.360
+End: 00:39:24.360
+Duration: 2.000 seconds
+Text: Motion carries.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:39:24.360
+End: 00:39:26.360
+Duration: 2.000 seconds
+Text: Motion carries.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:39:26.360
+End: 00:39:28.360
+Duration: 2.000 seconds
+Text: Motion carries.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:39:28.360
+End: 00:39:30.360
+Duration: 2.000 seconds
+Text: Motion carries.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:39:30.360
+End: 00:39:32.360
+Duration: 2.000 seconds
+Text: Motion carries.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:39:32.360
+End: 00:39:34.360
+Duration: 2.000 seconds
+Text: Motion carries.
+--------------------------------------------------
+Speaker_0:
+Start: 00:39:34.360
+End: 00:39:38.360
+Duration: 4.000 seconds
+Text: We are thrilled that Mike Dotson served on the city commission with us.
+--------------------------------------------------
+Speaker_0:
+Start: 00:39:38.360
+End: 00:39:40.360
+Duration: 2.000 seconds
+Text: I think the city is better because of you.
+--------------------------------------------------
+Speaker_0:
+Start: 00:39:40.360
+End: 00:39:44.360
+Duration: 4.000 seconds
+Text: You have done so much as far as being a collaborative leader.
+--------------------------------------------------
+Speaker_0:
+Start: 00:39:44.360
+End: 00:39:48.360
+Duration: 4.000 seconds
+Text: Your skills and your partnership mannerisms, professionalism.
+--------------------------------------------------
+Speaker_0:
+Start: 00:39:48.360
+End: 00:39:58.360
+Duration: 10.000 seconds
+Text: And just being bringing a source of wisdom to the city chambers of is very well worked well for me.
+--------------------------------------------------
+Speaker_0:
+Start: 00:39:58.360
+End: 00:40:02.360
+Duration: 4.000 seconds
+Text: And I think it benefited all of us in the long run too.
+--------------------------------------------------
+Speaker_0:
+Start: 00:40:02.360
+End: 00:40:06.360
+Duration: 4.000 seconds
+Text: I wasn't sure what to expect when I thought, oh, a general is going to be here.
+--------------------------------------------------
+Speaker_0:
+Start: 00:40:06.360
+End: 00:40:08.360
+Duration: 2.000 seconds
+Text: What do we have to do?
+--------------------------------------------------
+Speaker_0:
+Start: 00:40:08.360
+End: 00:40:12.360
+Duration: 4.000 seconds
+Text: But then we realized there was just so much about you that we didn't know.
+--------------------------------------------------
+Speaker_0:
+Start: 00:40:12.360
+End: 00:40:14.360
+Duration: 2.000 seconds
+Text: And I think we worked really, really well together.
+--------------------------------------------------
+Speaker_0:
+Start: 00:40:14.360
+End: 00:40:18.360
+Duration: 4.000 seconds
+Text: And you become a great friend for me as well as Diane.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:40:18.360
+End: 00:40:20.360
+Duration: 2.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:40:20.360
+End: 00:40:22.360
+Duration: 2.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:40:22.360
+End: 00:40:30.360
+Duration: 8.000 seconds
+Text: I like and see myself now taking this out at home.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:40:30.360
+End: 00:40:34.360
+Duration: 4.000 seconds
+Text: I don't think this is going to work.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:40:34.360
+End: 00:40:36.360
+Duration: 2.000 seconds
+Text: But I deeply appreciate this.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:40:36.360
+End: 00:40:38.360
+Duration: 2.000 seconds
+Text: A very significant thank you very much.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:40:38.360
+End: 00:40:40.360
+Duration: 2.000 seconds
+Text: Thanks for the opportunity to work with you.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:40:40.360
+End: 00:40:42.360
+Duration: 2.000 seconds
+Text: I really appreciate that.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:40:42.360
+End: 00:40:50.360
+Duration: 8.000 seconds
+Text: I'll be there to help you in the future, too.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:40:50.360
+End: 00:40:56.360
+Duration: 6.000 seconds
+Text: Likewise, on behalf of the city staff and city administration in the community,
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:40:56.360
+End: 00:41:04.360
+Duration: 8.000 seconds
+Text: we put together a clause of pictures for you that kind of tries to cover some of the gambit of your experiences as mayor,
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:41:04.360
+End: 00:41:10.360
+Duration: 6.000 seconds
+Text: which again, we appreciate your little more than four and a half years of service.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:41:10.360
+End: 00:41:16.360
+Duration: 6.000 seconds
+Text: So, you know, the legislature extended your service whether you wanted to or not.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:41:16.360
+End: 00:41:22.360
+Duration: 6.000 seconds
+Text: So, two mayors holiday parades as mayor.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:41:22.360
+End: 00:41:28.360
+Duration: 6.000 seconds
+Text: And we certainly appreciate your leadership during your term as mayor.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:41:28.360
+End: 00:41:34.360
+Duration: 6.000 seconds
+Text: And we especially appreciate Diane being able to support you in that effort.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:41:34.360
+End: 00:41:40.360
+Duration: 6.000 seconds
+Text: And just want to show a little bit about that.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:41:40.360
+End: 00:41:42.360
+Duration: 2.000 seconds
+Text: Thank you so much.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:41:42.360
+End: 00:41:54.360
+Duration: 12.000 seconds
+Text: I was trying to figure out who this guy is with the gray hair.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:41:54.360
+End: 00:41:58.360
+Duration: 4.000 seconds
+Text: You know, this is like when you go to the class reunion after about 30, 40 years.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:41:58.360
+End: 00:42:02.360
+Duration: 4.000 seconds
+Text: And you're looking at everybody and say, what in the heck?
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:42:02.360
+End: 00:42:04.360
+Duration: 2.000 seconds
+Text: I don't know any of them.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:42:04.360
+End: 00:42:08.360
+Duration: 4.000 seconds
+Text: So, did I have brown hair when I came on the cushion?
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:42:08.360
+End: 00:42:10.360
+Duration: 2.000 seconds
+Text: Maybe I did.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:42:10.360
+End: 00:42:14.360
+Duration: 4.000 seconds
+Text: As I said up there, this has been terrific for me.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:42:14.360
+End: 00:42:20.360
+Duration: 6.000 seconds
+Text: Not only working with the other commissioners, but also working with Ron and the staff.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:42:20.360
+End: 00:42:22.360
+Duration: 2.000 seconds
+Text: As a city, we couldn't ask for better people.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:42:22.360
+End: 00:42:24.360
+Duration: 2.000 seconds
+Text: They're hard working.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:42:24.360
+End: 00:42:27.360
+Duration: 3.000 seconds
+Text: They try to do the best for the long term.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:42:27.360
+End: 00:42:31.360
+Duration: 4.000 seconds
+Text: And they interact really well with citizens across the city.
+--------------------------------------------------
+Mayor Mike Dodson:
+Start: 00:42:31.360
+End: 00:42:33.360
+Duration: 2.000 seconds
+Text: So, thanks very much, Ron.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:42:33.360
+End: 00:42:35.360
+Duration: 2.000 seconds
+Text: I appreciate it.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:42:35.360
+End: 00:42:49.360
+Duration: 14.000 seconds
+Text: Jared, come on up.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:42:49.360
+End: 00:42:53.360
+Duration: 4.000 seconds
+Text: So, Commissioner McKee or now Jared McKee.
+--------------------------------------------------
+Speaker_0:
+Start: 00:42:53.360
+End: 00:42:55.360
+Duration: 2.000 seconds
+Text: Jared, you've been a wonderful friend.
+--------------------------------------------------
+Speaker_0:
+Start: 00:42:55.360
+End: 00:42:58.360
+Duration: 3.000 seconds
+Text: We've known each other even before you started to join the city commission.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:42:58.360
+End: 00:43:01.360
+Duration: 3.000 seconds
+Text: You're politically, you were always politically engaged.
+--------------------------------------------------
+Speaker_0:
+Start: 00:43:01.360
+End: 00:43:10.360
+Duration: 9.000 seconds
+Text: I think not only regardless of your age, your energy, your enthusiasm, and your breath of knowledge,
+--------------------------------------------------
+Speaker_0:
+Start: 00:43:10.360
+End: 00:43:16.360
+Duration: 6.000 seconds
+Text: just from your experience at Civic Plus, as well as all of your life experiences,
+--------------------------------------------------
+Speaker_0:
+Start: 00:43:16.360
+End: 00:43:19.360
+Duration: 3.000 seconds
+Text: being, having to pay off student debt and all of these things,
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:43:19.360
+End: 00:43:23.360
+Duration: 4.000 seconds
+Text: that added to the dimensions when we came to our city budget conversations,
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:43:23.360
+End: 00:43:29.360
+Duration: 6.000 seconds
+Text: as well as your technology knowledge, and just your outreach to areas we couldn't always be at.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:43:29.360
+End: 00:43:33.360
+Duration: 4.000 seconds
+Text: So, thank you for the dialogue, the conversation, your job is not done.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:43:33.360
+End: 00:43:36.360
+Duration: 3.000 seconds
+Text: I'm sure you're going to run for something again in the near future,
+--------------------------------------------------
+Speaker_0:
+Start: 00:43:36.360
+End: 00:43:38.360
+Duration: 2.000 seconds
+Text: and you already have my vote.
+--------------------------------------------------
+Speaker_0:
+Start: 00:43:38.360
+End: 00:43:39.360
+Duration: 1.000 seconds
+Text: So, thank you.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:43:39.360
+End: 00:43:40.360
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:43:40.360
+End: 00:43:41.360
+Duration: 1.000 seconds
+Text: Absolutely.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:43:41.360
+End: 00:43:49.360
+Duration: 8.000 seconds
+Text: All I wanted to mention earlier is when you run for office,
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:43:49.360
+End: 00:43:54.360
+Duration: 5.000 seconds
+Text: they don't actually tell you how hard it is to cut the ribbon at ribbon cutting ceremonies.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:43:54.360
+End: 00:43:58.360
+Duration: 4.000 seconds
+Text: I only got to do one of those, and that's probably, I still have the ribbon as a keepsake,
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:43:58.360
+End: 00:44:04.360
+Duration: 6.000 seconds
+Text: because a bunch of news there, and it took about five takes for me to actually get the ribbon cut.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:44:04.360
+End: 00:44:08.360
+Duration: 4.000 seconds
+Text: So, yeah, just little things like that have made this experience all worthwhile.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:44:08.360
+End: 00:44:14.360
+Duration: 6.000 seconds
+Text: It's gritty, and it's not very fancy, or, and it requires a lot of hard work,
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:44:14.360
+End: 00:44:18.360
+Duration: 4.000 seconds
+Text: but all the people you get to work with make it worth it.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:44:18.360
+End: 00:44:22.360
+Duration: 4.000 seconds
+Text: We got some pretty much.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:44:22.360
+End: 00:44:26.360
+Duration: 4.000 seconds
+Text: And Jared, on behalf of the city staff and the community,
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:44:26.360
+End: 00:44:31.360
+Duration: 5.000 seconds
+Text: we just appreciate your energy that you brought to the position, and then the protect me,
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:44:31.360
+End: 00:44:38.360
+Duration: 7.000 seconds
+Text: and so I've so appreciated your comments tonight, and we managed to find a few photos that reflect some of that,
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:44:38.360
+End: 00:44:44.360
+Duration: 6.000 seconds
+Text: and we hope you enjoy that, and you probably can't take this in your backpack that you do.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:44:44.360
+End: 00:44:50.360
+Duration: 6.000 seconds
+Text: But thank you so much for all that you did for us, and we have one little other item for you.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:44:50.360
+End: 00:44:58.360
+Duration: 8.000 seconds
+Text: One of the things that Commissioner McKee encouraged us to do is to maybe have a new city flag design,
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:44:58.360
+End: 00:45:06.360
+Duration: 8.000 seconds
+Text: and so he was one of the primary instigators of that event and that effort, and it led to a new city flag.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:45:06.360
+End: 00:45:10.360
+Duration: 4.000 seconds
+Text: So we wanted you to have your own city flag to remember us back.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:45:10.360
+End: 00:45:20.360
+Duration: 10.000 seconds
+Text: For the record, I just want to say that I came to one briefing session, and said that I watched a TED talk of what's wrong with city flags,
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:45:20.360
+End: 00:45:24.360
+Duration: 4.000 seconds
+Text: and it seemed that our current city flag had a lot of those issues.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:45:24.360
+End: 00:45:28.360
+Duration: 4.000 seconds
+Text: And then three weeks later, I think I got a call from the Manhattan Mercury that was like,
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:45:28.360
+End: 00:45:31.360
+Duration: 3.000 seconds
+Text: tell us about your city flag initiative, Jared.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:45:31.360
+End: 00:45:35.360
+Duration: 4.000 seconds
+Text: Like people are really excited about this, and I was like, what initiative? I'm very confused by your question.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:45:35.360
+End: 00:45:42.360
+Duration: 7.000 seconds
+Text: So again, be careful what you say, because things will happen, because we have a hardworking city staff that moves on things like that very quickly.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:45:42.360
+End: 00:45:46.360
+Duration: 4.000 seconds
+Text: But I'm proud of our new city flag, and I will proudly display this and hang it up.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:45:46.360
+End: 00:45:48.360
+Duration: 2.000 seconds
+Text: So thank you again for everything.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:45:48.360
+End: 00:45:50.360
+Duration: 2.000 seconds
+Text: So you have a lot of fun.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:45:50.360
+End: 00:45:53.360
+Duration: 3.000 seconds
+Text: Thanks a lot.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:46:06.360
+End: 00:46:08.360
+Duration: 2.000 seconds
+Text: Yeah, thank you.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:46:08.360
+End: 00:46:11.360
+Duration: 3.000 seconds
+Text: Yeah, thank you.
+--------------------------------------------------
+Speaker_0:
+Start: 00:46:11.360
+End: 00:46:15.360
+Duration: 4.000 seconds
+Text: Nothing so obvious like that.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:46:15.360
+End: 00:46:18.360
+Duration: 3.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:46:18.360
+End: 00:46:22.360
+Duration: 4.000 seconds
+Text: I'll make my comments.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:46:22.360
+End: 00:46:26.360
+Duration: 4.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:46:26.360
+End: 00:46:32.360
+Duration: 6.000 seconds
+Text: So I'm just going to make a few comments before we go on to the consent agenda again.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:46:32.360
+End: 00:46:37.360
+Duration: 5.000 seconds
+Text: First of all, I'd like to thank Commissioner Dodson and Commissioner McKee for their service on the City Commission.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:46:37.360
+End: 00:46:43.360
+Duration: 6.000 seconds
+Text: And we all worked very well together, and I know you will continue to serve in other capacities.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:46:43.360
+End: 00:46:46.360
+Duration: 3.000 seconds
+Text: And once a public servant, always a public servant.
+--------------------------------------------------
+Speaker_0:
+Start: 00:46:46.360
+End: 00:46:55.360
+Duration: 9.000 seconds
+Text: And one of the best things about this city commission, when Mike and Jerub were here, out of a body of five,
+--------------------------------------------------
+Speaker_0:
+Start: 00:46:55.360
+End: 00:46:59.360
+Duration: 4.000 seconds
+Text: I believe we were the most diverse city commission.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:46:59.360
+End: 00:47:03.360
+Duration: 4.000 seconds
+Text: And I hesitate to say just in Kansas, I would think in the nation.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:47:03.360
+End: 00:47:15.360
+Duration: 12.000 seconds
+Text: We covered different religions, different parties, gender, color, age, sexual orientation, marital status.
+--------------------------------------------------
+Speaker_0:
+Start: 00:47:15.360
+End: 00:47:20.360
+Duration: 5.000 seconds
+Text: And we still had genuine respect and affection for each other.
+--------------------------------------------------
+Speaker_0:
+Start: 00:47:20.360
+End: 00:47:28.360
+Duration: 8.000 seconds
+Text: And even though we disagreed, the community, the Manhattan community elected all of us, and I feel we served them well.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:47:28.360
+End: 00:47:36.360
+Duration: 8.000 seconds
+Text: And that's very unusual, because when people think about Kansas, they don't think about diversity.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:47:36.360
+End: 00:47:39.360
+Duration: 3.000 seconds
+Text: And we are as diverse as a commission can be.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:47:39.360
+End: 00:47:42.360
+Duration: 3.000 seconds
+Text: So I know things can happen when people work well together.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:47:42.360
+End: 00:47:51.360
+Duration: 9.000 seconds
+Text: This afternoon, there was talk about our legislators going to a civil discourse, something in which a tower of washburner somewhere of that sort.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:47:51.360
+End: 00:47:56.360
+Duration: 5.000 seconds
+Text: But either way, I think if they just walked our meetings, it's very evident how that occurs.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:47:56.360
+End: 00:47:59.360
+Duration: 3.000 seconds
+Text: It was never about a short meeting. We always had thorough discussions.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:47:59.360
+End: 00:48:02.360
+Duration: 3.000 seconds
+Text: And I think we added to the discussion every single time.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:48:02.360
+End: 00:48:08.360
+Duration: 6.000 seconds
+Text: I would like to welcome Commissioner Mark Hadasal, as well as Commissioner Aaron Estobrit, and look forward to working with you.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:48:08.360
+End: 00:48:16.360
+Duration: 8.000 seconds
+Text: Both of them have experience as elected official, as on the board of education, as well as on the previous city commission before us.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:48:16.360
+End: 00:48:24.360
+Duration: 8.000 seconds
+Text: So they are not new to this arena. And I'm sure they are easy to work with and collaborate and will bring a different perspective to the table as well.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:48:24.360
+End: 00:48:33.360
+Duration: 9.000 seconds
+Text: Manhattan has a lot to be proud of. And as I travel across the state of Kansas, I hear a constant and consistent theme among other communities.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:48:33.360
+End: 00:48:45.360
+Duration: 12.000 seconds
+Text: When I say I'm from Manhattan, often, I hear people talk about their wonderful memories of their visits to Manhattan, or a son, or a daughter, or a relative that has attended Kansas State University, or is currently attending Kansas State University.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:48:45.360
+End: 00:48:52.360
+Duration: 7.000 seconds
+Text: And I've often asked, how does Manhattan do it? How do you have a vibrant downtown?
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:48:52.360
+End: 00:48:58.360
+Duration: 6.000 seconds
+Text: How do you make changes happen in your park and your pools and have a wonderful recreational centers?
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:48:58.360
+End: 00:49:09.360
+Duration: 11.000 seconds
+Text: How do you keep Manhattan such an inviting, welcoming community? And the response is easy for me. It's the people, the city staff and city commissioners, and the community at large.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:49:09.360
+End: 00:49:15.360
+Duration: 6.000 seconds
+Text: Separately, Manhattan would not be where we are if we all worked in different tangents and had our own agendas.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:49:15.360
+End: 00:49:22.360
+Duration: 7.000 seconds
+Text: But because we continually discuss how to improve and invest back in our communities, we tend to thrive.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:49:22.360
+End: 00:49:28.360
+Duration: 6.000 seconds
+Text: And this doesn't just happen on Tuesday and I, as I was mentioned before, we work so many hours, even before our meetings start.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:49:28.360
+End: 00:49:35.360
+Duration: 7.000 seconds
+Text: We go to so many meetings, work with so many advisory boards, and respect the decisions the advisory boards also bring to the table.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:49:36.360
+End: 00:49:40.360
+Duration: 4.000 seconds
+Text: And in spite of the challenges put forth by the state and federal budgets, we find ways to move forward.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:49:40.360
+End: 00:49:56.360
+Duration: 16.000 seconds
+Text: We've utilized such things as the community improvement district for the Manhattan Town Center, the Transean guest tax, to improve our Manhattan Convention Center expansion, the TIFF district for Aguil Business District, as well as downtown.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:49:56.360
+End: 00:50:06.360
+Duration: 10.000 seconds
+Text: We use several sales tax initiatives to help our parks and rec so that we can add additions to our middle schools, as well as trails.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:50:06.360
+End: 00:50:12.360
+Duration: 6.000 seconds
+Text: And we've also did a lot for street maintenance. And this was approved by the city of Manhattan. The community signed on to it.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:50:12.360
+End: 00:50:21.360
+Duration: 9.000 seconds
+Text: So the community is also saying we need to do things better. We need to keep moving forward and not be stuck in a hole just because somebody else is not taking care of things for us.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:50:21.360
+End: 00:50:24.360
+Duration: 3.000 seconds
+Text: We tend to work hard for the city of Manhattan.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:50:25.360
+End: 00:50:30.360
+Duration: 5.000 seconds
+Text: Like I said, we have a lot to be proud of. We make tough choices and we have a lot of tough choices ahead of us.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:50:30.360
+End: 00:50:35.360
+Duration: 5.000 seconds
+Text: We have a lot of projects that we're going to be discussing. We have the next work session and we will have many more work sessions.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:50:35.360
+End: 00:50:43.360
+Duration: 8.000 seconds
+Text: We're going to work on timelines and figuring out a way to fund some of these initiatives. But we're not done. We're not done asking the community's input.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:50:43.360
+End: 00:50:51.360
+Duration: 8.000 seconds
+Text: We're not done with the conversation. Everything is not complete just because we have signed a few contracts and we have made some movement in some areas.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:50:51.360
+End: 00:51:02.360
+Duration: 11.000 seconds
+Text: These are important for the city of Manhattan to grow and to thrive. In 2016, mental health was a big part of my platform. It was a big priority for me.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:51:02.360
+End: 00:51:12.360
+Duration: 10.000 seconds
+Text: At that time, I was seeking a co-responder for our CPD and Pawnee mental health. We now have two co-responders. At that time, I was talking about having a crisis stabilization center.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:51:12.360
+End: 00:51:23.360
+Duration: 11.000 seconds
+Text: Now we have a stabilization center that is up and running and being completely utilized. That was in 2016. That was founded on a lot of partnerships even at that time.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:51:23.360
+End: 00:51:30.360
+Duration: 7.000 seconds
+Text: I have two goals during the next year or two that I'm here on the city commission. Mental health is still a big priority.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:51:30.360
+End: 00:51:38.360
+Duration: 8.000 seconds
+Text: In the past few weeks, I've known at least three young men that have committed suicide. And they're not all related to me, but they're in Kansas.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:51:38.360
+End: 00:51:47.360
+Duration: 9.000 seconds
+Text: We have a problem. And even though we have a crisis stabilization center that's in full use, we still need to find solutions and preventive measures.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:51:47.360
+End: 00:52:01.360
+Duration: 14.000 seconds
+Text: That means working closely with the USD-383, Kansas State University, and our businesses to figure out solutions and preventive measures so that we are addressing the invisible scars and pains our children and our families are feeling.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:52:01.360
+End: 00:52:11.360
+Duration: 10.000 seconds
+Text: Sometimes they are going through life without telling anybody because of the stigma or they're waiting before it's waiting too long before they take measures for resources.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:52:11.360
+End: 00:52:22.360
+Duration: 11.000 seconds
+Text: There is a need in our community and it must be addressed. The university has already said there's a lot of students from the university that are utilizing our stabilization center. It's our young folks.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:52:22.360
+End: 00:52:31.360
+Duration: 9.000 seconds
+Text: We're thinking they're vibrant healthy and can do anything and they're invincible. That's not the case and we need to get past that. We need to embrace them and bring them forward into our businesses.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:52:31.360
+End: 00:52:43.360
+Duration: 12.000 seconds
+Text: Make sure our businesses are also having a safe zone or a place for them to have a conversation, have flexible schedules. When we look at economic development funds, I think that's something we need to look at. How can we be better as far as businesses?
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:52:44.360
+End: 00:53:01.360
+Duration: 17.000 seconds
+Text: Workforce and feeling jobs is one of the key components to mental health. I think when people are being paid well and they have a safe place to work where they feel the freedom to be successful without being burdened with other stressors in life, they will stay in Manhattan and we will have more people coming to Manhattan.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:53:02.360
+End: 00:53:15.360
+Duration: 13.000 seconds
+Text: We will be working closely with education entities such as the Manhattan Area Technical College, Flint Hills Job Corps, Kansas State University, the Manhattan Christian College, USD 383, Fort Riley and other institutions to fill the jobs.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:53:15.360
+End: 00:53:27.360
+Duration: 12.000 seconds
+Text: We need people to come to Manhattan and to stay in Manhattan and for that to happen we need to work closely with everybody. One of the privileges I have is being on the City Commission and in the Mayor position is also to put people on advisory boards.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:53:27.360
+End: 00:53:40.360
+Duration: 13.000 seconds
+Text: We talked about how many people it takes to run communities such as the City of Manhattan. We want all of you to be involved. We are looking people from diverse communities, diverse backgrounds, different ages. You have a place to serve in the City of Manhattan.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:53:40.360
+End: 00:53:56.360
+Duration: 16.000 seconds
+Text: I'm honored to be the Mayor of Manhattan once again and it is thrilled to be here on the shoulders of many and I hope many more follow in our footsteps. It's a hard job but I think you are everybody is capable of participating in this process and hopefully we will reach our hand out to others.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:53:56.360
+End: 00:54:20.360
+Duration: 24.000 seconds
+Text: We will take a five minute break and then we will come back at more time. About eight o'clock. Thank you.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:54:56.360
+End: 00:55:16.360
+Duration: 20.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:55:16.360
+End: 00:55:40.360
+Duration: 24.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:55:40.360
+End: 00:56:00.360
+Duration: 20.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:56:00.360
+End: 00:56:20.360
+Duration: 20.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:56:20.360
+End: 00:56:40.360
+Duration: 20.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:56:40.360
+End: 00:57:00.360
+Duration: 20.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 00:57:00.360
+End: 00:57:20.360
+Duration: 20.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:57:20.360
+End: 00:57:40.360
+Duration: 20.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:57:40.360
+End: 00:58:00.360
+Duration: 20.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:58:00.360
+End: 00:58:20.360
+Duration: 20.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:58:20.360
+End: 00:58:40.360
+Duration: 20.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:58:50.360
+End: 00:59:10.360
+Duration: 20.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:59:10.360
+End: 00:59:30.360
+Duration: 20.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:59:40.360
+End: 01:00:00.360
+Duration: 20.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:00:10.360
+End: 01:00:30.360
+Duration: 20.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 01:00:40.360
+End: 01:01:00.360
+Duration: 20.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 01:01:10.360
+End: 01:01:30.360
+Duration: 20.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 01:01:40.360
+End: 01:02:00.360
+Duration: 20.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 01:02:10.360
+End: 01:02:30.360
+Duration: 20.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 01:02:30.360
+End: 01:02:50.360
+Duration: 20.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:02:50.360
+End: 01:03:10.360
+Duration: 20.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:03:10.360
+End: 01:03:30.360
+Duration: 20.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:03:40.360
+End: 01:04:00.360
+Duration: 20.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:04:00.360
+End: 01:04:20.360
+Duration: 20.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:04:30.360
+End: 01:04:50.360
+Duration: 20.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:05:00.360
+End: 01:05:20.360
+Duration: 20.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:05:30.360
+End: 01:05:50.360
+Duration: 20.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 01:05:50.360
+End: 01:06:10.360
+Duration: 20.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:06:10.360
+End: 01:06:30.360
+Duration: 20.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:06:40.360
+End: 01:07:00.360
+Duration: 20.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:07:00.360
+End: 01:07:10.360
+Duration: 10.000 seconds
+Text: I think the city manager perhaps talk about when is concerned about E. I suppose it needs a second before we talk.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:07:10.360
+End: 01:07:20.360
+Duration: 10.000 seconds
+Text: I'll second it.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:07:20.360
+End: 01:07:40.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:07:40.360
+End: 01:08:00.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:08:00.360
+End: 01:08:20.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:08:20.360
+End: 01:08:40.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 01:08:40.360
+End: 01:09:00.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 01:09:00.360
+End: 01:09:20.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 01:09:20.360
+End: 01:09:40.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 01:09:40.360
+End: 01:10:00.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:10:00.360
+End: 01:10:20.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:10:20.360
+End: 01:10:40.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:10:40.360
+End: 01:11:00.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:11:00.360
+End: 01:11:20.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:11:20.360
+End: 01:11:40.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:11:40.360
+End: 01:12:00.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:12:00.360
+End: 01:12:20.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:12:20.360
+End: 01:12:40.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:12:40.360
+End: 01:13:00.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:13:00.360
+End: 01:13:20.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 01:13:20.360
+End: 01:13:40.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 01:13:40.360
+End: 01:14:00.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 01:14:00.360
+End: 01:14:20.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 01:14:20.360
+End: 01:14:40.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:14:40.360
+End: 01:15:00.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:15:00.360
+End: 01:15:20.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:15:20.360
+End: 01:15:40.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:15:40.360
+End: 01:16:00.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:16:00.360
+End: 01:16:20.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:16:20.360
+End: 01:16:40.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:16:40.360
+End: 01:17:00.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:17:00.360
+End: 01:17:20.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:17:20.360
+End: 01:17:40.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:17:40.360
+End: 01:18:00.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:18:00.360
+End: 01:18:20.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:18:20.360
+End: 01:18:40.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:18:40.360
+End: 01:19:00.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:19:00.360
+End: 01:19:20.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:19:20.360
+End: 01:19:40.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:19:40.360
+End: 01:20:00.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:20:00.360
+End: 01:20:20.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:20:20.360
+End: 01:20:40.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:20:40.360
+End: 01:21:00.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:21:00.360
+End: 01:21:20.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:21:20.360
+End: 01:21:40.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:21:40.360
+End: 01:22:00.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:22:00.360
+End: 01:22:20.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:22:20.360
+End: 01:22:40.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 01:22:40.360
+End: 01:23:00.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:23:00.360
+End: 01:23:20.360
+Duration: 20.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+Commissioner Linda Morse:
+Start: 01:23:20.360
+End: 01:23:30.360
+Duration: 10.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 01:23:50.360
+End: 01:24:00.360
+Duration: 10.000 seconds
+Text: I think the city manager is not the national league of cities.
+--------------------------------------------------

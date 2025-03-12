@@ -1,0 +1,198 @@
+{
+  "open_ended_analysis": {
+    "primary_themes": [
+      {
+        "theme": "Public Safety",
+        "description": "Overall, the emphasis of this meeting was community involvement and safety, especially as the city grows and expands.",
+        "notable_points": [
+          "The idea that the community plays a role in ensuring safety.",
+          "The stressor on ensuring safe urban development, particularly around parking and lighting."
+        ]
+      },
+      {
+        "theme": "Urban Development",
+        "description": "The meeting also focused on the city's growth in terms of infrastructure.",
+        "notable_points": [
+          "Dealing with parking issues on Fairchild Avenue.",
+          "The need for additional street lighting for safety.",
+          "Planning for future construction projects (Hartford Edition, Ames Edition)"
+        ]
+      }
+    ],
+    "significant_discussions": [
+      {
+        "topic": "Parking and Traffic Congestion Problems",
+        "significance": "It's a major issue owing to the combination of narrow streets and high population density. It could affect both the residents' quality of life and the effectiveness of police operations.",
+        "stakeholders": [
+          "Residents of Fairchild Avenue",
+          "Rade County Police Department",
+          "City Council",
+          "Manhattan, Kansas population"
+        ]
+      },
+      {
+        "topic": "Street Lighting and Safety Concerns",
+        "significance": "The lack of sufficient lighting is contributing to concerns about street safety, especially for young women walking home late at night.",
+        "stakeholders": [
+          "Residents of the area, especially students",
+          "Anderson Bed and Breakfast owners",
+          "City Council"
+        ]
+      },
+      {
+        "topic": "Infrastructure Development",
+        "significance": "Discussed upcoming infrastructure development projects such as Hartford Edition and Ames Edition. This indicates city's active role in urban development.",
+        "stakeholders": [
+          "City Council",
+          "Potential Residents",
+          "City of Manhattan, Kansas"
+        ]
+      }
+    ],
+    "unexpected_elements": [
+      {
+        "element": "Direct Community Engagement",
+        "context": "The police officer's in-depth engagement with residents in her assigned area was significant and indicates a high level of community involvement. This type of direct engagement may not be common and thus, noteworthy."
+      },
+      {
+        "element": "Discussion on Alley Maintenance",
+        "context": "The commission's commitment to maintaining one alley per year was an interesting revelation about the city's approach to small-scale infrastructure maintenance."
+      }
+    ]
+  },
+  "directed_analysis": {
+    "land_use": {
+      "present": true,
+      "significance": "High",
+      "context": "A discussion was held regarding a particular area in the 1700 block of Fairchild Avenue in Manhattan. Safety problems were highlighted related to congestion, lack of adequate street lighting, and parking issues. Suggestions were made to convert the block into a one-way street, install more streetlights, and reconsider parking permits, especially for sorority sisters residing in the area.",
+      "notable_points": [
+        "Congestion in the 1700 block of Fairchild Avenue",
+        "Inadequate street lighting in the area causing safety issues",
+        "Parking problems for sorority sisters living in the area due to permit restrictions"
+      ]
+    },
+    "economic_development": {
+      "present": true,
+      "significance": "Medium",
+      "context": "Workforce housing was discussed as a significant portion of the sales tax revenue will be allocated to it in 2023. A housing survey was also mentioned to ensure adequate and appropriate use of these funds.",
+      "notable_points": [
+        "Allocation of sales tax revenue to workforce housing",
+        "Ongoing housing survey to provide vital insights"
+      ]
+    },
+    "taxes_budget": {
+      "present": true,
+      "significance": "Medium",
+      "context": "The significant assessment levies on nine public improvement districts were discussed, which are set to be executed in May 2022. The discussion focused on the breakdown of costs and how they were calculated, including talks about special assessment ordinances and bonds.",
+      "notable_points": [
+        "Levies on nine public improvement districts",
+        "Process and deadlines for property owners regarding payments and assessments",
+        "Sales tax revenue"
+      ]
+    },
+    "other_significant_topics": [
+      {
+        "topic": "Public Safety",
+        "significance": "High",
+        "context": "Public safety was a key issue, especially when it came to lighting and congestion problems in the 1700 block of Fairchild Avenue. As a solution, it was suggested to implement more lighting to make the area safer for residents."
+      }
+    ]
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 6,
+      "speaking_time": {
+        "Transcription and Diarization for 20220426-02\u29f801\u29f822 City Commission Meeting.mp4": 9.2,
+        "Commissioner Linda Morse": 1000.9200000000001,
+        "City Clerk": 76.0,
+        "Director of Finance Rena Neal": 193.0,
+        "Commissioner Jason Hill": 445.0,
+        "Mayor Morse": 144.0
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [
+        "Commissioner Linda Morse",
+        "City Clerk",
+        "Director of Finance Rena Neal",
+        "Commissioner Jason Hill",
+        "Mayor Morse"
+      ],
+      "observation": "From the speaking times and segments, it is clear that Commissioner Linda Morse dominates the meeting, followed by Commissioner Jason Hill, Mayor Morse, Director of Finance Rena Neal, and the City Clerk. Their roles in the meeting are indicative of their authoritative positions."
+    },
+    "interaction_patterns": {
+      "pattern": "The speakers ask questions and provide information on different topics. The flow of conversation appears to be well structured with limited interruptions. The council members are seen supporting and further clarifying each other's inputs.",
+      "notable_exchanges": [
+        "Commissioner Jason Hill's enquiry about the 1100 block alley and subsequent clarification by Rob Ott, the controller.",
+        "Clarification sought by Commissioner Linda Morse on the consent agenda and further explanation offered by Jason Hill's deputy city manager."
+      ]
+    },
+    "topic_ownership": [
+      {
+        "speaker": "Director of Finance Rena Neal",
+        "topics": [
+          "Finance and Bond Issuance"
+        ]
+      },
+      {
+        "speaker": "Commissioner Jason Hill",
+        "topics": [
+          "Public Safety Concerns",
+          "Weather and Driving Safety",
+          "City Housing Survey"
+        ]
+      },
+      {
+        "speaker": "Commissioner Linda Morse",
+        "topics": [
+          "Consent Agenda Items",
+          "Record Keeping and Property Sale"
+        ]
+      },
+      {
+        "speaker": "Mayor Morse",
+        "topics": [
+          "Meeting Procedures",
+          "Vote Calls"
+        ]
+      }
+    ],
+    "public_participation": {
+      "level": "Medium",
+      "observation": "The presence of a public speaker, presumably Allison Rude, representing herself and her concern for public safety and parking regulation indicates some degree of public participation. However, outside of this speaker, there doesn't seem to be extensive engagement from people outside the council officials."
+    }
+  },
+  "emergent_patterns": {
+    "recurring_themes": [
+      {
+        "theme": "Need for Community Safety Improvements",
+        "evidence": "The presence of a police officer, Allison Rude, who speaks on the topic of parking problems and the lack of street lighting for safety purpose in specific areas of the community. She mentions potential solutions and issues related to residents in the area."
+      }
+    ],
+    "underlying_tensions": [
+      {
+        "tension": "Safety and Practicality",
+        "between": [
+          "Community residents",
+          "City Council"
+        ],
+        "context": "The issues raised by the officer revolve around the tension between maintaining safety (through measures like better street lighting) and the practical considerations involved (such as parking arrangements, congestion, permit allocation, etc.)."
+      }
+    ],
+    "decision_patterns": {
+      "pattern": "Collaborative decision making",
+      "observation": "Issues are discussed openly and decisions are made collectively. The opportunity was given for community members to raise concerns, allowing the council to consider these issues in their decision making."
+    },
+    "language_patterns": {
+      "formality": "High",
+      "technical_density": "Medium",
+      "emotional_tone": "Professional and concerned",
+      "notable_features": [
+        "Use of formal language, technical terms related to city administration and law enforcement, repetition for emphasis"
+      ]
+    },
+    "other_insights": [
+      "There is evident respect for the contributions of city officials and police officers in the meeting, with repeated appreciation expressed."
+    ]
+  }
+}

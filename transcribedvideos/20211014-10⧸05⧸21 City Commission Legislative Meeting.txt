@@ -1,0 +1,3555 @@
+Transcription and Diarization for 20211014-10⧸05⧸21 City Commission Legislative Meeting.mp4
+==================================================
+
+Mayor Butler:
+Start: 00:00:00.000
+End: 00:00:09.160
+Duration: 9.160 seconds
+Text: All right, I believe it's officially 7 p.m. so welcome to the Manhattan City Commission
+--------------------------------------------------
+Mayor Butler:
+Start: 00:00:09.160
+End: 00:00:12.160
+Duration: 3.000 seconds
+Text: meeting for Tuesday, October 5th, 2021.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:00:12.160
+End: 00:00:14.160
+Duration: 2.000 seconds
+Text: And please join me in the Pledge of Allegiance.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:00:14.160
+End: 00:00:21.480
+Duration: 7.320 seconds
+Text: I pledge allegiance to the flag of the United States of America and to the Republic for
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:00:21.480
+End: 00:00:29.560
+Duration: 8.080 seconds
+Text: which it stands, one nation under God, indivisible with liberty and justice for all.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:00:29.560
+End: 00:00:37.440
+Duration: 7.880 seconds
+Text: Okay, we're going to start off with two proclamations tonight, Fire Prevention Week and
+--------------------------------------------------
+Mayor Butler:
+Start: 00:00:37.440
+End: 00:00:39.880
+Duration: 2.440 seconds
+Text: National Physicians Assistant Week.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:00:39.880
+End: 00:00:43.920
+Duration: 4.040 seconds
+Text: So we'll start with the Fire Prevention Week and I think we have some representatives
+--------------------------------------------------
+Mayor Butler:
+Start: 00:00:43.920
+End: 00:00:44.920
+Duration: 1.000 seconds
+Text: here.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:00:44.920
+End: 00:01:04.360
+Duration: 19.440 seconds
+Text: We're as the city of Manhattan, Kansas is committed to ensuring the safety and security of all
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:01:04.360
+End: 00:01:07.120
+Duration: 2.760 seconds
+Text: those living in and visiting Manhattan.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:01:07.120
+End: 00:01:13.080
+Duration: 5.960 seconds
+Text: Public safety concern, both locally and nationally.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:01:13.080
+End: 00:01:18.400
+Duration: 5.320 seconds
+Text: And homes are the locations where people are at greatest risk from fire.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:01:18.400
+End: 00:01:28.160
+Duration: 9.760 seconds
+Text: Home fires killed 2,770 people and fire departments responded to 339,500 home fires in the United
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:01:28.160
+End: 00:01:30.960
+Duration: 2.800 seconds
+Text: States in 2019.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:01:30.960
+End: 00:01:35.560
+Duration: 4.600 seconds
+Text: The majority of US fire deaths occur at home each year.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:01:35.560
+End: 00:01:40.240
+Duration: 4.680 seconds
+Text: Manhattan residents should be sure everyone in the home understands the sounds of the
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:01:40.240
+End: 00:01:43.240
+Duration: 3.000 seconds
+Text: alarms and knows how to respond.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:01:43.240
+End: 00:01:47.720
+Duration: 4.480 seconds
+Text: It will make sure they're smoke and carbon monoxide alarms meet the needs of all their
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:01:47.720
+End: 00:01:54.080
+Duration: 6.360 seconds
+Text: family members, including those with sensory or physical disabilities.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:01:54.080
+End: 00:02:00.280
+Duration: 6.200 seconds
+Text: The 2021 Fire Prevention Week thing learned the sounds of fire safety effectively serves
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:02:00.280
+End: 00:02:08.520
+Duration: 8.240 seconds
+Text: to remind us that we need to make take personal steps to increase our fire safety from fire.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:02:08.520
+End: 00:02:13.680
+Duration: 5.160 seconds
+Text: Now therefore, Wind Butler, Mayor of the City of Manhattan, Kansas, does hereby proclaim
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:02:13.680
+End: 00:02:20.200
+Duration: 6.520 seconds
+Text: October 3rd through the 9th, 2021 as Fire Prevention Week throughout the city and urge
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:02:20.200
+End: 00:02:25.640
+Duration: 5.440 seconds
+Text: all the people of Manhattan to learn the sounds of fire safety for a Fire Prevention Week
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:02:25.640
+End: 00:02:31.240
+Duration: 5.600 seconds
+Text: 2021 and to support the many activities and efforts of the Manhattan Fire Department.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:02:31.240
+End: 00:02:42.660
+Duration: 11.420 seconds
+Text: Thank you, Mayor Butler and commissioners for your continued support of the Manhattan
+--------------------------------------------------
+City Manager:
+Start: 00:02:42.660
+End: 00:02:47.120
+Duration: 4.460 seconds
+Text: Fire Department and all that we do to keep citizens and visitors safe here in our great city,
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:02:47.120
+End: 00:02:48.120
+Duration: 1.000 seconds
+Text: Manhattan.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:02:48.120
+End: 00:02:53.040
+Duration: 4.920 seconds
+Text: Want to invite anybody that's around on Sunday, come see us at our open house at Kimmelendinison.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:02:53.040
+End: 00:02:55.200
+Duration: 2.160 seconds
+Text: It's 11 to 2, sorry, 11 to 3.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:02:55.600
+End: 00:03:00.960
+Duration: 5.360 seconds
+Text: There'll be all kinds of activities for all ages and we'll do a live, burned demonstration
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:03:00.960
+End: 00:03:04.280
+Duration: 3.320 seconds
+Text: to see the effects of a fire in a house.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:03:04.280
+End: 00:03:06.160
+Duration: 1.880 seconds
+Text: Let's hope to see you all there.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:03:25.200
+End: 00:03:28.520
+Duration: 3.320 seconds
+Text: Then we have National Physician Assistant Week.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:03:28.520
+End: 00:03:32.800
+Duration: 4.280 seconds
+Text: I think we have two representatives here to pick up this population.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:03:32.800
+End: 00:03:35.760
+Duration: 2.960 seconds
+Text: Well, you're going to take pictures.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:03:35.760
+End: 00:03:37.000
+Duration: 1.240 seconds
+Text: Okay, that's why I got it.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:03:37.000
+End: 00:03:38.600
+Duration: 1.600 seconds
+Text: I got to get it on there, okay?
+--------------------------------------------------
+Mayor Butler:
+Start: 00:03:38.600
+End: 00:03:42.160
+Duration: 3.560 seconds
+Text: So, Brenda, we'll read this one.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:03:42.160
+End: 00:03:48.440
+Duration: 6.280 seconds
+Text: Whereas quality, cost effective, accessible patient-centered health care provided by physician
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:03:48.440
+End: 00:03:53.560
+Duration: 5.120 seconds
+Text: assistance contributes to the well-being and quality of life for all patients of Manhattan,
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:03:53.560
+End: 00:03:54.560
+Duration: 1.000 seconds
+Text: Kansas.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:03:55.040
+End: 00:04:02.160
+Duration: 7.120 seconds
+Text: VA's are academically and clinically prepared medical professionals who diagnose illness,
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:04:02.160
+End: 00:04:09.280
+Duration: 7.120 seconds
+Text: develop and manage treatment plans and often serve as a patient's principal health care
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:04:09.280
+End: 00:04:10.280
+Duration: 1.000 seconds
+Text: provider.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:04:10.280
+End: 00:04:16.280
+Duration: 6.000 seconds
+Text: VA's are often the first point of contact for many patients and play a vital role in
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:04:16.280
+End: 00:04:22.000
+Duration: 5.720 seconds
+Text: helping them understand their medical needs and empower them to become effective advocates
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:04:22.000
+End: 00:04:23.760
+Duration: 1.760 seconds
+Text: for their own health.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:04:23.760
+End: 00:04:29.440
+Duration: 5.680 seconds
+Text: A valuable asset to the medical team, VA's enhance the delivery of high quality health
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:04:29.440
+End: 00:04:35.160
+Duration: 5.720 seconds
+Text: care for patients, often in medically underserved and rural areas.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:04:35.160
+End: 00:04:39.800
+Duration: 4.640 seconds
+Text: VA's have earned the respect of the general public for their dedication and contributions
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:04:39.800
+End: 00:04:45.200
+Duration: 5.400 seconds
+Text: to people's lives and for their commitment to team-based care and ensure delivery of
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:04:45.200
+End: 00:04:48.880
+Duration: 3.680 seconds
+Text: effective and efficient health care services.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:04:48.880
+End: 00:04:54.600
+Duration: 5.720 seconds
+Text: Now therefore, Win Butler, Mayor of the City of Manhattan, Kansas, does hereby proclaim
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:04:54.600
+End: 00:05:01.000
+Duration: 6.400 seconds
+Text: October 6th, 2012, 2021 as National Physician Assistant Week.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:05:01.000
+End: 00:05:07.080
+Duration: 6.080 seconds
+Text: Throughout Manhattan, Kansas encouraged all residents to recognize VA's for the significant
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:05:07.080
+End: 00:05:12.000
+Duration: 4.920 seconds
+Text: impact they have made and continue to make in health care as a critical part of the
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:05:12.000
+End: 00:05:13.000
+Duration: 1.000 seconds
+Text: health care team.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:05:19.880
+End: 00:05:20.880
+Duration: 1.000 seconds
+Text: Thank you very much.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:05:20.880
+End: 00:05:25.880
+Duration: 5.000 seconds
+Text: Appreciate that and it's a privilege to be here to accept this proclamation on behalf
+--------------------------------------------------
+Mayor Butler:
+Start: 00:05:25.880
+End: 00:05:31.240
+Duration: 5.360 seconds
+Text: of the VA program and VA's that we will train in the future and the VA's work in the city
+--------------------------------------------------
+Mayor Butler:
+Start: 00:05:31.240
+End: 00:05:32.880
+Duration: 1.640 seconds
+Text: and in this community.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:05:32.880
+End: 00:05:35.560
+Duration: 2.680 seconds
+Text: We thank you Mayor and commissioners.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:05:35.560
+End: 00:05:36.560
+Duration: 1.000 seconds
+Text: We appreciate this.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:05:48.880
+End: 00:06:00.480
+Duration: 11.600 seconds
+Text: All right, as this is the first meeting of the month, we have open and public comments.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:06:00.480
+End: 00:06:05.040
+Duration: 4.560 seconds
+Text: Is there anyone in the audience that wishes to make a comment on any item that is not on
+--------------------------------------------------
+Mayor Butler:
+Start: 00:06:05.040
+End: 00:06:06.760
+Duration: 1.720 seconds
+Text: the agenda tonight?
+--------------------------------------------------
+Mayor Butler:
+Start: 00:06:06.760
+End: 00:06:12.720
+Duration: 5.960 seconds
+Text: We didn't have anybody sign up in advance, so seeing none, we will move on to Commissioner
+--------------------------------------------------
+Mayor Butler:
+Start: 00:06:12.720
+End: 00:06:13.720
+Duration: 1.000 seconds
+Text: Collins.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:06:13.720
+End: 00:06:14.720
+Duration: 1.000 seconds
+Text: Commissioner Redding?
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:06:14.720
+End: 00:06:16.760
+Duration: 2.040 seconds
+Text: Yes, thank you.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:06:16.760
+End: 00:06:24.600
+Duration: 7.840 seconds
+Text: I did want to say Dennis, director Butler for RCPD has decided to retire and officially
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:06:24.600
+End: 00:06:31.680
+Duration: 7.080 seconds
+Text: I suppose in February and I just want to commend him on his stellar leadership for the
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:06:31.680
+End: 00:06:33.440
+Duration: 1.760 seconds
+Text: Riley County Police Department.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:06:33.440
+End: 00:06:40.360
+Duration: 6.920 seconds
+Text: I was part of the search committee when we were selecting the next director for RCPD and
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:06:40.360
+End: 00:06:45.360
+Duration: 5.000 seconds
+Text: there were quite a few applicants and certainly he didn't have to take this job.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:06:45.360
+End: 00:06:51.880
+Duration: 6.520 seconds
+Text: He was close to retirement even at that time but he believed in Manhattan and the community
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:06:51.880
+End: 00:06:56.520
+Duration: 4.640 seconds
+Text: that we have here and the police department that we have here and we were very excited
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:06:56.520
+End: 00:06:58.800
+Duration: 2.280 seconds
+Text: when he decided to accept the position.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:06:58.800
+End: 00:07:04.640
+Duration: 5.840 seconds
+Text: So I value what he brought to our community and the positions that he's put in place for
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:07:04.640
+End: 00:07:11.680
+Duration: 7.040 seconds
+Text: sexual assault as well as moving forward with the co-responder program and many other initiatives.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:07:11.680
+End: 00:07:16.000
+Duration: 4.320 seconds
+Text: It was very collaborative and easy to work with and also part of the fair and impartial
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:07:16.000
+End: 00:07:19.360
+Duration: 3.360 seconds
+Text: policing and working with the coalition for justice.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:07:19.360
+End: 00:07:25.880
+Duration: 6.520 seconds
+Text: So I think his left a big footprint and the short time that he's been with us.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:07:25.880
+End: 00:07:34.440
+Duration: 8.560 seconds
+Text: So I wish him all the best and I'm sure law board will start doing a search soon enough.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:07:34.440
+End: 00:07:41.640
+Duration: 7.200 seconds
+Text: I want the League of Women Voters has a candidate forum this Sunday October 10th in the afternoon
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:07:41.640
+End: 00:07:46.320
+Duration: 4.680 seconds
+Text: and it's a via Zoom and I believe it's going to be broadcast on Facebook.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:07:46.320
+End: 00:07:50.480
+Duration: 4.160 seconds
+Text: It's usually in person but this year it is not in person so I just want to make everybody
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:07:50.480
+End: 00:07:56.480
+Duration: 6.000 seconds
+Text: aware as you all make decisions for the elections that there are about three or four forums
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:07:56.480
+End: 00:07:59.880
+Duration: 3.400 seconds
+Text: and I believe three of them are on Zoom.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:07:59.880
+End: 00:08:03.880
+Duration: 4.000 seconds
+Text: So the first one is this October 10th for your information.
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:08:03.880
+End: 00:08:05.880
+Duration: 2.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:08:05.880
+End: 00:08:17.680
+Duration: 11.800 seconds
+Text: Yeah, so I was just going to briefly update the public or whoever's listening about some
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:08:17.680
+End: 00:08:26.280
+Duration: 8.600 seconds
+Text: of the newest Manhattan residents and that we began receiving our first group family of
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:08:26.280
+End: 00:08:34.440
+Duration: 8.160 seconds
+Text: Afghan allies and I think as one one request I have of the community is as we talk about
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:08:34.440
+End: 00:08:40.000
+Duration: 5.560 seconds
+Text: the people that may be arriving over the next few months from Afghanistan that we think
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:08:40.000
+End: 00:08:41.800
+Duration: 1.800 seconds
+Text: about them.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:08:41.800
+End: 00:08:48.760
+Duration: 6.960 seconds
+Text: Sometimes we hear refugees or evacuees or we're not sure how to refer to this group of people
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:08:48.760
+End: 00:08:57.600
+Duration: 8.840 seconds
+Text: and one word that I hope that we can use is allies and that they are Afghan allies and
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:08:57.600
+End: 00:09:02.280
+Duration: 4.680 seconds
+Text: currently the Department of Homeland Security is carrying out the operation.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:09:02.280
+End: 00:09:11.360
+Duration: 9.080 seconds
+Text: Welcome allies which ends with what you saw on Friday maybe as people arrived into the
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:09:11.360
+End: 00:09:17.120
+Duration: 5.760 seconds
+Text: Kansas City Airport after going through a lengthy vetting process that lasted over six
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:09:17.120
+End: 00:09:26.840
+Duration: 9.720 seconds
+Text: weeks and you can trace that family back to that ally the father had fought alongside the
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:09:26.840
+End: 00:09:35.520
+Duration: 8.680 seconds
+Text: United States forces had secured the Kabul airport while the United States evacuated and
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:09:35.520
+End: 00:09:41.480
+Duration: 5.960 seconds
+Text: as he secured that airport his family came to the airport and the baby was born at the
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:09:41.480
+End: 00:09:48.920
+Duration: 7.440 seconds
+Text: airport and has been traveling since well the baby was born six days after the fall of
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:09:48.920
+End: 00:09:55.760
+Duration: 6.840 seconds
+Text: the government at the airport and has been traveling until this past Friday to reach Manhattan
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:09:55.760
+End: 00:10:04.160
+Duration: 8.400 seconds
+Text: and that's a pretty cool story out of a tragedy and I think as we think about how we welcome
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:10:04.160
+End: 00:10:08.680
+Duration: 4.520 seconds
+Text: the people into our community there's at least ten more arriving in the next week or
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:10:08.680
+End: 00:10:15.280
+Duration: 6.600 seconds
+Text: so and I think we'll have some waves of more through the fall and winter but just remember
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:10:15.280
+End: 00:10:22.160
+Duration: 6.880 seconds
+Text: that we're thinking of them as allies so many people in the community at Fort Riley and
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:10:22.160
+End: 00:10:28.680
+Duration: 6.520 seconds
+Text: our veterans in our community have served along these different people and wouldn't have an
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:10:28.680
+End: 00:10:36.680
+Duration: 8.000 seconds
+Text: opportunity to be here and the way that they are had had those people not risked their lives and
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:10:36.680
+End: 00:10:46.080
+Duration: 9.400 seconds
+Text: put those ideals forward to serve alongside us so just help me welcome them and refer to them as
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:10:46.080
+End: 00:10:54.080
+Duration: 8.000 seconds
+Text: allies. I just would like to point out we got our sales tax receipts for the month of September
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:10:54.080
+End: 00:10:58.720
+Duration: 4.640 seconds
+Text: the other day and it shows the fifth month in a row where we've collected over a million dollars
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:10:58.720
+End: 00:11:03.600
+Duration: 4.880 seconds
+Text: in sales taxes which is the first time in a in a few years that we've had that kind of collections
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:11:03.600
+End: 00:11:08.560
+Duration: 4.960 seconds
+Text: which puts us currently about six hundred thousand dollars over budget for sales tax collections
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:11:08.640
+End: 00:11:17.040
+Duration: 8.400 seconds
+Text: for the year and on pace to be at or above the 2019 sales tax number so generally the economy
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:11:17.040
+End: 00:11:21.760
+Duration: 4.720 seconds
+Text: around town has been improving and we sure like to see that and hopefully we can continue that
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:11:22.320
+End: 00:11:26.640
+Duration: 4.320 seconds
+Text: and which will help take some pressure off of properties taxes going forward in the future hopefully
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:11:26.640
+End: 00:11:37.680
+Duration: 11.040 seconds
+Text: thanks. I'd like to point out that October the 12th is the deadline to register to vote
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:11:38.640
+End: 00:11:46.880
+Duration: 8.240 seconds
+Text: and that October 13th is the first day you can advance vote at the county clerk's office and if
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:11:46.880
+End: 00:11:53.280
+Duration: 6.400 seconds
+Text: you need or want more information just call the county clerk's office because they are the source
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:11:54.160
+End: 00:12:04.400
+Duration: 10.240 seconds
+Text: you could check their website too. We're the community and you've probably heard it on the radio but
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:12:04.480
+End: 00:12:12.000
+Duration: 7.520 seconds
+Text: the is is having a veterans parade and I'm not sure the date but I know that you can call Janet
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:12:12.000
+End: 00:12:20.000
+Duration: 8.000 seconds
+Text: Nichols the military relations officer at the Chamber of Commerce office here in Manhattan
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:12:20.000
+End: 00:12:26.880
+Duration: 6.880 seconds
+Text: and she can give you all the details if you want to have an entry in the parade do it now early
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:12:26.880
+End: 00:12:34.160
+Duration: 7.280 seconds
+Text: enough and but anyway mark your calendars and plan to go it's always the biggest they build it
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:12:34.160
+End: 00:12:42.800
+Duration: 8.640 seconds
+Text: as the biggest veterans parade in Kansas so it's it's a worthy and fort Riley comes and it's a big
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:12:42.800
+End: 00:12:54.080
+Duration: 11.280 seconds
+Text: event. I one of the city staff members Jared Wasinger announced earlier that the strategic the
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:12:54.080
+End: 00:13:02.800
+Duration: 8.720 seconds
+Text: draft of the strategic plan is now on the city website and the priority prioritization survey is
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:13:02.800
+End: 00:13:10.160
+Duration: 7.360 seconds
+Text: also there and there will be a public open house this coming Thursday from 6 to 8 p.m. here in the
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:13:10.160
+End: 00:13:17.520
+Duration: 7.360 seconds
+Text: city commission room. This is important for us all to pay attention to as we go through all of the
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:13:17.520
+End: 00:13:23.440
+Duration: 5.920 seconds
+Text: steps to determine what should be the city's priorities and this is at kind of a high level
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:13:24.080
+End: 00:13:31.200
+Duration: 7.120 seconds
+Text: but it's going to matter in the future and so what what is it our community needs and what should
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:13:31.200
+End: 00:13:39.440
+Duration: 8.240 seconds
+Text: be the top 10 or top 15 that we put our energies and our money into so we invite you to be a part of
+--------------------------------------------------
+Mayor Butler:
+Start: 00:13:39.440
+End: 00:13:48.480
+Duration: 9.040 seconds
+Text: that thank you. Okay, Commissioner Hatties I'll point it out I'm also impressed with our sales tax
+--------------------------------------------------
+Mayor Butler:
+Start: 00:13:48.480
+End: 00:13:55.120
+Duration: 6.640 seconds
+Text: receipts you know five months going up is good over 2019 statistically if we get two more we
+--------------------------------------------------
+Mayor Butler:
+Start: 00:13:55.120
+End: 00:13:59.760
+Duration: 4.640 seconds
+Text: can actually say it's a trend and we reversed you know the negative things there and I think we're
+--------------------------------------------------
+Mayor Butler:
+Start: 00:13:59.760
+End: 00:14:04.480
+Duration: 4.720 seconds
+Text: going to get there because we've got some great events for the holidays plan the chambers pushing
+--------------------------------------------------
+Mayor Butler:
+Start: 00:14:04.480
+End: 00:14:09.440
+Duration: 4.960 seconds
+Text: some things you'll see a poster coming out with a series of events and I want to make this the
+--------------------------------------------------
+Mayor Butler:
+Start: 00:14:09.440
+End: 00:14:14.000
+Duration: 4.560 seconds
+Text: holiday destination everybody needs to come out and spend their money so we can get that sales tax
+--------------------------------------------------
+Mayor Butler:
+Start: 00:14:14.000
+End: 00:14:21.120
+Duration: 7.120 seconds
+Text: trend so appreciate that. Okay, let's move on to the consent agenda the items on the consent
+--------------------------------------------------
+Mayor Butler:
+Start: 00:14:21.120
+End: 00:14:25.680
+Duration: 4.560 seconds
+Text: agenda are those of a routine and housekeeping nature or those items which have previously
+--------------------------------------------------
+Mayor Butler:
+Start: 00:14:25.680
+End: 00:14:31.120
+Duration: 5.440 seconds
+Text: been reviewed by the city commission the commissioner may request an item to move to the end of the
+--------------------------------------------------
+Mayor Butler:
+Start: 00:14:31.120
+End: 00:14:36.720
+Duration: 5.600 seconds
+Text: general agenda does the commission have any questions or comments on any of the consent agenda items.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:14:41.120
+End: 00:14:48.160
+Duration: 7.040 seconds
+Text: I will I will make a motion and I will make a comment I am I move that we
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:14:51.440
+End: 00:15:00.480
+Duration: 9.040 seconds
+Text: approve. I do have a comment I would like to just call attention to the flintils
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:15:00.480
+End: 00:15:09.200
+Duration: 8.720 seconds
+Text: discovery center kidscape project phase two that will be supporting tonight hopefully to approve
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:15:10.800
+End: 00:15:26.560
+Duration: 15.760 seconds
+Text: and we will be proving $1,237 $1,237,630 for the final design and construction of that project
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:15:27.360
+End: 00:15:36.720
+Duration: 9.360 seconds
+Text: and this is funding that the flintils discovery foundation has done fundraising for and it's just
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:15:36.720
+End: 00:15:45.040
+Duration: 8.320 seconds
+Text: it's kind of like the zoo with the Asian exhibit private funding has supported those two projects
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:15:45.040
+End: 00:15:50.640
+Duration: 5.600 seconds
+Text: and it's just a wonderful thing to have people come together in the case of the flintils discovery
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:15:51.600
+End: 00:15:58.000
+Duration: 6.400 seconds
+Text: a lot of it is the ranching community here in the flintils and they serve on the board and
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:15:58.000
+End: 00:16:04.640
+Duration: 6.640 seconds
+Text: they're passionate about the flintils and what a special place it is here so I just wanted to
+--------------------------------------------------
+Mayor Butler:
+Start: 00:16:04.640
+End: 00:16:12.640
+Duration: 8.000 seconds
+Text: call attention to that. They're seeing no other commissioner comments there any public comment
+--------------------------------------------------
+Mayor Butler:
+Start: 00:16:13.280
+End: 00:16:20.080
+Duration: 6.800 seconds
+Text: on the consent agenda items. To include I think we've got Bruce need with us on zoom so if you
+--------------------------------------------------
+Mayor Butler:
+Start: 00:16:20.080
+End: 00:16:29.520
+Duration: 9.440 seconds
+Text: wish to make a comment feel free. Okay I don't don't hear anything there so seeing no no public
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:16:29.520
+End: 00:16:35.680
+Duration: 6.160 seconds
+Text: comment on the consent agenda we can take a motion. Mayor I move that we approve the consent agenda
+--------------------------------------------------
+Mayor Butler:
+Start: 00:16:35.680
+End: 00:16:43.040
+Duration: 7.360 seconds
+Text: as distributed. Second. Okay City Clerk we have a motion in a second could you please call the
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:16:43.840
+End: 00:16:51.600
+Duration: 7.760 seconds
+Text: Mayor Butler. Yes. Commissioner Morris. Yes. Commissioner Hattiesel. Yes. Commissioner Estabra. Yes.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:16:52.240
+End: 00:17:02.080
+Duration: 9.840 seconds
+Text: Commissioner Reddy. Yes. Motion carried 5-0. Okay the next item on the agenda is a public hearing
+--------------------------------------------------
+Mayor Butler:
+Start: 00:17:02.080
+End: 00:17:09.920
+Duration: 7.840 seconds
+Text: to consider amending the 2021 city budget and Reno the director of finance is going to take it from
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:17:09.920
+End: 00:17:19.920
+Duration: 10.000 seconds
+Text: there. Yes sir. Good evening. Let me bring up the okay thank you very much.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:17:49.920
+End: 00:18:07.280
+Duration: 17.360 seconds
+Text: Good evening Mayor and commissioners on September 23rd we published a notification in the manhattan
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:18:07.280
+End: 00:18:13.760
+Duration: 6.480 seconds
+Text: mercury to amend a 2021 budget for six funds and to set the date for the public hearing which is
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:18:13.760
+End: 00:18:22.800
+Duration: 9.040 seconds
+Text: tonight. Tonight we are having a public hearing to amend a 2021 budget for six special revenue funds
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:18:22.800
+End: 00:18:27.760
+Duration: 4.960 seconds
+Text: they are the fire pension KPNF fund, sales tax funds, special street and highway fund,
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:18:28.320
+End: 00:18:34.160
+Duration: 5.840 seconds
+Text: downtown redevelopment, TIF fund, special street maintenance fund and the equipment reserve fund.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:18:34.400
+End: 00:18:47.040
+Duration: 12.640 seconds
+Text: We budgeted $1,155,000 in 2021 for the fire pension KPNF fund. We did not carry over our beginning fund
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:18:47.040
+End: 00:18:54.240
+Duration: 7.200 seconds
+Text: balance in this fund. We had anticipated a budgeted amount of $427,500 but we were not able to
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:18:54.240
+End: 00:19:02.800
+Duration: 8.560 seconds
+Text: carry that over due to the pandemic and the budget from 2020. We averaged about $55,000 a pay period
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:19:02.800
+End: 00:19:10.160
+Duration: 7.360 seconds
+Text: in fire pension expenses and are estimating that we will have expenses for 2021 at 1.35 million.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:19:10.960
+End: 00:19:17.280
+Duration: 6.320 seconds
+Text: We will more than likely need to use general fund revenue to make up the difference for whatever
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:19:17.280
+End: 00:19:25.520
+Duration: 8.240 seconds
+Text: revenue shortfalls we will have. Our sales tax fund revenues collected in the sales tax fund are
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:19:25.520
+End: 00:19:32.000
+Duration: 6.480 seconds
+Text: transferred to the general fund employee benefit fund fire pension fund and general improvement fund.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:19:32.000
+End: 00:19:38.400
+Duration: 6.400 seconds
+Text: To date we have collected 70% of the budgeted amount of 5.87 million. If we continue to collect
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:19:38.400
+End: 00:19:44.240
+Duration: 5.840 seconds
+Text: at this same rate we anticipate that we will receive an additional $600,000 in revenue.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:19:44.240
+End: 00:19:49.840
+Duration: 5.600 seconds
+Text: In order to use that additional revenue we will need to amend the budget and so they increase
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:19:49.840
+End: 00:19:57.840
+Duration: 8.000 seconds
+Text: $600,000. The next two funds the special street and highway and special street maintenance funds.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:19:57.840
+End: 00:20:03.200
+Duration: 5.360 seconds
+Text: The projects that were earmarked in those two funds for 2020 were put on hold due to the
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:20:03.200
+End: 00:20:09.600
+Duration: 6.400 seconds
+Text: unknown revenue impacts of the pandemic. The special street and highway fund is being amended by
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:20:09.600
+End: 00:20:15.680
+Duration: 6.080 seconds
+Text: $2.23 million while the special street maintenance fund is being amended by a million dollars.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:20:15.680
+End: 00:20:21.680
+Duration: 6.000 seconds
+Text: Both of these funds are being amended to capture the funds carried over from 2020 which will allow
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:20:21.840
+End: 00:20:29.200
+Duration: 7.360 seconds
+Text: for those projects that were put on hold in 2020 to move forward. The downtown redevelopment
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:20:29.200
+End: 00:20:42.000
+Duration: 12.800 seconds
+Text: tip fund the adopted budgeted amount was $2,880,823 and we are emitting to $3,172,450.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:20:42.800
+End: 00:20:49.040
+Duration: 6.240 seconds
+Text: The revenue sources for this fund are property taxes and sales tax revenue. We have collected 98%
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:20:49.040
+End: 00:20:55.040
+Duration: 6.000 seconds
+Text: of the budgeted property tax revenue to date. We have collected 77% of the budgeted sales tax
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:20:55.040
+End: 00:21:01.600
+Duration: 6.560 seconds
+Text: revenue. If we continue to collect at this rate we anticipate we will receive an additional $290,000
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:21:01.600
+End: 00:21:07.280
+Duration: 5.680 seconds
+Text: which is roughly the difference of the budgeted amounts. In order to use that we will need to amend
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:21:07.280
+End: 00:21:12.480
+Duration: 5.200 seconds
+Text: the budget. All revenue received is remitted to the bond trustee to make debt payments on the tip
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:21:12.880
+End: 00:21:22.480
+Duration: 9.600 seconds
+Text: bonds. And then the final fund is the Equipment Reserve fund. We adopted a budget of 96,715 and we are
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:21:22.480
+End: 00:21:31.280
+Duration: 8.800 seconds
+Text: emitting to $115,000 for a difference of $18,285. This fund was established last year to pay for
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:21:31.280
+End: 00:21:37.280
+Duration: 6.000 seconds
+Text: 19 vehicles for the organization. And so due to the pandemic the placement and delivery of the
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:21:37.280
+End: 00:21:45.600
+Duration: 8.320 seconds
+Text: orders were delayed and that is all in terms of those six funds. Are there any questions?
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:21:48.400
+End: 00:21:55.840
+Duration: 7.440 seconds
+Text: So Reena on the downtown redevelopment tip money will just be paying that bond down faster than
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:21:55.840
+End: 00:22:04.880
+Duration: 9.040 seconds
+Text: anticipated with that extra $600 or extra $300,290? Yes so we have $10.53 million left on the bonds.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:22:04.880
+End: 00:22:11.200
+Duration: 6.320 seconds
+Text: We anticipate paying them off in 2026. So any additional revenue that we receive is put in the
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:22:11.200
+End: 00:22:15.600
+Duration: 4.400 seconds
+Text: S-Grow and then they can make additional payments towards the scheduled bond payments.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:22:15.600
+End: 00:22:22.720
+Duration: 7.120 seconds
+Text: Is the two, is the two, two thousand twenty six is, are we ahead of, are we going to be ahead of
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:22:22.720
+End: 00:22:27.440
+Duration: 4.720 seconds
+Text: schedule by six months or a year or two on that too like we were on like the star bonds and some
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:22:27.440
+End: 00:22:34.400
+Duration: 6.960 seconds
+Text: other things or is that more accurately predicted and we're closer to that? I was looking at the
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:22:34.480
+End: 00:22:41.680
+Duration: 7.200 seconds
+Text: schedule today I believe that we are ahead ahead of schedule and so we will make that that payment
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:22:41.680
+End: 00:22:47.920
+Duration: 6.240 seconds
+Text: at the end of November and then we'll get another debt server schedule and we can provide that
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:22:47.920
+End: 00:22:53.840
+Duration: 5.920 seconds
+Text: to you to show where we will be at in terms of the final payout. That'd be great thank you.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:23:00.640
+End: 00:23:01.920
+Duration: 1.280 seconds
+Text: Are there any other questions?
+--------------------------------------------------
+Mayor Butler:
+Start: 00:23:05.360
+End: 00:23:12.240
+Duration: 6.880 seconds
+Text: Okay seeing no other questions from the commission are there any public comments on the city budget amendments?
+--------------------------------------------------
+Mayor Butler:
+Start: 00:23:24.960
+End: 00:23:28.880
+Duration: 3.920 seconds
+Text: Okay we're supposed to conduct a public hearing on it so is there anyone here that wishes to
+--------------------------------------------------
+Mayor Butler:
+Start: 00:23:29.520
+End: 00:23:37.840
+Duration: 8.320 seconds
+Text: wishes to speak regarding this item can do so at this time? Okay don't see any so
+--------------------------------------------------
+Mayor Butler:
+Start: 00:23:39.280
+End: 00:23:42.880
+Duration: 3.600 seconds
+Text: are there any other commissioner comments on this particular item?
+--------------------------------------------------
+Mayor Butler:
+Start: 00:23:47.040
+End: 00:23:52.400
+Duration: 5.360 seconds
+Text: I do want to ask one one question is just so that the public is clear on this.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:23:53.360
+End: 00:24:00.800
+Duration: 7.440 seconds
+Text: The majority of these funds were collected sales tax? So fire pension they have sales tax revenue
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:24:00.800
+End: 00:24:07.920
+Duration: 7.120 seconds
+Text: coming into them as a transfer and then some of them do have property taxes like the downtown
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:24:07.920
+End: 00:24:14.240
+Duration: 6.320 seconds
+Text: redevelopment tith sales tax those funds that are receded into that sales tax fund are transferred
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:24:14.240
+End: 00:24:20.800
+Duration: 6.560 seconds
+Text: out to other funds like the general fund and what other fire pension fund employee benefit fund
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:24:20.800
+End: 00:24:26.800
+Duration: 6.000 seconds
+Text: in general improvement fund and then special street highway they get gasoline tax and then the
+--------------------------------------------------
+Mayor Butler:
+Start: 00:24:26.800
+End: 00:24:31.760
+Duration: 4.960 seconds
+Text: special street maintenance is this own special sales tax. Okay so this is driven by basically the
+--------------------------------------------------
+Mayor Butler:
+Start: 00:24:31.760
+End: 00:24:36.640
+Duration: 4.880 seconds
+Text: bottom line is increased revenue so therefore we can place them catch up on things especially
+--------------------------------------------------
+Mayor Butler:
+Start: 00:24:36.640
+End: 00:24:43.280
+Duration: 6.640 seconds
+Text: like to see additional funds going into street maintenance. I would say for sales tax special street
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:24:43.280
+End: 00:24:48.560
+Duration: 5.280 seconds
+Text: highway downtown and special street maintenance fire pension we have the expenses but we do not have
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:24:48.560
+End: 00:24:56.960
+Duration: 8.400 seconds
+Text: the revenue coming in for that so we did not carry over the budgeted amount of 427,000 and then
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:24:56.960
+End: 00:25:01.520
+Duration: 4.560 seconds
+Text: the sales tax transfer that we budget it wasn't what we needed for that fund either.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:25:05.360
+End: 00:25:14.880
+Duration: 9.520 seconds
+Text: Rhina if we were to continue to take in more revenue than the budget will you come back for
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:25:14.880
+End: 00:25:21.200
+Duration: 6.320 seconds
+Text: another budget revision should we anticipate that or is this the final. We shouldn't anticipate that
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:25:21.200
+End: 00:25:27.360
+Duration: 6.160 seconds
+Text: for the year this is for these six funds are what we anticipate to the end of the year. Okay so all
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:25:27.360
+End: 00:25:31.600
+Duration: 4.240 seconds
+Text: the other funds well they're fine in terms of their expenditures compared to their revenue.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:25:31.600
+End: 00:25:35.600
+Duration: 4.000 seconds
+Text: And the end of the year is really close December 3rd. Very much so yeah okay thank you.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:25:35.600
+End: 00:25:45.840
+Duration: 10.240 seconds
+Text: You're welcome. Well Mayor I move that we approve the first reading of an ordinance amending to 2021 city budget.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:25:47.360
+End: 00:25:52.560
+Duration: 5.200 seconds
+Text: Second. Okay we have a motion in a second. City clerk could you please call the roll.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:25:53.120
+End: 00:25:56.480
+Duration: 3.360 seconds
+Text: Commissioner Moors. Yes. Commissioner Hassel. Yes.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:25:57.120
+End: 00:26:02.880
+Duration: 5.760 seconds
+Text: Commissioner Estabra. Yes. Commissioner Reddy. Yes. Mayor Butler. Yes.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:26:02.880
+End: 00:26:11.840
+Duration: 8.960 seconds
+Text: Motion carries five to zero. Okay and we'll move on to the general agenda.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:26:12.320
+End: 00:26:18.800
+Duration: 6.480 seconds
+Text: From the first item on the general agenda is consideration of an economic development agreement
+--------------------------------------------------
+Mayor Butler:
+Start: 00:26:18.800
+End: 00:26:27.760
+Duration: 8.960 seconds
+Text: for LZ holdings LLC a DBA the prime company and the presenters will start off with Jason Helgers
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:26:27.760
+End: 00:26:33.120
+Duration: 5.360 seconds
+Text: deputy city manager. Thank you Mayor commissioners I'm just going to provide a brief introduction.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:26:34.480
+End: 00:26:40.560
+Duration: 6.080 seconds
+Text: We typically consider economic development request twice so this evening is your first consideration
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:26:40.560
+End: 00:26:46.400
+Duration: 5.840 seconds
+Text: of this request. It comes to you from Brian and Chris LZ who own the prime company.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:26:47.120
+End: 00:26:52.960
+Duration: 5.840 seconds
+Text: They are a firm that has been developing housing in Manhattan for quite some time and have
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:26:52.960
+End: 00:27:00.080
+Duration: 7.120 seconds
+Text: broadened their horizons to several states throughout the country. They are proposing to expand
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:27:00.080
+End: 00:27:08.480
+Duration: 8.400 seconds
+Text: their headquarters here locally invest in a property just off of an nested drive and add 13 jobs
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:27:08.480
+End: 00:27:16.560
+Duration: 8.080 seconds
+Text: over the next seven years. We worked with the chamber on putting together a proposal for you this
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:27:16.560
+End: 00:27:24.560
+Duration: 8.000 seconds
+Text: evening. Darren Soldan is going to walk you through some slides and then LZ are here as well.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:27:24.560
+End: 00:27:29.600
+Duration: 5.040 seconds
+Text: They can make comment and I will follow up after that if you have any questions but Darren will be
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:27:29.600
+End: 00:27:36.160
+Duration: 6.560 seconds
+Text: able to walk you through the specifics of the ED prospect and the agreement. So with that Darren.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:27:36.160
+End: 00:27:47.760
+Duration: 11.600 seconds
+Text: Thank you Jason. Good evening commissioners Darren Soldan director of economic development
+--------------------------------------------------
+Mayor Butler:
+Start: 00:27:47.760
+End: 00:27:52.960
+Duration: 5.200 seconds
+Text: the Manhattan area chamber commerce for having me this evening. I'm going to run through these
+--------------------------------------------------
+Mayor Butler:
+Start: 00:27:52.960
+End: 00:27:58.960
+Duration: 6.000 seconds
+Text: next couple slides here who are advancing some eye advancing slides. Perfect.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:28:08.160
+End: 00:28:12.400
+Duration: 4.240 seconds
+Text: Hi. Here we go. First little bit of background on the company and the project and I'll
+--------------------------------------------------
+Mayor Butler:
+Start: 00:28:12.400
+End: 00:28:18.400
+Duration: 6.000 seconds
+Text: cover some company history as well but LZ holding and it's subsidiaries and when we're referencing
+--------------------------------------------------
+Mayor Butler:
+Start: 00:28:18.640
+End: 00:28:24.960
+Duration: 6.320 seconds
+Text: the prime company that is one of the subsidiaries there are full service real estate development
+--------------------------------------------------
+Mayor Butler:
+Start: 00:28:24.960
+End: 00:28:30.080
+Duration: 5.120 seconds
+Text: company design construction and property management so when we reference properties or projects this
+--------------------------------------------------
+Mayor Butler:
+Start: 00:28:30.080
+End: 00:28:35.120
+Duration: 5.040 seconds
+Text: evening those are ones that they have designed built and they currently manage the majority of
+--------------------------------------------------
+Mayor Butler:
+Start: 00:28:35.120
+End: 00:28:39.520
+Duration: 4.400 seconds
+Text: their revenues do come from outside the state of Kansas and I'll talk about that a little bit more
+--------------------------------------------------
+Mayor Butler:
+Start: 00:28:39.520
+End: 00:28:44.560
+Duration: 5.040 seconds
+Text: when we talk about the state incentive package that they have they have secured as well. This
+--------------------------------------------------
+Mayor Butler:
+Start: 00:28:44.560
+End: 00:28:50.560
+Duration: 6.000 seconds
+Text: particular project expect just under $1.4 million in capital investment in this new headquarters
+--------------------------------------------------
+Mayor Butler:
+Start: 00:28:50.560
+End: 00:28:56.240
+Duration: 5.680 seconds
+Text: office building creating 13 new jobs you can see there kind of the types of jobs here. These will
+--------------------------------------------------
+Mayor Butler:
+Start: 00:28:56.240
+End: 00:29:01.920
+Duration: 5.680 seconds
+Text: be located in Manhattan and and serve a number of functions within the company both both with
+--------------------------------------------------
+Mayor Butler:
+Start: 00:29:01.920
+End: 00:29:07.040
+Duration: 5.120 seconds
+Text: the local operations but also with the operations around the country average wage there as you can see
+--------------------------------------------------
+Mayor Butler:
+Start: 00:29:07.040
+End: 00:29:16.160
+Duration: 9.120 seconds
+Text: $71,760 so good paying jobs as well. This is just briefly the site so off of Vanessa Drive
+--------------------------------------------------
+Mayor Butler:
+Start: 00:29:16.160
+End: 00:29:24.720
+Duration: 8.560 seconds
+Text: located just west of Vanessa Drive to the north of Kimball Avenue. Company history
+--------------------------------------------------
+Mayor Butler:
+Start: 00:29:25.840
+End: 00:29:30.640
+Duration: 4.800 seconds
+Text: LZ Brothers founded the company in 2005 going back then local projects included the
+--------------------------------------------------
+Mayor Butler:
+Start: 00:29:30.640
+End: 00:29:35.280
+Duration: 4.640 seconds
+Text: University Terrace Apartments which are now known as Prime Place located over near the
+--------------------------------------------------
+Mayor Butler:
+Start: 00:29:35.360
+End: 00:29:40.480
+Duration: 5.120 seconds
+Text: K-State Soccer Field soccer stadium and baseball stadium there off of college. Since then
+--------------------------------------------------
+Mayor Butler:
+Start: 00:29:41.280
+End: 00:29:46.960
+Duration: 5.680 seconds
+Text: as Jason alluded to significant national growth began in the large complex a thousand units
+--------------------------------------------------
+Mayor Butler:
+Start: 00:29:46.960
+End: 00:29:51.520
+Duration: 4.560 seconds
+Text: they built in Stillwater Oklahoma in 2010 and since then projects in Lincoln, Nebraska,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:29:51.520
+End: 00:29:57.840
+Duration: 6.320 seconds
+Text: Minneapolis, Minnesota, Columbus, Ohio, Los Angeles and Denver amongst others currently have plans
+--------------------------------------------------
+Mayor Butler:
+Start: 00:29:57.840
+End: 00:30:04.800
+Duration: 6.960 seconds
+Text: for projects in Denver San Francisco, San Diego and Austin as well so continued growth some
+--------------------------------------------------
+Mayor Butler:
+Start: 00:30:04.800
+End: 00:30:11.120
+Duration: 6.320 seconds
+Text: expansion opportunities and growth opportunities that they're looking at now as well and that
+--------------------------------------------------
+Mayor Butler:
+Start: 00:30:12.080
+End: 00:30:18.560
+Duration: 6.480 seconds
+Text: causes the need for growing their team. Currently that team has about 21 folks and these are not FTEs,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:30:18.560
+End: 00:30:23.600
+Duration: 5.040 seconds
+Text: these are numbers and plays about 21 folks in Manhattan and another 64 outside of Manhattan
+--------------------------------------------------
+Mayor Butler:
+Start: 00:30:23.600
+End: 00:30:28.000
+Duration: 4.400 seconds
+Text: located at the different facilities around the country. An example some of their work you can see
+--------------------------------------------------
+Mayor Butler:
+Start: 00:30:28.000
+End: 00:30:34.560
+Duration: 6.560 seconds
+Text: there on the left that is Project Up at Minneapolis and on the right there's some plans for a project
+--------------------------------------------------
+Mayor Butler:
+Start: 00:30:34.720
+End: 00:30:41.920
+Duration: 7.200 seconds
+Text: out in Lakewood, Colorado in the Denver area. So I'll talk a little bit about the process to get where
+--------------------------------------------------
+Mayor Butler:
+Start: 00:30:41.920
+End: 00:30:50.320
+Duration: 8.400 seconds
+Text: we are tonight. Elsie Holdings, the prime company had approached about incentives and talked to
+--------------------------------------------------
+Mayor Butler:
+Start: 00:30:50.320
+End: 00:30:55.040
+Duration: 4.720 seconds
+Text: the State of Kansas. The State of Kansas, through the Kansas Department of Commerce,
+--------------------------------------------------
+Mayor Butler:
+Start: 00:30:55.040
+End: 00:31:00.160
+Duration: 5.120 seconds
+Text: ultimately put forward an incentive package that was agreed upon which you can see there on the
+--------------------------------------------------
+Mayor Butler:
+Start: 00:31:00.160
+End: 00:31:05.520
+Duration: 5.360 seconds
+Text: top half of the slide. So going through this process a couple things that were vetted, one that
+--------------------------------------------------
+Mayor Butler:
+Start: 00:31:05.520
+End: 00:31:10.480
+Duration: 4.960 seconds
+Text: the company qualified for state incentives and we use that as well here at the local level
+--------------------------------------------------
+Mayor Butler:
+Start: 00:31:11.280
+End: 00:31:17.200
+Duration: 5.920 seconds
+Text: to base eligibility in this case. Really the qualifying factors were that it's a company that
+--------------------------------------------------
+Mayor Butler:
+Start: 00:31:17.200
+End: 00:31:23.840
+Duration: 6.640 seconds
+Text: has national operations so over 50% of revenue, the majority of revenue generated outside of the
+--------------------------------------------------
+Mayor Butler:
+Start: 00:31:23.840
+End: 00:31:29.120
+Duration: 5.280 seconds
+Text: state and then that this is their national headquarters. So this is where their headquarters
+--------------------------------------------------
+Mayor Butler:
+Start: 00:31:29.120
+End: 00:31:37.120
+Duration: 8.000 seconds
+Text: functions exist at and the owners are at. So with that they qualified for these three particular
+--------------------------------------------------
+Mayor Butler:
+Start: 00:31:37.120
+End: 00:31:42.480
+Duration: 5.360 seconds
+Text: programs promoting employment across Kansas or PEE because it's better known as as a retention
+--------------------------------------------------
+Mayor Butler:
+Start: 00:31:42.480
+End: 00:31:49.680
+Duration: 7.200 seconds
+Text: or reimbursement of state withholding taxes on new hires over a period of time, seven to ten years.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:31:50.400
+End: 00:31:59.440
+Duration: 9.040 seconds
+Text: HPIP or the high performance incentive program is a Kansas income tax exemption and so they
+--------------------------------------------------
+Mayor Butler:
+Start: 00:31:59.440
+End: 00:32:04.800
+Duration: 5.360 seconds
+Text: based upon capital investment and job creation so that's where that benefit is realized.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:32:05.360
+End: 00:32:11.600
+Duration: 6.240 seconds
+Text: And then finally project sales tax exemption that is a writer on the HPIP program where this
+--------------------------------------------------
+Mayor Butler:
+Start: 00:32:11.600
+End: 00:32:15.760
+Duration: 4.160 seconds
+Text: particular project that will have a sales tax exemption on any of the materials or labor associated
+--------------------------------------------------
+Mayor Butler:
+Start: 00:32:15.760
+End: 00:32:21.360
+Duration: 5.600 seconds
+Text: with this particular project. So that total at the state through the state department of commerce
+--------------------------------------------------
+Mayor Butler:
+Start: 00:32:21.360
+End: 00:32:30.000
+Duration: 8.640 seconds
+Text: comes out the $381,485 and that agreement was executed between the company and the state.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:32:30.800
+End: 00:32:35.760
+Duration: 4.960 seconds
+Text: And so again they have to meet the numbers, they have to make the investment to realize those
+--------------------------------------------------
+Mayor Butler:
+Start: 00:32:35.760
+End: 00:32:44.000
+Duration: 8.240 seconds
+Text: benefits but that process is in place. At the local level put the capital investment and job
+--------------------------------------------------
+Mayor Butler:
+Start: 00:32:44.000
+End: 00:32:51.680
+Duration: 7.680 seconds
+Text: creation into our into our city return investment model and as a qualifying entity proposed $5,000
+--------------------------------------------------
+Mayor Butler:
+Start: 00:32:51.680
+End: 00:32:57.200
+Duration: 5.520 seconds
+Text: per new job created in Manhattan and that is what you all are being presented with tonight in
+--------------------------------------------------
+Mayor Butler:
+Start: 00:32:57.200
+End: 00:33:03.760
+Duration: 6.560 seconds
+Text: the packet that you've received and again just as a reminder the local economic development funds
+--------------------------------------------------
+Mayor Butler:
+Start: 00:33:03.760
+End: 00:33:10.480
+Duration: 6.720 seconds
+Text: this would be structured as performance-based grant. They will the company is eligible for the funds
+--------------------------------------------------
+Mayor Butler:
+Start: 00:33:10.480
+End: 00:33:15.680
+Duration: 5.200 seconds
+Text: once the job creation has occurred and then there's also some additional considerations in there
+--------------------------------------------------
+Mayor Butler:
+Start: 00:33:15.680
+End: 00:33:22.080
+Duration: 6.400 seconds
+Text: as far as maintaining presence in the community for at least 10 years that are written into the agreement
+--------------------------------------------------
+Mayor Butler:
+Start: 00:33:22.080
+End: 00:33:27.600
+Duration: 5.520 seconds
+Text: as well. So I just want to wrap up then I'll be happy to answer any questions with alignment with
+--------------------------------------------------
+Mayor Butler:
+Start: 00:33:27.600
+End: 00:33:30.800
+Duration: 3.200 seconds
+Text: economic development strategies. I think it's important anytime we come before you that we
+--------------------------------------------------
+Mayor Butler:
+Start: 00:33:31.920
+End: 00:33:36.640
+Duration: 4.720 seconds
+Text: reference back to our strategic goals when it comes to economic development in the community.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:33:37.280
+End: 00:33:42.240
+Duration: 4.960 seconds
+Text: Those being job creation, talent attraction retention, and entrepreneurship and innovation and
+--------------------------------------------------
+Mayor Butler:
+Start: 00:33:42.240
+End: 00:33:47.440
+Duration: 5.200 seconds
+Text: this particular project is creating jobs in our community not only retaining jobs but creating
+--------------------------------------------------
+Mayor Butler:
+Start: 00:33:47.440
+End: 00:33:52.480
+Duration: 5.040 seconds
+Text: jobs from a talent attraction standpoint this will help them grow their team. It's also important
+--------------------------------------------------
+Mayor Butler:
+Start: 00:33:52.480
+End: 00:33:57.840
+Duration: 5.360 seconds
+Text: to note that they hire a significant number of case date graduates including having an internship
+--------------------------------------------------
+Mayor Butler:
+Start: 00:33:57.840
+End: 00:34:04.560
+Duration: 6.720 seconds
+Text: program as well as recent graduates and and past graduates that have gone out and worked professionally
+--------------------------------------------------
+Mayor Butler:
+Start: 00:34:04.560
+End: 00:34:10.080
+Duration: 5.520 seconds
+Text: for other companies and and have them been hired by by the prime company and then finally on the
+--------------------------------------------------
+Mayor Butler:
+Start: 00:34:10.080
+End: 00:34:16.080
+Duration: 6.000 seconds
+Text: entrepreneurship and innovation front the fact that this is a homegrown company again generating over
+--------------------------------------------------
+Mayor Butler:
+Start: 00:34:16.080
+End: 00:34:20.880
+Duration: 4.800 seconds
+Text: the majority of their revenue outside the state of Kansas but choosing to grow here in Manhattan.
+--------------------------------------------------
+Mayor Butler:
+Start: 00:34:21.680
+End: 00:34:25.440
+Duration: 3.760 seconds
+Text: So with that Jason you have any other things you want to cover as far as the specifics are I'm
+--------------------------------------------------
+Mayor Butler:
+Start: 00:34:25.440
+End: 00:34:31.040
+Duration: 5.600 seconds
+Text: happy to answer any questions as it relates to the to the economic development request. Brian
+--------------------------------------------------
+Mayor Butler:
+Start: 00:34:31.200
+End: 00:34:32.560
+Duration: 1.360 seconds
+Text: L. C. is here as well with Seed.
+--------------------------------------------------
+Brian L. C.:
+Start: 00:34:39.440
+End: 00:34:44.640
+Duration: 5.200 seconds
+Text: Yeah good evening my name is Brian L. C. and thank you for hearing this with Chris so yeah
+--------------------------------------------------
+Brian L. C.:
+Start: 00:34:44.640
+End: 00:34:49.680
+Duration: 5.040 seconds
+Text: that so the prime company I wanted to give you guys just a brief overview and I appreciate
+--------------------------------------------------
+Brian L. C.:
+Start: 00:34:49.680
+End: 00:34:54.080
+Duration: 4.400 seconds
+Text: what Darren and Jason had to say but I think one of the thing you know we've been doing this for
+--------------------------------------------------
+Brian L. C.:
+Start: 00:34:54.080
+End: 00:34:59.840
+Duration: 5.760 seconds
+Text: 15 years we build apartments all over the country and we're vertically integrated so we design
+--------------------------------------------------
+Brian L. C.:
+Start: 00:34:59.840
+End: 00:35:04.640
+Duration: 4.800 seconds
+Text: we build and then we manage these complexes and one of the things as we've been we've kind of
+--------------------------------------------------
+Brian L. C.:
+Start: 00:35:04.640
+End: 00:35:09.680
+Duration: 5.040 seconds
+Text: figured out the process we now have to build housing but one of the big things that we've seen is that
+--------------------------------------------------
+Brian L. C.:
+Start: 00:35:09.680
+End: 00:35:15.040
+Duration: 5.360 seconds
+Text: it you know in my role in the company when it was just my brother and I when we started you know I was
+--------------------------------------------------
+Brian L. C.:
+Start: 00:35:15.600
+End: 00:35:22.880
+Duration: 7.280 seconds
+Text: doing everything cutting the grass doing all the books you know going and fixing the leaky faucets
+--------------------------------------------------
+Brian L. C.:
+Start: 00:35:22.880
+End: 00:35:28.320
+Duration: 5.440 seconds
+Text: but now my job is primarily just going out finding funds to build the projects and then two
+--------------------------------------------------
+Brian L. C.:
+Start: 00:35:28.960
+End: 00:35:34.400
+Duration: 5.440 seconds
+Text: is getting new talent to help us and to join our team and one of the things that we've really seen
+--------------------------------------------------
+Brian L. C.:
+Start: 00:35:35.040
+End: 00:35:41.680
+Duration: 6.640 seconds
+Text: is that having a great facility and having a team environment has really been something that
+--------------------------------------------------
+Brian L. C.:
+Start: 00:35:41.680
+End: 00:35:48.240
+Duration: 6.560 seconds
+Text: we really need to improve on and so we hire a bunch of case-state grads we're come that come to
+--------------------------------------------------
+Brian L. C.:
+Start: 00:35:48.240
+End: 00:35:54.720
+Duration: 6.480 seconds
+Text: workforce and these are skilled jobs like architects or MEP engineers and instructional engineers
+--------------------------------------------------
+Brian L. C.:
+Start: 00:35:54.720
+End: 00:35:59.760
+Duration: 5.040 seconds
+Text: and so having this facility we think it's really going to help us do that and attract new talent
+--------------------------------------------------
+Brian L. C.:
+Start: 00:35:59.760
+End: 00:36:06.480
+Duration: 6.720 seconds
+Text: as we're going out and finding we're bringing I just had a guy up here he's he's an architect that
+--------------------------------------------------
+Brian L. C.:
+Start: 00:36:06.480
+End: 00:36:12.400
+Duration: 5.920 seconds
+Text: is a case-state grad he went down worked in Dallas for a big architecture company and we found him on
+--------------------------------------------------
+Brian L. C.:
+Start: 00:36:12.400
+End: 00:36:17.920
+Duration: 5.520 seconds
+Text: LinkedIn and reached out to him about a position here and he was this afternoon he was looking at
+--------------------------------------------------
+Brian L. C.:
+Start: 00:36:17.920
+End: 00:36:22.960
+Duration: 5.040 seconds
+Text: four or five houses so that's kind of what we've been doing is we've been pulling out finding these
+--------------------------------------------------
+Brian L. C.:
+Start: 00:36:22.960
+End: 00:36:28.320
+Duration: 5.360 seconds
+Text: guys bringing them back here to Manhattan and having them join our team and something that we're
+--------------------------------------------------
+Brian L. C.:
+Start: 00:36:28.320
+End: 00:36:33.360
+Duration: 5.040 seconds
+Text: trying to do with our internship program is like we had an interior a guy that was in the interior
+--------------------------------------------------
+Brian L. C.:
+Start: 00:36:33.360
+End: 00:36:39.840
+Duration: 6.480 seconds
+Text: design program he interned with us and then he's at his senior year at case-state right now finishing
+--------------------------------------------------
+Brian L. C.:
+Start: 00:36:39.840
+End: 00:36:44.400
+Duration: 4.560 seconds
+Text: up the interior design program there we've already offered him a job so that when he's done with
+--------------------------------------------------
+Brian L. C.:
+Start: 00:36:44.400
+End: 00:36:51.200
+Duration: 6.800 seconds
+Text: school hopefully he'll stick around with us so again it's having a facility and just having
+--------------------------------------------------
+Brian L. C.:
+Start: 00:36:51.200
+End: 00:36:57.680
+Duration: 6.480 seconds
+Text: place places for these guys and having an attractive place and I love Manhattan I think it's a great
+--------------------------------------------------
+Brian L. C.:
+Start: 00:36:57.680
+End: 00:37:02.880
+Duration: 5.200 seconds
+Text: community so I'm a transplant from Denver came here for school a generational family my parents
+--------------------------------------------------
+Brian L. C.:
+Start: 00:37:02.880
+End: 00:37:09.280
+Duration: 6.400 seconds
+Text: went to case-state and I've stuck around so I think it's a great place and I appreciate your
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:37:09.280
+End: 00:37:17.840
+Duration: 8.560 seconds
+Text: consideration I can answer any questions as well just a comment we hear all the time from case-state
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:37:17.840
+End: 00:37:24.240
+Duration: 6.400 seconds
+Text: grads that they wish there were jobs here so they could stay and so you're offering
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:37:25.280
+End: 00:37:31.120
+Duration: 5.840 seconds
+Text: construction management and architects and they have a construction science program so
+--------------------------------------------------
+Brian L. C.:
+Start: 00:37:31.920
+End: 00:37:36.560
+Duration: 4.640 seconds
+Text: yeah you're doing all the right things thank you yeah send them our way if you know anybody
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:37:36.560
+End: 00:37:43.520
+Duration: 6.960 seconds
+Text: looking for any of those jobs send them our way Brian is the piece of property basically the one from
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:37:43.520
+End: 00:37:50.000
+Duration: 6.480 seconds
+Text: that beauty shop yeah place and to the north up to the corner yeah to piece of land you're looking at
+--------------------------------------------------
+Brian L. C.:
+Start: 00:37:50.000
+End: 00:37:55.840
+Duration: 5.840 seconds
+Text: yeah it's just north of the the prime lending and the beauty shop just across from the hospice center
+--------------------------------------------------
+Brian L. C.:
+Start: 00:37:55.840
+End: 00:38:00.160
+Duration: 4.320 seconds
+Text: okay right so I think it's got a beautiful setting I mean you know me and at in the
+--------------------------------------------------
+Brian L. C.:
+Start: 00:38:00.160
+End: 00:38:04.960
+Duration: 4.800 seconds
+Text: particular area I think it's a beautiful area I think it's a great location so yeah thanks
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:38:05.120
+End: 00:38:14.240
+Duration: 9.120 seconds
+Text: yeah um this is commissioner ready I think some of the positives to this proposal is one it is
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:38:14.240
+End: 00:38:20.240
+Duration: 6.000 seconds
+Text: 65,000 so it's not hundreds and hundreds of thousands of dollars and the other piece is I think
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:38:20.240
+End: 00:38:25.520
+Duration: 5.280 seconds
+Text: the department of commerce the Kansas department of commerce has been more active in the past few
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:38:25.520
+End: 00:38:33.120
+Duration: 7.600 seconds
+Text: years and I appreciate Secretary whole secretary David Tolan and the commerce department to put in
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:38:33.120
+End: 00:38:39.600
+Duration: 6.480 seconds
+Text: some of the investment also from that side so it's not just the city picking up as much as we
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:38:39.600
+End: 00:38:45.520
+Duration: 5.920 seconds
+Text: can trying to invest it from Ego Devo funds so I think it's good that it is a stronger partnership
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:38:45.520
+End: 00:38:49.840
+Duration: 4.320 seconds
+Text: with the state of Kansas with the city of Manhattan and then the private sector and that's
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:38:50.560
+End: 00:38:56.400
+Duration: 5.840 seconds
+Text: that's ultimately the best relationship to have and I think the quality of jobs you're offering
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:38:56.480
+End: 00:39:03.600
+Duration: 7.120 seconds
+Text: is really good also it's not $10, $12 jobs these are skilled jobs as you mentioned and to have it
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:39:03.600
+End: 00:39:09.280
+Duration: 5.680 seconds
+Text: in in the city of Manhattan is also another asset not only are they looking for jobs they're looking
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:39:09.280
+End: 00:39:14.560
+Duration: 5.280 seconds
+Text: for quality jobs as commissioner Morris had mentioned so hopefully this is one of the incentives
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:39:14.560
+End: 00:39:21.280
+Duration: 6.720 seconds
+Text: that works for all of us to keep our talent in our community yeah and I think there's enough there
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:39:21.280
+End: 00:39:29.760
+Duration: 8.480 seconds
+Text: where for each job it's $5,000 where was that $5,000 job incentive for creating each job and I
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:39:29.760
+End: 00:39:35.120
+Duration: 5.360 seconds
+Text: think 13 jobs is very realistic so it's not like a pie in the sky 300 jobs kind of deal so I think
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:39:35.120
+End: 00:39:43.280
+Duration: 8.160 seconds
+Text: it's a very realistic proposal and from what I see it seems something that I can support thank you
+--------------------------------------------------
+Mayor Butler:
+Start: 00:39:43.600
+End: 00:39:54.560
+Duration: 10.960 seconds
+Text: okay I think it's you know we haven't done a lot of economic development you know packages lately
+--------------------------------------------------
+Mayor Butler:
+Start: 00:39:54.560
+End: 00:39:59.920
+Duration: 5.360 seconds
+Text: but we had plenty of funds so you know the funds are available and this isn't really a huge outlay
+--------------------------------------------------
+Mayor Butler:
+Start: 00:39:59.920
+End: 00:40:06.400
+Duration: 6.480 seconds
+Text: 65,000 for further return I think 13 jobs is great and you know it fits as it was pointed out you
+--------------------------------------------------
+Mayor Butler:
+Start: 00:40:06.400
+End: 00:40:11.280
+Duration: 4.880 seconds
+Text: know the jobs that talent the entrepreneurial thing and and it's really great the state of Kansas
+--------------------------------------------------
+Mayor Butler:
+Start: 00:40:11.280
+End: 00:40:17.280
+Duration: 6.000 seconds
+Text: came forward with it with a nice package also so I think this this fits just perfectly with
+--------------------------------------------------
+Mayor Butler:
+Start: 00:40:17.280
+End: 00:40:22.400
+Duration: 5.120 seconds
+Text: what our economic development goals are and the idea of you know getting away from just relying on
+--------------------------------------------------
+Mayor Butler:
+Start: 00:40:22.400
+End: 00:40:27.520
+Duration: 5.120 seconds
+Text: the military in case state we've got to bring in some other things and having a having your headquarters
+--------------------------------------------------
+Mayor Butler:
+Start: 00:40:27.520
+End: 00:40:36.880
+Duration: 9.360 seconds
+Text: here is going to just fit perfectly with that so I'm 100% for the project I think it's important
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:40:36.880
+End: 00:40:43.440
+Duration: 6.560 seconds
+Text: just to point out that that's one of the reasons we have the citizens voted for the economic
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:40:43.440
+End: 00:40:52.720
+Duration: 9.280 seconds
+Text: development sales tax so we could use them to as incentives for new development and so certainly
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:40:54.480
+End: 00:41:01.840
+Duration: 7.360 seconds
+Text: this part of town has been on our agenda for a long time to continue to to build out in both
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:41:01.840
+End: 00:41:09.760
+Duration: 7.920 seconds
+Text: commercial and residential and so this is a great project I did say I think that this these are
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:41:09.760
+End: 00:41:19.600
+Duration: 9.840 seconds
+Text: the 2012 economic development funds so that has that was the middle of the three economic development
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:41:21.040
+End: 00:41:27.600
+Duration: 6.560 seconds
+Text: projects so I'm glad that we can use up some of those older funds and find a way to
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:41:28.080
+End: 00:41:37.600
+Duration: 9.520 seconds
+Text: Commissioner to those are the current funds the current fund yep 12 to 22 okay 12 to 12 okay thank you sorry I was
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:41:37.600
+End: 00:41:48.240
+Duration: 10.640 seconds
+Text: not adding right thank you Jason anyway it's it's a good use of our funds and and the mayor is right we've
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:41:48.240
+End: 00:41:57.760
+Duration: 9.520 seconds
+Text: been kind of waiting for somebody to come for a while so so it's something that it's easy to support
+--------------------------------------------------
+Mayor Butler:
+Start: 00:42:00.320
+End: 00:42:04.800
+Duration: 4.480 seconds
+Text: okay appreciate the comments is there any public comment on this particular proposal
+--------------------------------------------------
+Mayor Butler:
+Start: 00:42:08.400
+End: 00:42:11.680
+Duration: 3.280 seconds
+Text: okay saying none will close public comment
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:42:11.680
+End: 00:42:21.600
+Duration: 9.920 seconds
+Text: entertain a motion mayor I moved that we authorize second consideration of LC holdings LLC
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:42:21.600
+End: 00:42:28.320
+Duration: 6.720 seconds
+Text: De doing business as the prime company economic development application for October 19th 2021
+--------------------------------------------------
+Mayor Butler:
+Start: 00:42:29.120
+End: 00:42:34.720
+Duration: 5.600 seconds
+Text: all right second did we have a motion in a second city clerk could you please call the roll
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:42:35.360
+End: 00:42:38.720
+Duration: 3.360 seconds
+Text: Fisher Hassel yes wish her estipra yes
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:42:39.520
+End: 00:42:46.720
+Duration: 7.200 seconds
+Text: wish her ready yes mayor butler yes commissioner more yes motion carries 5 to 0
+--------------------------------------------------
+Mayor Butler:
+Start: 00:42:49.440
+End: 00:42:56.240
+Duration: 6.800 seconds
+Text: and then we'll move on to item b on the last item on our agenda which is to consider
+--------------------------------------------------
+Mayor Butler:
+Start: 00:42:56.960
+End: 00:43:05.200
+Duration: 8.240 seconds
+Text: resolution 1 0 0 5 2 1 c creating a speculative industrial building industrial revenue bond
+--------------------------------------------------
+City Manager:
+Start: 00:43:05.200
+End: 00:43:13.120
+Duration: 7.920 seconds
+Text: IRB program thank you mayor commissioners we were here about a month ago presenting you a draft
+--------------------------------------------------
+City Manager:
+Start: 00:43:13.120
+End: 00:43:19.520
+Duration: 6.400 seconds
+Text: proposal this speculative building IRB program I'm going to go through a little bit of that
+--------------------------------------------------
+City Manager:
+Start: 00:43:19.520
+End: 00:43:23.920
+Duration: 4.400 seconds
+Text: background and what we talked about as well as the policy details and the application process
+--------------------------------------------------
+City Manager:
+Start: 00:43:23.920
+End: 00:43:31.120
+Duration: 7.200 seconds
+Text: before we jump in any public comment there was that chamber desire to establish this
+--------------------------------------------------
+City Manager:
+Start: 00:43:31.120
+End: 00:43:36.560
+Duration: 5.440 seconds
+Text: tax abatement program so that we could incentivize developers who would be willing to construct
+--------------------------------------------------
+City Manager:
+Start: 00:43:36.560
+End: 00:43:42.720
+Duration: 6.160 seconds
+Text: facilities on a speculative basis that would fill economic development needs in the community
+--------------------------------------------------
+City Manager:
+Start: 00:43:42.720
+End: 00:43:49.920
+Duration: 7.200 seconds
+Text: specifically in areas of industrial programs manufacturing warehousing those types of
+--------------------------------------------------
+City Manager:
+Start: 00:43:50.720
+End: 00:43:56.400
+Duration: 5.680 seconds
+Text: businesses that bring in a lot of jobs and economic development to the community we were
+--------------------------------------------------
+City Manager:
+Start: 00:43:56.400
+End: 00:44:01.600
+Duration: 5.200 seconds
+Text: finding that that space isn't really readily available in the communities competitors are offering
+--------------------------------------------------
+City Manager:
+Start: 00:44:01.600
+End: 00:44:08.320
+Duration: 6.720 seconds
+Text: those spaces the cost of retrofit existing buildings is often pretty expensive and then we were
+--------------------------------------------------
+City Manager:
+Start: 00:44:08.320
+End: 00:44:14.080
+Duration: 5.760 seconds
+Text: seeing that economic development prospects were really wanting to come into a community with a
+--------------------------------------------------
+City Manager:
+Start: 00:44:14.080
+End: 00:44:19.280
+Duration: 5.200 seconds
+Text: facility that's already ready they weren't looking for the expense of building new so other
+--------------------------------------------------
+City Manager:
+Start: 00:44:19.280
+End: 00:44:24.960
+Duration: 5.680 seconds
+Text: communities like Wichita Lawrence have explored these programs in the chamber I provided you all
+--------------------------------------------------
+City Manager:
+Start: 00:44:24.960
+End: 00:44:30.560
+Duration: 5.600 seconds
+Text: letter and a recommendation of a program to pursue so we had that discussion item about a month
+--------------------------------------------------
+City Manager:
+Start: 00:44:30.560
+End: 00:44:36.320
+Duration: 5.760 seconds
+Text: ago and a majority of the city commission provided feedback to staff to develop that policy resolution
+--------------------------------------------------
+City Manager:
+Start: 00:44:36.320
+End: 00:44:43.120
+Duration: 6.800 seconds
+Text: so you all could consider it tonight I'm going to just briefly go through a lot of the outlines
+--------------------------------------------------
+City Manager:
+Start: 00:44:43.840
+End: 00:44:50.080
+Duration: 6.240 seconds
+Text: definitions provisions within the policy it's pretty straightforward from where we were last
+--------------------------------------------------
+City Manager:
+Start: 00:44:50.080
+End: 00:44:55.360
+Duration: 5.280 seconds
+Text: time not much has changed but wanted to provide you it from the perspective of the language that's
+--------------------------------------------------
+City Manager:
+Start: 00:44:55.360
+End: 00:45:00.720
+Duration: 5.360 seconds
+Text: within the policy and then again ultimately any application to use this program is going to come
+--------------------------------------------------
+City Manager:
+Start: 00:45:00.720
+End: 00:45:06.800
+Duration: 6.080 seconds
+Text: back to the city commission for your consideration if you adopt this policy but again we outline
+--------------------------------------------------
+City Manager:
+Start: 00:45:06.800
+End: 00:45:12.400
+Duration: 5.600 seconds
+Text: the definition of what that speculative industrial building would be we do want it constructed
+--------------------------------------------------
+City Manager:
+Start: 00:45:12.400
+End: 00:45:18.880
+Duration: 6.480 seconds
+Text: without any pre-leason in place and then there are specific intended uses for that building to meet
+--------------------------------------------------
+City Manager:
+Start: 00:45:18.880
+End: 00:45:25.600
+Duration: 6.720 seconds
+Text: those economic development job needs and manufacturing research and development production warehousing
+--------------------------------------------------
+City Manager:
+Start: 00:45:25.600
+End: 00:45:31.520
+Duration: 5.920 seconds
+Text: distribution of goods again with the goal of attracting new jobs to the city in a way that we can
+--------------------------------------------------
+City Manager:
+Start: 00:45:31.520
+End: 00:45:38.640
+Duration: 7.120 seconds
+Text: incentivize developers to construct these buildings to meet those ED needs and help us in those
+--------------------------------------------------
+City Manager:
+Start: 00:45:38.640
+End: 00:45:44.640
+Duration: 6.000 seconds
+Text: job recruitment efforts when people are pursuing expansion or new businesses and Manhattan is one
+--------------------------------------------------
+City Manager:
+Start: 00:45:44.640
+End: 00:45:52.160
+Duration: 7.520 seconds
+Text: of the cities on their list there are some eligibility requirements within the policy so the
+--------------------------------------------------
+City Manager:
+Start: 00:45:52.160
+End: 00:45:56.720
+Duration: 4.560 seconds
+Text: speculative building must be located within the city of Manhattan again you can't have any
+--------------------------------------------------
+City Manager:
+Start: 00:45:56.720
+End: 00:46:03.600
+Duration: 6.880 seconds
+Text: pre-leasing in place does have to meet those identified intended uses that I listed before within
+--------------------------------------------------
+City Manager:
+Start: 00:46:03.600
+End: 00:46:10.560
+Duration: 6.960 seconds
+Text: the definition and then there are some requirements related to construction so once the IRB
+--------------------------------------------------
+City Manager:
+Start: 00:46:10.560
+End: 00:46:18.720
+Duration: 8.160 seconds
+Text: program is pursued and it's approved by the city commission they have within 120 days to start
+--------------------------------------------------
+City Manager:
+Start: 00:46:19.760
+End: 00:46:25.680
+Duration: 5.920 seconds
+Text: construction after that building permit is issued and then 15 months to complete that project
+--------------------------------------------------
+City Manager:
+Start: 00:46:25.680
+End: 00:46:35.120
+Duration: 9.440 seconds
+Text: after the building permits issued there are some preferred policy eligibility requirements
+--------------------------------------------------
+City Manager:
+Start: 00:46:35.120
+End: 00:46:41.360
+Duration: 6.240 seconds
+Text: within this speculative building program we talked about that minimum size we do want to have
+--------------------------------------------------
+City Manager:
+Start: 00:46:42.160
+End: 00:46:47.520
+Duration: 5.360 seconds
+Text: a building that is developed that is going to be of the size and nature that's going to facilitate
+--------------------------------------------------
+City Manager:
+Start: 00:46:47.520
+End: 00:46:54.320
+Duration: 6.800 seconds
+Text: a larger economic development job recruitment so we mirrored a lot of other cities policies with the
+--------------------------------------------------
+City Manager:
+Start: 00:46:54.320
+End: 00:47:02.560
+Duration: 8.240 seconds
+Text: minimum requirement of 50,000 square feet of usable space that can include things like offices
+--------------------------------------------------
+City Manager:
+Start: 00:47:02.560
+End: 00:47:10.480
+Duration: 7.920 seconds
+Text: restrooms common areas again you can see here we use the preferred language all that is going to be
+--------------------------------------------------
+City Manager:
+Start: 00:47:11.280
+End: 00:47:17.440
+Duration: 6.160 seconds
+Text: put forth in the application by the developer we're going to work with them with that application
+--------------------------------------------------
+City Manager:
+Start: 00:47:17.440
+End: 00:47:23.120
+Duration: 5.680 seconds
+Text: and then developing that agreement we didn't want to use any strict requirements in the case we had
+--------------------------------------------------
+City Manager:
+Start: 00:47:23.120
+End: 00:47:31.280
+Duration: 8.160 seconds
+Text: someone come in with a 49,000 square foot building or something like that we do have those minimum
+--------------------------------------------------
+City Manager:
+Start: 00:47:31.280
+End: 00:47:39.200
+Duration: 7.920 seconds
+Text: clear height and clear spans to facilitate that type of use and then also pursuing that preferred
+--------------------------------------------------
+City Manager:
+Start: 00:47:39.200
+End: 00:47:46.320
+Duration: 7.120 seconds
+Text: method of that primary or first lease within that large building would have to be a minimum of 25,000
+--------------------------------------------------
+City Manager:
+Start: 00:47:46.320
+End: 00:47:55.920
+Duration: 9.600 seconds
+Text: or half in the case of a 50,000 square foot facility there is also that property tax
+--------------------------------------------------
+City Manager:
+Start: 00:47:55.920
+End: 00:48:02.000
+Duration: 6.080 seconds
+Text: abatement schedule that can occur and that would be outlined in that agreement that we would enter
+--------------------------------------------------
+City Manager:
+Start: 00:48:02.000
+End: 00:48:08.080
+Duration: 6.080 seconds
+Text: into with the developer and those first five years there would be a 95% property tax abatement
+--------------------------------------------------
+City Manager:
+Start: 00:48:08.080
+End: 00:48:15.440
+Duration: 7.360 seconds
+Text: the following years six through ten it would drop down to a 50% property tax abatement
+--------------------------------------------------
+City Manager:
+Start: 00:48:16.160
+End: 00:48:26.080
+Duration: 9.920 seconds
+Text: with the understanding that 50% or more of that building is leased by someone who is producing jobs
+--------------------------------------------------
+City Manager:
+Start: 00:48:26.800
+End: 00:48:32.640
+Duration: 5.840 seconds
+Text: in the community in the event that they don't have a lease in place that property tax abatement
+--------------------------------------------------
+City Manager:
+Start: 00:48:32.640
+End: 00:48:38.000
+Duration: 5.360 seconds
+Text: would drop down to zero percent that would be on a year by year basis though so if in year six
+--------------------------------------------------
+City Manager:
+Start: 00:48:38.000
+End: 00:48:42.400
+Duration: 4.400 seconds
+Text: they're not able to fill that building they're not going to get that property tax abatement however
+--------------------------------------------------
+City Manager:
+Start: 00:48:42.400
+End: 00:48:48.720
+Duration: 6.320 seconds
+Text: if in year seven and beyond they are able to secure some jobs and a lease within that building
+--------------------------------------------------
+City Manager:
+Start: 00:48:49.920
+End: 00:48:55.680
+Duration: 5.760 seconds
+Text: that 50% property tax abatement could kick back in we did talk to about that job creation
+--------------------------------------------------
+City Manager:
+Start: 00:48:56.720
+End: 00:49:03.120
+Duration: 6.400 seconds
+Text: and we would negotiate that with the individual who's applying the chamber of commerce recommended
+--------------------------------------------------
+City Manager:
+Start: 00:49:03.120
+End: 00:49:09.760
+Duration: 6.640 seconds
+Text: that one job for every two thousand square feet within a facility so if you had a 50,000
+--------------------------------------------------
+City Manager:
+Start: 00:49:10.400
+End: 00:49:16.160
+Duration: 5.760 seconds
+Text: square foot facility we're looking to bring in 25 jobs within any certain lease and then there
+--------------------------------------------------
+City Manager:
+Start: 00:49:16.160
+End: 00:49:21.200
+Duration: 5.040 seconds
+Text: was the idea of that recapture program if you did not act if you had a lease in place but you
+--------------------------------------------------
+City Manager:
+Start: 00:49:21.200
+End: 00:49:26.240
+Duration: 5.040 seconds
+Text: weren't meeting that job requirements to say you only you had a 50,000 square foot facility and
+--------------------------------------------------
+City Manager:
+Start: 00:49:26.240
+End: 00:49:32.800
+Duration: 6.560 seconds
+Text: you only were able to secure 20 jobs instead of 25 target you would be able to recapture some of
+--------------------------------------------------
+City Manager:
+Start: 00:49:32.800
+End: 00:49:38.560
+Duration: 5.760 seconds
+Text: that abatement because they weren't meeting that desired job growth that we were seeking so that
+--------------------------------------------------
+City Manager:
+Start: 00:49:38.560
+End: 00:49:43.440
+Duration: 4.880 seconds
+Text: would be something too that would be worked into the agreement on a case by case basis with that
+--------------------------------------------------
+City Manager:
+Start: 00:49:43.440
+End: 00:49:50.800
+Duration: 7.360 seconds
+Text: developer there is the sales tax portion of this too for that abatement for the construction
+--------------------------------------------------
+City Manager:
+Start: 00:49:50.800
+End: 00:49:59.520
+Duration: 8.720 seconds
+Text: exemption on materials during that process that would go along with the IRB there is there'll be
+--------------------------------------------------
+City Manager:
+Start: 00:49:59.520
+End: 00:50:06.080
+Duration: 6.560 seconds
+Text: an application fee a $2,500 and then the applicant would also be required to pay the bond council fees
+--------------------------------------------------
+City Manager:
+Start: 00:50:06.080
+End: 00:50:12.320
+Duration: 6.240 seconds
+Text: for the development of that agreement and us working with our bond council I do want to point out
+--------------------------------------------------
+City Manager:
+Start: 00:50:12.320
+End: 00:50:18.960
+Duration: 6.640 seconds
+Text: that you know this policy we define this within the policy that you're considering united as
+--------------------------------------------------
+City Manager:
+Start: 00:50:18.960
+End: 00:50:24.960
+Duration: 6.000 seconds
+Text: separate from our IRB and tax abatement policy so they would follow the policy that's in front
+--------------------------------------------------
+City Manager:
+Start: 00:50:24.960
+End: 00:50:29.600
+Duration: 4.640 seconds
+Text: of you here and they would fill out a separate application and we'll work to develop that application
+--------------------------------------------------
+City Manager:
+Start: 00:50:30.320
+End: 00:50:37.440
+Duration: 7.120 seconds
+Text: upon adoption of this if that occurs and then we'll have that available for any prospective developer
+--------------------------------------------------
+City Manager:
+Start: 00:50:38.240
+End: 00:50:45.440
+Duration: 7.200 seconds
+Text: again the application is going to be filled out we'll work with that developer to fill out that
+--------------------------------------------------
+City Manager:
+Start: 00:50:45.440
+End: 00:50:50.240
+Duration: 4.800 seconds
+Text: application talk through the policy with them and then of course we bring that application
+--------------------------------------------------
+City Manager:
+Start: 00:50:50.240
+End: 00:50:56.000
+Duration: 5.760 seconds
+Text: back to you all in that agreement for your consideration anytime that occurs so that application
+--------------------------------------------------
+City Manager:
+Start: 00:50:56.000
+End: 00:51:00.880
+Duration: 4.880 seconds
+Text: is going to have stipulations within it regarding those eligibility requirements regarding the
+--------------------------------------------------
+City Manager:
+Start: 00:51:00.880
+End: 00:51:08.160
+Duration: 7.280 seconds
+Text: formulas for the tax abatement and any job requirements within that there is a requirement in that
+--------------------------------------------------
+City Manager:
+Start: 00:51:08.160
+End: 00:51:15.440
+Duration: 7.280 seconds
+Text: section that no relocation of an existing business in Manhattan within 10 miles could occur
+--------------------------------------------------
+City Manager:
+Start: 00:51:15.440
+End: 00:51:20.240
+Duration: 4.800 seconds
+Text: following five years of completion we did talk we we have in there the the commission has the
+--------------------------------------------------
+City Manager:
+Start: 00:51:20.240
+End: 00:51:26.240
+Duration: 6.000 seconds
+Text: ability to waive that the chamber did mention there could be circumstances where as an example you
+--------------------------------------------------
+City Manager:
+Start: 00:51:26.240
+End: 00:51:31.520
+Duration: 5.280 seconds
+Text: have an existing business where you know it's not viable for them to stay within their existing
+--------------------------------------------------
+City Manager:
+Start: 00:51:31.520
+End: 00:51:36.160
+Duration: 4.640 seconds
+Text: building and there's no other building available so this may be an opportunity for them to get it so
+--------------------------------------------------
+City Manager:
+Start: 00:51:36.160
+End: 00:51:42.480
+Duration: 6.320 seconds
+Text: on those case by case basis is to that provision can be waived by the governing body another thing
+--------------------------------------------------
+City Manager:
+Start: 00:51:42.480
+End: 00:51:48.880
+Duration: 6.400 seconds
+Text: that can occur within the agreement is that in the event the developer sells the building that
+--------------------------------------------------
+City Manager:
+Start: 00:51:48.880
+End: 00:51:54.960
+Duration: 6.080 seconds
+Text: tax abatement could follow with that sale and remain in effect during that time based on approval of
+--------------------------------------------------
+City Manager:
+Start: 00:51:54.960
+End: 00:52:04.000
+Duration: 9.040 seconds
+Text: the commission so with that I can allow public comment and then take any commissioner comments if
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:52:04.000
+End: 00:52:11.600
+Duration: 7.600 seconds
+Text: that's all right Jared I have a few questions and you may have answered this last time I just want
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:52:11.600
+End: 00:52:17.840
+Duration: 6.240 seconds
+Text: to be clear in my head how this works so for the property tax abatement for years one through five
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:52:19.040
+End: 00:52:27.280
+Duration: 8.240 seconds
+Text: once it's up and going so the first one through five the years one through five it's 95 percent
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:52:27.280
+End: 00:52:35.280
+Duration: 8.000 seconds
+Text: tax abatement and for years six through ten if if it is full at 50 percent capacity then it goes to
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:52:35.280
+End: 00:52:42.560
+Duration: 7.280 seconds
+Text: 50 percent property tax abatement but if it is not at 50 percent let's say it's 45 percent they don't
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:52:42.560
+End: 00:52:49.360
+Duration: 6.800 seconds
+Text: get the 50 percent tax abatement is that right yeah but in this case that would be the case you could
+--------------------------------------------------
+City Manager:
+Start: 00:52:49.360
+End: 00:52:54.800
+Duration: 5.440 seconds
+Text: of course and then let's say the agreement could say otherwise you know we could negotiate 45
+--------------------------------------------------
+City Manager:
+Start: 00:52:54.800
+End: 00:52:59.360
+Duration: 4.560 seconds
+Text: percent or 40 percent with that developer that of course would come back with you this is kind of
+--------------------------------------------------
+City Manager:
+Start: 00:52:59.360
+End: 00:53:05.680
+Duration: 6.320 seconds
+Text: the schedule that's outlined that the program would pursue the commission could pursue something
+--------------------------------------------------
+City Manager:
+Start: 00:53:05.680
+End: 00:53:11.120
+Duration: 5.440 seconds
+Text: otherwise but in that example if that was in the agreement yeah if you only had 30 percent or 45
+--------------------------------------------------
+City Manager:
+Start: 00:53:11.280
+End: 00:53:17.280
+Duration: 6.000 seconds
+Text: percent of the space least then you wouldn't be getting that tax abatement for that year so
+--------------------------------------------------
+City Manager:
+Start: 00:53:17.280
+End: 00:53:23.200
+Duration: 5.920 seconds
+Text: long year if you got up to that 50 percent threshold 51 52 you would be able to get that 50 percent
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:53:23.200
+End: 00:53:28.240
+Duration: 5.040 seconds
+Text: of baby so let's say instead of the following year it took them two or three let's say it took
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:53:28.240
+End: 00:53:35.280
+Duration: 7.040 seconds
+Text: them three years to get to get to 50 percent does it kick back in at that time then that they get
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:53:35.280
+End: 00:53:42.080
+Duration: 6.800 seconds
+Text: the 50 percent how long does it last I guess is what I'm asking so in that case say you build a 50
+--------------------------------------------------
+City Manager:
+Start: 00:53:42.080
+End: 00:53:47.280
+Duration: 5.200 seconds
+Text: thousand square foot building and we enter into that agreement with the developer based on this
+--------------------------------------------------
+City Manager:
+Start: 00:53:47.280
+End: 00:53:55.840
+Duration: 8.560 seconds
+Text: schedule and in year two they do start getting a lease and bringing in jobs and say they do lease
+--------------------------------------------------
+City Manager:
+Start: 00:53:55.840
+End: 00:54:01.520
+Duration: 5.680 seconds
+Text: 50 percent or more they're still going to get that 95 percent abatement through year five
+--------------------------------------------------
+City Manager:
+Start: 00:54:01.520
+End: 00:54:09.200
+Duration: 7.680 seconds
+Text: right and then year six that's when that second schedule would kick in with the 50 percent so I'm
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:54:09.200
+End: 00:54:15.120
+Duration: 5.920 seconds
+Text: just saying if they don't get to 50 percent like till year seven mm-hmm so how long does that gap
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:54:15.120
+End: 00:54:20.640
+Duration: 5.520 seconds
+Text: last for them to get to 50 percent and a it will go through that 10 year period so
+--------------------------------------------------
+City Manager:
+Start: 00:54:21.200
+End: 00:54:26.880
+Duration: 5.680 seconds
+Text: five years they're going to get the 95 percent abatement if no one's in there or if they do have
+--------------------------------------------------
+City Manager:
+Start: 00:54:26.880
+End: 00:54:34.320
+Duration: 7.440 seconds
+Text: at least in year six if they have more than 50 percent or more of that building lease they're
+--------------------------------------------------
+City Manager:
+Start: 00:54:34.320
+End: 00:54:38.880
+Duration: 4.560 seconds
+Text: going to get a 50 percent abatement if they have less than that they won't get an abatement at all
+--------------------------------------------------
+City Manager:
+Start: 00:54:38.880
+End: 00:54:45.040
+Duration: 6.160 seconds
+Text: right and then that keeps going every year so we'll reevaluate that every year so in year seven
+--------------------------------------------------
+City Manager:
+Start: 00:54:45.760
+End: 00:54:52.160
+Duration: 6.400 seconds
+Text: if they do get above 50 they will get that again it could be the opposite where
+--------------------------------------------------
+City Manager:
+Start: 00:54:52.560
+End: 00:54:58.800
+Duration: 6.240 seconds
+Text: the lease falls through and then they don't have that occupied they would they would then lose out on
+--------------------------------------------------
+City Manager:
+Start: 00:54:58.800
+End: 00:55:04.240
+Duration: 5.440 seconds
+Text: that abatement it wouldn't be a sure thing for year six through ten so how long does that 50 percent
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:55:04.240
+End: 00:55:11.840
+Duration: 7.600 seconds
+Text: abatement last is it for 10 years 20 years let's say they're at 50 percent capacity or more
+--------------------------------------------------
+City Manager:
+Start: 00:55:11.840
+End: 00:55:17.920
+Duration: 6.080 seconds
+Text: it will last for from years six through ten six so the total span of this abatement period would be
+--------------------------------------------------
+City Manager:
+Start: 00:55:17.920
+End: 00:55:22.960
+Duration: 5.040 seconds
+Text: a 10 year okay that's what I needed to know I must have now be stipulated in the agreement all right
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:55:22.960
+End: 00:55:30.080
+Duration: 7.120 seconds
+Text: commissioner that's set by state statute to it so they can only we can only certify 10 years okay
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:55:30.080
+End: 00:55:35.040
+Duration: 4.960 seconds
+Text: that's good to know because that's that I didn't know when the end was okay sounds good thank you
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:55:35.040
+End: 00:55:43.040
+Duration: 8.000 seconds
+Text: for answering my question there's no provision to renew it right it just ends after 10 years
+--------------------------------------------------
+City Manager:
+Start: 00:55:43.840
+End: 00:55:50.080
+Duration: 6.240 seconds
+Text: yep and I think based off Jason's comments that we wouldn't be able to renew it more than that
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:55:50.080
+End: 00:55:57.280
+Duration: 7.200 seconds
+Text: based off the state law okay especially with the 95 percent abatement how does this work with the
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:55:57.280
+End: 00:56:07.680
+Duration: 10.400 seconds
+Text: county with the county treasurers office or the praiser do you file a copy of the agreement with them
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:56:08.480
+End: 00:56:17.680
+Duration: 9.200 seconds
+Text: or how do the notices come and go yes we do so annually we will certify whether or not the
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:56:19.920
+End: 00:56:25.680
+Duration: 5.760 seconds
+Text: agreement is upheld all right and we will certify the amount of the abatement each year
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:56:26.160
+End: 00:56:32.800
+Duration: 6.640 seconds
+Text: okay of those 10 years with the county and is that do you certify do you do that to the
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:56:32.800
+End: 00:56:39.280
+Duration: 6.480 seconds
+Text: appraisers office or to the treasurer clerk's office and then they share it with their respective
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:56:39.280
+End: 00:56:45.200
+Duration: 5.920 seconds
+Text: departments yes I was just curious how that worked thank you you're going to follow up on that do
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:56:45.200
+End: 00:56:51.600
+Duration: 6.400 seconds
+Text: do any of these other taxing authorities have any veto power on this no they do not not when you
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:56:51.600
+End: 00:56:57.520
+Duration: 5.920 seconds
+Text: issue industrial revenue bonds yep okay what about the property tax abatement because it's part of
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:56:57.520
+End: 00:57:04.080
+Duration: 6.560 seconds
+Text: the IRB yep so when it's under your authority the issue IRBs and under your authority to grant
+--------------------------------------------------
+Mayor Butler:
+Start: 00:57:04.080
+End: 00:57:08.880
+Duration: 4.800 seconds
+Text: an abatement okay now just that that's curious because you know that will affect the school board
+--------------------------------------------------
+Mayor Butler:
+Start: 00:57:08.880
+End: 00:57:13.040
+Duration: 4.160 seconds
+Text: and of course the county sure wanted to be sure it wasn't like the two agreements where they had
+--------------------------------------------------
+City Manager:
+Start: 00:57:13.040
+End: 00:57:20.720
+Duration: 7.680 seconds
+Text: to sign off on it correct okay so this process they are utilizing IRBs earlier when I said
+--------------------------------------------------
+City Manager:
+Start: 00:57:22.080
+End: 00:57:27.120
+Duration: 5.040 seconds
+Text: that the IRB policy didn't apply there's still issuing IRBs it's just we wanted to acknowledge
+--------------------------------------------------
+City Manager:
+Start: 00:57:27.120
+End: 00:57:33.520
+Duration: 6.400 seconds
+Text: that we do have a separate tax abatement policy and a separate IRB policy this one is specific to
+--------------------------------------------------
+City Manager:
+Start: 00:57:33.520
+End: 00:57:38.880
+Duration: 5.360 seconds
+Text: speculative buildings so this is the policy that applies still utilizing IRBs though
+--------------------------------------------------
+City Manager:
+Start: 00:57:40.640
+End: 00:57:45.120
+Duration: 4.480 seconds
+Text: we didn't want to confuse although I'm probably confusing you all right now as I talk about it
+--------------------------------------------------
+City Manager:
+Start: 00:57:45.120
+End: 00:57:51.440
+Duration: 6.320 seconds
+Text: but we wanted people to focus on this policy as opposed to acknowledging that we do have another
+--------------------------------------------------
+Mayor Butler:
+Start: 00:57:51.520
+End: 00:57:57.840
+Duration: 6.320 seconds
+Text: policy out there related IRBs yes I understand that and also you know it says maybe subject to job
+--------------------------------------------------
+Mayor Butler:
+Start: 00:57:57.840
+End: 00:58:02.880
+Duration: 5.040 seconds
+Text: creation so there is some flexibility in this whole fine too depending upon the individual building
+--------------------------------------------------
+Mayor Butler:
+Start: 00:58:02.880
+End: 00:58:07.760
+Duration: 4.880 seconds
+Text: and what comes forward right yep so it's not poured in concrete exactly is written there but that's
+--------------------------------------------------
+City Manager:
+Start: 00:58:07.760
+End: 00:58:13.280
+Duration: 5.520 seconds
+Text: generally the direction we're heading yep and I imagine we'll when we go into it with the first
+--------------------------------------------------
+City Manager:
+Start: 00:58:13.280
+End: 00:58:18.000
+Duration: 4.720 seconds
+Text: one that occurs we're probably going to be looking at that original proposal that chamber set of
+--------------------------------------------------
+City Manager:
+Start: 00:58:18.720
+End: 00:58:24.320
+Duration: 5.600 seconds
+Text: one job for every two thousand square feet and then work from there with the developer okay and it
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:58:24.320
+End: 00:58:32.560
+Duration: 8.240 seconds
+Text: may be that the chambers bringing a a occupant that we want to provide incentives to based on the
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:58:32.560
+End: 00:58:38.480
+Duration: 5.920 seconds
+Text: type of jobs they're producing and relocating from and expansion so there could be a separate
+--------------------------------------------------
+Mayor Butler:
+Start: 00:58:38.480
+End: 00:58:42.960
+Duration: 4.480 seconds
+Text: agreement with that particular company as well even though it may not it's involving
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:58:42.960
+End: 00:58:49.680
+Duration: 6.720 seconds
+Text: lease space so that's the reference to the IRBs and taxidate and economic development it would
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:58:49.680
+End: 00:58:55.360
+Duration: 5.680 seconds
+Text: just be an incentive agreement like we just did okay so the this incentive thing goes with the
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:58:55.360
+End: 00:59:01.440
+Duration: 6.080 seconds
+Text: building owner those incentives go with the business that occupies the building and so that's
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:59:01.440
+End: 00:59:06.080
+Duration: 4.640 seconds
+Text: there's there's multiple incentives but only they're only good if you own the building or if
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:59:06.240
+End: 00:59:14.400
+Duration: 8.160 seconds
+Text: you own the business that goes in the building but you're saying there that the okay I got it
+--------------------------------------------------
+City Manager:
+Start: 00:59:14.400
+End: 00:59:18.080
+Duration: 3.680 seconds
+Text: else thought yeah so we'll need to work out within that agreement with the the developers
+--------------------------------------------------
+City Manager:
+Start: 00:59:18.080
+End: 00:59:23.120
+Duration: 5.040 seconds
+Text: specifically not the business in place but the developer so that that reporting occurs so we're
+--------------------------------------------------
+City Manager:
+Start: 00:59:23.120
+End: 00:59:28.000
+Duration: 4.880 seconds
+Text: ensuring that the jobs are there and then we'll go through a separate reporting process probably
+--------------------------------------------------
+City Manager:
+Start: 00:59:28.000
+End: 00:59:32.640
+Duration: 4.640 seconds
+Text: with that same business in that example for their economic development incentive
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:59:32.800
+End: 00:59:39.360
+Duration: 6.560 seconds
+Text: I don't know what kind of businesses will come in I think this is one of those things that we can
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:59:39.360
+End: 00:59:47.600
+Duration: 8.240 seconds
+Text: have another tool in our toolbox that's safe for economic growth because we are competing not
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:59:47.600
+End: 00:59:53.200
+Duration: 5.600 seconds
+Text: only with another companies and other communities in Kansas but nationally and internationally as well
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:59:53.200
+End: 00:59:58.720
+Duration: 5.520 seconds
+Text: so hopefully this will be something that will give an opportunity for other businesses or
+--------------------------------------------------
+Commissioner Reddy:
+Start: 00:59:58.800
+End: 01:00:05.680
+Duration: 6.880 seconds
+Text: developers to consider what I do want to be cautious of is this whole dark store stuff that's
+--------------------------------------------------
+Commissioner Reddy:
+Start: 01:00:05.680
+End: 01:00:10.720
+Duration: 5.040 seconds
+Text: happening in front of us to make sure any kind of policy we develop I don't know if we can put
+--------------------------------------------------
+Commissioner Reddy:
+Start: 01:00:10.720
+End: 01:00:17.920
+Duration: 7.200 seconds
+Text: something in there about fair market value or that they can't you know go to Bowdoin ask for
+--------------------------------------------------
+Commissioner Reddy:
+Start: 01:00:17.920
+End: 01:00:24.320
+Duration: 6.400 seconds
+Text: after their ten years is up ask for different types of exemptions or reduction in property taxes
+--------------------------------------------------
+Commissioner Reddy:
+Start: 01:00:25.040
+End: 01:00:31.200
+Duration: 6.160 seconds
+Text: so in agreements if we can do that at some level that would be good because one of the things we
+--------------------------------------------------
+Commissioner Reddy:
+Start: 01:00:31.200
+End: 01:00:38.480
+Duration: 7.280 seconds
+Text: felt that they marry at when they bought the the parking spaces IRBs were very contentious
+--------------------------------------------------
+Commissioner Reddy:
+Start: 01:00:38.480
+End: 01:00:42.960
+Duration: 4.480 seconds
+Text: because we were given you know sold it for a hundred thousand dollars and all of this was there
+--------------------------------------------------
+Commissioner Reddy:
+Start: 01:00:42.960
+End: 01:00:49.600
+Duration: 6.640 seconds
+Text: so I just want to make sure that when we discuss IRBs or incentive packages that those same developers
+--------------------------------------------------
+Commissioner Reddy:
+Start: 01:00:50.160
+End: 01:00:56.320
+Duration: 6.160 seconds
+Text: Genesis you know has issues with property taxes we don't want to continue to see that
+--------------------------------------------------
+Commissioner Reddy:
+Start: 01:00:56.800
+End: 01:01:03.120
+Duration: 6.320 seconds
+Text: and reward bad behavior in any way so I don't know what that would look like in a document but I
+--------------------------------------------------
+Commissioner Reddy:
+Start: 01:01:03.120
+End: 01:01:07.680
+Duration: 4.560 seconds
+Text: think we need to look into that a little bit closer I don't think the legislators are going to
+--------------------------------------------------
+Commissioner Reddy:
+Start: 01:01:07.680
+End: 01:01:13.120
+Duration: 5.440 seconds
+Text: be doing anything anytime soon considering to discuss dark store stuff but I think that's something
+--------------------------------------------------
+Commissioner Reddy:
+Start: 01:01:13.120
+End: 01:01:19.520
+Duration: 6.400 seconds
+Text: we need to try to develop a policy if we can in incentive packages so that's that's my feedback
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 01:01:24.080
+End: 01:01:30.640
+Duration: 6.560 seconds
+Text: well I support what you should said I don't want to be giving tax breaks to companies that
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 01:01:32.240
+End: 01:01:40.000
+Duration: 7.760 seconds
+Text: come in the back door after the taxes are paid and ask for refunds for half of the amount two
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 01:01:40.000
+End: 01:01:51.120
+Duration: 11.120 seconds
+Text: years and three years ago so I'd be the second person to support that any pursuit of that we
+--------------------------------------------------
+City Manager:
+Start: 01:01:51.120
+End: 01:01:57.440
+Duration: 6.320 seconds
+Text: would need to obviously work with our bond council and attorneys and look at the state law but
+--------------------------------------------------
+City Manager:
+Start: 01:01:57.440
+End: 01:02:02.320
+Duration: 4.880 seconds
+Text: then that would be worked into any agreement that came forth with you not necessarily within this
+--------------------------------------------------
+Commissioner Reddy:
+Start: 01:02:02.320
+End: 01:02:08.160
+Duration: 5.840 seconds
+Text: policy resolution I do support this because I think we need to get started on something
+--------------------------------------------------
+Mayor Butler:
+Start: 01:02:10.480
+End: 01:02:14.400
+Duration: 3.920 seconds
+Text: yeah I think this is a good plan I thought about this quite a bit and we've you know we've talked
+--------------------------------------------------
+Mayor Butler:
+Start: 01:02:14.400
+End: 01:02:20.000
+Duration: 5.600 seconds
+Text: for years here about jump starting getting that third leg of the stool you know so we can get
+--------------------------------------------------
+Mayor Butler:
+Start: 01:02:20.000
+End: 01:02:26.080
+Duration: 6.080 seconds
+Text: away from just Fort Riley case state and just like the the project we approved here just before
+--------------------------------------------------
+Mayor Butler:
+Start: 01:02:26.080
+End: 01:02:31.200
+Duration: 5.120 seconds
+Text: this one this is one way to get it going and we just we really haven't had this on the table so
+--------------------------------------------------
+Mayor Butler:
+Start: 01:02:31.200
+End: 01:02:36.160
+Duration: 4.960 seconds
+Text: I've got pretty high hopes for this and and the key thing is to you know incentivize somebody to
+--------------------------------------------------
+Mayor Butler:
+Start: 01:02:36.160
+End: 01:02:40.320
+Duration: 4.160 seconds
+Text: build the building and then the worry about who's in there and whether they pay their taxes that's
+--------------------------------------------------
+Mayor Butler:
+Start: 01:02:40.320
+End: 01:02:45.120
+Duration: 4.800 seconds
+Text: something farther down the down the line what we've got to do is get these buildings built and get
+--------------------------------------------------
+Mayor Butler:
+Start: 01:02:45.120
+End: 01:02:52.000
+Duration: 6.880 seconds
+Text: those manufacturers in here and then we can start really growing the economy in another direction
+--------------------------------------------------
+Mayor Butler:
+Start: 01:02:52.000
+End: 01:02:55.840
+Duration: 3.840 seconds
+Text: and that's something it's been talked about for for 10 years and we just haven't been able to get
+--------------------------------------------------
+Mayor Butler:
+Start: 01:02:55.840
+End: 01:03:01.200
+Duration: 5.360 seconds
+Text: it jump started so I think this is a worthwhile investment to put this on the table and get moving
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 01:03:01.360
+End: 01:03:11.280
+Duration: 9.920 seconds
+Text: with it all this echo that real quick I think I agree with Commissioner Roddy and and Merr Butler and
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 01:03:11.280
+End: 01:03:16.720
+Duration: 5.440 seconds
+Text: that it's not just another it is another tool but it's also something that we've been kind of
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 01:03:16.720
+End: 01:03:23.280
+Duration: 6.560 seconds
+Text: waiting and and being slow or a little bit behind the game and getting there and there's
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 01:03:24.720
+End: 01:03:30.080
+Duration: 5.360 seconds
+Text: this idea that it's if you build it they will come well that's just one piece of the tool
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 01:03:30.080
+End: 01:03:35.840
+Duration: 5.760 seconds
+Text: with entrepreneurial ship the job creation all the different tools in the box this is just another
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 01:03:35.840
+End: 01:03:40.480
+Duration: 4.640 seconds
+Text: thing that maybe somebody wants to come look at a building we have a building available and while
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 01:03:40.480
+End: 01:03:46.560
+Duration: 6.080 seconds
+Text: they're here they'll they'll realize how how many other options we have to offer as well so
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 01:03:47.280
+End: 01:03:52.560
+Duration: 5.280 seconds
+Text: I'm excited and I support it and I agree with all the comments already said
+--------------------------------------------------
+Mayor Butler:
+Start: 01:04:00.720
+End: 01:04:08.080
+Duration: 7.360 seconds
+Text: I didn't have the right button pushed are there any public comments on this particular
+--------------------------------------------------
+Mayor Butler:
+Start: 01:04:08.080
+End: 01:04:16.320
+Duration: 8.240 seconds
+Text: proposal okay seeing none we'll close public comments and come back to the commission for
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 01:04:16.320
+End: 01:04:30.880
+Duration: 14.560 seconds
+Text: emotion Mayor I move that we approve resolution number 1 0 0 5 2 1 dash c authorizing a speculative
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 01:04:30.880
+End: 01:04:39.840
+Duration: 8.960 seconds
+Text: industrial building IRB program second okay we have a motion in a second city clerk could you
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 01:04:39.840
+End: 01:04:48.160
+Duration: 8.320 seconds
+Text: please call the roll commissioner Estabra yes commissioner ready yes Mayor Butler yes
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 01:04:48.800
+End: 01:04:54.400
+Duration: 5.600 seconds
+Text: commissioner Morris yes commissioner Hattiesel yes motion carried 5 0
+--------------------------------------------------
+Mayor Butler:
+Start: 01:04:55.120
+End: 01:05:01.600
+Duration: 6.480 seconds
+Text: okay well that concludes the meeting for tonight thank you for attending and the meeting is adjourned
+--------------------------------------------------

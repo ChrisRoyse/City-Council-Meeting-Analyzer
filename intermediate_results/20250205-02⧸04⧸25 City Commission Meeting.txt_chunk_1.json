@@ -1,0 +1,182 @@
+{
+  "open_ended_analysis": {
+    "primary_themes": [
+      {
+        "theme": "Public Speaking Rules",
+        "description": "The significant part of the meeting revolved around the potential shortening of individual public comment times and capping public comments to 30 minutes per section.",
+        "notable_points": [
+          "Many speakers voiced opposition to the proposal, expressing concerns about limiting public participation and narrowing opportunities for diverse public input; and a potential lack of democratic process."
+        ]
+      },
+      {
+        "theme": "Community Concerns",
+        "description": "Various community issues were addressed including concerns for growing poverty, inefficient economic development, housing problems, mental health issues, and the treatment of immigrants.",
+        "notable_points": [
+          "Some speakers criticized the commission for focusing more on profit and efficiency rather than the welfare of the residents; and their perceived mistreatment of marginalized residents."
+        ]
+      }
+    ],
+    "significant_discussions": [
+      {
+        "topic": "New Public Speaking Rules",
+        "significance": "This is expected to greatly impact future meetings and possibly limit public participation, potentially altering the public's involvement in important issues.",
+        "stakeholders": [
+          "City Commission",
+          "Manhattan citizens"
+        ]
+      },
+      {
+        "topic": "Economic Development and Poverty",
+        "significance": "The ongoing issue of persistent poverty versus investment in economic development is a critical issue for the community's future and potentially impacts the quality of life for residents.",
+        "stakeholders": [
+          "City Commission",
+          "Manhattan citizens",
+          "Chamber of Commerce"
+        ]
+      },
+      {
+        "topic": "Immigrant Rights and Fear",
+        "significance": "The concerns about the treatment of immigrants and the associated fears tie in to wider topics of inclusivity, equality, and justice.",
+        "stakeholders": [
+          "City Commission",
+          "Manhattan citizens",
+          "Immigrant community"
+        ]
+      }
+    ],
+    "unexpected_elements": [
+      {
+        "element": "Strong Emotional Appeals",
+        "context": "Multiple speakers expressed strong emotions, with one speaker even threatening to campaign against the commissioners if the proposed changes to public speaking rules are implemented. This speaks to the passion and urgency the community feels towards their involvement in decision-making processes."
+      }
+    ]
+  },
+  "directed_analysis": {
+    "land_use": {
+      "present": false,
+      "significance": "N/A",
+      "context": "N/A",
+      "notable_points": []
+    },
+    "economic_development": {
+      "present": true,
+      "significance": "Medium",
+      "context": "Economic development was discussed in relation to decisions affecting community growth and prosperity. Amber suggested that the commission, focused too much on outside interests rather than local residents. She criticized the commission for investing too much in associations aimed at attracting tourists and not achieving growth.",
+      "notable_points": [
+        "Commission criticized for pursuing growth strategies that are not yielding results",
+        "Question raised about accountability for investment in local Chamber of Commerce"
+      ]
+    },
+    "taxes_budget": {
+      "present": false,
+      "significance": "N/A",
+      "context": "N/A",
+      "notable_points": []
+    },
+    "other_significant_topics": [
+      {
+        "topic": "Public Comments Adjustment",
+        "significance": "High",
+        "context": "The majority of commenters strongly disapproved of the proposed changes to public comment rules. The proposed changes included shortening individual public comments to three minutes and limiting total public comment time to 30 minutes. Several community members expressed concern that this could limit the public's ability to express their views to the council."
+      },
+      {
+        "topic": "Mental Health and Immigration",
+        "significance": "Medium",
+        "context": "Katie raised concerns about mental health and its correlation with perceived social attitudes and government actions towards people designated as 'other' or 'different', specifically immigrant populations. She urged the commission to consider ways to make all residents feel safe, supported, and valued."
+      }
+    ]
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 5,
+      "speaking_time": {
+        "Transcription and Diarization for 20250205-02\u29f804\u29f825 City Commission Meeting.mp4": 5.24,
+        "Mayor McCullough": 309.14,
+        "Commissioner Adam Track": 898.9000000000003,
+        "Katie Smith": 283.75999999999993,
+        "City Manager": 277.96000000000004
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [
+        "Mayor McCullough",
+        "Commissioner Adam Track"
+      ],
+      "observation": "Mayor McCullough and Commissioner Adam Track seem to be leading or dominating the discussions given their longer speaking time compared to others. Their authority and position may play a key role in this dominance."
+    },
+    "interaction_patterns": {
+      "pattern": "The speakers mostly make individual speeches rather than engaging in live debates or dialogues. The Mayor seems to facilitate the discussions, while others mostly address the meeting rather than communicating directly with each other.",
+      "notable_exchanges": [
+        "Mayor McCullough's roll call and facilitation of public comments",
+        "Commissioner Adam Track's responses"
+      ]
+    },
+    "topic_ownership": [
+      {
+        "speaker": "Mayor McCullough",
+        "topics": [
+          "Meeting facilitation, agenda of the meeting"
+        ]
+      },
+      {
+        "speaker": "Commissioner Adam Track",
+        "topics": [
+          "Various issues raised during meeting"
+        ]
+      },
+      {
+        "speaker": "Katie Smith",
+        "topics": [
+          "Mental health, immigrant status and rights"
+        ]
+      }
+    ],
+    "public_participation": {
+      "level": "High",
+      "observation": "There is a high level of public participation in the meeting. Numerous members of the public actively join the conversation and raise their concerns. They discuss a range of topics including proposed changes to public comment time and mental health concerns."
+    }
+  },
+  "emergent_patterns": {
+    "recurring_themes": [
+      {
+        "theme": "Public concern about reduction in public comment time",
+        "evidence": "Multiple speakers voiced concern over the proposed reduction of time for public comments from 5 minutes to 3 minutes, and the introduction of a 30-minute cap on public comments per item. There was a strong feeling that reducing public comment time is a move to dismiss public opinion and limit democratic participation."
+      },
+      {
+        "theme": "Quality of Commission decisions",
+        "evidence": "Several speakers blamed the Commission for poor decision making, indicating a lack of trust in their abilities. The decisions were criticized as harmful, indifferent to the community, specifically migrants, and driven by profit rather than the welfare of Manhattan's citizens."
+      },
+      {
+        "theme": "Economic development and poverty",
+        "evidence": "One speaker pointed out the city's stagnant growth and persistent poverty despite investment in community and economic development, calling into question the commission's strategies."
+      }
+    ],
+    "underlying_tensions": [
+      {
+        "tension": "Tension between the community and the city council",
+        "between": [
+          "The public",
+          "The city council"
+        ],
+        "context": "The public perceives the council as dismissive of public input and dissatisfied with their decision-making, particularly regarding public comment time reduction and issues of economic development and poverty."
+      }
+    ],
+    "decision_patterns": {
+      "pattern": "Decisions appear to be made hierarchically by City Council, with public input possibly seen as a formality",
+      "observation": "Multiple speakers criticized the commission for its decision-making process, expressing a feeling that the public's voice is not truly heard or considered."
+    },
+    "language_patterns": {
+      "formality": "High",
+      "technical_density": "Medium",
+      "emotional_tone": "Public speakers expressed frustration and disappointment, while council maintained a neutral tone.",
+      "notable_features": [
+        "Use of polite language despite expressions of frustration and disappointment",
+        "Public outfitting passion and emotion in their addresses",
+        "City Council maintained formal and bureaucratic language"
+      ]
+    },
+    "other_insights": [
+      "Certain members of the community are deeply dissatisfied with the City Council. This dissatisfaction seems to stem from a perceived lack of democratic process and respect for public opinion, as well as concerns about the city's economic development strategies."
+    ]
+  }
+}

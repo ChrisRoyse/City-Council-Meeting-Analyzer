@@ -1,0 +1,2085 @@
+Transcription and Diarization for 20220722-07⧸19⧸22 City Commission Meeting.mp4
+==================================================
+
+Mayor Morris:
+Start: 00:00:00.000
+End: 00:00:09.240
+Duration: 9.240 seconds
+Text: Good evening and welcome to this July 19th, 2022 meeting of the Manhattan City Commission.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:00:09.240
+End: 00:00:15.640
+Duration: 6.400 seconds
+Text: We welcome you all and glad there are, there's an audience here.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:00:15.640
+End: 00:00:26.080
+Duration: 10.440 seconds
+Text: So I'd like to call the meeting to order and have the city clerk call the roll.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:26.080
+End: 00:00:27.600
+Duration: 1.520 seconds
+Text: Mayor, Mayor Morris?
+--------------------------------------------------
+Mayor Morris:
+Start: 00:00:27.600
+End: 00:00:30.560
+Duration: 2.960 seconds
+Text: Here, present.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:30.560
+End: 00:00:31.920
+Duration: 1.360 seconds
+Text: You should ready.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:00:31.920
+End: 00:00:33.920
+Duration: 2.000 seconds
+Text: Present.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:33.920
+End: 00:00:34.640
+Duration: 0.720 seconds
+Text: Win Butler.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:00:34.640
+End: 00:00:36.080
+Duration: 1.440 seconds
+Text: Present.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:36.080
+End: 00:00:37.240
+Duration: 1.160 seconds
+Text: Johnny Mata.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:00:37.240
+End: 00:00:39.000
+Duration: 1.760 seconds
+Text: Present.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:39.000
+End: 00:00:42.760
+Duration: 3.760 seconds
+Text: Mark J. Had us all.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:00:42.760
+End: 00:00:44.360
+Duration: 1.600 seconds
+Text: He's not here.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:44.360
+End: 00:00:48.440
+Duration: 4.080 seconds
+Text: Mayor, we have four commissioners present, so we have a quorum of three.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:00:48.440
+End: 00:00:50.440
+Duration: 2.000 seconds
+Text: Okay, thank you very much.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:00:50.440
+End: 00:00:55.440
+Duration: 5.000 seconds
+Text: At this point, would you, everyone please stand and join me in the Pledge of Allegiance?
+--------------------------------------------------
+Mayor Morris:
+Start: 00:00:56.440
+End: 00:01:03.680
+Duration: 7.240 seconds
+Text: I pledge that you should apply a United States of America and to the Republic for which it stands.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:01:03.680
+End: 00:01:11.400
+Duration: 7.720 seconds
+Text: One nation under God, individual with liberty and justice for all.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:01:11.400
+End: 00:01:14.640
+Duration: 3.240 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:01:14.640
+End: 00:01:23.960
+Duration: 9.320 seconds
+Text: At this point, we're going to zoom right along to Commissioner Cummings.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:01:23.960
+End: 00:01:27.400
+Duration: 3.440 seconds
+Text: Yes, I'd just like to thank all the people who showed up the other night for the parks and
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:01:27.400
+End: 00:01:28.400
+Duration: 1.000 seconds
+Text: rec meeting.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:01:28.400
+End: 00:01:32.480
+Duration: 4.080 seconds
+Text: It was a huge turnout that we had and really showed how much people cared and we got a lot
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:01:32.480
+End: 00:01:34.680
+Duration: 2.200 seconds
+Text: of good information there as well.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:01:34.680
+End: 00:01:38.280
+Duration: 3.600 seconds
+Text: So again, just want to thank everybody.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:01:38.280
+End: 00:01:44.760
+Duration: 6.480 seconds
+Text: Yeah, same as a Commissioner Mata, thank you for coming and we are going to review all
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:01:44.760
+End: 00:01:45.760
+Duration: 1.000 seconds
+Text: of those comments.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:01:45.760
+End: 00:01:47.960
+Duration: 2.200 seconds
+Text: I took a ton of notes, so that will be nice.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:01:47.960
+End: 00:01:53.360
+Duration: 5.400 seconds
+Text: I also want to remind everybody there's a mural opening tomorrow at Sunset Zoo.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:01:53.360
+End: 00:01:57.120
+Duration: 3.760 seconds
+Text: If you're interested at 10 o'clock, I believe in the morning, open to the public.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:01:57.120
+End: 00:02:02.080
+Duration: 4.960 seconds
+Text: I believe it's a Phyllis P's that did the mural, one of our locals.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:02:02.080
+End: 00:02:08.640
+Duration: 6.560 seconds
+Text: And also to remind you to vote, you can advance vote in the primary for the August 2nd primary.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:02:08.640
+End: 00:02:14.200
+Duration: 5.560 seconds
+Text: You can vote regardless of your affiliation on some of the items in the primary.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:02:14.200
+End: 00:02:16.200
+Duration: 2.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:02:16.200
+End: 00:02:21.800
+Duration: 5.600 seconds
+Text: And I too would like to express appreciation for all of the comments we received at the
+--------------------------------------------------
+Mayor Morris:
+Start: 00:02:21.800
+End: 00:02:27.680
+Duration: 5.880 seconds
+Text: Parks and Recreation Advisory Board last evening at the Manhattan Fire Station.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:02:27.680
+End: 00:02:29.160
+Duration: 1.480 seconds
+Text: I did learn some things.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:02:29.160
+End: 00:02:30.520
+Duration: 1.360 seconds
+Text: It was really interesting.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:02:30.520
+End: 00:02:36.840
+Duration: 6.320 seconds
+Text: The public brought information that I did not have and I was glad to get more information.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:02:36.840
+End: 00:02:38.680
+Duration: 1.840 seconds
+Text: And that's what we're all about.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:02:38.680
+End: 00:02:49.360
+Duration: 10.680 seconds
+Text: So I attended today the meeting of the Manhattan Chamber of Commerce Advisory Board of Directors
+--------------------------------------------------
+Mayor Morris:
+Start: 00:02:49.360
+End: 00:02:55.120
+Duration: 5.760 seconds
+Text: and always appreciate hearing that information.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:02:55.120
+End: 00:03:04.360
+Duration: 9.240 seconds
+Text: I, Ron and I, had the opportunity earlier this week or last week to go to in-beth.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:03:04.360
+End: 00:03:09.080
+Duration: 4.720 seconds
+Text: And it was the first time that we'd ever been inside.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:03:09.080
+End: 00:03:14.760
+Duration: 5.680 seconds
+Text: And I don't think many people will get that opportunity, but there may be, you know,
+--------------------------------------------------
+Mayor Morris:
+Start: 00:03:14.760
+End: 00:03:19.520
+Duration: 4.760 seconds
+Text: some opportunities in the coming months.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:03:19.520
+End: 00:03:25.120
+Duration: 5.600 seconds
+Text: The actual construction is essentially finished.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:03:25.120
+End: 00:03:35.880
+Duration: 10.760 seconds
+Text: And they'll go into a 60-day period where they check out all of this construction part
+--------------------------------------------------
+Mayor Morris:
+Start: 00:03:35.880
+End: 00:03:38.960
+Duration: 3.080 seconds
+Text: and make sure that it is working.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:03:38.960
+End: 00:03:43.520
+Duration: 4.560 seconds
+Text: And then for the next year, they'll go, they'll check on making sure all of the
+--------------------------------------------------
+Mayor Morris:
+Start: 00:03:43.520
+End: 00:03:47.640
+Duration: 4.120 seconds
+Text: internal systems work and that they work together.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:03:47.640
+End: 00:03:54.280
+Duration: 6.640 seconds
+Text: It's just a fascinating process and more than, you know, just any one of us probably who
+--------------------------------------------------
+Mayor Morris:
+Start: 00:03:54.280
+End: 00:03:59.360
+Duration: 5.080 seconds
+Text: aren't physicists would have difficulty understanding.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:03:59.360
+End: 00:04:03.240
+Duration: 3.880 seconds
+Text: But it's totally empty, nothing there but white walls.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:04:03.240
+End: 00:04:05.840
+Duration: 2.600 seconds
+Text: It's just interesting.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:04:05.840
+End: 00:04:11.800
+Duration: 5.960 seconds
+Text: So I wanted to just share that we did have that opportunity.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:04:11.800
+End: 00:04:18.720
+Duration: 6.920 seconds
+Text: I debated, you know, I don't want to be exclusive here, but someone reminded me that it's important
+--------------------------------------------------
+Mayor Morris:
+Start: 00:04:18.720
+End: 00:04:24.480
+Duration: 5.760 seconds
+Text: that the community know that we've been there and it was okay.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:04:24.480
+End: 00:04:29.800
+Duration: 5.320 seconds
+Text: And so just wanted to mention that.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:04:29.800
+End: 00:04:32.880
+Duration: 3.080 seconds
+Text: And I think that's all for updates.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:04:32.880
+End: 00:04:38.480
+Duration: 5.600 seconds
+Text: Because I haven't been busy, I have, but just nothing comes to mind at the moment.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:04:38.480
+End: 00:04:51.560
+Duration: 13.080 seconds
+Text: So with that, the end of the Commissioner comments will go on to the consent agenda and introducing
+--------------------------------------------------
+Mayor Morris:
+Start: 00:04:51.560
+End: 00:04:54.360
+Duration: 2.800 seconds
+Text: the consent agenda.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:04:54.360
+End: 00:04:59.120
+Duration: 4.760 seconds
+Text: The items on the consent agenda are those of a routine in housekeeping nature or those
+--------------------------------------------------
+Mayor Morris:
+Start: 00:04:59.120
+End: 00:05:03.280
+Duration: 4.160 seconds
+Text: items which have previously been reviewed by the City Commission.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:05:03.280
+End: 00:05:08.840
+Duration: 5.560 seconds
+Text: A Commissioner may request an item be moved for separate discussion and consideration immediately
+--------------------------------------------------
+Mayor Morris:
+Start: 00:05:08.840
+End: 00:05:16.080
+Duration: 7.240 seconds
+Text: following the consent agenda or at a different point on the agenda if desired by the City Commission.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:05:16.080
+End: 00:05:20.480
+Duration: 4.400 seconds
+Text: Does the Commission have any questions or comments on any of the consent agenda items?
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:05:20.480
+End: 00:05:27.280
+Duration: 6.800 seconds
+Text: I just want to comment on item H, which is approve the amended community development
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:05:27.280
+End: 00:05:31.520
+Duration: 4.240 seconds
+Text: of the Brock Grant Housing Repilitation Administration Plan.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:05:31.520
+End: 00:05:33.280
+Duration: 1.760 seconds
+Text: That's a really excellent plan.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:05:33.280
+End: 00:05:34.280
+Duration: 1.000 seconds
+Text: It needed updated.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:05:34.280
+End: 00:05:36.600
+Duration: 2.320 seconds
+Text: I like the things that were put in there.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:05:36.600
+End: 00:05:41.560
+Duration: 4.960 seconds
+Text: And for those in our familiar with it, it's designed to provide assistance on doing a emergency
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:05:41.560
+End: 00:05:43.880
+Duration: 2.320 seconds
+Text: repair as and other things on some homes.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:05:43.880
+End: 00:05:51.080
+Duration: 7.200 seconds
+Text: If your income level is below the 80% medium income is defined by some various regulations.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:05:51.080
+End: 00:05:58.720
+Duration: 7.640 seconds
+Text: So if you're in the category where you can use that to do some improvements to your house
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:05:58.720
+End: 00:06:02.280
+Duration: 3.560 seconds
+Text: that are essential, please be aware of it.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:06:02.280
+End: 00:06:04.960
+Duration: 2.680 seconds
+Text: We get a grant every year to take care of that.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:06:04.960
+End: 00:06:09.360
+Duration: 4.400 seconds
+Text: So this plan just clarifies and I won't go through all the changes in there.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:06:09.360
+End: 00:06:11.600
+Duration: 2.240 seconds
+Text: But it streamlines it, makes it much more efficient.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:06:11.600
+End: 00:06:12.600
+Duration: 1.000 seconds
+Text: So great job.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:06:12.600
+End: 00:06:16.560
+Duration: 3.960 seconds
+Text: I guess Stephanie must have been involved in that, but I don't see her out there today.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:06:16.560
+End: 00:06:17.560
+Duration: 1.000 seconds
+Text: Great work on that.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:06:18.560
+End: 00:06:21.560
+Duration: 3.000 seconds
+Text: Any other comments?
+--------------------------------------------------
+Mayor Morris:
+Start: 00:06:21.560
+End: 00:06:26.480
+Duration: 4.920 seconds
+Text: I would say that there are a lot of items on the consent agenda and you can see those
+--------------------------------------------------
+Mayor Morris:
+Start: 00:06:26.480
+End: 00:06:28.360
+Duration: 1.880 seconds
+Text: at the city's website.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:06:28.360
+End: 00:06:31.640
+Duration: 3.280 seconds
+Text: But there is quite a bit of money represented here.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:06:31.640
+End: 00:06:36.840
+Duration: 5.200 seconds
+Text: And I just, I think it's important to watch the consent agenda as well as the general
+--------------------------------------------------
+Mayor Morris:
+Start: 00:06:36.840
+End: 00:06:38.160
+Duration: 1.320 seconds
+Text: agenda.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:06:38.160
+End: 00:06:43.280
+Duration: 5.120 seconds
+Text: With no further comments, let me look.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:06:43.280
+End: 00:06:45.480
+Duration: 2.200 seconds
+Text: I'll have a new script.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:06:45.480
+End: 00:06:51.680
+Duration: 6.200 seconds
+Text: Excuse me a minute.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:06:51.680
+End: 00:06:54.600
+Duration: 2.920 seconds
+Text: The public comment period is now closed.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:06:54.600
+End: 00:06:56.200
+Duration: 1.600 seconds
+Text: Is there a motion from the commission?
+--------------------------------------------------
+Mayor Morris:
+Start: 00:06:56.200
+End: 00:06:58.440
+Duration: 2.240 seconds
+Text: Oh, I didn't open.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:06:58.440
+End: 00:06:59.600
+Duration: 1.160 seconds
+Text: Hello.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:06:59.600
+End: 00:07:00.600
+Duration: 1.000 seconds
+Text: New script.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:07:00.600
+End: 00:07:01.600
+Duration: 1.000 seconds
+Text: I'm sorry.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:07:01.600
+End: 00:07:08.600
+Duration: 7.000 seconds
+Text: At this point, I'd like to open the public comment and I need to state we will now receive
+--------------------------------------------------
+Mayor Morris:
+Start: 00:07:08.600
+End: 00:07:12.160
+Duration: 3.560 seconds
+Text: public comment on any item on tonight's consent agenda.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:07:12.160
+End: 00:07:16.480
+Duration: 4.320 seconds
+Text: The comment will begin with people and no one has signed up.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:07:16.480
+End: 00:07:19.200
+Duration: 2.720 seconds
+Text: I was advised by the city clerk.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:07:19.200
+End: 00:07:24.160
+Duration: 4.960 seconds
+Text: If you wish to speak, if you would come forward and sign in at the podium, we'd like to
+--------------------------------------------------
+Mayor Morris:
+Start: 00:07:24.160
+End: 00:07:26.320
+Duration: 2.160 seconds
+Text: know your name and address.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:07:26.320
+End: 00:07:32.320
+Duration: 6.000 seconds
+Text: Each speaker has five minutes and can speak only once and must stop when the timer sounds.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:07:32.320
+End: 00:07:34.480
+Duration: 2.160 seconds
+Text: We will take your comments under advisement.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:07:34.480
+End: 00:07:38.560
+Duration: 4.080 seconds
+Text: Does anyone have public comments this evening?
+--------------------------------------------------
+Mayor Morris:
+Start: 00:07:39.560
+End: 00:07:45.400
+Duration: 5.840 seconds
+Text: We'd come forward, please.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:07:45.400
+End: 00:07:51.960
+Duration: 6.560 seconds
+Text: Seeing no one coming forward, I will close the public comment period and is there a motion
+--------------------------------------------------
+Mayor Morris:
+Start: 00:07:51.960
+End: 00:07:53.720
+Duration: 1.760 seconds
+Text: from the commission at this point?
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:07:53.720
+End: 00:07:58.160
+Duration: 4.440 seconds
+Text: I move that we approve the consent agenda.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:07:58.160
+End: 00:07:59.160
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:07:59.160
+End: 00:08:01.160
+Duration: 2.000 seconds
+Text: We have a motion and a second.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:08:01.160
+End: 00:08:03.200
+Duration: 2.040 seconds
+Text: City clerk, would you call the roll?
+--------------------------------------------------
+City Clerk:
+Start: 00:08:03.200
+End: 00:08:04.200
+Duration: 1.000 seconds
+Text: Commissioner Ready?
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:08:04.200
+End: 00:08:05.200
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:08:05.200
+End: 00:08:06.200
+Duration: 1.000 seconds
+Text: Commissioner Butler?
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:08:06.200
+End: 00:08:07.200
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:08:07.520
+End: 00:08:08.520
+Duration: 1.000 seconds
+Text: Commissioner Mata?
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:08:08.520
+End: 00:08:09.520
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:08:09.520
+End: 00:08:10.520
+Duration: 1.000 seconds
+Text: Mayor Morse?
+--------------------------------------------------
+Mayor Morris:
+Start: 00:08:10.520
+End: 00:08:11.520
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:08:11.520
+End: 00:08:12.520
+Duration: 1.000 seconds
+Text: Motion carries.
+--------------------------------------------------
+City Clerk:
+Start: 00:08:12.520
+End: 00:08:13.520
+Duration: 1.000 seconds
+Text: 4-0.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:08:15.520
+End: 00:08:21.520
+Duration: 6.000 seconds
+Text: And now we have a presentation, new agenda item.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:08:21.520
+End: 00:08:26.400
+Duration: 4.880 seconds
+Text: Bruce need president and less, I don't think that's less.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:08:26.400
+End: 00:08:32.920
+Duration: 6.520 seconds
+Text: Stephen Bryan steam from the Flint Hills Discovery Center Foundation will present a check to
+--------------------------------------------------
+Mayor Morris:
+Start: 00:08:32.920
+End: 00:08:38.000
+Duration: 5.080 seconds
+Text: the city for a 15 passenger van for the Flint Hills Discovery Center.
+--------------------------------------------------
+City Clerk:
+Start: 00:08:38.000
+End: 00:08:39.000
+Duration: 1.000 seconds
+Text: Shall we both go?
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:08:39.000
+End: 00:08:40.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:08:40.000
+End: 00:08:41.000
+Duration: 1.000 seconds
+Text: This is a big deal.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:08:41.000
+End: 00:08:42.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:08:42.000
+End: 00:08:43.000
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Manager:
+Start: 00:08:43.000
+End: 00:08:47.000
+Duration: 4.000 seconds
+Text: Mayor, we waiting for the mayor.
+--------------------------------------------------
+City Manager:
+Start: 00:08:47.000
+End: 00:08:49.000
+Duration: 2.000 seconds
+Text: You have nothing about the mayor.
+--------------------------------------------------
+City Manager:
+Start: 00:08:49.000
+End: 00:08:50.000
+Duration: 1.000 seconds
+Text: See, manager.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:08:50.000
+End: 00:08:51.000
+Duration: 1.000 seconds
+Text: Hello.
+--------------------------------------------------
+City Manager:
+Start: 00:08:51.000
+End: 00:08:52.000
+Duration: 1.000 seconds
+Text: Everybody.
+--------------------------------------------------
+City Manager:
+Start: 00:08:52.000
+End: 00:08:54.000
+Duration: 2.000 seconds
+Text: Everybody gets their hands on it.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:08:54.000
+End: 00:08:55.000
+Duration: 1.000 seconds
+Text: I should get all squeezed in here.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:08:55.000
+End: 00:08:56.000
+Duration: 1.000 seconds
+Text: I don't think there we go.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:08:56.000
+End: 00:08:57.000
+Duration: 1.000 seconds
+Text: I'll stand on my head.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:08:57.000
+End: 00:08:58.000
+Duration: 1.000 seconds
+Text: She's done.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:08:58.000
+End: 00:08:59.000
+Duration: 1.000 seconds
+Text: That was nice.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:08:59.000
+End: 00:09:06.000
+Duration: 7.000 seconds
+Text: The thing is, like, so much.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:09:06.000
+End: 00:09:09.000
+Duration: 3.000 seconds
+Text: I don't know what we do without you.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:09:09.000
+End: 00:09:10.000
+Duration: 1.000 seconds
+Text: I'm going to talk to you.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:09:10.000
+End: 00:09:11.000
+Duration: 1.000 seconds
+Text: I expect you.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:09:11.000
+End: 00:09:12.000
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Manager:
+Start: 00:09:12.000
+End: 00:09:13.000
+Duration: 1.000 seconds
+Text: I don't know if it's on.
+--------------------------------------------------
+City Manager:
+Start: 00:09:13.000
+End: 00:09:14.000
+Duration: 1.000 seconds
+Text: I'll check the seat.
+--------------------------------------------------
+City Manager:
+Start: 00:09:14.000
+End: 00:09:15.000
+Duration: 1.000 seconds
+Text: I'm Bruce Need.
+--------------------------------------------------
+City Manager:
+Start: 00:09:15.000
+End: 00:09:18.000
+Duration: 3.000 seconds
+Text: I have the honor and responsibility to be president of Flint Hills Discovery Center
+--------------------------------------------------
+City Manager:
+Start: 00:09:18.000
+End: 00:09:19.000
+Duration: 1.000 seconds
+Text: Foundation.
+--------------------------------------------------
+City Manager:
+Start: 00:09:19.000
+End: 00:09:24.040
+Duration: 5.040 seconds
+Text: And I'm so pleased to have this opportunity tonight to share a few thoughts with you.
+--------------------------------------------------
+City Manager:
+Start: 00:09:24.040
+End: 00:09:29.480
+Duration: 5.440 seconds
+Text: We presented a check for over $54,000 to fund a 15 passenger van for the Discovery
+--------------------------------------------------
+City Manager:
+Start: 00:09:29.480
+End: 00:09:35.200
+Duration: 5.720 seconds
+Text: Center to enhance its educational programs and opportunities to reach out into the region
+--------------------------------------------------
+City Manager:
+Start: 00:09:35.200
+End: 00:09:40.680
+Duration: 5.480 seconds
+Text: of Flint Hills that is the mission of the Discovery Center to sustain and the mission
+--------------------------------------------------
+City Manager:
+Start: 00:09:40.680
+End: 00:09:46.960
+Duration: 6.280 seconds
+Text: of the foundation is to sustain the Discovery Center, helping expand its programs and offerings.
+--------------------------------------------------
+City Manager:
+Start: 00:09:46.960
+End: 00:09:53.000
+Duration: 6.040 seconds
+Text: I want to express the foundation's appreciation to Russ Briggs, who did extraordinary work
+--------------------------------------------------
+City Manager:
+Start: 00:09:53.000
+End: 00:09:59.840
+Duration: 6.840 seconds
+Text: to find this van that we were able to purchase in this used car crazy market.
+--------------------------------------------------
+City Manager:
+Start: 00:09:59.840
+End: 00:10:05.920
+Duration: 6.080 seconds
+Text: And thank him for two months worth of efforts to bring this van to the city.
+--------------------------------------------------
+City Manager:
+Start: 00:10:05.920
+End: 00:10:10.560
+Duration: 4.640 seconds
+Text: So thanks for the opportunity to express the support.
+--------------------------------------------------
+City Manager:
+Start: 00:10:10.560
+End: 00:10:13.160
+Duration: 2.600 seconds
+Text: And that's what I really think is significant.
+--------------------------------------------------
+City Manager:
+Start: 00:10:13.160
+End: 00:10:17.400
+Duration: 4.240 seconds
+Text: We raised funds for this actually starting before the pandemic and the pandemic, of course,
+--------------------------------------------------
+City Manager:
+Start: 00:10:17.400
+End: 00:10:22.920
+Duration: 5.520 seconds
+Text: affected the ability to provide outreach and programs.
+--------------------------------------------------
+City Manager:
+Start: 00:10:22.920
+End: 00:10:25.720
+Duration: 2.800 seconds
+Text: But we were able to keep the funds available.
+--------------------------------------------------
+City Manager:
+Start: 00:10:25.720
+End: 00:10:33.160
+Duration: 7.440 seconds
+Text: And it expresses the support for the Discovery Center, this most unique quality of assurance,
+--------------------------------------------------
+City Manager:
+Start: 00:10:33.160
+End: 00:10:37.880
+Duration: 4.720 seconds
+Text: quality of life, asset of the community and of the city and of the region.
+--------------------------------------------------
+City Manager:
+Start: 00:10:37.880
+End: 00:10:45.760
+Duration: 7.880 seconds
+Text: And it takes literally hundreds of donors to provide these funds for these kinds of assets
+--------------------------------------------------
+City Manager:
+Start: 00:10:45.760
+End: 00:10:49.000
+Duration: 3.240 seconds
+Text: and educational programs and enhancements of the Discovery Center.
+--------------------------------------------------
+City Manager:
+Start: 00:10:49.000
+End: 00:10:52.440
+Duration: 3.440 seconds
+Text: Really appreciate the opportunity to work with the Discovery Center staff.
+--------------------------------------------------
+City Manager:
+Start: 00:10:52.440
+End: 00:10:59.200
+Duration: 6.760 seconds
+Text: We are blessed with an amazing group of dedicated professionals to carry that mission of the Discovery Center
+--------------------------------------------------
+City Manager:
+Start: 00:10:59.200
+End: 00:11:03.280
+Duration: 4.080 seconds
+Text: like Stephen Bridenstine, the Associate Director for the Discovery Center.
+--------------------------------------------------
+City Manager:
+Start: 00:11:03.280
+End: 00:11:07.880
+Duration: 4.600 seconds
+Text: So on behalf of the foundation, it's Board of Directors, it's Director Leslie White.
+--------------------------------------------------
+City Manager:
+Start: 00:11:07.880
+End: 00:11:11.960
+Duration: 4.080 seconds
+Text: Thanks for the opportunity to support the Discovery Center and the city.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:11:11.960
+End: 00:11:26.860
+Duration: 14.900 seconds
+Text: I would like to just say more that Russ, I didn't introduce you, but thank you so much for your support of the
+--------------------------------------------------
+Mayor Morris:
+Start: 00:11:26.860
+End: 00:11:29.360
+Duration: 2.500 seconds
+Text: Frontiers Discovery Center.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:11:29.360
+End: 00:11:31.080
+Duration: 1.720 seconds
+Text: It means a lot.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:11:31.080
+End: 00:11:39.480
+Duration: 8.400 seconds
+Text: And it probably goes without saying that we could not have afforded a $54,000 van on the city budget.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:11:40.200
+End: 00:11:47.160
+Duration: 6.960 seconds
+Text: But this van will do what you need it to do, which is show people through the Flint Hills.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:11:47.160
+End: 00:11:53.000
+Duration: 5.840 seconds
+Text: So I just think it's a perfect solution and thank you so much.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:11:53.000
+End: 00:11:54.800
+Duration: 1.800 seconds
+Text: We all appreciate it.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:11:54.800
+End: 00:11:59.760
+Duration: 4.960 seconds
+Text: Bruce, you're a good fundraiser.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:11:59.760
+End: 00:12:04.800
+Duration: 5.040 seconds
+Text: Stephen, thank you for your wonderful program.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:12:04.800
+End: 00:12:06.800
+Duration: 2.000 seconds
+Text: Yeah, okay, thank you so much.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:12:09.480
+End: 00:12:21.040
+Duration: 11.560 seconds
+Text: Okay, the next item on the agenda is the general agenda.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:12:21.040
+End: 00:12:28.960
+Duration: 7.920 seconds
+Text: And the figure out where to start.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:12:28.960
+End: 00:12:37.920
+Duration: 8.960 seconds
+Text: Anyway, the general agenda item is an ordinance annexing MCM industrial park.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:12:37.920
+End: 00:12:49.320
+Duration: 11.400 seconds
+Text: A 50.489 acre site, generally located at the northeast corner of US 24 and Excel Road in Potawatomi County into the city.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:12:49.320
+End: 00:13:01.400
+Duration: 12.080 seconds
+Text: And you know that this process is going to happen pretty much every two weeks for us as time goes on.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:13:01.400
+End: 00:13:02.920
+Duration: 1.520 seconds
+Text: Assuming things stay on track.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:13:02.920
+End: 00:13:08.680
+Duration: 5.760 seconds
+Text: So John Adam with the community development office, if you would take it away.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:13:08.680
+End: 00:13:09.920
+Duration: 1.240 seconds
+Text: Thank you, Mayor.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:13:09.920
+End: 00:13:13.320
+Duration: 3.400 seconds
+Text: John Adam, assistant director.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:13:13.320
+End: 00:13:14.520
+Duration: 1.200 seconds
+Text: You should be familiar with this.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:13:14.520
+End: 00:13:24.160
+Duration: 9.640 seconds
+Text: We're talking about annexing roughly 50 and a half acre site, the northeast corner of Excel Road in Highway 24.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:13:24.160
+End: 00:13:32.400
+Duration: 8.240 seconds
+Text: Its location, it proposed use and zoning correspond to the comprehensive land use plan for this area.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:13:32.400
+End: 00:13:42.840
+Duration: 10.440 seconds
+Text: And so the recommendation is to approve the first reading of an ordinance to annex the MCM parcel and the identified right of way.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:13:42.840
+End: 00:13:48.520
+Duration: 5.680 seconds
+Text: The timeline moving forward August 2nd, you would have the second reading on this ordinance.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:13:48.520
+End: 00:13:55.760
+Duration: 7.240 seconds
+Text: August 15th, planning board would hold its first hearing on rezoning and the preliminary plat for it.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:13:55.760
+End: 00:14:02.040
+Duration: 6.280 seconds
+Text: August 16th, you would have the first consideration of a development agreement.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:14:02.040
+End: 00:14:07.280
+Duration: 5.240 seconds
+Text: August 29th, planning board would look at and approve the final plat.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:14:07.280
+End: 00:14:09.760
+Duration: 2.480 seconds
+Text: That is a special meeting date for them.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:14:09.760
+End: 00:14:19.760
+Duration: 10.000 seconds
+Text: And then September 6th, you would have the first reading of a rezoning ordinance resolution of intent to issue IRBs and first reading of bond ordinance.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:14:19.760
+End: 00:14:24.080
+Duration: 4.320 seconds
+Text: September 20th, second reading of a rezoning ordinance.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:14:24.080
+End: 00:14:31.440
+Duration: 7.360 seconds
+Text: Acceptance of the easements and rights of way on the final plat and the second reading of a bond ordinance.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:14:31.440
+End: 00:14:32.760
+Duration: 1.320 seconds
+Text: That is all I had.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:14:32.760
+End: 00:14:37.280
+Duration: 4.520 seconds
+Text: If you have any questions, I would be happy to answer them.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:14:37.280
+End: 00:14:40.040
+Duration: 2.760 seconds
+Text: Commissioner, do you have questions?
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:14:40.040
+End: 00:14:45.160
+Duration: 5.120 seconds
+Text: I think we have been talking about the Scorpion project for so long and I think I don't have any questions.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:14:45.160
+End: 00:14:47.200
+Duration: 2.040 seconds
+Text: This is just part of the process.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:14:47.200
+End: 00:14:48.640
+Duration: 1.440 seconds
+Text: Good to go, thanks.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:14:48.640
+End: 00:14:57.240
+Duration: 8.600 seconds
+Text: I do appreciate Potawatomi County also moving forward with Scorpion.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:14:57.240
+End: 00:15:05.400
+Duration: 8.160 seconds
+Text: I know we have a lot of work ahead of us, but I think we are headed in the right direction and this is one of those steps, but it's good to have that collaborative effort.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:15:05.400
+End: 00:15:17.080
+Duration: 11.680 seconds
+Text: And I do appreciate Ron presenting to the Potawatomi County commissioners and updating them on a daily basis and making that partnership even easier to handle.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:15:17.080
+End: 00:15:24.200
+Duration: 7.120 seconds
+Text: I think it's a good project for that kind of joint relationship.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:15:24.200
+End: 00:15:33.840
+Duration: 9.640 seconds
+Text: We haven't done a lot with Potawatomi County and so this is a good, positive thing that will serve us both well.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:15:33.840
+End: 00:15:38.600
+Duration: 4.760 seconds
+Text: I do have a question if you could pull up the site map.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:15:38.600
+End: 00:15:43.480
+Duration: 4.880 seconds
+Text: And my question as I read the materials was, where is Blue Valley Drive?
+--------------------------------------------------
+Mayor Morris:
+Start: 00:15:43.480
+End: 00:15:49.440
+Duration: 5.960 seconds
+Text: I'm using my imagination with where it is, but I'd like for you to point it out if you would.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:15:49.440
+End: 00:15:53.960
+Duration: 4.520 seconds
+Text: It's the one that we're going to pay.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:15:53.960
+End: 00:16:03.560
+Duration: 9.600 seconds
+Text: On the platform.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:16:03.560
+End: 00:16:12.720
+Duration: 9.160 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:16:12.720
+End: 00:16:19.600
+Duration: 6.880 seconds
+Text: I think it would be helpful for the public to see it also as a second primary.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:16:19.600
+End: 00:16:24.960
+Duration: 5.360 seconds
+Text: I don't think it will make the meeting last too long.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:16:24.960
+End: 00:16:35.920
+Duration: 10.960 seconds
+Text: No problem.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:16:35.920
+End: 00:16:37.480
+Duration: 1.560 seconds
+Text: Do you know which one it is?
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:16:37.480
+End: 00:16:39.160
+Duration: 1.680 seconds
+Text: Try that.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:16:39.160
+End: 00:16:43.800
+Duration: 4.640 seconds
+Text: This one right here.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:16:43.800
+End: 00:16:47.280
+Duration: 3.480 seconds
+Text: I just wasn't aware of the development along Highway 24.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:16:47.280
+End: 00:16:49.400
+Duration: 2.120 seconds
+Text: I thought the whole site was going to be scorpion.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:16:49.400
+End: 00:16:56.880
+Duration: 7.480 seconds
+Text: So I just thought I'd have you talk about the site map.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:16:56.880
+End: 00:16:59.240
+Duration: 2.360 seconds
+Text: It's the last page of the ordinance.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:16:59.240
+End: 00:17:09.360
+Duration: 10.120 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:17:09.360
+End: 00:17:16.360
+Duration: 7.000 seconds
+Text: So it is on what I have.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:17:16.360
+End: 00:17:21.360
+Duration: 5.000 seconds
+Text: No.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:17:21.360
+End: 00:17:31.920
+Duration: 10.560 seconds
+Text: John, I promise this wasn't a trick question.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:17:31.920
+End: 00:17:34.920
+Duration: 3.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:17:34.920
+End: 00:17:49.400
+Duration: 14.480 seconds
+Text: The actual proposed ordinance, 062122.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:17:49.400
+End: 00:17:57.840
+Duration: 8.440 seconds
+Text: It's also attached to County's resolution.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:17:57.840
+End: 00:18:09.160
+Duration: 11.320 seconds
+Text: There you go.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:18:09.160
+End: 00:18:10.160
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:18:10.160
+End: 00:18:13.960
+Duration: 3.800 seconds
+Text: You have to blow it up.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:18:13.960
+End: 00:18:22.200
+Duration: 8.240 seconds
+Text: It still shows where it is.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:18:22.200
+End: 00:18:33.600
+Duration: 11.400 seconds
+Text: So the scorpion site has a number of lots on the Highway 24 side that will be like an
+--------------------------------------------------
+Mayor Morris:
+Start: 00:18:33.600
+End: 00:18:36.640
+Duration: 3.040 seconds
+Text: industrial park type thing.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:18:36.640
+End: 00:18:38.640
+Duration: 2.000 seconds
+Text: This plan will be vacated.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:18:38.640
+End: 00:18:42.640
+Duration: 4.000 seconds
+Text: I see your vacates.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:18:42.640
+End: 00:18:45.880
+Duration: 3.240 seconds
+Text: So it says Hill Springs subdivision.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:18:45.880
+End: 00:18:47.280
+Duration: 1.400 seconds
+Text: Is that being vacated?
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:18:47.280
+End: 00:18:48.280
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:18:48.280
+End: 00:18:49.280
+Duration: 1.000 seconds
+Text: That's correct.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:18:49.280
+End: 00:18:50.280
+Duration: 1.000 seconds
+Text: It wasn't clear.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:18:50.280
+End: 00:18:58.000
+Duration: 7.720 seconds
+Text: The site was originally planted in Potawatomi County for a future development.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:18:58.000
+End: 00:19:03.600
+Duration: 5.600 seconds
+Text: That development is going away because the full track is being used for scorpion.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:19:03.600
+End: 00:19:05.080
+Duration: 1.480 seconds
+Text: So it's vacating that.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:19:05.080
+End: 00:19:07.480
+Duration: 2.400 seconds
+Text: So it is the full track.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:19:07.480
+End: 00:19:08.480
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:19:08.480
+End: 00:19:16.000
+Duration: 7.520 seconds
+Text: And then my question, original question was where it says in the materials that there's
+--------------------------------------------------
+Mayor Morris:
+Start: 00:19:16.000
+End: 00:19:22.400
+Duration: 6.400 seconds
+Text: this blue valley drive that we're going to be responsible for.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:19:22.400
+End: 00:19:24.160
+Duration: 1.760 seconds
+Text: That would be the drive that goes through here.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:19:24.160
+End: 00:19:25.720
+Duration: 1.560 seconds
+Text: The only one I could think of.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:19:25.720
+End: 00:19:27.520
+Duration: 1.800 seconds
+Text: And that would be vacated with the.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:19:27.520
+End: 00:19:30.240
+Duration: 2.720 seconds
+Text: So it is, but it's vacated also.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:19:30.240
+End: 00:19:31.240
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:19:31.240
+End: 00:19:32.560
+Duration: 1.320 seconds
+Text: So it's all right.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:19:32.560
+End: 00:19:33.560
+Duration: 1.000 seconds
+Text: Make it go away.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:19:33.560
+End: 00:19:34.560
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:19:34.560
+End: 00:19:35.560
+Duration: 1.000 seconds
+Text: Right.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:19:35.560
+End: 00:19:36.560
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:19:36.560
+End: 00:19:38.200
+Duration: 1.640 seconds
+Text: It's just one big open rectangle then.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:19:38.200
+End: 00:19:39.200
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:19:39.200
+End: 00:19:40.200
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:19:40.200
+End: 00:19:41.200
+Duration: 1.000 seconds
+Text: I appreciate it.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:19:41.200
+End: 00:19:42.200
+Duration: 1.000 seconds
+Text: There'll be a new plan.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:19:42.200
+End: 00:19:43.200
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:19:43.200
+End: 00:19:45.200
+Duration: 2.000 seconds
+Text: Coming forward through the zoning and blading process.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:19:45.200
+End: 00:19:46.200
+Duration: 1.000 seconds
+Text: And.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:19:46.200
+End: 00:20:01.760
+Duration: 15.560 seconds
+Text: I think those are the main questions.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:20:01.760
+End: 00:20:02.760
+Duration: 1.000 seconds
+Text: I think assuming.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:20:02.760
+End: 00:20:03.760
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:20:03.760
+End: 00:20:04.760
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:20:04.760
+End: 00:20:05.760
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:20:05.760
+End: 00:20:06.760
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:20:06.760
+End: 00:20:07.760
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:20:07.760
+End: 00:20:09.760
+Duration: 2.000 seconds
+Text: I can't think of any questions.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:20:09.760
+End: 00:20:10.760
+Duration: 1.000 seconds
+Text: Sorry.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:20:10.760
+End: 00:20:15.560
+Duration: 4.800 seconds
+Text: This is just important.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:20:15.560
+End: 00:20:19.360
+Duration: 3.800 seconds
+Text: And I wanted to have an explanation.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:20:19.360
+End: 00:20:20.360
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:20:20.360
+End: 00:20:45.840
+Duration: 25.480 seconds
+Text: Commissioner, you have no comments or you would have come forth.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:20:45.840
+End: 00:20:46.840
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:20:46.840
+End: 00:20:50.360
+Duration: 3.520 seconds
+Text: At this point, I would open the public comment period.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:20:50.360
+End: 00:20:59.400
+Duration: 9.040 seconds
+Text: If anyone wishes to speak in favor or against this project, if you would come forward.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:20:59.400
+End: 00:21:02.360
+Duration: 2.960 seconds
+Text: Saying no one, I will close the public comment period.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:21:02.360
+End: 00:21:03.760
+Duration: 1.400 seconds
+Text: It's a formality.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:21:03.760
+End: 00:21:05.760
+Duration: 2.000 seconds
+Text: We have to do it.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:21:05.760
+End: 00:21:12.040
+Duration: 6.280 seconds
+Text: And since the commission has no questions, is there a motion from the commission?
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:21:12.040
+End: 00:21:17.680
+Duration: 5.640 seconds
+Text: Can I make the motion that we approve first reading of an ordinance and Xing the MCM industrial
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:21:17.680
+End: 00:21:25.880
+Duration: 8.200 seconds
+Text: park of 50.489 acre site, generally located at the northeast corner of US 24 and XL road
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:21:25.880
+End: 00:21:28.840
+Duration: 2.960 seconds
+Text: in Potawatomi County into the city.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:21:28.840
+End: 00:21:29.840
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:21:29.840
+End: 00:21:30.840
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:21:30.840
+End: 00:21:33.640
+Duration: 2.800 seconds
+Text: We have a motion and a second Brenda.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:21:33.640
+End: 00:21:35.680
+Duration: 2.040 seconds
+Text: Both city clerk, would you call the roll?
+--------------------------------------------------
+City Clerk:
+Start: 00:21:35.680
+End: 00:21:37.480
+Duration: 1.800 seconds
+Text: Commissioner Butler.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:21:37.480
+End: 00:21:38.480
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:21:38.480
+End: 00:21:39.480
+Duration: 1.000 seconds
+Text: Mr. Mata.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:21:39.480
+End: 00:21:40.480
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:21:40.480
+End: 00:21:41.480
+Duration: 1.000 seconds
+Text: Mayor Morris.
+--------------------------------------------------
+City Clerk:
+Start: 00:21:41.920
+End: 00:21:42.920
+Duration: 1.000 seconds
+Text: Fisher Ready.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:21:42.920
+End: 00:21:43.920
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:21:43.920
+End: 00:21:44.920
+Duration: 1.000 seconds
+Text: Motion carries.
+--------------------------------------------------
+City Clerk:
+Start: 00:21:44.920
+End: 00:21:45.920
+Duration: 1.000 seconds
+Text: 4 to 0.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:21:45.920
+End: 00:21:46.920
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:21:46.920
+End: 00:21:47.920
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:21:47.920
+End: 00:21:50.400
+Duration: 2.480 seconds
+Text: And that's the agenda for this evening.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:21:50.400
+End: 00:21:52.960
+Duration: 2.560 seconds
+Text: It's nice and short.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:21:52.960
+End: 00:21:54.400
+Duration: 1.440 seconds
+Text: That's our record time.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:21:54.400
+End: 00:21:55.400
+Duration: 1.000 seconds
+Text: 22 minutes.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:21:55.400
+End: 00:21:56.400
+Duration: 1.000 seconds
+Text: We will.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:21:56.400
+End: 00:21:58.400
+Duration: 2.000 seconds
+Text: We will.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:21:58.400
+End: 00:22:03.880
+Duration: 5.480 seconds
+Text: I just want to tell you that there'll be, this topic will be on the agenda as we paste
+--------------------------------------------------
+Mayor Morris:
+Start: 00:22:03.880
+End: 00:22:07.360
+Duration: 3.480 seconds
+Text: through all of the steps that are required.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:22:07.360
+End: 00:22:10.920
+Duration: 3.560 seconds
+Text: So it won't conclude until September, probably.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:22:10.920
+End: 00:22:17.400
+Duration: 6.480 seconds
+Text: So I appreciate you checking our agenda each legislative meeting so that you can stay
+--------------------------------------------------
+Mayor Morris:
+Start: 00:22:17.400
+End: 00:22:20.240
+Duration: 2.840 seconds
+Text: more on top of it than you saw me be this evening.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:22:20.240
+End: 00:22:22.360
+Duration: 2.120 seconds
+Text: So thank you.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:22:22.360
+End: 00:22:24.480
+Duration: 2.120 seconds
+Text: With that is there a motion to adjourn?
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:22:24.480
+End: 00:22:25.920
+Duration: 1.440 seconds
+Text: I move we adjourn.
+--------------------------------------------------
+Commissioner Win Butler:
+Start: 00:22:25.920
+End: 00:22:26.920
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:22:26.920
+End: 00:22:27.920
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:22:27.920
+End: 00:22:30.640
+Duration: 2.720 seconds
+Text: We have a motion and a second to adjourn.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:22:30.640
+End: 00:22:32.280
+Duration: 1.640 seconds
+Text: City clerk, would you call the roll?
+--------------------------------------------------
+City Clerk:
+Start: 00:22:32.280
+End: 00:22:33.280
+Duration: 1.000 seconds
+Text: Commissioner Mata.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:33.280
+End: 00:22:34.280
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:22:34.280
+End: 00:22:35.280
+Duration: 1.000 seconds
+Text: Mayor Morris.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:35.280
+End: 00:22:36.280
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:36.280
+End: 00:22:37.280
+Duration: 1.000 seconds
+Text: Commissioner Ready.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:22:37.280
+End: 00:22:38.280
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:38.280
+End: 00:22:40.040
+Duration: 1.760 seconds
+Text: Motion carries.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:40.040
+End: 00:22:41.520
+Duration: 1.480 seconds
+Text: 4 to 0.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:22:41.520
+End: 00:22:42.520
+Duration: 1.000 seconds
+Text: Thank you all for coming.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:22:42.520
+End: 00:22:43.520
+Duration: 1.000 seconds
+Text: We're adjourned.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:22:43.520
+End: 00:22:44.520
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------

@@ -1,0 +1,3951 @@
+Transcription and Diarization for manhattan_ks_broadcast_dagdv1ktt9hfgvlos1dr_04⧸16⧸24 City Commission Meeting.mp4
+==================================================
+
+Mayor Wynn Butler:
+Start: 00:00:00.000
+End: 00:00:07.000
+Duration: 7.000 seconds
+Text: 6 p.m. so I call the Tuesday April 16th, 2024 City Commission meeting to order.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:00:07.000
+End: 00:00:12.000
+Duration: 5.000 seconds
+Text: City staff, can you please call the roll. Mayor Butler. Here?
+--------------------------------------------------
+City Manager:
+Start: 00:00:12.000
+End: 00:00:15.000
+Duration: 3.000 seconds
+Text: Commissioner Adam Jack here. Commissioner McCullough. Yes.
+--------------------------------------------------
+City Manager:
+Start: 00:00:15.000
+End: 00:00:17.000
+Duration: 2.000 seconds
+Text: Commissioner O'Pill. Present.
+--------------------------------------------------
+City Manager:
+Start: 00:00:17.000
+End: 00:00:21.000
+Duration: 4.000 seconds
+Text: Commissioner Mata. Here. Mayor, we have five commissioners present.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:00:21.000
+End: 00:00:27.000
+Duration: 6.000 seconds
+Text: The Cormoth 3 has been met. Okay, thank you. Please join me in the Pledge of Allegiance.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:00:27.000
+End: 00:00:33.000
+Duration: 6.000 seconds
+Text: Pledge of Allegiance to the flag of the United States of America and to the Republic,
+--------------------------------------------------
+City Manager:
+Start: 00:00:33.000
+End: 00:00:40.000
+Duration: 7.000 seconds
+Text: where it stands, one nation under God, indivisible, with liberty and justice for all.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:00:45.000
+End: 00:00:51.000
+Duration: 6.000 seconds
+Text: Okay, next item on the agenda is we have a couple of proclamations to do tonight.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:00:51.000
+End: 00:00:56.000
+Duration: 5.000 seconds
+Text: And we'll start off with, I think we got the Brittany, Nolan here in Susan.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:00:56.000
+End: 00:00:58.000
+Duration: 2.000 seconds
+Text: Do you want to come up? We'll do that.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:01:05.000
+End: 00:01:06.000
+Duration: 1.000 seconds
+Text: Assume no.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:01:11.000
+End: 00:01:12.000
+Duration: 1.000 seconds
+Text: Okay, you got the flowers. Good.
+--------------------------------------------------
+City Manager:
+Start: 00:01:12.000
+End: 00:01:14.000
+Duration: 2.000 seconds
+Text: Yeah, I got it.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:01:14.000
+End: 00:01:20.000
+Duration: 6.000 seconds
+Text: Okay, whereas Lieutenant John McCray wrote the poem in Flanders' Fields during World War I,
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:01:20.000
+End: 00:01:27.000
+Duration: 7.000 seconds
+Text: an anti-egg ruin of France, Mona, Michael of Georgia, worked hard to initiate the sale of artificial
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:01:27.000
+End: 00:01:33.000
+Duration: 6.000 seconds
+Text: poppies to help orphans and others left destitute by the war and enlisted the help of the American
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:01:33.000
+End: 00:01:41.000
+Duration: 8.000 seconds
+Text: Legion in 1920. And the veterans of foreign wars adopted the poppy as its official memorial flower in 1922.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:01:41.000
+End: 00:01:48.000
+Duration: 7.000 seconds
+Text: And America's land of freedom preserved and protected willingly and freely by citizen soldiers
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:01:48.000
+End: 00:01:55.000
+Duration: 7.000 seconds
+Text: and the millions who have answered the call to arms and those that have made the ultimate sacrifice on the field of battle.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:01:55.000
+End: 00:02:02.000
+Duration: 7.000 seconds
+Text: A nation at peace must be reminded of the price of war and the dead own to those who have died in war.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:02:02.000
+End: 00:02:10.000
+Duration: 8.000 seconds
+Text: The red poppy has been designated as the symbol of sacrifice of lies in all wars and the poppy itself continues to serve as a
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:02:10.000
+End: 00:02:15.000
+Duration: 5.000 seconds
+Text: perpetual tribute to those who have given their lies for the nation's freedom.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:02:15.000
+End: 00:02:23.000
+Duration: 8.000 seconds
+Text: And the American Legion auxiliary has pledged to remind America annually of this death through the distribution of the memorial flower.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:02:23.000
+End: 00:02:32.000
+Duration: 9.000 seconds
+Text: And donations for these official poppies have helped countless veterans and their widows, widowers and orphans over the years.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:02:32.000
+End: 00:02:40.000
+Duration: 8.000 seconds
+Text: Now therefore, I, Wynn Butler, mayor of the city of Manhattan, Kansas, to her by proclaim May 4, 2024, is poppy day.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:02:40.000
+End: 00:02:50.000
+Duration: 10.000 seconds
+Text: And as did all citizens pay tribute to those who have made the ultimate sacrifice in the name of freedom by wearing a memorial day poppy on this day.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:02:50.000
+End: 00:02:54.000
+Duration: 4.000 seconds
+Text: I will give you the documentation and you can say if you want.
+--------------------------------------------------
+City Manager:
+Start: 00:02:54.000
+End: 00:02:56.000
+Duration: 2.000 seconds
+Text: I am with you, Rick, and she does too.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:02:56.000
+End: 00:02:57.000
+Duration: 1.000 seconds
+Text: Excellent.
+--------------------------------------------------
+City Manager:
+Start: 00:02:57.000
+End: 00:02:58.000
+Duration: 1.000 seconds
+Text: We always do.
+--------------------------------------------------
+City Manager:
+Start: 00:02:58.000
+End: 00:03:01.000
+Duration: 3.000 seconds
+Text: Thank you, Mayor and City commissioners.
+--------------------------------------------------
+City Manager:
+Start: 00:03:01.000
+End: 00:03:13.000
+Duration: 12.000 seconds
+Text: My name is Susan Bergstin and I'm with the Manhattan American Legion Post 17 auxiliary and second by switch makes me chair of the poppy committee about five years in row.
+--------------------------------------------------
+City Manager:
+Start: 00:03:13.000
+End: 00:03:27.000
+Duration: 14.000 seconds
+Text: The American Legion auxiliary sponsors poppy day each year in May where volunteers of the American Legion pass out poppies at four different stores and ask if they will wear a poppy to honor all veterans.
+--------------------------------------------------
+City Manager:
+Start: 00:03:27.000
+End: 00:03:30.000
+Duration: 3.000 seconds
+Text: This year poppy day is Saturday May 4.
+--------------------------------------------------
+City Manager:
+Start: 00:03:30.000
+End: 00:03:35.000
+Duration: 5.000 seconds
+Text: At this time, I would like to introduce our 2024 poppy princess Brittany Nolan.
+--------------------------------------------------
+City Manager:
+Start: 00:03:35.000
+End: 00:03:42.000
+Duration: 7.000 seconds
+Text: She will give a brief overview of what the poppy represents and her qualifications to be poppy princesses year.
+--------------------------------------------------
+City Manager:
+Start: 00:03:42.000
+End: 00:03:47.000
+Duration: 5.000 seconds
+Text: She will all tell poppies to everyone.
+--------------------------------------------------
+City Manager:
+Start: 00:03:47.000
+End: 00:03:50.000
+Duration: 3.000 seconds
+Text: Hi, my name is Brittany Nolan.
+--------------------------------------------------
+City Manager:
+Start: 00:03:50.000
+End: 00:03:53.000
+Duration: 3.000 seconds
+Text: I am the daughter of Chris Nolan and Kristen Thompson.
+--------------------------------------------------
+City Manager:
+Start: 00:03:53.000
+End: 00:04:02.000
+Duration: 9.000 seconds
+Text: My grandfather Bill Nolan served 22 years in the Army and Army reserves in a firefire unit during the Bosnia, Kosovo, and Iraq War.
+--------------------------------------------------
+City Manager:
+Start: 00:04:02.000
+End: 00:04:11.000
+Duration: 9.000 seconds
+Text: He is a past commander of post 17 and he as well as my great grandfather Carrie Brisbane were life members of post 17.
+--------------------------------------------------
+City Manager:
+Start: 00:04:11.000
+End: 00:04:16.000
+Duration: 5.000 seconds
+Text: Currently, I am a member of the post 17 American Legion Junior auxiliary.
+--------------------------------------------------
+City Manager:
+Start: 00:04:16.000
+End: 00:04:22.000
+Duration: 6.000 seconds
+Text: Poppy flower is a symbol of remembrance from the first civil, what another person, the first world war.
+--------------------------------------------------
+City Manager:
+Start: 00:04:22.000
+End: 00:04:31.000
+Duration: 9.000 seconds
+Text: Poppies were a common sight in France along the western front and they flourished in the fields that were decimated from fighting and shelling.
+--------------------------------------------------
+City Manager:
+Start: 00:04:31.000
+End: 00:04:41.000
+Duration: 10.000 seconds
+Text: Many poems and stories have been written about the enduring beauty of the poppy with the most well-knowing being in Flanders field.
+--------------------------------------------------
+City Manager:
+Start: 00:04:41.000
+End: 00:04:49.000
+Duration: 8.000 seconds
+Text: The soldiers of all nations have come to look on the poppy as a symbol of the sacrifices that soldiers made in all wars,
+--------------------------------------------------
+City Manager:
+Start: 00:04:49.000
+End: 00:04:54.000
+Duration: 5.000 seconds
+Text: wearing a poppy signifies honoring the dead and helping the living.
+--------------------------------------------------
+City Manager:
+Start: 00:04:54.000
+End: 00:05:05.000
+Duration: 11.000 seconds
+Text: The poppies that I will be presenting to you this evening were made by veterans and our nation's veterans administration hospitals, specifically the VA facility in Topeka.
+--------------------------------------------------
+City Manager:
+Start: 00:05:05.000
+End: 00:05:11.000
+Duration: 6.000 seconds
+Text: Veterans Administration Healthcare Network serves roughly 12 million veterans per year.
+--------------------------------------------------
+City Manager:
+Start: 00:05:11.000
+End: 00:05:21.000
+Duration: 10.000 seconds
+Text: On Saturday, May 4th, poppy day volunteers from the post 17 American Legion family will be at several locations in Manhattan to hand out poppies to the public.
+--------------------------------------------------
+City Manager:
+Start: 00:05:21.000
+End: 00:05:26.000
+Duration: 5.000 seconds
+Text: There is no cost to accept a poppy but any donations are gratefully accepted.
+--------------------------------------------------
+City Manager:
+Start: 00:05:26.000
+End: 00:05:30.000
+Duration: 4.000 seconds
+Text: All donations are used to help veterans and their dependents.
+--------------------------------------------------
+City Manager:
+Start: 00:05:30.000
+End: 00:05:37.000
+Duration: 7.000 seconds
+Text: I would now like to hand out poppies and accept donations from many that are able to give.
+--------------------------------------------------
+City Manager:
+Start: 00:05:37.000
+End: 00:05:44.000
+Duration: 7.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Manager:
+Start: 00:05:44.000
+End: 00:05:55.000
+Duration: 11.000 seconds
+Text: The company is passing out poppies. I want to let you know that citizens can pick up a poppy between 9 and 1 at any of the following locations.
+--------------------------------------------------
+City Manager:
+Start: 00:05:55.000
+End: 00:06:00.000
+Duration: 5.000 seconds
+Text: We have Dillon's East and West, Hi-V and Walmart.
+--------------------------------------------------
+City Manager:
+Start: 00:06:00.000
+End: 00:06:07.000
+Duration: 7.000 seconds
+Text: We would like to give a special thanks to these businesses for allowing our volunteers to pass out poppies in front of their stores.
+--------------------------------------------------
+City Manager:
+Start: 00:06:07.000
+End: 00:06:14.000
+Duration: 7.000 seconds
+Text: Also a special thanks to our volunteers and to all of you for your continued support and have a good evening.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:06:14.000
+End: 00:06:25.000
+Duration: 11.000 seconds
+Text: Okay, Ron, you got a thing with us?
+--------------------------------------------------
+City Manager:
+Start: 00:06:25.000
+End: 00:06:32.000
+Duration: 7.000 seconds
+Text: So that's what's going on.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:06:32.000
+End: 00:06:39.000
+Duration: 7.000 seconds
+Text: Ron, you've been here a few years so they decided to do a proclamation for you.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:06:39.000
+End: 00:06:43.000
+Duration: 4.000 seconds
+Text: This is the first one I've ever read that's two pages.
+--------------------------------------------------
+City Manager:
+Start: 00:06:43.000
+End: 00:06:47.000
+Duration: 4.000 seconds
+Text: Because of the amount of time that I thought maybe we were a filibuster.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:06:47.000
+End: 00:06:50.000
+Duration: 3.000 seconds
+Text: Ron has been here.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:06:50.000
+End: 00:06:52.000
+Duration: 2.000 seconds
+Text: But here's the proclamation.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:06:52.000
+End: 00:07:01.000
+Duration: 9.000 seconds
+Text: Ron was raised in Harrington, Kansas, graduated from the University of Missouri with a batch of science and forestry on May 9th, 1981.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:07:01.000
+End: 00:07:08.000
+Duration: 7.000 seconds
+Text: And Kansas State University with a master's in public administration on December 5th, 1990.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:07:08.000
+End: 00:07:29.000
+Duration: 21.000 seconds
+Text: Ron began his career with the city of Manhattan on January 11th, 1982, in the newly formed Parks and Recreation Department as the four-street park supervisor was promoted to administrative assistant in 1985 and then promoted to assistant director of Parks and Rec from January 86 to 1992.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:07:29.000
+End: 00:07:51.000
+Duration: 22.000 seconds
+Text: And then he was promoted to assistant city manager on December 6th, 1992 and served in various capacities including his acting zoo director, acting director of human resources, acting director of utilities twice served as interim city manager from April 26th, 1995 to November 22nd, 1995.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:07:51.000
+End: 00:08:01.000
+Duration: 10.000 seconds
+Text: And again from December 24th, 1999 to April 18th, 2000 when he was appointed Manhattan's eighth city manager.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:08:01.000
+End: 00:08:20.000
+Duration: 19.000 seconds
+Text: Over the course of Ron's career, he has served as an ex officio member of the Manhattan area Chamber of Commerce Board of Directors, served on the local economic development boards and committees, served on the board of directors for innovative partners, served as a member of the board of directors for the knowledge-based economic development department.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:08:20.000
+End: 00:08:30.000
+Duration: 10.000 seconds
+Text: He served as past president and charter member of the Manhattan Conzo Rotary Club and was the 210 Rotarian of the Year.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:08:30.000
+End: 00:08:48.000
+Duration: 18.000 seconds
+Text: He served on the board of governors for the Fort Riley chapter of the Sochi-AQ9 States Army, was a former member and former chair of the board of directors for the Flint Hills Red Basket, partnered with Fort Riley and Kansas State University and served on the Manhattan area recovery task force during COVID-19.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:08:48.000
+End: 00:09:04.000
+Duration: 16.000 seconds
+Text: Ron's involvement as a founding representative of the Flint Hills Regional Leadership Program where he currently serves on the board of trustees was a 1995 graduate of the program, highlights his commitment to professional development and community engagement.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:09:04.000
+End: 00:09:18.000
+Duration: 14.000 seconds
+Text: On February 9th, 2024, Ron received the 2023 Blue Fisher Citizen of the Year Award at the Manhattan area Chamber of Commerce Annual Meeting and was a 1997 graduate of Leadership Kansas.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:09:18.000
+End: 00:09:33.000
+Duration: 15.000 seconds
+Text: Ron has been a member and served on the board of trustees for the Kansas Association of City County Management, a member of the National League of Cities, International City County Management Association, and a member of the Kansas Recreation and Park Association from 1999.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:09:33.000
+End: 00:09:47.000
+Duration: 14.000 seconds
+Text: In recognition of his outstanding contributions to public management, Ron was honored with the prestigious Buford W. Watson Junior Award for Excellence in Public Management in 2014.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:09:47.000
+End: 00:09:57.000
+Duration: 10.000 seconds
+Text: This award, the highest offered by the Kansas Association of City County Management, underscored his commitment to excellence and innovation in public service.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:09:57.000
+End: 00:10:12.000
+Duration: 15.000 seconds
+Text: Whereas Ron received Career Recognition Award at the KACM Annual Conference, this award is intended to recognize those professional local government managers and administrators who are retiring from the profession.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:10:12.000
+End: 00:10:26.000
+Duration: 14.000 seconds
+Text: During Ron's tenure as City Manager, several highlights include being part of the team and recruitment of the National Bio-Agrow Defense Facility Hembath, two Manhattan, an initial downsizing and then the New York City Council.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:10:26.000
+End: 00:10:52.000
+Duration: 26.000 seconds
+Text: The first one is the re-adizing and then re-growth of Fort Riley and return of the First Infantry Division, enhancement of air service, the expansion of the airport terminal, and reconstruction of the airport runway, development of the North-South End redevelopment and the Star-Bond Project, building of the Flint Hills Discovery Center, three recreation center, the Robert K. O. joint maintenance facility, and the Aggie Building Downtown Parking Garages.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:10:52.000
+End: 00:11:21.000
+Duration: 29.000 seconds
+Text: The significant infrastructure projects, including the North Campus Quarter, Expanded Parks, Replacement of Three City Pools, the leadership responding to flood issues and making improvements of the city's levy system, the adoption of the city's first strategic plan, the initiated the city commission and major orientation, and led the city through the 2011, 2013, 18, and 19 floods, Y2K and COVID-19.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:11:21.000
+End: 00:11:50.000
+Duration: 29.000 seconds
+Text: A city manager, Ron, is attended approximately 730 legislative commission meetings, 730 commission work sessions, 31 commission retreats, 305 intergovernmental lunches, 22 legislative breakfast, 122 joint city, Manhattan, Riley County, pot county meetings, numerous other joint meetings with community and regional partners, and worked with 31 commissioners, and the city's first and second meeting.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:11:50.000
+End: 00:12:05.000
+Duration: 15.000 seconds
+Text: The commissioners and 27 mayors since 1992. Now therefore, I win Butler, Mayor of the City of Manhattan, Kansas, to her by proclaim April 18, 2024 as Ron Pierre Day.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:12:05.000
+End: 00:12:19.000
+Duration: 14.000 seconds
+Text: In Manhattan, Kansas and recognition of the many achievements, and on behalf of the city commission, the city employees, and the citizens of Manhattan, and expressing our gratitude and appreciation for as many years of loyal and exemplary service to the city.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:12:19.000
+End: 00:12:25.000
+Duration: 6.000 seconds
+Text: I wish him continued success and happiness as he retires.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:12:25.000
+End: 00:12:29.000
+Duration: 4.000 seconds
+Text: It's my pleasure to do this 27th Mayor of the City of Manhattan.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:12:29.000
+End: 00:12:32.000
+Duration: 3.000 seconds
+Text: I'm going to give you this.
+--------------------------------------------------
+City Manager:
+Start: 00:12:32.000
+End: 00:12:42.000
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Manager:
+Start: 00:12:42.000
+End: 00:12:49.000
+Duration: 7.000 seconds
+Text: Well, that was an outshow.
+--------------------------------------------------
+City Manager:
+Start: 00:12:49.000
+End: 00:12:56.000
+Duration: 7.000 seconds
+Text: Well, thank you, Mayor Butler, and what a humbling experience.
+--------------------------------------------------
+City Manager:
+Start: 00:12:56.000
+End: 00:13:18.000
+Duration: 22.000 seconds
+Text: It's hard to believe how time flies, mostly when you're having fun, but I just appreciate the support and the work of the commissioners that Karen was on the commission when I got the permanent job.
+--------------------------------------------------
+City Manager:
+Start: 00:13:18.000
+End: 00:13:32.000
+Duration: 14.000 seconds
+Text: And so I just appreciate past and current commissioners that have entrusted me and our team to be able to lead and facilitate improvements in the community.
+--------------------------------------------------
+City Manager:
+Start: 00:13:32.000
+End: 00:13:38.000
+Duration: 6.000 seconds
+Text: And it's been a very humbling experience.
+--------------------------------------------------
+City Manager:
+Start: 00:13:38.000
+End: 00:13:51.000
+Duration: 13.000 seconds
+Text: Karen tracked down some past mayors and had a call yesterday with former Mayor Helen Cooper, who just turned 90 a little bit ago.
+--------------------------------------------------
+City Manager:
+Start: 00:13:51.000
+End: 00:13:54.000
+Duration: 3.000 seconds
+Text: She's still going strong. Sharpe is attacked.
+--------------------------------------------------
+City Manager:
+Start: 00:13:54.000
+End: 00:13:57.000
+Duration: 3.000 seconds
+Text: Goes to a personal trainer once a week.
+--------------------------------------------------
+City Manager:
+Start: 00:13:57.000
+End: 00:14:11.000
+Duration: 14.000 seconds
+Text: And so reminded me about she still thought that the blockbuster video poll sign was too big for that story.
+--------------------------------------------------
+City Manager:
+Start: 00:14:11.000
+End: 00:14:25.000
+Duration: 14.000 seconds
+Text: I'm not very her term on the commission, but you know, one of the things that's been so rewarding is just the opportunity to build relationships with everyone and all of those commissioners.
+--------------------------------------------------
+City Manager:
+Start: 00:14:25.000
+End: 00:14:37.000
+Duration: 12.000 seconds
+Text: So it's been a great opportunity and the support of my family, my wife Renee back there, my sister Cindy.
+--------------------------------------------------
+City Manager:
+Start: 00:14:37.000
+End: 00:14:42.000
+Duration: 5.000 seconds
+Text: And we just appreciate all that you've done for us.
+--------------------------------------------------
+City Manager:
+Start: 00:14:42.000
+End: 00:14:46.000
+Duration: 4.000 seconds
+Text: And we're ready to move into that next chapter in our journey.
+--------------------------------------------------
+City Manager:
+Start: 00:14:46.000
+End: 00:14:48.000
+Duration: 2.000 seconds
+Text: So thank you so much.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:14:48.000
+End: 00:14:55.000
+Duration: 7.000 seconds
+Text: Okay, now you get to go back to work.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:14:55.000
+End: 00:15:08.000
+Duration: 13.000 seconds
+Text: Okay, next item on the agenda is public comments and no one signed up in advance.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:15:08.000
+End: 00:15:17.000
+Duration: 9.000 seconds
+Text: If everyone wishes anyone wishes to come forward to make a public comment on any item not on the agenda tonight, you can feel free to do so.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:15:17.000
+End: 00:15:21.000
+Duration: 4.000 seconds
+Text: Please state your name and your full address and you have up to five minutes.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:15:21.000
+End: 00:15:26.000
+Duration: 5.000 seconds
+Text: Is there anyone that wishes to make public comment?
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:15:26.000
+End: 00:15:34.000
+Duration: 8.000 seconds
+Text: Okay, seeing none will close public comments and move on to the next item, which is Commissioner comments, Commissioner mother.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:15:34.000
+End: 00:15:39.000
+Duration: 5.000 seconds
+Text: Yes, I'd just like to give a shout out to Dr. Mark Hattasal.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:15:39.000
+End: 00:15:48.000
+Duration: 9.000 seconds
+Text: He's a chiropractor here in town and on Friday, he celebrated his 40 year anniversary in practice here in Manhattan.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:15:48.000
+End: 00:15:55.000
+Duration: 7.000 seconds
+Text: Mark's former two-time mayor on the commission for about 10 years over two different stints.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:15:55.000
+End: 00:16:05.000
+Duration: 10.000 seconds
+Text: He's been on many community boards, professional associations, boards, and it's now it's folks like Mark and their dedication to the community that make Manhattan a special place.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:16:05.000
+End: 00:16:08.000
+Duration: 3.000 seconds
+Text: So I just want to say thanks and congrats to Mark.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:16:08.000
+End: 00:16:13.000
+Duration: 5.000 seconds
+Text: Another shout out to our outgoing city manager, Ron Fair.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:16:13.000
+End: 00:16:20.000
+Duration: 7.000 seconds
+Text: This is kind of nice because I don't want to say a lot of things because when just we're at off two pages about all the great stuff that you've done.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:16:20.000
+End: 00:16:29.000
+Duration: 9.000 seconds
+Text: But I just want to say personally, I've enjoyed working with you over two kind of different stints on the city commission.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:16:29.000
+End: 00:16:40.000
+Duration: 11.000 seconds
+Text: Really want to thank you for your professional and personal dedication to the city and truly say Manhattan wouldn't be where it's at today if it wasn't for you.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:16:40.000
+End: 00:16:47.000
+Duration: 7.000 seconds
+Text: And just congratulations and have fun and retirement. Thanks, Ron.
+--------------------------------------------------
+City Manager:
+Start: 00:16:47.000
+End: 00:16:56.000
+Duration: 9.000 seconds
+Text: Yeah, so over the weekend, Susan Karen and I attended the Kansas League of Municipalities.
+--------------------------------------------------
+City Manager:
+Start: 00:16:56.000
+End: 00:17:00.000
+Duration: 4.000 seconds
+Text: Local leaders academy, I think is what is called.
+--------------------------------------------------
+City Manager:
+Start: 00:17:00.000
+End: 00:17:05.000
+Duration: 5.000 seconds
+Text: Had a lot of great information, some good breakout sessions and stuff like that.
+--------------------------------------------------
+City Manager:
+Start: 00:17:05.000
+End: 00:17:13.000
+Duration: 8.000 seconds
+Text: But one of the things I found most valuable was getting to chat with other leaders from communities around the state.
+--------------------------------------------------
+City Manager:
+Start: 00:17:13.000
+End: 00:17:18.000
+Duration: 5.000 seconds
+Text: Big and small and everybody has some of their own unique challenges.
+--------------------------------------------------
+City Manager:
+Start: 00:17:18.000
+End: 00:17:26.000
+Duration: 8.000 seconds
+Text: But I really kind of found it refreshing that there were so many people that had similar challenges that we're dealing with.
+--------------------------------------------------
+City Manager:
+Start: 00:17:26.000
+End: 00:17:29.000
+Duration: 3.000 seconds
+Text: You know, it kind of helped you feel like you're not alone.
+--------------------------------------------------
+City Manager:
+Start: 00:17:29.000
+End: 00:17:38.000
+Duration: 9.000 seconds
+Text: And then Ron, I haven't worked with you for a whole lot of time, but you really did make transitioning into this job very easy.
+--------------------------------------------------
+City Manager:
+Start: 00:17:38.000
+End: 00:17:43.000
+Duration: 5.000 seconds
+Text: I appreciate all the advice that you've given so far.
+--------------------------------------------------
+City Manager:
+Start: 00:17:43.000
+End: 00:17:49.000
+Duration: 6.000 seconds
+Text: You know, and hope you stick around because I'm sure there's going to be a lot more.
+--------------------------------------------------
+City Manager:
+Start: 00:17:49.000
+End: 00:17:55.000
+Duration: 6.000 seconds
+Text: You can give advice much more freely once you're retired.
+--------------------------------------------------
+City Manager:
+Start: 00:17:55.000
+End: 00:17:58.000
+Duration: 3.000 seconds
+Text: Thank you very much for all your service.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:17:58.000
+End: 00:18:04.000
+Duration: 6.000 seconds
+Text: I just wanted to say Friday night that Discovery Center had their annual awards and it was Dave Kendall.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:18:04.000
+End: 00:18:11.000
+Duration: 7.000 seconds
+Text: And he has a new, he's been, you may have seen him on Sunflower Journeys for 25 years on PBS.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:18:11.000
+End: 00:18:17.000
+Duration: 6.000 seconds
+Text: He has a new documentary out called Hot in the Heartlands, which talks about climate control.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:18:17.000
+End: 00:18:22.000
+Duration: 5.000 seconds
+Text: But his past one that I found really interesting is on the Santa Fe Trail.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:18:22.000
+End: 00:18:24.000
+Duration: 2.000 seconds
+Text: And it's really exceptional.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:18:24.000
+End: 00:18:28.000
+Duration: 4.000 seconds
+Text: The Hot in the Heartlands is going to be shown at K-State, not on a win.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:18:28.000
+End: 00:18:31.000
+Duration: 3.000 seconds
+Text: And I think also maybe at the wear-arm, but I'm not sure.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:18:31.000
+End: 00:18:36.000
+Duration: 5.000 seconds
+Text: And of course, I have to say goodbye, which is very hard.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:18:36.000
+End: 00:18:45.000
+Duration: 9.000 seconds
+Text: I would just say that when Ron came into the picture as manager, our present city manager had resigned,
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:18:45.000
+End: 00:18:56.000
+Duration: 11.000 seconds
+Text: which was quite a surprise to all of us in that we allowed an hour in our executive session to discuss the things we were not too happy about.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:18:56.000
+End: 00:18:59.000
+Duration: 3.000 seconds
+Text: And then one minute into it, he resigned.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:18:59.000
+End: 00:19:01.000
+Duration: 2.000 seconds
+Text: So we had 59 minutes of looking at each other.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:19:01.000
+End: 00:19:07.000
+Duration: 6.000 seconds
+Text: But Ron took the job and he did seamlessly and it's been a delight to work with him.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:19:07.000
+End: 00:19:13.000
+Duration: 6.000 seconds
+Text: We haven't always agreed, but we've always agreed to agree.
+--------------------------------------------------
+Commissioner Adam Jack:
+Start: 00:19:13.000
+End: 00:19:20.000
+Duration: 7.000 seconds
+Text: I would just echo Peter's comments that it was really a very interesting opportunity to attend the conference.
+--------------------------------------------------
+Commissioner Adam Jack:
+Start: 00:19:20.000
+End: 00:19:24.000
+Duration: 4.000 seconds
+Text: It was great having it here in Manhattan.
+--------------------------------------------------
+Commissioner Adam Jack:
+Start: 00:19:24.000
+End: 00:19:29.000
+Duration: 5.000 seconds
+Text: Mayor Butler gave the opening remarks welcoming people to our community.
+--------------------------------------------------
+Commissioner Adam Jack:
+Start: 00:19:29.000
+End: 00:19:46.000
+Duration: 17.000 seconds
+Text: And as Peter said, I know we haven't worked together for very long, but I appreciate you're visiting with me last summer while I was campaigning and the ease with which you have helped us to transition to this role.
+--------------------------------------------------
+Commissioner Adam Jack:
+Start: 00:19:46.000
+End: 00:19:53.000
+Duration: 7.000 seconds
+Text: So I wish you much good fortune and relaxation in your retirement.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:19:54.000
+End: 00:19:59.000
+Duration: 5.000 seconds
+Text: And I can echo that, Ron. I guess I've worked about 13 years. I've been here a while.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:19:59.000
+End: 00:20:07.000
+Duration: 8.000 seconds
+Text: So that's the only city manager of a work with us. It was going to be real challenge the next two years to get the replacement in there and see what basically happens.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:20:07.000
+End: 00:20:11.000
+Duration: 4.000 seconds
+Text: I want to highlight the fact that Monday is Go Green Match Day.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:20:11.000
+End: 00:20:20.000
+Duration: 9.000 seconds
+Text: So those of you out there that want to support that there's over probably 100 organizations that are there, feel free to get out your wallet and contribute a few dollars.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:20:20.000
+End: 00:20:26.000
+Duration: 6.000 seconds
+Text: And it doesn't have to be huge amounts. A lot of small amounts make a big difference to the greater Manhattan community foundation.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:20:26.000
+End: 00:20:38.000
+Duration: 12.000 seconds
+Text: So if you can donate $5, $10 to the organization of your choice, please do so because the foundation has been doing excellent work for the city.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:20:38.000
+End: 00:20:52.000
+Duration: 14.000 seconds
+Text: Okay, we'll move on to the next item, which is the consent agenda items on the consent agenda are those of a routine and housekeeping nature or those items that have previously been reviewed by the city commission.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:20:52.000
+End: 00:20:55.000
+Duration: 3.000 seconds
+Text: It may be approved in one motion.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:20:55.000
+End: 00:21:06.000
+Duration: 11.000 seconds
+Text: The commissioner may request an item be removed for separate discussion and consideration immediately following the consent agenda comments from the public related to any item on the consent agenda.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:21:06.000
+End: 00:21:14.000
+Duration: 8.000 seconds
+Text: To the city commission is allowed each person will be limited to one speaking opportunity for up to five minutes.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:21:14.000
+End: 00:21:19.000
+Duration: 5.000 seconds
+Text: So we'll start with commissioners. Do you have any items you want to pull off of here or make comments on?
+--------------------------------------------------
+City Manager:
+Start: 00:21:19.000
+End: 00:21:20.000
+Duration: 1.000 seconds
+Text: John.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:21:20.000
+End: 00:21:25.000
+Duration: 5.000 seconds
+Text: I'd like to look at G2.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:21:25.000
+End: 00:21:29.000
+Duration: 4.000 seconds
+Text: Okay, B2 claims registered. Do you want to pull that off of there?
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:21:29.000
+End: 00:21:31.000
+Duration: 2.000 seconds
+Text: No, I just want to ask a question about it.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:21:31.000
+End: 00:21:40.000
+Duration: 9.000 seconds
+Text: Okay, I just would like to know the fiscal note on the Douglas Recreation Center bonds that we're doing. How much is that?
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:21:40.000
+End: 00:21:43.000
+Duration: 3.000 seconds
+Text: Are they?
+--------------------------------------------------
+City Manager:
+Start: 00:21:43.000
+End: 00:21:52.000
+Duration: 9.000 seconds
+Text: Excuse me, I'll bring that up.
+--------------------------------------------------
+City Manager:
+Start: 00:21:52.000
+End: 00:22:00.000
+Duration: 8.000 seconds
+Text: They are commissioner four million seven hundred and forty thousand four million seven hundred and forty thousand seven hundred and forty thousand.
+--------------------------------------------------
+City Manager:
+Start: 00:22:00.000
+End: 00:22:07.000
+Duration: 7.000 seconds
+Text: The bond amount that we had just over five million in tip notes, which were moving off the ledger.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:22:07.000
+End: 00:22:09.000
+Duration: 2.000 seconds
+Text: The Douglas Center is the Douglas.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:22:09.000
+End: 00:22:11.000
+Duration: 2.000 seconds
+Text: Why is that much?
+--------------------------------------------------
+City Manager:
+Start: 00:22:11.000
+End: 00:22:13.000
+Duration: 2.000 seconds
+Text: Four million seven hundred and forty.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:22:13.000
+End: 00:22:15.000
+Duration: 2.000 seconds
+Text: Okay, thank you.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:22:15.000
+End: 00:22:20.000
+Duration: 5.000 seconds
+Text: The Douglas Center was not included in the sales tax initiative.
+--------------------------------------------------
+City Manager:
+Start: 00:22:20.000
+End: 00:22:21.000
+Duration: 1.000 seconds
+Text: Yeah, I know.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:22:21.000
+End: 00:22:24.000
+Duration: 3.000 seconds
+Text: We were going to try to fund it another way and it sort of fell through.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:22:24.000
+End: 00:22:33.000
+Duration: 9.000 seconds
+Text: I thought though the initial thing when we were trying to do the use the community development grant money was more like a million, not four million.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:22:33.000
+End: 00:22:44.000
+Duration: 11.000 seconds
+Text: It was it started off about three five as I remember and then what happened was we had mission creep the project group into a bigger building than what was originally designed.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:22:44.000
+End: 00:22:53.000
+Duration: 9.000 seconds
+Text: And part of that was driven by the rec centers because we had a walking track above those and the original Douglas Center didn't have an elevated one.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:22:53.000
+End: 00:22:57.000
+Duration: 4.000 seconds
+Text: And so they made some adjustments and this is what fell out.
+--------------------------------------------------
+City Manager:
+Start: 00:22:57.000
+End: 00:23:00.000
+Duration: 3.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:23:00.000
+End: 00:23:02.000
+Duration: 2.000 seconds
+Text: Okay, I don't have anything.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:23:02.000
+End: 00:23:08.000
+Duration: 6.000 seconds
+Text: Is there any public comment on any item on the consent agenda?
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:23:08.000
+End: 00:23:12.000
+Duration: 4.000 seconds
+Text: Okay, seeing none will close public comment.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:23:12.000
+End: 00:23:17.000
+Duration: 5.000 seconds
+Text: I guess we can entertain a motion.
+--------------------------------------------------
+Commissioner Adam Jack:
+Start: 00:23:17.000
+End: 00:23:20.000
+Duration: 3.000 seconds
+Text: I move to approve the consent agenda.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:23:20.000
+End: 00:23:22.000
+Duration: 2.000 seconds
+Text: Second.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:23:22.000
+End: 00:23:24.000
+Duration: 2.000 seconds
+Text: We have a motion in a second.
+--------------------------------------------------
+City Manager:
+Start: 00:23:24.000
+End: 00:23:26.000
+Duration: 2.000 seconds
+Text: City clerk, can you please call the roll?
+--------------------------------------------------
+Commissioner Adam Jack:
+Start: 00:23:26.000
+End: 00:23:27.000
+Duration: 1.000 seconds
+Text: Commissioner Adam check.
+--------------------------------------------------
+City Manager:
+Start: 00:23:27.000
+End: 00:23:28.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:23:28.000
+End: 00:23:29.000
+Duration: 1.000 seconds
+Text: Commissioner Colo.
+--------------------------------------------------
+City Manager:
+Start: 00:23:29.000
+End: 00:23:30.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 00:23:30.000
+End: 00:23:31.000
+Duration: 1.000 seconds
+Text: Commissioner O'Palt.
+--------------------------------------------------
+City Manager:
+Start: 00:23:31.000
+End: 00:23:32.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 00:23:32.000
+End: 00:23:33.000
+Duration: 1.000 seconds
+Text: Commissioner Mata.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:23:33.000
+End: 00:23:34.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 00:23:34.000
+End: 00:23:35.000
+Duration: 1.000 seconds
+Text: Mayor Butler.
+--------------------------------------------------
+City Manager:
+Start: 00:23:35.000
+End: 00:23:36.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:23:36.000
+End: 00:23:40.000
+Duration: 4.000 seconds
+Text: Okay, then we'll move on to the general agenda.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:23:40.000
+End: 00:23:48.000
+Duration: 8.000 seconds
+Text: And again, anyone in the public will have an opportunity to speak for up to five minutes on each item on the consent agenda.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:23:48.000
+End: 00:24:05.000
+Duration: 17.000 seconds
+Text: Item A is consider rezoning lots in Lee Mill Heights, Bellevue edition and grand champions development from RH high density residential district to RLA low density residential attached district.
+--------------------------------------------------
+City Manager:
+Start: 00:24:05.000
+End: 00:24:08.000
+Duration: 3.000 seconds
+Text: Good evening, commissioners.
+--------------------------------------------------
+City Manager:
+Start: 00:24:08.000
+End: 00:24:12.000
+Duration: 4.000 seconds
+Text: My name is Ben Schmiel senior planner in the community development.
+--------------------------------------------------
+City Manager:
+Start: 00:24:12.000
+End: 00:24:20.000
+Duration: 8.000 seconds
+Text: Like the mayor said, we're looking at consideration of rezoning of 42 single family lots from RH RLA.
+--------------------------------------------------
+City Manager:
+Start: 00:24:20.000
+End: 00:24:34.000
+Duration: 14.000 seconds
+Text: There are three areas that we're looking at for these rezoning's one in the Miller Parkway area and then two along the Grand Mirror Parkway area on the west side of town.
+--------------------------------------------------
+City Manager:
+Start: 00:24:34.000
+End: 00:24:44.000
+Duration: 10.000 seconds
+Text: More specifically, we're looking at 12 lots on Lesnar Circle and along Miller Parkway going again from RH RLA.
+--------------------------------------------------
+City Manager:
+Start: 00:24:44.000
+End: 00:24:57.000
+Duration: 13.000 seconds
+Text: And then 22 lots, 22 select lots along Belrieve Drive from RH RLA and eight lots on champion circle from RH to RLA.
+--------------------------------------------------
+City Manager:
+Start: 00:24:57.000
+End: 00:25:08.000
+Duration: 11.000 seconds
+Text: Those are all high density residential zone districts to load residential zoning districts with attached units as permitted use.
+--------------------------------------------------
+City Manager:
+Start: 00:25:08.000
+End: 00:25:11.000
+Duration: 3.000 seconds
+Text: This was reviewed by the planning board.
+--------------------------------------------------
+City Manager:
+Start: 00:25:11.000
+End: 00:25:18.000
+Duration: 7.000 seconds
+Text: They look at several criteria when it comes to rezoning's future land use map for this area is one of those.
+--------------------------------------------------
+City Manager:
+Start: 00:25:18.000
+End: 00:25:26.000
+Duration: 8.000 seconds
+Text: It shows various densities for these areas ranging from low to medium and then medium to high density residential.
+--------------------------------------------------
+City Manager:
+Start: 00:25:26.000
+End: 00:25:29.000
+Duration: 3.000 seconds
+Text: It's important to note this is not a change in character.
+--------------------------------------------------
+City Manager:
+Start: 00:25:29.000
+End: 00:25:42.000
+Duration: 13.000 seconds
+Text: This whole all of these lots being considered from four rezoning really stems from an issue that was discovered a few a couple of months ago.
+--------------------------------------------------
+City Manager:
+Start: 00:25:42.000
+End: 00:26:02.000
+Duration: 20.000 seconds
+Text: When the MDC was first adopted in 2022, the RH district, which was then the R3 district eliminated single family homes as permitted use in order to increase the density for those zoning districts as they are designed to.
+--------------------------------------------------
+City Manager:
+Start: 00:26:02.000
+End: 00:26:19.000
+Duration: 17.000 seconds
+Text: These areas were discovered to have been developed as only single family homes meaning that they were essentially rendered nonconforming, which can create issues for those single family homeowners that they are looking to do any renovation work.
+--------------------------------------------------
+City Manager:
+Start: 00:26:19.000
+End: 00:26:29.000
+Duration: 10.000 seconds
+Text: And most drastically if their home is damaged or destroyed beyond 50% in some sort of catastrophe, they could not rebuild their home as it is today.
+--------------------------------------------------
+City Manager:
+Start: 00:26:29.000
+End: 00:26:36.000
+Duration: 7.000 seconds
+Text: So that was seen as problematic and to fix that issue, this rezoning is being proposed.
+--------------------------------------------------
+City Manager:
+Start: 00:26:36.000
+End: 00:26:41.000
+Duration: 5.000 seconds
+Text: This was again reviewed by the planning board at their March 28, 2024 meeting.
+--------------------------------------------------
+City Manager:
+Start: 00:26:41.000
+End: 00:26:52.000
+Duration: 11.000 seconds
+Text: They recommended approval 7 to 0 and I will sand for any questions from the commission.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:26:52.000
+End: 00:27:03.000
+Duration: 11.000 seconds
+Text: Seems to make sense to me, you know, basically we're recognizing what what currently exists and taking care of some possible legal issues later like you said, the storm comes up or something like that.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:27:03.000
+End: 00:27:06.000
+Duration: 3.000 seconds
+Text: So makes all the sense in the world.
+--------------------------------------------------
+City Manager:
+Start: 00:27:06.000
+End: 00:27:15.000
+Duration: 9.000 seconds
+Text: I just want to be clear RL RLA that we're going to still would allow for like a town home or something like that to be built in those lots.
+--------------------------------------------------
+City Manager:
+Start: 00:27:15.000
+End: 00:27:20.000
+Duration: 5.000 seconds
+Text: If you know in the future or something were to ever be redeveloped or something like that.
+--------------------------------------------------
+City Manager:
+Start: 00:27:20.000
+End: 00:27:33.000
+Duration: 13.000 seconds
+Text: Correct. It would still allow some amount of additional density beyond single family, which is again more in line with the future land use map of those areas.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:27:33.000
+End: 00:27:37.000
+Duration: 4.000 seconds
+Text: Okay, if there's no other commissioner comments, we'll open it up to public comment.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:27:37.000
+End: 00:27:42.000
+Duration: 5.000 seconds
+Text: Is there anyone the public that wishes to speak on this matter?
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:27:42.000
+End: 00:27:46.000
+Duration: 4.000 seconds
+Text: Okay, seeing none, we'll close public comment.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:27:46.000
+End: 00:27:55.000
+Duration: 9.000 seconds
+Text: Commissioners, any other comments or we can entertain a motion?
+--------------------------------------------------
+City Manager:
+Start: 00:27:55.000
+End: 00:28:08.000
+Duration: 13.000 seconds
+Text: Yeah, I'll move to approve first reading of an ordinance rezoning 42 lots within Lemail Heights, Bell, Bellerville edition and grand champions development subdivisions from our
+--------------------------------------------------
+City Manager:
+Start: 00:28:08.000
+End: 00:28:18.000
+Duration: 10.000 seconds
+Text: high density residential district to RLA low density residential attached district based on findings in the staff report and recommendation by the Manhattan Urban Area Planning Board.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:28:18.000
+End: 00:28:23.000
+Duration: 5.000 seconds
+Text: Second, okay, we have a motion in a second city clerk. Could you please call the roll?
+--------------------------------------------------
+City Manager:
+Start: 00:28:23.000
+End: 00:28:25.000
+Duration: 2.000 seconds
+Text: Commissioner Raquella. Yes.
+--------------------------------------------------
+City Manager:
+Start: 00:28:25.000
+End: 00:28:27.000
+Duration: 2.000 seconds
+Text: Commissioner Opell. Yes.
+--------------------------------------------------
+City Manager:
+Start: 00:28:27.000
+End: 00:28:30.000
+Duration: 3.000 seconds
+Text: Commissioner Mata. Yes. Mayor Butler. Yes.
+--------------------------------------------------
+City Manager:
+Start: 00:28:30.000
+End: 00:28:35.000
+Duration: 5.000 seconds
+Text: Commissioner Adam check. Yes. Motion carries 5 to 0.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:28:35.000
+End: 00:28:45.000
+Duration: 10.000 seconds
+Text: Okay, then we'll move on to item B, which is considered candidate profile for recruitment of the city manager.
+--------------------------------------------------
+City Manager:
+Start: 00:28:45.000
+End: 00:28:53.000
+Duration: 8.000 seconds
+Text: Good evening commissioners. We're joined by Lynn Barbosa from SGR online just to walk through the profile.
+--------------------------------------------------
+City Manager:
+Start: 00:28:53.000
+End: 00:28:59.000
+Duration: 6.000 seconds
+Text: This was shared with you Friday afternoon after conducting all of the stakeholder interviews.
+--------------------------------------------------
+City Manager:
+Start: 00:28:59.000
+End: 00:29:04.000
+Duration: 5.000 seconds
+Text: Lynn's ready to share what SGR has put together.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:29:04.000
+End: 00:29:06.000
+Duration: 2.000 seconds
+Text: Okay, welcome Lynn.
+--------------------------------------------------
+City Manager:
+Start: 00:29:06.000
+End: 00:29:09.000
+Duration: 3.000 seconds
+Text: Thank you, good evening mayor commissioners.
+--------------------------------------------------
+City Manager:
+Start: 00:29:09.000
+End: 00:29:14.000
+Duration: 5.000 seconds
+Text: As Tani mentioned, the position profile.
+--------------------------------------------------
+City Manager:
+Start: 00:29:14.000
+End: 00:29:38.000
+Duration: 24.000 seconds
+Text: The context is what I created based on approximately 35 stakeholder interviews that includes elected officials, department heads, city management staff, community partners, and that community partners were based on the list provided by the city that included four people from the chamber, two people from K state,
+--------------------------------------------------
+City Manager:
+Start: 00:29:38.000
+End: 00:29:49.680
+Duration: 11.680 seconds
+Text: Technical college K through 12, so a variety of stakeholders throughout the community.
+--------------------------------------------------
+City Manager:
+Start: 00:29:49.680
+End: 00:29:56.240
+Duration: 6.560 seconds
+Text: The purpose of the position profile, as I think we've talked about at least briefly
+--------------------------------------------------
+City Manager:
+Start: 00:29:56.240
+End: 00:30:00.880
+Duration: 4.640 seconds
+Text: up to this point, is not only for marketing and outreach, but really importantly for
+--------------------------------------------------
+City Manager:
+Start: 00:30:00.880
+End: 00:30:03.400
+Duration: 2.520 seconds
+Text: the evaluation of candidates.
+--------------------------------------------------
+City Manager:
+Start: 00:30:03.400
+End: 00:30:12.000
+Duration: 8.600 seconds
+Text: As I start sourcing and speaking to prospective candidates and referral sources, so this is
+--------------------------------------------------
+City Manager:
+Start: 00:30:12.000
+End: 00:30:18.760
+Duration: 6.760 seconds
+Text: sort of the art and science of recruiting where each city management searches different
+--------------------------------------------------
+City Manager:
+Start: 00:30:18.760
+End: 00:30:24.840
+Duration: 6.080 seconds
+Text: and very much unique and specific to the community and what the current and future needs are.
+--------------------------------------------------
+City Manager:
+Start: 00:30:24.840
+End: 00:30:32.080
+Duration: 7.240 seconds
+Text: And so that's the intent of the position profile that you would have had, hopefully, an opportunity
+--------------------------------------------------
+City Manager:
+Start: 00:30:32.080
+End: 00:30:39.760
+Duration: 7.680 seconds
+Text: to review and it's broken out down into these different sections that cover the community,
+--------------------------------------------------
+City Manager:
+Start: 00:30:39.760
+End: 00:30:47.160
+Duration: 7.400 seconds
+Text: the position, the department, the organization, the position priorities and the ideal candidate
+--------------------------------------------------
+City Manager:
+Start: 00:30:47.160
+End: 00:30:49.680
+Duration: 2.520 seconds
+Text: characteristics.
+--------------------------------------------------
+City Manager:
+Start: 00:30:49.680
+End: 00:30:57.320
+Duration: 7.640 seconds
+Text: So let me stop there and kind of see if you did have an opportunity to review and if there
+--------------------------------------------------
+City Manager:
+Start: 00:30:57.320
+End: 00:31:03.320
+Duration: 6.000 seconds
+Text: were any particular items that stood out or questions that came to mind that I can answer
+--------------------------------------------------
+City Manager:
+Start: 00:31:03.320
+End: 00:31:04.920
+Duration: 1.600 seconds
+Text: for you.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:31:04.920
+End: 00:31:08.440
+Duration: 3.520 seconds
+Text: Yes, I reviewed it.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:31:08.440
+End: 00:31:20.040
+Duration: 11.600 seconds
+Text: I did have one thing that I kind of would like to challenge or say that I think we should
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:31:20.040
+End: 00:31:21.040
+Duration: 1.000 seconds
+Text: change.
+--------------------------------------------------
+City Manager:
+Start: 00:31:21.040
+End: 00:31:22.040
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Manager:
+Start: 00:31:22.040
+End: 00:31:23.040
+Duration: 1.000 seconds
+Text: Does that Commissioner Mata?
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:31:23.040
+End: 00:31:24.040
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 00:31:24.040
+End: 00:31:27.560
+Duration: 3.520 seconds
+Text: Okay, because my screen only shows the what's up on the overhead.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:31:27.560
+End: 00:31:28.560
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:31:28.560
+End: 00:31:29.560
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:31:29.560
+End: 00:31:31.560
+Duration: 2.000 seconds
+Text: It's on page seven.
+--------------------------------------------------
+City Manager:
+Start: 00:31:31.560
+End: 00:31:32.560
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Manager:
+Start: 00:31:32.560
+End: 00:31:36.800
+Duration: 4.240 seconds
+Text: I'm there.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:31:36.800
+End: 00:31:40.800
+Duration: 4.000 seconds
+Text: Under the first bullet point, financial transparency.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:31:40.800
+End: 00:31:43.800
+Duration: 3.000 seconds
+Text: It's the one to third sentence.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:31:43.800
+End: 00:31:44.800
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:31:44.800
+End: 00:31:50.400
+Duration: 5.600 seconds
+Text: After the first apostrophe, it says evaluate and the possibility of reducing expenses through
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:31:50.400
+End: 00:31:52.400
+Duration: 2.000 seconds
+Text: efficiencies.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:31:52.400
+End: 00:31:59.480
+Duration: 7.080 seconds
+Text: I just think that's a rather passive or weak way to state what we're after there.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:31:59.480
+End: 00:32:00.480
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:32:00.480
+End: 00:32:07.720
+Duration: 7.240 seconds
+Text: I'd rather a simple change is just to say something like drive expense reductions through
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:32:07.720
+End: 00:32:08.720
+Duration: 1.000 seconds
+Text: efficiencies.
+--------------------------------------------------
+City Manager:
+Start: 00:32:08.720
+End: 00:32:12.720
+Duration: 4.000 seconds
+Text: Okay, got it.
+--------------------------------------------------
+City Manager:
+Start: 00:32:12.720
+End: 00:32:13.720
+Duration: 1.000 seconds
+Text: Right.
+--------------------------------------------------
+City Manager:
+Start: 00:32:13.720
+End: 00:32:18.720
+Duration: 5.000 seconds
+Text: Yes, a little more empathic and clear about it.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:32:18.720
+End: 00:32:19.720
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Manager:
+Start: 00:32:19.720
+End: 00:32:20.720
+Duration: 1.000 seconds
+Text: Thanks.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:32:20.720
+End: 00:32:21.720
+Duration: 1.000 seconds
+Text: Good suggestion, John.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:32:21.720
+End: 00:32:23.720
+Duration: 2.000 seconds
+Text: I can cover with that.
+--------------------------------------------------
+City Manager:
+Start: 00:32:23.720
+End: 00:32:24.720
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:32:24.720
+End: 00:32:31.720
+Duration: 7.000 seconds
+Text: All the commissioners happy with that change?
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:32:31.720
+End: 00:32:32.720
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Manager:
+Start: 00:32:32.720
+End: 00:32:33.720
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:32:33.720
+End: 00:32:35.720
+Duration: 2.000 seconds
+Text: We've got consensus on that.
+--------------------------------------------------
+City Manager:
+Start: 00:32:35.720
+End: 00:32:36.720
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Manager:
+Start: 00:32:36.720
+End: 00:32:37.720
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Manager:
+Start: 00:32:37.720
+End: 00:32:38.720
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:32:38.720
+End: 00:32:45.840
+Duration: 7.120 seconds
+Text: The only thing I had was when you discussed the board and how they're elected and it said
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:32:45.840
+End: 00:32:47.880
+Duration: 2.040 seconds
+Text: we elected three people.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:32:47.880
+End: 00:32:49.200
+Duration: 1.320 seconds
+Text: This year was kind of unusual.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:32:49.200
+End: 00:32:51.800
+Duration: 2.600 seconds
+Text: I don't know if you want to.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:32:51.800
+End: 00:32:56.200
+Duration: 4.400 seconds
+Text: That's like on the second page, maybe.
+--------------------------------------------------
+City Manager:
+Start: 00:32:56.200
+End: 00:33:00.280
+Duration: 4.080 seconds
+Text: Yeah, I kind of noticed that.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:33:00.280
+End: 00:33:04.280
+Duration: 4.000 seconds
+Text: I don't know if it says three of the five current were elected in.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:33:04.280
+End: 00:33:13.280
+Duration: 9.000 seconds
+Text: It's because we had a failed vacancy, we had four of the five current commissioners
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:33:13.280
+End: 00:33:15.520
+Duration: 2.240 seconds
+Text: were elected in 2020.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:33:15.520
+End: 00:33:21.520
+Duration: 6.000 seconds
+Text: And I don't know if that just makes it too confusing or it's not a big deal.
+--------------------------------------------------
+City Manager:
+Start: 00:33:21.520
+End: 00:33:22.520
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Manager:
+Start: 00:33:22.520
+End: 00:33:24.360
+Duration: 1.840 seconds
+Text: So commissioner McCullough, let me make sure I understand.
+--------------------------------------------------
+City Manager:
+Start: 00:33:24.360
+End: 00:33:30.520
+Duration: 6.160 seconds
+Text: So this is last paragraph, last sentence and paragraph two on page four inside city hall.
+--------------------------------------------------
+City Manager:
+Start: 00:33:30.520
+End: 00:33:37.360
+Duration: 6.840 seconds
+Text: Three of the five current city commissioners were elected in November 2023 and you and your
+--------------------------------------------------
+City Manager:
+Start: 00:33:37.360
+End: 00:33:41.600
+Duration: 4.240 seconds
+Text: feedback on that was that this was a unique year and it might.
+--------------------------------------------------
+City Manager:
+Start: 00:33:41.600
+End: 00:33:43.600
+Duration: 2.000 seconds
+Text: My turn to can use.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:33:43.600
+End: 00:33:49.560
+Duration: 5.960 seconds
+Text: Yeah, four elected in 2023 because we were feeling a vacancy, which is very unusual.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:33:49.560
+End: 00:33:51.560
+Duration: 2.000 seconds
+Text: Oh, God.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:33:51.560
+End: 00:33:57.640
+Duration: 6.080 seconds
+Text: And so it's sort of, you know, it's really just not that important that we're four, but
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:33:57.640
+End: 00:34:01.640
+Duration: 4.000 seconds
+Text: on the other hand, there were four instead of three.
+--------------------------------------------------
+City Manager:
+Start: 00:34:01.640
+End: 00:34:02.640
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 00:34:02.640
+End: 00:34:03.640
+Duration: 1.000 seconds
+Text: I wanted to be accurate.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:34:03.640
+End: 00:34:09.400
+Duration: 5.760 seconds
+Text: So I don't know how you would, you know, maybe you could just say generally three are elected
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:34:09.400
+End: 00:34:14.760
+Duration: 5.360 seconds
+Text: every year, but because of a vacancy, four were elected in November 2023.
+--------------------------------------------------
+City Manager:
+Start: 00:34:14.760
+End: 00:34:15.760
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:34:15.760
+End: 00:34:20.800
+Duration: 5.040 seconds
+Text: It's not, you know, it's really not important, but it's just a, or you could just eliminate
+--------------------------------------------------
+City Manager:
+Start: 00:34:20.800
+End: 00:34:24.800
+Duration: 4.000 seconds
+Text: the entire sentence either way, either either way.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:34:24.800
+End: 00:34:27.200
+Duration: 2.400 seconds
+Text: And that would be fine too.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:34:27.200
+End: 00:34:28.200
+Duration: 1.000 seconds
+Text: That'd be fine too.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:34:28.200
+End: 00:34:32.560
+Duration: 4.360 seconds
+Text: It makes the paragraph, you know, just to explain how we generally get elected and doesn't
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:34:32.560
+End: 00:34:33.560
+Duration: 1.000 seconds
+Text: confuse it.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:34:33.560
+End: 00:34:35.680
+Duration: 2.120 seconds
+Text: So I'd recommend that just, just strike it.
+--------------------------------------------------
+City Manager:
+Start: 00:34:35.680
+End: 00:34:36.680
+Duration: 1.000 seconds
+Text: Sure.
+--------------------------------------------------
+City Manager:
+Start: 00:34:36.680
+End: 00:34:37.680
+Duration: 1.000 seconds
+Text: Just remove that.
+--------------------------------------------------
+City Manager:
+Start: 00:34:37.800
+End: 00:34:42.600
+Duration: 4.800 seconds
+Text: Sometimes I include it just because they want to know, you know, what, you know, what
+--------------------------------------------------
+City Manager:
+Start: 00:34:42.600
+End: 00:34:43.880
+Duration: 1.280 seconds
+Text: recent changes were made right.
+--------------------------------------------------
+City Manager:
+Start: 00:34:43.880
+End: 00:34:46.080
+Duration: 2.200 seconds
+Text: What do you have some new commissioners or not?
+--------------------------------------------------
+City Manager:
+Start: 00:34:46.080
+End: 00:34:49.160
+Duration: 3.080 seconds
+Text: But that's something I can convert, you know, I can talk to them about.
+--------------------------------------------------
+City Manager:
+Start: 00:34:49.160
+End: 00:34:54.720
+Duration: 5.560 seconds
+Text: So let's just, as Mayor suggests, I will remove that if everyone's in agreement on that.
+--------------------------------------------------
+City Manager:
+Start: 00:34:54.720
+End: 00:34:55.720
+Duration: 1.000 seconds
+Text: Sure.
+--------------------------------------------------
+City Manager:
+Start: 00:34:55.720
+End: 00:34:56.720
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Adam Jack:
+Start: 00:34:56.720
+End: 00:34:57.720
+Duration: 1.000 seconds
+Text: And lead it.
+--------------------------------------------------
+Commissioner Adam Jack:
+Start: 00:34:57.720
+End: 00:35:01.760
+Duration: 4.040 seconds
+Text: Lynn, I have just an editorial comment on the second sentence.
+--------------------------------------------------
+City Manager:
+Start: 00:35:01.760
+End: 00:35:02.760
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Adam Jack:
+Start: 00:35:03.160
+End: 00:35:13.160
+Duration: 10.000 seconds
+Text: I know use of the word comprise is going through modernization, but generally it's the governing
+--------------------------------------------------
+Commissioner Adam Jack:
+Start: 00:35:13.160
+End: 00:35:18.720
+Duration: 5.560 seconds
+Text: and legislative body as a city commission comprising five commissioners.
+--------------------------------------------------
+City Manager:
+Start: 00:35:18.720
+End: 00:35:19.720
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Manager:
+Start: 00:35:19.720
+End: 00:35:20.720
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+City Manager:
+Start: 00:35:20.720
+End: 00:35:21.720
+Duration: 1.000 seconds
+Text: Absolutely.
+--------------------------------------------------
+City Manager:
+Start: 00:35:21.720
+End: 00:35:29.680
+Duration: 7.960 seconds
+Text: I'm not completely, I'll clean that up in that second sentence in the first paragraph.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:35:29.680
+End: 00:35:35.200
+Duration: 5.520 seconds
+Text: I don't know if this is really big or not, but we're kind of going through things on
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:35:35.200
+End: 00:35:36.200
+Duration: 1.000 seconds
+Text: the second page.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:35:36.200
+End: 00:35:42.040
+Duration: 5.840 seconds
+Text: It's talking about the different areas and it's got downtown Manhattan, the town, sir,
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:35:42.040
+End: 00:35:47.520
+Duration: 5.480 seconds
+Text: mall and West Slope and refers to the mall on the eastern end of town.
+--------------------------------------------------
+City Manager:
+Start: 00:35:47.520
+End: 00:35:48.520
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Manager:
+Start: 00:35:48.520
+End: 00:35:50.640
+Duration: 2.120 seconds
+Text: Commissioner, model, which page again?
+--------------------------------------------------
+City Manager:
+Start: 00:35:50.640
+End: 00:35:52.440
+Duration: 1.800 seconds
+Text: I was just finishing up my other comment.
+--------------------------------------------------
+City Manager:
+Start: 00:35:52.440
+End: 00:35:54.600
+Duration: 2.160 seconds
+Text: This is on page.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:35:54.600
+End: 00:36:00.320
+Duration: 5.720 seconds
+Text: That's loops on the west side.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:36:00.320
+End: 00:36:09.800
+Duration: 9.480 seconds
+Text: It's on the second paragraph and it's in on the start on the fourth line, second page
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:36:09.800
+End: 00:36:14.760
+Duration: 4.960 seconds
+Text: says downtown Manhattan, the Manhattan Town Center mall and West Slope Business Association
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:36:14.760
+End: 00:36:20.120
+Duration: 5.360 seconds
+Text: are anchors for shopping art, find out and entertainment on the eastern end of town.
+--------------------------------------------------
+City Manager:
+Start: 00:36:20.120
+End: 00:36:23.320
+Duration: 3.200 seconds
+Text: Oh, I'm so sorry.
+--------------------------------------------------
+City Manager:
+Start: 00:36:23.320
+End: 00:36:24.320
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Adam Jack:
+Start: 00:36:24.320
+End: 00:36:37.280
+Duration: 12.960 seconds
+Text: Lynn, you could say on either side of town or just changes or just our anchors for shopping,
+--------------------------------------------------
+Commissioner Adam Jack:
+Start: 00:36:37.280
+End: 00:36:39.600
+Duration: 2.320 seconds
+Text: find dining, et cetera.
+--------------------------------------------------
+City Manager:
+Start: 00:36:39.600
+End: 00:36:41.080
+Duration: 1.480 seconds
+Text: And just stop there maybe.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:36:41.080
+End: 00:36:42.080
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+City Manager:
+Start: 00:36:42.080
+End: 00:36:43.080
+Duration: 1.000 seconds
+Text: That would be it.
+--------------------------------------------------
+City Manager:
+Start: 00:36:43.080
+End: 00:36:44.080
+Duration: 1.000 seconds
+Text: Let's take that off.
+--------------------------------------------------
+City Manager:
+Start: 00:36:44.080
+End: 00:36:45.080
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Manager:
+Start: 00:36:45.080
+End: 00:36:51.640
+Duration: 6.560 seconds
+Text: I think I added West Slope late and that and then didn't change that last reference.
+--------------------------------------------------
+City Manager:
+Start: 00:36:51.640
+End: 00:36:52.640
+Duration: 1.000 seconds
+Text: And I apologize.
+--------------------------------------------------
+City Manager:
+Start: 00:36:52.640
+End: 00:36:53.640
+Duration: 1.000 seconds
+Text: I'll remove that.
+--------------------------------------------------
+City Manager:
+Start: 00:36:53.640
+End: 00:36:54.640
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Adam Jack:
+Start: 00:36:54.640
+End: 00:37:02.840
+Duration: 8.200 seconds
+Text: Where is the second splash?
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:37:02.840
+End: 00:37:07.880
+Duration: 5.040 seconds
+Text: So we're going to just eliminate on that last, just put a period after, we called all the
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:37:07.880
+End: 00:37:09.480
+Duration: 1.600 seconds
+Text: pools splash parks.
+--------------------------------------------------
+Commissioner Adam Jack:
+Start: 00:37:09.480
+End: 00:37:14.840
+Duration: 5.360 seconds
+Text: Well, this is three water parks and two splash places.
+--------------------------------------------------
+City Manager:
+Start: 00:37:14.840
+End: 00:37:17.840
+Duration: 3.000 seconds
+Text: There's one at Blue Earth Plaza and one at City Park.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:37:17.840
+End: 00:37:19.360
+Duration: 1.520 seconds
+Text: Yeah, those are correct.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:37:19.360
+End: 00:37:20.360
+Duration: 1.000 seconds
+Text: I had to think about that.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:37:20.360
+End: 00:37:26.360
+Duration: 6.000 seconds
+Text: There's one in Blue Earth Plaza.
+--------------------------------------------------
+Commissioner Adam Jack:
+Start: 00:37:26.360
+End: 00:37:36.080
+Duration: 9.720 seconds
+Text: Lynn, I was a little bit, I had to read the sentence a couple of times the last sentence
+--------------------------------------------------
+Commissioner Adam Jack:
+Start: 00:37:36.080
+End: 00:37:39.480
+Duration: 3.400 seconds
+Text: in that paragraph.
+--------------------------------------------------
+Commissioner Adam Jack:
+Start: 00:37:39.480
+End: 00:37:42.320
+Duration: 2.840 seconds
+Text: The Museum of Art and Light.
+--------------------------------------------------
+Commissioner Adam Jack:
+Start: 00:37:42.320
+End: 00:37:48.920
+Duration: 6.600 seconds
+Text: And I don't know, does it need to say modeled on the Italian de Lumiere?
+--------------------------------------------------
+City Manager:
+Start: 00:37:48.920
+End: 00:37:49.920
+Duration: 1.000 seconds
+Text: I don't like that sentence.
+--------------------------------------------------
+City Manager:
+Start: 00:37:49.920
+End: 00:37:50.920
+Duration: 1.000 seconds
+Text: I mean, I agree with you.
+--------------------------------------------------
+Commissioner Adam Jack:
+Start: 00:37:50.920
+End: 00:37:55.120
+Duration: 4.200 seconds
+Text: So, just take that part out.
+--------------------------------------------------
+Commissioner Adam Jack:
+Start: 00:37:55.120
+End: 00:37:56.120
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Adam Jack:
+Start: 00:37:56.120
+End: 00:38:00.720
+Duration: 4.600 seconds
+Text: Again, just say it's under construction and scheduled to open.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:38:00.720
+End: 00:38:07.720
+Duration: 7.000 seconds
+Text: You're there to be simplistic rather than tie it to Paris.
+--------------------------------------------------
+City Manager:
+Start: 00:38:07.720
+End: 00:38:08.720
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+City Manager:
+Start: 00:38:08.720
+End: 00:38:09.720
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Manager:
+Start: 00:38:09.720
+End: 00:38:15.000
+Duration: 5.280 seconds
+Text: So let's just say the Museum of Art and Light is under construction and scheduled to open
+--------------------------------------------------
+City Manager:
+Start: 00:38:15.000
+End: 00:38:16.000
+Duration: 1.000 seconds
+Text: in the fall.
+--------------------------------------------------
+City Manager:
+Start: 00:38:16.000
+End: 00:38:17.000
+Duration: 1.000 seconds
+Text: I like it.
+--------------------------------------------------
+City Manager:
+Start: 00:38:17.000
+End: 00:38:18.000
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:38:18.000
+End: 00:38:24.600
+Duration: 6.600 seconds
+Text: Any other?
+--------------------------------------------------
+City Manager:
+Start: 00:38:24.600
+End: 00:38:28.360
+Duration: 3.760 seconds
+Text: I think it's a very good representation of our community, Lynn.
+--------------------------------------------------
+City Manager:
+Start: 00:38:28.360
+End: 00:38:29.360
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Manager:
+Start: 00:38:29.360
+End: 00:38:45.800
+Duration: 16.440 seconds
+Text: And I like kind of the emphasis on more of the profile of person and less of their specific
+--------------------------------------------------
+City Manager:
+Start: 00:38:45.800
+End: 00:38:48.400
+Duration: 2.600 seconds
+Text: qualifications.
+--------------------------------------------------
+City Manager:
+Start: 00:38:48.400
+End: 00:38:53.080
+Duration: 4.680 seconds
+Text: I think that's most important that we get the right person and not the right qualifications.
+--------------------------------------------------
+City Manager:
+Start: 00:38:53.080
+End: 00:38:56.160
+Duration: 3.080 seconds
+Text: So yeah, I think it's good.
+--------------------------------------------------
+City Manager:
+Start: 00:38:56.160
+End: 00:38:57.160
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+City Manager:
+Start: 00:38:57.160
+End: 00:38:58.160
+Duration: 1.000 seconds
+Text: Appreciate that.
+--------------------------------------------------
+City Manager:
+Start: 00:38:58.160
+End: 00:39:01.680
+Duration: 3.520 seconds
+Text: That's really what captures people's interest too is what, you know, is specifically
+--------------------------------------------------
+City Manager:
+Start: 00:39:01.680
+End: 00:39:06.040
+Duration: 4.360 seconds
+Text: Manhattan looking for in terms of priorities for the incoming city manager.
+--------------------------------------------------
+City Manager:
+Start: 00:39:06.040
+End: 00:39:08.080
+Duration: 2.040 seconds
+Text: So yes, I'm glad.
+--------------------------------------------------
+City Manager:
+Start: 00:39:08.080
+End: 00:39:09.880
+Duration: 1.800 seconds
+Text: I'm really excited about the pictures.
+--------------------------------------------------
+City Manager:
+Start: 00:39:09.880
+End: 00:39:11.880
+Duration: 2.000 seconds
+Text: The community partners were wonderful.
+--------------------------------------------------
+City Manager:
+Start: 00:39:11.880
+End: 00:39:18.000
+Duration: 6.120 seconds
+Text: I can't say enough of how well, really, really how wonderful it was to meet all of them.
+--------------------------------------------------
+City Manager:
+Start: 00:39:18.000
+End: 00:39:25.040
+Duration: 7.040 seconds
+Text: But even after that, the level of support by community partners and of course within
+--------------------------------------------------
+City Manager:
+Start: 00:39:25.040
+End: 00:39:29.920
+Duration: 4.880 seconds
+Text: the city as well, really, really appreciate it.
+--------------------------------------------------
+City Manager:
+Start: 00:39:29.920
+End: 00:39:30.920
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:39:30.920
+End: 00:39:36.160
+Duration: 5.240 seconds
+Text: So I think what do we make five suggestions to minor changes?
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:39:36.160
+End: 00:39:37.160
+Duration: 1.000 seconds
+Text: Exactly.
+--------------------------------------------------
+City Manager:
+Start: 00:39:37.160
+End: 00:39:38.160
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 00:39:38.560
+End: 00:39:44.480
+Duration: 5.920 seconds
+Text: And yes, I might make one little tiny format change that Tammy and I talked about to break
+--------------------------------------------------
+City Manager:
+Start: 00:39:44.480
+End: 00:39:53.000
+Duration: 8.520 seconds
+Text: up on page three, just to break up a little bit of the infographics we have there and we'll
+--------------------------------------------------
+City Manager:
+Start: 00:39:53.000
+End: 00:39:54.000
+Duration: 1.000 seconds
+Text: look at options.
+--------------------------------------------------
+City Manager:
+Start: 00:39:54.000
+End: 00:39:58.240
+Duration: 4.240 seconds
+Text: It's just kind of about look and feel format and flow.
+--------------------------------------------------
+City Manager:
+Start: 00:39:58.240
+End: 00:40:01.240
+Duration: 3.000 seconds
+Text: But yes, I do have the five content changes.
+--------------------------------------------------
+City Manager:
+Start: 00:40:01.240
+End: 00:40:07.440
+Duration: 6.200 seconds
+Text: I'll make those and then get an updated profile over to Tammy.
+--------------------------------------------------
+City Manager:
+Start: 00:40:08.440
+End: 00:40:09.440
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:40:09.440
+End: 00:40:10.440
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:40:10.440
+End: 00:40:11.440
+Duration: 1.000 seconds
+Text: I like it.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:40:11.440
+End: 00:40:12.440
+Duration: 1.000 seconds
+Text: I think it's well done.
+--------------------------------------------------
+Commissioner Adam Jack:
+Start: 00:40:12.440
+End: 00:40:13.440
+Duration: 1.000 seconds
+Text: Thanks.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:40:13.440
+End: 00:40:16.440
+Duration: 3.000 seconds
+Text: It's a good job of explaining things.
+--------------------------------------------------
+Commissioner Adam Jack:
+Start: 00:40:16.440
+End: 00:40:17.440
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Manager:
+Start: 00:40:17.440
+End: 00:40:20.440
+Duration: 3.000 seconds
+Text: Oh, thank you for trusting me.
+--------------------------------------------------
+City Manager:
+Start: 00:40:20.440
+End: 00:40:21.440
+Duration: 1.000 seconds
+Text: I'm excited.
+--------------------------------------------------
+City Manager:
+Start: 00:40:21.440
+End: 00:40:22.440
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:40:22.440
+End: 00:40:25.440
+Duration: 3.000 seconds
+Text: There's no other commissioner comments.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:40:25.440
+End: 00:40:30.440
+Duration: 5.000 seconds
+Text: Is there any public comment on this particular item?
+--------------------------------------------------
+City Manager:
+Start: 00:40:30.440
+End: 00:40:31.440
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:40:31.440
+End: 00:40:35.440
+Duration: 4.000 seconds
+Text: Seeing none, we'll close public comment.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:40:36.440
+End: 00:40:42.440
+Duration: 6.000 seconds
+Text: So I moved to authorize publication of the candidate profile for the city manager recruitment.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:40:42.440
+End: 00:40:48.680
+Duration: 6.240 seconds
+Text: I'll second the motion, but that we publish it with the changes we've suggested.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:40:48.680
+End: 00:40:52.680
+Duration: 4.000 seconds
+Text: So we have a motion and a second.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:40:52.680
+End: 00:40:55.440
+Duration: 2.760 seconds
+Text: City clerk, could you please call the roll?
+--------------------------------------------------
+City Manager:
+Start: 00:40:55.440
+End: 00:40:56.920
+Duration: 1.480 seconds
+Text: Can I share O-Pelt?
+--------------------------------------------------
+City Manager:
+Start: 00:40:56.920
+End: 00:40:57.920
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 00:40:57.920
+End: 00:40:58.920
+Duration: 1.000 seconds
+Text: Mr. Mata?
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:40:58.920
+End: 00:40:59.920
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 00:40:59.920
+End: 00:41:00.920
+Duration: 1.000 seconds
+Text: Mayor Butler?
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:41:00.920
+End: 00:41:01.920
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 00:41:01.960
+End: 00:41:02.960
+Duration: 1.000 seconds
+Text: Madam, check.
+--------------------------------------------------
+City Manager:
+Start: 00:41:02.960
+End: 00:41:04.320
+Duration: 1.360 seconds
+Text: Yes, Mr. Mata, call it.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:41:04.320
+End: 00:41:05.320
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 00:41:05.320
+End: 00:41:08.920
+Duration: 3.600 seconds
+Text: Motion carries, five to zero.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:41:08.920
+End: 00:41:09.920
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:41:09.920
+End: 00:41:26.920
+Duration: 17.000 seconds
+Text: Then we'll move on to the last item on the agenda for this evening, which is the reconsider low income housing tax credit for Manhattan area housing partnerships, Cypress Ridge project and the O.K.'s development corporation sunflower flats project.
+--------------------------------------------------
+City Manager:
+Start: 00:41:27.920
+End: 00:41:30.920
+Duration: 3.000 seconds
+Text: Thank you, Mayor commissioners.
+--------------------------------------------------
+City Manager:
+Start: 00:41:30.920
+End: 00:41:34.920
+Duration: 4.000 seconds
+Text: We have a couple items we'd like you to consider this evening.
+--------------------------------------------------
+City Manager:
+Start: 00:41:34.920
+End: 00:41:39.920
+Duration: 5.000 seconds
+Text: There was a three resolutions passed a couple of weeks ago.
+--------------------------------------------------
+City Manager:
+Start: 00:41:39.920
+End: 00:41:44.920
+Duration: 5.000 seconds
+Text: One company has decided not to submit their low income housing tax credit application.
+--------------------------------------------------
+City Manager:
+Start: 00:41:44.920
+End: 00:41:53.920
+Duration: 9.000 seconds
+Text: So the two that remain are Cypress Ridge, which is essentially the grandmier area and then sunflower flats, which is downtown.
+--------------------------------------------------
+City Manager:
+Start: 00:41:54.920
+End: 00:41:59.920
+Duration: 5.000 seconds
+Text: And I'll lean on Katie Jackson, our city attorney quite a bit.
+--------------------------------------------------
+City Manager:
+Start: 00:41:59.920
+End: 00:42:05.920
+Duration: 6.000 seconds
+Text: She really put a lot of effort and energy into these memos and options and analysis.
+--------------------------------------------------
+City Manager:
+Start: 00:42:05.920
+End: 00:42:07.920
+Duration: 2.000 seconds
+Text: Her memo was attached.
+--------------------------------------------------
+City Manager:
+Start: 00:42:07.920
+End: 00:42:09.920
+Duration: 2.000 seconds
+Text: Hopefully had a chance to read that.
+--------------------------------------------------
+City Manager:
+Start: 00:42:09.920
+End: 00:42:16.920
+Duration: 7.000 seconds
+Text: There are some options for you this evening to consider with each of these items.
+--------------------------------------------------
+City Manager:
+Start: 00:42:16.920
+End: 00:42:22.920
+Duration: 6.000 seconds
+Text: There is a finding you can make in using the 2012 sales tax funds.
+--------------------------------------------------
+City Manager:
+Start: 00:42:23.920
+End: 00:42:25.920
+Duration: 2.000 seconds
+Text: There's a draft resolution in your packet.
+--------------------------------------------------
+City Manager:
+Start: 00:42:25.920
+End: 00:42:27.920
+Duration: 2.000 seconds
+Text: That's option one.
+--------------------------------------------------
+City Manager:
+Start: 00:42:27.920
+End: 00:42:40.920
+Duration: 13.000 seconds
+Text: That finding if that's the path that the majority would like to go down, we can hop into some of the ramifications and considerations administration would have for you with that option.
+--------------------------------------------------
+City Manager:
+Start: 00:42:40.920
+End: 00:42:47.920
+Duration: 7.000 seconds
+Text: Option two is a all of the options repeal the exist the April to resolutions.
+--------------------------------------------------
+City Manager:
+Start: 00:42:48.920
+End: 00:43:02.920
+Duration: 14.000 seconds
+Text: But option two is more of a general commitment to fund the waivers, reminder the waivers for the building permits and for the utility hookups, both water and sewer.
+--------------------------------------------------
+City Manager:
+Start: 00:43:02.920
+End: 00:43:06.920
+Duration: 4.000 seconds
+Text: This option is more of a generic reference.
+--------------------------------------------------
+City Manager:
+Start: 00:43:06.920
+End: 00:43:15.920
+Duration: 9.000 seconds
+Text: And then we get direction from you all in terms of where you'd like us to look further or what option you'd like us to bring back.
+--------------------------------------------------
+City Manager:
+Start: 00:43:15.920
+End: 00:43:24.920
+Duration: 9.000 seconds
+Text: There are some suggestions in here to look at current ordinance in the utilities that governs how utility funds are used.
+--------------------------------------------------
+City Manager:
+Start: 00:43:24.920
+End: 00:43:26.920
+Duration: 2.000 seconds
+Text: There are some exceptions.
+--------------------------------------------------
+City Manager:
+Start: 00:43:26.920
+End: 00:43:30.920
+Duration: 4.000 seconds
+Text: Water meters and sewer meters are not part of that exception list.
+--------------------------------------------------
+City Manager:
+Start: 00:43:30.920
+End: 00:43:31.920
+Duration: 1.000 seconds
+Text: That can be considered.
+--------------------------------------------------
+City Manager:
+Start: 00:43:31.920
+End: 00:43:42.920
+Duration: 11.000 seconds
+Text: There can be other revenue streams that you'd like us to look at that the city receives for financing or we could look at waivers in the future.
+--------------------------------------------------
+City Manager:
+Start: 00:43:42.920
+End: 00:43:49.920
+Duration: 7.000 seconds
+Text: The building permits have been waived in the past for projects really of other governmental in nature.
+--------------------------------------------------
+City Manager:
+Start: 00:43:49.920
+End: 00:44:02.920
+Duration: 13.000 seconds
+Text: We have done some things you got to date back quite a bit, but we have waived them on the building permit side before for projects that are not necessarily other governmental entities.
+--------------------------------------------------
+City Manager:
+Start: 00:44:02.920
+End: 00:44:16.920
+Duration: 14.000 seconds
+Text: The option three would look at just gaining more direction on a revised resolution that you'd like to see come back before the deadline of May 10.
+--------------------------------------------------
+City Manager:
+Start: 00:44:16.920
+End: 00:44:18.920
+Duration: 2.000 seconds
+Text: So that would be May 7th.
+--------------------------------------------------
+City Manager:
+Start: 00:44:18.920
+End: 00:44:30.920
+Duration: 12.000 seconds
+Text: So if there's something we haven't described as an option in one or two and you all decide you want to go a different direction and have us generate something else, we can have that back to you May 7th.
+--------------------------------------------------
+City Manager:
+Start: 00:44:30.920
+End: 00:44:35.920
+Duration: 5.000 seconds
+Text: That's a very brief overview of the options in front of you.
+--------------------------------------------------
+City Manager:
+Start: 00:44:35.920
+End: 00:44:41.920
+Duration: 6.000 seconds
+Text: Like I said, Katie is available and staff is available to dive into any of these options.
+--------------------------------------------------
+City Manager:
+Start: 00:44:41.920
+End: 00:44:46.920
+Duration: 5.000 seconds
+Text: If the commission wants to talk about these and dive into each of them, we can.
+--------------------------------------------------
+City Manager:
+Start: 00:44:46.920
+End: 00:44:59.920
+Duration: 13.000 seconds
+Text: If there's a consensus to move in a certain direction, we can obviously expand on that option and have a dialogue on where you all would like to land this evening with these resolutions.
+--------------------------------------------------
+City Manager:
+Start: 00:44:59.920
+End: 00:45:02.920
+Duration: 3.000 seconds
+Text: Any questions on the options or where we're at tonight?
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:45:02.920
+End: 00:45:13.920
+Duration: 11.000 seconds
+Text: Yeah, see I'm sort of, you know, I read that over and I like option one because it basically just I guess legally puts in place what we did last week.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:45:13.920
+End: 00:45:19.920
+Duration: 6.000 seconds
+Text: And of course, you know, my thought on that when we said use that economic development, you know, sales tax.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:45:19.920
+End: 00:45:23.920
+Duration: 4.000 seconds
+Text: I mean, you know, I think the intent was to use it.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:45:23.920
+End: 00:45:28.920
+Duration: 5.000 seconds
+Text: And of course, we knew it was going to be used for economic development and having to make a specific finding.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:45:28.920
+End: 00:45:34.920
+Duration: 6.000 seconds
+Text: And I was at the chamber meeting today, you know, when they were saying, hey, these, these things are important economic development.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:45:34.920
+End: 00:45:38.920
+Duration: 4.000 seconds
+Text: So, you know, housing clearly ties to economic development and growth of the city.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:45:38.920
+End: 00:45:40.920
+Duration: 2.000 seconds
+Text: So it's valid use of it.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:45:40.920
+End: 00:45:44.920
+Duration: 4.000 seconds
+Text: But I also realized that, you know, that's a limited amount of money in that fund.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:45:44.920
+End: 00:45:46.920
+Duration: 2.000 seconds
+Text: And once it's expended, that's it.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:45:46.920
+End: 00:45:50.920
+Duration: 4.000 seconds
+Text: We wouldn't have that option available in the future.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:45:50.920
+End: 00:46:01.920
+Duration: 11.000 seconds
+Text: And then, you know, I'm personally not in favor of waving, you know, permits and water hook up fees simply because eventually that gets passed on to the taxpayer.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:46:01.920
+End: 00:46:04.920
+Duration: 3.000 seconds
+Text: And they're all concerned about their meal, levying their water rates.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:46:04.920
+End: 00:46:08.920
+Duration: 4.000 seconds
+Text: So I saw this as maybe a one time thing.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:46:08.920
+End: 00:46:13.920
+Duration: 5.000 seconds
+Text: I don't see us using that sales tax fund continually for it because there's not not enough money for it.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:46:13.920
+End: 00:46:18.920
+Duration: 5.000 seconds
+Text: But it was important to move these projects along because of that May 10th deadline.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:46:18.920
+End: 00:46:21.920
+Duration: 3.000 seconds
+Text: Otherwise, they got to submit, I can't submit again for a year.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:46:21.920
+End: 00:46:24.920
+Duration: 3.000 seconds
+Text: So that's where I'm at. I'm for option one.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:46:24.920
+End: 00:46:26.920
+Duration: 2.000 seconds
+Text: But commissioners weigh in.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:46:26.920
+End: 00:46:34.920
+Duration: 8.000 seconds
+Text: We have historically waved the building permit, which really doesn't cost us any dollars to sort of speak.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:46:35.920
+End: 00:46:52.920
+Duration: 17.000 seconds
+Text: And I think that there's going to be such a variety of sort of asks come to us that we want to tailor our response to different, you know, things that come to us with different sources of funding.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:46:52.920
+End: 00:47:00.920
+Duration: 8.000 seconds
+Text: So I think two's rather vague, but on the other hand, I hate to nail it down too much and then have something come in that we really want to do.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:47:00.920
+End: 00:47:05.920
+Duration: 5.000 seconds
+Text: And then we have to change what we said we were going to do and take it out of this and you know that kind of thing.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:47:05.920
+End: 00:47:08.920
+Duration: 3.000 seconds
+Text: So I mean, this is kind of new territory for us.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:47:08.920
+End: 00:47:26.920
+Duration: 18.000 seconds
+Text: And I think we also need to really move forward on getting a way to quantify the asks, you know, getting some kind of point systems so we can really say to the public, we've looked at silver and it comes in with a very good grade, so to speak.
+--------------------------------------------------
+City Manager:
+Start: 00:47:26.920
+End: 00:47:37.920
+Duration: 11.000 seconds
+Text: Historically, I just add a little bit tax credit applications traditionally followed a path of coming to the commission for a resolution of support.
+--------------------------------------------------
+City Manager:
+Start: 00:47:37.920
+End: 00:47:49.920
+Duration: 12.000 seconds
+Text: That was essentially all those asked for by the state of Kansas. They'd submit their applications. If awarded, we would get a re approach a lot of times on looking for incentives.
+--------------------------------------------------
+City Manager:
+Start: 00:47:49.920
+End: 00:47:59.920
+Duration: 10.000 seconds
+Text: The applicant knew more about their project. They knew whether they were moving forward with the credits. The details surrounding those projects was much greater.
+--------------------------------------------------
+City Manager:
+Start: 00:47:59.920
+End: 00:48:11.920
+Duration: 12.000 seconds
+Text: The architects, the engineers, the developers had all really sunk a lot of money in after those credits were awarded. Then they came to the commission looking for incentives.
+--------------------------------------------------
+City Manager:
+Start: 00:48:11.920
+End: 00:48:21.920
+Duration: 10.000 seconds
+Text: This is at the front end and there hasn't been a ton of effort and energy by anyone to fully define where these things are at.
+--------------------------------------------------
+City Manager:
+Start: 00:48:21.920
+End: 00:48:35.920
+Duration: 14.000 seconds
+Text: And that's the difference in my opinion from a city staff perspective, you are at being asked to do a lot from an incentive perspective without really knowing each of these projects in a great amount of detail.
+--------------------------------------------------
+City Manager:
+Start: 00:48:35.920
+End: 00:48:52.920
+Duration: 17.000 seconds
+Text: IE, we can go to the the chodo is done several, but they've come after they were awarded. They may have asked for are you willing to do a sales tax exemption on construction, but even that action took place after the credits were awarded.
+--------------------------------------------------
+City Manager:
+Start: 00:48:52.920
+End: 00:49:00.920
+Duration: 8.000 seconds
+Text: This is all front loaded and it's why it's been really hard for us to juggle and get information to you all. But here we are.
+--------------------------------------------------
+City Manager:
+Start: 00:49:00.920
+End: 00:49:13.920
+Duration: 13.000 seconds
+Text: KHRC has changed their rules. They have different criteria. Katie alludes to it in the memo. Their policy would be welcomed. And we recognize that and we will work on that. We will bring that back for you all.
+--------------------------------------------------
+City Manager:
+Start: 00:49:13.920
+End: 00:49:31.920
+Duration: 18.000 seconds
+Text: Because we were reacting to four applicants just two, three months ago trying to understand what they wanted, what they needed, understand the criteria. It's new ground. And we fumbled as well as they fumbled along the way to get to a point where they can submit an application.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:49:31.920
+End: 00:49:58.920
+Duration: 27.000 seconds
+Text: Jason, I think the thing is when competition with everybody in the whole state. And so the more points the chodo or some other group can get to sort of show, you know, that we're really supportive and that kind of thing. And that's what I would, you know, I think the permit, you know, forgiving that is is relatively inexpensive for us to do.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:49:58.920
+End: 00:50:13.920
+Duration: 15.000 seconds
+Text: And the other things are, you know, as you said, they figured out they've got some of that stuff in their budget already. But these two, two things are quite important to get done and to get through the state red tape.
+--------------------------------------------------
+City Manager:
+Start: 00:50:13.920
+End: 00:50:38.920
+Duration: 25.000 seconds
+Text: Yeah, and there's a point system, the 40 and the 80, you know, there's levels at which they're looking for these waivers to add up to them once they do they get the points that could be integrated into a policy where that's really all the exposure perhaps the city wants to take once they get their points. They owe above that amount and we're limiting points to X. Those are the debates and the feedback that we're going to need moving forward.
+--------------------------------------------------
+City Manager:
+Start: 00:50:38.920
+End: 00:51:01.920
+Duration: 23.000 seconds
+Text: Again, I think we really tried to move all four of these at once and treat them all the same. And there is some inclination that I think the state's looking for you all to rank them a little bit because they're looking for what are you willing to do if you're willing to do everything for everybody basically tells the state you're fully supportive of all four. No differences at all in the projects.
+--------------------------------------------------
+City Manager:
+Start: 00:51:01.920
+End: 00:51:15.920
+Duration: 14.000 seconds
+Text: But I do think there's some differentiating factors in each of the projects that you may not necessarily have all the information when we when they're awarded people know a lot more about what they're going to do.
+--------------------------------------------------
+City Manager:
+Start: 00:51:15.920
+End: 00:51:27.920
+Duration: 12.000 seconds
+Text: There's a certain level they got to meet to meet that application. But afterwards it's really when the development starts to shape and we can accurately tell you what building permit fees are.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:51:27.920
+End: 00:51:43.920
+Duration: 16.000 seconds
+Text: I think you know I like the idea. I think Ron made a suggestion earlier today too to maybe put in that policy that the maximum award of incentives the city will give you is whatever the maximum points is based on your application.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:51:43.920
+End: 00:51:52.920
+Duration: 9.000 seconds
+Text: So like they may ask for a hundred thousand dollars but eighty thousand will give them maximum points and we'll just cut it off there. And then that'll make our money go farther.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:51:52.920
+End: 00:52:09.920
+Duration: 17.000 seconds
+Text: And so I like that and then I can see the logic on waving the building permits it still disturbs me I voted against it in the past and will again in the future simply because if it's easy to wave building permits for that then why is anybody paying for building permits.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:52:09.920
+End: 00:52:20.920
+Duration: 11.000 seconds
+Text: It's a wave for everybody. You know it's either it's a revenue source and we're going to lose that revenue and and we're all worried about not having enough revenue.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:52:20.920
+End: 00:52:43.920
+Duration: 23.000 seconds
+Text: And so that that's why I I just don't see that as something we want to wave that's just my my approach on it. So though again I can see you know we do it on the government buildings because taxpayers go pay for it one way or the other it doesn't make any sense to check charge the county for building fee and then we have to pay for it anyway.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:52:43.920
+End: 00:52:57.920
+Duration: 14.000 seconds
+Text: But and I also see your point Karen on the fact that you know we're in competition with these other folks and we would hate to break the bank you know on it but but my concern on option two is when you just leave it open.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:52:57.920
+End: 00:53:11.920
+Duration: 14.000 seconds
+Text: Say we're going to do a resolution supporting you and then we'll figure it out later well what happens if there's no funding source except the general fund then in effect we've waved it because the taxpayers going to pay for it.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:53:11.920
+End: 00:53:21.920
+Duration: 10.000 seconds
+Text: And so that that's why I wanted to be a little bit more precise but and that's all part of the idea lean management let's figure out where the pennies are going.
+--------------------------------------------------
+City Manager:
+Start: 00:53:21.920
+End: 00:53:40.920
+Duration: 19.000 seconds
+Text: I I kind of have to I mean the taxpayers paying for regard no matter what we do right I mean it's coming out of eight some fund that was collected from taxes whether it's from workforce housing this economic development it was collected in the form of taxes.
+--------------------------------------------------
+City Manager:
+Start: 00:53:40.920
+End: 00:53:59.920
+Duration: 19.000 seconds
+Text: And so no matter what fund it comes out of it's it's coming from taxpayers and you know we're really just trying to figure out how to shuffle this money we're not paying anyone any money it is being shuffled from one account to another or it's being waved.
+--------------------------------------------------
+City Manager:
+Start: 00:53:59.920
+End: 00:54:28.920
+Duration: 29.000 seconds
+Text: So you know I think we need to figure out what is the most straightforward way of doing that and to me I kind of agree with with Karen you know if we if we wavit and you know I read through the code there are exceptions I don't know if we could add an exception for a specific you know you're applying for a low income housing tax credit very specific that is the time.
+--------------------------------------------------
+City Manager:
+Start: 00:54:28.920
+End: 00:54:44.920
+Duration: 16.000 seconds
+Text: We will consider waving it or are awarded a low income tax credit is that something that we could do is include a stipulation that hey we're going to wave these sewer and water fees if you get this credit if you don't get it you still have to pay that.
+--------------------------------------------------
+City Manager:
+Start: 00:54:44.920
+End: 00:55:12.920
+Duration: 28.000 seconds
+Text: Because I mean that that was one of the things that was brought up the other night too was that realistically we're probably going to get one of these projects funded for this lie tech and if we have an ordinance saying your project is going to have these fees waved period then I think the developer might expect that they'll have their fees waved even if they don't get the tax credits so I think that's important that we include they have to have they have to be awarded the credit first.
+--------------------------------------------------
+City Manager:
+Start: 00:55:12.920
+End: 00:55:29.920
+Duration: 17.000 seconds
+Text: I think that narrow down a little bit it makes it a little bit more specific. I'd worry about making a finding for this 2012 sales tax fund that housing is an infrastructure project.
+--------------------------------------------------
+City Manager:
+Start: 00:55:29.920
+End: 00:55:37.920
+Duration: 8.000 seconds
+Text: Because then we're going to get a lot of people coming in here asking for incentives out of that specific fund because we made that that finding.
+--------------------------------------------------
+City Manager:
+Start: 00:55:37.920
+End: 00:55:59.920
+Duration: 22.000 seconds
+Text: We can't put the toothpaste back in the tube once we do that. So I think we really need to be careful. I mean the commission in 2012 was I think very smart in having this resolution before the sales tax went on the ballot because we're seeing what happened with this workforce housing thing.
+--------------------------------------------------
+City Manager:
+Start: 00:55:59.920
+End: 00:56:07.920
+Duration: 8.000 seconds
+Text: We've got this money and we have no idea how to spend it because that wasn't outlined before it went in front of the voters.
+--------------------------------------------------
+City Manager:
+Start: 00:56:07.920
+End: 00:56:22.920
+Duration: 15.000 seconds
+Text: And I don't know that it would be the best idea for us to go back and reinterpret a resolution when the commission very intently made this resolution to have definitions on how that money will be spent.
+--------------------------------------------------
+City Manager:
+Start: 00:56:22.920
+End: 00:56:32.920
+Duration: 10.000 seconds
+Text: I think we'll get a lot of people trying to have their housing projects fit into economic development if we go down that route.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:56:32.920
+End: 00:56:41.920
+Duration: 9.000 seconds
+Text: I would say like it's the toothpaste analysis. There's not a lot of toothpaste left in that tube. So I'm not worried about that happening.
+--------------------------------------------------
+City Manager:
+Start: 00:56:41.920
+End: 00:56:48.920
+Duration: 7.000 seconds
+Text: We got we got people calling us all the time about this $700,000 for the workforce housing.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:56:48.920
+End: 00:56:56.920
+Duration: 8.000 seconds
+Text: So we find that we've defined that as the annual minimum income 60% or higher.
+--------------------------------------------------
+City Manager:
+Start: 00:56:56.920
+End: 00:56:58.920
+Duration: 2.000 seconds
+Text: We don't have a policy for it.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:56:58.920
+End: 00:57:02.920
+Duration: 4.000 seconds
+Text: Well, we all agree to it. I think that's going to be in the policy.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:57:02.920
+End: 00:57:07.920
+Duration: 5.000 seconds
+Text: We've all reached consensus on that way back in January.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:57:07.920
+End: 00:57:17.920
+Duration: 10.000 seconds
+Text: That's what it was. So that's got to be in the policy to say, just like we said last week, if your project doesn't fit that bill, then you don't get any money.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:57:17.920
+End: 00:57:24.920
+Duration: 7.000 seconds
+Text: So that will eliminate some of it. And then the other distinction I make and I agree with you, Peter, that it's all taxes.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:57:24.920
+End: 00:57:34.920
+Duration: 10.000 seconds
+Text: But in my mind, if it comes out of sales tax, that's significantly different than money that comes out of the mill levy.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:57:34.920
+End: 00:57:40.920
+Duration: 6.000 seconds
+Text: Because we're going to get beat up here shortly again on the mill and appraisals and things of that nature.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:57:40.920
+End: 00:57:49.920
+Duration: 9.000 seconds
+Text: So if we can limit, you know, taking money that is going to directly impact the mill levy and the amount of property taxes.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:57:49.920
+End: 00:57:53.920
+Duration: 4.000 seconds
+Text: Because I've always been in favor of sales tax over property tax.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:57:53.920
+End: 00:57:58.920
+Duration: 5.000 seconds
+Text: So that's why I'm splitting that here. But your point's well taken.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:57:58.920
+End: 00:58:04.920
+Duration: 6.000 seconds
+Text: Yeah, they are paying, but the sales tax doesn't necessarily all come from people inside the city.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:58:04.920
+End: 00:58:10.920
+Duration: 6.000 seconds
+Text: And that's why I prefer that. But you know, that's why I like option one best.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 00:58:10.920
+End: 00:58:20.920
+Duration: 10.000 seconds
+Text: I, you know, option two is probably doable. Option three. I don't think we want to go there too hard.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:58:20.920
+End: 00:58:25.920
+Duration: 5.000 seconds
+Text: I'm fine with using option one. We were on the commission in 2012.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:58:25.920
+End: 00:58:32.920
+Duration: 7.000 seconds
+Text: I think we can figure that out what we we intended on on that. And I do agree there's not much money there.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:58:32.920
+End: 00:58:43.920
+Duration: 11.000 seconds
+Text: So it's not going to come up. But I'm also fine with option two because that gives time to come up with the policy and everything else ahead of time.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:58:43.920
+End: 00:58:50.920
+Duration: 7.000 seconds
+Text: And even if this doesn't fit the policy exactly, we're doing an exception based on the fact of what we're doing now.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:58:50.920
+End: 00:58:57.920
+Duration: 7.000 seconds
+Text: And if it says, well, you did that for them, right? Because we came up with it knowing that might happen to us.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:58:57.920
+End: 00:59:03.920
+Duration: 6.000 seconds
+Text: But it does get these projects done gives us time to come up with the policy.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:59:03.920
+End: 00:59:14.920
+Duration: 11.000 seconds
+Text: And if anyone wants to spend the 2012 money, at least while we're still around, we need to say, hey, that was one of our outs should us not match up with anything else we're going to do.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:59:14.920
+End: 00:59:19.920
+Duration: 5.000 seconds
+Text: So I'll, I want to move these along. So I'll go with option one, but I'm fine with option two.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:59:19.920
+End: 00:59:28.920
+Duration: 9.000 seconds
+Text: Yeah, I agree, John. I think, you know, one of the main things we talked about in the campaigns and that kind of thing was more workforce housing.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:59:28.920
+End: 00:59:38.920
+Duration: 10.000 seconds
+Text: So I think it behooves us to see how we can do, what we can do to support these two asks, so to speak.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:59:38.920
+End: 00:59:44.920
+Duration: 6.000 seconds
+Text: I know that Chudo has had a very good track record with the state.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:59:44.920
+End: 00:59:52.920
+Duration: 8.000 seconds
+Text: You know, they've funded a lot of housing. We've done over 260 units. And, you know, it's a lot of housing.
+--------------------------------------------------
+Commissioner Opel:
+Start: 00:59:52.920
+End: 01:00:03.920
+Duration: 11.000 seconds
+Text: And of course, the other one is going to be replacing some housing we're losing, which is vitally important.
+--------------------------------------------------
+Commissioner Opel:
+Start: 01:00:03.920
+End: 01:00:14.920
+Duration: 11.000 seconds
+Text: So I have no problem. You know, I just think if we go with two, it gives us space to really define the future.
+--------------------------------------------------
+City Manager:
+Start: 01:00:14.920
+End: 01:00:21.920
+Duration: 7.000 seconds
+Text: I would just comment on that going with option two is consistent with what we've done in the past.
+--------------------------------------------------
+City Manager:
+Start: 01:00:21.920
+End: 01:00:32.920
+Duration: 11.000 seconds
+Text: We typically would get one of these applications every three years. One, we never had competition for low income housing tax credits, at least from Manhattan.
+--------------------------------------------------
+City Manager:
+Start: 01:00:32.920
+End: 01:00:44.920
+Duration: 12.000 seconds
+Text: And so that's why it's always been that general. We're here where you have competition. I think that does suit yourself to have a policy relative to that.
+--------------------------------------------------
+City Manager:
+Start: 01:00:44.920
+End: 01:00:58.920
+Duration: 14.000 seconds
+Text: But again, I do think some of the depending on the amount of tax credits they're issued, it gives them a better opportunity to really pull their project together and then come back with the more detailed request that you have.
+--------------------------------------------------
+City Manager:
+Start: 01:00:58.920
+End: 01:01:18.920
+Duration: 20.000 seconds
+Text: And you can see the impacts of that and have options for how you want to pay for it. And I think everybody would, and you're not opening up the box for everybody else to apply because we've always done this with these credits as opposed to applying specific funds now upfront.
+--------------------------------------------------
+City Manager:
+Start: 01:01:18.920
+End: 01:01:28.920
+Duration: 10.000 seconds
+Text: I agree that would be a good practice. I mean, if we had a solid policy in place, and I think this does give us time for that to occur.
+--------------------------------------------------
+City Manager:
+Start: 01:01:28.920
+End: 01:01:34.920
+Duration: 6.000 seconds
+Text: Ron, I changed my mind. You can't retire.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 01:01:34.920
+End: 01:01:46.920
+Duration: 12.000 seconds
+Text: Do we want to take public comment if there is any? Is anyone in the public wish to comment on this particular topic?
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 01:01:46.920
+End: 01:01:57.920
+Duration: 11.000 seconds
+Text: Okay, seeing none, we'll close public comment. I guess Jason, can you put those options back up there because I think our agenda is here. Don't have those.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 01:01:57.920
+End: 01:02:08.920
+Duration: 11.000 seconds
+Text: So somebody can make a motion. They were in your memo, but they're not on this page here.
+--------------------------------------------------
+City Manager:
+Start: 01:02:08.920
+End: 01:02:16.920
+Duration: 8.000 seconds
+Text: So the action requested with option one or option two, just select option two and adopt resolution repealing the prior.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 01:02:16.920
+End: 01:02:29.920
+Duration: 13.000 seconds
+Text: Okay, so that's all right. That's what we needed up there. And so it sounds like, you know, that option two basically supports the projects, but does not define exactly how we're going to pay for it.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 01:02:29.920
+End: 01:02:42.920
+Duration: 13.000 seconds
+Text: And that's punted until they get approved and comes back. Is that correct? Okay, so in that case, I'll make the motion that we select option two and adopt resolution number.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 01:02:42.920
+End: 01:02:57.920
+Duration: 15.000 seconds
+Text: 0 41624 echo repealing resolution number 0 4 0 224 echo and granting city incentives in support of the Manhattan area housing partnership Cypress Ridge project.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 01:02:57.920
+End: 01:03:03.920
+Duration: 6.000 seconds
+Text: Second, can we have a motion in a second?
+--------------------------------------------------
+City Manager:
+Start: 01:03:03.920
+End: 01:03:18.920
+Duration: 15.000 seconds
+Text: Can I ask a question? I don't know that I love voting on this that doesn't have a direction.
+--------------------------------------------------
+City Manager:
+Start: 01:03:18.920
+End: 01:03:34.920
+Duration: 16.000 seconds
+Text: The motion that we've made doesn't have any kind of direction in it. Can we try and narrow it down more before we vote on it so that we have it more specific?
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 01:03:34.920
+End: 01:03:37.920
+Duration: 3.000 seconds
+Text: You can amend the motion.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 01:03:37.920
+End: 01:03:46.920
+Duration: 9.000 seconds
+Text: Even if you narrow it down, I don't have a problem with that.
+--------------------------------------------------
+City Manager:
+Start: 01:03:46.920
+End: 01:03:54.920
+Duration: 8.000 seconds
+Text: Even if you narrow it down, Commissioner, we're coming back with a policy. We're coming back with options for you all to consider.
+--------------------------------------------------
+City Manager:
+Start: 01:03:54.920
+End: 01:04:04.920
+Duration: 10.000 seconds
+Text: I don't unless you're going to reach a consensus on how you want to fund it, you're going to go to option either one or three.
+--------------------------------------------------
+City Manager:
+Start: 01:04:04.920
+End: 01:04:11.920
+Duration: 7.000 seconds
+Text: Because three will bring it back in two weeks or three weeks. Two moves it on.
+--------------------------------------------------
+City Manager:
+Start: 01:04:11.920
+End: 01:04:19.920
+Duration: 8.000 seconds
+Text: Okay, because it sounded like we're okay doing an exception of the city code.
+--------------------------------------------------
+City Manager:
+Start: 01:04:19.920
+End: 01:04:22.920
+Duration: 3.000 seconds
+Text: We're definitely bringing that back as an option for the policy.
+--------------------------------------------------
+City Manager:
+Start: 01:04:22.920
+End: 01:04:26.920
+Duration: 4.000 seconds
+Text: Okay, but we can't vote on that tonight.
+--------------------------------------------------
+City Manager:
+Start: 01:04:26.920
+End: 01:04:28.920
+Duration: 2.000 seconds
+Text: We don't have it.
+--------------------------------------------------
+City Manager:
+Start: 01:04:28.920
+End: 01:04:33.920
+Duration: 5.000 seconds
+Text: Yeah, you don't have you haven't teed up the public that that's what you're going to do tonight.
+--------------------------------------------------
+City Manager:
+Start: 01:04:33.920
+End: 01:04:36.920
+Duration: 3.000 seconds
+Text: Got it.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 01:04:36.920
+End: 01:04:38.920
+Duration: 2.000 seconds
+Text: No further discussion.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 01:04:38.920
+End: 01:04:42.920
+Duration: 4.000 seconds
+Text: City Clerk, please call the rule.
+--------------------------------------------------
+City Manager:
+Start: 01:04:42.920
+End: 01:04:44.920
+Duration: 2.000 seconds
+Text: Commissioner Mata.
+--------------------------------------------------
+City Manager:
+Start: 01:04:44.920
+End: 01:04:45.920
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 01:04:45.920
+End: 01:04:46.920
+Duration: 1.000 seconds
+Text: Mayor Butler.
+--------------------------------------------------
+City Manager:
+Start: 01:04:46.920
+End: 01:04:47.920
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 01:04:47.920
+End: 01:04:49.920
+Duration: 2.000 seconds
+Text: Commissioner Cullo.
+--------------------------------------------------
+Commissioner Opel:
+Start: 01:04:49.920
+End: 01:04:52.920
+Duration: 3.000 seconds
+Text: I think I better abstain because I'm on the chewed-o board.
+--------------------------------------------------
+Commissioner Opel:
+Start: 01:04:52.920
+End: 01:04:54.920
+Duration: 2.000 seconds
+Text: I don't have to.
+--------------------------------------------------
+City Manager:
+Start: 01:04:54.920
+End: 01:04:58.920
+Duration: 4.000 seconds
+Text: Well, yes.
+--------------------------------------------------
+City Manager:
+Start: 01:04:58.920
+End: 01:05:00.920
+Duration: 2.000 seconds
+Text: Commissioner Opel.
+--------------------------------------------------
+City Manager:
+Start: 01:05:00.920
+End: 01:05:01.920
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 01:05:01.920
+End: 01:05:05.920
+Duration: 4.000 seconds
+Text: Motion carries, five to zero.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 01:05:05.920
+End: 01:05:08.920
+Duration: 3.000 seconds
+Text: Okay, if there's no.
+--------------------------------------------------
+City Manager:
+Start: 01:05:08.920
+End: 01:05:11.920
+Duration: 3.000 seconds
+Text: This one specific to sunflower flat.
+--------------------------------------------------
+City Manager:
+Start: 01:05:11.920
+End: 01:05:14.920
+Duration: 3.000 seconds
+Text: Okay, you just did the one for Cypress.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 01:05:14.920
+End: 01:05:16.920
+Duration: 2.000 seconds
+Text: So now we need to do a second one.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 01:05:16.920
+End: 01:05:17.920
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Adam Jack:
+Start: 01:05:17.920
+End: 01:05:25.920
+Duration: 8.000 seconds
+Text: I move that we select option two and adopt resolution number zero four one six two four F.
+--------------------------------------------------
+Commissioner Adam Jack:
+Start: 01:05:25.920
+End: 01:05:30.920
+Duration: 5.000 seconds
+Text: Repealing resolution number zero four zero two two four C.
+--------------------------------------------------
+Commissioner Adam Jack:
+Start: 01:05:30.920
+End: 01:05:36.920
+Duration: 6.000 seconds
+Text: And granting city incentives in support of the Eiko's development corporations.
+--------------------------------------------------
+Commissioner Adam Jack:
+Start: 01:05:36.920
+End: 01:05:38.920
+Duration: 2.000 seconds
+Text: Sunflower flat's project.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 01:05:38.920
+End: 01:05:41.920
+Duration: 3.000 seconds
+Text: I'll second the motion.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 01:05:41.920
+End: 01:05:44.920
+Duration: 3.000 seconds
+Text: So we have a motion of a second city clerk.
+--------------------------------------------------
+City Manager:
+Start: 01:05:44.920
+End: 01:05:45.920
+Duration: 1.000 seconds
+Text: Could you please call the rule?
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 01:05:45.920
+End: 01:05:46.920
+Duration: 1.000 seconds
+Text: Mayor Butler.
+--------------------------------------------------
+City Manager:
+Start: 01:05:46.920
+End: 01:05:47.920
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Adam Jack:
+Start: 01:05:47.920
+End: 01:05:48.920
+Duration: 1.000 seconds
+Text: Commissioner Adam Jack.
+--------------------------------------------------
+City Manager:
+Start: 01:05:48.920
+End: 01:05:49.920
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 01:05:49.920
+End: 01:05:50.920
+Duration: 1.000 seconds
+Text: Commissioner McCullough.
+--------------------------------------------------
+City Manager:
+Start: 01:05:50.920
+End: 01:05:51.920
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 01:05:51.920
+End: 01:05:52.920
+Duration: 1.000 seconds
+Text: Commissioner Opel.
+--------------------------------------------------
+City Manager:
+Start: 01:05:52.920
+End: 01:05:53.920
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 01:05:53.920
+End: 01:05:54.920
+Duration: 1.000 seconds
+Text: Commissioner Mata.
+--------------------------------------------------
+City Manager:
+Start: 01:05:54.920
+End: 01:05:55.920
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 01:05:55.920
+End: 01:05:57.920
+Duration: 2.000 seconds
+Text: Motion carries, five to zero.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 01:05:57.920
+End: 01:05:59.920
+Duration: 2.000 seconds
+Text: Okay, I think that concludes that.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 01:05:59.920
+End: 01:06:01.920
+Duration: 2.000 seconds
+Text: The third project that was on there got pulled.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 01:06:01.920
+End: 01:06:05.920
+Duration: 4.000 seconds
+Text: So we don't need to discuss that one.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 01:06:05.920
+End: 01:06:10.920
+Duration: 5.000 seconds
+Text: So at this point, we can entertain in a motion to adjourn.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:06:10.920
+End: 01:06:11.920
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 01:06:11.920
+End: 01:06:13.920
+Duration: 2.000 seconds
+Text: Do we have a motion in a second?
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 01:06:13.920
+End: 01:06:15.920
+Duration: 2.000 seconds
+Text: City clerk, please call the rule.
+--------------------------------------------------
+City Manager:
+Start: 01:06:15.920
+End: 01:06:16.920
+Duration: 1.000 seconds
+Text: Commissioner Adam Jack.
+--------------------------------------------------
+City Manager:
+Start: 01:06:16.920
+End: 01:06:17.920
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Adam Jack:
+Start: 01:06:17.920
+End: 01:06:18.920
+Duration: 1.000 seconds
+Text: Commissioner McCullough.
+--------------------------------------------------
+City Manager:
+Start: 01:06:18.920
+End: 01:06:19.920
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 01:06:19.920
+End: 01:06:20.920
+Duration: 1.000 seconds
+Text: Commissioner Opel.
+--------------------------------------------------
+City Manager:
+Start: 01:06:20.920
+End: 01:06:21.920
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 01:06:21.920
+End: 01:06:22.920
+Duration: 1.000 seconds
+Text: Commissioner Mata.
+--------------------------------------------------
+City Manager:
+Start: 01:06:22.920
+End: 01:06:23.920
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 01:06:23.920
+End: 01:06:24.920
+Duration: 1.000 seconds
+Text: Mayor Butler.
+--------------------------------------------------
+City Manager:
+Start: 01:06:24.920
+End: 01:06:25.920
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 01:06:25.920
+End: 01:06:26.920
+Duration: 1.000 seconds
+Text: Motion carries, five to zero.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 01:06:26.920
+End: 01:06:30.920
+Duration: 4.000 seconds
+Text: Okay, so the Tuesday, April 16th, City Commission meeting is hereby adjourned.
+--------------------------------------------------
+Mayor Wynn Butler:
+Start: 01:06:30.920
+End: 01:06:31.920
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------

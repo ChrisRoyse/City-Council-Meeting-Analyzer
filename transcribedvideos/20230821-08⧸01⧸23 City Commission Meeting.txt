@@ -1,0 +1,4377 @@
+Transcription and Diarization for 20230821-08⧸01⧸23 City Commission Meeting.mp4
+==================================================
+
+Commissioner Butler:
+Start: 00:00:00.000
+End: 00:00:07.620
+Duration: 7.620 seconds
+Text: It is 6 o'clock and I call to order the August 1, 2023 City Commission meeting.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:07.620
+End: 00:00:09.100
+Duration: 1.480 seconds
+Text: Please call the roll.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:09.100
+End: 00:00:10.100
+Duration: 1.000 seconds
+Text: Mayor Hasill.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:10.100
+End: 00:00:11.100
+Duration: 1.000 seconds
+Text: Here.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:00:11.100
+End: 00:00:12.100
+Duration: 1.000 seconds
+Text: Commissioner Butler.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:12.100
+End: 00:00:13.100
+Duration: 1.000 seconds
+Text: Here.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:13.100
+End: 00:00:14.100
+Duration: 1.000 seconds
+Text: Commissioner Mors.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:14.100
+End: 00:00:15.100
+Duration: 1.000 seconds
+Text: President.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:15.100
+End: 00:00:16.860
+Duration: 1.760 seconds
+Text: Mayor, we have four commissioners present.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:16.860
+End: 00:00:18.540
+Duration: 1.680 seconds
+Text: The quorum of three has been met.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:18.540
+End: 00:00:19.540
+Duration: 1.000 seconds
+Text: Very good.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:19.540
+End: 00:00:20.540
+Duration: 1.000 seconds
+Text: Please join me in the Pledge of Allegiance.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:20.540
+End: 00:00:28.280
+Duration: 7.740 seconds
+Text: I pledge allegiance to the flag of the United States of America and to the Republic for
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:28.280
+End: 00:00:38.120
+Duration: 9.840 seconds
+Text: which it stands, one nation under God, individualism with liberty and justice for all.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:38.120
+End: 00:00:43.600
+Duration: 5.480 seconds
+Text: Since this is the first legislative meeting of the month, we will open up public comment.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:43.600
+End: 00:00:48.600
+Duration: 5.000 seconds
+Text: This is for commenting on items not on any of the agenda items tonight.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:48.600
+End: 00:00:53.920
+Duration: 5.320 seconds
+Text: Members of the public, please come forward, sign your name and residential address or whatever
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:53.920
+End: 00:00:56.760
+Duration: 2.840 seconds
+Text: organization representing for the record.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:56.760
+End: 00:00:59.160
+Duration: 2.400 seconds
+Text: And so those people at home or watching can also know.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:59.160
+End: 00:01:03.560
+Duration: 4.400 seconds
+Text: You'll have five minutes, can only speak once, must stop when the timer sounds.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:03.560
+End: 00:01:08.200
+Duration: 4.640 seconds
+Text: We will not get into a debate or answer questions, but we'll take your comments under advisement.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:08.200
+End: 00:01:13.840
+Duration: 5.640 seconds
+Text: Is anybody have any public comment on items that aren't on the agenda for this evening?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:13.840
+End: 00:01:16.400
+Duration: 2.560 seconds
+Text: Very good.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:16.400
+End: 00:01:17.400
+Duration: 1.000 seconds
+Text: We will close that.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:17.400
+End: 00:01:23.240
+Duration: 5.840 seconds
+Text: Are there any commissioner comments?
+--------------------------------------------------
+City Clerk:
+Start: 00:01:23.240
+End: 00:01:31.720
+Duration: 8.480 seconds
+Text: Last night I sat in on a League of Kansas Municipalities webinar, Katie and Katie Jackson
+--------------------------------------------------
+City Clerk:
+Start: 00:01:31.720
+End: 00:01:42.120
+Duration: 10.400 seconds
+Text: and Andrew Lawson, one of the things I mentioned that they seemed to really be interested in
+--------------------------------------------------
+City Clerk:
+Start: 00:01:42.120
+End: 00:01:47.640
+Duration: 5.520 seconds
+Text: is our practice of intergovernmental lunchens where we get together and share information
+--------------------------------------------------
+City Clerk:
+Start: 00:01:47.640
+End: 00:01:51.160
+Duration: 3.520 seconds
+Text: once a month.
+--------------------------------------------------
+City Clerk:
+Start: 00:01:51.160
+End: 00:01:54.640
+Duration: 3.480 seconds
+Text: Because evidently a lot of communities don't do that.
+--------------------------------------------------
+City Clerk:
+Start: 00:01:54.640
+End: 00:02:00.880
+Duration: 6.240 seconds
+Text: And I think it has real benefits for us to know other elected officials and be able to
+--------------------------------------------------
+City Clerk:
+Start: 00:02:00.880
+End: 00:02:04.560
+Duration: 3.680 seconds
+Text: call them by first name, not embarrass ourselves at all.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:04.560
+End: 00:02:10.600
+Duration: 6.040 seconds
+Text: But anyway, it's a work on joint projects and identify projects that we can both work
+--------------------------------------------------
+City Clerk:
+Start: 00:02:10.600
+End: 00:02:11.600
+Duration: 1.000 seconds
+Text: on.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:11.600
+End: 00:02:14.600
+Duration: 3.000 seconds
+Text: So I think that's especially helpful.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:14.600
+End: 00:02:19.240
+Duration: 4.640 seconds
+Text: I just wanted to know that that was a contribution to that.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:19.240
+End: 00:02:26.600
+Duration: 7.360 seconds
+Text: And most recently through the six weeks this summer, the Staley School of Leadership Studies
+--------------------------------------------------
+City Clerk:
+Start: 00:02:26.600
+End: 00:02:33.720
+Duration: 7.120 seconds
+Text: that K-State has hosted the Mandela Fellows, 25 students from Sub-Saharan Africa who visit
+--------------------------------------------------
+City Clerk:
+Start: 00:02:33.720
+End: 00:02:36.960
+Duration: 3.240 seconds
+Text: here pretty much every summer.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:36.960
+End: 00:02:41.600
+Duration: 4.640 seconds
+Text: But they have just graduated and are on their way home or on to their next site.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:41.600
+End: 00:02:49.400
+Duration: 7.800 seconds
+Text: It's always a rewarding experience to talk about our system of democracy and what those
+--------------------------------------------------
+City Clerk:
+Start: 00:02:49.400
+End: 00:02:51.080
+Duration: 1.680 seconds
+Text: processes are.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:51.080
+End: 00:02:53.400
+Duration: 2.320 seconds
+Text: Sometimes it's more embarrassing than others.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:53.400
+End: 00:02:58.160
+Duration: 4.760 seconds
+Text: For the most part, it is all and they are ever so curious.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:58.160
+End: 00:03:01.120
+Duration: 2.960 seconds
+Text: So I just wanted to mention those things.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:01.120
+End: 00:03:02.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:02.120
+End: 00:03:03.120
+Duration: 1.000 seconds
+Text: Very good.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:03.120
+End: 00:03:04.120
+Duration: 1.000 seconds
+Text: No, very good.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:04.120
+End: 00:03:07.120
+Duration: 3.000 seconds
+Text: We will move on to the consent agenda.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:07.120
+End: 00:03:12.360
+Duration: 5.240 seconds
+Text: These are items that are routine and housekeeping nature or items that have been previously reviewed
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:12.360
+End: 00:03:13.360
+Duration: 1.000 seconds
+Text: by the commission.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:13.360
+End: 00:03:17.760
+Duration: 4.400 seconds
+Text: The commission or maybe a question item may remove for separate discussion and consideration.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:17.760
+End: 00:03:24.960
+Duration: 7.200 seconds
+Text: Does the commission have any questions or comments about any of the consent agenda items?
+--------------------------------------------------
+City Clerk:
+Start: 00:03:24.960
+End: 00:03:36.400
+Duration: 11.440 seconds
+Text: I would just like to draw attention to item E1, which is professional services.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:36.400
+End: 00:03:48.400
+Duration: 12.000 seconds
+Text: Well, there's a, it is for the wastewater treatment plant, solids, treatment upgrade and
+--------------------------------------------------
+City Clerk:
+Start: 00:03:48.400
+End: 00:03:50.160
+Duration: 1.760 seconds
+Text: expansion.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:50.160
+End: 00:03:56.120
+Duration: 5.960 seconds
+Text: And the estimate, a couple of years ago, started out at about $10 million and now it's up to
+--------------------------------------------------
+City Clerk:
+Start: 00:03:56.120
+End: 00:03:57.840
+Duration: 1.720 seconds
+Text: $16 million.
+--------------------------------------------------
+City Clerk:
+Start: 00:03:57.840
+End: 00:04:01.200
+Duration: 3.360 seconds
+Text: And it's a big deal for our community.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:01.200
+End: 00:04:07.600
+Duration: 6.400 seconds
+Text: It's really something we have infrastructure that we just have to invest in.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:07.600
+End: 00:04:15.440
+Duration: 7.840 seconds
+Text: And so I wanted to just call attention to some of these big ticket items that we get involved
+--------------------------------------------------
+City Clerk:
+Start: 00:04:15.440
+End: 00:04:18.040
+Duration: 2.600 seconds
+Text: with.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:18.040
+End: 00:04:21.720
+Duration: 3.680 seconds
+Text: And I think that was the only one that I really wanted to speak to.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:21.720
+End: 00:04:22.720
+Duration: 1.000 seconds
+Text: Thanks.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:22.720
+End: 00:04:24.760
+Duration: 2.040 seconds
+Text: Does that mean you're volunteering to be on that search committee?
+--------------------------------------------------
+City Clerk:
+Start: 00:04:24.760
+End: 00:04:25.760
+Duration: 1.000 seconds
+Text: No.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:25.760
+End: 00:04:28.920
+Duration: 3.160 seconds
+Text: How about you, other jokers?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:29.920
+End: 00:04:30.920
+Duration: 1.000 seconds
+Text: Okay, very good.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:30.920
+End: 00:04:31.920
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:31.920
+End: 00:04:35.480
+Duration: 3.560 seconds
+Text: Well, I'll be a commissioner about that then.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:04:35.480
+End: 00:04:40.160
+Duration: 4.680 seconds
+Text: And there's two other things under professional services, which I think are worth mentioning.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:04:40.160
+End: 00:04:44.840
+Duration: 4.680 seconds
+Text: We've been trying for a long time to do something with the lots on Lemill Village.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:04:44.840
+End: 00:04:49.600
+Duration: 4.760 seconds
+Text: And so it looks like we've got a group that we can negotiate with, which will put those
+--------------------------------------------------
+Director of Community Development:
+Start: 00:04:49.600
+End: 00:04:52.280
+Duration: 2.680 seconds
+Text: back on the tax rolls, which is one thing.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:04:52.280
+End: 00:04:54.840
+Duration: 2.560 seconds
+Text: And may also help with workforce housing, the way it looks.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:04:54.840
+End: 00:04:56.640
+Duration: 1.800 seconds
+Text: So that's a good thing.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:04:56.640
+End: 00:04:58.600
+Duration: 1.960 seconds
+Text: And then item three is the animal shelter.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:04:58.600
+End: 00:05:06.040
+Duration: 7.440 seconds
+Text: But this is just an agreement to continue negotiations with the group that submitted a request,
+--------------------------------------------------
+Director of Community Development:
+Start: 00:05:06.040
+End: 00:05:08.120
+Duration: 2.080 seconds
+Text: Perry paused, to run the shelter.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:05:08.120
+End: 00:05:14.880
+Duration: 6.760 seconds
+Text: And ultimately that should save us some money, but also maybe enhance some services.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:05:14.880
+End: 00:05:18.080
+Duration: 3.200 seconds
+Text: So we'll see how the final negotiations work out on that.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:05:18.080
+End: 00:05:20.320
+Duration: 2.240 seconds
+Text: But there's not an agreement to actually do that yet.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:05:20.320
+End: 00:05:23.400
+Duration: 3.080 seconds
+Text: It's just a further negotiate.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:23.400
+End: 00:05:34.200
+Duration: 10.800 seconds
+Text: I would like to just say that I hope that there are some actual, there's actually some criteria
+--------------------------------------------------
+City Clerk:
+Start: 00:05:34.200
+End: 00:05:36.920
+Duration: 2.720 seconds
+Text: in this agreement for performance.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:36.920
+End: 00:05:42.800
+Duration: 5.880 seconds
+Text: So that no time in the future are we embarrassed because we didn't think of something ahead of
+--------------------------------------------------
+City Clerk:
+Start: 00:05:42.800
+End: 00:05:44.200
+Duration: 1.400 seconds
+Text: time.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:44.200
+End: 00:05:45.880
+Duration: 1.680 seconds
+Text: And I'm not being critical.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:45.880
+End: 00:05:49.120
+Duration: 3.240 seconds
+Text: I just want to be sure that that's that we do that.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:05:49.120
+End: 00:05:55.080
+Duration: 5.960 seconds
+Text: I was on the selection committee and they did actually submit a page of metrics, which
+--------------------------------------------------
+Director of Community Development:
+Start: 00:05:55.080
+End: 00:06:00.240
+Duration: 5.160 seconds
+Text: I thought John would really be impressed with because it had criteria for performance.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:06:00.240
+End: 00:06:01.240
+Duration: 1.000 seconds
+Text: So I was impressed.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:06:01.240
+End: 00:06:05.640
+Duration: 4.400 seconds
+Text: There was a few things that weren't totally nailed down and that's why we're going to
+--------------------------------------------------
+Director of Community Development:
+Start: 00:06:05.640
+End: 00:06:07.200
+Duration: 1.560 seconds
+Text: continue negotiations.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:06:07.200
+End: 00:06:11.520
+Duration: 4.320 seconds
+Text: Just some simple things like they concentrated more on cats and dogs.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:06:11.520
+End: 00:06:15.160
+Duration: 3.640 seconds
+Text: And occasionally we get a rabbit, a ferret, and so we want to cover that.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:06:15.160
+End: 00:06:18.320
+Duration: 3.160 seconds
+Text: And there's some differences on maintenance.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:06:18.320
+End: 00:06:22.240
+Duration: 3.920 seconds
+Text: I think they were concerned about the trees and they wanted the city for us to handle
+--------------------------------------------------
+Director of Community Development:
+Start: 00:06:22.240
+End: 00:06:24.240
+Duration: 2.000 seconds
+Text: any problems with trees.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:06:24.240
+End: 00:06:28.360
+Duration: 4.120 seconds
+Text: So we got to nail those things down, but rest assured there's going to be a long list
+--------------------------------------------------
+Director of Community Development:
+Start: 00:06:28.360
+End: 00:06:34.440
+Duration: 6.080 seconds
+Text: of metrics because we want to make absolutely certain that we get improved service out of
+--------------------------------------------------
+Director of Community Development:
+Start: 00:06:34.440
+End: 00:06:35.440
+Duration: 1.000 seconds
+Text: this.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:06:35.440
+End: 00:06:39.080
+Duration: 3.640 seconds
+Text: It wasn't that proposal, 100 pages or some crazy thing.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:06:39.080
+End: 00:06:44.000
+Duration: 4.920 seconds
+Text: So there's put some thought into some of this, but yeah, I understand that we want to try
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:06:44.000
+End: 00:06:46.720
+Duration: 2.720 seconds
+Text: to cover it, anticipate as much as possible.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:46.720
+End: 00:06:51.240
+Duration: 4.520 seconds
+Text: And I too am happy that the Lee Mill Village lots are sold.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:51.240
+End: 00:06:56.520
+Duration: 5.280 seconds
+Text: We bought those at a property tax sale.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:56.520
+End: 00:06:59.400
+Duration: 2.880 seconds
+Text: These are the last of them right, Ron.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:59.400
+End: 00:07:09.120
+Duration: 9.720 seconds
+Text: And we'll have them back on the property tax rolls and we can all sigh, relief.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:09.120
+End: 00:07:13.040
+Duration: 3.920 seconds
+Text: Who knew it would be so hard to sell lots?
+--------------------------------------------------
+City Clerk:
+Start: 00:07:13.040
+End: 00:07:15.440
+Duration: 2.400 seconds
+Text: I mean, people do it every day.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:15.440
+End: 00:07:19.720
+Duration: 4.280 seconds
+Text: And it's taken five years or four years or something.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:19.720
+End: 00:07:21.960
+Duration: 2.240 seconds
+Text: But I'm glad that it'll be finally over.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:07:21.960
+End: 00:07:22.960
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:07:22.960
+End: 00:07:27.960
+Duration: 5.000 seconds
+Text: I'll go ahead and open up a public comment on the consent agenda items.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:07:27.960
+End: 00:07:29.960
+Duration: 2.000 seconds
+Text: Same rules, stand, five minutes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:07:29.960
+End: 00:07:31.960
+Duration: 2.000 seconds
+Text: Date your name.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:07:31.960
+End: 00:07:32.960
+Duration: 1.000 seconds
+Text: Nope.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:07:32.960
+End: 00:07:33.960
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:07:33.960
+End: 00:07:36.760
+Duration: 2.800 seconds
+Text: Is there a motion on the consent agenda?
+--------------------------------------------------
+Director of Community Development:
+Start: 00:07:36.760
+End: 00:07:38.000
+Duration: 1.240 seconds
+Text: Yeah, I move.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:07:38.000
+End: 00:07:40.000
+Duration: 2.000 seconds
+Text: We approve the consent agenda.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:07:40.000
+End: 00:07:41.000
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:07:41.000
+End: 00:07:42.000
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:07:42.000
+End: 00:07:44.160
+Duration: 2.160 seconds
+Text: We're moving seconded to approve the consent agenda.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:07:44.160
+End: 00:07:45.160
+Duration: 1.000 seconds
+Text: Please call the roll.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:45.160
+End: 00:07:46.160
+Duration: 1.000 seconds
+Text: Commissioner Butler.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:07:46.160
+End: 00:07:47.160
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:07:47.160
+End: 00:07:48.160
+Duration: 1.000 seconds
+Text: Commissioner Mata.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:07:48.160
+End: 00:07:49.160
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:49.160
+End: 00:07:50.160
+Duration: 1.000 seconds
+Text: Commissioner Morris.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:50.160
+End: 00:07:51.160
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:51.160
+End: 00:07:52.160
+Duration: 1.000 seconds
+Text: Mayor Hassel.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:07:52.160
+End: 00:07:53.160
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:53.160
+End: 00:07:54.160
+Duration: 1.000 seconds
+Text: Motion carries.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:07:54.160
+End: 00:07:55.160
+Duration: 1.000 seconds
+Text: Four to zero.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:07:55.160
+End: 00:07:56.160
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:07:56.160
+End: 00:08:00.280
+Duration: 4.120 seconds
+Text: Item one on the consent agenda is consider reducing the landscaping requirements and setbacks
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:08:00.280
+End: 00:08:03.160
+Duration: 2.880 seconds
+Text: for the Manhattan High parking lot.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:08:03.160
+End: 00:08:08.400
+Duration: 5.240 seconds
+Text: Please welcome the director of community development.
+--------------------------------------------------
+City Manager:
+Start: 00:08:08.400
+End: 00:08:09.400
+Duration: 1.000 seconds
+Text: Is this other?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:08:09.400
+End: 00:08:10.400
+Duration: 1.000 seconds
+Text: There it is.
+--------------------------------------------------
+City Manager:
+Start: 00:08:10.400
+End: 00:08:11.400
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+City Manager:
+Start: 00:08:11.400
+End: 00:08:12.400
+Duration: 1.000 seconds
+Text: Good evening.
+--------------------------------------------------
+City Manager:
+Start: 00:08:12.400
+End: 00:08:14.160
+Duration: 1.760 seconds
+Text: We have the community development.
+--------------------------------------------------
+City Manager:
+Start: 00:08:14.160
+End: 00:08:18.720
+Duration: 4.560 seconds
+Text: We have for you the CB municipal facility review for Manhattan High School.
+--------------------------------------------------
+City Manager:
+Start: 00:08:18.720
+End: 00:08:23.200
+Duration: 4.480 seconds
+Text: We'll be looking at eliminating the parking setback requirement as well as some landscape
+--------------------------------------------------
+City Manager:
+Start: 00:08:23.200
+End: 00:08:24.960
+Duration: 1.760 seconds
+Text: screening.
+--------------------------------------------------
+City Manager:
+Start: 00:08:24.960
+End: 00:08:28.160
+Duration: 3.200 seconds
+Text: The location over this parking lot would be located.
+--------------------------------------------------
+City Manager:
+Start: 00:08:28.160
+End: 00:08:29.880
+Duration: 1.720 seconds
+Text: You see the high school there to the north.
+--------------------------------------------------
+City Manager:
+Start: 00:08:29.880
+End: 00:08:35.560
+Duration: 5.680 seconds
+Text: The existing parking lot is immediately east of the parcels that are indicated there.
+--------------------------------------------------
+City Manager:
+Start: 00:08:35.560
+End: 00:08:39.320
+Duration: 3.760 seconds
+Text: I will note that this aerial shows three residential homes there.
+--------------------------------------------------
+City Manager:
+Start: 00:08:39.320
+End: 00:08:41.320
+Duration: 2.000 seconds
+Text: Those have since been raised.
+--------------------------------------------------
+City Manager:
+Start: 00:08:42.320
+End: 00:08:45.840
+Duration: 3.520 seconds
+Text: Here's a conceptual idea of what that site layout would look like.
+--------------------------------------------------
+City Manager:
+Start: 00:08:45.840
+End: 00:08:49.840
+Duration: 4.000 seconds
+Text: You can see that the school district tried to match the existing parking lot.
+--------------------------------------------------
+City Manager:
+Start: 00:08:49.840
+End: 00:08:51.840
+Duration: 2.000 seconds
+Text: Very similar layout.
+--------------------------------------------------
+City Manager:
+Start: 00:08:51.840
+End: 00:08:52.840
+Duration: 1.000 seconds
+Text: There we go.
+--------------------------------------------------
+City Manager:
+Start: 00:08:52.840
+End: 00:08:59.440
+Duration: 6.600 seconds
+Text: So this would be a concrete median and then also just have the painting, painted areas at
+--------------------------------------------------
+City Manager:
+Start: 00:08:59.440
+End: 00:09:05.120
+Duration: 5.680 seconds
+Text: the end rather than that raised landscape median.
+--------------------------------------------------
+City Manager:
+Start: 00:09:05.120
+End: 00:09:08.680
+Duration: 3.560 seconds
+Text: Closer look at what that layout looks like.
+--------------------------------------------------
+City Manager:
+Start: 00:09:08.680
+End: 00:09:12.760
+Duration: 4.080 seconds
+Text: One thing, a couple of things that I'll note and then I also have kind of a summary slide
+--------------------------------------------------
+City Manager:
+Start: 00:09:12.760
+End: 00:09:14.640
+Duration: 1.880 seconds
+Text: of what they're looking to do.
+--------------------------------------------------
+City Manager:
+Start: 00:09:14.640
+End: 00:09:20.800
+Duration: 6.160 seconds
+Text: In order to match the existing parking lot to the east, they are asking for this set back
+--------------------------------------------------
+City Manager:
+Start: 00:09:20.800
+End: 00:09:26.600
+Duration: 5.800 seconds
+Text: here along Oak Street, which would typically be 20 feet for it to be eliminated.
+--------------------------------------------------
+City Manager:
+Start: 00:09:26.600
+End: 00:09:29.160
+Duration: 2.560 seconds
+Text: You can see here that there is a sidewalk.
+--------------------------------------------------
+City Manager:
+Start: 00:09:29.160
+End: 00:09:33.760
+Duration: 4.600 seconds
+Text: So that's this light gray strip here and then it kind of jogs up to the north and it continues
+--------------------------------------------------
+City Manager:
+Start: 00:09:33.760
+End: 00:09:36.480
+Duration: 2.720 seconds
+Text: along the back of the curb of that sidewalk.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:09:37.480
+End: 00:09:38.480
+Duration: 1.000 seconds
+Text: Let's see.
+--------------------------------------------------
+City Manager:
+Start: 00:09:38.480
+End: 00:09:45.480
+Duration: 7.000 seconds
+Text: The MDC actually has landscaping requirements that when we go back and evaluate that, I think
+--------------------------------------------------
+City Manager:
+Start: 00:09:45.480
+End: 00:09:48.040
+Duration: 2.560 seconds
+Text: they were really written for retail in mind.
+--------------------------------------------------
+City Manager:
+Start: 00:09:48.040
+End: 00:09:51.760
+Duration: 3.720 seconds
+Text: We didn't really anticipate having to apply those for some of our public or institutional
+--------------------------------------------------
+City Manager:
+Start: 00:09:51.760
+End: 00:09:55.560
+Duration: 3.800 seconds
+Text: facilities, especially when they're in residential districts.
+--------------------------------------------------
+City Manager:
+Start: 00:09:55.560
+End: 00:10:02.200
+Duration: 6.640 seconds
+Text: So there is a landscaping requirement as of now that would require landscape screening.
+--------------------------------------------------
+City Manager:
+Start: 00:10:02.200
+End: 00:10:04.080
+Duration: 1.880 seconds
+Text: So I keep losing my mouse.
+--------------------------------------------------
+City Manager:
+Start: 00:10:04.080
+End: 00:10:05.080
+Duration: 1.000 seconds
+Text: I'm sorry.
+--------------------------------------------------
+City Manager:
+Start: 00:10:05.080
+End: 00:10:08.960
+Duration: 3.880 seconds
+Text: That would require landscape screening along this entire south side, really buffering
+--------------------------------------------------
+City Manager:
+Start: 00:10:08.960
+End: 00:10:11.920
+Duration: 2.960 seconds
+Text: that parking lot from that public right of way.
+--------------------------------------------------
+City Manager:
+Start: 00:10:11.920
+End: 00:10:15.840
+Duration: 3.920 seconds
+Text: That was really intended to make sure we could kind of knock down some of that headlight
+--------------------------------------------------
+City Manager:
+Start: 00:10:15.840
+End: 00:10:19.760
+Duration: 3.920 seconds
+Text: glare so that you don't have headlights, especially going through a drive-through, shining
+--------------------------------------------------
+City Manager:
+Start: 00:10:19.760
+End: 00:10:23.960
+Duration: 4.200 seconds
+Text: into public right of way, potentially creating a safety issue for the vehicles using that public
+--------------------------------------------------
+City Manager:
+Start: 00:10:23.960
+End: 00:10:24.960
+Duration: 1.000 seconds
+Text: street.
+--------------------------------------------------
+City Manager:
+Start: 00:10:24.960
+End: 00:10:29.240
+Duration: 4.280 seconds
+Text: However, it's recognized that most schools are operating during daylight hours.
+--------------------------------------------------
+City Manager:
+Start: 00:10:29.240
+End: 00:10:33.680
+Duration: 4.440 seconds
+Text: They do occasionally have some nighttime activities.
+--------------------------------------------------
+City Manager:
+Start: 00:10:33.680
+End: 00:10:38.400
+Duration: 4.720 seconds
+Text: So that was something I guess that we should just keep in mind there.
+--------------------------------------------------
+City Manager:
+Start: 00:10:38.400
+End: 00:10:42.600
+Duration: 4.200 seconds
+Text: The other issue with the landscape screening along the parking lot is you can see the sidewalk
+--------------------------------------------------
+City Manager:
+Start: 00:10:42.600
+End: 00:10:50.160
+Duration: 7.560 seconds
+Text: but that curve, there would be no room to put that the screening there as it's shown.
+--------------------------------------------------
+City Manager:
+Start: 00:10:50.160
+End: 00:10:54.480
+Duration: 4.320 seconds
+Text: Staff had a kind of way whether we wanted to make sure we could have landscape screening
+--------------------------------------------------
+City Manager:
+Start: 00:10:54.480
+End: 00:10:57.960
+Duration: 3.480 seconds
+Text: there or whether we wanted to construct a sidewalk.
+--------------------------------------------------
+City Manager:
+Start: 00:10:57.960
+End: 00:11:02.120
+Duration: 4.160 seconds
+Text: That sidewalk has been a missing link that we've talked about for years.
+--------------------------------------------------
+City Manager:
+Start: 00:11:02.120
+End: 00:11:09.360
+Duration: 7.240 seconds
+Text: There's a out of us stop that's over a long further to the east here.
+--------------------------------------------------
+City Manager:
+Start: 00:11:09.360
+End: 00:11:14.400
+Duration: 5.040 seconds
+Text: The idea that people could walk along this road to get to the zoo or individuals that are
+--------------------------------------------------
+City Manager:
+Start: 00:11:14.400
+End: 00:11:21.680
+Duration: 7.280 seconds
+Text: utilizing this parking lot, they would actually have access that would be on a paved surface.
+--------------------------------------------------
+City Manager:
+Start: 00:11:21.680
+End: 00:11:26.120
+Duration: 4.440 seconds
+Text: So we believed that the kind of the greater public benefit here would be to have that sidewalk
+--------------------------------------------------
+City Manager:
+Start: 00:11:26.120
+End: 00:11:29.000
+Duration: 2.880 seconds
+Text: and then eliminate that screening.
+--------------------------------------------------
+City Manager:
+Start: 00:11:29.000
+End: 00:11:33.560
+Duration: 4.560 seconds
+Text: Also with having the sidewalk here kind of hugged up tight against that curve, we're
+--------------------------------------------------
+City Manager:
+Start: 00:11:33.560
+End: 00:11:39.440
+Duration: 5.880 seconds
+Text: trying to preserve some of these massive existing oak trees that are along this street.
+--------------------------------------------------
+City Manager:
+Start: 00:11:39.440
+End: 00:11:44.160
+Duration: 4.720 seconds
+Text: If we get kind of further away from the parking lot curve, there is a greater risk that those
+--------------------------------------------------
+City Manager:
+Start: 00:11:44.160
+End: 00:11:47.080
+Duration: 2.920 seconds
+Text: would die during construction.
+--------------------------------------------------
+City Manager:
+Start: 00:11:47.080
+End: 00:11:51.600
+Duration: 4.520 seconds
+Text: The school district has also asked for through this municipal facility review process for
+--------------------------------------------------
+City Manager:
+Start: 00:11:51.600
+End: 00:11:58.320
+Duration: 6.720 seconds
+Text: elimination of the curved landscaping islands that would be with this painted area right
+--------------------------------------------------
+City Manager:
+Start: 00:11:58.320
+End: 00:11:59.320
+Duration: 1.000 seconds
+Text: here.
+--------------------------------------------------
+City Manager:
+Start: 00:11:59.320
+End: 00:12:03.280
+Duration: 3.960 seconds
+Text: Again, that would match what is on the east parking lot.
+--------------------------------------------------
+City Manager:
+Start: 00:12:03.280
+End: 00:12:07.040
+Duration: 3.760 seconds
+Text: It also, they indicated it makes it a little bit easier for snow removal and maintenance
+--------------------------------------------------
+City Manager:
+Start: 00:12:07.040
+End: 00:12:09.560
+Duration: 2.520 seconds
+Text: of that parking facility.
+--------------------------------------------------
+City Manager:
+Start: 00:12:09.560
+End: 00:12:14.480
+Duration: 4.920 seconds
+Text: And then lastly, elimination of having trees within these raised areas.
+--------------------------------------------------
+City Manager:
+Start: 00:12:14.480
+End: 00:12:18.600
+Duration: 4.120 seconds
+Text: First, they're asking that there be no raised area, but if there were, part of the concern
+--------------------------------------------------
+City Manager:
+Start: 00:12:18.600
+End: 00:12:20.880
+Duration: 2.280 seconds
+Text: was having security cameras.
+--------------------------------------------------
+City Manager:
+Start: 00:12:20.880
+End: 00:12:24.320
+Duration: 3.440 seconds
+Text: I believe in the school district representatives are here tonight, I believe they were going
+--------------------------------------------------
+City Manager:
+Start: 00:12:24.320
+End: 00:12:27.840
+Duration: 3.520 seconds
+Text: to have a security camera maybe located somewhere around here.
+--------------------------------------------------
+City Manager:
+Start: 00:12:27.840
+End: 00:12:31.140
+Duration: 3.300 seconds
+Text: So having that tree, they wouldn't have a good visual of everything going on in that parking
+--------------------------------------------------
+City Manager:
+Start: 00:12:31.140
+End: 00:12:34.240
+Duration: 3.100 seconds
+Text: lot.
+--------------------------------------------------
+City Manager:
+Start: 00:12:34.240
+End: 00:12:39.320
+Duration: 5.080 seconds
+Text: Here just kind of a summary of the request with this municipal facility review.
+--------------------------------------------------
+City Manager:
+Start: 00:12:39.320
+End: 00:12:43.720
+Duration: 4.400 seconds
+Text: I did kind of consolidate the interior parking lot landscaping requirement.
+--------------------------------------------------
+City Manager:
+Start: 00:12:43.720
+End: 00:12:49.120
+Duration: 5.400 seconds
+Text: Those trees within that raised landscaped island.
+--------------------------------------------------
+City Manager:
+Start: 00:12:49.120
+End: 00:12:51.600
+Duration: 2.480 seconds
+Text: And then another look at the site layout.
+--------------------------------------------------
+City Manager:
+Start: 00:12:51.600
+End: 00:12:54.880
+Duration: 3.280 seconds
+Text: This did go to the planning board on July 13th.
+--------------------------------------------------
+City Manager:
+Start: 00:12:54.880
+End: 00:12:58.240
+Duration: 3.360 seconds
+Text: There were no public comments that were received during that hearing.
+--------------------------------------------------
+City Manager:
+Start: 00:12:58.240
+End: 00:13:04.600
+Duration: 6.360 seconds
+Text: And they voted to recommend approval of this municipal facility review on a vote of 720.
+--------------------------------------------------
+City Manager:
+Start: 00:13:04.600
+End: 00:13:08.920
+Duration: 4.320 seconds
+Text: With that, I will stand for any questions that you may have.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:13:08.920
+End: 00:13:09.920
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:13:09.920
+End: 00:13:11.920
+Duration: 2.000 seconds
+Text: Anybody got questions?
+--------------------------------------------------
+Director of Community Development:
+Start: 00:13:11.920
+End: 00:13:15.880
+Duration: 3.960 seconds
+Text: Just going to one comment.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:13:15.880
+End: 00:13:19.520
+Duration: 3.640 seconds
+Text: What seems strange to me is, you know, we went through this code review and we put all
+--------------------------------------------------
+Director of Community Development:
+Start: 00:13:19.520
+End: 00:13:20.520
+Duration: 1.000 seconds
+Text: the stuff in there.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:13:20.520
+End: 00:13:24.680
+Duration: 4.160 seconds
+Text: And then I guess the first two times it's come up, the other one was I think Bluemont
+--------------------------------------------------
+Director of Community Development:
+Start: 00:13:24.680
+End: 00:13:25.680
+Duration: 1.000 seconds
+Text: School.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:13:25.680
+End: 00:13:26.680
+Duration: 1.000 seconds
+Text: Right.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:13:26.680
+End: 00:13:27.200
+Duration: 0.520 seconds
+Text: We decided we didn't like our code.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:13:27.200
+End: 00:13:29.400
+Duration: 2.200 seconds
+Text: Should we relook that?
+--------------------------------------------------
+City Manager:
+Start: 00:13:29.400
+End: 00:13:31.920
+Duration: 2.520 seconds
+Text: So the answer is yes.
+--------------------------------------------------
+City Manager:
+Start: 00:13:31.920
+End: 00:13:36.040
+Duration: 4.120 seconds
+Text: We've actually have made some adjustments to the landscaping requirements already.
+--------------------------------------------------
+City Manager:
+Start: 00:13:36.040
+End: 00:13:37.040
+Duration: 1.000 seconds
+Text: You had an amendment.
+--------------------------------------------------
+City Manager:
+Start: 00:13:37.040
+End: 00:13:38.400
+Duration: 1.360 seconds
+Text: I believe it was earlier this year.
+--------------------------------------------------
+City Manager:
+Start: 00:13:38.400
+End: 00:13:42.520
+Duration: 4.120 seconds
+Text: And we kind of reduced those down a little bit because we saw that they were maybe a little
+--------------------------------------------------
+City Manager:
+Start: 00:13:42.520
+End: 00:13:43.920
+Duration: 1.400 seconds
+Text: too strict.
+--------------------------------------------------
+City Manager:
+Start: 00:13:43.920
+End: 00:13:48.640
+Duration: 4.720 seconds
+Text: What we're looking at doing now is we have a public institutional zoning district.
+--------------------------------------------------
+City Manager:
+Start: 00:13:48.640
+End: 00:13:53.520
+Duration: 4.880 seconds
+Text: There are no, it's written in the MDC, but we currently don't have any properties that
+--------------------------------------------------
+City Manager:
+Start: 00:13:53.520
+End: 00:13:58.640
+Duration: 5.120 seconds
+Text: are zoned as that public institutional use.
+--------------------------------------------------
+City Manager:
+Start: 00:13:58.640
+End: 00:14:03.320
+Duration: 4.680 seconds
+Text: We are going to look at how do we reflect the landscaping requirements that are appropriate
+--------------------------------------------------
+City Manager:
+Start: 00:14:03.320
+End: 00:14:05.920
+Duration: 2.600 seconds
+Text: for those uses within that district.
+--------------------------------------------------
+City Manager:
+Start: 00:14:05.920
+End: 00:14:09.440
+Duration: 3.520 seconds
+Text: So we would likely see that there is going to be a reduction of the landscaped requirements
+--------------------------------------------------
+City Manager:
+Start: 00:14:09.440
+End: 00:14:13.120
+Duration: 3.680 seconds
+Text: for any public institutional use that would receive that zoning district.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:14:13.120
+End: 00:14:14.120
+Duration: 1.000 seconds
+Text: Does that?
+--------------------------------------------------
+Director of Community Development:
+Start: 00:14:14.120
+End: 00:14:15.120
+Duration: 1.000 seconds
+Text: That sounds good.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:14:15.120
+End: 00:14:19.040
+Duration: 3.920 seconds
+Text: I mean, I, you know, I especially like the concept here.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:14:19.040
+End: 00:14:21.840
+Duration: 2.800 seconds
+Text: If we used our current zoning thing, we'd kill the oak trees.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:14:21.840
+End: 00:14:22.840
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:14:22.840
+End: 00:14:23.840
+Duration: 1.000 seconds
+Text: Which seems sort of crazy.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:14:23.840
+End: 00:14:25.480
+Duration: 1.640 seconds
+Text: We had a lot of people that like the oak trees.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:14:25.480
+End: 00:14:28.200
+Duration: 2.720 seconds
+Text: So it seems to make sense on the surface.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:14:28.200
+End: 00:14:31.280
+Duration: 3.080 seconds
+Text: It just seems to be a disconnect between our rules.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:14:31.280
+End: 00:14:33.840
+Duration: 2.560 seconds
+Text: And then, you know, the idea was streamline the rules.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:14:33.840
+End: 00:14:37.240
+Duration: 3.400 seconds
+Text: So we didn't have to go through these, you know, procedures for changes.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:14:37.240
+End: 00:14:38.560
+Duration: 1.320 seconds
+Text: And it doesn't seem to be working yet.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:14:38.560
+End: 00:14:41.400
+Duration: 2.840 seconds
+Text: So if you can help fix that, I greatly appreciate it.
+--------------------------------------------------
+City Manager:
+Start: 00:14:41.400
+End: 00:14:46.960
+Duration: 5.560 seconds
+Text: I think public institutional would almost nearly eliminate our need for municipal facility
+--------------------------------------------------
+City Manager:
+Start: 00:14:46.960
+End: 00:14:47.960
+Duration: 1.000 seconds
+Text: review.
+--------------------------------------------------
+City Manager:
+Start: 00:14:47.960
+End: 00:14:50.920
+Duration: 2.960 seconds
+Text: Some of the others you've seen have had to deal with signs because we don't anticipate
+--------------------------------------------------
+City Manager:
+Start: 00:14:50.920
+End: 00:14:52.680
+Duration: 1.760 seconds
+Text: signs in a residential district.
+--------------------------------------------------
+City Manager:
+Start: 00:14:52.680
+End: 00:14:54.680
+Duration: 2.000 seconds
+Text: So we're looking at that.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:14:54.680
+End: 00:14:56.680
+Duration: 2.000 seconds
+Text: Linda, did you have something on?
+--------------------------------------------------
+City Clerk:
+Start: 00:14:56.680
+End: 00:14:57.680
+Duration: 1.000 seconds
+Text: I do.
+--------------------------------------------------
+City Clerk:
+Start: 00:14:58.680
+End: 00:15:06.320
+Duration: 7.640 seconds
+Text: I object actually to eliminating the res, the landscaping requirements.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:06.320
+End: 00:15:08.640
+Duration: 2.320 seconds
+Text: It's just because the school district don't sit.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:08.640
+End: 00:15:14.640
+Duration: 6.000 seconds
+Text: And I've watched some of the other schools where they're the actual amount of green space
+--------------------------------------------------
+City Clerk:
+Start: 00:15:14.640
+End: 00:15:17.320
+Duration: 2.680 seconds
+Text: on the property is being eliminated.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:17.320
+End: 00:15:20.880
+Duration: 3.560 seconds
+Text: I greatly reduced, let me say it that way.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:20.880
+End: 00:15:22.720
+Duration: 1.840 seconds
+Text: And so I want us to be careful.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:22.720
+End: 00:15:27.480
+Duration: 4.760 seconds
+Text: I believe that the children at the schools, at least the other schools, these are high
+--------------------------------------------------
+City Clerk:
+Start: 00:15:27.480
+End: 00:15:31.080
+Duration: 3.600 seconds
+Text: school students, it might not be as significant that they.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:31.080
+End: 00:15:36.120
+Duration: 5.040 seconds
+Text: But I think we want to be cautious too and not just have a string of them come in and
+--------------------------------------------------
+City Clerk:
+Start: 00:15:36.120
+End: 00:15:39.720
+Duration: 3.600 seconds
+Text: we just approve them one after another.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:39.720
+End: 00:15:44.800
+Duration: 5.080 seconds
+Text: I think we give it, and the planning board gives it thoughtful consideration.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:44.800
+End: 00:15:46.800
+Duration: 2.000 seconds
+Text: I want to be as efficient with parking.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:46.800
+End: 00:15:52.760
+Duration: 5.960 seconds
+Text: I believe this high school requires a lot of parking.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:52.760
+End: 00:15:56.040
+Duration: 3.280 seconds
+Text: We're moving the freshman class there this fall.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:56.040
+End: 00:15:59.960
+Duration: 3.920 seconds
+Text: But I want to also make sure that there's something.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:59.960
+End: 00:16:06.280
+Duration: 6.320 seconds
+Text: I mean, right now we're having 105 degree days and parking lots are really hot.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:06.280
+End: 00:16:15.200
+Duration: 8.920 seconds
+Text: And so I'm not trying to, I'm afraid that I notice more of a reluctance to perform maintenance
+--------------------------------------------------
+City Clerk:
+Start: 00:16:15.200
+End: 00:16:24.960
+Duration: 9.760 seconds
+Text: in some of the areas by the, maybe the school district, try to lessen their burden of, you
+--------------------------------------------------
+City Clerk:
+Start: 00:16:24.960
+End: 00:16:31.040
+Duration: 6.080 seconds
+Text: know, mulling and snow and all the, and trimming.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:31.040
+End: 00:16:35.200
+Duration: 4.160 seconds
+Text: Can we be assured that the trees on the west are going to stay?
+--------------------------------------------------
+City Clerk:
+Start: 00:16:35.200
+End: 00:16:38.200
+Duration: 3.000 seconds
+Text: Is that's not, yeah, it's not their land, right?
+--------------------------------------------------
+City Manager:
+Start: 00:16:38.200
+End: 00:16:40.280
+Duration: 2.080 seconds
+Text: So this is, this is city property.
+--------------------------------------------------
+City Manager:
+Start: 00:16:40.280
+End: 00:16:42.040
+Duration: 1.760 seconds
+Text: It's part of the zoo.
+--------------------------------------------------
+City Manager:
+Start: 00:16:42.040
+End: 00:16:45.080
+Duration: 3.040 seconds
+Text: We've actually worked with the school district back and forth.
+--------------------------------------------------
+City Manager:
+Start: 00:16:45.080
+End: 00:16:48.400
+Duration: 3.320 seconds
+Text: Originally, they kind of, they proposed a grading plan that would cut quite a bit into
+--------------------------------------------------
+City Manager:
+Start: 00:16:48.400
+End: 00:16:50.000
+Duration: 1.600 seconds
+Text: these trees.
+--------------------------------------------------
+City Manager:
+Start: 00:16:50.000
+End: 00:16:53.720
+Duration: 3.720 seconds
+Text: After further conversations, they agreed to build a retaining wall right here to be able
+--------------------------------------------------
+City Manager:
+Start: 00:16:53.720
+End: 00:16:54.720
+Duration: 1.000 seconds
+Text: to maintain those.
+--------------------------------------------------
+City Manager:
+Start: 00:16:54.720
+End: 00:16:59.240
+Duration: 4.520 seconds
+Text: So that was part of that, that kind of compromise and conversation that we had.
+--------------------------------------------------
+City Manager:
+Start: 00:16:59.240
+End: 00:17:03.960
+Duration: 4.720 seconds
+Text: So yes, to my knowledge, a majority of those trees along that western edge will stay.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:03.960
+End: 00:17:04.960
+Duration: 1.000 seconds
+Text: Okay, good.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:04.960
+End: 00:17:09.880
+Duration: 4.920 seconds
+Text: I know there's a steep grade difference between the lower parking lot and the upper parking
+--------------------------------------------------
+City Clerk:
+Start: 00:17:09.880
+End: 00:17:10.880
+Duration: 1.000 seconds
+Text: lot.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:10.880
+End: 00:17:15.240
+Duration: 4.360 seconds
+Text: And likewise with the city property to the west with the trees.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:15.240
+End: 00:17:18.880
+Duration: 3.640 seconds
+Text: And I appreciate the need probably for a retaining wall.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:18.880
+End: 00:17:19.880
+Duration: 1.000 seconds
+Text: How tall will it be?
+--------------------------------------------------
+City Clerk:
+Start: 00:17:19.880
+End: 00:17:20.880
+Duration: 1.000 seconds
+Text: Is it two and a half feet?
+--------------------------------------------------
+City Clerk:
+Start: 00:17:20.880
+End: 00:17:21.880
+Duration: 1.000 seconds
+Text: Is what I read?
+--------------------------------------------------
+City Clerk:
+Start: 00:17:21.880
+End: 00:17:23.680
+Duration: 1.800 seconds
+Text: Is that about what we're still?
+--------------------------------------------------
+City Manager:
+Start: 00:17:23.680
+End: 00:17:26.240
+Duration: 2.560 seconds
+Text: What I believe is what was said at planning board.
+--------------------------------------------------
+City Manager:
+Start: 00:17:26.240
+End: 00:17:29.240
+Duration: 3.000 seconds
+Text: I will ask the school district, Tricia saying yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:17:29.240
+End: 00:17:30.240
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Manager:
+Start: 00:17:30.240
+End: 00:17:32.240
+Duration: 2.000 seconds
+Text: I was going to have her answer that.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:32.240
+End: 00:17:36.760
+Duration: 4.520 seconds
+Text: Well, I just don't want to get into the practice of negating.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:36.760
+End: 00:17:42.800
+Duration: 6.040 seconds
+Text: We make commercial interests and residential, have some landscaping as for the good, you
+--------------------------------------------------
+City Clerk:
+Start: 00:17:42.800
+End: 00:17:45.720
+Duration: 2.920 seconds
+Text: know, the whole community.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:45.720
+End: 00:17:51.240
+Duration: 5.520 seconds
+Text: So just want to be cautious before we just start giving blanket approval to eliminate.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:51.240
+End: 00:17:55.320
+Duration: 4.080 seconds
+Text: I don't know if there's a new thinking of the school district or a new landscape person
+--------------------------------------------------
+City Clerk:
+Start: 00:17:55.320
+End: 00:17:59.440
+Duration: 4.120 seconds
+Text: there or what might be, but I just want us to be cautious.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:59.440
+End: 00:18:02.760
+Duration: 3.320 seconds
+Text: And what because it is what we require that they're supposed to do.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:18:02.760
+End: 00:18:03.760
+Duration: 1.000 seconds
+Text: Okay, thanks.
+--------------------------------------------------
+City Manager:
+Start: 00:18:03.760
+End: 00:18:04.760
+Duration: 1.000 seconds
+Text: I can't say.
+--------------------------------------------------
+City Manager:
+Start: 00:18:04.760
+End: 00:18:07.120
+Duration: 2.360 seconds
+Text: I think Tricia will probably speak to this as well.
+--------------------------------------------------
+City Manager:
+Start: 00:18:07.120
+End: 00:18:11.840
+Duration: 4.720 seconds
+Text: But we did go back and forth between, we really had three different factors we had
+--------------------------------------------------
+City Manager:
+Start: 00:18:11.840
+End: 00:18:16.240
+Duration: 4.400 seconds
+Text: away, either landscapes screening along the parking lot, a sidewalk or the street trees.
+--------------------------------------------------
+City Manager:
+Start: 00:18:16.240
+End: 00:18:19.800
+Duration: 3.560 seconds
+Text: And so at the end of the day, we decided those massive street trees and the sidewalk were
+--------------------------------------------------
+City Manager:
+Start: 00:18:19.800
+End: 00:18:25.080
+Duration: 5.280 seconds
+Text: worth more than making room or eliminating one of those other two to have these little
+--------------------------------------------------
+City Manager:
+Start: 00:18:25.080
+End: 00:18:27.720
+Duration: 2.640 seconds
+Text: grasses that would block the parking lot.
+--------------------------------------------------
+City Manager:
+Start: 00:18:27.720
+End: 00:18:31.960
+Duration: 4.240 seconds
+Text: So I would say that there was, that was a conversation that occurred between city, staff
+--------------------------------------------------
+City Manager:
+Start: 00:18:31.960
+End: 00:18:33.240
+Duration: 1.280 seconds
+Text: and the school district.
+--------------------------------------------------
+City Manager:
+Start: 00:18:33.240
+End: 00:18:36.280
+Duration: 3.040 seconds
+Text: So we wouldn't completely eliminate their landscaping requirement.
+--------------------------------------------------
+City Manager:
+Start: 00:18:36.280
+End: 00:18:40.840
+Duration: 4.560 seconds
+Text: Here we just decided those massive street trees, probably were in the best public interest
+--------------------------------------------------
+City Manager:
+Start: 00:18:40.840
+End: 00:18:43.600
+Duration: 2.760 seconds
+Text: than little grasses to provide some screening.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:18:43.600
+End: 00:18:49.640
+Duration: 6.040 seconds
+Text: Yeah, I got one email on this topic concerned about flooding and the fact that this
+--------------------------------------------------
+Director of Community Development:
+Start: 00:18:49.640
+End: 00:18:54.200
+Duration: 4.560 seconds
+Text: would create more runoff and they were opposed to approving this.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:18:54.200
+End: 00:18:56.040
+Duration: 1.840 seconds
+Text: And I didn't know the details on that.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:18:56.040
+End: 00:18:59.080
+Duration: 3.040 seconds
+Text: Is there any, is this going to increase the amount of water runoff?
+--------------------------------------------------
+Director of Community Development:
+Start: 00:18:59.080
+End: 00:19:03.240
+Duration: 4.160 seconds
+Text: I mean, I'm sure it will because it used to be residential.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:19:03.240
+End: 00:19:04.240
+Duration: 1.000 seconds
+Text: Correct.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:19:04.240
+End: 00:19:05.920
+Duration: 1.680 seconds
+Text: Is that going to cause a problem?
+--------------------------------------------------
+City Manager:
+Start: 00:19:05.920
+End: 00:19:07.240
+Duration: 1.320 seconds
+Text: It would increase it.
+--------------------------------------------------
+City Manager:
+Start: 00:19:07.240
+End: 00:19:11.280
+Duration: 4.040 seconds
+Text: That's not something that we actually evaluate as part of municipal facility review.
+--------------------------------------------------
+City Manager:
+Start: 00:19:11.280
+End: 00:19:15.000
+Duration: 3.720 seconds
+Text: That was being worked out prior to this request coming forward.
+--------------------------------------------------
+City Manager:
+Start: 00:19:15.000
+End: 00:19:16.160
+Duration: 1.160 seconds
+Text: So Rob's here.
+--------------------------------------------------
+City Manager:
+Start: 00:19:16.160
+End: 00:19:19.600
+Duration: 3.440 seconds
+Text: He can speak to that because it's his department that's been working on, I think it's
+--------------------------------------------------
+City Manager:
+Start: 00:19:19.600
+End: 00:19:23.840
+Duration: 4.240 seconds
+Text: a stormwater fee and lieu that they're working on with the school district.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:19:23.840
+End: 00:19:27.960
+Duration: 4.120 seconds
+Text: I don't know if we, well, I'll speak real quickly.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:19:27.960
+End: 00:19:36.520
+Duration: 8.560 seconds
+Text: So the school district does have an existing underground detention immediately to the east
+--------------------------------------------------
+Director of Community Development:
+Start: 00:19:36.520
+End: 00:19:38.360
+Duration: 1.840 seconds
+Text: of what's being proposed.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:19:38.360
+End: 00:19:40.840
+Duration: 2.480 seconds
+Text: So you can, let me come out there.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:19:40.840
+End: 00:19:41.840
+Duration: 1.000 seconds
+Text: There we go.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:19:41.840
+End: 00:19:55.280
+Duration: 13.440 seconds
+Text: So there's an existing underground detention pond here.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:19:55.280
+End: 00:20:01.520
+Duration: 6.240 seconds
+Text: And in fact, they've already got a stub of a storm sewer that kind of stops right here.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:20:01.520
+End: 00:20:09.200
+Duration: 7.680 seconds
+Text: My understanding from the drainage report that was initiated when the demo permits were
+--------------------------------------------------
+Director of Community Development:
+Start: 00:20:09.200
+End: 00:20:13.280
+Duration: 4.080 seconds
+Text: issued for the demolition of the homes.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:20:13.280
+End: 00:20:15.920
+Duration: 2.640 seconds
+Text: That's kind of what kicked it off for public works.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:20:15.920
+End: 00:20:22.160
+Duration: 6.240 seconds
+Text: So Brian and his staff reviewed that and essentially that stormwater will go into that underground
+--------------------------------------------------
+Director of Community Development:
+Start: 00:20:22.160
+End: 00:20:23.960
+Duration: 1.800 seconds
+Text: detention.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:20:23.960
+End: 00:20:29.480
+Duration: 5.520 seconds
+Text: And then it goes into a series of pipes and so forth and goes down westwood.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:20:29.480
+End: 00:20:34.960
+Duration: 5.480 seconds
+Text: We upsized westwood storm sewer a number of years ago.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:20:34.960
+End: 00:20:37.120
+Duration: 2.160 seconds
+Text: Our standard is a 10-year store.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:20:37.120
+End: 00:20:40.800
+Duration: 3.680 seconds
+Text: So what that really means is it's a one in 10 chance.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:20:40.800
+End: 00:20:47.560
+Duration: 6.760 seconds
+Text: In our words, 90% of the rainfall events are covered and to stay within the storm sewer
+--------------------------------------------------
+Director of Community Development:
+Start: 00:20:47.560
+End: 00:20:48.560
+Duration: 1.000 seconds
+Text: system.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:20:48.560
+End: 00:20:54.520
+Duration: 5.960 seconds
+Text: What we're talking about are rainfall events in which the intensity, the duration exceeds
+--------------------------------------------------
+Director of Community Development:
+Start: 00:20:54.520
+End: 00:20:56.640
+Duration: 2.120 seconds
+Text: that remaining 10%.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:20:56.640
+End: 00:21:00.040
+Duration: 3.400 seconds
+Text: So that is correct and Stephanie's opening statement.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:21:00.040
+End: 00:21:03.000
+Duration: 2.960 seconds
+Text: Yes, it's going to generate more runoff.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:21:03.000
+End: 00:21:08.400
+Duration: 5.400 seconds
+Text: But the downstream storm sewer still can function to our standards as well as they're running
+--------------------------------------------------
+Director of Community Development:
+Start: 00:21:08.400
+End: 00:21:10.960
+Duration: 2.560 seconds
+Text: it through their underground detention.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:21:10.960
+End: 00:21:17.000
+Duration: 6.040 seconds
+Text: So I don't want any school district folks correct me if I misunderstood or Brian, but that's
+--------------------------------------------------
+Director of Community Development:
+Start: 00:21:17.000
+End: 00:21:19.000
+Duration: 2.000 seconds
+Text: the intent of the handle stormwater.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:21:19.000
+End: 00:21:20.520
+Duration: 1.520 seconds
+Text: Okay, I appreciate that Rob.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:21:20.520
+End: 00:21:25.640
+Duration: 5.120 seconds
+Text: I didn't know how to answer that email because I didn't have the details, but I think that
+--------------------------------------------------
+Director of Community Development:
+Start: 00:21:25.640
+End: 00:21:26.640
+Duration: 1.000 seconds
+Text: should solve the problem.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:21:26.640
+End: 00:21:27.640
+Duration: 1.000 seconds
+Text: Appreciate it.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:21:27.640
+End: 00:21:28.640
+Duration: 1.000 seconds
+Text: Miss anything?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:21:28.640
+End: 00:21:33.840
+Duration: 5.200 seconds
+Text: And that just slows down the exiting of the water over a period of time.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:21:33.840
+End: 00:21:34.840
+Duration: 1.000 seconds
+Text: Yep.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:21:34.840
+End: 00:21:37.840
+Duration: 3.000 seconds
+Text: And the maintenance of the underground detention, there's actually two.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:21:37.840
+End: 00:21:41.840
+Duration: 4.000 seconds
+Text: I believe there's one up north up here and then there's one down here.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:21:41.840
+End: 00:21:46.600
+Duration: 4.760 seconds
+Text: So it's part of just the overall expansion of the high school, a thought that's going
+--------------------------------------------------
+Director of Community Development:
+Start: 00:21:46.600
+End: 00:21:50.240
+Duration: 3.640 seconds
+Text: into it by the school district.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:21:50.240
+End: 00:21:53.480
+Duration: 3.240 seconds
+Text: I think it's been pretty comprehensive.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:21:53.480
+End: 00:21:55.840
+Duration: 2.360 seconds
+Text: And again, it's, yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:21:55.840
+End: 00:21:56.840
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+City Clerk:
+Start: 00:21:56.840
+End: 00:22:03.040
+Duration: 6.200 seconds
+Text: Is it true that, and maybe Stephanie, I don't know who, but that when municipal facilities
+--------------------------------------------------
+City Clerk:
+Start: 00:22:03.040
+End: 00:22:07.040
+Duration: 4.000 seconds
+Text: are developed, there is no standard for floodplain.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:07.040
+End: 00:22:11.400
+Duration: 4.360 seconds
+Text: Flooding, didn't I hear that correctly?
+--------------------------------------------------
+City Manager:
+Start: 00:22:11.400
+End: 00:22:17.400
+Duration: 6.000 seconds
+Text: So the, this evening, the question really before you, and that's why we didn't evaluate
+--------------------------------------------------
+City Manager:
+Start: 00:22:17.400
+End: 00:22:23.600
+Duration: 6.200 seconds
+Text: the stormwater runoff, is that this, as Rob said, this, the stormwater issue came up with
+--------------------------------------------------
+City Manager:
+Start: 00:22:23.600
+End: 00:22:24.600
+Duration: 1.000 seconds
+Text: the demolition.
+--------------------------------------------------
+City Manager:
+Start: 00:22:24.600
+End: 00:22:25.600
+Duration: 1.000 seconds
+Text: Right.
+--------------------------------------------------
+City Manager:
+Start: 00:22:25.600
+End: 00:22:27.720
+Duration: 2.120 seconds
+Text: Well, as soon as they realized that buildings were going to be raised, that kind of triggered
+--------------------------------------------------
+City Manager:
+Start: 00:22:27.720
+End: 00:22:30.920
+Duration: 3.200 seconds
+Text: them to know that something's probably going to happen on that property.
+--------------------------------------------------
+City Manager:
+Start: 00:22:30.920
+End: 00:22:34.120
+Duration: 3.200 seconds
+Text: But Rob just put up on the screen, that's what your request was this evening.
+--------------------------------------------------
+City Manager:
+Start: 00:22:34.120
+End: 00:22:38.320
+Duration: 4.200 seconds
+Text: Do you, is it okay if we reduce the parking setback and eliminate landscaping?
+--------------------------------------------------
+City Manager:
+Start: 00:22:38.320
+End: 00:22:42.960
+Duration: 4.640 seconds
+Text: There really was no way to evaluate the stormwater runoff as part of that request.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:42.960
+End: 00:22:48.680
+Duration: 5.720 seconds
+Text: I understand that, but the regulations don't require stormwater.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:22:48.680
+End: 00:22:49.880
+Duration: 1.200 seconds
+Text: No.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:22:49.880
+End: 00:22:52.400
+Duration: 2.520 seconds
+Text: He's just saying it was handled earlier in this process.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:52.400
+End: 00:22:53.400
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:53.400
+End: 00:22:54.400
+Duration: 1.000 seconds
+Text: I just wanted to be sure.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:22:54.400
+End: 00:22:58.040
+Duration: 3.640 seconds
+Text: And more certainly not negating.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:22:58.040
+End: 00:22:59.040
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:22:59.040
+End: 00:23:00.040
+Duration: 1.000 seconds
+Text: No, no, no.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:23:00.040
+End: 00:23:01.040
+Duration: 1.000 seconds
+Text: Floodplain rules.
+--------------------------------------------------
+City Clerk:
+Start: 00:23:01.040
+End: 00:23:02.040
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Clerk:
+Start: 00:23:02.040
+End: 00:23:03.040
+Duration: 1.000 seconds
+Text: Thanks.
+--------------------------------------------------
+City Clerk:
+Start: 00:23:03.040
+End: 00:23:04.800
+Duration: 1.760 seconds
+Text: Just a stray phrase.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:04.800
+End: 00:23:05.800
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:23:05.800
+End: 00:23:06.800
+Duration: 1.000 seconds
+Text: Thanks Rob.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:06.800
+End: 00:23:07.800
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:07.800
+End: 00:23:08.800
+Duration: 1.000 seconds
+Text: Thank you, Mayor.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:08.800
+End: 00:23:16.960
+Duration: 8.160 seconds
+Text: Is there may, from the applicant, want to comment on anything?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:16.960
+End: 00:23:20.720
+Duration: 3.760 seconds
+Text: Since you're here.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:21.720
+End: 00:23:26.160
+Duration: 4.440 seconds
+Text: So, Trisha Brookfront with the Manhattan School District.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:26.160
+End: 00:23:29.920
+Duration: 3.760 seconds
+Text: So, I just want to make sure, if you have any questions for me, I'm more than happy to
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:29.920
+End: 00:23:30.920
+Duration: 1.000 seconds
+Text: answer them.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:30.920
+End: 00:23:33.200
+Duration: 2.280 seconds
+Text: We also have our superintendent here.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:33.200
+End: 00:23:37.200
+Duration: 4.000 seconds
+Text: So my big thing is I'm encouraging you to approve this parking lot.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:37.200
+End: 00:23:42.560
+Duration: 5.360 seconds
+Text: As you mentioned, yes, ninth graders are going to be up at the main campus.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:42.560
+End: 00:23:44.080
+Duration: 1.520 seconds
+Text: I'm not calling it the West Campus.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:44.080
+End: 00:23:45.840
+Duration: 1.760 seconds
+Text: We're calling it Manhattan High School now.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:46.840
+End: 00:23:51.800
+Duration: 4.960 seconds
+Text: So, with adding this parking lot is huge for us because of all the staff, all the support
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:51.800
+End: 00:23:56.880
+Duration: 5.080 seconds
+Text: staff, everybody that we have going up, this parking lot is necessary to have in order
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:56.880
+End: 00:24:01.640
+Duration: 4.760 seconds
+Text: to handle all that parking and try to get people off the streets that are parking on the
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:01.640
+End: 00:24:05.080
+Duration: 3.440 seconds
+Text: streets and try to get people off of the zoo lot.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:05.080
+End: 00:24:09.880
+Duration: 4.800 seconds
+Text: That's our biggest goal to have this parking is to get all of our students where we can
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:09.880
+End: 00:24:13.520
+Duration: 3.640 seconds
+Text: see them, have cameras on them and see what's going on.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:13.520
+End: 00:24:16.120
+Duration: 2.600 seconds
+Text: That's a big goal for us to have this parking lot.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:16.120
+End: 00:24:19.120
+Duration: 3.000 seconds
+Text: Is that 80s, how many spots do you have?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:19.120
+End: 00:24:23.000
+Duration: 3.880 seconds
+Text: Because we are going to drop eight stalls already to move our parking lot further to the
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:23.000
+End: 00:24:26.680
+Duration: 3.680 seconds
+Text: east to get away from the city's zoo lot.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:26.680
+End: 00:24:32.480
+Duration: 5.800 seconds
+Text: We'll have about 80 stalls, 80 to 85 stalls.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:32.480
+End: 00:24:35.720
+Duration: 3.240 seconds
+Text: And you hope to have that ready here in a couple weeks or not?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:35.720
+End: 00:24:36.720
+Duration: 1.000 seconds
+Text: Yep.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:36.720
+End: 00:24:40.320
+Duration: 3.600 seconds
+Text: If we can get the drawing stand here by the end of next week, we hope to start construction
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:40.320
+End: 00:24:41.920
+Duration: 1.600 seconds
+Text: by the end of the month.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:41.920
+End: 00:24:44.200
+Duration: 2.280 seconds
+Text: And probably should take about two months to get this done.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:44.200
+End: 00:24:45.920
+Duration: 1.720 seconds
+Text: Parking lots don't take that long.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:45.920
+End: 00:24:48.640
+Duration: 2.720 seconds
+Text: So hopefully have it up and running before the end of the semester.
+--------------------------------------------------
+City Clerk:
+Start: 00:24:48.640
+End: 00:24:52.240
+Duration: 3.600 seconds
+Text: Can you put your camera on the east end of the parking lot?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:52.240
+End: 00:24:54.720
+Duration: 2.480 seconds
+Text: We will have cameras probably on the west end.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:54.720
+End: 00:24:57.760
+Duration: 3.040 seconds
+Text: We'll probably have them on the west, we'll have them on the north, and we'll probably
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:57.760
+End: 00:24:59.240
+Duration: 1.480 seconds
+Text: have one on the east as well.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:59.240
+End: 00:25:01.440
+Duration: 2.200 seconds
+Text: We'll have them everywhere on the display.
+--------------------------------------------------
+City Clerk:
+Start: 00:25:01.440
+End: 00:25:02.440
+Duration: 1.000 seconds
+Text: Not just the hay camera.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:25:02.440
+End: 00:25:03.840
+Duration: 1.400 seconds
+Text: Now we'll have multiple cameras.
+--------------------------------------------------
+City Clerk:
+Start: 00:25:03.840
+End: 00:25:04.840
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:25:04.840
+End: 00:25:08.240
+Duration: 3.400 seconds
+Text: All right, any other Christians for Ritisha?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:25:08.240
+End: 00:25:09.240
+Duration: 1.000 seconds
+Text: Nope.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:25:09.240
+End: 00:25:10.240
+Duration: 1.000 seconds
+Text: Thanks for coming.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:25:10.240
+End: 00:25:11.240
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:25:11.240
+End: 00:25:13.240
+Duration: 2.000 seconds
+Text: All right, we'll fill this open to public comment.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:25:13.240
+End: 00:25:18.960
+Duration: 5.720 seconds
+Text: For everybody who cared a comment on this request by the school district, please come forward.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:25:18.960
+End: 00:25:19.960
+Duration: 1.000 seconds
+Text: Same thing.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:25:19.960
+End: 00:25:20.960
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:25:20.960
+End: 00:25:23.440
+Duration: 2.480 seconds
+Text: If not, I'll close the public hearing.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:25:23.440
+End: 00:25:25.360
+Duration: 1.920 seconds
+Text: Is there a motion commission?
+--------------------------------------------------
+City Clerk:
+Start: 00:25:25.360
+End: 00:25:34.600
+Duration: 9.240 seconds
+Text: Mayor, I move that we find that the public interest to be served by the parking lot expansion
+--------------------------------------------------
+City Clerk:
+Start: 00:25:34.600
+End: 00:25:41.000
+Duration: 6.400 seconds
+Text: at the USD 333 Manhattan High School outweighs the impacts upon legitimate community interests
+--------------------------------------------------
+City Clerk:
+Start: 00:25:41.000
+End: 00:25:46.040
+Duration: 5.040 seconds
+Text: and to prove first reading of an ordinance, reducing landscaping requirements, and setbacks
+--------------------------------------------------
+City Clerk:
+Start: 00:25:46.040
+End: 00:25:56.000
+Duration: 9.960 seconds
+Text: pursuant to section 26-9D-4 of the Manhattan Development Code and KSA 12-748 for the USD
+--------------------------------------------------
+City Clerk:
+Start: 00:25:56.000
+End: 00:26:01.600
+Duration: 5.600 seconds
+Text: 383 Manhattan High School based on the recommendations of the Manhattan Urban Area Planning Board and the
+--------------------------------------------------
+City Clerk:
+Start: 00:26:01.600
+End: 00:26:03.400
+Duration: 1.800 seconds
+Text: findings in this staff report.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:26:03.400
+End: 00:26:05.160
+Duration: 1.760 seconds
+Text: Is there a second?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:26:05.160
+End: 00:26:06.160
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:26:06.160
+End: 00:26:08.640
+Duration: 2.480 seconds
+Text: It's been moved and seconded to approve this.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:26:08.640
+End: 00:26:09.920
+Duration: 1.280 seconds
+Text: Please call the roll.
+--------------------------------------------------
+City Clerk:
+Start: 00:26:09.920
+End: 00:26:18.000
+Duration: 8.080 seconds
+Text: Just as a comment, I do have some sympathy for the possibility of containing the water
+--------------------------------------------------
+City Clerk:
+Start: 00:26:18.000
+End: 00:26:25.320
+Duration: 7.320 seconds
+Text: underground from the runoff, but I just know that we need this parking at the school.
+--------------------------------------------------
+City Clerk:
+Start: 00:26:25.320
+End: 00:26:34.760
+Duration: 9.440 seconds
+Text: And I would like to have the city and the school district more seriously consider those mitigation
+--------------------------------------------------
+City Clerk:
+Start: 00:26:34.760
+End: 00:26:36.560
+Duration: 1.800 seconds
+Text: steps.
+--------------------------------------------------
+City Clerk:
+Start: 00:26:36.560
+End: 00:26:43.640
+Duration: 7.080 seconds
+Text: And I know there's an extra expense, but anyway, so I'll be supporting it.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:26:43.640
+End: 00:26:44.640
+Duration: 1.000 seconds
+Text: Please call the roll.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:26:44.640
+End: 00:26:45.640
+Duration: 1.000 seconds
+Text: Commissioner Mata?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:26:45.640
+End: 00:26:46.640
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:26:46.640
+End: 00:26:47.640
+Duration: 1.000 seconds
+Text: Commissioner Morris?
+--------------------------------------------------
+City Clerk:
+Start: 00:26:47.640
+End: 00:26:50.880
+Duration: 3.240 seconds
+Text: Yes, sorry I wasn't on the microphone.
+--------------------------------------------------
+City Clerk:
+Start: 00:26:50.880
+End: 00:26:51.880
+Duration: 1.000 seconds
+Text: Mayor Hattasal?
+--------------------------------------------------
+City Clerk:
+Start: 00:26:51.880
+End: 00:26:52.880
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:26:52.880
+End: 00:26:53.880
+Duration: 1.000 seconds
+Text: Commissioner Butler?
+--------------------------------------------------
+City Clerk:
+Start: 00:26:53.880
+End: 00:26:54.880
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:26:54.880
+End: 00:26:55.880
+Duration: 1.000 seconds
+Text: Motion carries 4-0.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:26:55.880
+End: 00:26:56.880
+Duration: 1.000 seconds
+Text: Very good.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:26:56.880
+End: 00:26:57.880
+Duration: 1.000 seconds
+Text: Congratulations.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:26:57.880
+End: 00:27:03.200
+Duration: 5.320 seconds
+Text: We'll move on to item B. Consider creating a benefit district for water and sanitary sewer
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:27:03.200
+End: 00:27:07.760
+Duration: 4.560 seconds
+Text: improvements and approve an agreement authorizing the property owner to instruct the associated
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:27:07.760
+End: 00:27:09.000
+Duration: 1.240 seconds
+Text: public infrastructure.
+--------------------------------------------------
+Speaker_3:
+Start: 00:27:09.000
+End: 00:27:12.840
+Duration: 3.840 seconds
+Text: By the way, good evening commissioners.
+--------------------------------------------------
+Speaker_3:
+Start: 00:27:12.840
+End: 00:27:17.800
+Duration: 4.960 seconds
+Text: Randy DeWitt, Assistant Director of Public Works, Water and Waste Water.
+--------------------------------------------------
+Speaker_3:
+Start: 00:27:17.800
+End: 00:27:24.480
+Duration: 6.680 seconds
+Text: As mentioned, we have a request for new outside city and water and sewer services for property
+--------------------------------------------------
+Speaker_3:
+Start: 00:27:24.480
+End: 00:27:29.560
+Duration: 5.080 seconds
+Text: located at 4701 and 4703 Staghill Road.
+--------------------------------------------------
+Speaker_3:
+Start: 00:27:29.560
+End: 00:27:34.160
+Duration: 4.600 seconds
+Text: Traditionally, this has been a type of item that has been an informal request and come
+--------------------------------------------------
+Speaker_3:
+Start: 00:27:34.160
+End: 00:27:36.920
+Duration: 2.760 seconds
+Text: to you in the consent agenda.
+--------------------------------------------------
+Speaker_3:
+Start: 00:27:36.920
+End: 00:27:41.440
+Duration: 4.520 seconds
+Text: Recently, city staff have started looking at a policy to review these a little bit more
+--------------------------------------------------
+Speaker_3:
+Start: 00:27:41.440
+End: 00:27:48.120
+Duration: 6.680 seconds
+Text: formally to determine if it's in the best interest of the city to approve these requests
+--------------------------------------------------
+Speaker_3:
+Start: 00:27:48.120
+End: 00:27:54.360
+Duration: 6.240 seconds
+Text: without requiring an annexation or denying their requests and requesting annexation.
+--------------------------------------------------
+Speaker_3:
+Start: 00:27:54.360
+End: 00:27:59.000
+Duration: 4.640 seconds
+Text: That policy is in development, but is pretty much on hold right now.
+--------------------------------------------------
+Speaker_3:
+Start: 00:27:59.000
+End: 00:28:01.800
+Duration: 2.800 seconds
+Text: We're getting for some other projects, but we also thought it would be good to bring
+--------------------------------------------------
+Speaker_3:
+Start: 00:28:01.800
+End: 00:28:03.640
+Duration: 1.840 seconds
+Text: this to you.
+--------------------------------------------------
+Speaker_3:
+Start: 00:28:03.640
+End: 00:28:10.360
+Duration: 6.720 seconds
+Text: Bring these requests to you as a more formal general agenda item so we can discuss it.
+--------------------------------------------------
+Speaker_3:
+Start: 00:28:10.360
+End: 00:28:16.880
+Duration: 6.520 seconds
+Text: That's why we're here today to talk about primarily water and sewer services extensions.
+--------------------------------------------------
+Speaker_3:
+Start: 00:28:16.880
+End: 00:28:21.720
+Duration: 4.840 seconds
+Text: As I mentioned, this is a 4701 Staghill Road.
+--------------------------------------------------
+Speaker_3:
+Start: 00:28:21.720
+End: 00:28:25.560
+Duration: 3.840 seconds
+Text: This is just south of Staghill and scenic drive.
+--------------------------------------------------
+Speaker_3:
+Start: 00:28:25.560
+End: 00:28:31.360
+Duration: 5.800 seconds
+Text: This is where the existing bubble wash is that is, to my knowledge, it's still operational
+--------------------------------------------------
+Speaker_3:
+Start: 00:28:31.360
+End: 00:28:41.360
+Duration: 10.000 seconds
+Text: but close to public use and the Paragon Sports Building.
+--------------------------------------------------
+Speaker_3:
+Start: 00:28:41.360
+End: 00:28:42.360
+Duration: 1.000 seconds
+Text: Just background.
+--------------------------------------------------
+Speaker_3:
+Start: 00:28:42.360
+End: 00:28:46.640
+Duration: 4.280 seconds
+Text: The owner is Joe and Darley McGraw.
+--------------------------------------------------
+Speaker_3:
+Start: 00:28:46.640
+End: 00:28:52.920
+Duration: 6.280 seconds
+Text: The request is for both water and sanitary sewer services.
+--------------------------------------------------
+Speaker_3:
+Start: 00:28:52.920
+End: 00:28:58.520
+Duration: 5.600 seconds
+Text: As mentioned, there's existing structures at 4701 Staghill Road and they currently
+--------------------------------------------------
+Speaker_3:
+Start: 00:28:58.520
+End: 00:29:01.840
+Duration: 3.320 seconds
+Text: have water and sewer services from the city.
+--------------------------------------------------
+Speaker_3:
+Start: 00:29:01.840
+End: 00:29:06.240
+Duration: 4.400 seconds
+Text: That agreement was approved in July of 2005.
+--------------------------------------------------
+Speaker_3:
+Start: 00:29:06.240
+End: 00:29:12.600
+Duration: 6.360 seconds
+Text: Again, those are the uses currently.
+--------------------------------------------------
+Speaker_3:
+Start: 00:29:12.600
+End: 00:29:18.560
+Duration: 5.960 seconds
+Text: Car wash and a commercial warehouse building.
+--------------------------------------------------
+Speaker_3:
+Start: 00:29:18.560
+End: 00:29:25.160
+Duration: 6.600 seconds
+Text: Only the owner took an item to the Riley County Commission to subdivide this property
+--------------------------------------------------
+Speaker_3:
+Start: 00:29:25.160
+End: 00:29:27.320
+Duration: 2.160 seconds
+Text: into three lots.
+--------------------------------------------------
+Speaker_3:
+Start: 00:29:27.320
+End: 00:29:30.640
+Duration: 3.320 seconds
+Text: Those existing structures that I mentioned are on lot two.
+--------------------------------------------------
+Speaker_3:
+Start: 00:29:30.640
+End: 00:29:32.880
+Duration: 2.240 seconds
+Text: Fast forward a little bit.
+--------------------------------------------------
+Speaker_3:
+Start: 00:29:32.880
+End: 00:29:43.400
+Duration: 10.520 seconds
+Text: This is the point around here.
+--------------------------------------------------
+Speaker_3:
+Start: 00:29:43.400
+End: 00:29:48.160
+Duration: 4.760 seconds
+Text: This existing lot two is where the existing buildings and services are.
+--------------------------------------------------
+Speaker_3:
+Start: 00:29:48.160
+End: 00:29:53.680
+Duration: 5.520 seconds
+Text: Lot one is here is where they're proposing to add a new building for Paragon and lot
+--------------------------------------------------
+Speaker_3:
+Start: 00:29:53.680
+End: 00:30:00.400
+Duration: 6.720 seconds
+Text: three is to the southwest and it will currently doesn't have any plans for a building.
+--------------------------------------------------
+Speaker_3:
+Start: 00:30:00.400
+End: 00:30:07.160
+Duration: 6.760 seconds
+Text: The existing services because at the time in 2005, this request came in.
+--------------------------------------------------
+Speaker_3:
+Start: 00:30:07.160
+End: 00:30:11.040
+Duration: 3.880 seconds
+Text: The property does not directly border city infrastructure.
+--------------------------------------------------
+Speaker_3:
+Start: 00:30:11.040
+End: 00:30:14.600
+Duration: 3.560 seconds
+Text: The services are a little bit non-standard, non-traditional.
+--------------------------------------------------
+Speaker_3:
+Start: 00:30:14.600
+End: 00:30:19.920
+Duration: 5.320 seconds
+Text: Those blue and green lines that you see are private service lines that extend not only
+--------------------------------------------------
+Speaker_3:
+Start: 00:30:19.920
+End: 00:30:26.240
+Duration: 6.320 seconds
+Text: into but past Staghill right away, which is Riley County right away, up to the water and
+--------------------------------------------------
+Speaker_3:
+Start: 00:30:26.240
+End: 00:30:32.440
+Duration: 6.200 seconds
+Text: sewer infrastructure that's these transmission lines for the water and sewer that are, I believe,
+--------------------------------------------------
+Speaker_3:
+Start: 00:30:32.440
+End: 00:30:35.440
+Duration: 3.000 seconds
+Text: in former Fort Riley Boulevard right away.
+--------------------------------------------------
+Speaker_3:
+Start: 00:30:41.040
+End: 00:30:54.840
+Duration: 13.800 seconds
+Text: So, the last note there is because this is now a subdivide subdivision, it would not
+--------------------------------------------------
+Speaker_3:
+Start: 00:30:54.840
+End: 00:31:00.320
+Duration: 5.480 seconds
+Text: be particularly in our best interest to allow them to extend those services like they did
+--------------------------------------------------
+Speaker_3:
+Start: 00:31:00.320
+End: 00:31:01.320
+Duration: 1.000 seconds
+Text: in 2005.
+--------------------------------------------------
+Speaker_3:
+Start: 00:31:01.320
+End: 00:31:06.760
+Duration: 5.440 seconds
+Text: So, our requirement was they extend public water and sewer mains to the property.
+--------------------------------------------------
+Speaker_3:
+Start: 00:31:06.760
+End: 00:31:14.880
+Duration: 8.120 seconds
+Text: So that's one of the items that we'll review here today.
+--------------------------------------------------
+Speaker_3:
+Start: 00:31:14.880
+End: 00:31:18.480
+Duration: 3.600 seconds
+Text: In the executive summary, you'll see we've got several items to talk about.
+--------------------------------------------------
+Speaker_3:
+Start: 00:31:18.480
+End: 00:31:23.160
+Duration: 4.680 seconds
+Text: The primary ones are new outside city water and sewer service agreement for Lot one.
+--------------------------------------------------
+Speaker_3:
+Start: 00:31:23.160
+End: 00:31:24.800
+Duration: 1.640 seconds
+Text: This is the new building.
+--------------------------------------------------
+Speaker_3:
+Start: 00:31:24.800
+End: 00:31:31.720
+Duration: 6.920 seconds
+Text: Additionally, a new agreement for Lot two that would supersede the previous agreements
+--------------------------------------------------
+Speaker_3:
+Start: 00:31:31.720
+End: 00:31:33.360
+Duration: 1.640 seconds
+Text: done in 2005.
+--------------------------------------------------
+Speaker_3:
+Start: 00:31:33.960
+End: 00:31:38.560
+Duration: 4.600 seconds
+Text: Again, Lot three does not have any proposed buildings, so there's no request at this time
+--------------------------------------------------
+Speaker_3:
+Start: 00:31:38.560
+End: 00:31:43.720
+Duration: 5.160 seconds
+Text: that they will have to come and make that request in the future if they desire to extend services
+--------------------------------------------------
+Speaker_3:
+Start: 00:31:43.720
+End: 00:31:46.720
+Duration: 3.000 seconds
+Text: to that lot.
+--------------------------------------------------
+Speaker_3:
+Start: 00:31:46.720
+End: 00:31:51.920
+Duration: 5.200 seconds
+Text: This fourth bullet item again is the agreement for construction of public infrastructure
+--------------------------------------------------
+Speaker_3:
+Start: 00:31:51.920
+End: 00:31:53.240
+Duration: 1.320 seconds
+Text: by owner and developer.
+--------------------------------------------------
+Speaker_3:
+Start: 00:31:53.240
+End: 00:31:59.400
+Duration: 6.160 seconds
+Text: This is our mechanism for funding public improvements where the developer or the owner wants to fund
+--------------------------------------------------
+Speaker_3:
+Start: 00:31:59.400
+End: 00:32:02.320
+Duration: 2.920 seconds
+Text: those improvements privately initially.
+--------------------------------------------------
+Speaker_3:
+Start: 00:32:02.320
+End: 00:32:06.760
+Duration: 4.440 seconds
+Text: That's a little bit different than what you see with new subdivisions that are being
+--------------------------------------------------
+Speaker_3:
+Start: 00:32:06.760
+End: 00:32:10.760
+Duration: 4.000 seconds
+Text: annexed into the city.
+--------------------------------------------------
+Speaker_3:
+Start: 00:32:10.760
+End: 00:32:15.240
+Duration: 4.480 seconds
+Text: Through that process, the owner will have approved plans submitted to the city, bonds,
+--------------------------------------------------
+Speaker_3:
+Start: 00:32:15.240
+End: 00:32:16.240
+Duration: 1.000 seconds
+Text: insurance, et cetera.
+--------------------------------------------------
+Speaker_3:
+Start: 00:32:16.240
+End: 00:32:22.880
+Duration: 6.640 seconds
+Text: Again, this is a more informal process traditionally that comes to you in a consented gen item.
+--------------------------------------------------
+Speaker_3:
+Start: 00:32:22.880
+End: 00:32:26.800
+Duration: 3.920 seconds
+Text: Where this one is a little bit different as the owner has requested to utilize a benefit
+--------------------------------------------------
+Speaker_3:
+Start: 00:32:26.800
+End: 00:32:28.040
+Duration: 1.240 seconds
+Text: district.
+--------------------------------------------------
+Speaker_3:
+Start: 00:32:28.040
+End: 00:32:31.840
+Duration: 3.800 seconds
+Text: Once those improvements are done, their desire is to transfer this to the benefit district
+--------------------------------------------------
+Speaker_3:
+Start: 00:32:31.840
+End: 00:32:37.360
+Duration: 5.520 seconds
+Text: so that they can pay for the improvements through special assessments.
+--------------------------------------------------
+Speaker_3:
+Start: 00:32:37.360
+End: 00:32:41.240
+Duration: 3.880 seconds
+Text: So we have in front of you water and sewer petitions and resolutions.
+--------------------------------------------------
+Speaker_3:
+Start: 00:32:41.240
+End: 00:32:47.280
+Duration: 6.040 seconds
+Text: I believe that that sanitary sewer improvement is about a $90,000 project and the water improvements
+--------------------------------------------------
+Speaker_3:
+Start: 00:32:47.280
+End: 00:32:49.800
+Duration: 2.520 seconds
+Text: are just under $80,000.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:32:49.800
+End: 00:32:53.160
+Duration: 3.360 seconds
+Text: Is the city participating at all or is it strictly on that?
+--------------------------------------------------
+Speaker_3:
+Start: 00:32:53.160
+End: 00:32:55.240
+Duration: 2.080 seconds
+Text: Zero participation of the city.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:32:55.240
+End: 00:32:57.760
+Duration: 2.520 seconds
+Text: Good.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:32:57.760
+End: 00:32:59.760
+Duration: 2.000 seconds
+Text: Anything else?
+--------------------------------------------------
+Speaker_3:
+Start: 00:32:59.760
+End: 00:33:03.560
+Duration: 3.800 seconds
+Text: So back to one of the main reasons we're here.
+--------------------------------------------------
+Speaker_3:
+Start: 00:33:03.560
+End: 00:33:08.240
+Duration: 4.680 seconds
+Text: There's more formal process of reviewing these requests.
+--------------------------------------------------
+Speaker_3:
+Start: 00:33:08.240
+End: 00:33:16.080
+Duration: 7.840 seconds
+Text: These are some of the 16 criteria as a staff review internally to make that determination
+--------------------------------------------------
+Speaker_3:
+Start: 00:33:16.080
+End: 00:33:20.880
+Duration: 4.800 seconds
+Text: if we see if it's beneficial to recommend extending those services or if we're going
+--------------------------------------------------
+Speaker_3:
+Start: 00:33:20.880
+End: 00:33:26.280
+Duration: 5.400 seconds
+Text: to come and recommend denying it with a request annexation.
+--------------------------------------------------
+Speaker_3:
+Start: 00:33:27.280
+End: 00:33:31.240
+Duration: 3.960 seconds
+Text: These criteria are simply at this point for us to review.
+--------------------------------------------------
+Speaker_3:
+Start: 00:33:31.240
+End: 00:33:35.520
+Duration: 4.280 seconds
+Text: There's no metrics that we look at.
+--------------------------------------------------
+Speaker_3:
+Start: 00:33:35.520
+End: 00:33:40.800
+Duration: 5.280 seconds
+Text: You can see a lot of these are answered yes or no, but there's no determinant amount
+--------------------------------------------------
+Speaker_3:
+Start: 00:33:40.800
+End: 00:33:43.280
+Duration: 2.480 seconds
+Text: of these if we answer yes to so many.
+--------------------------------------------------
+Speaker_3:
+Start: 00:33:43.280
+End: 00:33:44.960
+Duration: 1.680 seconds
+Text: We're going to change our recommendation.
+--------------------------------------------------
+Speaker_3:
+Start: 00:33:44.960
+End: 00:33:47.120
+Duration: 2.160 seconds
+Text: These are just things that we review.
+--------------------------------------------------
+Speaker_3:
+Start: 00:33:47.120
+End: 00:33:50.040
+Duration: 2.920 seconds
+Text: Things like does it about city limits?
+--------------------------------------------------
+Speaker_3:
+Start: 00:33:50.040
+End: 00:33:53.760
+Duration: 3.720 seconds
+Text: Does it access the road via city right away?
+--------------------------------------------------
+Speaker_3:
+Start: 00:33:53.760
+End: 00:33:59.120
+Duration: 5.360 seconds
+Text: A lot of items that Stephanie will consider for community development.
+--------------------------------------------------
+Speaker_3:
+Start: 00:33:59.120
+End: 00:34:00.120
+Duration: 1.000 seconds
+Text: What's it?
+--------------------------------------------------
+Speaker_3:
+Start: 00:34:00.120
+End: 00:34:03.440
+Duration: 3.320 seconds
+Text: Is it consistent with the comprehensive plan?
+--------------------------------------------------
+Speaker_3:
+Start: 00:34:03.440
+End: 00:34:07.160
+Duration: 3.720 seconds
+Text: For us, we want to know is it a significant industrial user on the wastewater side?
+--------------------------------------------------
+Speaker_3:
+Start: 00:34:07.160
+End: 00:34:10.600
+Duration: 3.440 seconds
+Text: Are they going to be a high water user on the water side?
+--------------------------------------------------
+Speaker_3:
+Start: 00:34:10.600
+End: 00:34:13.200
+Duration: 2.600 seconds
+Text: So those are some of the things we looked at.
+--------------------------------------------------
+Speaker_3:
+Start: 00:34:13.200
+End: 00:34:19.720
+Duration: 6.520 seconds
+Text: Ultimately with this property because it doesn't about city limits on any side, but it
+--------------------------------------------------
+Speaker_3:
+Start: 00:34:19.720
+End: 00:34:27.080
+Duration: 7.360 seconds
+Text: is within an area that as it develops these large tracks of lands in this corridor, those
+--------------------------------------------------
+Speaker_3:
+Start: 00:34:27.080
+End: 00:34:28.840
+Duration: 1.760 seconds
+Text: will likely be annexed in the city.
+--------------------------------------------------
+Speaker_3:
+Start: 00:34:28.840
+End: 00:34:34.040
+Duration: 5.200 seconds
+Text: So the thought is that this will eventually annex naturally is the area developed.
+--------------------------------------------------
+Speaker_3:
+Start: 00:34:34.040
+End: 00:34:42.360
+Duration: 8.320 seconds
+Text: Right now, our recommendation is to extend those services without the requirement for annexation.
+--------------------------------------------------
+Speaker_3:
+Start: 00:34:42.360
+End: 00:34:49.380
+Duration: 7.020 seconds
+Text: That's really all I have to present to you on the request.
+--------------------------------------------------
+Speaker_3:
+Start: 00:34:49.380
+End: 00:34:52.720
+Duration: 3.340 seconds
+Text: The benefit district is something that is allowable by state statute.
+--------------------------------------------------
+Speaker_3:
+Start: 00:34:52.720
+End: 00:34:57.080
+Duration: 4.360 seconds
+Text: We've done these before where they're outside the city limits because this is the petitioner
+--------------------------------------------------
+Speaker_3:
+Start: 00:34:57.080
+End: 00:35:03.480
+Duration: 6.400 seconds
+Text: one and they petitioned yes, it bypasses the county commission and comes straight to you.
+--------------------------------------------------
+Speaker_3:
+Start: 00:35:03.480
+End: 00:35:07.240
+Duration: 3.760 seconds
+Text: Those statutes are mentioned in the executive summary.
+--------------------------------------------------
+Speaker_3:
+Start: 00:35:07.240
+End: 00:35:10.880
+Duration: 3.640 seconds
+Text: So it's again, this is something that is up to your discretion whether you want to accept
+--------------------------------------------------
+Speaker_3:
+Start: 00:35:10.880
+End: 00:35:16.480
+Duration: 5.600 seconds
+Text: this outside city property and use our benefit district funding mechanism for them.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:16.480
+End: 00:35:22.760
+Duration: 6.280 seconds
+Text: So two things on the, so will the yes, the city to bond it and then have them pay it back
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:22.760
+End: 00:35:27.760
+Duration: 5.000 seconds
+Text: this way or will they take care of all that loan financing and specials on their own?
+--------------------------------------------------
+Speaker_3:
+Start: 00:35:27.760
+End: 00:35:33.840
+Duration: 6.080 seconds
+Text: Yes, so initially this will be privately funded and then once the project is completed, they
+--------------------------------------------------
+Speaker_3:
+Start: 00:35:33.840
+End: 00:35:37.240
+Duration: 3.400 seconds
+Text: will similar to the benefit, any other benefit district inside the city.
+--------------------------------------------------
+Speaker_3:
+Start: 00:35:37.240
+End: 00:35:43.500
+Duration: 6.260 seconds
+Text: They'll submit to us documentation on the costs to make sure it matches the engineer's
+--------------------------------------------------
+Speaker_3:
+Start: 00:35:43.500
+End: 00:35:51.460
+Duration: 7.960 seconds
+Text: estimate that was in the petitions and those would then go into tempe note financing or
+--------------------------------------------------
+Speaker_3:
+Start: 00:35:51.460
+End: 00:35:57.160
+Duration: 5.700 seconds
+Text: bond financing and then those those proceeds would go back to the owner but then they would
+--------------------------------------------------
+Speaker_3:
+Start: 00:35:57.160
+End: 00:36:01.240
+Duration: 4.080 seconds
+Text: be paying it off over a 20 year period through the specials.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:01.240
+End: 00:36:06.000
+Duration: 4.760 seconds
+Text: And they will go once they're direct customer, they won't have to pay that 20 or 25% upcharge
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:06.000
+End: 00:36:08.040
+Duration: 2.040 seconds
+Text: for being out of.
+--------------------------------------------------
+Speaker_3:
+Start: 00:36:08.040
+End: 00:36:09.040
+Duration: 1.000 seconds
+Text: Not true.
+--------------------------------------------------
+Speaker_3:
+Start: 00:36:09.040
+End: 00:36:13.040
+Duration: 4.000 seconds
+Text: As long as they are outside the city, they will staff to pay that search order.
+--------------------------------------------------
+Speaker_3:
+Start: 00:36:13.040
+End: 00:36:21.920
+Duration: 8.880 seconds
+Text: So their connection fees or their system development charges will be doubled and their sewer
+--------------------------------------------------
+Speaker_3:
+Start: 00:36:21.920
+End: 00:36:26.360
+Duration: 4.440 seconds
+Text: fees I think are double and then the water fees are a 50% search charge.
+--------------------------------------------------
+Speaker_3:
+Start: 00:36:26.360
+End: 00:36:31.760
+Duration: 5.400 seconds
+Text: So until they are annexed or are part of the city limits, they will still pay those search
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:31.760
+End: 00:36:32.760
+Duration: 1.000 seconds
+Text: charges.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:32.760
+End: 00:36:33.760
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:33.760
+End: 00:36:35.560
+Duration: 1.800 seconds
+Text: And there's all my questions around here.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:35.560
+End: 00:36:40.720
+Duration: 5.160 seconds
+Text: So I would just add that and things Randy for they will be an outside the city customer,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:40.720
+End: 00:36:47.920
+Duration: 7.200 seconds
+Text: they currently are an outside the city customer and so it just expands it to more lots.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:47.920
+End: 00:36:51.760
+Duration: 3.840 seconds
+Text: Our typical agreement also they agree to annexation in the future.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:51.760
+End: 00:36:57.400
+Duration: 5.640 seconds
+Text: So if we ever want to annex them, we can that allows for that.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:57.400
+End: 00:37:03.520
+Duration: 6.120 seconds
+Text: That's part of that discussion that we're having as to ultimately reviewing criteria each
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:03.520
+End: 00:37:08.520
+Duration: 5.000 seconds
+Text: time one of these outside the city requests comes in.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:08.520
+End: 00:37:12.200
+Duration: 3.680 seconds
+Text: So that's all I want to add.
+--------------------------------------------------
+City Clerk:
+Start: 00:37:12.200
+End: 00:37:19.360
+Duration: 7.160 seconds
+Text: This looks like it's complicated and requires a lot of legal attention when it happens,
+--------------------------------------------------
+City Clerk:
+Start: 00:37:19.360
+End: 00:37:20.920
+Duration: 1.560 seconds
+Text: which makes it expensive for the city.
+--------------------------------------------------
+City Clerk:
+Start: 00:37:20.920
+End: 00:37:24.200
+Duration: 3.280 seconds
+Text: But my question is what's the motivation?
+--------------------------------------------------
+City Clerk:
+Start: 00:37:24.200
+End: 00:37:30.080
+Duration: 5.880 seconds
+Text: What would the if if this were to proceed through the city?
+--------------------------------------------------
+City Clerk:
+Start: 00:37:30.080
+End: 00:37:36.440
+Duration: 6.360 seconds
+Text: You gave us the cost to fund it privately, 90,000, sewer, 80,000 water.
+--------------------------------------------------
+City Clerk:
+Start: 00:37:36.440
+End: 00:37:41.960
+Duration: 5.520 seconds
+Text: What would it cost estimate, just an estimate if the city did it or is there a cost savings,
+--------------------------------------------------
+City Clerk:
+Start: 00:37:41.960
+End: 00:37:43.680
+Duration: 1.720 seconds
+Text: they're trying to save money?
+--------------------------------------------------
+Speaker_3:
+Start: 00:37:43.680
+End: 00:37:48.000
+Duration: 4.320 seconds
+Text: No, not particularly.
+--------------------------------------------------
+Speaker_3:
+Start: 00:37:48.000
+End: 00:37:52.680
+Duration: 4.680 seconds
+Text: As was mentioned, they would benefit if they were in the city by paying lower water and
+--------------------------------------------------
+Speaker_3:
+Start: 00:37:52.680
+End: 00:37:55.040
+Duration: 2.360 seconds
+Text: sewer rates.
+--------------------------------------------------
+Speaker_3:
+Start: 00:37:55.040
+End: 00:38:02.160
+Duration: 7.120 seconds
+Text: For them, because of some new standards that we put into those agreements, they also have
+--------------------------------------------------
+Speaker_3:
+Start: 00:38:02.160
+End: 00:38:04.040
+Duration: 1.880 seconds
+Text: a city building permit.
+--------------------------------------------------
+Speaker_3:
+Start: 00:38:04.040
+End: 00:38:08.040
+Duration: 4.000 seconds
+Text: So the building is built to our standards, because the assumption is in the future it will
+--------------------------------------------------
+Speaker_3:
+Start: 00:38:08.040
+End: 00:38:09.880
+Duration: 1.840 seconds
+Text: be in the city.
+--------------------------------------------------
+Speaker_3:
+Start: 00:38:09.880
+End: 00:38:13.080
+Duration: 3.200 seconds
+Text: So they're essentially doing everything as if they are in the city.
+--------------------------------------------------
+Speaker_3:
+Start: 00:38:13.080
+End: 00:38:16.720
+Duration: 3.640 seconds
+Text: It would be to their benefit to be in the city just for lower rates, although that's
+--------------------------------------------------
+Speaker_3:
+Start: 00:38:16.720
+End: 00:38:19.360
+Duration: 2.640 seconds
+Text: up to the owner.
+--------------------------------------------------
+Speaker_3:
+Start: 00:38:19.360
+End: 00:38:26.480
+Duration: 7.120 seconds
+Text: We have traditionally offered our benefit district financing mechanism to everyone.
+--------------------------------------------------
+Speaker_3:
+Start: 00:38:26.480
+End: 00:38:31.920
+Duration: 5.440 seconds
+Text: If not not many people, not many owners will use it.
+--------------------------------------------------
+Speaker_3:
+Start: 00:38:31.920
+End: 00:38:34.720
+Duration: 2.800 seconds
+Text: A lot of times it's done.
+--------------------------------------------------
+Speaker_3:
+Start: 00:38:34.720
+End: 00:38:41.280
+Duration: 6.560 seconds
+Text: Well, we did one in the cons of sewer district that is currently wrapping up design, where
+--------------------------------------------------
+Speaker_3:
+Start: 00:38:41.280
+End: 00:38:47.560
+Duration: 6.280 seconds
+Text: we were doing the project to kind of facilitate a solution to a septic system issue, Alton,
+--------------------------------------------------
+Speaker_3:
+Start: 00:38:47.560
+End: 00:38:50.160
+Duration: 2.600 seconds
+Text: Stoddell, Johnson Road.
+--------------------------------------------------
+Speaker_3:
+Start: 00:38:50.160
+End: 00:38:54.640
+Duration: 4.480 seconds
+Text: That was a little different where it was us approaching owners to say, we need to do this
+--------------------------------------------------
+Speaker_3:
+Start: 00:38:54.640
+End: 00:38:59.120
+Duration: 4.480 seconds
+Text: project, but a benefit district is a tool to help defer the costs.
+--------------------------------------------------
+Speaker_3:
+Start: 00:38:59.120
+End: 00:39:06.920
+Duration: 7.800 seconds
+Text: This one is just the owner's request to help finance that project, because by frankly,
+--------------------------------------------------
+Speaker_3:
+Start: 00:39:06.920
+End: 00:39:11.640
+Duration: 4.720 seconds
+Text: they can get a better rate with the city than they can, probably with their own banking
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:11.640
+End: 00:39:12.640
+Duration: 1.000 seconds
+Text: institutions.
+--------------------------------------------------
+Speaker_3:
+Start: 00:39:12.640
+End: 00:39:15.720
+Duration: 3.080 seconds
+Text: So I presume that is the primary benefit for them.
+--------------------------------------------------
+City Clerk:
+Start: 00:39:15.720
+End: 00:39:16.720
+Duration: 1.000 seconds
+Text: That's the point.
+--------------------------------------------------
+City Clerk:
+Start: 00:39:16.720
+End: 00:39:17.920
+Duration: 1.200 seconds
+Text: I appreciate knowing them.
+--------------------------------------------------
+Speaker_3:
+Start: 00:39:17.920
+End: 00:39:24.720
+Duration: 6.800 seconds
+Text: So we are taking on a little bit of that risk, but this is a relatively small risk, I think.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:24.720
+End: 00:39:25.720
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:25.720
+End: 00:39:28.720
+Duration: 3.000 seconds
+Text: Any other questions for Andy?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:28.720
+End: 00:39:30.560
+Duration: 1.840 seconds
+Text: Thanks for the presentation here.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:30.560
+End: 00:39:35.160
+Duration: 4.600 seconds
+Text: Is there anybody who would like to public a comment on this request?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:35.160
+End: 00:39:36.160
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:36.160
+End: 00:39:37.160
+Duration: 1.000 seconds
+Text: Hearing none.
+--------------------------------------------------
+City Clerk:
+Start: 00:39:37.160
+End: 00:39:41.040
+Duration: 3.880 seconds
+Text: I do have one more question.
+--------------------------------------------------
+City Clerk:
+Start: 00:39:41.040
+End: 00:39:48.160
+Duration: 7.120 seconds
+Text: We see that in the presentation, it says three lots, and then there are the whole are
+--------------------------------------------------
+City Clerk:
+Start: 00:39:48.160
+End: 00:39:55.000
+Duration: 6.840 seconds
+Text: three lots, but this proposal is for two lots.
+--------------------------------------------------
+Speaker_3:
+Start: 00:39:55.000
+End: 00:39:57.000
+Duration: 2.000 seconds
+Text: So the benefit district covers all three?
+--------------------------------------------------
+City Clerk:
+Start: 00:39:57.000
+End: 00:39:58.000
+Duration: 1.000 seconds
+Text: All three.
+--------------------------------------------------
+Speaker_3:
+Start: 00:39:58.000
+End: 00:39:59.000
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Speaker_3:
+Start: 00:39:59.000
+End: 00:40:02.360
+Duration: 3.360 seconds
+Text: The outside city agreements are only for the two lots where they would like to have city
+--------------------------------------------------
+Speaker_3:
+Start: 00:40:02.360
+End: 00:40:04.040
+Duration: 1.680 seconds
+Text: services at this time.
+--------------------------------------------------
+City Clerk:
+Start: 00:40:04.040
+End: 00:40:05.960
+Duration: 1.920 seconds
+Text: Because they already have it on them.
+--------------------------------------------------
+Speaker_3:
+Start: 00:40:05.960
+End: 00:40:11.120
+Duration: 5.160 seconds
+Text: In the future, if this is annexed into the city at some point, and they want to extend
+--------------------------------------------------
+Speaker_3:
+Start: 00:40:11.120
+End: 00:40:18.360
+Duration: 7.240 seconds
+Text: service to Lot 3, if they do that via public improvement, and then maybe they want to
+--------------------------------------------------
+Speaker_3:
+Start: 00:40:18.360
+End: 00:40:21.800
+Duration: 3.440 seconds
+Text: do a benefit district again, that lot would have to pay for those improvements.
+--------------------------------------------------
+City Clerk:
+Start: 00:40:21.800
+End: 00:40:27.520
+Duration: 5.720 seconds
+Text: Is there a different water rate charge on Lot 3 than on Lot 1 and 2?
+--------------------------------------------------
+City Clerk:
+Start: 00:40:27.520
+End: 00:40:28.520
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:40:28.520
+End: 00:40:31.400
+Duration: 2.880 seconds
+Text: Because those are considered separately.
+--------------------------------------------------
+City Clerk:
+Start: 00:40:32.400
+End: 00:40:38.440
+Duration: 6.040 seconds
+Text: Does the city have to maintain water hydrants?
+--------------------------------------------------
+Speaker_3:
+Start: 00:40:38.440
+End: 00:40:43.320
+Duration: 4.880 seconds
+Text: There will be a new fire hydrant on the north side of Staghill Road.
+--------------------------------------------------
+Speaker_3:
+Start: 00:40:43.320
+End: 00:40:47.320
+Duration: 4.000 seconds
+Text: It wasn't required necessarily, but they offered to put that in.
+--------------------------------------------------
+City Clerk:
+Start: 00:40:47.320
+End: 00:40:48.320
+Duration: 1.000 seconds
+Text: It was to make fire.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:40:48.320
+End: 00:40:49.320
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Speaker_3:
+Start: 00:40:49.320
+End: 00:40:54.520
+Duration: 5.200 seconds
+Text: So there's no fire sprinkler system requirements here.
+--------------------------------------------------
+Speaker_3:
+Start: 00:40:54.520
+End: 00:41:00.880
+Duration: 6.360 seconds
+Text: So then it's within, that's one of the criteria that fire department reviewed as it is within
+--------------------------------------------------
+Speaker_3:
+Start: 00:41:00.880
+End: 00:41:04.360
+Duration: 3.480 seconds
+Text: a response time for a couple of no stations.
+--------------------------------------------------
+City Clerk:
+Start: 00:41:04.360
+End: 00:41:07.560
+Duration: 3.200 seconds
+Text: It's really close to the airport on a fire station.
+--------------------------------------------------
+City Clerk:
+Start: 00:41:07.560
+End: 00:41:08.560
+Duration: 1.000 seconds
+Text: Okay, thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:41:08.560
+End: 00:41:09.560
+Duration: 1.000 seconds
+Text: Appreciate you asking.
+--------------------------------------------------
+City Clerk:
+Start: 00:41:09.560
+End: 00:41:11.080
+Duration: 1.520 seconds
+Text: Answering my question.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:41:11.080
+End: 00:41:12.080
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:41:12.080
+End: 00:41:14.080
+Duration: 2.000 seconds
+Text: Any other questions for Andy?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:41:14.080
+End: 00:41:15.080
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:41:15.080
+End: 00:41:17.080
+Duration: 2.000 seconds
+Text: And there is no public comment.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:41:17.080
+End: 00:41:18.080
+Duration: 1.000 seconds
+Text: So I'm ready for a motion.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:41:18.080
+End: 00:41:20.320
+Duration: 2.240 seconds
+Text: If anybody would like to read that long thing.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:41:20.320
+End: 00:41:21.320
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:41:21.320
+End: 00:41:22.600
+Duration: 1.280 seconds
+Text: I guess we'll read the long motion.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:41:22.600
+End: 00:41:23.600
+Duration: 1.000 seconds
+Text: This is long.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:41:23.600
+End: 00:41:30.800
+Duration: 7.200 seconds
+Text: I move that we find the petition sufficient and approve resolution number 0801238.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:41:30.800
+End: 00:41:39.640
+Duration: 8.840 seconds
+Text: We be in resolution number 080123C finding the projects advisable and authorizing construction
+--------------------------------------------------
+Director of Community Development:
+Start: 00:41:39.640
+End: 00:41:48.760
+Duration: 9.120 seconds
+Text: for water, WA2311 and sanitary sewer, SS2307 improvements respectively.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:41:48.760
+End: 00:41:53.160
+Duration: 4.400 seconds
+Text: Authorize the mayor and city clerk to execute an agreement for the construction of public
+--------------------------------------------------
+Director of Community Development:
+Start: 00:41:53.160
+End: 00:41:58.920
+Duration: 5.760 seconds
+Text: infrastructure by owner and contractor for the Staghill business community public water.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:41:58.920
+End: 00:42:08.600
+Duration: 9.680 seconds
+Text: WA2311 and sanitary sewer, SS2307 improvements and authorize the mayor and city clerk to execute
+--------------------------------------------------
+Director of Community Development:
+Start: 00:42:08.600
+End: 00:42:15.800
+Duration: 7.200 seconds
+Text: an outside city water and sanitary sewer service agreements with Joseph D and darling Armagra
+--------------------------------------------------
+Director of Community Development:
+Start: 00:42:15.800
+End: 00:42:21.600
+Duration: 5.800 seconds
+Text: to connect the structures for lots one and two of the Staghill business community addition
+--------------------------------------------------
+Director of Community Development:
+Start: 00:42:21.600
+End: 00:42:28.200
+Duration: 6.600 seconds
+Text: Riley County Kansas otherwise known as 4701 and 4703 Staghill Road.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:28.200
+End: 00:42:29.200
+Duration: 1.000 seconds
+Text: Is there a second?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:29.200
+End: 00:42:30.200
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:30.200
+End: 00:42:33.400
+Duration: 3.200 seconds
+Text: It's been moved in seconded to approve the motion.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:33.400
+End: 00:42:35.240
+Duration: 1.840 seconds
+Text: Please call the roll.
+--------------------------------------------------
+City Clerk:
+Start: 00:42:35.240
+End: 00:42:36.240
+Duration: 1.000 seconds
+Text: Commission Morse.
+--------------------------------------------------
+City Clerk:
+Start: 00:42:36.240
+End: 00:42:37.240
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:37.240
+End: 00:42:38.240
+Duration: 1.000 seconds
+Text: Mayor Hasel.
+--------------------------------------------------
+City Clerk:
+Start: 00:42:38.240
+End: 00:42:39.240
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:42:39.240
+End: 00:42:40.240
+Duration: 1.000 seconds
+Text: Commissioner Butler.
+--------------------------------------------------
+City Clerk:
+Start: 00:42:40.240
+End: 00:42:41.240
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:41.240
+End: 00:42:42.240
+Duration: 1.000 seconds
+Text: Commissioner Mata.
+--------------------------------------------------
+City Clerk:
+Start: 00:42:42.240
+End: 00:42:43.240
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:43.240
+End: 00:42:44.240
+Duration: 1.000 seconds
+Text: Motion carries 4 to 0.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:44.240
+End: 00:42:45.240
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:45.240
+End: 00:42:46.240
+Duration: 1.000 seconds
+Text: That is the last general agenda item.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:46.240
+End: 00:42:47.240
+Duration: 1.000 seconds
+Text: We'd like to say welcome to Kristen.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:47.240
+End: 00:42:50.920
+Duration: 3.680 seconds
+Text: Thanks for coming back and hanging with us for a little while.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:50.920
+End: 00:42:52.240
+Duration: 1.320 seconds
+Text: Is there a motion to adjourn?
+--------------------------------------------------
+Director of Community Development:
+Start: 00:42:52.240
+End: 00:42:56.280
+Duration: 4.040 seconds
+Text: I moved to adjourn the August 1st, 2023 City Commission meeting.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:56.280
+End: 00:42:57.280
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:57.280
+End: 00:42:58.280
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:58.280
+End: 00:42:59.280
+Duration: 1.000 seconds
+Text: It's been moved in seconded to adjourn.
+--------------------------------------------------
+City Clerk:
+Start: 00:42:59.280
+End: 00:43:00.280
+Duration: 1.000 seconds
+Text: Please call the roll again.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:43:00.280
+End: 00:43:01.280
+Duration: 1.000 seconds
+Text: Mayor Hasel.
+--------------------------------------------------
+City Clerk:
+Start: 00:43:01.280
+End: 00:43:02.280
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Director of Community Development:
+Start: 00:43:02.280
+End: 00:43:03.280
+Duration: 1.000 seconds
+Text: Commissioner Butler.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:43:03.280
+End: 00:43:04.280
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:43:04.280
+End: 00:43:05.280
+Duration: 1.000 seconds
+Text: Commissioner Mata.
+--------------------------------------------------
+City Clerk:
+Start: 00:43:05.280
+End: 00:43:06.280
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:43:06.280
+End: 00:43:07.280
+Duration: 1.000 seconds
+Text: Commissioner Morse.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:43:07.280
+End: 00:43:08.280
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:43:08.280
+End: 00:43:09.280
+Duration: 1.000 seconds
+Text: Motion carries 4 to 0.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:43:09.280
+End: 00:43:10.280
+Duration: 1.000 seconds
+Text: That's it.
+--------------------------------------------------
+City Clerk:
+Start: 00:43:10.280
+End: 00:43:11.280
+Duration: 1.000 seconds
+Text: Meeting adjourned.
+--------------------------------------------------

@@ -1,0 +1,5205 @@
+Transcription and Diarization for 20221209-12⧸06⧸22 City Commission Meeting.mp4
+==================================================
+
+Mayor Linda Morse:
+Start: 00:00:00.000
+End: 00:00:15.240
+Duration: 15.240 seconds
+Text: Good evening and welcome to this December 6th, 2022 meeting of the Manhattan City Commission.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:00:15.240
+End: 00:00:17.400
+Duration: 2.160 seconds
+Text: Welcome to everyone.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:00:17.400
+End: 00:00:23.920
+Duration: 6.520 seconds
+Text: The first item on the agenda is to have a roll call and City Clerk Brenda Wolf, would
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:00:23.920
+End: 00:00:25.480
+Duration: 1.560 seconds
+Text: you help us out?
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:00:25.480
+End: 00:00:27.600
+Duration: 2.120 seconds
+Text: Mayor Morris, present.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:00:28.320
+End: 00:00:29.240
+Duration: 0.920 seconds
+Text: Commissioner Hassel.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:29.240
+End: 00:00:30.000
+Duration: 0.760 seconds
+Text: Present.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:00:30.000
+End: 00:00:31.160
+Duration: 1.160 seconds
+Text: Commissioner Ready.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:31.160
+End: 00:00:31.960
+Duration: 0.800 seconds
+Text: Present.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:00:31.960
+End: 00:00:32.840
+Duration: 0.880 seconds
+Text: Commissioner Butler.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:32.840
+End: 00:00:33.640
+Duration: 0.800 seconds
+Text: Present.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:00:33.640
+End: 00:00:35.240
+Duration: 1.600 seconds
+Text: Commissioner Maudet.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:00:35.240
+End: 00:00:36.480
+Duration: 1.240 seconds
+Text: Here.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:00:36.480
+End: 00:00:38.960
+Duration: 2.480 seconds
+Text: Mayor, we have five commissioners present.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:00:38.960
+End: 00:00:40.320
+Duration: 1.360 seconds
+Text: The Corps of the Three is met.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:00:40.320
+End: 00:00:41.480
+Duration: 1.160 seconds
+Text: OK.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:00:41.480
+End: 00:00:42.760
+Duration: 1.280 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:00:42.760
+End: 00:00:47.200
+Duration: 4.440 seconds
+Text: If you would join me for the Pledge of Allegiance please.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:47.200
+End: 00:00:52.400
+Duration: 5.200 seconds
+Text: Pledge of Allegiance to the flag of the United States of America and to the Republic
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:52.400
+End: 00:00:54.000
+Duration: 1.600 seconds
+Text: for which it stands.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:54.000
+End: 00:00:56.000
+Duration: 2.000 seconds
+Text: One Nation and a God.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:56.000
+End: 00:00:59.000
+Duration: 3.000 seconds
+Text: Individual, liberty and justice for all.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:04.400
+End: 00:01:05.200
+Duration: 0.800 seconds
+Text: OK.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:01:05.200
+End: 00:01:09.600
+Duration: 4.400 seconds
+Text: The first item on the agenda this evening is public comments.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:01:09.600
+End: 00:01:16.120
+Duration: 6.520 seconds
+Text: If you are here to speak to something not on the agenda this would be the opportunity for
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:01:16.120
+End: 00:01:22.600
+Duration: 6.480 seconds
+Text: the public to speak or anybody to speak.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:01:22.600
+End: 00:01:23.760
+Duration: 1.160 seconds
+Text: Seeing no one.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:01:23.760
+End: 00:01:27.160
+Duration: 3.400 seconds
+Text: We'll move on to the Commissioner comments.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:01:27.160
+End: 00:01:28.480
+Duration: 1.320 seconds
+Text: John, why don't we start with you?
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:01:28.480
+End: 00:01:30.280
+Duration: 1.800 seconds
+Text: Do you have any comments?
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:01:30.280
+End: 00:01:31.280
+Duration: 1.000 seconds
+Text: No.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:31.280
+End: 00:01:32.080
+Duration: 0.800 seconds
+Text: OK.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:01:32.080
+End: 00:01:33.280
+Duration: 1.200 seconds
+Text: When?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:33.280
+End: 00:01:34.200
+Duration: 0.920 seconds
+Text: You sure?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:34.200
+End: 00:01:39.960
+Duration: 5.760 seconds
+Text: Yes, I just wanted to say the thank you for everyone that turned out for the parade.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:39.960
+End: 00:01:43.120
+Duration: 3.160 seconds
+Text: Last Friday the weather we were just talking about it was really good and then it went
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:43.120
+End: 00:01:44.920
+Duration: 1.800 seconds
+Text: really bad, really fast.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:44.920
+End: 00:01:48.440
+Duration: 3.520 seconds
+Text: But it was still a huge turnout.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:48.440
+End: 00:01:53.720
+Duration: 5.280 seconds
+Text: Invite your friends, family, to make Manhattan their destination for their home.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:53.720
+End: 00:01:57.600
+Duration: 3.880 seconds
+Text: Holidays, even if it's just for a few days there's lots going on downtown as well as
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:57.600
+End: 00:02:00.920
+Duration: 3.320 seconds
+Text: an egg in the rest of our community.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:02:00.920
+End: 00:02:05.240
+Duration: 4.320 seconds
+Text: Continue to donate food and other items to the Flint Hills bread basket.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:02:05.240
+End: 00:02:07.080
+Duration: 1.840 seconds
+Text: This is the time of year.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:02:07.080
+End: 00:02:12.560
+Duration: 5.480 seconds
+Text: They really need to have a lot of needs as do a lot of other nonprofits in our communities
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:02:12.560
+End: 00:02:13.720
+Duration: 1.160 seconds
+Text: to the season to give.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:02:13.720
+End: 00:02:15.720
+Duration: 2.000 seconds
+Text: So please be generous.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:02:15.720
+End: 00:02:17.720
+Duration: 2.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:02:17.720
+End: 00:02:21.360
+Duration: 3.640 seconds
+Text: I just want to say thanks to Commissioner Butler for all his work with him and his
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:02:21.360
+End: 00:02:26.960
+Duration: 5.600 seconds
+Text: wife for decorating the fire engine for the commission to write on.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:02:26.960
+End: 00:02:30.600
+Duration: 3.640 seconds
+Text: While we should have gotten the best in show and best use of lights awards since the mayors
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:02:30.600
+End: 00:02:34.280
+Duration: 3.680 seconds
+Text: were the ones making decisions we figured it probably wasn't a good idea to do that.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:02:34.280
+End: 00:02:42.920
+Duration: 8.640 seconds
+Text: But I think we were quite well represented with that so appreciate your work on that.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:02:42.920
+End: 00:02:48.280
+Duration: 5.360 seconds
+Text: It was so bright on the truck that we couldn't see the people along the side even.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:02:48.280
+End: 00:02:50.760
+Duration: 2.480 seconds
+Text: But the lighting was wonderful.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:02:50.760
+End: 00:02:57.400
+Duration: 6.640 seconds
+Text: I just want we have had kind of been on a hiatus for three weeks with no meetings.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:02:57.400
+End: 00:03:02.040
+Duration: 4.640 seconds
+Text: So in the meantime Manhattan High School has won their state championship.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:03:02.040
+End: 00:03:05.560
+Duration: 3.520 seconds
+Text: Case state has won the big 12 championship.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:03:05.560
+End: 00:03:07.600
+Duration: 2.040 seconds
+Text: We have lots to celebrate.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:03:07.600
+End: 00:03:13.480
+Duration: 5.880 seconds
+Text: It's a great day for our community to have these wonderful successes.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:03:13.480
+End: 00:03:18.520
+Duration: 5.040 seconds
+Text: And we look forward to repeat your next year, right?
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:03:18.520
+End: 00:03:23.400
+Duration: 4.880 seconds
+Text: So there are no other announcements.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:03:23.400
+End: 00:03:27.720
+Duration: 4.320 seconds
+Text: We'll proceed with the consent agenda.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:03:27.720
+End: 00:03:35.520
+Duration: 7.800 seconds
+Text: A consent agenda on the consent agenda are those items of a routine and housekeeping nature
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:03:35.520
+End: 00:03:41.080
+Duration: 5.560 seconds
+Text: or those items which have previously been reviewed by the city commission and may be approved
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:03:41.080
+End: 00:03:42.680
+Duration: 1.600 seconds
+Text: in one motion.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:03:42.680
+End: 00:03:47.160
+Duration: 4.480 seconds
+Text: A commissioner may request an item be removed for separate discussion and considered immediately
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:03:47.160
+End: 00:03:49.760
+Duration: 2.600 seconds
+Text: following the consent agenda.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:03:49.760
+End: 00:03:54.240
+Duration: 4.480 seconds
+Text: Comment from the public related to any item on the consent agenda is allowed.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:03:54.240
+End: 00:04:01.200
+Duration: 6.960 seconds
+Text: Each person will be limited to speaking once for up to five minutes.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:04:01.200
+End: 00:04:05.440
+Duration: 4.240 seconds
+Text: Are there any comments from the commissioners?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:05.440
+End: 00:04:09.000
+Duration: 3.560 seconds
+Text: Yeah, I want to on the appointments.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:09.000
+End: 00:04:17.760
+Duration: 8.760 seconds
+Text: I want to move item L H through O for the beginning of the general agenda.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:04:17.760
+End: 00:04:18.760
+Duration: 1.000 seconds
+Text: L, 8.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:18.760
+End: 00:04:20.680
+Duration: 1.920 seconds
+Text: Item L H through O.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:04:20.680
+End: 00:04:27.800
+Duration: 7.120 seconds
+Text: L H and O, I'm having trouble catching what you're saying.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:27.800
+End: 00:04:28.800
+Duration: 1.000 seconds
+Text: Item L is appointments.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:04:28.800
+End: 00:04:29.800
+Duration: 1.000 seconds
+Text: Yes, okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:29.800
+End: 00:04:33.200
+Duration: 3.400 seconds
+Text: Now we'll move item one H through O.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:33.200
+End: 00:04:36.000
+Duration: 2.800 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:04:36.000
+End: 00:04:39.040
+Duration: 3.040 seconds
+Text: And you want to move them to the general agenda.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:39.040
+End: 00:04:40.040
+Duration: 1.000 seconds
+Text: Right.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:40.040
+End: 00:04:41.040
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:41.040
+End: 00:04:42.040
+Duration: 1.000 seconds
+Text: A through G is good.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:04:42.040
+End: 00:04:43.040
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:43.040
+End: 00:04:44.040
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:44.040
+End: 00:04:51.240
+Duration: 7.200 seconds
+Text: I just want to say on item J. Next week, we typically have a work session and we will
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:51.240
+End: 00:04:54.240
+Duration: 3.000 seconds
+Text: be moving it to a special meeting.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:54.240
+End: 00:04:59.640
+Duration: 5.400 seconds
+Text: So it is a legislative meeting which means votes will be taken and boards, I believe, will
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:59.640
+End: 00:05:03.880
+Duration: 4.240 seconds
+Text: be also discussed that evening to do anything more to that Ron.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:03.880
+End: 00:05:05.720
+Duration: 1.840 seconds
+Text: Yeah, just for clarification.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:05.720
+End: 00:05:07.840
+Duration: 2.120 seconds
+Text: So it is a special meeting.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:07.840
+End: 00:05:12.400
+Duration: 4.560 seconds
+Text: We need a special meeting in order to have the executive session for my evaluation.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:12.400
+End: 00:05:14.880
+Duration: 2.480 seconds
+Text: That's the primary purpose of the special meeting.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:14.880
+End: 00:05:17.880
+Duration: 3.000 seconds
+Text: The board discussion item is a work session item.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:17.880
+End: 00:05:18.880
+Duration: 1.000 seconds
+Text: Still a work?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:18.880
+End: 00:05:24.160
+Duration: 5.280 seconds
+Text: We're not asking for any action or anticipating any action by the governing body on that item.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:24.160
+End: 00:05:25.160
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:25.160
+End: 00:05:27.200
+Duration: 2.040 seconds
+Text: Well, I'm glad you clarified it for me because I thought the entire meeting was going
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:27.200
+End: 00:05:29.240
+Duration: 2.040 seconds
+Text: to be a legislative session.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:29.240
+End: 00:05:30.960
+Duration: 1.720 seconds
+Text: So it is all a special meeting.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:30.960
+End: 00:05:36.320
+Duration: 5.360 seconds
+Text: The issue there is that we have to, if we put a specific deadline timeframe on the work
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:36.320
+End: 00:05:41.160
+Duration: 4.840 seconds
+Text: session and then had the special meeting started a specific time which we have to call for.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:41.160
+End: 00:05:42.760
+Duration: 1.600 seconds
+Text: We could have done it that way.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:42.760
+End: 00:05:43.760
+Duration: 1.000 seconds
+Text: Hard to estimate those.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:43.760
+End: 00:05:44.760
+Duration: 1.000 seconds
+Text: Didn't want to limit.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:44.760
+End: 00:05:46.880
+Duration: 2.120 seconds
+Text: Didn't know how many people might show up.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:46.880
+End: 00:05:49.320
+Duration: 2.440 seconds
+Text: So it is all wrapped into the special meeting.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:49.320
+End: 00:05:50.320
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:50.320
+End: 00:05:52.320
+Duration: 2.000 seconds
+Text: So it is still like a discussion.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:52.320
+End: 00:05:53.320
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:53.320
+End: 00:05:54.320
+Duration: 1.000 seconds
+Text: A discussion item.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:54.320
+End: 00:05:55.320
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:55.320
+End: 00:05:56.320
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:05:56.960
+End: 00:06:03.880
+Duration: 6.920 seconds
+Text: I would just like to comment on item H, the grant with the Flint, Flint Hills Wellness
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:06:03.880
+End: 00:06:07.760
+Duration: 3.880 seconds
+Text: Coalition Pathways to a Healthy Kansas Initiative.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:06:07.760
+End: 00:06:10.320
+Duration: 2.560 seconds
+Text: And I'm really pleased to see this.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:06:10.320
+End: 00:06:13.960
+Duration: 3.640 seconds
+Text: It's exciting to have something just come forward.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:06:13.960
+End: 00:06:15.840
+Duration: 1.880 seconds
+Text: I know it takes a lot of work.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:06:15.840
+End: 00:06:25.200
+Duration: 9.360 seconds
+Text: And I am pleased that it's going to work out to add to the sidewalks and maybe I'm
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:06:25.200
+End: 00:06:31.480
+Duration: 6.280 seconds
+Text: sure everything and enhance trail here in the community.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:06:31.480
+End: 00:06:43.960
+Duration: 12.480 seconds
+Text: And on item I, which is the back nine development, I will be voting no because I object to the
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:06:43.960
+End: 00:06:55.040
+Duration: 11.080 seconds
+Text: commission giving parking lot, city parking lots away for interest of one developer or two
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:06:55.040
+End: 00:06:56.040
+Duration: 1.000 seconds
+Text: or whatever.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:06:56.040
+End: 00:06:59.640
+Duration: 3.600 seconds
+Text: But that's just my own thinking.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:06:59.640
+End: 00:07:02.000
+Duration: 2.360 seconds
+Text: And so I'm going to be consistent with that.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:07:02.000
+End: 00:07:07.680
+Duration: 5.680 seconds
+Text: We've had several of instances of giving parking lots away for a dollar or nothing.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:07:07.680
+End: 00:07:10.000
+Duration: 2.320 seconds
+Text: So that's just going to be where I'm going to vote.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:07:10.000
+End: 00:07:14.600
+Duration: 4.600 seconds
+Text: And I just wanted to sprain it up front.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:07:14.600
+End: 00:07:22.880
+Duration: 8.280 seconds
+Text: So with that, is there anyone wishing to speak the evening in the public comments at
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:07:22.880
+End: 00:07:25.560
+Duration: 2.680 seconds
+Text: time?
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:07:25.560
+End: 00:07:27.680
+Duration: 2.120 seconds
+Text: Please come forward if you do.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:07:27.680
+End: 00:07:28.680
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:07:28.680
+End: 00:07:35.440
+Duration: 6.760 seconds
+Text: Seeing no one, close public comments and ask for a motion.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:07:35.440
+End: 00:07:41.800
+Duration: 6.360 seconds
+Text: I move that we approve the consent agenda except for the items that were moved to the general
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:07:41.800
+End: 00:07:42.800
+Duration: 1.000 seconds
+Text: agenda.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:07:42.800
+End: 00:07:43.800
+Duration: 1.000 seconds
+Text: I'll second.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:07:43.800
+End: 00:07:44.800
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:07:44.800
+End: 00:07:49.360
+Duration: 4.560 seconds
+Text: And I will be voting no on item I.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:07:49.360
+End: 00:07:52.760
+Duration: 3.400 seconds
+Text: And so we have a motion and a second.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:07:52.760
+End: 00:07:55.560
+Duration: 2.800 seconds
+Text: City Clerk, would you call the roll?
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:07:55.560
+End: 00:07:56.560
+Duration: 1.000 seconds
+Text: Commissioner Hattiesall.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:07:56.560
+End: 00:07:57.560
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:07:57.560
+End: 00:07:58.560
+Duration: 1.000 seconds
+Text: Commissioner Ready?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:07:58.560
+End: 00:07:59.560
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:07:59.560
+End: 00:08:00.560
+Duration: 1.000 seconds
+Text: Commissioner Butler?
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:08:00.560
+End: 00:08:01.560
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:08:01.560
+End: 00:08:02.560
+Duration: 1.000 seconds
+Text: Commissioner Mata?
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:08:02.560
+End: 00:08:03.560
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:08:03.560
+End: 00:08:06.280
+Duration: 2.720 seconds
+Text: Mayor Morse?
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:08:06.280
+End: 00:08:07.280
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:08:07.280
+End: 00:08:12.840
+Duration: 5.560 seconds
+Text: Except for item I and I will vote no on it.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:08:12.840
+End: 00:08:18.880
+Duration: 6.040 seconds
+Text: Motion carries 5 and 0 with the exception of item I1, which carries 4 to 1.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:08:18.880
+End: 00:08:19.880
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:08:19.880
+End: 00:08:20.880
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:08:20.880
+End: 00:08:26.120
+Duration: 5.240 seconds
+Text: That's one way to move right through the agenda is on the consent agenda.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:08:26.120
+End: 00:08:36.360
+Duration: 10.240 seconds
+Text: So the next item would be, we did have item 7, which is to consider items removed from
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:08:36.360
+End: 00:08:40.000
+Duration: 3.640 seconds
+Text: the consent agenda before moving on.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:08:40.000
+End: 00:08:44.880
+Duration: 4.880 seconds
+Text: So at this point, when you made the request, so what is your issue?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:08:44.880
+End: 00:08:45.880
+Duration: 1.000 seconds
+Text: Yep.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:08:45.880
+End: 00:08:50.680
+Duration: 4.800 seconds
+Text: What I'm concerned about is we had talked earlier about eliminating both of those boards,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:08:50.680
+End: 00:08:56.600
+Duration: 5.920 seconds
+Text: special alcohol board and the social services advisory board.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:08:56.600
+End: 00:08:58.560
+Duration: 1.960 seconds
+Text: So it doesn't make sense to me to appoint people.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:08:58.560
+End: 00:09:01.280
+Duration: 2.720 seconds
+Text: I don't have any issues with any of the recommendations.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:01.280
+End: 00:09:05.360
+Duration: 4.080 seconds
+Text: But my goal is we eliminate both those boards.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:05.360
+End: 00:09:10.120
+Duration: 4.760 seconds
+Text: We create a consolidated board and we create some new bylaws.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:10.120
+End: 00:09:11.960
+Duration: 1.840 seconds
+Text: And we do that within the next 60 days.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:11.960
+End: 00:09:14.080
+Duration: 2.120 seconds
+Text: I mean, it's time to move on with this.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:14.080
+End: 00:09:20.480
+Duration: 6.400 seconds
+Text: And by appointing these people, then we're going to have two boards and then there'll be people resisting change.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:20.480
+End: 00:09:23.400
+Duration: 2.920 seconds
+Text: And it just doesn't make any sense to me.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:23.400
+End: 00:09:25.600
+Duration: 2.200 seconds
+Text: So I don't want to see anybody appointed.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:25.600
+End: 00:09:27.600
+Duration: 2.000 seconds
+Text: I want to see the two boards disbanded.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:27.600
+End: 00:09:31.000
+Duration: 3.400 seconds
+Text: And I know we're going to talk about this next week, but it's not a voting thing.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:31.000
+End: 00:09:37.080
+Duration: 6.080 seconds
+Text: And so I think this just needs to be not happened tonight because I want to see those two boards
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:37.080
+End: 00:09:38.960
+Duration: 1.880 seconds
+Text: eliminated and the new one created.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:38.960
+End: 00:09:42.320
+Duration: 3.360 seconds
+Text: And I want to see it done quickly.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:42.320
+End: 00:09:44.120
+Duration: 1.800 seconds
+Text: I thought it was, we just had discussed it.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:44.120
+End: 00:09:48.480
+Duration: 4.360 seconds
+Text: I'm not sure we had, it was a discussion at that point.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:48.480
+End: 00:09:53.080
+Duration: 4.600 seconds
+Text: I don't know if we voted to dissolve or consolidate anything.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:09:53.080
+End: 00:09:56.960
+Duration: 3.880 seconds
+Text: I thought it was still a work in progress.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:09:56.960
+End: 00:10:05.920
+Duration: 8.960 seconds
+Text: I think it's a work in progress, but there was three commissioners at that meeting that gave direction to go ahead with the consolidation.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:10:05.920
+End: 00:10:17.720
+Duration: 11.800 seconds
+Text: And I'm with, when I want to appoint people who may or may not be comfortable with a combined board that we're going to have lit.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:10:17.720
+End: 00:10:30.520
+Duration: 12.800 seconds
+Text: And so I'm either voting no or just voting to table this until we finish up and come up with what that forward is going to look like and what the violates are.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:10:30.520
+End: 00:10:36.480
+Duration: 5.960 seconds
+Text: Well, as mayor, I felt like we have delayed this from our discussion in April and May.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:10:36.480
+End: 00:10:38.240
+Duration: 1.760 seconds
+Text: We've done nothing.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:10:38.240
+End: 00:10:46.680
+Duration: 8.440 seconds
+Text: And we have allocations of special alcohol and social services advisory board kinds of work.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:10:46.680
+End: 00:10:49.640
+Duration: 2.960 seconds
+Text: And those boards need to do.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:10:49.640
+End: 00:10:59.840
+Duration: 10.200 seconds
+Text: And I didn't want, so I didn't appoint them earlier because I didn't want to try to appoint somebody and then pull the rug out from under them four or five months later and say,
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:10:59.840
+End: 00:11:01.720
+Duration: 1.880 seconds
+Text: up, sure board is gone.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:11:01.720
+End: 00:11:03.560
+Duration: 1.840 seconds
+Text: I don't want to do that.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:11:03.560
+End: 00:11:09.000
+Duration: 5.440 seconds
+Text: But I want us to be to have a process in place that works.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:11:09.000
+End: 00:11:25.080
+Duration: 16.080 seconds
+Text: So if we're not going to do this for 2024, then maybe we say we want to do it for 2025, but we have work that needs to be done and not just race through it and do it halfway.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:11:25.080
+End: 00:11:30.080
+Duration: 5.000 seconds
+Text: So that was my rationale in moving these forward.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:11:30.080
+End: 00:11:33.400
+Duration: 3.320 seconds
+Text: So it's.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:11:33.400
+End: 00:11:38.880
+Duration: 5.480 seconds
+Text: I don't know about 2024 2025 2023 is one we should be doing.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:11:38.880
+End: 00:11:43.480
+Duration: 4.600 seconds
+Text: That's true. I jumped a year 2023.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:11:43.480
+End: 00:11:44.320
+Duration: 0.840 seconds
+Text: And I agree with you.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:11:44.320
+End: 00:11:45.440
+Duration: 1.120 seconds
+Text: We've been dragging this out.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:11:45.440
+End: 00:11:46.880
+Duration: 1.440 seconds
+Text: And that's why I want to push the issue.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:11:46.880
+End: 00:11:48.000
+Duration: 1.120 seconds
+Text: Let's get these board.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:11:48.000
+End: 00:11:52.720
+Duration: 4.720 seconds
+Text: Let's get it changed because we seem to just have this resistance to make it happen to me.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:11:52.720
+End: 00:11:53.840
+Duration: 1.120 seconds
+Text: It's pretty simple.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:11:53.840
+End: 00:11:58.480
+Duration: 4.640 seconds
+Text: And I based out on the fact that as John said, I thought three commissioners agreed to do that.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:11:58.480
+End: 00:12:00.440
+Duration: 1.960 seconds
+Text: It is just being drug out.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:12:00.440
+End: 00:12:01.680
+Duration: 1.240 seconds
+Text: And it doesn't need to be.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:12:01.680
+End: 00:12:02.800
+Duration: 1.120 seconds
+Text: It needs to just be done.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:12:02.800
+End: 00:12:03.680
+Duration: 0.880 seconds
+Text: Let's move on.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:12:07.760
+End: 00:12:15.240
+Duration: 7.480 seconds
+Text: Yeah, I would like us to see that combined it into one board, whatever you want to call it.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:12:15.240
+End: 00:12:20.560
+Duration: 5.320 seconds
+Text: And so I guess the first step of doing that would be to.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:12:20.560
+End: 00:12:25.000
+Duration: 4.440 seconds
+Text: Yeah, I guess is to kind of push the issue of.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:12:25.000
+End: 00:12:28.840
+Duration: 3.840 seconds
+Text: This would be the first step, I guess, to make sure that we actually do something.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:12:28.840
+End: 00:12:35.080
+Duration: 6.240 seconds
+Text: And I don't know what kind of timeline we've got to be on that.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:12:35.080
+End: 00:12:40.480
+Duration: 5.400 seconds
+Text: I know they have to have the allocation sort of done by May or June, which means they probably
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:12:40.480
+End: 00:12:46.720
+Duration: 6.240 seconds
+Text: start pretty soon here with their site visits and the applications.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:12:46.720
+End: 00:12:54.440
+Duration: 7.720 seconds
+Text: Arena, what does the deadliners, or do you know off the top of your head when they're
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:12:54.440
+End: 00:12:59.320
+Duration: 4.880 seconds
+Text: supposed to have the applications back and stuff?
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:12:59.320
+End: 00:13:00.320
+Duration: 1.000 seconds
+Text: Good evening commissioners.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:13:00.320
+End: 00:13:06.520
+Duration: 6.200 seconds
+Text: We have not sent any applications out for 2024 funding request.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:13:06.520
+End: 00:13:13.440
+Duration: 6.920 seconds
+Text: There has been conversation about revamping the application for both SSABN on a special
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:13:13.440
+End: 00:13:18.840
+Duration: 5.400 seconds
+Text: alcohol frontside and pending the decision of you all regarding whether or not they are
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:13:18.840
+End: 00:13:25.000
+Duration: 6.160 seconds
+Text: going to remain independent for or separate for the next calendar year or if they are
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:13:25.000
+End: 00:13:31.280
+Duration: 6.280 seconds
+Text: going to be combined that would determine also what kind of application needed to be created.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:13:31.280
+End: 00:13:35.080
+Duration: 3.800 seconds
+Text: And so right now, you're the liaison to both of those boards, right?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:13:35.080
+End: 00:13:36.080
+Duration: 1.000 seconds
+Text: Correct, sir.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:13:36.080
+End: 00:13:42.360
+Duration: 6.280 seconds
+Text: And the plan is for the City Manager's office to start working with those two in January
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:13:42.360
+End: 00:13:44.360
+Duration: 2.000 seconds
+Text: and I help with the transition.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:13:44.360
+End: 00:13:49.680
+Duration: 5.320 seconds
+Text: I hope part of one of the things we wanted to try to do is have a few less meetings that
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:13:49.680
+End: 00:13:50.680
+Duration: 1.000 seconds
+Text: you have to sit in on.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:13:50.680
+End: 00:13:55.440
+Duration: 4.760 seconds
+Text: And so if we're getting rid of both of them off of your plate, that's even better than
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:13:55.440
+End: 00:13:57.760
+Duration: 2.320 seconds
+Text: one of them that you still have to liaise for.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:13:57.760
+End: 00:13:58.760
+Duration: 1.000 seconds
+Text: So, okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:13:58.760
+End: 00:13:59.760
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:13:59.760
+End: 00:14:00.960
+Duration: 1.200 seconds
+Text: You're welcome, sir.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:14:00.960
+End: 00:14:09.520
+Duration: 8.560 seconds
+Text: So yeah, I'll vote to not appoint anybody so that we can have an interest in trying to
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:14:09.520
+End: 00:14:14.000
+Duration: 4.480 seconds
+Text: move quickly on getting us some kind of a kind of settling on some kind of a combined
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:14:14.000
+End: 00:14:15.000
+Duration: 1.000 seconds
+Text: board.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:14:15.000
+End: 00:14:16.000
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:14:16.000
+End: 00:14:17.000
+Duration: 1.000 seconds
+Text: We have a agreement.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:14:17.000
+End: 00:14:25.380
+Duration: 8.380 seconds
+Text: So make a motion that we not appoint anyone to the social services advisory board, the
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:14:25.380
+End: 00:14:29.000
+Duration: 3.620 seconds
+Text: special alcohol funds board.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:14:29.000
+End: 00:14:31.920
+Duration: 2.920 seconds
+Text: Tonight or at all.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:14:31.920
+End: 00:14:33.160
+Duration: 1.240 seconds
+Text: What is your time frame?
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:14:33.160
+End: 00:14:36.920
+Duration: 3.760 seconds
+Text: I'm told the new board is constituted or something.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:14:36.920
+End: 00:14:37.920
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:14:37.920
+End: 00:14:38.920
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:14:39.080
+End: 00:14:45.160
+Duration: 6.080 seconds
+Text: So you just, you want to deny it or you want to table those items?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:14:45.160
+End: 00:14:46.160
+Duration: 1.000 seconds
+Text: Just deny it.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:14:46.160
+End: 00:14:47.160
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:14:47.160
+End: 00:14:48.160
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:14:48.160
+End: 00:14:49.160
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:14:49.160
+End: 00:14:55.640
+Duration: 6.480 seconds
+Text: Well, so much time has gone by that I was just ready to do something.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:14:55.640
+End: 00:14:58.960
+Duration: 3.320 seconds
+Text: Somebody's got to get off the point here.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:14:58.960
+End: 00:15:05.240
+Duration: 6.280 seconds
+Text: And I want to also respect these people.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:15:05.240
+End: 00:15:12.020
+Duration: 6.780 seconds
+Text: So I will get back in touch with each one of them and let them know what the City Commission
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:15:12.020
+End: 00:15:13.880
+Duration: 1.860 seconds
+Text: has decided.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:15:13.880
+End: 00:15:17.800
+Duration: 3.920 seconds
+Text: So what is it you've decided?
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:15:17.800
+End: 00:15:24.000
+Duration: 6.200 seconds
+Text: What you've decided is you're not doing appointments tonight or you're not doing appointments
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:15:24.000
+End: 00:15:27.480
+Duration: 3.480 seconds
+Text: period to either one of these boards.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:15:27.480
+End: 00:15:31.560
+Duration: 4.080 seconds
+Text: And so what's the next step?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:15:31.560
+End: 00:15:32.560
+Duration: 1.000 seconds
+Text: Is all the boards?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:15:32.560
+End: 00:15:36.920
+Duration: 4.360 seconds
+Text: Can I make that motion tonight?
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:15:36.920
+End: 00:15:40.400
+Duration: 3.480 seconds
+Text: The motion on the appointments is to approve or deny.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:15:40.400
+End: 00:15:45.000
+Duration: 4.600 seconds
+Text: So that's the first thing would be to deny these specific appointments, these individuals,
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:15:45.000
+End: 00:15:48.040
+Duration: 3.040 seconds
+Text: that they can return in a different form in the future.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:15:48.040
+End: 00:15:51.440
+Duration: 3.400 seconds
+Text: So that would be the first thing just to deny these individuals, you don't have to do
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:15:51.440
+End: 00:15:56.680
+Duration: 5.240 seconds
+Text: them by name, but just deny the appointments in those items rather than to, a motion to
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:15:56.680
+End: 00:15:58.480
+Duration: 1.800 seconds
+Text: deny all appointments.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:15:58.480
+End: 00:15:59.480
+Duration: 1.000 seconds
+Text: Right.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:15:59.480
+End: 00:16:04.040
+Duration: 4.560 seconds
+Text: In terms of a motion to dissolve the boards, so those are going to take ordnance, well,
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:16:04.040
+End: 00:16:07.800
+Duration: 3.760 seconds
+Text: one's established by an ordinance and one's by a resolution.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:16:07.800
+End: 00:16:09.400
+Duration: 1.600 seconds
+Text: So we're going to have to bring those forward.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:16:09.400
+End: 00:16:14.400
+Duration: 5.000 seconds
+Text: I don't know if you're what your motion, I would recommend that next week, if you would
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:16:14.400
+End: 00:16:18.840
+Duration: 4.440 seconds
+Text: like to discuss that, that we would give you the form of that action, because you're
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:16:18.840
+End: 00:16:24.840
+Duration: 6.000 seconds
+Text: going to have to either repeal a resolution or amend an ordinance in order to do that.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:16:24.840
+End: 00:16:29.440
+Duration: 4.600 seconds
+Text: And then to dissolve as more like direction to staff to bring those items back to you.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:16:29.440
+End: 00:16:30.440
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:16:30.440
+End: 00:16:31.440
+Duration: 1.000 seconds
+Text: Well, this should be direction.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:16:31.440
+End: 00:16:34.080
+Duration: 2.640 seconds
+Text: I mean, we've been waiting long enough on that, it's my opinion.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:16:34.080
+End: 00:16:41.240
+Duration: 7.160 seconds
+Text: Well, we just are in the process of setting up, passing something that says what, December
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:16:41.240
+End: 00:16:44.960
+Duration: 3.720 seconds
+Text: 13th meeting is going to, what the two agenda items are.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:16:44.960
+End: 00:16:46.720
+Duration: 1.760 seconds
+Text: So now did we just add one?
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:16:46.720
+End: 00:16:47.720
+Duration: 1.000 seconds
+Text: It's my question.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:16:47.720
+End: 00:16:50.720
+Duration: 3.000 seconds
+Text: It's already listed as a discussion on the board.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:16:50.720
+End: 00:16:57.840
+Duration: 7.120 seconds
+Text: We had planned on discussing these two boards during the December 13th meeting part of our
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:16:57.840
+End: 00:17:05.120
+Duration: 7.280 seconds
+Text: initial recommendation was going to be to make some of those efficiency changes that we
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:17:05.120
+End: 00:17:10.560
+Duration: 5.440 seconds
+Text: had been discussing related to so many meetings, public hearing, site visits, and then looking
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:17:10.560
+End: 00:17:14.480
+Duration: 3.920 seconds
+Text: at combining the boards in 2024.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:17:14.480
+End: 00:17:19.440
+Duration: 4.960 seconds
+Text: So we'll need to, since there's a majority, then once they combine them this year in preparation
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:17:19.440
+End: 00:17:25.480
+Duration: 6.040 seconds
+Text: for the 2024 budget process, we'll need to work through that and see what it'll look
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:17:25.480
+End: 00:17:32.000
+Duration: 6.520 seconds
+Text: like, because we'll need to, as Katie mentioned, you have to repeal those resolutions and
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:17:32.000
+End: 00:17:33.000
+Duration: 1.000 seconds
+Text: ordinances.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:17:33.000
+End: 00:17:36.080
+Duration: 3.080 seconds
+Text: You have to draft a new one creating a new board that appoints new members.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:17:36.080
+End: 00:17:38.880
+Duration: 2.800 seconds
+Text: You have to find new members for that board.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:17:38.880
+End: 00:17:40.440
+Duration: 1.560 seconds
+Text: What's the makeup of it?
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:17:40.440
+End: 00:17:47.640
+Duration: 7.200 seconds
+Text: So it's going to be a few conversations over the next couple of weeks and months to develop
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:17:47.640
+End: 00:17:54.120
+Duration: 6.480 seconds
+Text: that and create that body and what it's charge is.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:17:54.120
+End: 00:17:55.120
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:17:55.120
+End: 00:17:58.360
+Duration: 3.240 seconds
+Text: So we have a plan, is the point, right?
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:17:58.360
+End: 00:18:01.400
+Duration: 3.040 seconds
+Text: We're not just dropping this and not doing anything else.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:18:01.400
+End: 00:18:04.360
+Duration: 2.960 seconds
+Text: We're going to do something.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:18:04.360
+End: 00:18:11.720
+Duration: 7.360 seconds
+Text: I think the board, the commission is just growing impatient, generally, at the lack of action.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:18:11.720
+End: 00:18:17.600
+Duration: 5.880 seconds
+Text: Yeah, we will say dissolving two boards and then creating a new one is going to be a process
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:18:17.600
+End: 00:18:20.280
+Duration: 2.680 seconds
+Text: that won't happen by a simple motion.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:18:20.280
+End: 00:18:25.680
+Duration: 5.400 seconds
+Text: We're going to have to have a couple of discussions with the city commission on what the board
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:18:25.680
+End: 00:18:29.120
+Duration: 3.440 seconds
+Text: is and what the charge is and the makeup of it, the number of members, we're going to have
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:18:29.120
+End: 00:18:35.880
+Duration: 6.760 seconds
+Text: to go out and find members, because it's not necessarily as simple as taking existing
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:18:35.880
+End: 00:18:39.400
+Duration: 3.520 seconds
+Text: members and creating one new one.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:18:39.400
+End: 00:18:46.520
+Duration: 7.120 seconds
+Text: We're going to have to talk through how it's going to be to create that board and then
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:18:46.520
+End: 00:18:52.360
+Duration: 5.840 seconds
+Text: we need to do all that in time to open up an application for those funds like we would
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:18:52.360
+End: 00:19:01.920
+Duration: 9.560 seconds
+Text: be already and have those applications completed by those agencies and reviewed by this new board
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:19:01.920
+End: 00:19:05.680
+Duration: 3.760 seconds
+Text: by the beginning of your budget process in May.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:19:05.680
+End: 00:19:11.560
+Duration: 5.880 seconds
+Text: So I'm going to, I probably will vote for the appointments because that's going to be
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:19:11.560
+End: 00:19:16.760
+Duration: 5.200 seconds
+Text: how we're going to be voting still a yes or no, mainly because that's still a process.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:19:16.760
+End: 00:19:21.040
+Duration: 4.280 seconds
+Text: I'm assuming these boards are thinking they're still going to be, will still be meeting
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:19:21.040
+End: 00:19:27.400
+Duration: 6.360 seconds
+Text: until we get rid of them and we won't be able to get rid of them right away.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:19:27.400
+End: 00:19:32.120
+Duration: 4.720 seconds
+Text: So I'm thinking when is their next meeting, do they have meetings in December or in January?
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:19:32.120
+End: 00:19:38.680
+Duration: 6.560 seconds
+Text: Their next meeting is sometime in January and it's all based on the conversation you
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:19:38.680
+End: 00:19:41.640
+Duration: 2.960 seconds
+Text: all have next week in the direction you provide us.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:19:41.640
+End: 00:19:43.840
+Duration: 2.200 seconds
+Text: Okay, so I'm going to have not been scheduled.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:19:43.840
+End: 00:19:44.840
+Duration: 1.000 seconds
+Text: Sure.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:19:44.840
+End: 00:19:45.840
+Duration: 1.000 seconds
+Text: This time.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:19:45.840
+End: 00:19:50.240
+Duration: 4.400 seconds
+Text: I'm just going to go ahead and vote on these because not knowing where the process is
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:19:50.240
+End: 00:19:54.680
+Duration: 4.440 seconds
+Text: going to go, I think they should probably, you know, probably send an email or something
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:19:54.680
+End: 00:20:00.680
+Duration: 6.000 seconds
+Text: saying tentatively they're still on this board unless otherwise notified because we don't
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:20:00.680
+End: 00:20:03.840
+Duration: 3.160 seconds
+Text: know, I don't know how long the rest of the process is going to take or whatever it might
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:20:03.840
+End: 00:20:04.840
+Duration: 1.000 seconds
+Text: be.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:20:04.840
+End: 00:20:10.080
+Duration: 5.240 seconds
+Text: But I also want to make sure that if these people are interested that they may have the
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:20:10.080
+End: 00:20:15.320
+Duration: 5.240 seconds
+Text: option of joining a different, whatever the new consolidated board might look like so
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:20:15.320
+End: 00:20:21.600
+Duration: 6.280 seconds
+Text: that they don't feel like their appointments were rejected but so much as they're appointed
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:20:21.600
+End: 00:20:26.000
+Duration: 4.400 seconds
+Text: until the new one is also formed if they want to still continue being on one of these
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:20:26.000
+End: 00:20:28.000
+Duration: 2.000 seconds
+Text: advisory boards.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:20:28.000
+End: 00:20:32.920
+Duration: 4.920 seconds
+Text: Commissioner, if you, if you would like, you could withdraw the motion to deny and table
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:20:33.000
+End: 00:20:37.800
+Duration: 4.800 seconds
+Text: it until January 3rd, which would allow us the opportunity to get the feedback that
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:20:37.800
+End: 00:20:38.800
+Duration: 1.000 seconds
+Text: you wanted.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:20:38.800
+End: 00:20:42.040
+Duration: 3.240 seconds
+Text: We could still withdraw it from the third or take the vote then that would allow you
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:20:42.040
+End: 00:20:47.400
+Duration: 5.360 seconds
+Text: to give the feedback on the 13th and perhaps even have a form of what comes next on the
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:20:47.400
+End: 00:20:48.400
+Duration: 1.000 seconds
+Text: 20th.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:20:48.400
+End: 00:20:49.400
+Duration: 1.000 seconds
+Text: That's one option.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:20:49.400
+End: 00:20:51.000
+Duration: 1.600 seconds
+Text: We can still deny him as well.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:20:51.000
+End: 00:20:52.400
+Duration: 1.400 seconds
+Text: Of course, that's what you prefer.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:20:52.400
+End: 00:20:55.400
+Duration: 3.000 seconds
+Text: I already made the motion.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:20:55.400
+End: 00:20:56.400
+Duration: 1.000 seconds
+Text: I want to make the point.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:20:56.400
+End: 00:20:58.000
+Duration: 1.600 seconds
+Text: It's not a point of them.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:20:58.000
+End: 00:21:00.400
+Duration: 2.400 seconds
+Text: It's just you're putting obstacles in the way.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:21:00.960
+End: 00:21:03.400
+Duration: 2.440 seconds
+Text: You know, as Jared said, you know, it's going to take forever.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:21:03.400
+End: 00:21:06.400
+Duration: 3.000 seconds
+Text: No, get it done in the next six weeks.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:21:06.400
+End: 00:21:07.400
+Duration: 1.000 seconds
+Text: It's simple.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:21:07.400
+End: 00:21:08.400
+Duration: 1.000 seconds
+Text: It's not that hard.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:21:08.400
+End: 00:21:10.840
+Duration: 2.440 seconds
+Text: You just simply kill these two boards.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:21:10.840
+End: 00:21:15.240
+Duration: 4.400 seconds
+Text: You create a, you create a new one and you, and you put the same application process up
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:21:15.240
+End: 00:21:16.240
+Duration: 1.000 seconds
+Text: there.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:21:16.240
+End: 00:21:18.680
+Duration: 2.440 seconds
+Text: You want to be on the new consolidated board, put in your name.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:21:18.680
+End: 00:21:19.680
+Duration: 1.000 seconds
+Text: But we need to move on.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:21:19.680
+End: 00:21:22.480
+Duration: 2.800 seconds
+Text: We've been messing with this thing way too long in my mind.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:21:22.480
+End: 00:21:24.480
+Duration: 2.000 seconds
+Text: So I'd like to call the question.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:21:24.480
+End: 00:21:25.800
+Duration: 1.320 seconds
+Text: I put it out there.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:21:25.800
+End: 00:21:28.040
+Duration: 2.240 seconds
+Text: We need to take a vote on this.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:21:28.040
+End: 00:21:29.040
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:21:30.040
+End: 00:21:32.040
+Duration: 2.000 seconds
+Text: We already have a motion.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:21:32.040
+End: 00:21:41.440
+Duration: 9.400 seconds
+Text: So the question is, is a, is a yes vote to, what is, what is the, to not approve these,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:21:41.440
+End: 00:21:44.280
+Duration: 2.840 seconds
+Text: is a yes vote for his motion or a no vote?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:21:44.280
+End: 00:21:46.200
+Duration: 1.920 seconds
+Text: Yes, means they don't get approved.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:21:46.200
+End: 00:21:47.200
+Duration: 1.000 seconds
+Text: OK.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:21:47.200
+End: 00:21:51.400
+Duration: 4.200 seconds
+Text: If you, if it's simpler for the clerk, you could state it, commissioner, you could repress
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:21:51.400
+End: 00:21:54.520
+Duration: 3.120 seconds
+Text: it as a motion to approve and then vote against it.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:21:54.520
+End: 00:21:58.800
+Duration: 4.280 seconds
+Text: Typically, you're not supposed to have a motion in the negative because of exactly the confusion
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:21:59.440
+End: 00:22:00.960
+Duration: 1.520 seconds
+Text: that you've asked for.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:22:00.960
+End: 00:22:04.720
+Duration: 3.760 seconds
+Text: If that simplifies it, you could make the motion and then you vote no in order to decline
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:22:04.720
+End: 00:22:05.720
+Duration: 1.000 seconds
+Text: them.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:22:05.720
+End: 00:22:14.240
+Duration: 8.520 seconds
+Text: I mean, to say, you know, the motion is to, to not approve, to approve.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:22:14.240
+End: 00:22:18.760
+Duration: 4.520 seconds
+Text: The motion will be to approve, but you vote no and that gives your, everyone knows yes
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:22:18.760
+End: 00:22:20.440
+Duration: 1.680 seconds
+Text: or no and they don't have that confusion.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:22:20.440
+End: 00:22:21.440
+Duration: 1.000 seconds
+Text: All right, yeah.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:22:21.440
+End: 00:22:22.440
+Duration: 1.000 seconds
+Text: Commissioner Haswell.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:22:22.440
+End: 00:22:23.440
+Duration: 1.000 seconds
+Text: OK.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:22:23.440
+End: 00:22:25.280
+Duration: 1.840 seconds
+Text: So I need to vote no.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:22:25.280
+End: 00:22:27.280
+Duration: 2.000 seconds
+Text: That's what you're telling me.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:22:27.280
+End: 00:22:28.280
+Duration: 1.000 seconds
+Text: OK.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:22:28.280
+End: 00:22:29.280
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:22:29.280
+End: 00:22:35.280
+Duration: 6.000 seconds
+Text: So the motion then is to, you know, approve the appointments L, H through O.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:22:35.280
+End: 00:22:36.280
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:22:36.280
+End: 00:22:37.280
+Duration: 1.000 seconds
+Text: OK.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:22:37.280
+End: 00:22:40.360
+Duration: 3.080 seconds
+Text: We have a motion and a second.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:22:40.360
+End: 00:22:42.720
+Duration: 2.360 seconds
+Text: Is there further discussion?
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:22:42.720
+End: 00:22:43.720
+Duration: 1.000 seconds
+Text: Is there public?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:22:43.720
+End: 00:22:46.600
+Duration: 2.880 seconds
+Text: I'd rather have tabled it, but that's fine.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:22:46.600
+End: 00:22:51.160
+Duration: 4.560 seconds
+Text: Is there, does anyone wish to make public comments?
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:22:51.160
+End: 00:22:53.160
+Duration: 2.000 seconds
+Text: This would be the opportunity.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:22:53.160
+End: 00:22:55.160
+Duration: 2.000 seconds
+Text: OK.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:22:55.160
+End: 00:22:56.400
+Duration: 1.240 seconds
+Text: I'm seeing no one come forward.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:22:56.400
+End: 00:23:01.320
+Duration: 4.920 seconds
+Text: I will close the public comment section and proceed to ask the city clerk to call the
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:01.320
+End: 00:23:02.320
+Duration: 1.000 seconds
+Text: roll.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:23:02.320
+End: 00:23:04.320
+Duration: 2.000 seconds
+Text: Commissioner Ready.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:04.320
+End: 00:23:05.320
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:05.320
+End: 00:23:06.320
+Duration: 1.000 seconds
+Text: Commissioner Butler?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:06.320
+End: 00:23:07.320
+Duration: 1.000 seconds
+Text: No.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:23:07.320
+End: 00:23:08.320
+Duration: 1.000 seconds
+Text: Commissioner Mata?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:08.320
+End: 00:23:09.320
+Duration: 1.000 seconds
+Text: No.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:23:09.320
+End: 00:23:10.320
+Duration: 1.000 seconds
+Text: Mayor Morse?
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:23:10.320
+End: 00:23:11.320
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:23:11.320
+End: 00:23:12.320
+Duration: 1.000 seconds
+Text: Commissioner Haswell?
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:23:12.320
+End: 00:23:13.320
+Duration: 1.000 seconds
+Text: No.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:23:13.320
+End: 00:23:14.320
+Duration: 1.000 seconds
+Text: Motion fails.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:23:14.320
+End: 00:23:15.320
+Duration: 1.000 seconds
+Text: Three to two.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:15.320
+End: 00:23:16.320
+Duration: 1.000 seconds
+Text: OK.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:23:16.320
+End: 00:23:18.320
+Duration: 2.000 seconds
+Text: Thank you very much for that discussion.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:23:18.320
+End: 00:23:24.480
+Duration: 6.160 seconds
+Text: We got off the Ed Center, I guess, and we're moving on.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:23:24.480
+End: 00:23:31.080
+Duration: 6.600 seconds
+Text: So next on the agenda would be a public hearing.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:23:31.080
+End: 00:23:37.640
+Duration: 6.560 seconds
+Text: And it is to consider amending the townhomes at Miller Ranch, planned unit development for
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:23:37.640
+End: 00:23:38.640
+Duration: 1.000 seconds
+Text: signage.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:38.640
+End: 00:23:39.640
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:39.640
+End: 00:23:44.640
+Duration: 5.000 seconds
+Text: Good evening, Commissioner Stuckey, Peterson, Director of Community Development.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:44.640
+End: 00:23:50.720
+Duration: 6.080 seconds
+Text: This evening we have for you an amendment to the townhomes at Miller Ranch Community
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:50.720
+End: 00:23:55.040
+Duration: 4.320 seconds
+Text: for the installation of a modified sign.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:55.040
+End: 00:23:56.760
+Duration: 1.720 seconds
+Text: Is your mic working, Stephanie?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:56.760
+End: 00:23:57.760
+Duration: 1.000 seconds
+Text: Hold it up in the sound.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:57.760
+End: 00:23:58.760
+Duration: 1.000 seconds
+Text: I can.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:58.760
+End: 00:23:59.760
+Duration: 1.000 seconds
+Text: Hold it up there, Regent.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:23:59.760
+End: 00:24:00.760
+Duration: 1.000 seconds
+Text: There's a timer.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:00.760
+End: 00:24:01.760
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:24:01.760
+End: 00:24:04.760
+Duration: 3.000 seconds
+Text: But in this button, I don't think it's important.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:04.760
+End: 00:24:05.760
+Duration: 1.000 seconds
+Text: I don't think it's important.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:05.760
+End: 00:24:06.760
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:06.760
+End: 00:24:07.760
+Duration: 1.000 seconds
+Text: How about now?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:07.760
+End: 00:24:09.760
+Duration: 2.000 seconds
+Text: There we go.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:09.760
+End: 00:24:14.040
+Duration: 4.280 seconds
+Text: So the location of the townhomes, it's at the northwest corner of Amherst and Miller
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:14.040
+End: 00:24:15.040
+Duration: 1.000 seconds
+Text: Parkway.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:15.040
+End: 00:24:18.760
+Duration: 3.720 seconds
+Text: They're more commonly referred to as Brianna Court.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:18.760
+End: 00:24:23.200
+Duration: 4.440 seconds
+Text: The previous design and the sign that was approved with the initial PUD is the picture
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:23.200
+End: 00:24:27.040
+Duration: 3.840 seconds
+Text: that's right here, four feet tall, about two feet wide.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:27.040
+End: 00:24:32.400
+Duration: 5.360 seconds
+Text: What the HOA is wanting to do is to install a sign that you see here.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:32.400
+End: 00:24:39.400
+Duration: 7.000 seconds
+Text: It's six feet wide, which is why we are needing to make this as a modification to the PUD, because
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:39.400
+End: 00:24:43.960
+Duration: 4.560 seconds
+Text: the square footage of the sign exceeds that that was originally put in the PUD.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:43.960
+End: 00:24:48.480
+Duration: 4.520 seconds
+Text: We do show where the proposed sign would be located, which is the same location as the
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:48.480
+End: 00:24:51.480
+Duration: 3.000 seconds
+Text: original one.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:51.480
+End: 00:24:54.280
+Duration: 2.800 seconds
+Text: This did go before the Manhattan Urban Area Planning Board.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:54.280
+End: 00:24:58.200
+Duration: 3.920 seconds
+Text: It was approved unanimously, and there were no public comments.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:24:58.200
+End: 00:25:02.760
+Duration: 4.560 seconds
+Text: So the requested action before you tonight is to approve amending two different ordinances related
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:25:02.760
+End: 00:25:08.600
+Duration: 5.840 seconds
+Text: to this PUD, along with the final development plan for the townhomes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:25:08.600
+End: 00:25:12.760
+Duration: 4.160 seconds
+Text: And I will stand for any questions that you may have.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:25:12.760
+End: 00:25:13.760
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:25:13.760
+End: 00:25:14.760
+Duration: 1.000 seconds
+Text: Thank you, Stephanie.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:25:14.760
+End: 00:25:15.760
+Duration: 1.000 seconds
+Text: Welcome.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:25:15.760
+End: 00:25:16.760
+Duration: 1.000 seconds
+Text: Appreciate your presentation.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:25:16.760
+End: 00:25:23.360
+Duration: 6.600 seconds
+Text: Is there, is the commission have any comments or questions of staff?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:25:23.360
+End: 00:25:24.360
+Duration: 1.000 seconds
+Text: Nope.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:25:24.360
+End: 00:25:25.360
+Duration: 1.000 seconds
+Text: It seems pretty simple to me.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:25:25.360
+End: 00:25:26.360
+Duration: 1.000 seconds
+Text: I'm not forward.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:25:26.360
+End: 00:25:27.360
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:25:27.360
+End: 00:25:28.360
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:25:28.360
+End: 00:25:36.600
+Duration: 8.240 seconds
+Text: I will open, I think, we have a public hearing here that we need to conduct.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:25:36.600
+End: 00:25:43.680
+Duration: 7.080 seconds
+Text: So if any member of the public wishes to come forward to speak at the public hearing,
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:25:43.680
+End: 00:25:47.080
+Duration: 3.400 seconds
+Text: just to comment, there's nobody here except staff.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:25:47.080
+End: 00:25:54.080
+Duration: 7.000 seconds
+Text: Anyway, just to open the public hearing, pause for a bit, and close the public hearing.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:25:54.080
+End: 00:25:59.480
+Duration: 5.400 seconds
+Text: I will now close the public hearing that if the commission has any further comments, this
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:25:59.480
+End: 00:26:02.720
+Duration: 3.240 seconds
+Text: doesn't seem to me to, it seems like something.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:26:02.720
+End: 00:26:20.400
+Duration: 17.680 seconds
+Text: This little neighborhood wants to might identify a name, and so please come forward.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:26:20.400
+End: 00:26:23.160
+Duration: 2.760 seconds
+Text: So at this point, we're ready for a motion.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:26:23.160
+End: 00:26:26.640
+Duration: 3.480 seconds
+Text: Mayor, I move that we approve the first reading of an ordinance amending ordinance number
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:26:26.640
+End: 00:26:34.400
+Duration: 7.760 seconds
+Text: 6254 and 6569, and the final development plan of the townhomes at Miller Parkway residential
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:26:34.400
+End: 00:26:40.400
+Duration: 6.000 seconds
+Text: PUD to permit and enlarge and modify the neighborhood identification sign based on the findings
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:26:40.400
+End: 00:26:44.480
+Duration: 4.080 seconds
+Text: of the staff report and the recommendations of the Madam Urban Area Planning Board.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:26:44.480
+End: 00:26:45.480
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:26:45.480
+End: 00:26:49.320
+Duration: 3.840 seconds
+Text: We have a motion and a second.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:26:49.320
+End: 00:26:56.320
+Duration: 7.000 seconds
+Text: If there are no further comments, I'll ask the city clerk to, did you have one, Yusha?
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:26:56.320
+End: 00:26:57.320
+Duration: 1.000 seconds
+Text: No, okay.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:26:57.320
+End: 00:26:59.400
+Duration: 2.080 seconds
+Text: I'll ask Brenda to call the roll.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:26:59.400
+End: 00:27:00.400
+Duration: 1.000 seconds
+Text: Commissioner Butler?
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:27:00.400
+End: 00:27:01.400
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:27:01.400
+End: 00:27:02.400
+Duration: 1.000 seconds
+Text: Commissioner Mata?
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:27:02.400
+End: 00:27:03.400
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:27:03.400
+End: 00:27:04.400
+Duration: 1.000 seconds
+Text: Mayor Morris?
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:27:04.400
+End: 00:27:05.400
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:27:05.400
+End: 00:27:06.400
+Duration: 1.000 seconds
+Text: Commissioner Hassel?
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:27:06.400
+End: 00:27:07.400
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:27:07.400
+End: 00:27:08.400
+Duration: 1.000 seconds
+Text: Commissioner Ready?
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:27:08.400
+End: 00:27:09.400
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:27:09.400
+End: 00:27:10.400
+Duration: 1.000 seconds
+Text: Motion carries 5-0.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:27:10.400
+End: 00:27:11.400
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:27:11.400
+End: 00:27:19.360
+Duration: 7.960 seconds
+Text: The next item on the agenda is the general agenda item to consider a fee in lieu storm
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:27:19.360
+End: 00:27:22.040
+Duration: 2.680 seconds
+Text: water process.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:27:22.040
+End: 00:27:26.020
+Duration: 3.980 seconds
+Text: This will be the first approved, we would approve the first reading of an ordinance to
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:27:26.020
+End: 00:27:32.120
+Duration: 6.100 seconds
+Text: amend the code of ordinances by establishing a process by which a development may pay a
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:27:32.120
+End: 00:27:37.360
+Duration: 5.240 seconds
+Text: fee in lieu of the requirement to provide a detention of storm water runoff caused by
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:27:37.360
+End: 00:27:39.000
+Duration: 1.640 seconds
+Text: the development.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:27:39.000
+End: 00:27:43.080
+Duration: 4.080 seconds
+Text: And here with us is Brian Johnson, the city engineer.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:27:43.080
+End: 00:27:44.080
+Duration: 1.000 seconds
+Text: Thank you, Mayor.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:27:44.080
+End: 00:27:45.600
+Duration: 1.520 seconds
+Text: Commissioner Brian Johnson, city engineer.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:27:45.600
+End: 00:27:50.720
+Duration: 5.120 seconds
+Text: Again, this is a fee in lieu detention for the downtown east and west watershed.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:27:50.720
+End: 00:27:55.360
+Duration: 4.640 seconds
+Text: And this is an item, actually this is a follow-up to a couple of agreements that we have
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:27:55.360
+End: 00:27:58.200
+Duration: 2.840 seconds
+Text: completed over the last year, year and a half.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:27:58.200
+End: 00:28:00.600
+Duration: 2.400 seconds
+Text: And we did those agreements.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:28:00.600
+End: 00:28:03.800
+Duration: 3.200 seconds
+Text: You had asked us to come back with a formal policy.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:28:03.800
+End: 00:28:08.280
+Duration: 4.480 seconds
+Text: That way we're not doing these one-off agreements between the city and developers.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:28:08.280
+End: 00:28:09.760
+Duration: 1.480 seconds
+Text: It helps set policy for staff.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:28:09.760
+End: 00:28:14.080
+Duration: 4.320 seconds
+Text: It also helps set expectations for what we want from development in the community and then
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:28:14.080
+End: 00:28:18.480
+Duration: 4.400 seconds
+Text: what we expect for developers as they assemble properties to do development.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:28:18.480
+End: 00:28:28.600
+Duration: 10.120 seconds
+Text: So again, the downtown east and west master plan watershed study was completed in 2015
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:28:28.600
+End: 00:28:33.680
+Duration: 5.080 seconds
+Text: and identified 16 major CIP projects to reduce flooding in downtown.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:28:33.680
+End: 00:28:38.000
+Duration: 4.320 seconds
+Text: In 2017 with the adoption of the urban corridor district in the increase in building size
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:28:38.000
+End: 00:28:41.520
+Duration: 3.520 seconds
+Text: and lock coverage, a review of the area was initiated.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:28:41.520
+End: 00:28:46.920
+Duration: 5.400 seconds
+Text: The study looked at three scenarios, existing conditions of the watershed, redevelopment
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:28:46.920
+End: 00:28:54.160
+Duration: 7.240 seconds
+Text: out of the watershed and then redevelopment in the watershed with the CIPs completed.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:28:54.160
+End: 00:29:01.960
+Duration: 7.800 seconds
+Text: And again for your information, this area in the black hatch is in the Uber corridor.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:29:01.960
+End: 00:29:04.840
+Duration: 2.880 seconds
+Text: So it's a hundred, it's allowed for a hundred percent coverage.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:29:04.840
+End: 00:29:11.320
+Duration: 6.480 seconds
+Text: So think along North Manhattan with the M1 and M2 apartments and how they've developed
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:29:11.320
+End: 00:29:14.800
+Duration: 3.480 seconds
+Text: and then this area can develop to that type of density.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:29:14.800
+End: 00:29:22.560
+Duration: 7.760 seconds
+Text: The blue area is the traditional M4O or downtown district where you can build up to 85% impervious
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:29:22.560
+End: 00:29:25.920
+Duration: 3.360 seconds
+Text: coverage and that's this blue area here.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:29:25.920
+End: 00:29:30.760
+Duration: 4.840 seconds
+Text: Both of these areas then were put into that 2017 study to look at.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:29:30.760
+End: 00:29:35.880
+Duration: 5.120 seconds
+Text: As time goes on and we develop out and we get to this density, if we get to this density,
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:29:35.880
+End: 00:29:37.360
+Duration: 1.480 seconds
+Text: what will that do downstream?
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:29:37.360
+End: 00:29:43.160
+Duration: 5.800 seconds
+Text: So third and quarny, fourth and blue mont all the way down to 11 worth and fourth street
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:29:43.160
+End: 00:29:44.760
+Duration: 1.600 seconds
+Text: down in those areas.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:29:44.760
+End: 00:29:46.760
+Duration: 2.000 seconds
+Text: So that's what that 2017 study was looking at.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:29:46.760
+End: 00:29:48.680
+Duration: 1.920 seconds
+Text: It was a follow up.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:29:48.680
+End: 00:29:52.080
+Duration: 3.400 seconds
+Text: Again drainage areas, so this is the downtown east and west drainage areas.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:29:52.080
+End: 00:29:57.080
+Duration: 5.000 seconds
+Text: As you can see, a ton of sub drainage areas, we talk about it, it's two drainage areas.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:29:57.080
+End: 00:30:01.360
+Duration: 4.280 seconds
+Text: There's actually multiple drainage areas, a lot of sub drainage areas.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:30:01.360
+End: 00:30:07.520
+Duration: 6.160 seconds
+Text: This here is where the east and west downtown watershed come together and along that line
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:30:07.520
+End: 00:30:11.200
+Duration: 3.680 seconds
+Text: of course is where you have watershed jump, which is the problem we have at 14th and
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:30:11.280
+End: 00:30:18.640
+Duration: 7.360 seconds
+Text: Anderson, where it overflows that watershed and runs into the east watershed.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:30:18.640
+End: 00:30:23.680
+Duration: 5.040 seconds
+Text: So in that study we look at these specific points and we applied that criteria build out
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:30:23.680
+End: 00:30:29.680
+Duration: 6.000 seconds
+Text: and then what would that do to these areas specifically as time goes on and we develop.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:30:29.680
+End: 00:30:34.880
+Duration: 5.200 seconds
+Text: As you, I got a better table but as you can see from some of these points we looked at
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:30:34.880
+End: 00:30:38.600
+Duration: 3.720 seconds
+Text: 4th and blue mont specifically and then down in 3rd street.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:30:38.600
+End: 00:30:40.600
+Duration: 2.000 seconds
+Text: With full development, full build out.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:30:40.640
+End: 00:30:45.400
+Duration: 4.760 seconds
+Text: We only add about an inch to inch and a quarter of water surface elevation.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:30:45.400
+End: 00:30:48.000
+Duration: 2.600 seconds
+Text: It tells us that this watershed is very mature.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:30:48.000
+End: 00:30:49.480
+Duration: 1.480 seconds
+Text: It's been built out already.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:30:49.480
+End: 00:30:53.360
+Duration: 3.880 seconds
+Text: There's not a lot of impervious areas left.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:30:53.360
+End: 00:30:58.600
+Duration: 5.240 seconds
+Text: But if you look at the CIPs when those CIPs are completed, you see two, two and a half,
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:30:58.600
+End: 00:31:01.640
+Duration: 3.040 seconds
+Text: two and three quarters foot drops in that water surface elevation.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:31:01.640
+End: 00:31:05.560
+Duration: 3.920 seconds
+Text: So that told us really what we need to do in this watershed is not detain.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:31:05.560
+End: 00:31:07.480
+Duration: 1.920 seconds
+Text: We can't over detain in this watershed.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:31:07.480
+End: 00:31:10.120
+Duration: 2.640 seconds
+Text: It's too flat and there's not enough available areas.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:31:10.120
+End: 00:31:13.840
+Duration: 3.720 seconds
+Text: We need to build those CIPs to get the water out of the watershed quicker.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:31:13.840
+End: 00:31:22.320
+Duration: 8.480 seconds
+Text: So again, these are those points shown in the map and you can see the rise in the fall depending
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:31:22.320
+End: 00:31:23.600
+Duration: 1.280 seconds
+Text: on which column you're in.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:31:23.600
+End: 00:31:27.840
+Duration: 4.240 seconds
+Text: So we'll just take a fourth and blue mont for example.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:31:27.840
+End: 00:31:32.800
+Duration: 4.960 seconds
+Text: If we build out in that watershed complete with no detention, we only raise water surface
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:31:32.800
+End: 00:31:33.800
+Duration: 1.000 seconds
+Text: elevation 0.04 feet.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:31:33.800
+End: 00:31:38.040
+Duration: 4.240 seconds
+Text: So that's a half inch, 0.04 feet half inch.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:31:38.040
+End: 00:31:43.640
+Duration: 5.600 seconds
+Text: If we build those CIPs out, we lower water surface elevation 1.63 feet.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:31:43.640
+End: 00:31:49.080
+Duration: 5.440 seconds
+Text: So again, those CIP projects really lower those water surface elevations in those 150
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:31:49.080
+End: 00:31:50.480
+Duration: 1.400 seconds
+Text: year events.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:31:50.480
+End: 00:31:51.720
+Duration: 1.240 seconds
+Text: And that's where we need to aim for.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:31:51.720
+End: 00:31:57.240
+Duration: 5.520 seconds
+Text: That's what we need to strive to is to generate the funding in order to build those CIPs
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:31:57.240
+End: 00:31:58.240
+Duration: 1.000 seconds
+Text: out.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:31:58.240
+End: 00:31:59.800
+Duration: 1.560 seconds
+Text: And that's what this fee and Lou does.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:31:59.800
+End: 00:32:04.600
+Duration: 4.800 seconds
+Text: Instead of asking a developer to detain whatever minimal amount of runoff that they're
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:32:04.600
+End: 00:32:08.000
+Duration: 3.400 seconds
+Text: sending away, we take those dollars and we go build these CIPs.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:32:08.760
+End: 00:32:16.040
+Duration: 7.280 seconds
+Text: So we use those dollars as the best value to go finish the CIP projects.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:32:16.040
+End: 00:32:18.400
+Duration: 2.360 seconds
+Text: So again, here's the downtown watershed.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:32:18.400
+End: 00:32:21.000
+Duration: 2.600 seconds
+Text: We've completed item number two.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:32:21.000
+End: 00:32:23.800
+Duration: 2.800 seconds
+Text: This is one of the betterments for the levy.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:32:23.800
+End: 00:32:28.320
+Duration: 4.520 seconds
+Text: Item number three is under design and it will bid as soon as the levy project is done.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:32:28.320
+End: 00:32:33.880
+Duration: 5.560 seconds
+Text: And then we're really focusing on four and we're focusing on five, which is where those
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:32:33.880
+End: 00:32:38.480
+Duration: 4.600 seconds
+Text: major complaints are and those deep waters are when it does flood.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:32:38.480
+End: 00:32:43.600
+Duration: 5.120 seconds
+Text: Obviously eight and nine go all the way up to campus Creek and address those overflows
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:32:43.600
+End: 00:32:46.120
+Duration: 2.520 seconds
+Text: up there.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:32:46.120
+End: 00:32:50.880
+Duration: 4.760 seconds
+Text: Again the fee and Lou policy detention is currently detention is required to account
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:32:50.880
+End: 00:32:54.560
+Duration: 3.680 seconds
+Text: for any additional stormwater on a lot.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:32:54.560
+End: 00:32:55.960
+Duration: 1.400 seconds
+Text: Existing flooding areas aren't addressed.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:32:55.960
+End: 00:32:58.280
+Duration: 2.320 seconds
+Text: I can't make somebody over detain.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:32:58.280
+End: 00:33:02.960
+Duration: 4.680 seconds
+Text: I can't make somebody go and reduce the water coming off of their lot from what they
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:33:02.960
+End: 00:33:04.440
+Duration: 1.480 seconds
+Text: have today.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:33:04.440
+End: 00:33:07.240
+Duration: 2.800 seconds
+Text: That's not in our policy.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:33:07.240
+End: 00:33:11.280
+Duration: 4.040 seconds
+Text: Downtown watershed is fully mature and over detaining is difficult and expensive.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:33:11.280
+End: 00:33:13.080
+Duration: 1.800 seconds
+Text: Again, you're in really flat areas.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:33:13.080
+End: 00:33:15.360
+Duration: 2.280 seconds
+Text: There's not a lot of public space there.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:33:15.360
+End: 00:33:20.440
+Duration: 5.080 seconds
+Text: If we call about a month ago, we did an over detention partnership with K State.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:33:20.440
+End: 00:33:25.120
+Duration: 4.680 seconds
+Text: That was a great example of how you can over detain because you're outside of the watershed.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:33:25.120
+End: 00:33:30.080
+Duration: 4.960 seconds
+Text: You have vertical drop through the watershed and you can detain in areas that make the
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:33:30.080
+End: 00:33:32.120
+Duration: 2.040 seconds
+Text: most bank for the buck.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:33:32.120
+End: 00:33:35.120
+Duration: 3.000 seconds
+Text: That upper third.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:33:35.120
+End: 00:33:38.000
+Duration: 2.880 seconds
+Text: Watershed is extremely flat, which also limits detaining.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:33:38.000
+End: 00:33:42.680
+Duration: 4.680 seconds
+Text: It's hard to detain water when you don't have vertical depth, when you don't have vertical
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:33:42.680
+End: 00:33:44.800
+Duration: 2.120 seconds
+Text: elevation.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:33:44.800
+End: 00:33:50.280
+Duration: 5.480 seconds
+Text: Per this policy, the approval shall be by the Public Works Department.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:33:50.280
+End: 00:33:55.120
+Duration: 4.840 seconds
+Text: After we review the impacts to the watershed, both locally and globally, again, Public Works
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:33:55.120
+End: 00:34:00.720
+Duration: 5.600 seconds
+Text: staff will make that decision whether this makes a difference in the watershed or not.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:34:00.720
+End: 00:34:05.520
+Duration: 4.800 seconds
+Text: We may still be detaining water in certain locations based on if there's a flooding issue
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:34:05.520
+End: 00:34:07.240
+Duration: 1.720 seconds
+Text: in that location.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:34:07.240
+End: 00:34:10.320
+Duration: 3.080 seconds
+Text: This would be for all of those other locations.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:34:10.320
+End: 00:34:13.440
+Duration: 3.120 seconds
+Text: Again, the developer can still choose to detain if they so choose.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:34:13.440
+End: 00:34:16.560
+Duration: 3.120 seconds
+Text: If that's what they want to do, if they want to detain on their own lot, that's certainly
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:34:16.560
+End: 00:34:19.600
+Duration: 3.040 seconds
+Text: what they can do instead of paying into the fee.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:34:19.600
+End: 00:34:22.000
+Duration: 2.400 seconds
+Text: That would be up to their decision.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:34:22.000
+End: 00:34:27.560
+Duration: 5.560 seconds
+Text: All funds shall be stored in the storm water fund for the future CIPs.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:34:27.560
+End: 00:34:31.440
+Duration: 3.880 seconds
+Text: These dollars, just like the leviesur charge that we're doing, those dollars are peeled
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:34:31.440
+End: 00:34:35.360
+Duration: 3.920 seconds
+Text: off of that storm water fund and they're put into a separate account.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:34:35.360
+End: 00:34:39.200
+Duration: 3.840 seconds
+Text: Those funds couldn't be used for anything else besides those projects identified in the
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:34:39.200
+End: 00:34:42.440
+Duration: 3.240 seconds
+Text: downtown east and west watershed study.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:34:42.440
+End: 00:34:46.440
+Duration: 4.000 seconds
+Text: That's in the ordinance.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:34:46.440
+End: 00:34:51.520
+Duration: 5.080 seconds
+Text: That would sort of be above and beyond the normally scheduled bond payment.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:34:51.520
+End: 00:34:53.760
+Duration: 2.240 seconds
+Text: We're not going to use that to make the bond payment.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:34:53.760
+End: 00:34:57.120
+Duration: 3.360 seconds
+Text: It'll be sort of additional principle probably.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:34:57.120
+End: 00:34:58.320
+Duration: 1.200 seconds
+Text: You could use it to buy down.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:34:58.320
+End: 00:35:01.600
+Duration: 3.280 seconds
+Text: You could use it to pay interest on that debt.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:35:01.600
+End: 00:35:05.160
+Duration: 3.560 seconds
+Text: We didn't go that far, but you could certainly use it as a cash down payment.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:35:05.160
+End: 00:35:07.400
+Duration: 2.240 seconds
+Text: There's no doubt about that.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:35:07.400
+End: 00:35:10.440
+Duration: 3.040 seconds
+Text: Especially with interest rates where they're setting today.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:35:10.440
+End: 00:35:13.480
+Duration: 3.040 seconds
+Text: Those buy downs are going to be important.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:35:13.480
+End: 00:35:17.100
+Duration: 3.620 seconds
+Text: In the future, we've had some questions about other watersheds and whether they'd be
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:35:17.100
+End: 00:35:18.100
+Duration: 1.000 seconds
+Text: candid.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:35:18.660
+End: 00:35:23.300
+Duration: 4.640 seconds
+Text: Right now, we don't have enough data on the other watersheds to say whether or not this
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:35:23.300
+End: 00:35:25.980
+Duration: 2.680 seconds
+Text: would be a good policy in those watersheds.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:35:25.980
+End: 00:35:30.180
+Duration: 4.200 seconds
+Text: We can, as we go forward, we can look at those other watersheds and see if there's certain
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:35:30.180
+End: 00:35:35.660
+Duration: 5.480 seconds
+Text: specific locations close enough to the stream or to the outfall where this may be beneficial
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:35:35.660
+End: 00:35:37.140
+Duration: 1.480 seconds
+Text: to both parties.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:35:37.140
+End: 00:35:38.660
+Duration: 1.520 seconds
+Text: But we can't say that for certain now.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:35:38.660
+End: 00:35:44.780
+Duration: 6.120 seconds
+Text: That's something in a future CIP, a future study that we'd have to review.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:35:44.780
+End: 00:35:47.380
+Duration: 2.600 seconds
+Text: So with that, I'll stand for questions.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:47.540
+End: 00:35:55.140
+Duration: 7.600 seconds
+Text: So the magic number is $2.80 or something.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:55.140
+End: 00:35:56.140
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:35:56.140
+End: 00:36:02.740
+Duration: 6.600 seconds
+Text: And that is $2.80 per additional square foot of an impovervious area.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:02.740
+End: 00:36:08.340
+Duration: 5.600 seconds
+Text: So we don't try to take the amount of water divided by whole feed added by.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:08.340
+End: 00:36:10.420
+Duration: 2.080 seconds
+Text: We're not doing differential operations.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:10.420
+End: 00:36:14.060
+Duration: 3.640 seconds
+Text: It's strictly however much new impovervious square feet compared to what we're there
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:36:14.060
+End: 00:36:15.060
+Duration: 1.000 seconds
+Text: when you.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:36:15.060
+End: 00:36:19.460
+Duration: 4.400 seconds
+Text: We have a 50,000 square foot lot and I have 10,000 square feet of driveway in house today
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:36:19.460
+End: 00:36:21.860
+Duration: 2.400 seconds
+Text: and I want to go to 50,000 tomorrow.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:36:21.860
+End: 00:36:25.060
+Duration: 3.200 seconds
+Text: I take 40,000 times 2.80 and that's my number.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:25.060
+End: 00:36:26.060
+Duration: 1.000 seconds
+Text: $100,000.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:26.060
+End: 00:36:27.060
+Duration: 1.000 seconds
+Text: $100,000.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:36:27.060
+End: 00:36:28.060
+Duration: 1.000 seconds
+Text: $100,000.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:28.060
+End: 00:36:29.060
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:29.060
+End: 00:36:34.060
+Duration: 5.000 seconds
+Text: But for the most, yeah, there's not going to end is that and if the lot is for some reason
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:34.060
+End: 00:36:41.860
+Duration: 7.800 seconds
+Text: like a house that was torn down and is now a green grass lot when they start over with
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:41.860
+End: 00:36:46.180
+Duration: 4.320 seconds
+Text: something, do they start with zero?
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:36:46.180
+End: 00:36:49.620
+Duration: 3.440 seconds
+Text: So we would base that on when the ordinance was passed what was there.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:36:49.620
+End: 00:36:55.140
+Duration: 5.520 seconds
+Text: We wouldn't base that on if I tear down my house for six months and a day then I'm outside
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:36:55.140
+End: 00:36:56.620
+Duration: 1.480 seconds
+Text: of this policy.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:36:56.620
+End: 00:36:59.060
+Duration: 2.440 seconds
+Text: That's not how this policy is intended to be done.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:59.060
+End: 00:37:00.820
+Duration: 1.760 seconds
+Text: Sort of like well.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:37:00.820
+End: 00:37:02.300
+Duration: 1.480 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:37:02.300
+End: 00:37:04.300
+Duration: 2.000 seconds
+Text: I know where you're talking about.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:04.300
+End: 00:37:05.300
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:05.300
+End: 00:37:06.300
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:07.300
+End: 00:37:15.140
+Duration: 7.840 seconds
+Text: As you can see, this is probably better for the developer and probably for the downtown
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:15.140
+End: 00:37:16.140
+Duration: 1.000 seconds
+Text: area as well.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:16.140
+End: 00:37:17.340
+Duration: 1.200 seconds
+Text: I would assume.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:37:17.340
+End: 00:37:22.500
+Duration: 5.160 seconds
+Text: I don't know if it's better for the developer because I don't know what the cost per cubic
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:37:22.500
+End: 00:37:25.140
+Duration: 2.640 seconds
+Text: foot is of underground detention right now.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:37:25.140
+End: 00:37:28.780
+Duration: 3.640 seconds
+Text: We don't do a lot of underground detention because it's unbelievably expensive.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:37:28.780
+End: 00:37:32.060
+Duration: 3.280 seconds
+Text: We try to pick areas where we get better bang for our buck.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:37:32.060
+End: 00:37:36.100
+Duration: 4.040 seconds
+Text: I would say that we're probably slightly under market value but we're pretty darn close.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:37:36.260
+End: 00:37:42.140
+Duration: 5.880 seconds
+Text: And as time goes on, we are going to adjust that just like we adjust our stormwater fees
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:37:42.140
+End: 00:37:43.140
+Duration: 1.000 seconds
+Text: every year.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:37:43.140
+End: 00:37:47.740
+Duration: 4.600 seconds
+Text: So underground detention, that inflation is 7% this year.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:37:47.740
+End: 00:37:52.020
+Duration: 4.280 seconds
+Text: We're going to come back next year and say this fee should go up by 7%.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:37:52.020
+End: 00:37:55.940
+Duration: 3.920 seconds
+Text: So that will fluctuate also with our stormwater fee.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:55.940
+End: 00:38:03.580
+Duration: 7.640 seconds
+Text: Do we ever say, do you ever consider maybe some development should probably not happen
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:03.580
+End: 00:38:12.860
+Duration: 9.280 seconds
+Text: in some areas because it does make much more harder on the stormwater systems and floods?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:12.860
+End: 00:38:14.740
+Duration: 1.880 seconds
+Text: It just seems like everything is so compact.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:14.740
+End: 00:38:15.740
+Duration: 1.000 seconds
+Text: Yeah, it is.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:15.740
+End: 00:38:19.580
+Duration: 3.840 seconds
+Text: And it's hard to build that infrastructure because it's going to go water is going to go
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:19.580
+End: 00:38:20.580
+Duration: 1.000 seconds
+Text: somewhere.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:38:20.580
+End: 00:38:21.580
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:38:21.580
+End: 00:38:26.340
+Duration: 4.760 seconds
+Text: If it's zoned for what it's, you know, want to be, I don't know that we could tell them
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:38:26.340
+End: 00:38:27.340
+Duration: 1.000 seconds
+Text: now.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:38:27.340
+End: 00:38:32.820
+Duration: 5.480 seconds
+Text: I mean, they have a zoning district and a right to increase or put improvements on their
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:38:32.820
+End: 00:38:33.820
+Duration: 1.000 seconds
+Text: property.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:38:33.820
+End: 00:38:37.060
+Duration: 3.240 seconds
+Text: So I don't know that I could tell them, though, by a stormwater.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:38:37.060
+End: 00:38:42.160
+Duration: 5.100 seconds
+Text: What I could do is maybe encourage them to do some more detention on site or some green
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:38:42.160
+End: 00:38:45.540
+Duration: 3.380 seconds
+Text: fields or maybe shed water to a different place.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:38:45.540
+End: 00:38:50.340
+Duration: 4.800 seconds
+Text: We've done that before where we've encouraged developers to shed water to a different watershed
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:38:50.340
+End: 00:38:54.980
+Duration: 4.640 seconds
+Text: or to a different location because I have an inlet over here that's maybe big enough to
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:38:54.980
+End: 00:38:57.380
+Duration: 2.400 seconds
+Text: handle your overflow but not over there.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:38:57.380
+End: 00:39:01.260
+Duration: 3.880 seconds
+Text: So we have had those conversations and developers have been very good about listening to our
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:39:01.260
+End: 00:39:03.500
+Duration: 2.240 seconds
+Text: input and helping us get there.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:03.500
+End: 00:39:04.500
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:04.500
+End: 00:39:06.220
+Duration: 1.720 seconds
+Text: I think that's what I'm looking for is that communication.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:06.220
+End: 00:39:11.220
+Duration: 5.000 seconds
+Text: So developers know what they're going into and other alternatives for them and also, of
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:11.220
+End: 00:39:13.700
+Duration: 2.480 seconds
+Text: course, the fee should not be a surprise.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:39:13.700
+End: 00:39:14.700
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:14.700
+End: 00:39:16.700
+Duration: 2.000 seconds
+Text: If anyone comes there, they should know what that is.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:16.700
+End: 00:39:17.700
+Duration: 1.000 seconds
+Text: Absolutely.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:17.700
+End: 00:39:19.700
+Duration: 2.000 seconds
+Text: Towards because it's different than other areas in the community.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:39:19.700
+End: 00:39:20.700
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:39:20.700
+End: 00:39:22.220
+Duration: 1.520 seconds
+Text: And this is just another tool in the toolbox.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:39:22.220
+End: 00:39:24.780
+Duration: 2.560 seconds
+Text: I mean, detention is still possible.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:39:24.780
+End: 00:39:27.220
+Duration: 2.440 seconds
+Text: Shading water to a different watershed is still possible.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:39:27.220
+End: 00:39:31.620
+Duration: 4.400 seconds
+Text: This is just one more tool that, you know, at the end of the day, if it benefits us to
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:39:31.620
+End: 00:39:37.660
+Duration: 6.040 seconds
+Text: take the dollars and go build something instead of trying to detain in this little pocket,
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:39:37.660
+End: 00:39:40.020
+Duration: 2.360 seconds
+Text: we'd be better off going and taking those dollars.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:40.020
+End: 00:39:41.020
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:41.020
+End: 00:39:42.020
+Duration: 1.000 seconds
+Text: Sounds good.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:39:42.020
+End: 00:39:43.020
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:39:43.020
+End: 00:39:48.140
+Duration: 5.120 seconds
+Text: I think we know that this community will continue to develop and the impervious surface
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:39:48.140
+End: 00:39:51.180
+Duration: 3.040 seconds
+Text: will increase in these two watersheds.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:39:51.180
+End: 00:39:52.180
+Duration: 1.000 seconds
+Text: It's not going down.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:39:52.180
+End: 00:39:53.180
+Duration: 1.000 seconds
+Text: No.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:39:53.180
+End: 00:39:54.700
+Duration: 1.520 seconds
+Text: And their case state hasn't built out.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:39:54.700
+End: 00:39:55.700
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:39:55.700
+End: 00:40:04.700
+Duration: 9.000 seconds
+Text: I mean, we even have infill in the city where we can expect more because we're growing.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:40:04.700
+End: 00:40:06.020
+Duration: 1.320 seconds
+Text: We're growing and that's a good thing.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:40:06.020
+End: 00:40:07.020
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:40:07.020
+End: 00:40:08.020
+Duration: 1.000 seconds
+Text: We're growing.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:40:08.020
+End: 00:40:12.300
+Duration: 4.280 seconds
+Text: We're adding runoff all the time.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:40:12.300
+End: 00:40:17.420
+Duration: 5.120 seconds
+Text: And we purposely zone this to a higher district because we want more people living here.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:40:17.420
+End: 00:40:21.300
+Duration: 3.880 seconds
+Text: We want people living here that aren't driving to campus, aren't driving to Aggieville,
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:40:21.300
+End: 00:40:23.580
+Duration: 2.280 seconds
+Text: aren't driving to downtown.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:40:23.580
+End: 00:40:27.540
+Duration: 3.960 seconds
+Text: We want less people on the road so that I don't have to expand the Anderson Avenue and I
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:40:27.540
+End: 00:40:29.100
+Duration: 1.560 seconds
+Text: don't have to expand Clawflin.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:40:29.100
+End: 00:40:31.540
+Duration: 2.440 seconds
+Text: So there is a benefit to having more people here.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:40:31.540
+End: 00:40:40.940
+Duration: 9.400 seconds
+Text: I think it would be important for us to know what the projected income, and that's what
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:40:40.940
+End: 00:40:47.100
+Duration: 6.160 seconds
+Text: you gave us is this $27 million over a period of time.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:40:47.100
+End: 00:40:49.100
+Duration: 2.000 seconds
+Text: If it fully builds out, that's correct.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:40:49.100
+End: 00:40:50.100
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:40:50.100
+End: 00:40:51.100
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:40:51.100
+End: 00:40:52.100
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:40:52.100
+End: 00:40:56.500
+Duration: 4.400 seconds
+Text: And that takes, you know, everybody's got a crystal ball on development.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:40:56.500
+End: 00:40:59.300
+Duration: 2.800 seconds
+Text: In theory, yeah, that's the number that you could reach.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:40:59.300
+End: 00:41:01.540
+Duration: 2.240 seconds
+Text: I don't know what page.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:41:01.540
+End: 00:41:12.140
+Duration: 10.600 seconds
+Text: The resolution, very last, real sentence says, a listing of projects approved for fee in
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:41:12.140
+End: 00:41:13.700
+Duration: 1.560 seconds
+Text: lieu of detention.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:41:13.700
+End: 00:41:19.020
+Duration: 5.320 seconds
+Text: The fees received and expenditures made and expenditures made shall be provided to the
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:41:19.020
+End: 00:41:22.940
+Duration: 3.920 seconds
+Text: governing body periodically and upon the governing body request.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:41:22.940
+End: 00:41:26.420
+Duration: 3.480 seconds
+Text: I'd like to make that an annual report.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:41:26.420
+End: 00:41:28.340
+Duration: 1.920 seconds
+Text: That's what we bring forth for you.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:41:28.340
+End: 00:41:34.740
+Duration: 6.400 seconds
+Text: This is so much money that it, and it's outside our purview.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:41:34.740
+End: 00:41:40.340
+Duration: 5.600 seconds
+Text: So I think it would be important to have some kind of a report that we're able to just,
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:41:40.340
+End: 00:41:45.620
+Duration: 5.280 seconds
+Text: I don't expect this to have a lot of input, but from year to year to year, I do think it
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:41:45.620
+End: 00:41:52.460
+Duration: 6.840 seconds
+Text: would be instructive for us to see how this in lieu of system is performing.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:41:52.460
+End: 00:41:56.100
+Duration: 3.640 seconds
+Text: And if it's accomplishing what is intended.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:41:56.100
+End: 00:41:58.300
+Duration: 2.200 seconds
+Text: Well, we're not going to get rich on this deal.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:41:58.300
+End: 00:41:59.300
+Duration: 1.000 seconds
+Text: No.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:41:59.300
+End: 00:42:00.300
+Duration: 1.000 seconds
+Text: No.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:00.300
+End: 00:42:02.340
+Duration: 2.040 seconds
+Text: But it's not like it's going to generate a million dollars a year.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:02.340
+End: 00:42:06.500
+Duration: 4.160 seconds
+Text: It's going to generate a couple hundred thousand maybe on a good year.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:06.500
+End: 00:42:10.140
+Duration: 3.640 seconds
+Text: So it's, yeah, it's, it'll be, it'll help.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:10.140
+End: 00:42:11.140
+Duration: 1.000 seconds
+Text: Everything helps.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:11.140
+End: 00:42:16.420
+Duration: 5.280 seconds
+Text: I was thinking part of the, wasn't one of the 12 B or one of those apartment buildings
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:16.420
+End: 00:42:22.340
+Duration: 5.920 seconds
+Text: on the north side of Blumont, flooding in their lower level because the underground detention
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:22.340
+End: 00:42:24.740
+Duration: 2.400 seconds
+Text: flooded part of it.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:24.740
+End: 00:42:30.200
+Duration: 5.460 seconds
+Text: Is that something that just out of curiosity, I'm sure you heard about that from some of
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:30.200
+End: 00:42:31.200
+Duration: 1.000 seconds
+Text: the many times.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:31.200
+End: 00:42:38.060
+Duration: 6.860 seconds
+Text: Yeah, did, is that something that that that re recurrence of, of flooding of the building?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:38.060
+End: 00:42:43.300
+Duration: 5.240 seconds
+Text: Was that a, was that a solvable problem to where there was, there's something go wrong
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:43.300
+End: 00:42:47.500
+Duration: 4.200 seconds
+Text: that that happened or did the thing not func like it's supposed to was it undersized?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:47.500
+End: 00:42:49.620
+Duration: 2.120 seconds
+Text: Was it just an act of God?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:49.620
+End: 00:42:53.460
+Duration: 3.840 seconds
+Text: Was, if something could be done so that that wouldn't happen again for that because of
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:53.460
+End: 00:42:56.020
+Duration: 2.560 seconds
+Text: that underground detention we ask them to do.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:42:56.020
+End: 00:43:00.620
+Duration: 4.600 seconds
+Text: Well, again, this, this is part of the problem with underground detention is typically it's
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:43:00.620
+End: 00:43:05.380
+Duration: 4.760 seconds
+Text: so shallow that if you have any overflow, you're on the first floor because it's not very
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:43:05.380
+End: 00:43:10.340
+Duration: 4.960 seconds
+Text: deep, it's right at the bottom of the pavement section or right below the parking lot.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:43:10.340
+End: 00:43:13.740
+Duration: 3.400 seconds
+Text: So that's part of the problem with, with underground detention.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:43:13.740
+End: 00:43:17.740
+Duration: 4.000 seconds
+Text: The other problem from a staff perspective is how do I know it's working?
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:43:17.740
+End: 00:43:21.500
+Duration: 3.760 seconds
+Text: I mean, I can't go out there and cut a hole in the parking lot and look down and make sure
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:43:21.500
+End: 00:43:22.740
+Duration: 1.240 seconds
+Text: it's working okay.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:43:22.740
+End: 00:43:26.060
+Duration: 3.320 seconds
+Text: So there's issues with performance too over time.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:43:26.060
+End: 00:43:28.900
+Duration: 2.840 seconds
+Text: You know, a typical detention pond, you can go out there on a rain storm and see if it's
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:43:28.900
+End: 00:43:29.900
+Duration: 1.000 seconds
+Text: working.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:43:29.900
+End: 00:43:30.900
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:43:30.900
+End: 00:43:33.660
+Duration: 2.760 seconds
+Text: The underground is a little bit different, it's a little bit different animal and again,
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:43:33.660
+End: 00:43:37.420
+Duration: 3.760 seconds
+Text: that's why underground is not what everybody wants to do.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:43:37.420
+End: 00:43:40.860
+Duration: 3.440 seconds
+Text: It's really a last resort.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:43:40.860
+End: 00:43:46.280
+Duration: 5.420 seconds
+Text: And as far as the coming back before you, that's what we do in June and then when we set
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:43:46.280
+End: 00:43:50.760
+Duration: 4.480 seconds
+Text: rates in December, we bring back all of those financials you see them, you see the project
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:43:50.760
+End: 00:43:56.060
+Duration: 5.300 seconds
+Text: list out to 2030 and we'll add a line item for fee and lieu also.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:43:56.060
+End: 00:43:57.060
+Duration: 1.000 seconds
+Text: You will have.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:43:57.060
+End: 00:43:58.940
+Duration: 1.880 seconds
+Text: Yeah, there'll be a separate line item, correct.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:43:58.940
+End: 00:44:00.260
+Duration: 1.320 seconds
+Text: It has to go into its own account.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:44:00.260
+End: 00:44:02.020
+Duration: 1.760 seconds
+Text: So we'll generate a line item.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:44:02.020
+End: 00:44:05.820
+Duration: 3.800 seconds
+Text: So this, everything about this is totally under the Director of Public Works.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:44:05.820
+End: 00:44:12.380
+Duration: 6.560 seconds
+Text: The City Administration doesn't, isn't overseeing it like the Director of Public Works makes
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:44:12.380
+End: 00:44:14.700
+Duration: 2.320 seconds
+Text: all the decisions according to this.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:44:14.700
+End: 00:44:22.260
+Duration: 7.560 seconds
+Text: So I'm asking how it will disappear from our purview and I want to be sure that we have
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:44:22.260
+End: 00:44:27.140
+Duration: 4.880 seconds
+Text: some oversight, some knowledge about how it's working.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:44:27.140
+End: 00:44:28.140
+Duration: 1.000 seconds
+Text: Sure.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:44:28.380
+End: 00:44:32.300
+Duration: 3.920 seconds
+Text: We'll add that to our June and October presentations.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:44:32.300
+End: 00:44:36.700
+Duration: 4.400 seconds
+Text: I just think an annual report with would be beneficial.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:44:36.700
+End: 00:44:39.460
+Duration: 2.760 seconds
+Text: And so in year two, we can compare it to year one.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:44:39.460
+End: 00:44:47.100
+Duration: 7.640 seconds
+Text: I think that's the minimum we could ask for is an accountability about the dollars.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:44:47.100
+End: 00:44:50.980
+Duration: 3.880 seconds
+Text: And then at those meetings too, we'll talk about what percentage increase we think that
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:44:50.980
+End: 00:44:52.220
+Duration: 1.240 seconds
+Text: the construction market is.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:44:52.220
+End: 00:44:54.460
+Duration: 2.240 seconds
+Text: It'll get lost in the whole of the June.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:44:54.460
+End: 00:44:55.460
+Duration: 1.000 seconds
+Text: Shuffle, yeah.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:44:55.460
+End: 00:44:57.100
+Duration: 1.640 seconds
+Text: Unless there's something specific.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:44:57.100
+End: 00:44:58.100
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:44:58.100
+End: 00:44:59.100
+Duration: 1.000 seconds
+Text: There's a lot of information.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:44:59.100
+End: 00:45:00.100
+Duration: 1.000 seconds
+Text: Don't disagree.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:45:00.100
+End: 00:45:04.140
+Duration: 4.040 seconds
+Text: Commissioners, you have further questions?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:45:04.140
+End: 00:45:07.260
+Duration: 3.120 seconds
+Text: No, I think it's a good plan.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:45:07.260
+End: 00:45:13.420
+Duration: 6.160 seconds
+Text: In my mind, like you already said, those underground attention ponds don't work as intended.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:45:13.420
+End: 00:45:17.780
+Duration: 4.360 seconds
+Text: The ones that we built that are, that you can go look at, those are just fine.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:45:17.780
+End: 00:45:24.620
+Duration: 6.840 seconds
+Text: And taking that money and investing it into the long list of CIP projects is going to provide
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:45:24.620
+End: 00:45:26.820
+Duration: 2.200 seconds
+Text: a better benefit for the City as well.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:45:26.820
+End: 00:45:28.020
+Duration: 1.200 seconds
+Text: Better paying to the government.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:45:28.020
+End: 00:45:29.460
+Duration: 1.440 seconds
+Text: So this is the right way to go.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:45:29.460
+End: 00:45:31.100
+Duration: 1.640 seconds
+Text: It's about value for those dollars.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:45:31.100
+End: 00:45:32.100
+Duration: 1.000 seconds
+Text: It definitely is.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:45:32.100
+End: 00:45:33.100
+Duration: 1.000 seconds
+Text: Absolutely.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:45:33.100
+End: 00:45:38.260
+Duration: 5.160 seconds
+Text: I don't think we've ever found a way to reduce the reliance on the CIP.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:45:38.260
+End: 00:45:40.500
+Duration: 2.240 seconds
+Text: So this will be, this is the first.
+--------------------------------------------------
+Commissioner Brian Johnson:
+Start: 00:45:40.500
+End: 00:45:41.500
+Duration: 1.000 seconds
+Text: One more funding.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:45:41.500
+End: 00:45:45.780
+Duration: 4.280 seconds
+Text: One way, this is the first try.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:45:45.780
+End: 00:45:47.500
+Duration: 1.720 seconds
+Text: Other commissioner questions.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:45:47.500
+End: 00:45:48.500
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:45:48.500
+End: 00:45:49.500
+Duration: 1.000 seconds
+Text: Thank you, Brian.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:45:49.500
+End: 00:45:50.500
+Duration: 1.000 seconds
+Text: We appreciate your presentation.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:45:50.500
+End: 00:45:51.500
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:45:51.500
+End: 00:45:59.420
+Duration: 7.920 seconds
+Text: And with that, I would open the public comment portion.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:45:59.420
+End: 00:46:04.300
+Duration: 4.880 seconds
+Text: And I don't know.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:46:04.300
+End: 00:46:07.540
+Duration: 3.240 seconds
+Text: He's with us.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:46:07.540
+End: 00:46:08.540
+Duration: 1.000 seconds
+Text: He's with us.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:46:08.540
+End: 00:46:09.540
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:46:09.540
+End: 00:46:14.540
+Duration: 5.000 seconds
+Text: Are there other, there, there's no member of the public here, but I will open the public
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:46:14.540
+End: 00:46:18.660
+Duration: 4.120 seconds
+Text: comment section as just to go through the formality.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:46:18.660
+End: 00:46:26.540
+Duration: 7.880 seconds
+Text: I will pause and close the public comment period.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:46:26.540
+End: 00:46:29.380
+Duration: 2.840 seconds
+Text: So Rob, did you have any question here?
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:46:29.380
+End: 00:46:30.500
+Duration: 1.120 seconds
+Text: You just showed up.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:46:30.500
+End: 00:46:31.500
+Duration: 1.000 seconds
+Text: We haven't seen you.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:46:31.500
+End: 00:46:34.060
+Duration: 2.560 seconds
+Text: So do you have any thoughts?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:46:34.060
+End: 00:46:36.780
+Duration: 2.720 seconds
+Text: No, it may or Rob, I'd like to talk about the work.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:46:36.780
+End: 00:46:40.460
+Duration: 3.680 seconds
+Text: Appreciate your comments about separating out the report.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:46:40.460
+End: 00:46:42.260
+Duration: 1.800 seconds
+Text: And that's certainly something we can do.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:46:42.260
+End: 00:46:45.460
+Duration: 3.200 seconds
+Text: So just listening in tonight, I'll just leave remote.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:46:45.460
+End: 00:46:46.460
+Duration: 1.000 seconds
+Text: So thank you.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:46:46.460
+End: 00:46:47.460
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:46:47.460
+End: 00:46:49.940
+Duration: 2.480 seconds
+Text: Thank you for joining us.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:46:49.940
+End: 00:46:50.940
+Duration: 1.000 seconds
+Text: And.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:46:50.940
+End: 00:46:51.940
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:46:51.940
+End: 00:46:57.660
+Duration: 5.720 seconds
+Text: I'll make the motion that we approve first reading of an ordinance to amend the code
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:46:57.660
+End: 00:47:03.420
+Duration: 5.760 seconds
+Text: of ordinances by establishing a process by which a development may pay a fee and lieu
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:47:03.420
+End: 00:47:08.740
+Duration: 5.320 seconds
+Text: of a requirement to provide a detention of stormwater runoff caused by the development.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:47:08.740
+End: 00:47:09.740
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:47:09.740
+End: 00:47:10.740
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:47:11.020
+End: 00:47:11.740
+Duration: 0.720 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:47:11.740
+End: 00:47:13.260
+Duration: 1.520 seconds
+Text: We have a motion and a second.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:47:13.260
+End: 00:47:15.220
+Duration: 1.960 seconds
+Text: Are there other comments?
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:47:15.220
+End: 00:47:16.220
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:47:16.220
+End: 00:47:19.340
+Duration: 3.120 seconds
+Text: City clerk Brenda Wolf, would you call the roll?
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:47:19.340
+End: 00:47:20.340
+Duration: 1.000 seconds
+Text: Mr. Mata?
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:47:20.340
+End: 00:47:21.340
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:47:21.340
+End: 00:47:22.340
+Duration: 1.000 seconds
+Text: Mayor Morse?
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:47:22.340
+End: 00:47:23.340
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:47:23.340
+End: 00:47:24.340
+Duration: 1.000 seconds
+Text: Mr. Hassel?
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:47:24.340
+End: 00:47:25.340
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:47:25.340
+End: 00:47:26.340
+Duration: 1.000 seconds
+Text: Mr. Reddy?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:47:26.340
+End: 00:47:27.340
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:47:27.340
+End: 00:47:28.340
+Duration: 1.000 seconds
+Text: Mr. Butler?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:47:28.340
+End: 00:47:29.340
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:47:29.340
+End: 00:47:30.340
+Duration: 1.000 seconds
+Text: Motion carries.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:47:30.340
+End: 00:47:31.340
+Duration: 1.000 seconds
+Text: Five to zero.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:47:31.340
+End: 00:47:34.740
+Duration: 3.400 seconds
+Text: Thank you for attending tonight.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:47:34.740
+End: 00:47:37.340
+Duration: 2.600 seconds
+Text: At this point, is there a motion to adjourn?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:47:37.340
+End: 00:47:42.340
+Duration: 5.000 seconds
+Text: We adjourned December 6, 2022 City Commission meeting.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:47:42.340
+End: 00:47:43.340
+Duration: 1.000 seconds
+Text: No second.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:47:43.340
+End: 00:47:46.540
+Duration: 3.200 seconds
+Text: We have a motion and a second to adjourn.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:47:46.540
+End: 00:47:48.140
+Duration: 1.600 seconds
+Text: Brenda Wolf, would you call the roll?
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:47:48.140
+End: 00:47:49.140
+Duration: 1.000 seconds
+Text: Mayor Morse?
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:47:49.140
+End: 00:47:50.140
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:47:50.140
+End: 00:47:51.140
+Duration: 1.000 seconds
+Text: Mr. Hassel?
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:47:51.140
+End: 00:47:52.140
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:47:52.140
+End: 00:47:53.140
+Duration: 1.000 seconds
+Text: Mr. Reddy?
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:47:53.140
+End: 00:47:54.140
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:47:54.140
+End: 00:47:55.140
+Duration: 1.000 seconds
+Text: Mr. Butler?
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:47:55.140
+End: 00:47:56.140
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Maudet:
+Start: 00:47:56.140
+End: 00:47:57.140
+Duration: 1.000 seconds
+Text: Mr. Mata?
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:47:57.140
+End: 00:47:58.140
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:47:58.140
+End: 00:47:59.140
+Duration: 1.000 seconds
+Text: Motion carries.
+--------------------------------------------------
+City Clerk Brenda Wolf:
+Start: 00:47:59.140
+End: 00:48:00.620
+Duration: 1.480 seconds
+Text: Five to zero.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:48:00.620
+End: 00:48:02.460
+Duration: 1.840 seconds
+Text: We are adjourned.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:48:02.460
+End: 00:48:03.460
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:48:03.460
+End: 00:48:04.460
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------

@@ -1,0 +1,191 @@
+{
+  "open_ended_analysis": {
+    "primary_themes": [
+      {
+        "theme": "Memorial Proclamation",
+        "description": "The meeting began with the council issuing proclamations regarding memorial events. The role of poppies in commemorating World War I and a tribute to a retiring official were highlighted.",
+        "notable_points": [
+          "The city proclaimed May 4, 2024 as Poppy day",
+          "Long-serving official, Ron, was honored"
+        ]
+      },
+      {
+        "theme": "Public Commentary",
+        "description": "The meeting allowed moments for public commentary about city matters. However, no comments were made in the meeting.",
+        "notable_points": [
+          "No citizen took up the opportunity to speak in the meeting"
+        ]
+      },
+      {
+        "theme": "Commissioner Comments",
+        "description": "The city commissioners took turns to offer comments about varied topics in the city ranging from anniversary acknowledgements, professional events to personal sentiments on changes in the administration.",
+        "notable_points": [
+          "A focus on expense reduction was proposed by a commissioner",
+          "A recognition of a professional's anniversary and express gratitude toward a retiring city official were notable remarks"
+        ]
+      },
+      {
+        "theme": "Consent Agenda and Votes",
+        "description": "The commissioners discussed, voted on, and passed various motions covered in the consent agenda. The topics ranged rezoning of various city lots to recruitment of a new city manager.",
+        "notable_points": [
+          "The commissioners unanimously approved the rezoning of 42 single family lots",
+          "Discussion on the recruitment of a new city manager"
+        ]
+      }
+    ],
+    "significant_discussions": [
+      {
+        "topic": "Proclamation of Poppy day",
+        "significance": "This recognizes the historical and ongoing contribution of veterans and the symbolism of the poppy in honoring their sacrifices.",
+        "stakeholders": [
+          "Veterans and their families",
+          "The American Legion auxiliary",
+          "Manhattan citizens"
+        ]
+      },
+      {
+        "topic": "Change in City Administration",
+        "significance": "The retirement of Ron, a long-serving city official, marks a significant transition phase in the city's administration. This spurs discussion on hiring a new city manager.",
+        "stakeholders": [
+          "City Staff",
+          "City Commissioners",
+          "Manhattan citizens"
+        ]
+      },
+      {
+        "topic": "Rezoning Request",
+        "significance": "The approval of rezoning 42 lots from high-density residential zoning to low-density residential zoning corrects a possible future legal issues. The change aligns with the existing usage of the land.",
+        "stakeholders": [
+          "City Planners",
+          "Manhattan Homeowners"
+        ]
+      }
+    ],
+    "unexpected_elements": [
+      {
+        "element": "Lack of Public Commentary",
+        "context": "Despite public commentary being on the agenda and the opportunity provided, no citizen commentary was recorded in the meeting. This could indicate either satisfaction with current city operations or lack of public interest in participating."
+      }
+    ]
+  },
+  "directed_analysis": {
+    "land_use": {
+      "present": true,
+      "significance": "Medium",
+      "context": "The land use discussion mainly involved the rezoning of certain lots in the city from high density residential to low density residential. The change is suggested to align with the actual use of the area and avoid problems in cases of renovations or damage.",
+      "notable_points": [
+        "Rezoning of 42 lots in a high-density residential district to accommodate low-density residential attached district due to current use of the land."
+      ]
+    },
+    "economic_development": {
+      "present": true,
+      "significance": "High",
+      "context": "The economic development discussion was intertwined with the tribute to the retiring City Manager, Ron Fehr. His work in community development and leadership was highlighted. Emphasis was laid on his participation in infrastructure projects, local economic development boards and committees, and efforts made during the downsizing and then resurgence of Fort Riley, all of which contributed to local economic development.",
+      "notable_points": [
+        "Recognition of economic development projects under the leadership of the retiring City Manager.",
+        "Potential economic benefit from the sale of artificial poppies for supporting veterans and their families.",
+        "Discussion of local business recognition."
+      ]
+    },
+    "taxes_budget": {
+      "present": false,
+      "significance": "Low",
+      "context": "Taxes and budget were not directly discussed in this meeting.",
+      "notable_points": []
+    },
+    "other_significant_topics": [
+      {
+        "topic": "Community Events and Recognition",
+        "significance": "Medium",
+        "context": "The meeting involved proclamations for Poppy Day and tribute to the retiring City Manager, Ron Fehr. There were also discussions about participation in a local leaders academy and recognition for a local chiropractor's 40th service anniversary."
+      }
+    ]
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 6,
+      "speaking_time": {
+        "Transcription and Diarization for manhattan_ks_broadcast_dagdv1ktt9hfgvlos1dr_04\u29f816\u29f824 City Commission Meeting.mp4": 7.0,
+        "Mayor Wynn Butler": 789.48,
+        "City Manager": 960.0399999999998,
+        "Commissioner Mata": 173.39999999999998,
+        "Commissioner Opel": 186.32000000000005,
+        "Commissioner Adam Jack": 88.08
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [
+        "Mayor Wynn Butler",
+        "City Manager"
+      ],
+      "observation": "Mayor Wynn Butler and the City Manager dominate the discussions, leading the proceedings, making proclamations, and addressing the attendees. The Mayor takes the lead in organizing the meeting's progress and declaring decisions, while the City Manager offers detailed explanations and critical comments."
+    },
+    "interaction_patterns": {
+      "pattern": "The speakers talk in turn, indicating a structured and orderly flow. There are instances of indirect interactions where some speakers respond or reference comments made by others. The City Manager is frequently asked for advice or input, showing a recognized expertise and integral role in the proceedings.",
+      "notable_exchanges": [
+        "The City Manager's response when questioned about the fiscal note on the Douglas Recreation Center bonds."
+      ]
+    },
+    "topic_ownership": [
+      {
+        "speaker": "City Manager",
+        "topics": [
+          "City Finances, particular initiatives and historical records"
+        ]
+      },
+      {
+        "speaker": "Commissioner Mata",
+        "topics": [
+          "Local events, social endorsements"
+        ]
+      },
+      {
+        "speaker": "Mayor Wynn Butler",
+        "topics": [
+          "Overall meeting conduct, proclamations, local event dates"
+        ]
+      }
+    ],
+    "public_participation": {
+      "level": "Low",
+      "observation": "The transcript indicates very limited public participation. Members of the public were present and made contributions, such as Susan Bergstin and Brittany Nolan discussing Poppy Day, but overall, their engagement was quite low compared to the officials."
+    }
+  },
+  "emergent_patterns": {
+    "recurring_themes": [
+      {
+        "theme": "Appreciation for Outgoing City Manager",
+        "evidence": "Multiple council members expressed their gratitude and well wishes for the outgoing City Manager, Ron Fehr."
+      },
+      {
+        "theme": "Commendation and recognition",
+        "evidence": "The council members regularly acknowledge the service and contributions of community members, for instance, poppy princess Brittany Nolan, Dr. Mark Hatesly, and those involved in the American Legion auxiliary."
+      }
+    ],
+    "underlying_tensions": [
+      {
+        "tension": "Attention to accuracy in documentation",
+        "between": [
+          "Commissioners"
+        ],
+        "context": "There was discussion about a document related to the city manager recruitment process and further changes were suggested for more accuracy."
+      }
+    ],
+    "decision_patterns": {
+      "pattern": "Consensus and vote",
+      "observation": "Decisions tend to be made after discussions among the commissioners, followed by a motion, a seconding of the motion and finally a roll call vote."
+    },
+    "language_patterns": {
+      "formality": "High",
+      "technical_density": "Medium",
+      "emotional_tone": "Respectful and appreciative",
+      "notable_features": [
+        "Use of official titles",
+        "Adherence to procedural language"
+      ]
+    },
+    "other_insights": [
+      "The use of proclamations to formally recognize special days, events, and individual contributions is a recurring practice."
+    ]
+  }
+}

@@ -1,0 +1,5997 @@
+Transcription and Diarization for 20220707-07⧸05⧸22 City Commission Meeting.mp4
+==================================================
+
+Mayor Morse:
+Start: 00:00:00.000
+End: 00:00:10.800
+Duration: 10.800 seconds
+Text: Good evening and welcome to the July 5th 2022 meeting of the Manhattan City Commission.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:00:10.800
+End: 00:00:16.520
+Duration: 5.720 seconds
+Text: It is now 6 o'clock and you know that's our new meeting time for all future meetings,
+--------------------------------------------------
+Mayor Morse:
+Start: 00:00:16.520
+End: 00:00:21.800
+Duration: 5.280 seconds
+Text: legislative and work sessions.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:00:21.800
+End: 00:00:26.600
+Duration: 4.800 seconds
+Text: After all these years we have to change our inter-clock.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:00:26.600
+End: 00:00:31.080
+Duration: 4.480 seconds
+Text: At this time I'd like to have the city clerk call the roll.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:31.080
+End: 00:00:34.080
+Duration: 3.000 seconds
+Text: Mayor Morse.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:00:34.080
+End: 00:00:35.080
+Duration: 1.000 seconds
+Text: Present.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:35.080
+End: 00:00:37.080
+Duration: 2.000 seconds
+Text: Commissioner Havisol.
+--------------------------------------------------
+Member of the Public:
+Start: 00:00:37.080
+End: 00:00:38.080
+Duration: 1.000 seconds
+Text: Present.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:38.080
+End: 00:00:39.080
+Duration: 1.000 seconds
+Text: Commissioner Reddy.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:39.080
+End: 00:00:40.080
+Duration: 1.000 seconds
+Text: Present.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:40.080
+End: 00:00:42.080
+Duration: 2.000 seconds
+Text: Commissioner Butler.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:42.080
+End: 00:00:43.080
+Duration: 1.000 seconds
+Text: Present.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:43.080
+End: 00:00:44.080
+Duration: 1.000 seconds
+Text: Commissioner Mata.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:44.080
+End: 00:00:45.080
+Duration: 1.000 seconds
+Text: Present.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:00:45.080
+End: 00:00:49.080
+Duration: 4.000 seconds
+Text: If you would please join me for the flag salute.
+--------------------------------------------------
+Member of the Public:
+Start: 00:00:49.080
+End: 00:00:56.760
+Duration: 7.680 seconds
+Text: I can't believe it's to the flag of the United States of America and to the Republic
+--------------------------------------------------
+Member of the Public:
+Start: 00:00:56.760
+End: 00:00:58.520
+Duration: 1.760 seconds
+Text: for which it stands.
+--------------------------------------------------
+Member of the Public:
+Start: 00:00:58.520
+End: 00:01:06.360
+Duration: 7.840 seconds
+Text: One nation under God, indivisible, with liberty and justice for all.
+--------------------------------------------------
+Member of the Public:
+Start: 00:01:06.360
+End: 00:01:07.360
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:01:07.360
+End: 00:01:18.600
+Duration: 11.240 seconds
+Text: At this point because this is the first meeting of the month, this is the time for
+--------------------------------------------------
+Mayor Morse:
+Start: 00:01:18.600
+End: 00:01:20.920
+Duration: 2.320 seconds
+Text: general public comments.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:01:20.920
+End: 00:01:27.040
+Duration: 6.120 seconds
+Text: So if you've come this evening for that part of the meeting, would you please come forward
+--------------------------------------------------
+Mayor Morse:
+Start: 00:01:27.040
+End: 00:01:30.280
+Duration: 3.240 seconds
+Text: and sign in.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:01:30.280
+End: 00:01:35.520
+Duration: 5.240 seconds
+Text: Just general comments about items that are not on the agenda tonight.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:01:35.520
+End: 00:01:36.520
+Duration: 1.000 seconds
+Text: Please.
+--------------------------------------------------
+Member of the Public:
+Start: 00:01:36.520
+End: 00:01:37.520
+Duration: 1.000 seconds
+Text: Hello.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:01:37.520
+End: 00:01:38.520
+Duration: 1.000 seconds
+Text: Pardon?
+--------------------------------------------------
+Mayor Morse:
+Start: 00:01:38.520
+End: 00:01:39.520
+Duration: 1.000 seconds
+Text: No, we're assigned to the meeting.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:01:39.520
+End: 00:01:40.520
+Duration: 1.000 seconds
+Text: Oh, well you're good.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:01:40.520
+End: 00:01:41.520
+Duration: 1.000 seconds
+Text: Are you Josh?
+--------------------------------------------------
+Mayor Morse:
+Start: 00:01:41.520
+End: 00:01:42.520
+Duration: 1.000 seconds
+Text: Yep.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:01:42.520
+End: 00:01:43.520
+Duration: 1.000 seconds
+Text: Josh Runean.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:01:43.520
+End: 00:01:44.520
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:01:44.520
+End: 00:01:45.520
+Duration: 1.000 seconds
+Text: Joshua.
+--------------------------------------------------
+Member of the Public:
+Start: 00:01:45.520
+End: 00:01:46.520
+Duration: 1.000 seconds
+Text: Yep.
+--------------------------------------------------
+Member of the Public:
+Start: 00:01:46.520
+End: 00:01:47.520
+Duration: 1.000 seconds
+Text: Runean.
+--------------------------------------------------
+Member of the Public:
+Start: 00:01:47.520
+End: 00:01:48.520
+Duration: 1.000 seconds
+Text: Josh Runean.
+--------------------------------------------------
+Member of the Public:
+Start: 00:01:48.520
+End: 00:01:51.480
+Duration: 2.960 seconds
+Text: And citizen I've been here since I was three.
+--------------------------------------------------
+Member of the Public:
+Start: 00:01:51.480
+End: 00:01:55.840
+Duration: 4.360 seconds
+Text: My dad was a bulldog at Arale County Police Department for many years.
+--------------------------------------------------
+Member of the Public:
+Start: 00:01:55.840
+End: 00:01:58.520
+Duration: 2.680 seconds
+Text: My mom was youth pastor at $7.
+--------------------------------------------------
+Member of the Public:
+Start: 00:01:58.520
+End: 00:02:00.840
+Duration: 2.320 seconds
+Text: And then essentially did daycare.
+--------------------------------------------------
+Member of the Public:
+Start: 00:02:00.840
+End: 00:02:01.840
+Duration: 1.000 seconds
+Text: I've grown up.
+--------------------------------------------------
+Member of the Public:
+Start: 00:02:01.840
+End: 00:02:06.440
+Duration: 4.600 seconds
+Text: I'm just here to speak about parks and recreation and what it means to me.
+--------------------------------------------------
+Member of the Public:
+Start: 00:02:06.440
+End: 00:02:10.280
+Duration: 3.840 seconds
+Text: Recently just had a lunch sitting with a bunch of other citizens.
+--------------------------------------------------
+Member of the Public:
+Start: 00:02:10.280
+End: 00:02:12.160
+Duration: 1.880 seconds
+Text: There were 30 of us.
+--------------------------------------------------
+Member of the Public:
+Start: 00:02:12.160
+End: 00:02:15.160
+Duration: 3.000 seconds
+Text: Give or take at rock and case.
+--------------------------------------------------
+Member of the Public:
+Start: 00:02:15.160
+End: 00:02:17.760
+Duration: 2.600 seconds
+Text: 11 o'clock I think on a Wednesday.
+--------------------------------------------------
+Member of the Public:
+Start: 00:02:17.760
+End: 00:02:21.280
+Duration: 3.520 seconds
+Text: So it's just kind of blew my mind that I was able to get that many people there.
+--------------------------------------------------
+Member of the Public:
+Start: 00:02:21.280
+End: 00:02:24.440
+Duration: 3.160 seconds
+Text: Off of a quick whim just to support parks and rec.
+--------------------------------------------------
+Member of the Public:
+Start: 00:02:24.440
+End: 00:02:26.440
+Duration: 2.000 seconds
+Text: And don't want to give you that presentation.
+--------------------------------------------------
+Member of the Public:
+Start: 00:02:26.440
+End: 00:02:29.880
+Duration: 3.440 seconds
+Text: I'd like to come back and present what I presented to all of them just so you can see what
+--------------------------------------------------
+Member of the Public:
+Start: 00:02:29.880
+End: 00:02:31.360
+Duration: 1.480 seconds
+Text: I had brought up.
+--------------------------------------------------
+Member of the Public:
+Start: 00:02:31.360
+End: 00:02:33.120
+Duration: 1.760 seconds
+Text: And today I want to talk about Tom.
+--------------------------------------------------
+Member of the Public:
+Start: 00:02:33.120
+End: 00:02:38.440
+Duration: 5.320 seconds
+Text: Tom bag groceries at Dylan's when I was a kid, roughly my kid's age.
+--------------------------------------------------
+Member of the Public:
+Start: 00:02:38.440
+End: 00:02:39.560
+Duration: 1.120 seconds
+Text: Tom was on my baseball team.
+--------------------------------------------------
+Member of the Public:
+Start: 00:02:39.560
+End: 00:02:41.600
+Duration: 2.040 seconds
+Text: My dad coached my baseball team.
+--------------------------------------------------
+Member of the Public:
+Start: 00:02:41.600
+End: 00:02:42.600
+Duration: 1.000 seconds
+Text: We were pretty good.
+--------------------------------------------------
+Member of the Public:
+Start: 00:02:42.600
+End: 00:02:46.920
+Duration: 4.320 seconds
+Text: There were a lot of rules written about my dad as far as our coaching and just having fun.
+--------------------------------------------------
+Member of the Public:
+Start: 00:02:46.920
+End: 00:02:51.040
+Duration: 4.120 seconds
+Text: And a lot of different things that with parks and rec throughout the years, I know Mike
+--------------------------------------------------
+Member of the Public:
+Start: 00:02:51.040
+End: 00:02:56.760
+Duration: 5.720 seconds
+Text: Buchanan invited us to go play travel ball when a local Manhattan team because 80 maize
+--------------------------------------------------
+Member of the Public:
+Start: 00:02:56.760
+End: 00:03:02.200
+Duration: 5.440 seconds
+Text: whose parks and rec product coaches at North Texas now played football at that school
+--------------------------------------------------
+Member of the Public:
+Start: 00:03:02.200
+End: 00:03:07.120
+Duration: 4.920 seconds
+Text: down the way where we're not going to say their name.
+--------------------------------------------------
+Member of the Public:
+Start: 00:03:08.120
+End: 00:03:18.080
+Duration: 9.960 seconds
+Text: Anyways, what I want to get to is essentially Tom has special needs in a program like parks
+--------------------------------------------------
+Member of the Public:
+Start: 00:03:18.080
+End: 00:03:19.840
+Duration: 1.760 seconds
+Text: and rec really helps out all those students.
+--------------------------------------------------
+Member of the Public:
+Start: 00:03:19.840
+End: 00:03:21.960
+Duration: 2.120 seconds
+Text: They don't have the ability to go out and traveling.
+--------------------------------------------------
+Member of the Public:
+Start: 00:03:21.960
+End: 00:03:25.400
+Duration: 3.440 seconds
+Text: They're not going to be able to do stuff outside of Manhattan.
+--------------------------------------------------
+Member of the Public:
+Start: 00:03:25.400
+End: 00:03:29.120
+Duration: 3.720 seconds
+Text: And parks and rec is important for people exactly like Tom.
+--------------------------------------------------
+Member of the Public:
+Start: 00:03:29.120
+End: 00:03:31.840
+Duration: 2.720 seconds
+Text: I learned a lot from Tom at the time.
+--------------------------------------------------
+Member of the Public:
+Start: 00:03:31.840
+End: 00:03:34.600
+Duration: 2.760 seconds
+Text: And I know that everybody else on my team did.
+--------------------------------------------------
+Member of the Public:
+Start: 00:03:34.600
+End: 00:03:40.720
+Duration: 6.120 seconds
+Text: And there are a lot of other citizens that depend on a program like parks and rec.
+--------------------------------------------------
+Member of the Public:
+Start: 00:03:40.720
+End: 00:03:45.840
+Duration: 5.120 seconds
+Text: Real quick, I know the city had put some stuff out on high quality of life is kind of what
+--------------------------------------------------
+Member of the Public:
+Start: 00:03:45.840
+End: 00:03:47.480
+Duration: 1.640 seconds
+Text: we love to focus on.
+--------------------------------------------------
+Member of the Public:
+Start: 00:03:47.480
+End: 00:03:50.120
+Duration: 2.640 seconds
+Text: Parks and Rec does that.
+--------------------------------------------------
+Member of the Public:
+Start: 00:03:50.120
+End: 00:03:59.480
+Duration: 9.360 seconds
+Text: On the leadership side, everything that we're going through really talks about the culture
+--------------------------------------------------
+Member of the Public:
+Start: 00:03:59.480
+End: 00:04:00.760
+Duration: 1.280 seconds
+Text: of the city.
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:00.760
+End: 00:04:02.440
+Duration: 1.680 seconds
+Text: Parks and Rec is our culture.
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:02.440
+End: 00:04:04.760
+Duration: 2.320 seconds
+Text: I played baseball until I was a senior.
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:04.760
+End: 00:04:06.160
+Duration: 1.400 seconds
+Text: I know that program went away.
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:06.160
+End: 00:04:09.160
+Duration: 3.000 seconds
+Text: I'd like to see something back in 28th grade.
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:09.160
+End: 00:04:14.640
+Duration: 5.480 seconds
+Text: The one number that stands out to me the most on the budget is there's a 985,000 shortfall.
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:14.640
+End: 00:04:16.640
+Duration: 2.000 seconds
+Text: It's pretty obvious.
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:16.640
+End: 00:04:19.440
+Duration: 2.800 seconds
+Text: If you take the project, this is all projected off of 21.
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:19.440
+End: 00:04:22.200
+Duration: 2.760 seconds
+Text: I don't think anything else was out there.
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:22.200
+End: 00:04:24.160
+Duration: 1.960 seconds
+Text: There's 41,000 users.
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:24.160
+End: 00:04:26.920
+Duration: 2.760 seconds
+Text: I think projected for the year 21.
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:26.920
+End: 00:04:29.160
+Duration: 2.240 seconds
+Text: I don't know, obviously with COVID where it was at.
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:29.160
+End: 00:04:37.800
+Duration: 8.640 seconds
+Text: If you just divided that 985 by that 41,000, you'd get roughly another $23.45 per activity
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:37.800
+End: 00:04:39.320
+Duration: 1.520 seconds
+Text: that everybody registered for.
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:39.320
+End: 00:04:42.640
+Duration: 3.320 seconds
+Text: I think I registered for probably five.
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:42.640
+End: 00:04:48.840
+Duration: 6.200 seconds
+Text: I mean, an extra $125, $150 to be able to play Parks and Rec.
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:48.840
+End: 00:04:55.040
+Duration: 6.200 seconds
+Text: I know the one thing that we don't do is dance because all of my kids have done Parks and Rec.
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:55.040
+End: 00:04:56.440
+Duration: 1.400 seconds
+Text: We all start that way.
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:56.440
+End: 00:05:00.640
+Duration: 4.200 seconds
+Text: And then we kind of realize, well, is this somewhere we need to elevate and go travel ball?
+--------------------------------------------------
+Member of the Public:
+Start: 00:05:00.640
+End: 00:05:03.640
+Duration: 3.000 seconds
+Text: Well, my son, I coached him in soccer.
+--------------------------------------------------
+Member of the Public:
+Start: 00:05:03.640
+End: 00:05:04.800
+Duration: 1.160 seconds
+Text: We elevated to soccer.
+--------------------------------------------------
+Member of the Public:
+Start: 00:05:04.800
+End: 00:05:06.080
+Duration: 1.280 seconds
+Text: I don't know enough about soccer.
+--------------------------------------------------
+Member of the Public:
+Start: 00:05:06.080
+End: 00:05:08.360
+Duration: 2.280 seconds
+Text: So my Sanchez coach is soccer.
+--------------------------------------------------
+Member of the Public:
+Start: 00:05:08.360
+End: 00:05:09.360
+Duration: 1.000 seconds
+Text: But I coach baseball.
+--------------------------------------------------
+Member of the Public:
+Start: 00:05:09.360
+End: 00:05:10.920
+Duration: 1.560 seconds
+Text: So we go to Hutchison.
+--------------------------------------------------
+Member of the Public:
+Start: 00:05:10.920
+End: 00:05:12.200
+Duration: 1.280 seconds
+Text: We keep it very simple.
+--------------------------------------------------
+Member of the Public:
+Start: 00:05:12.200
+End: 00:05:17.840
+Duration: 5.640 seconds
+Text: My cost for baseball with uniform and everything this year was only $250.
+--------------------------------------------------
+Member of the Public:
+Start: 00:05:17.840
+End: 00:05:21.560
+Duration: 3.720 seconds
+Text: Very reasonable, especially when you think of other programs in town.
+--------------------------------------------------
+Member of the Public:
+Start: 00:05:21.560
+End: 00:05:22.960
+Duration: 1.400 seconds
+Text: But not everybody can afford that.
+--------------------------------------------------
+Member of the Public:
+Start: 00:05:22.960
+End: 00:05:24.280
+Duration: 1.320 seconds
+Text: But not just affording.
+--------------------------------------------------
+Member of the Public:
+Start: 00:05:24.280
+End: 00:05:26.000
+Duration: 1.720 seconds
+Text: It's sometimes about time.
+--------------------------------------------------
+Member of the Public:
+Start: 00:05:26.000
+End: 00:05:29.840
+Duration: 3.840 seconds
+Text: Not Seben, owns Rockin' Cays, Mr. Cays, and Michigan Trolley, all that stuff.
+--------------------------------------------------
+Member of the Public:
+Start: 00:05:29.840
+End: 00:05:32.280
+Duration: 2.440 seconds
+Text: He was talking about how important it is to him.
+--------------------------------------------------
+Member of the Public:
+Start: 00:05:32.280
+End: 00:05:36.760
+Duration: 4.480 seconds
+Text: Because of all the businesses he supplies for the city and people, he doesn't have that
+--------------------------------------------------
+Member of the Public:
+Start: 00:05:36.760
+End: 00:05:40.080
+Duration: 3.320 seconds
+Text: time to go to Kansas City or Topeka for travel sports.
+--------------------------------------------------
+Member of the Public:
+Start: 00:05:40.080
+End: 00:05:46.520
+Duration: 6.440 seconds
+Text: And I know there are lots of other options as far as getting Parkes and Rec like board.
+--------------------------------------------------
+Member of the Public:
+Start: 00:05:46.520
+End: 00:05:48.320
+Duration: 1.800 seconds
+Text: But a lot of that stuff's not set up.
+--------------------------------------------------
+Member of the Public:
+Start: 00:05:48.320
+End: 00:05:50.160
+Duration: 1.840 seconds
+Text: Citizens are not included in the process.
+--------------------------------------------------
+Member of the Public:
+Start: 00:05:50.160
+End: 00:05:52.800
+Duration: 2.640 seconds
+Text: Outside of just select board.
+--------------------------------------------------
+Member of the Public:
+Start: 00:05:52.800
+End: 00:05:57.440
+Duration: 4.640 seconds
+Text: And that's just where I'd like to be more vocal and just be maybe more helpful as far
+--------------------------------------------------
+Member of the Public:
+Start: 00:05:57.440
+End: 00:06:00.200
+Duration: 2.760 seconds
+Text: as what we can do as citizens.
+--------------------------------------------------
+Member of the Public:
+Start: 00:06:00.200
+End: 00:06:04.160
+Duration: 3.960 seconds
+Text: I know we have another meeting probably in the afternoon or late evening for those that
+--------------------------------------------------
+Member of the Public:
+Start: 00:06:04.160
+End: 00:06:07.560
+Duration: 3.400 seconds
+Text: obviously can't make an afternoon meeting for the presentation.
+--------------------------------------------------
+Member of the Public:
+Start: 00:06:07.560
+End: 00:06:11.320
+Duration: 3.760 seconds
+Text: But if you'd love to have me, I think I sign up for the 12th.
+--------------------------------------------------
+Member of the Public:
+Start: 00:06:11.320
+End: 00:06:12.560
+Duration: 1.240 seconds
+Text: Hopefully we're able to do that.
+--------------------------------------------------
+Member of the Public:
+Start: 00:06:12.560
+End: 00:06:17.720
+Duration: 5.160 seconds
+Text: So other than that, I appreciate your time and everything you guys do and go Parkes and
+--------------------------------------------------
+Member of the Public:
+Start: 00:06:17.720
+End: 00:06:18.720
+Duration: 1.000 seconds
+Text: Rec.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:06:18.720
+End: 00:06:20.240
+Duration: 1.520 seconds
+Text: Thank you for coming.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:06:50.240
+End: 00:06:56.640
+Duration: 6.400 seconds
+Text: Welcome Gary.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:06:56.640
+End: 00:06:58.360
+Duration: 1.720 seconds
+Text: You're becoming a regular.
+--------------------------------------------------
+Member of the Public:
+Start: 00:06:58.360
+End: 00:06:59.520
+Duration: 1.160 seconds
+Text: Yeah.
+--------------------------------------------------
+Member of the Public:
+Start: 00:06:59.520
+End: 00:07:00.520
+Duration: 1.000 seconds
+Text: That's intentional.
+--------------------------------------------------
+Member of the Public:
+Start: 00:07:00.520
+End: 00:07:02.520
+Duration: 2.000 seconds
+Text: That's accidental.
+--------------------------------------------------
+Member of the Public:
+Start: 00:07:02.520
+End: 00:07:03.520
+Duration: 1.000 seconds
+Text: My name is Gary Ols.
+--------------------------------------------------
+Member of the Public:
+Start: 00:07:03.520
+End: 00:07:06.160
+Duration: 2.640 seconds
+Text: I live at 3308 Frontier Circle here in Manhattan.
+--------------------------------------------------
+Member of the Public:
+Start: 00:07:06.160
+End: 00:07:09.480
+Duration: 3.320 seconds
+Text: I'm here to talk to you about another quality of life issue that I've been here before and
+--------------------------------------------------
+Member of the Public:
+Start: 00:07:09.480
+End: 00:07:13.160
+Duration: 3.680 seconds
+Text: that's the property tax valuation.
+--------------------------------------------------
+Member of the Public:
+Start: 00:07:13.160
+End: 00:07:14.160
+Duration: 1.000 seconds
+Text: Property tax valuation.
+--------------------------------------------------
+Member of the Public:
+Start: 00:07:14.160
+End: 00:07:17.200
+Duration: 3.040 seconds
+Text: Advalorment tax.
+--------------------------------------------------
+Member of the Public:
+Start: 00:07:17.200
+End: 00:07:21.360
+Duration: 4.160 seconds
+Text: I hold the for me for the purpose of those who can view this not very well, but it's a
+--------------------------------------------------
+Member of the Public:
+Start: 00:07:21.360
+End: 00:07:27.400
+Duration: 6.040 seconds
+Text: document that as I understand it sometime in the month of September, don't exactly know
+--------------------------------------------------
+Member of the Public:
+Start: 00:07:27.400
+End: 00:07:32.440
+Duration: 5.040 seconds
+Text: when, but you're going to receive a document if you're a taxpayer or parcel owner in the
+--------------------------------------------------
+Member of the Public:
+Start: 00:07:32.440
+End: 00:07:34.560
+Duration: 2.120 seconds
+Text: community that looks like this.
+--------------------------------------------------
+Member of the Public:
+Start: 00:07:34.560
+End: 00:07:39.920
+Duration: 5.360 seconds
+Text: It doesn't show very well on television, but basically it is a breakdown of any taxing
+--------------------------------------------------
+Member of the Public:
+Start: 00:07:39.920
+End: 00:07:45.240
+Duration: 5.320 seconds
+Text: entity of which you are a part of, whether that's a cemetery district or a city or a county
+--------------------------------------------------
+Member of the Public:
+Start: 00:07:45.240
+End: 00:07:48.600
+Duration: 3.360 seconds
+Text: or a school district or a township or whatever.
+--------------------------------------------------
+Member of the Public:
+Start: 00:07:48.600
+End: 00:07:51.240
+Duration: 2.640 seconds
+Text: The county clerk is going to send you this document.
+--------------------------------------------------
+Member of the Public:
+Start: 00:07:51.240
+End: 00:07:53.600
+Duration: 2.360 seconds
+Text: It's going to be about two months.
+--------------------------------------------------
+Member of the Public:
+Start: 00:07:53.600
+End: 00:07:57.600
+Duration: 4.000 seconds
+Text: They're about ahead of your actual tax statement that you're used to getting and have gotten
+--------------------------------------------------
+Member of the Public:
+Start: 00:07:57.600
+End: 00:07:59.600
+Duration: 2.000 seconds
+Text: for years and years and years.
+--------------------------------------------------
+Member of the Public:
+Start: 00:07:59.600
+End: 00:08:05.160
+Duration: 5.560 seconds
+Text: This is your first opportunity to see how much you as commissioners are going to charge
+--------------------------------------------------
+Member of the Public:
+Start: 00:08:05.160
+End: 00:08:09.320
+Duration: 4.160 seconds
+Text: in taxation, which is as I understand the discussion tonight in terms of the percentage
+--------------------------------------------------
+Member of the Public:
+Start: 00:08:09.320
+End: 00:08:10.640
+Duration: 1.320 seconds
+Text: of increase.
+--------------------------------------------------
+Member of the Public:
+Start: 00:08:10.640
+End: 00:08:16.040
+Duration: 5.400 seconds
+Text: My point in bringing this to your attention as citizens that are watching is that when
+--------------------------------------------------
+Member of the Public:
+Start: 00:08:16.040
+End: 00:08:25.480
+Duration: 9.440 seconds
+Text: you receive this, do not call the county clerk, do not call the appraiser, call these commissioners,
+--------------------------------------------------
+Member of the Public:
+Start: 00:08:25.480
+End: 00:08:31.880
+Duration: 6.400 seconds
+Text: call the school district, call the county because they're the ones that are determining
+--------------------------------------------------
+Member of the Public:
+Start: 00:08:31.880
+End: 00:08:33.640
+Duration: 1.760 seconds
+Text: these rates and this cost.
+--------------------------------------------------
+Member of the Public:
+Start: 00:08:33.640
+End: 00:08:39.320
+Duration: 5.680 seconds
+Text: It's important that you know that because from the appraiser's I've talked to over the
+--------------------------------------------------
+Member of the Public:
+Start: 00:08:39.320
+End: 00:08:44.160
+Duration: 4.840 seconds
+Text: years is when the statement comes out in November, their phone wings off the wall and they
+--------------------------------------------------
+Member of the Public:
+Start: 00:08:44.160
+End: 00:08:47.000
+Duration: 2.840 seconds
+Text: have nothing to do with taxation.
+--------------------------------------------------
+Member of the Public:
+Start: 00:08:47.000
+End: 00:08:49.240
+Duration: 2.240 seconds
+Text: They just set the value of your property.
+--------------------------------------------------
+Member of the Public:
+Start: 00:08:49.240
+End: 00:08:54.360
+Duration: 5.120 seconds
+Text: So when you get this, if you want an explanation of what's going on and you happen to know
+--------------------------------------------------
+Member of the Public:
+Start: 00:08:54.360
+End: 00:08:57.840
+Duration: 3.480 seconds
+Text: one of the commissioners, give them a ring and have them explain it to you what the increase
+--------------------------------------------------
+Member of the Public:
+Start: 00:08:57.840
+End: 00:08:59.840
+Duration: 2.000 seconds
+Text: is going to be.
+--------------------------------------------------
+Member of the Public:
+Start: 00:08:59.840
+End: 00:09:04.960
+Duration: 5.120 seconds
+Text: So I just want to point that out again so people are aware because this is the first year
+--------------------------------------------------
+Member of the Public:
+Start: 00:09:04.960
+End: 00:09:09.200
+Duration: 4.240 seconds
+Text: you're going to get the R&R or the revenue neutral rate and it's eye understanding that
+--------------------------------------------------
+Member of the Public:
+Start: 00:09:09.200
+End: 00:09:12.200
+Duration: 3.000 seconds
+Text: this board intends to exceed the revenue neutral rate.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:09:12.200
+End: 00:09:13.280
+Duration: 1.080 seconds
+Text: That is on our agenda.
+--------------------------------------------------
+Member of the Public:
+Start: 00:09:13.280
+End: 00:09:14.280
+Duration: 1.000 seconds
+Text: Right.
+--------------------------------------------------
+Member of the Public:
+Start: 00:09:14.280
+End: 00:09:15.480
+Duration: 1.200 seconds
+Text: I mean, you're that's part of the discussion.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:09:15.480
+End: 00:09:19.920
+Duration: 4.440 seconds
+Text: The question was, is that on our agenda, but you've just named it so it is on our agenda
+--------------------------------------------------
+Member of the Public:
+Start: 00:09:19.920
+End: 00:09:20.920
+Duration: 1.000 seconds
+Text: to not.
+--------------------------------------------------
+Member of the Public:
+Start: 00:09:20.920
+End: 00:09:21.920
+Duration: 1.000 seconds
+Text: Is that that's part of the.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:09:21.920
+End: 00:09:24.520
+Duration: 2.600 seconds
+Text: So the general comments at the beginning.
+--------------------------------------------------
+Member of the Public:
+Start: 00:09:24.520
+End: 00:09:26.520
+Duration: 2.000 seconds
+Text: I understand, but I'm talking about the R&R.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:09:26.520
+End: 00:09:27.520
+Duration: 1.000 seconds
+Text: I am too.
+--------------------------------------------------
+Member of the Public:
+Start: 00:09:27.520
+End: 00:09:30.600
+Duration: 3.080 seconds
+Text: I'm just wanting to point out that this document is going to come to you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:09:30.600
+End: 00:09:34.880
+Duration: 4.280 seconds
+Text: This is just a sample that the state gave to people so that they know, but the citizens
+--------------------------------------------------
+Member of the Public:
+Start: 00:09:34.880
+End: 00:09:37.560
+Duration: 2.680 seconds
+Text: don't know because they've never received it before.
+--------------------------------------------------
+Member of the Public:
+Start: 00:09:37.560
+End: 00:09:43.520
+Duration: 5.960 seconds
+Text: So I think it's important that everyone realize that when this document comes, that they've
+--------------------------------------------------
+Member of the Public:
+Start: 00:09:43.520
+End: 00:09:46.680
+Duration: 3.160 seconds
+Text: got to have a place to call because they're going to have questions like they always do.
+--------------------------------------------------
+Member of the Public:
+Start: 00:09:46.680
+End: 00:09:48.160
+Duration: 1.480 seconds
+Text: So don't call the appraisers.
+--------------------------------------------------
+Member of the Public:
+Start: 00:09:48.160
+End: 00:09:51.320
+Duration: 3.160 seconds
+Text: Don't call the county clerk because the county clerk just sends it out.
+--------------------------------------------------
+Member of the Public:
+Start: 00:09:51.320
+End: 00:09:56.440
+Duration: 5.120 seconds
+Text: If you want an explanation, I guess you could call Ron's office, but he may not have enough
+--------------------------------------------------
+Member of the Public:
+Start: 00:09:56.440
+End: 00:10:01.000
+Duration: 4.560 seconds
+Text: staff to answer all the questions from what I understand in terms of the number they call.
+--------------------------------------------------
+Member of the Public:
+Start: 00:10:01.000
+End: 00:10:04.720
+Duration: 3.720 seconds
+Text: But if you know the commissioners give them a call and just ask for an explanation.
+--------------------------------------------------
+Member of the Public:
+Start: 00:10:04.720
+End: 00:10:06.000
+Duration: 1.280 seconds
+Text: Thank you for the work that you do.
+--------------------------------------------------
+Member of the Public:
+Start: 00:10:06.000
+End: 00:10:08.480
+Duration: 2.480 seconds
+Text: I know it's going to be a lively discussion tonight.
+--------------------------------------------------
+Member of the Public:
+Start: 00:10:08.480
+End: 00:10:13.840
+Duration: 5.360 seconds
+Text: Frankly, it's a difficult situation that you face because of the fact that you are going
+--------------------------------------------------
+Member of the Public:
+Start: 00:10:13.840
+End: 00:10:14.840
+Duration: 1.000 seconds
+Text: to exceed the R&R.
+--------------------------------------------------
+Member of the Public:
+Start: 00:10:14.840
+End: 00:10:20.040
+Duration: 5.200 seconds
+Text: It's a question about how much you're not going to use last year's tax or mill levied,
+--------------------------------------------------
+Member of the Public:
+Start: 00:10:20.040
+End: 00:10:24.640
+Duration: 4.600 seconds
+Text: or mill levied revenue from property taxes.
+--------------------------------------------------
+Member of the Public:
+Start: 00:10:24.640
+End: 00:10:28.040
+Duration: 3.400 seconds
+Text: So that's going to be the discussion this evening.
+--------------------------------------------------
+Member of the Public:
+Start: 00:10:28.040
+End: 00:10:30.200
+Duration: 2.160 seconds
+Text: Last of luck.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:10:30.200
+End: 00:10:37.520
+Duration: 7.320 seconds
+Text: You know, I think in the future, I'll have to enforce the not on our agenda part just
+--------------------------------------------------
+Mayor Morse:
+Start: 00:10:37.520
+End: 00:10:41.080
+Duration: 3.560 seconds
+Text: because you kind of worked your way into it.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:10:41.080
+End: 00:10:42.080
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:10:42.080
+End: 00:10:47.160
+Duration: 5.080 seconds
+Text: Is anyone else wish to speak to something that is not on our agenda this evening?
+--------------------------------------------------
+Mayor Morse:
+Start: 00:10:47.160
+End: 00:10:52.000
+Duration: 4.840 seconds
+Text: If you do, please come forward.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:10:52.000
+End: 00:11:05.080
+Duration: 13.080 seconds
+Text: I'll close the public comment period and move to Commissioner comments.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:11:05.080
+End: 00:11:07.440
+Duration: 2.360 seconds
+Text: The next slide, let's see.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:11:07.440
+End: 00:11:11.920
+Duration: 4.480 seconds
+Text: So I would be beginning at the far end.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:11:11.920
+End: 00:11:12.920
+Duration: 1.000 seconds
+Text: Commissioner Mata.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:11:12.920
+End: 00:11:13.920
+Duration: 1.000 seconds
+Text: Mata.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:11:13.920
+End: 00:11:17.640
+Duration: 3.720 seconds
+Text: If you have nothing, okay.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:11:17.640
+End: 00:11:20.240
+Duration: 2.600 seconds
+Text: Commissioner Butler.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:11:20.240
+End: 00:11:21.240
+Duration: 1.000 seconds
+Text: Commissioner Ready.
+--------------------------------------------------
+Member of the Public:
+Start: 00:11:21.240
+End: 00:11:22.240
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Member of the Public:
+Start: 00:11:22.240
+End: 00:11:25.320
+Duration: 3.080 seconds
+Text: I just wanted to say I watched some of the fireworks last night.
+--------------------------------------------------
+Member of the Public:
+Start: 00:11:25.320
+End: 00:11:26.320
+Duration: 1.000 seconds
+Text: Very good.
+--------------------------------------------------
+Member of the Public:
+Start: 00:11:26.320
+End: 00:11:29.040
+Duration: 2.720 seconds
+Text: I think the community did a nice job the past four days.
+--------------------------------------------------
+Member of the Public:
+Start: 00:11:29.040
+End: 00:11:30.280
+Duration: 1.240 seconds
+Text: No more fireworks from now.
+--------------------------------------------------
+Member of the Public:
+Start: 00:11:30.280
+End: 00:11:31.280
+Duration: 1.000 seconds
+Text: I think so.
+--------------------------------------------------
+Member of the Public:
+Start: 00:11:31.280
+End: 00:11:33.520
+Duration: 2.240 seconds
+Text: We shouldn't be hearing you again.
+--------------------------------------------------
+Member of the Public:
+Start: 00:11:33.520
+End: 00:11:34.520
+Duration: 1.000 seconds
+Text: But very nice.
+--------------------------------------------------
+Member of the Public:
+Start: 00:11:34.520
+End: 00:11:39.960
+Duration: 5.440 seconds
+Text: And I don't think there were, even though there was a lot of dry key limbs out there, the
+--------------------------------------------------
+Member of the Public:
+Start: 00:11:39.960
+End: 00:11:42.960
+Duration: 3.000 seconds
+Text: rain and everything else must have helped to kind of dampen that.
+--------------------------------------------------
+Member of the Public:
+Start: 00:11:42.960
+End: 00:11:48.040
+Duration: 5.080 seconds
+Text: I did want to remind everyone, if your name has changed in the past year or your address
+--------------------------------------------------
+Member of the Public:
+Start: 00:11:48.040
+End: 00:11:53.080
+Duration: 5.040 seconds
+Text: has changed in the past year or since the last time you voted, make sure you check your
+--------------------------------------------------
+Member of the Public:
+Start: 00:11:53.080
+End: 00:11:55.640
+Duration: 2.560 seconds
+Text: voter registration and see if you're updated.
+--------------------------------------------------
+Member of the Public:
+Start: 00:11:55.640
+End: 00:11:58.000
+Duration: 2.360 seconds
+Text: If you haven't registered to vote, please register to vote.
+--------------------------------------------------
+Member of the Public:
+Start: 00:11:58.000
+End: 00:12:00.280
+Duration: 2.280 seconds
+Text: The deadline is July 12.
+--------------------------------------------------
+Member of the Public:
+Start: 00:12:00.280
+End: 00:12:05.120
+Duration: 4.840 seconds
+Text: So I just want to remind everybody to make sure, just check it just takes a few minutes online.
+--------------------------------------------------
+Member of the Public:
+Start: 00:12:05.120
+End: 00:12:06.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:12:06.120
+End: 00:12:07.120
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:12:07.120
+End: 00:12:08.120
+Duration: 1.000 seconds
+Text: No.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:12:08.120
+End: 00:12:14.200
+Duration: 6.080 seconds
+Text: I just, before I came here, I sat in on a Zoom meeting with Common Table.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:12:14.200
+End: 00:12:21.240
+Duration: 7.040 seconds
+Text: And they're the group that hosts an evening meal for low income or people who need, you
+--------------------------------------------------
+Mayor Morse:
+Start: 00:12:21.240
+End: 00:12:24.760
+Duration: 3.520 seconds
+Text: know, sometimes just some social interaction.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:12:24.760
+End: 00:12:28.720
+Duration: 3.960 seconds
+Text: Every night of the week here, it's sponsored by local churches.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:12:28.720
+End: 00:12:32.360
+Duration: 3.640 seconds
+Text: And it is just a wonderful organization.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:12:32.360
+End: 00:12:37.360
+Duration: 5.000 seconds
+Text: So I'd encourage you to be supportive if you ever get the opportunity.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:12:37.360
+End: 00:12:47.240
+Duration: 9.880 seconds
+Text: I also, and this, the City Commission's representative to the Flint Hills Regional Council.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:12:47.240
+End: 00:12:49.880
+Duration: 2.640 seconds
+Text: And we have hired a new executive director.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:12:49.880
+End: 00:12:56.920
+Duration: 7.040 seconds
+Text: His name is Jerry Lonergan, and he is doing a wonderful job right, right out the door,
+--------------------------------------------------
+Mayor Morse:
+Start: 00:12:56.920
+End: 00:12:58.240
+Duration: 1.320 seconds
+Text: right off the bat.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:12:58.240
+End: 00:13:07.000
+Duration: 8.760 seconds
+Text: And we have a new, that was a group for the regional council, regional, the region,
+--------------------------------------------------
+Mayor Morse:
+Start: 00:13:07.000
+End: 00:13:10.320
+Duration: 3.320 seconds
+Text: consists of seven counties in this area.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:13:10.320
+End: 00:13:15.960
+Duration: 5.640 seconds
+Text: And of course, Potawatomi, Gary Riley and Walbunsey and several others are part of that.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:13:15.960
+End: 00:13:26.440
+Duration: 10.480 seconds
+Text: But we have a new $500,000 grant to help identify contaminated sites and try to figure out how
+--------------------------------------------------
+Mayor Morse:
+Start: 00:13:26.440
+End: 00:13:32.920
+Duration: 6.480 seconds
+Text: to bring them back into production so that they are part, you know, we have a site not
+--------------------------------------------------
+Mayor Morse:
+Start: 00:13:32.920
+End: 00:13:36.000
+Duration: 3.080 seconds
+Text: far from here that's an old gas station.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:13:36.000
+End: 00:13:37.920
+Duration: 1.920 seconds
+Text: And nothing can be built on it.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:13:37.920
+End: 00:13:40.080
+Duration: 2.160 seconds
+Text: It's just dead land.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:13:40.080
+End: 00:13:46.040
+Duration: 5.960 seconds
+Text: And so that's the kind of, that's an example of the kind of thing we're working with.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:13:46.040
+End: 00:13:52.800
+Duration: 6.760 seconds
+Text: And we're going to be writing more some proposals for funding that we've been, where a lot,
+--------------------------------------------------
+Mayor Morse:
+Start: 00:13:52.800
+End: 00:13:58.480
+Duration: 5.680 seconds
+Text: in a really good financial situation, right, this year, not so much last year, we kind
+--------------------------------------------------
+Mayor Morse:
+Start: 00:13:58.480
+End: 00:14:05.760
+Duration: 7.280 seconds
+Text: of had a change over in executive leadership, and we're really pleased with our new director.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:14:05.760
+End: 00:14:15.560
+Duration: 9.800 seconds
+Text: So with that, I will move close to Commissioner comments section and get back here and move
+--------------------------------------------------
+Mayor Morse:
+Start: 00:14:15.560
+End: 00:14:19.280
+Duration: 3.720 seconds
+Text: on to the consent agenda.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:14:19.280
+End: 00:14:25.880
+Duration: 6.600 seconds
+Text: So the items on the consent agenda, and I think there's usually an agenda at the door,
+--------------------------------------------------
+Mayor Morse:
+Start: 00:14:25.880
+End: 00:14:31.480
+Duration: 5.600 seconds
+Text: if you haven't had a chance to see them, are those of a routine and housekeeping nature
+--------------------------------------------------
+Mayor Morse:
+Start: 00:14:31.560
+End: 00:14:35.920
+Duration: 4.360 seconds
+Text: or those items which have previously been reviewed by the City Commission.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:14:35.920
+End: 00:14:40.800
+Duration: 4.880 seconds
+Text: A commissioner may request an item be moved for separate discussion and consideration
+--------------------------------------------------
+Mayor Morse:
+Start: 00:14:40.800
+End: 00:14:46.560
+Duration: 5.760 seconds
+Text: immediately following the consent agenda or at a different point in the agenda
+--------------------------------------------------
+Mayor Morse:
+Start: 00:14:46.560
+End: 00:14:49.680
+Duration: 3.120 seconds
+Text: if desired by the City Commission.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:14:49.680
+End: 00:14:56.120
+Duration: 6.440 seconds
+Text: Does the commission have any questions or comments on any of the consent agenda items?
+--------------------------------------------------
+Mayor Morse:
+Start: 00:14:57.120
+End: 00:15:03.920
+Duration: 6.800 seconds
+Text: Okay. So we'll now receive, hearing no comments, seeing no comments.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:15:03.920
+End: 00:15:10.960
+Duration: 7.040 seconds
+Text: We will now receive public comment on any item on tonight's consent agenda from the public.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:15:10.960
+End: 00:15:17.720
+Duration: 6.760 seconds
+Text: Public comment will begin with people who signed up online and no one did sign up, by the way.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:15:17.720
+End: 00:15:24.200
+Duration: 6.480 seconds
+Text: So if you have a comment, if you would come forward and state your name and your address for the record,
+--------------------------------------------------
+Mayor Morse:
+Start: 00:15:24.200
+End: 00:15:29.640
+Duration: 5.440 seconds
+Text: and each speaker will have five minutes, and you can speak only once and must stop speaking
+--------------------------------------------------
+Mayor Morse:
+Start: 00:15:29.640
+End: 00:15:31.400
+Duration: 1.760 seconds
+Text: when the timer sounds.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:15:31.400
+End: 00:15:36.360
+Duration: 4.960 seconds
+Text: Neither the commissioner's nor the staff will answer questions or debate an issue.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:15:36.360
+End: 00:15:38.760
+Duration: 2.400 seconds
+Text: We will take your comments under advisement.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:15:38.760
+End: 00:15:45.200
+Duration: 6.440 seconds
+Text: If anyone wishes to come forward to speak about a consent agenda item, would you do that now?
+--------------------------------------------------
+Mayor Morse:
+Start: 00:15:47.200
+End: 00:15:49.520
+Duration: 2.320 seconds
+Text: Seeing overwhelming enthusiasm.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:15:49.520
+End: 00:15:57.040
+Duration: 7.520 seconds
+Text: I will declare that the public comment period is now closed.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:15:57.040
+End: 00:16:01.680
+Duration: 4.640 seconds
+Text: Is there a motion from the commission or do you have?
+--------------------------------------------------
+Member of the Public:
+Start: 00:16:01.680
+End: 00:16:04.360
+Duration: 2.680 seconds
+Text: Mayor, I move that we approve the consent agenda.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:16:04.360
+End: 00:16:05.360
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:16:05.360
+End: 00:16:11.200
+Duration: 5.840 seconds
+Text: Okay. We have a motion by Commissioner Hadasal, a second by Commissioner Reddy.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:16:11.200
+End: 00:16:15.000
+Duration: 3.800 seconds
+Text: And the City Clerk, would you please call the roll?
+--------------------------------------------------
+Mayor Morse:
+Start: 00:16:15.000
+End: 00:16:16.000
+Duration: 1.000 seconds
+Text: Mayor Mors.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:16.000
+End: 00:16:17.480
+Duration: 1.480 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:17.480
+End: 00:16:18.480
+Duration: 1.000 seconds
+Text: Commissioner Hadasal?
+--------------------------------------------------
+Member of the Public:
+Start: 00:16:18.480
+End: 00:16:19.720
+Duration: 1.240 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:19.720
+End: 00:16:20.720
+Duration: 1.000 seconds
+Text: Commissioner Reddy?
+--------------------------------------------------
+Member of the Public:
+Start: 00:16:20.720
+End: 00:16:21.720
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:21.720
+End: 00:16:22.720
+Duration: 1.000 seconds
+Text: Commissioner Butler?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:16:22.720
+End: 00:16:23.720
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:23.720
+End: 00:16:24.720
+Duration: 1.000 seconds
+Text: Commissioner Mata?
+--------------------------------------------------
+City Clerk:
+Start: 00:16:24.720
+End: 00:16:25.720
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:25.720
+End: 00:16:28.720
+Duration: 3.000 seconds
+Text: Motion carries, five to zero.
+--------------------------------------------------
+Member of the Public:
+Start: 00:16:28.720
+End: 00:16:30.720
+Duration: 2.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:16:30.720
+End: 00:16:35.560
+Duration: 4.840 seconds
+Text: And of course next, this is not going to be a, could not be a long meeting.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:16:35.560
+End: 00:16:40.400
+Duration: 4.840 seconds
+Text: It may be a long meeting, but the next item is the general agenda.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:16:40.400
+End: 00:16:52.720
+Duration: 12.320 seconds
+Text: And the, will be, Reena Neal, the city finance director is here to talk.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:16:52.720
+End: 00:17:03.320
+Duration: 10.600 seconds
+Text: We will be considering a resolution number 070522-A-Intent to exceed the revenue neutral rate.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:17:03.320
+End: 00:17:08.960
+Duration: 5.640 seconds
+Text: So Reena, take it away.
+--------------------------------------------------
+City Manager:
+Start: 00:17:08.960
+End: 00:17:15.960
+Duration: 7.000 seconds
+Text: One second, Mayor, just trying to see what's going on with the sharing.
+--------------------------------------------------
+Member of the Public:
+Start: 00:17:38.960
+End: 00:17:45.960
+Duration: 7.000 seconds
+Text: Okay.
+--------------------------------------------------
+Member of the Public:
+Start: 00:17:45.960
+End: 00:17:55.960
+Duration: 10.000 seconds
+Text: Thank you, Kylie.
+--------------------------------------------------
+City Manager:
+Start: 00:17:55.960
+End: 00:17:56.960
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Manager:
+Start: 00:17:56.960
+End: 00:18:04.680
+Duration: 7.720 seconds
+Text: Good evening, Mayor and commissioners.
+--------------------------------------------------
+City Manager:
+Start: 00:18:04.680
+End: 00:18:08.800
+Duration: 4.120 seconds
+Text: Tonight we will discuss the revenue neutral rate.
+--------------------------------------------------
+City Manager:
+Start: 00:18:08.800
+End: 00:18:14.720
+Duration: 5.920 seconds
+Text: So after the city has received preliminary evaluation information from the county and
+--------------------------------------------------
+City Manager:
+Start: 00:18:14.720
+End: 00:18:19.160
+Duration: 4.440 seconds
+Text: the budgets from Raleigh County Police Department in the Manhattan Public Library, we compile
+--------------------------------------------------
+City Manager:
+Start: 00:18:19.160
+End: 00:18:24.800
+Duration: 5.640 seconds
+Text: evaluation analysis, which we've shown a couple of times already this budget season.
+--------------------------------------------------
+City Manager:
+Start: 00:18:24.800
+End: 00:18:28.720
+Duration: 3.920 seconds
+Text: Um, highlighting the mill levies needed to fulfill the budget request.
+--------------------------------------------------
+City Manager:
+Start: 00:18:28.720
+End: 00:18:32.680
+Duration: 3.960 seconds
+Text: This is based on whether the city intends to capture full growth or not.
+--------------------------------------------------
+City Manager:
+Start: 00:18:32.680
+End: 00:18:37.600
+Duration: 4.920 seconds
+Text: Tonight we will present information on that revenue neutral rate and, um, proposed tax
+--------------------------------------------------
+City Manager:
+Start: 00:18:37.600
+End: 00:18:42.440
+Duration: 4.840 seconds
+Text: rate for 2023.
+--------------------------------------------------
+City Manager:
+Start: 00:18:42.440
+End: 00:18:47.480
+Duration: 5.040 seconds
+Text: By July 19th of each year, the city is required to notify both county clerks of its intent
+--------------------------------------------------
+City Manager:
+Start: 00:18:47.480
+End: 00:18:49.160
+Duration: 1.680 seconds
+Text: to be revenue neutral.
+--------------------------------------------------
+City Manager:
+Start: 00:18:49.160
+End: 00:18:52.760
+Duration: 3.600 seconds
+Text: Revenue neutral is the finance collecting the same amount of property taxes as the prior
+--------------------------------------------------
+City Manager:
+Start: 00:18:52.760
+End: 00:18:56.640
+Duration: 3.880 seconds
+Text: year using the current year's total assessed valuation.
+--------------------------------------------------
+City Manager:
+Start: 00:18:56.640
+End: 00:19:00.920
+Duration: 4.280 seconds
+Text: The revenue neutral rate can be impacted by evaluation growth or an increase in the
+--------------------------------------------------
+City Manager:
+Start: 00:19:00.920
+End: 00:19:01.920
+Duration: 1.000 seconds
+Text: mill levie.
+--------------------------------------------------
+City Manager:
+Start: 00:19:01.920
+End: 00:19:06.320
+Duration: 4.400 seconds
+Text: If there are increases to either of these two factors, the community is no longer revenue
+--------------------------------------------------
+City Manager:
+Start: 00:19:06.320
+End: 00:19:07.320
+Duration: 1.000 seconds
+Text: neutral.
+--------------------------------------------------
+City Manager:
+Start: 00:19:07.320
+End: 00:19:13.240
+Duration: 5.920 seconds
+Text: And so listed on the screen is just that definition as well as what could potentially increase
+--------------------------------------------------
+City Manager:
+Start: 00:19:13.240
+End: 00:19:19.880
+Duration: 6.640 seconds
+Text: the valuation or the mill levie impacting that revenue neutral rate.
+--------------------------------------------------
+City Manager:
+Start: 00:19:19.880
+End: 00:19:24.960
+Duration: 5.080 seconds
+Text: This calculation was shown a couple of work sessions ago as well.
+--------------------------------------------------
+City Manager:
+Start: 00:19:24.960
+End: 00:19:31.880
+Duration: 6.920 seconds
+Text: So the taxes levied in 2021 was $32,000,000, $46,282.
+--------------------------------------------------
+City Manager:
+Start: 00:19:31.880
+End: 00:19:37.640
+Duration: 5.760 seconds
+Text: And our estimated valuation for both rally and pot of autumn and county is over $633.9
+--------------------------------------------------
+City Manager:
+Start: 00:19:37.640
+End: 00:19:38.640
+Duration: 1.000 seconds
+Text: million.
+--------------------------------------------------
+City Manager:
+Start: 00:19:38.640
+End: 00:19:43.760
+Duration: 5.120 seconds
+Text: Rally County has provided the revenue neutral rate of 50.548 mills.
+--------------------------------------------------
+City Manager:
+Start: 00:19:43.760
+End: 00:19:53.600
+Duration: 9.840 seconds
+Text: And if we compare that to our current mill levie for 2022, that is 52.143 mills.
+--------------------------------------------------
+City Manager:
+Start: 00:19:53.600
+End: 00:20:00.520
+Duration: 6.920 seconds
+Text: So that valuation is based on an increase of 5.9% in order to capture that growth and
+--------------------------------------------------
+City Manager:
+Start: 00:20:00.520
+End: 00:20:06.360
+Duration: 5.840 seconds
+Text: valuation, the city anticipates it will not be revenue neutral in 2023.
+--------------------------------------------------
+City Manager:
+Start: 00:20:06.360
+End: 00:20:12.680
+Duration: 6.320 seconds
+Text: This is due to the mill levie increasing with RCPD as well as the proposed decrease for
+--------------------------------------------------
+City Manager:
+Start: 00:20:12.680
+End: 00:20:15.560
+Duration: 2.880 seconds
+Text: the library and the city operations.
+--------------------------------------------------
+City Manager:
+Start: 00:20:15.560
+End: 00:20:21.240
+Duration: 5.680 seconds
+Text: We do have a slight increase in one of the funds for mill levie impact.
+--------------------------------------------------
+City Manager:
+Start: 00:20:21.240
+End: 00:20:23.160
+Duration: 1.920 seconds
+Text: And that is for our fire equipment reserve fund.
+--------------------------------------------------
+City Manager:
+Start: 00:20:23.160
+End: 00:20:32.280
+Duration: 9.120 seconds
+Text: And that is to make sure that we meet all of their budget requests for 2023.
+--------------------------------------------------
+City Manager:
+Start: 00:20:32.280
+End: 00:20:39.200
+Duration: 6.920 seconds
+Text: This slide is just a representation of our 2022 mill levie for our outside city services
+--------------------------------------------------
+City Manager:
+Start: 00:20:39.200
+End: 00:20:45.000
+Duration: 5.800 seconds
+Text: and our city services compared to two different options that we will be presenting in terms
+--------------------------------------------------
+City Manager:
+Start: 00:20:45.000
+End: 00:20:48.720
+Duration: 3.720 seconds
+Text: of the valuation analysis as well as the resolutions.
+--------------------------------------------------
+City Manager:
+Start: 00:20:48.760
+End: 00:20:53.960
+Duration: 5.200 seconds
+Text: The first option is the flat mill levie and then the second option is the capture of
+--------------------------------------------------
+City Manager:
+Start: 00:20:53.960
+End: 00:20:55.440
+Duration: 1.480 seconds
+Text: the full growth.
+--------------------------------------------------
+City Manager:
+Start: 00:20:55.440
+End: 00:21:02.520
+Duration: 7.080 seconds
+Text: And so 52.143 mills is our mill levie for 2022 based on the request for RCPD as well
+--------------------------------------------------
+City Manager:
+Start: 00:21:02.520
+End: 00:21:08.520
+Duration: 6.000 seconds
+Text: as the library and then again to meet the needs of those city services, then those are the
+--------------------------------------------------
+City Manager:
+Start: 00:21:08.520
+End: 00:21:10.440
+Duration: 1.920 seconds
+Text: reflected mill levies.
+--------------------------------------------------
+City Manager:
+Start: 00:21:10.440
+End: 00:21:15.200
+Duration: 4.760 seconds
+Text: And that is a zero mill increase for that first mill levie option.
+--------------------------------------------------
+City Manager:
+Start: 00:21:15.200
+End: 00:21:19.920
+Duration: 4.720 seconds
+Text: And then for the second mill levie option to capture the full growth and all the property
+--------------------------------------------------
+City Manager:
+Start: 00:21:19.920
+End: 00:21:29.480
+Duration: 9.560 seconds
+Text: taxes, that mill levie impact is 53.004 mills for an increase of 0.861 mills.
+--------------------------------------------------
+City Manager:
+Start: 00:21:29.480
+End: 00:21:35.520
+Duration: 6.040 seconds
+Text: The mill levie impact is captured primarily in the outside city services with a slight increase
+--------------------------------------------------
+City Manager:
+Start: 00:21:35.520
+End: 00:21:40.000
+Duration: 4.480 seconds
+Text: in those down at the bottom for the city services.
+--------------------------------------------------
+City Manager:
+Start: 00:21:40.000
+End: 00:21:48.720
+Duration: 8.720 seconds
+Text: So compared to 2022 here are the mill levies, the option one impact, the option two impact.
+--------------------------------------------------
+City Manager:
+Start: 00:21:54.000
+End: 00:21:58.560
+Duration: 4.560 seconds
+Text: As we continue to discuss the 2023 budget and look for it, we want to highlight the past
+--------------------------------------------------
+City Manager:
+Start: 00:21:58.560
+End: 00:22:04.280
+Duration: 5.720 seconds
+Text: recommendations and those items that continue to be a point of review as we talk to our financial
+--------------------------------------------------
+City Manager:
+Start: 00:22:04.280
+End: 00:22:08.520
+Duration: 4.240 seconds
+Text: advisor bond council as well as our bond rating agency.
+--------------------------------------------------
+City Manager:
+Start: 00:22:08.520
+End: 00:22:14.320
+Duration: 5.800 seconds
+Text: The city's mill levie fluctuates each year to offset any increases for the police department
+--------------------------------------------------
+City Manager:
+Start: 00:22:14.320
+End: 00:22:15.560
+Duration: 1.240 seconds
+Text: in the library.
+--------------------------------------------------
+City Manager:
+Start: 00:22:15.560
+End: 00:22:21.720
+Duration: 6.160 seconds
+Text: We rely heavily upon consumer and user based revenues which are inconsistent, unreliable
+--------------------------------------------------
+City Manager:
+Start: 00:22:21.720
+End: 00:22:23.200
+Duration: 1.480 seconds
+Text: and non-sustainable.
+--------------------------------------------------
+City Manager:
+Start: 00:22:23.200
+End: 00:22:27.440
+Duration: 4.240 seconds
+Text: Property taxes are the most reliable and consistent revenue source to provide city services.
+--------------------------------------------------
+City Manager:
+Start: 00:22:27.440
+End: 00:22:32.080
+Duration: 4.640 seconds
+Text: And those are what are compared to our sister cities when we are issuing debt.
+--------------------------------------------------
+City Manager:
+Start: 00:22:35.280
+End: 00:22:41.760
+Duration: 6.480 seconds
+Text: When the revenues are not met the city has to reduce, has had to reduce our levels of service
+--------------------------------------------------
+City Manager:
+Start: 00:22:41.760
+End: 00:22:44.520
+Duration: 2.760 seconds
+Text: and have had the utilized cash balances.
+--------------------------------------------------
+City Manager:
+Start: 00:22:44.520
+End: 00:22:51.040
+Duration: 6.520 seconds
+Text: We have shown in the previous work sessions our goal and strategy of getting to that GFOA
+--------------------------------------------------
+City Manager:
+Start: 00:22:51.040
+End: 00:22:56.040
+Duration: 5.000 seconds
+Text: recommended cash balance of $10 million within the general fund.
+--------------------------------------------------
+City Manager:
+Start: 00:22:56.040
+End: 00:23:01.080
+Duration: 5.040 seconds
+Text: We're currently at $8.5 million and we continue to strive to meet that goal.
+--------------------------------------------------
+City Manager:
+Start: 00:23:01.080
+End: 00:23:06.640
+Duration: 5.560 seconds
+Text: But that is another target that our bond council, our bond rating agency and our financial
+--------------------------------------------------
+City Manager:
+Start: 00:23:06.640
+End: 00:23:13.160
+Duration: 6.520 seconds
+Text: advisor looks at when we are budgeting and operating.
+--------------------------------------------------
+City Manager:
+Start: 00:23:13.160
+End: 00:23:18.320
+Duration: 5.160 seconds
+Text: Without an increase in reliable sources of revenue, we will continue to develop the 2023
+--------------------------------------------------
+City Manager:
+Start: 00:23:18.320
+End: 00:23:23.880
+Duration: 5.560 seconds
+Text: budget based on what we have done in the past with the potential to reduce services, scale
+--------------------------------------------------
+City Manager:
+Start: 00:23:23.880
+End: 00:23:30.240
+Duration: 6.360 seconds
+Text: back, postpone or possibly eliminate some operations or services.
+--------------------------------------------------
+City Manager:
+Start: 00:23:30.240
+End: 00:23:35.440
+Duration: 5.200 seconds
+Text: We are recommending a long time approach to fund city operations as this annual approach
+--------------------------------------------------
+City Manager:
+Start: 00:23:35.440
+End: 00:23:38.600
+Duration: 3.160 seconds
+Text: results in trends and practices that are not sustainable.
+--------------------------------------------------
+City Manager:
+Start: 00:23:38.600
+End: 00:23:43.160
+Duration: 4.560 seconds
+Text: We have already presented information on our strategies for a vehicle and equipment replacement
+--------------------------------------------------
+City Manager:
+Start: 00:23:43.160
+End: 00:23:46.040
+Duration: 2.880 seconds
+Text: fund as well as an IT fund.
+--------------------------------------------------
+City Manager:
+Start: 00:23:46.040
+End: 00:23:51.480
+Duration: 5.440 seconds
+Text: We also have prepared a true CIP program for 2023 to 2027.
+--------------------------------------------------
+City Manager:
+Start: 00:23:51.480
+End: 00:23:54.640
+Duration: 3.160 seconds
+Text: We are developing a bond and interest fund strategy as well.
+--------------------------------------------------
+City Manager:
+Start: 00:23:54.640
+End: 00:23:59.600
+Duration: 4.960 seconds
+Text: And these are all recommended practices from GFOA as well as our bond council and our bond
+--------------------------------------------------
+City Manager:
+Start: 00:23:59.600
+End: 00:24:02.120
+Duration: 2.520 seconds
+Text: rating agency and financial advisor.
+--------------------------------------------------
+City Manager:
+Start: 00:24:02.120
+End: 00:24:08.240
+Duration: 6.120 seconds
+Text: As we continue to own in our costs to operate and provide services, we must focus on reliable
+--------------------------------------------------
+City Manager:
+Start: 00:24:08.240
+End: 00:24:10.480
+Duration: 2.240 seconds
+Text: revenue sources to match these expenses.
+--------------------------------------------------
+City Manager:
+Start: 00:24:10.480
+End: 00:24:14.000
+Duration: 3.520 seconds
+Text: And again, property taxes are that reliable revenue source.
+--------------------------------------------------
+City Manager:
+Start: 00:24:14.000
+End: 00:24:20.840
+Duration: 6.840 seconds
+Text: That is what our outside experts have provided as that guide in that basis when comparing
+--------------------------------------------------
+City Manager:
+Start: 00:24:20.840
+End: 00:24:23.400
+Duration: 2.560 seconds
+Text: other municipalities.
+--------------------------------------------------
+City Manager:
+Start: 00:24:23.400
+End: 00:24:29.360
+Duration: 5.960 seconds
+Text: Included in your packet are two valuation analysis options and two resolutions for consideration
+--------------------------------------------------
+City Manager:
+Start: 00:24:29.360
+End: 00:24:30.640
+Duration: 1.280 seconds
+Text: tonight.
+--------------------------------------------------
+City Manager:
+Start: 00:24:30.640
+End: 00:24:36.840
+Duration: 6.200 seconds
+Text: If we look at the valuation analysis for the first option, we intended to capture 1.838
+--------------------------------------------------
+City Manager:
+Start: 00:24:36.840
+End: 00:24:42.120
+Duration: 5.280 seconds
+Text: million or 77% of the growth in property taxes are that 2.382 million.
+--------------------------------------------------
+City Manager:
+Start: 00:24:42.120
+End: 00:24:51.520
+Duration: 9.400 seconds
+Text: So I'm going to share the valuation notices as well that we have provided in the packet
+--------------------------------------------------
+City Manager:
+Start: 00:24:51.520
+End: 00:24:56.400
+Duration: 4.880 seconds
+Text: for you to review as I continue the presentation.
+--------------------------------------------------
+City Manager:
+Start: 00:24:56.400
+End: 00:25:03.160
+Duration: 6.760 seconds
+Text: So this is the first valuation compared to that flat millivie impact.
+--------------------------------------------------
+City Manager:
+Start: 00:25:03.160
+End: 00:25:13.360
+Duration: 10.200 seconds
+Text: And so capturing that 1.838 million or 77% of the total growth, which is 2.32, 2.382
+--------------------------------------------------
+City Manager:
+Start: 00:25:13.360
+End: 00:25:14.440
+Duration: 1.080 seconds
+Text: million.
+--------------------------------------------------
+City Manager:
+Start: 00:25:14.440
+End: 00:25:20.040
+Duration: 5.600 seconds
+Text: Most of this capture will go to meet the additional request for RCPD and the library for
+--------------------------------------------------
+City Manager:
+Start: 00:25:20.040
+End: 00:25:22.800
+Duration: 2.760 seconds
+Text: a total of 1.745 million.
+--------------------------------------------------
+City Manager:
+Start: 00:25:22.800
+End: 00:25:26.960
+Duration: 4.160 seconds
+Text: And remaining 92,000 will go towards city services.
+--------------------------------------------------
+City Manager:
+Start: 00:25:26.960
+End: 00:25:32.880
+Duration: 5.920 seconds
+Text: In this option, the millivie will remain flat at 52.143 mills with the city and library
+--------------------------------------------------
+City Manager:
+Start: 00:25:32.880
+End: 00:25:34.960
+Duration: 2.080 seconds
+Text: absorbing the increase for RCPD.
+--------------------------------------------------
+City Manager:
+Start: 00:25:34.960
+End: 00:25:38.520
+Duration: 3.560 seconds
+Text: And you can see the differences off to the right.
+--------------------------------------------------
+City Manager:
+Start: 00:25:38.520
+End: 00:25:42.520
+Duration: 4.000 seconds
+Text: For this option, the resolution highlights that we intend to exceed the revenue nature
+--------------------------------------------------
+City Manager:
+Start: 00:25:42.520
+End: 00:25:47.880
+Duration: 5.360 seconds
+Text: rate and that we will set the public hearing on September 6th at 6pm.
+--------------------------------------------------
+City Manager:
+Start: 00:25:47.880
+End: 00:25:52.600
+Duration: 4.720 seconds
+Text: If this option is approved, this resolution will be provided to both county clerks following
+--------------------------------------------------
+City Manager:
+Start: 00:25:52.600
+End: 00:25:54.000
+Duration: 1.400 seconds
+Text: this meeting.
+--------------------------------------------------
+City Manager:
+Start: 00:25:54.000
+End: 00:25:56.000
+Duration: 2.000 seconds
+Text: We do have a second option as well.
+--------------------------------------------------
+Member of the Public:
+Start: 00:25:56.000
+End: 00:26:03.000
+Duration: 7.000 seconds
+Text: Let me do a new share.
+--------------------------------------------------
+City Manager:
+Start: 00:26:03.000
+End: 00:26:21.360
+Duration: 18.360 seconds
+Text: The second option.
+--------------------------------------------------
+City Manager:
+Start: 00:26:21.360
+End: 00:26:26.440
+Duration: 5.080 seconds
+Text: And this is fully capturing the growth.
+--------------------------------------------------
+City Manager:
+Start: 00:26:26.440
+End: 00:26:32.760
+Duration: 6.320 seconds
+Text: If we look at this analysis, we intend to fully capture the 2.382 million dollars.
+--------------------------------------------------
+City Manager:
+Start: 00:26:32.760
+End: 00:26:39.680
+Duration: 6.920 seconds
+Text: And property tax increase, RCPD and the library will still receive that 1.745 million dollars
+--------------------------------------------------
+City Manager:
+Start: 00:26:39.680
+End: 00:26:46.600
+Duration: 6.920 seconds
+Text: or 73% of the growth remaining 637,000 will go towards city services to fully capture
+--------------------------------------------------
+City Manager:
+Start: 00:26:46.600
+End: 00:26:47.600
+Duration: 1.000 seconds
+Text: the growth in this option.
+--------------------------------------------------
+City Manager:
+Start: 00:26:47.600
+End: 00:26:54.480
+Duration: 6.880 seconds
+Text: The millivie will increase by 0.861 mills to 53.004 mills.
+--------------------------------------------------
+City Manager:
+Start: 00:26:54.480
+End: 00:26:58.080
+Duration: 3.600 seconds
+Text: For this option, the resolution highlights that we intend to exceed the revenue nature
+--------------------------------------------------
+City Manager:
+Start: 00:26:58.080
+End: 00:27:02.480
+Duration: 4.400 seconds
+Text: rate and will set the public hearing on September 6th at 6pm.
+--------------------------------------------------
+City Manager:
+Start: 00:27:02.480
+End: 00:27:07.040
+Duration: 4.560 seconds
+Text: And if this is approved, then this resolution will be a prior to both, provided to both
+--------------------------------------------------
+City Manager:
+Start: 00:27:07.040
+End: 00:27:09.520
+Duration: 2.480 seconds
+Text: county clerks following this meeting.
+--------------------------------------------------
+City Manager:
+Start: 00:27:09.520
+End: 00:27:17.200
+Duration: 7.680 seconds
+Text: So in this option, there's the 2022 millivies compared to the forecast of 2023 millivies.
+--------------------------------------------------
+City Manager:
+Start: 00:27:17.200
+End: 00:27:22.240
+Duration: 5.040 seconds
+Text: The difference, the majority of that millivie increase goes to RCPD.
+--------------------------------------------------
+City Manager:
+Start: 00:27:22.240
+End: 00:27:26.880
+Duration: 4.640 seconds
+Text: And then there's a decrease in the millivies for library and library employee benefit fund.
+--------------------------------------------------
+City Manager:
+Start: 00:27:26.880
+End: 00:27:36.400
+Duration: 9.520 seconds
+Text: And then the differences over off to the right for the city services are also included.
+--------------------------------------------------
+Member of the Public:
+Start: 00:27:36.400
+End: 00:27:54.960
+Duration: 18.560 seconds
+Text: I'm going to reshare the PowerPoint.
+--------------------------------------------------
+City Manager:
+Start: 00:27:54.960
+End: 00:27:59.840
+Duration: 4.880 seconds
+Text: So I just went over option one and option two of those resolutions in their respective
+--------------------------------------------------
+City Manager:
+Start: 00:27:59.840
+End: 00:28:01.960
+Duration: 2.120 seconds
+Text: evaluation analysis.
+--------------------------------------------------
+City Manager:
+Start: 00:28:01.960
+End: 00:28:08.000
+Duration: 6.040 seconds
+Text: Our next steps, we are to for the resolution, whichever one is decided of those two options
+--------------------------------------------------
+City Manager:
+Start: 00:28:08.000
+End: 00:28:12.760
+Duration: 4.760 seconds
+Text: to the county clerks, on or before July 19th of the intent to exceed the revenue neutral
+--------------------------------------------------
+City Manager:
+Start: 00:28:12.760
+End: 00:28:14.520
+Duration: 1.760 seconds
+Text: rate.
+--------------------------------------------------
+City Manager:
+Start: 00:28:14.520
+End: 00:28:20.800
+Duration: 6.280 seconds
+Text: July 12th, we have a work session with our Chamber and the CVV and additional budget discussion.
+--------------------------------------------------
+City Manager:
+Start: 00:28:20.800
+End: 00:28:26.320
+Duration: 5.520 seconds
+Text: August 9th, the work session, we will come before you with our enterprise funds and utilities
+--------------------------------------------------
+City Manager:
+Start: 00:28:26.320
+End: 00:28:28.520
+Duration: 2.200 seconds
+Text: rates budget discussion.
+--------------------------------------------------
+City Manager:
+Start: 00:28:28.520
+End: 00:28:34.600
+Duration: 6.080 seconds
+Text: August 25th, we need to publish the notice of tax rate public hearing in the 2023 city
+--------------------------------------------------
+City Manager:
+Start: 00:28:34.600
+End: 00:28:36.800
+Duration: 2.200 seconds
+Text: budget public hearing.
+--------------------------------------------------
+City Manager:
+Start: 00:28:36.800
+End: 00:28:42.480
+Duration: 5.680 seconds
+Text: The county will provide a more detailed notice to property owners in that timeframe.
+--------------------------------------------------
+City Manager:
+Start: 00:28:42.480
+End: 00:28:46.480
+Duration: 4.000 seconds
+Text: And September 6th, we will hold those two public hearings.
+--------------------------------------------------
+City Manager:
+Start: 00:28:46.480
+End: 00:28:50.480
+Duration: 4.000 seconds
+Text: September 20th, we'll have second reading of the ordinances related to those two public
+--------------------------------------------------
+City Manager:
+Start: 00:28:50.480
+End: 00:28:53.280
+Duration: 2.800 seconds
+Text: hearings and those ordinances.
+--------------------------------------------------
+City Manager:
+Start: 00:28:53.280
+End: 00:28:59.560
+Duration: 6.280 seconds
+Text: And then on October 1st, we will publish the 2023 tax rate, 2023 city budget ordinance
+--------------------------------------------------
+City Manager:
+Start: 00:28:59.560
+End: 00:29:01.920
+Duration: 2.360 seconds
+Text: and certified to the county clerks.
+--------------------------------------------------
+City Manager:
+Start: 00:29:01.920
+End: 00:29:09.480
+Duration: 7.560 seconds
+Text: It's important to note that the information provided tonight is just a maximum of to
+--------------------------------------------------
+City Manager:
+Start: 00:29:09.480
+End: 00:29:14.280
+Duration: 4.800 seconds
+Text: publish in the newspaper as well as to the public.
+--------------------------------------------------
+City Manager:
+Start: 00:29:14.280
+End: 00:29:20.000
+Duration: 5.720 seconds
+Text: There will be other opportunities to sketch the tax rate in September as well as the tax
+--------------------------------------------------
+City Manager:
+Start: 00:29:20.000
+End: 00:29:27.000
+Duration: 7.000 seconds
+Text: rate could potentially change in the fall after all of the valuation information is finalized.
+--------------------------------------------------
+City Manager:
+Start: 00:29:27.000
+End: 00:29:33.840
+Duration: 6.840 seconds
+Text: Again, September 6th is the important date to notice public hearing on the tax rate.
+--------------------------------------------------
+City Manager:
+Start: 00:29:33.840
+End: 00:29:41.320
+Duration: 7.480 seconds
+Text: Mill-Evy can't increase from the published rate so whatever we publish that is our final
+--------------------------------------------------
+City Manager:
+Start: 00:29:41.320
+End: 00:29:43.440
+Duration: 2.120 seconds
+Text: but it can be reduced.
+--------------------------------------------------
+City Manager:
+Start: 00:29:43.440
+End: 00:29:49.280
+Duration: 5.840 seconds
+Text: And then on the public hearing side for the 2023 budget, that budget can't increase from
+--------------------------------------------------
+City Manager:
+Start: 00:29:49.280
+End: 00:29:52.160
+Duration: 2.880 seconds
+Text: the published amount but it can decrease.
+--------------------------------------------------
+City Manager:
+Start: 00:29:52.160
+End: 00:29:56.720
+Duration: 4.560 seconds
+Text: So those are our max thresholds for the tax rate in the budget.
+--------------------------------------------------
+City Manager:
+Start: 00:29:56.720
+End: 00:30:02.520
+Duration: 5.800 seconds
+Text: They can decrease but they cannot increase.
+--------------------------------------------------
+City Manager:
+Start: 00:30:02.520
+End: 00:30:05.680
+Duration: 3.160 seconds
+Text: That concludes my presentation.
+--------------------------------------------------
+City Manager:
+Start: 00:30:05.680
+End: 00:30:07.720
+Duration: 2.040 seconds
+Text: We stand for questions.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:30:07.720
+End: 00:30:10.160
+Duration: 2.440 seconds
+Text: Commissioners, before we start, thank you, Reno.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:30:10.160
+End: 00:30:12.400
+Duration: 2.240 seconds
+Text: I appreciate that.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:30:12.400
+End: 00:30:17.280
+Duration: 4.880 seconds
+Text: From my perspective, we would recommend that you adopt the higher rate at this time.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:30:17.280
+End: 00:30:22.440
+Duration: 5.160 seconds
+Text: So one of the issues regarding the revenue neutral rate has been that it's kind of moved
+--------------------------------------------------
+Mayor Morse:
+Start: 00:30:22.440
+End: 00:30:27.080
+Duration: 4.640 seconds
+Text: forward this day to publishing even though they moved our, gave us another month to really
+--------------------------------------------------
+Mayor Morse:
+Start: 00:30:27.080
+End: 00:30:33.600
+Duration: 6.520 seconds
+Text: finalize the budget in September which we might realize additional two months of revenue
+--------------------------------------------------
+Mayor Morse:
+Start: 00:30:33.600
+End: 00:30:36.080
+Duration: 2.480 seconds
+Text: before you actually have to pass that budget.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:30:36.080
+End: 00:30:41.960
+Duration: 5.880 seconds
+Text: You know what trends are going into the, at least this year's history.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:30:41.960
+End: 00:30:46.840
+Duration: 4.880 seconds
+Text: One of the things that the legislature required you to do was set that proposed Mill-Evy
+--------------------------------------------------
+Mayor Morse:
+Start: 00:30:46.840
+End: 00:30:51.920
+Duration: 5.080 seconds
+Text: maximum which you would typically do for the public hearing in September later.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:30:51.920
+End: 00:30:54.560
+Duration: 2.640 seconds
+Text: So they didn't really give you another month.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:30:54.560
+End: 00:31:01.200
+Duration: 6.640 seconds
+Text: They give it to you to finalize but basically requiring us to establish what that maximum
+--------------------------------------------------
+Mayor Morse:
+Start: 00:31:01.200
+End: 00:31:05.920
+Duration: 4.720 seconds
+Text: mill-ever-rate would be, which would be something we would typically do after we debated
+--------------------------------------------------
+Mayor Morse:
+Start: 00:31:05.920
+End: 00:31:07.720
+Duration: 1.800 seconds
+Text: the budget for the most part.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:31:07.720
+End: 00:31:10.520
+Duration: 2.800 seconds
+Text: So we have to produce that a little bit earlier.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:31:10.520
+End: 00:31:12.520
+Duration: 2.000 seconds
+Text: So it just gives you the flexibility.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:31:12.520
+End: 00:31:14.400
+Duration: 1.880 seconds
+Text: Again, you can always go down.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:31:14.400
+End: 00:31:24.560
+Duration: 10.160 seconds
+Text: If we had two months of additional declining sales tax, we could certainly talk about what
+--------------------------------------------------
+Mayor Morse:
+Start: 00:31:24.560
+End: 00:31:27.640
+Duration: 3.080 seconds
+Text: additional Mill-Evy support there might be.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:31:27.960
+End: 00:31:33.800
+Duration: 5.840 seconds
+Text: Once you set that maximum rate, you can't go back to property taxes for increasing them
+--------------------------------------------------
+Mayor Morse:
+Start: 00:31:33.800
+End: 00:31:34.800
+Duration: 1.000 seconds
+Text: as a source.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:31:34.800
+End: 00:31:40.480
+Duration: 5.680 seconds
+Text: I would also just point out that historically we haven't issued a delinquency rate in
+--------------------------------------------------
+Mayor Morse:
+Start: 00:31:40.480
+End: 00:31:43.920
+Duration: 3.440 seconds
+Text: the property taxes and either in any of the funds.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:31:43.920
+End: 00:31:47.400
+Duration: 3.480 seconds
+Text: We did have about a 2% delinquency rate in property taxes last year.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:31:47.400
+End: 00:31:53.160
+Duration: 5.760 seconds
+Text: So in addition to all of the dollar amounts that were projected to be funded by the RSCPT,
+--------------------------------------------------
+Mayor Morse:
+Start: 00:31:53.160
+End: 00:31:57.600
+Duration: 4.440 seconds
+Text: we had to send them an additional 180,000 out of our general fund to make them whole.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:31:57.600
+End: 00:32:02.160
+Duration: 4.560 seconds
+Text: Because there wasn't enough property taxes in the Mill-Evy to support them.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:32:02.160
+End: 00:32:08.400
+Duration: 6.240 seconds
+Text: So those situations, that's not something we know about, but it's another reason that
+--------------------------------------------------
+Mayor Morse:
+Start: 00:32:08.400
+End: 00:32:14.200
+Duration: 5.800 seconds
+Text: we would recommend that you could, in the future, have a delinquency rate that helps protect
+--------------------------------------------------
+Mayor Morse:
+Start: 00:32:14.200
+End: 00:32:15.360
+Duration: 1.160 seconds
+Text: some of our coffers.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:32:15.360
+End: 00:32:19.920
+Duration: 4.560 seconds
+Text: So with that, we'd happy to answer any questions you might have.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:32:19.920
+End: 00:32:28.120
+Duration: 8.200 seconds
+Text: So would that mean we could attempt to build the delinquency rate into what the RCPD
+--------------------------------------------------
+Mayor Morse:
+Start: 00:32:28.120
+End: 00:32:29.120
+Duration: 1.000 seconds
+Text: part?
+--------------------------------------------------
+Member of the Public:
+Start: 00:32:29.120
+End: 00:32:30.120
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:32:30.120
+End: 00:32:31.120
+Duration: 1.000 seconds
+Text: So on the...
+--------------------------------------------------
+Mayor Morse:
+Start: 00:32:31.120
+End: 00:32:34.120
+Duration: 3.000 seconds
+Text: Rather than having the city have to...
+--------------------------------------------------
+Mayor Morse:
+Start: 00:32:34.120
+End: 00:32:36.360
+Duration: 2.240 seconds
+Text: I mean, but what happens at the county?
+--------------------------------------------------
+Mayor Morse:
+Start: 00:32:36.360
+End: 00:32:38.360
+Duration: 2.000 seconds
+Text: Does the county have to...
+--------------------------------------------------
+Mayor Morse:
+Start: 00:32:38.360
+End: 00:32:41.000
+Duration: 2.640 seconds
+Text: Does it have a delinquency?
+--------------------------------------------------
+Mayor Morse:
+Start: 00:32:41.000
+End: 00:32:42.000
+Duration: 1.000 seconds
+Text: It doesn't.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:32:42.000
+End: 00:32:43.000
+Duration: 1.000 seconds
+Text: They have the similar ability.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:32:43.000
+End: 00:32:44.000
+Duration: 1.000 seconds
+Text: They have the same rules.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:32:44.000
+End: 00:32:45.000
+Duration: 1.000 seconds
+Text: Does it?
+--------------------------------------------------
+Member of the Public:
+Start: 00:32:45.000
+End: 00:32:46.000
+Duration: 1.000 seconds
+Text: It does.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:32:46.000
+End: 00:32:48.840
+Duration: 2.840 seconds
+Text: I mean, they can also issue a delinquency rate.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:32:48.840
+End: 00:32:54.440
+Duration: 5.600 seconds
+Text: So it was a 2% delinquency, but 20% of whatever their delinquency is.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:32:54.440
+End: 00:33:01.840
+Duration: 7.400 seconds
+Text: So generally, if you've had some experience with delinquencies, it's a good idea to include
+--------------------------------------------------
+Mayor Morse:
+Start: 00:33:01.840
+End: 00:33:02.920
+Duration: 1.080 seconds
+Text: a delinquency rate.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:33:02.920
+End: 00:33:06.720
+Duration: 3.800 seconds
+Text: And you can see it in the second line item there in the past.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:33:06.720
+End: 00:33:11.760
+Duration: 5.040 seconds
+Text: Over some periods of time, we have had that delinquency rate in there so that it does
+--------------------------------------------------
+Mayor Morse:
+Start: 00:33:11.760
+End: 00:33:12.760
+Duration: 1.000 seconds
+Text: account for it.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:33:12.760
+End: 00:33:17.160
+Duration: 4.400 seconds
+Text: Now, if you don't make us absorb that, I mean, that's the other issue.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:33:17.160
+End: 00:33:18.160
+Duration: 1.000 seconds
+Text: We're already absorbing it.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:33:18.160
+End: 00:33:19.160
+Duration: 1.000 seconds
+Text: Plus, if you don't...
+--------------------------------------------------
+Mayor Morse:
+Start: 00:33:19.160
+End: 00:33:21.920
+Duration: 2.760 seconds
+Text: If you have the delinquency, that's a little bit more stomach-in because we don't have
+--------------------------------------------------
+Mayor Morse:
+Start: 00:33:21.920
+End: 00:33:24.560
+Duration: 2.640 seconds
+Text: to worry about there being a potential check...
+--------------------------------------------------
+Mayor Morse:
+Start: 00:33:24.560
+End: 00:33:28.680
+Duration: 4.120 seconds
+Text: Additional check, we have to send them in December to make them whole.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:33:28.680
+End: 00:33:32.440
+Duration: 3.760 seconds
+Text: So that's just something I wanted to point out.
+--------------------------------------------------
+Member of the Public:
+Start: 00:33:32.440
+End: 00:33:33.440
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Member of the Public:
+Start: 00:33:33.440
+End: 00:33:34.440
+Duration: 1.000 seconds
+Text: So that...
+--------------------------------------------------
+Member of the Public:
+Start: 00:33:34.440
+End: 00:33:36.440
+Duration: 2.000 seconds
+Text: There's no delinquency rate figured into that or something.
+--------------------------------------------------
+Member of the Public:
+Start: 00:33:36.440
+End: 00:33:37.440
+Duration: 1.000 seconds
+Text: There's no.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:33:37.440
+End: 00:33:38.440
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Member of the Public:
+Start: 00:33:38.440
+End: 00:33:39.440
+Duration: 1.000 seconds
+Text: That's correct.
+--------------------------------------------------
+Member of the Public:
+Start: 00:33:39.440
+End: 00:33:40.440
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Member of the Public:
+Start: 00:33:40.440
+End: 00:33:41.440
+Duration: 1.000 seconds
+Text: In any of our funds.
+--------------------------------------------------
+Member of the Public:
+Start: 00:33:41.440
+End: 00:33:42.440
+Duration: 1.000 seconds
+Text: Right.
+--------------------------------------------------
+Member of the Public:
+Start: 00:33:42.440
+End: 00:33:46.720
+Duration: 4.280 seconds
+Text: So that line up there where it says 544,040...
+--------------------------------------------------
+Member of the Public:
+Start: 00:33:46.760
+End: 00:33:50.240
+Duration: 3.480 seconds
+Text: That's the difference between the two options on the table tonight, correct?
+--------------------------------------------------
+Member of the Public:
+Start: 00:33:50.240
+End: 00:33:51.240
+Duration: 1.000 seconds
+Text: Correct.
+--------------------------------------------------
+Member of the Public:
+Start: 00:33:51.240
+End: 00:33:52.240
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Member of the Public:
+Start: 00:33:52.240
+End: 00:33:59.960
+Duration: 7.720 seconds
+Text: So sales tax is up 870,000 over budgeted estimates right now.
+--------------------------------------------------
+Member of the Public:
+Start: 00:33:59.960
+End: 00:34:00.960
+Duration: 1.000 seconds
+Text: Is that correct?
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:00.960
+End: 00:34:04.440
+Duration: 3.480 seconds
+Text: I think I got it right here, but I closed it, I think.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:04.440
+End: 00:34:05.440
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:05.440
+End: 00:34:07.120
+Duration: 1.680 seconds
+Text: So there's...
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:07.120
+End: 00:34:12.360
+Duration: 5.240 seconds
+Text: I know that there'll be potentially a higher cost of everything between now and the
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:12.360
+End: 00:34:14.600
+Duration: 2.240 seconds
+Text: end of the year fuel and stuff like that.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:14.600
+End: 00:34:20.280
+Duration: 5.680 seconds
+Text: And I know that this tree cleanup thing has been a much bigger deal than we ever figured
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:20.280
+End: 00:34:23.040
+Duration: 2.760 seconds
+Text: it was going to be.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:23.040
+End: 00:34:24.040
+Duration: 1.000 seconds
+Text: If...
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:24.040
+End: 00:34:28.040
+Duration: 4.000 seconds
+Text: But with inflation running away like it is, that makes sales tax go higher because people
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:28.040
+End: 00:34:32.080
+Duration: 4.040 seconds
+Text: are paying sales tax on higher prices for their stuff.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:32.080
+End: 00:34:34.800
+Duration: 2.720 seconds
+Text: My point is, is that it...
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:34.800
+End: 00:34:35.800
+Duration: 1.000 seconds
+Text: I would hope that we...
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:35.800
+End: 00:34:40.160
+Duration: 4.360 seconds
+Text: Yeah, if we don't even collect any more sales tax and budgeted the rest of the year,
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:40.160
+End: 00:34:41.160
+Duration: 1.000 seconds
+Text: we should still have...
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:41.160
+End: 00:34:43.520
+Duration: 2.360 seconds
+Text: We have $800,000.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:43.560
+End: 00:34:49.480
+Duration: 5.920 seconds
+Text: I would think if we got to come up with $544,000, I think Veren Hendricks has talked
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:49.480
+End: 00:34:54.960
+Duration: 5.480 seconds
+Text: everybody here and I think he could probably come up with $100,000 to $150,000.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:54.960
+End: 00:34:59.960
+Duration: 5.000 seconds
+Text: So now, let's say $150,000, now we're down to $400,000 we got to come up with.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:59.960
+End: 00:35:03.320
+Duration: 3.360 seconds
+Text: Surely there'd be a couple of hundred thousand left to sales tax, so we only need to come
+--------------------------------------------------
+Member of the Public:
+Start: 00:35:03.320
+End: 00:35:05.400
+Duration: 2.080 seconds
+Text: up with $200,000 more.
+--------------------------------------------------
+Member of the Public:
+Start: 00:35:05.400
+End: 00:35:13.480
+Duration: 8.080 seconds
+Text: And I don't know if it just bugs me that all of the ARPA money has sort of gone.
+--------------------------------------------------
+Member of the Public:
+Start: 00:35:13.520
+End: 00:35:18.840
+Duration: 5.320 seconds
+Text: I think we can go into things that we want and need, but I would sure hope that we could
+--------------------------------------------------
+Member of the Public:
+Start: 00:35:18.840
+End: 00:35:24.280
+Duration: 5.440 seconds
+Text: wrestle a hundred thousand bucks back out of one of those either the CIP or one of those
+--------------------------------------------------
+Member of the Public:
+Start: 00:35:24.280
+End: 00:35:31.240
+Duration: 6.960 seconds
+Text: other three or four places that you've stashed the ARPA money in order to help come up with
+--------------------------------------------------
+Member of the Public:
+Start: 00:35:31.240
+End: 00:35:33.840
+Duration: 2.600 seconds
+Text: that extra $544,000.
+--------------------------------------------------
+Member of the Public:
+Start: 00:35:33.840
+End: 00:35:39.480
+Duration: 5.640 seconds
+Text: I just think we could piece together three or four things to make that difference without
+--------------------------------------------------
+Member of the Public:
+Start: 00:35:39.480
+End: 00:35:43.920
+Duration: 4.440 seconds
+Text: it being property tax based.
+--------------------------------------------------
+Member of the Public:
+Start: 00:35:43.920
+End: 00:35:45.760
+Duration: 1.840 seconds
+Text: That's my initial thinking.
+--------------------------------------------------
+Member of the Public:
+Start: 00:35:45.760
+End: 00:35:50.200
+Duration: 4.440 seconds
+Text: Tell me how that is a terrible idea.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:35:50.200
+End: 00:35:51.480
+Duration: 1.280 seconds
+Text: I'll take a stab at that.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:35:51.480
+End: 00:35:53.680
+Duration: 2.200 seconds
+Text: So I don't disagree.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:35:53.680
+End: 00:35:55.600
+Duration: 1.920 seconds
+Text: There are things look good right now.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:35:55.600
+End: 00:35:58.920
+Duration: 3.320 seconds
+Text: For six months, that's April revenue for June.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:35:58.920
+End: 00:36:04.960
+Duration: 6.040 seconds
+Text: So that was kind of before things started to get crazy price wise, just starting from
+--------------------------------------------------
+Mayor Morse:
+Start: 00:36:04.960
+End: 00:36:09.960
+Duration: 5.000 seconds
+Text: some of those higher cost of gas and pay gas was a lot cheaper in April than it is today.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:36:09.960
+End: 00:36:13.320
+Duration: 3.360 seconds
+Text: So will those trends continue?
+--------------------------------------------------
+Mayor Morse:
+Start: 00:36:13.320
+End: 00:36:14.880
+Duration: 1.560 seconds
+Text: We're halfway through the year.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:36:14.880
+End: 00:36:20.840
+Duration: 5.960 seconds
+Text: So we'll have to make that budget decision with two more reports, essentially.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:36:20.840
+End: 00:36:28.800
+Duration: 7.960 seconds
+Text: And whether it continues or not, will folks continue to spend, even cutting off for different
+--------------------------------------------------
+Mayor Morse:
+Start: 00:36:28.800
+End: 00:36:31.160
+Duration: 2.360 seconds
+Text: aspects, it's a crystal ball.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:36:31.160
+End: 00:36:36.200
+Duration: 5.040 seconds
+Text: It's one of those things that make it difficult to estimate on a month to month basis, whether
+--------------------------------------------------
+Mayor Morse:
+Start: 00:36:36.200
+End: 00:36:37.800
+Duration: 1.600 seconds
+Text: we're going to have that revenue or not.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:36:37.800
+End: 00:36:44.160
+Duration: 6.360 seconds
+Text: And so if it doesn't, then we'll either have to cut something or take out a reserve.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:36:44.160
+End: 00:36:46.960
+Duration: 2.800 seconds
+Text: So certainly that's an option.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:36:46.960
+End: 00:36:54.120
+Duration: 7.160 seconds
+Text: I guess you could still make that decision down the road versus not being able to do it
+--------------------------------------------------
+Mayor Morse:
+Start: 00:36:54.120
+End: 00:36:58.040
+Duration: 3.920 seconds
+Text: at all or even add a delinquency.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:36:58.040
+End: 00:37:00.000
+Duration: 1.960 seconds
+Text: You could do anything in between.
+--------------------------------------------------
+Member of the Public:
+Start: 00:37:00.000
+End: 00:37:06.280
+Duration: 6.280 seconds
+Text: Well, you did mention on the radio this morning or before we were off the air maybe that so
+--------------------------------------------------
+Member of the Public:
+Start: 00:37:06.280
+End: 00:37:11.720
+Duration: 5.440 seconds
+Text: far we think we got two more good months of sales tax based on what the state says.
+--------------------------------------------------
+Member of the Public:
+Start: 00:37:11.720
+End: 00:37:18.360
+Duration: 6.640 seconds
+Text: So we're now down to just potentially our part would be, we're now only really four
+--------------------------------------------------
+Member of the Public:
+Start: 00:37:18.360
+End: 00:37:22.480
+Duration: 4.120 seconds
+Text: months that are potentially iffy and it's still four months and it could totally crap
+--------------------------------------------------
+Member of the Public:
+Start: 00:37:22.480
+End: 00:37:23.480
+Duration: 1.000 seconds
+Text: out.
+--------------------------------------------------
+Member of the Public:
+Start: 00:37:23.480
+End: 00:37:26.720
+Duration: 3.240 seconds
+Text: But if the economy crops out in sales tax plummets, then there's no reason we ought to be
+--------------------------------------------------
+Member of the Public:
+Start: 00:37:26.720
+End: 00:37:31.600
+Duration: 4.880 seconds
+Text: raised in property taxes if everybody's already in the tank because inflation is driven
+--------------------------------------------------
+Member of the Public:
+Start: 00:37:31.600
+End: 00:37:36.320
+Duration: 4.720 seconds
+Text: everybody into a recession or whatever the case might be.
+--------------------------------------------------
+Member of the Public:
+Start: 00:37:36.320
+End: 00:37:41.560
+Duration: 5.240 seconds
+Text: So but yeah, I understand that and I might be able to be talked into going with the higher
+--------------------------------------------------
+Member of the Public:
+Start: 00:37:41.560
+End: 00:37:46.360
+Duration: 4.800 seconds
+Text: rate just for another couple of months, but I wouldn't vote for it the higher rate unless
+--------------------------------------------------
+Member of the Public:
+Start: 00:37:46.360
+End: 00:37:49.560
+Duration: 3.200 seconds
+Text: something drastically changes and then like I said earlier, if it's something drastically
+--------------------------------------------------
+Member of the Public:
+Start: 00:37:49.560
+End: 00:37:53.680
+Duration: 4.120 seconds
+Text: changes, we probably don't need to be raised in taxes on everybody who's already in bad
+--------------------------------------------------
+Member of the Public:
+Start: 00:37:53.680
+End: 00:37:54.680
+Duration: 1.000 seconds
+Text: shape.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:54.920
+End: 00:37:59.400
+Duration: 4.480 seconds
+Text: Yes, yeah, I sort of agree, Mark, that you know, I've been looking at sales tax rates.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:59.400
+End: 00:38:01.400
+Duration: 2.000 seconds
+Text: We got six months of them going up.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:01.400
+End: 00:38:06.320
+Duration: 4.920 seconds
+Text: I can't call it a trend if you do statistics until you get the seventh one.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:06.320
+End: 00:38:11.160
+Duration: 4.840 seconds
+Text: When that happens, then you can make some estimates and generally that tends to pan out.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:11.160
+End: 00:38:16.880
+Duration: 5.720 seconds
+Text: But the other thing, if I recall earlier budget meeting, didn't we have two million dollars,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:16.880
+End: 00:38:21.000
+Duration: 4.120 seconds
+Text: 2.3 million and these ARPA funds that hadn't been committed?
+--------------------------------------------------
+City Manager:
+Start: 00:38:21.000
+End: 00:38:22.000
+Duration: 1.000 seconds
+Text: Yes, yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:22.480
+End: 00:38:24.480
+Duration: 2.000 seconds
+Text: Okay, but to me, that's the answer.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:24.480
+End: 00:38:27.960
+Duration: 3.480 seconds
+Text: What, you know, instead of having a community meeting, say, how would you like to spend this
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:27.960
+End: 00:38:28.960
+Duration: 1.000 seconds
+Text: money?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:28.960
+End: 00:38:35.280
+Duration: 6.320 seconds
+Text: It's clear to me that, you know, people want parks and wreck fixed, they want roads fixed,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:35.280
+End: 00:38:37.560
+Duration: 2.280 seconds
+Text: and we want to cover our CPD cost.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:37.560
+End: 00:38:43.320
+Duration: 5.760 seconds
+Text: So why don't we just take a million of that, put it in the RCPD fund that covers delinquency,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:43.320
+End: 00:38:46.200
+Duration: 2.880 seconds
+Text: you can take 300,000 out of there for this year.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:46.200
+End: 00:38:50.080
+Duration: 3.880 seconds
+Text: There's any delinquency you take it out of there and then what's left, you just bleed
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:50.080
+End: 00:38:55.200
+Duration: 5.120 seconds
+Text: it off over the next three or four years so that we don't have to argue about RCPD.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:55.200
+End: 00:39:01.320
+Duration: 6.120 seconds
+Text: Then take the rest of it and split it between the parks and wreck and public works and be
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:01.320
+End: 00:39:02.320
+Duration: 1.000 seconds
+Text: done with it.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:02.320
+End: 00:39:05.720
+Duration: 3.400 seconds
+Text: And then we can have a flat mill lugging and shouldn't be any pain.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:05.720
+End: 00:39:06.920
+Duration: 1.200 seconds
+Text: That's my assessment.
+--------------------------------------------------
+Member of the Public:
+Start: 00:39:06.920
+End: 00:39:07.920
+Duration: 1.000 seconds
+Text: And everybody benefits.
+--------------------------------------------------
+Member of the Public:
+Start: 00:39:07.920
+End: 00:39:11.160
+Duration: 3.240 seconds
+Text: Doesn't that, doesn't it, it has to be COVID?
+--------------------------------------------------
+Member of the Public:
+Start: 00:39:11.160
+End: 00:39:14.760
+Duration: 3.600 seconds
+Text: Isn't there that piece to it?
+--------------------------------------------------
+Mayor Morse:
+Start: 00:39:14.760
+End: 00:39:19.920
+Duration: 5.160 seconds
+Text: The 10 million was for general revenue loss that we took that exemption.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:39:19.920
+End: 00:39:25.800
+Duration: 5.880 seconds
+Text: The remaining 2.6 is supposed to comply with ARPA rules, whether that would apply, we'd
+--------------------------------------------------
+Mayor Morse:
+Start: 00:39:25.800
+End: 00:39:29.000
+Duration: 3.200 seconds
+Text: have to do some research on.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:29.000
+End: 00:39:34.040
+Duration: 5.040 seconds
+Text: But my understanding is, I think Linda pointed this out, but there are more that RCPD didn't
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:34.040
+End: 00:39:35.040
+Duration: 1.000 seconds
+Text: get anything.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:35.040
+End: 00:39:37.000
+Duration: 1.960 seconds
+Text: They didn't get any of this money.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:37.000
+End: 00:39:39.920
+Duration: 2.920 seconds
+Text: And so it seems to me that we should be able to make that case.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:39.920
+End: 00:39:40.920
+Duration: 1.000 seconds
+Text: I mean, that's the challenge.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:40.920
+End: 00:39:44.120
+Duration: 3.200 seconds
+Text: I mean, understand it's got to go against there, but there's got to be a way to make
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:44.120
+End: 00:39:45.120
+Duration: 1.000 seconds
+Text: that case.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:45.120
+End: 00:39:48.120
+Duration: 3.000 seconds
+Text: We had swimming pools closed for almost two years.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:39:48.120
+End: 00:39:51.080
+Duration: 2.960 seconds
+Text: We can make the case of our revenue loss.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:39:51.080
+End: 00:39:54.520
+Duration: 3.440 seconds
+Text: And we gave RCPD their full budget.
+--------------------------------------------------
+Member of the Public:
+Start: 00:39:54.520
+End: 00:39:58.040
+Duration: 3.520 seconds
+Text: I know they didn't lose any revenue.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:58.040
+End: 00:40:00.280
+Duration: 2.240 seconds
+Text: But there's got to be some way to play that.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:40:00.280
+End: 00:40:04.160
+Duration: 3.880 seconds
+Text: I mean, since they got nothing, we had to eat it, I get it.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:40:04.160
+End: 00:40:07.800
+Duration: 3.640 seconds
+Text: So why can't we pay ourselves back?
+--------------------------------------------------
+City Clerk:
+Start: 00:40:07.800
+End: 00:40:08.800
+Duration: 1.000 seconds
+Text: I agree.
+--------------------------------------------------
+City Clerk:
+Start: 00:40:08.800
+End: 00:40:12.920
+Duration: 4.120 seconds
+Text: I think, and I've read through a lot of those rules too, I think we can make this thing
+--------------------------------------------------
+City Clerk:
+Start: 00:40:12.920
+End: 00:40:13.920
+Duration: 1.000 seconds
+Text: work.
+--------------------------------------------------
+City Clerk:
+Start: 00:40:13.920
+End: 00:40:16.000
+Duration: 2.080 seconds
+Text: We may have to be creative in certain ways.
+--------------------------------------------------
+City Clerk:
+Start: 00:40:16.000
+End: 00:40:23.080
+Duration: 7.080 seconds
+Text: But to have a middle-eville increase with having those funds, you know, I just can't vote
+--------------------------------------------------
+City Clerk:
+Start: 00:40:23.080
+End: 00:40:24.080
+Duration: 1.000 seconds
+Text: for that.
+--------------------------------------------------
+City Clerk:
+Start: 00:40:24.080
+End: 00:40:28.680
+Duration: 4.600 seconds
+Text: I think we have plenty of resources to take care of everything this year.
+--------------------------------------------------
+City Clerk:
+Start: 00:40:28.680
+End: 00:40:31.280
+Duration: 2.600 seconds
+Text: And that's the way I'd like to approach it.
+--------------------------------------------------
+Member of the Public:
+Start: 00:40:31.280
+End: 00:40:32.280
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Member of the Public:
+Start: 00:40:32.280
+End: 00:40:36.320
+Duration: 4.040 seconds
+Text: I think if we're, I mean, this is still about just publishing this.
+--------------------------------------------------
+Member of the Public:
+Start: 00:40:36.320
+End: 00:40:38.080
+Duration: 1.760 seconds
+Text: So we're not making any budget decisions.
+--------------------------------------------------
+Member of the Public:
+Start: 00:40:38.080
+End: 00:40:41.760
+Duration: 3.680 seconds
+Text: I think we can still work out how we're going to use the opera funds, the rules.
+--------------------------------------------------
+Member of the Public:
+Start: 00:40:41.760
+End: 00:40:45.920
+Duration: 4.160 seconds
+Text: Because I don't know all the rules myself are on the 2.6 and what that entails.
+--------------------------------------------------
+Member of the Public:
+Start: 00:40:45.920
+End: 00:40:50.320
+Duration: 4.400 seconds
+Text: We discussed, even spreading it out for four or five years with social services.
+--------------------------------------------------
+Member of the Public:
+Start: 00:40:50.320
+End: 00:40:51.960
+Duration: 1.640 seconds
+Text: We talked about our CPD right now.
+--------------------------------------------------
+Member of the Public:
+Start: 00:40:51.960
+End: 00:40:57.840
+Duration: 5.880 seconds
+Text: I don't know all of the requirements for that type of money.
+--------------------------------------------------
+Member of the Public:
+Start: 00:40:57.840
+End: 00:41:01.720
+Duration: 3.880 seconds
+Text: But I do agree with Mark on several of these issues.
+--------------------------------------------------
+Member of the Public:
+Start: 00:41:01.720
+End: 00:41:07.640
+Duration: 5.920 seconds
+Text: I think for publishing, because we're still going to discuss transient guest tax, the Chamber
+--------------------------------------------------
+Member of the Public:
+Start: 00:41:07.640
+End: 00:41:08.640
+Duration: 1.000 seconds
+Text: asks.
+--------------------------------------------------
+Member of the Public:
+Start: 00:41:08.640
+End: 00:41:13.200
+Duration: 4.560 seconds
+Text: And there's a bunch of other ones that she just listed off for the next couple of months.
+--------------------------------------------------
+Member of the Public:
+Start: 00:41:13.200
+End: 00:41:15.320
+Duration: 2.120 seconds
+Text: I think those discussions still need to have.
+--------------------------------------------------
+Member of the Public:
+Start: 00:41:15.320
+End: 00:41:17.560
+Duration: 2.240 seconds
+Text: We need to still have those discussions.
+--------------------------------------------------
+Member of the Public:
+Start: 00:41:17.560
+End: 00:41:24.720
+Duration: 7.160 seconds
+Text: And if sales taxes are going up and we're increasing our sales tax revenue, I would think
+--------------------------------------------------
+Member of the Public:
+Start: 00:41:24.720
+End: 00:41:29.080
+Duration: 4.360 seconds
+Text: the same is true for our transient guest tax revenue.
+--------------------------------------------------
+Member of the Public:
+Start: 00:41:29.080
+End: 00:41:32.920
+Duration: 3.840 seconds
+Text: So I don't know if that's an option to use for any of these.
+--------------------------------------------------
+Member of the Public:
+Start: 00:41:32.920
+End: 00:41:37.520
+Duration: 4.600 seconds
+Text: We've used those funds in the past to see if we could use them for the rec centers, for
+--------------------------------------------------
+Member of the Public:
+Start: 00:41:37.520
+End: 00:41:38.520
+Duration: 1.000 seconds
+Text: example.
+--------------------------------------------------
+Member of the Public:
+Start: 00:41:38.520
+End: 00:41:40.960
+Duration: 2.440 seconds
+Text: If that's where the events are taking place.
+--------------------------------------------------
+Member of the Public:
+Start: 00:41:40.960
+End: 00:41:42.760
+Duration: 1.800 seconds
+Text: I think those are discussions I would like to have.
+--------------------------------------------------
+Member of the Public:
+Start: 00:41:42.760
+End: 00:41:47.000
+Duration: 4.240 seconds
+Text: But tonight we're going to be voting on one of these options and discuss the details
+--------------------------------------------------
+Member of the Public:
+Start: 00:41:47.000
+End: 00:41:49.400
+Duration: 2.400 seconds
+Text: in future meetings is what I'm assuming.
+--------------------------------------------------
+Member of the Public:
+Start: 00:41:49.400
+End: 00:41:50.400
+Duration: 1.000 seconds
+Text: Right?
+--------------------------------------------------
+Mayor Morse:
+Start: 00:41:50.400
+End: 00:41:53.880
+Duration: 3.480 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:41:53.880
+End: 00:41:58.600
+Duration: 4.720 seconds
+Text: I do think I just prefer to be optimistic.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:41:58.600
+End: 00:42:04.720
+Duration: 6.120 seconds
+Text: And today there's an announcement from the state that the sales tax revenue is higher
+--------------------------------------------------
+Mayor Morse:
+Start: 00:42:04.720
+End: 00:42:09.360
+Duration: 4.640 seconds
+Text: than even anticipated and they have.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:42:09.360
+End: 00:42:16.720
+Duration: 7.360 seconds
+Text: And we know that the Internet sales tax or the compensatory use tax is up here and across
+--------------------------------------------------
+Mayor Morse:
+Start: 00:42:16.720
+End: 00:42:19.080
+Duration: 2.360 seconds
+Text: the state.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:42:19.080
+End: 00:42:20.240
+Duration: 1.160 seconds
+Text: We have ARPA money.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:42:20.240
+End: 00:42:26.160
+Duration: 5.920 seconds
+Text: We have growth here and not every Kansas community has the kind of growth.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:42:26.160
+End: 00:42:33.400
+Duration: 7.240 seconds
+Text: And we have to keep that growth going so that we can look forward to the future.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:42:33.400
+End: 00:42:39.200
+Duration: 5.800 seconds
+Text: But the economy overall is improving or the sales taxes wouldn't be going up.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:42:39.200
+End: 00:42:47.760
+Duration: 8.560 seconds
+Text: We know that property taxes assessments are up and inflation is present.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:42:47.760
+End: 00:42:52.520
+Duration: 4.760 seconds
+Text: But who didn't know that we wouldn't have inflation after two years of COVID?
+--------------------------------------------------
+Mayor Morse:
+Start: 00:42:52.520
+End: 00:42:56.800
+Duration: 4.280 seconds
+Text: I mean, I knew that and I'm not an economist.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:42:56.800
+End: 00:43:01.880
+Duration: 5.080 seconds
+Text: We knew that there would be issues.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:43:01.880
+End: 00:43:04.680
+Duration: 2.800 seconds
+Text: We don't want a lot more inflation.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:43:04.680
+End: 00:43:07.280
+Duration: 2.600 seconds
+Text: We don't want a recession.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:43:07.280
+End: 00:43:10.440
+Duration: 3.160 seconds
+Text: But none of us have a crystal ball either.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:43:10.440
+End: 00:43:21.240
+Duration: 10.800 seconds
+Text: And so I'm interested in a little bit more of a gamble and I would prefer the higher publishing
+--------------------------------------------------
+Mayor Morse:
+Start: 00:43:21.240
+End: 00:43:22.520
+Duration: 1.280 seconds
+Text: the higher rate.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:43:22.520
+End: 00:43:26.840
+Duration: 4.320 seconds
+Text: I also, with regard to our CPD, you know, there are communities around the country that are
+--------------------------------------------------
+Mayor Morse:
+Start: 00:43:26.840
+End: 00:43:29.080
+Duration: 2.240 seconds
+Text: cutting police budgets.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:43:29.080
+End: 00:43:32.280
+Duration: 3.200 seconds
+Text: And I don't want to inadvertently cut our police budget.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:43:32.280
+End: 00:43:34.080
+Duration: 1.800 seconds
+Text: I think they do a good job.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:43:34.080
+End: 00:43:39.280
+Duration: 5.200 seconds
+Text: And I don't think they're one of the problem police departments around the country.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:43:39.280
+End: 00:43:44.400
+Duration: 5.120 seconds
+Text: And so I want to continue to, that we have to fund ourselves.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:43:44.400
+End: 00:43:45.400
+Duration: 1.000 seconds
+Text: I agree, Ron.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:43:45.400
+End: 00:43:48.880
+Duration: 3.480 seconds
+Text: I mean, my goodness, we have to keep moving.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:43:48.880
+End: 00:43:57.520
+Duration: 8.640 seconds
+Text: But my, I'm willing to cut an infrastructure project if we have to, for one mill in order
+--------------------------------------------------
+Mayor Morse:
+Start: 00:43:57.520
+End: 00:44:01.680
+Duration: 4.160 seconds
+Text: to do some of these things that need to be done here in the community.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:44:01.680
+End: 00:44:07.120
+Duration: 5.440 seconds
+Text: So we all have different, different opinions on different items.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:44:07.120
+End: 00:44:12.280
+Duration: 5.160 seconds
+Text: And so it's not something we want to do.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:44:12.280
+End: 00:44:13.280
+Duration: 1.000 seconds
+Text: That's for sure.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:44:13.280
+End: 00:44:18.680
+Duration: 5.400 seconds
+Text: But we have to, our city has to survive financially.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:44:18.680
+End: 00:44:26.880
+Duration: 8.200 seconds
+Text: And we've been, I'm really happy, happy that we did the, the, the, we implemented the
+--------------------------------------------------
+Mayor Morse:
+Start: 00:44:26.880
+End: 00:44:32.960
+Duration: 6.080 seconds
+Text: new salary study and that we found a way to fund that incrementally.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:44:32.960
+End: 00:44:40.840
+Duration: 7.880 seconds
+Text: And so those kinds of things after the three years we've been through are important.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:44:40.840
+End: 00:44:43.320
+Duration: 2.480 seconds
+Text: And I want to have confidence.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:44:43.320
+End: 00:44:48.440
+Duration: 5.120 seconds
+Text: I want our employees to have confidence in, in our city.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:44:48.440
+End: 00:44:52.720
+Duration: 4.280 seconds
+Text: And so I would support that also.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:44:52.720
+End: 00:44:58.320
+Duration: 5.600 seconds
+Text: Yeah, I just want to say the reason, you know, I'm still for the flat mill, I've, it's
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:44:58.320
+End: 00:45:01.240
+Duration: 2.920 seconds
+Text: because inflation rates around 8%.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:45:01.240
+End: 00:45:06.120
+Duration: 4.880 seconds
+Text: And this increases, you know, the budget by about seven, which will, which will absorb
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:45:06.120
+End: 00:45:07.480
+Duration: 1.360 seconds
+Text: part of that.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:45:07.480
+End: 00:45:13.760
+Duration: 6.280 seconds
+Text: But if we publish the higher rate, we're, we're basically telling the population out there
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:45:13.760
+End: 00:45:18.600
+Duration: 4.840 seconds
+Text: that our philosophy is to spend more and they keep sending me emails and spend less.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:45:18.600
+End: 00:45:22.480
+Duration: 3.880 seconds
+Text: So I think the only way that, you know, you, you get the budget under control is you send
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:45:22.480
+End: 00:45:27.680
+Duration: 5.200 seconds
+Text: the message right now that the cap is that flat mill levy and no increase.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:45:27.680
+End: 00:45:30.800
+Duration: 3.120 seconds
+Text: Otherwise staff is going to figure out how to keep adding money to it.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:45:30.800
+End: 00:45:33.480
+Duration: 2.680 seconds
+Text: I mean, that's how I see it.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:45:33.480
+End: 00:45:37.880
+Duration: 4.400 seconds
+Text: You know, you got to draw the line now and say, no, quit, quit trying to add stuff to it.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:45:37.880
+End: 00:45:43.160
+Duration: 5.280 seconds
+Text: The limit is a flat mill levy, which is still an increase because it exceeds the revenue
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:45:43.160
+End: 00:45:44.240
+Duration: 1.080 seconds
+Text: neutral rate.
+--------------------------------------------------
+City Clerk:
+Start: 00:45:44.240
+End: 00:45:49.280
+Duration: 5.040 seconds
+Text: Be very, very, very, very, very, very low with that.
+--------------------------------------------------
+City Clerk:
+Start: 00:45:49.280
+End: 00:45:56.400
+Duration: 7.120 seconds
+Text: And with the R, but ones that we have, there's really no reason that we can't cover any contingencies
+--------------------------------------------------
+City Clerk:
+Start: 00:45:56.400
+End: 00:45:58.680
+Duration: 2.280 seconds
+Text: that come up between now and the final publishing.
+--------------------------------------------------
+City Clerk:
+Start: 00:45:58.680
+End: 00:46:02.680
+Duration: 4.000 seconds
+Text: So I'm still for that flat mill levy.
+--------------------------------------------------
+Member of the Public:
+Start: 00:46:02.680
+End: 00:46:09.720
+Duration: 7.040 seconds
+Text: The whole idea of, of staying revenue neutral is completely impossible when our CPD needs
+--------------------------------------------------
+Member of the Public:
+Start: 00:46:09.720
+End: 00:46:10.960
+Duration: 1.240 seconds
+Text: 1.7 million.
+--------------------------------------------------
+Member of the Public:
+Start: 00:46:10.960
+End: 00:46:14.660
+Duration: 3.700 seconds
+Text: If we were going to try to do revenue neutral,
+--------------------------------------------------
+Member of the Public:
+Start: 00:46:14.660
+End: 00:46:17.760
+Duration: 3.100 seconds
+Text: we'd have to cut 1.7 million out of city operations
+--------------------------------------------------
+Member of the Public:
+Start: 00:46:19.060
+End: 00:46:20.220
+Duration: 1.160 seconds
+Text: to make that.
+--------------------------------------------------
+Member of the Public:
+Start: 00:46:20.220
+End: 00:46:22.720
+Duration: 2.500 seconds
+Text: So any, any real discussion that,
+--------------------------------------------------
+Member of the Public:
+Start: 00:46:22.720
+End: 00:46:25.800
+Duration: 3.080 seconds
+Text: saying revenue neutral is a total waste of time,
+--------------------------------------------------
+Member of the Public:
+Start: 00:46:25.800
+End: 00:46:28.940
+Duration: 3.140 seconds
+Text: because there's no way that that can happen, right?
+--------------------------------------------------
+Member of the Public:
+Start: 00:46:28.940
+End: 00:46:30.420
+Duration: 1.480 seconds
+Text: They shake their head up and down.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:46:30.420
+End: 00:46:32.400
+Duration: 1.980 seconds
+Text: Yeah, well, several factors,
+--------------------------------------------------
+Mayor Morse:
+Start: 00:46:32.400
+End: 00:46:34.160
+Duration: 1.760 seconds
+Text: but RCPD is not the only thing.
+--------------------------------------------------
+Member of the Public:
+Start: 00:46:34.160
+End: 00:46:35.120
+Duration: 0.960 seconds
+Text: Well, no, but, but,
+--------------------------------------------------
+Member of the Public:
+Start: 00:46:35.120
+End: 00:46:36.680
+Duration: 1.560 seconds
+Text: there are about to one up 1.7 million,
+--------------------------------------------------
+Member of the Public:
+Start: 00:46:36.680
+End: 00:46:37.840
+Duration: 1.160 seconds
+Text: you can't argue that.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:46:37.840
+End: 00:46:41.440
+Duration: 3.600 seconds
+Text: But even without them, we would have to publish this.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:46:41.440
+End: 00:46:44.960
+Duration: 3.520 seconds
+Text: Because just the assessments at the county,
+--------------------------------------------------
+Mayor Morse:
+Start: 00:46:44.960
+End: 00:46:49.160
+Duration: 4.200 seconds
+Text: our rate is up higher than last year.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:46:49.160
+End: 00:46:53.120
+Duration: 3.960 seconds
+Text: That would require us to publish for the revenue neutral rate.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:46:53.120
+End: 00:46:53.960
+Duration: 0.840 seconds
+Text: Right.
+--------------------------------------------------
+Member of the Public:
+Start: 00:46:56.400
+End: 00:46:58.440
+Duration: 2.040 seconds
+Text: Unless we cut the middle of you like three or something.
+--------------------------------------------------
+Member of the Public:
+Start: 00:46:58.440
+End: 00:46:59.640
+Duration: 1.200 seconds
+Text: Yeah, but, yeah, yeah.
+--------------------------------------------------
+Member of the Public:
+Start: 00:46:59.640
+End: 00:47:03.200
+Duration: 3.560 seconds
+Text: Okay, so this, so that discussion of not going over the
+--------------------------------------------------
+Member of the Public:
+Start: 00:47:03.200
+End: 00:47:06.520
+Duration: 3.320 seconds
+Text: revenue choice, that discussion has been decided
+--------------------------------------------------
+Member of the Public:
+Start: 00:47:06.520
+End: 00:47:09.160
+Duration: 2.640 seconds
+Text: earlier in the evening based on, or weeks ago,
+--------------------------------------------------
+Member of the Public:
+Start: 00:47:09.160
+End: 00:47:10.840
+Duration: 1.680 seconds
+Text: months ago, probably.
+--------------------------------------------------
+Member of the Public:
+Start: 00:47:10.840
+End: 00:47:14.880
+Duration: 4.040 seconds
+Text: So it's just a matter of which one at this point.
+--------------------------------------------------
+Member of the Public:
+Start: 00:47:14.880
+End: 00:47:18.600
+Duration: 3.720 seconds
+Text: So let's see if anybody Gary wants to wait.
+--------------------------------------------------
+Member of the Public:
+Start: 00:47:18.600
+End: 00:47:19.920
+Duration: 1.320 seconds
+Text: That's right.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:47:19.920
+End: 00:47:23.080
+Duration: 3.160 seconds
+Text: Yeah, he's going to say it again,
+--------------------------------------------------
+Mayor Morse:
+Start: 00:47:23.080
+End: 00:47:25.160
+Duration: 2.080 seconds
+Text: but now he's going to say it under the topic
+--------------------------------------------------
+Mayor Morse:
+Start: 00:47:25.160
+End: 00:47:26.880
+Duration: 1.720 seconds
+Text: that it needed to be.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:47:28.880
+End: 00:47:30.360
+Duration: 1.480 seconds
+Text: Yeah, he's got a lot of money.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:47:30.360
+End: 00:47:31.440
+Duration: 1.080 seconds
+Text: Okay, Rhina, thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:47:31.440
+End: 00:47:32.280
+Duration: 0.840 seconds
+Text: I don't know.
+--------------------------------------------------
+Member of the Public:
+Start: 00:47:32.280
+End: 00:47:32.960
+Duration: 0.680 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:47:32.960
+End: 00:47:35.080
+Duration: 2.120 seconds
+Text: Unless you have anyone has questions for me now.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:47:35.080
+End: 00:47:37.840
+Duration: 2.760 seconds
+Text: I just want to be sure the mill levy equals what?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:47:37.840
+End: 00:47:40.080
+Duration: 2.240 seconds
+Text: About $633,000.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:47:40.080
+End: 00:47:41.840
+Duration: 1.760 seconds
+Text: $900 somewhere in there.
+--------------------------------------------------
+Member of the Public:
+Start: 00:47:41.840
+End: 00:47:42.840
+Duration: 1.000 seconds
+Text: Mm-hmm.
+--------------------------------------------------
+Member of the Public:
+Start: 00:47:42.840
+End: 00:47:43.840
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:47:43.840
+End: 00:47:44.840
+Duration: 1.000 seconds
+Text: Yep.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:47:44.840
+End: 00:47:47.680
+Duration: 2.840 seconds
+Text: I want to be sure I had that number right.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:47:47.680
+End: 00:47:48.680
+Duration: 1.000 seconds
+Text: Thanks.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:47:48.680
+End: 00:47:50.800
+Duration: 2.120 seconds
+Text: I guess the only thing I would just say is that,
+--------------------------------------------------
+Mayor Morse:
+Start: 00:47:50.800
+End: 00:47:53.280
+Duration: 2.480 seconds
+Text: and I certainly understand and appreciate everything
+--------------------------------------------------
+Mayor Morse:
+Start: 00:47:53.280
+End: 00:47:55.920
+Duration: 2.640 seconds
+Text: you're saying, but essentially, you know,
+--------------------------------------------------
+Mayor Morse:
+Start: 00:47:55.920
+End: 00:47:58.400
+Duration: 2.480 seconds
+Text: the police department, which I don't disagree,
+--------------------------------------------------
+Mayor Morse:
+Start: 00:47:58.400
+End: 00:48:00.480
+Duration: 2.080 seconds
+Text: we need a strong police department.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:48:00.480
+End: 00:48:01.920
+Duration: 1.440 seconds
+Text: No question about it.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:48:01.920
+End: 00:48:04.440
+Duration: 2.520 seconds
+Text: And if they were part of the city,
+--------------------------------------------------
+Mayor Morse:
+Start: 00:48:04.440
+End: 00:48:08.080
+Duration: 3.640 seconds
+Text: I'd be dealing with those particular issues as well.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:48:08.080
+End: 00:48:12.400
+Duration: 4.320 seconds
+Text: But, you know, we're clearly absorbing
+--------------------------------------------------
+Mayor Morse:
+Start: 00:48:12.400
+End: 00:48:15.640
+Duration: 3.240 seconds
+Text: that entire amount except for $92,000
+--------------------------------------------------
+Mayor Morse:
+Start: 00:48:15.640
+End: 00:48:17.720
+Duration: 2.080 seconds
+Text: if you support that lower level.
+--------------------------------------------------
+Member of the Public:
+Start: 00:48:17.720
+End: 00:48:18.240
+Duration: 0.520 seconds
+Text: So.
+--------------------------------------------------
+City Clerk:
+Start: 00:48:18.240
+End: 00:48:21.120
+Duration: 2.880 seconds
+Text: Well, no, unless we come up like with our defunds
+--------------------------------------------------
+City Clerk:
+Start: 00:48:21.120
+End: 00:48:22.560
+Duration: 1.440 seconds
+Text: or some of the stuff we're talking about,
+--------------------------------------------------
+City Clerk:
+Start: 00:48:22.560
+End: 00:48:24.520
+Duration: 1.960 seconds
+Text: Verne, there's other ways we can attack it
+--------------------------------------------------
+City Clerk:
+Start: 00:48:24.520
+End: 00:48:26.000
+Duration: 1.480 seconds
+Text: and still keep you whole.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:48:26.000
+End: 00:48:27.040
+Duration: 1.040 seconds
+Text: We can for this year.
+--------------------------------------------------
+Member of the Public:
+Start: 00:48:27.040
+End: 00:48:27.880
+Duration: 0.840 seconds
+Text: Yeah.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:48:27.880
+End: 00:48:30.840
+Duration: 2.960 seconds
+Text: But it's, again, it gets back to sustainable approaches
+--------------------------------------------------
+Mayor Morse:
+Start: 00:48:30.840
+End: 00:48:31.800
+Duration: 0.960 seconds
+Text: for the long term.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:48:31.800
+End: 00:48:33.840
+Duration: 2.040 seconds
+Text: We're losing ground in sustainability.
+--------------------------------------------------
+City Clerk:
+Start: 00:48:33.840
+End: 00:48:37.000
+Duration: 3.160 seconds
+Text: If our sales tax comes in, maybe we're gaining ground.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:48:37.000
+End: 00:48:42.800
+Duration: 5.800 seconds
+Text: I mean, we're obviously utilizing some of our cash balances
+--------------------------------------------------
+Mayor Morse:
+Start: 00:48:42.800
+End: 00:48:47.600
+Duration: 4.800 seconds
+Text: to help implement and sustain our payroll increases.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:48:47.600
+End: 00:48:49.440
+Duration: 1.840 seconds
+Text: And we can continue to do that for a while
+--------------------------------------------------
+Mayor Morse:
+Start: 00:48:49.440
+End: 00:48:50.960
+Duration: 1.520 seconds
+Text: until we're back in the same boat.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:48:50.960
+End: 00:48:53.760
+Duration: 2.800 seconds
+Text: So I just want to make that clear.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:48:53.760
+End: 00:48:55.640
+Duration: 1.880 seconds
+Text: It's just keeping an opportunity.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:48:55.640
+End: 00:48:58.000
+Duration: 2.360 seconds
+Text: But I understand what you're saying.
+--------------------------------------------------
+Member of the Public:
+Start: 00:48:58.000
+End: 00:48:58.800
+Duration: 0.800 seconds
+Text: So.
+--------------------------------------------------
+Member of the Public:
+Start: 00:48:58.800
+End: 00:48:59.800
+Duration: 1.000 seconds
+Text: OK.
+--------------------------------------------------
+Member of the Public:
+Start: 00:49:00.400
+End: 00:49:06.640
+Duration: 6.240 seconds
+Text: So based on the lower mill levy proposal,
+--------------------------------------------------
+Member of the Public:
+Start: 00:49:06.640
+End: 00:49:10.760
+Duration: 4.120 seconds
+Text: if things go according to plan, well,
+--------------------------------------------------
+Member of the Public:
+Start: 00:49:10.760
+End: 00:49:14.120
+Duration: 3.360 seconds
+Text: does that still, if everything else stays according
+--------------------------------------------------
+Member of the Public:
+Start: 00:49:14.120
+End: 00:49:18.520
+Duration: 4.400 seconds
+Text: to projections, are you still looking at the $8.5 million cash
+--------------------------------------------------
+Member of the Public:
+Start: 00:49:18.520
+End: 00:49:19.120
+Duration: 0.600 seconds
+Text: balance?
+--------------------------------------------------
+Member of the Public:
+Start: 00:49:21.720
+End: 00:49:25.960
+Duration: 4.240 seconds
+Text: Does the budget for 2023 end up $8.5 million left over
+--------------------------------------------------
+Member of the Public:
+Start: 00:49:25.960
+End: 00:49:29.160
+Duration: 3.200 seconds
+Text: in general cash balance at the end of the year?
+--------------------------------------------------
+City Manager:
+Start: 00:49:29.160
+End: 00:49:31.880
+Duration: 2.720 seconds
+Text: We have not finished a 2023 budget.
+--------------------------------------------------
+City Manager:
+Start: 00:49:31.880
+End: 00:49:34.280
+Duration: 2.400 seconds
+Text: We just got done with the meeting today.
+--------------------------------------------------
+City Manager:
+Start: 00:49:34.280
+End: 00:49:37.200
+Duration: 2.920 seconds
+Text: So we're still working through the 2023 budget.
+--------------------------------------------------
+Member of the Public:
+Start: 00:49:37.200
+End: 00:49:42.080
+Duration: 4.880 seconds
+Text: So that proposal doesn't necessarily keep that at the $8.5 million.
+--------------------------------------------------
+City Manager:
+Start: 00:49:42.080
+End: 00:49:43.240
+Duration: 1.160 seconds
+Text: We correct, sir.
+--------------------------------------------------
+City Manager:
+Start: 00:49:43.240
+End: 00:49:47.560
+Duration: 4.320 seconds
+Text: We continue monthly to review our revenues and our expenses.
+--------------------------------------------------
+City Manager:
+Start: 00:49:47.560
+End: 00:49:51.920
+Duration: 4.360 seconds
+Text: So while our revenues in terms of sales tax may be increasing,
+--------------------------------------------------
+City Manager:
+Start: 00:49:51.920
+End: 00:49:54.600
+Duration: 2.680 seconds
+Text: then you also have to look at our expenses as well.
+--------------------------------------------------
+City Manager:
+Start: 00:49:54.600
+End: 00:49:58.040
+Duration: 3.440 seconds
+Text: And so that's where we have to balance that out
+--------------------------------------------------
+City Manager:
+Start: 00:49:58.040
+End: 00:50:02.960
+Duration: 4.920 seconds
+Text: in terms of that cash balance line.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:50:02.960
+End: 00:50:05.680
+Duration: 2.720 seconds
+Text: So the other thing that happens is in this whole process
+--------------------------------------------------
+Mayor Morse:
+Start: 00:50:05.680
+End: 00:50:10.920
+Duration: 5.240 seconds
+Text: is that the mill levy that we're stipulating here
+--------------------------------------------------
+Mayor Morse:
+Start: 00:50:10.920
+End: 00:50:12.400
+Duration: 1.480 seconds
+Text: is still an estimate.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:50:12.400
+End: 00:50:16.640
+Duration: 4.240 seconds
+Text: The final mill levy doesn't come about till November, October.
+--------------------------------------------------
+City Manager:
+Start: 00:50:16.640
+End: 00:50:18.240
+Duration: 1.600 seconds
+Text: October, November.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:50:18.240
+End: 00:50:22.280
+Duration: 4.040 seconds
+Text: So and that's based on actuals and everything coming in.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:50:22.280
+End: 00:50:25.080
+Duration: 2.800 seconds
+Text: So last year in rena, you can help me with my numbers.
+--------------------------------------------------
+City Manager:
+Start: 00:50:25.080
+End: 00:50:30.560
+Duration: 5.480 seconds
+Text: 53.35 is what we set as our rate.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:50:30.560
+End: 00:50:35.520
+Duration: 4.960 seconds
+Text: When we passed the budget and the mill levy came in at 52.143.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:50:35.520
+End: 00:50:37.160
+Duration: 1.640 seconds
+Text: So we lost a lot of ground.
+--------------------------------------------------
+Member of the Public:
+Start: 00:50:37.160
+End: 00:50:37.640
+Duration: 0.480 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:50:37.640
+End: 00:50:40.880
+Duration: 3.240 seconds
+Text: So again, that's why you have some delinquency accounts.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:50:40.880
+End: 00:50:46.480
+Duration: 5.600 seconds
+Text: Even from an estimate to a final, we lost revenue.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:50:46.480
+End: 00:50:49.880
+Duration: 3.400 seconds
+Text: And so I guess I would just say the least
+--------------------------------------------------
+Mayor Morse:
+Start: 00:50:49.880
+End: 00:50:53.160
+Duration: 3.280 seconds
+Text: that we could do is do something into the delinquency fund
+--------------------------------------------------
+Mayor Morse:
+Start: 00:50:53.160
+End: 00:50:55.680
+Duration: 2.520 seconds
+Text: so that we don't not just lose that value.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:50:55.680
+End: 00:50:58.280
+Duration: 2.600 seconds
+Text: But if we have less property taxes,
+--------------------------------------------------
+Mayor Morse:
+Start: 00:50:58.280
+End: 00:51:01.720
+Duration: 3.440 seconds
+Text: we don't have to make additional cuts and transfers
+--------------------------------------------------
+Mayor Morse:
+Start: 00:51:01.720
+End: 00:51:02.480
+Duration: 0.760 seconds
+Text: to make that happen.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:51:14.160
+End: 00:51:16.040
+Duration: 1.880 seconds
+Text: Thanks for your consideration.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:51:16.040
+End: 00:51:18.000
+Duration: 1.960 seconds
+Text: Thank you for the staff report.
+--------------------------------------------------
+Member of the Public:
+Start: 00:51:18.000
+End: 00:51:18.520
+Duration: 0.520 seconds
+Text: You're welcome.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:51:18.520
+End: 00:51:20.160
+Duration: 1.640 seconds
+Text: That concludes the staff report.
+--------------------------------------------------
+Member of the Public:
+Start: 00:51:20.160
+End: 00:51:20.360
+Duration: 0.200 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:51:20.360
+End: 00:51:20.880
+Duration: 0.520 seconds
+Text: OK.
+--------------------------------------------------
+Member of the Public:
+Start: 00:51:20.880
+End: 00:51:21.880
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+City Clerk:
+Start: 00:51:23.360
+End: 00:51:23.960
+Duration: 0.600 seconds
+Text: Yeah.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:51:23.960
+End: 00:51:31.600
+Duration: 7.640 seconds
+Text: And at this point, we would have an opportunity
+--------------------------------------------------
+Mayor Morse:
+Start: 00:51:31.600
+End: 00:51:34.920
+Duration: 3.320 seconds
+Text: for open public comment on the topic
+--------------------------------------------------
+Mayor Morse:
+Start: 00:51:34.920
+End: 00:51:39.560
+Duration: 4.640 seconds
+Text: of the revenue neutral publication and requirements
+--------------------------------------------------
+Mayor Morse:
+Start: 00:51:39.560
+End: 00:51:42.360
+Duration: 2.800 seconds
+Text: that we have.
+--------------------------------------------------
+Member of the Public:
+Start: 00:51:42.360
+End: 00:51:43.880
+Duration: 1.520 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:51:43.880
+End: 00:51:48.360
+Duration: 4.480 seconds
+Text: I'm going to please stop me if I'm out of line,
+--------------------------------------------------
+Member of the Public:
+Start: 00:51:48.360
+End: 00:51:49.560
+Duration: 1.200 seconds
+Text: as you pointed out earlier.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:51:49.560
+End: 00:51:50.800
+Duration: 1.240 seconds
+Text: You still have five minutes.
+--------------------------------------------------
+Member of the Public:
+Start: 00:51:50.800
+End: 00:51:52.360
+Duration: 1.560 seconds
+Text: I don't want to talk about the revenue news.
+--------------------------------------------------
+Member of the Public:
+Start: 00:51:52.360
+End: 00:51:53.160
+Duration: 0.800 seconds
+Text: Well, wait a minute.
+--------------------------------------------------
+Member of the Public:
+Start: 00:51:53.160
+End: 00:51:54.920
+Duration: 1.760 seconds
+Text: I just want to interrupt for just a second.
+--------------------------------------------------
+Member of the Public:
+Start: 00:51:54.920
+End: 00:51:57.400
+Duration: 2.480 seconds
+Text: If he used the five minutes to talk on this topic
+--------------------------------------------------
+Member of the Public:
+Start: 00:51:57.400
+End: 00:51:59.880
+Duration: 2.480 seconds
+Text: at the beginning, does he get an additional five minutes
+--------------------------------------------------
+Member of the Public:
+Start: 00:51:59.880
+End: 00:52:01.880
+Duration: 2.000 seconds
+Text: to talk on this topic again?
+--------------------------------------------------
+Mayor Morse:
+Start: 00:52:01.880
+End: 00:52:03.680
+Duration: 1.800 seconds
+Text: Ordinarily not.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:52:03.680
+End: 00:52:06.760
+Duration: 3.080 seconds
+Text: So technically, we should have stopped him in the first part.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:52:06.760
+End: 00:52:08.920
+Duration: 2.160 seconds
+Text: But I didn't know he was until the end.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:52:08.920
+End: 00:52:11.120
+Duration: 2.200 seconds
+Text: He was going to talk about the revenue neutral.
+--------------------------------------------------
+Member of the Public:
+Start: 00:52:11.120
+End: 00:52:11.640
+Duration: 0.520 seconds
+Text: Right.
+--------------------------------------------------
+Member of the Public:
+Start: 00:52:11.640
+End: 00:52:13.560
+Duration: 1.920 seconds
+Text: I'm actually not going to talk about R&R.
+--------------------------------------------------
+Member of the Public:
+Start: 00:52:13.560
+End: 00:52:14.280
+Duration: 0.720 seconds
+Text: Subtracted.
+--------------------------------------------------
+Member of the Public:
+Start: 00:52:14.280
+End: 00:52:16.040
+Duration: 1.760 seconds
+Text: I just want to plant a seed here.
+--------------------------------------------------
+Member of the Public:
+Start: 00:52:16.040
+End: 00:52:18.080
+Duration: 2.040 seconds
+Text: And I'm not sure everybody realizes this.
+--------------------------------------------------
+Member of the Public:
+Start: 00:52:18.080
+End: 00:52:19.200
+Duration: 1.120 seconds
+Text: It's listening.
+--------------------------------------------------
+Member of the Public:
+Start: 00:52:19.200
+End: 00:52:21.680
+Duration: 2.480 seconds
+Text: Is if you live in the city of Manhattan
+--------------------------------------------------
+Member of the Public:
+Start: 00:52:21.760
+End: 00:52:24.400
+Duration: 2.640 seconds
+Text: or you own a business in the city of Manhattan,
+--------------------------------------------------
+Member of the Public:
+Start: 00:52:24.400
+End: 00:52:28.360
+Duration: 3.960 seconds
+Text: you're not paying $18 million.
+--------------------------------------------------
+Member of the Public:
+Start: 00:52:28.360
+End: 00:52:31.160
+Duration: 2.800 seconds
+Text: You're paying $25 million.
+--------------------------------------------------
+Member of the Public:
+Start: 00:52:31.160
+End: 00:52:34.680
+Duration: 3.520 seconds
+Text: Because the 20% is also being paid by county assessment,
+--------------------------------------------------
+Member of the Public:
+Start: 00:52:34.680
+End: 00:52:36.080
+Duration: 1.400 seconds
+Text: or taxation.
+--------------------------------------------------
+Member of the Public:
+Start: 00:52:36.080
+End: 00:52:39.280
+Duration: 3.200 seconds
+Text: So if you live in town, all of you live in town,
+--------------------------------------------------
+Member of the Public:
+Start: 00:52:39.280
+End: 00:52:42.560
+Duration: 3.280 seconds
+Text: you're paying 100% of our CPD's bill.
+--------------------------------------------------
+Member of the Public:
+Start: 00:52:42.560
+End: 00:52:45.680
+Duration: 3.120 seconds
+Text: $25 million is their bill.
+--------------------------------------------------
+Member of the Public:
+Start: 00:52:45.680
+End: 00:52:48.200
+Duration: 2.520 seconds
+Text: There's a fundamental problem in that you all
+--------------------------------------------------
+Member of the Public:
+Start: 00:52:48.200
+End: 00:52:49.400
+Duration: 1.200 seconds
+Text: are elected representatives.
+--------------------------------------------------
+Member of the Public:
+Start: 00:52:49.400
+End: 00:52:52.040
+Duration: 2.640 seconds
+Text: And you already know that your job is
+--------------------------------------------------
+Member of the Public:
+Start: 00:52:52.040
+End: 00:52:54.680
+Duration: 2.640 seconds
+Text: to represent the people and listen.
+--------------------------------------------------
+Member of the Public:
+Start: 00:52:54.680
+End: 00:52:59.840
+Duration: 5.160 seconds
+Text: But the RCPD board, as I understand it,
+--------------------------------------------------
+Member of the Public:
+Start: 00:52:59.840
+End: 00:53:01.640
+Duration: 1.800 seconds
+Text: and correct me if I'm wrong, is made up
+--------------------------------------------------
+Member of the Public:
+Start: 00:53:01.640
+End: 00:53:03.840
+Duration: 2.200 seconds
+Text: of four elected officials.
+--------------------------------------------------
+Member of the Public:
+Start: 00:53:03.840
+End: 00:53:06.920
+Duration: 3.080 seconds
+Text: And I believe three appointed officials.
+--------------------------------------------------
+Member of the Public:
+Start: 00:53:06.920
+End: 00:53:09.120
+Duration: 2.200 seconds
+Text: I hope I got that right.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:53:09.120
+End: 00:53:14.280
+Duration: 5.160 seconds
+Text: So you don't have three elected officials and four civilians.
+--------------------------------------------------
+Member of the Public:
+Start: 00:53:14.280
+End: 00:53:15.200
+Duration: 0.920 seconds
+Text: Well, what about Barris?
+--------------------------------------------------
+Mayor Morse:
+Start: 00:53:15.200
+End: 00:53:17.040
+Duration: 1.840 seconds
+Text: This time, he's elected that's true.
+--------------------------------------------------
+Member of the Public:
+Start: 00:53:17.040
+End: 00:53:18.960
+Duration: 1.920 seconds
+Text: But so there's four.
+--------------------------------------------------
+Member of the Public:
+Start: 00:53:18.960
+End: 00:53:19.800
+Duration: 0.840 seconds
+Text: Yeah.
+--------------------------------------------------
+Member of the Public:
+Start: 00:53:19.800
+End: 00:53:20.620
+Duration: 0.820 seconds
+Text: Right.
+--------------------------------------------------
+Member of the Public:
+Start: 00:53:20.620
+End: 00:53:23.360
+Duration: 2.740 seconds
+Text: So there's four elected officials and three non-elected.
+--------------------------------------------------
+Member of the Public:
+Start: 00:53:23.360
+End: 00:53:25.600
+Duration: 2.240 seconds
+Text: If you don't like their budget,
+--------------------------------------------------
+Member of the Public:
+Start: 00:53:25.600
+End: 00:53:27.840
+Duration: 2.240 seconds
+Text: you only have four people that represent you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:53:27.840
+End: 00:53:31.920
+Duration: 4.080 seconds
+Text: Because if you don't like what they do on RCPD board,
+--------------------------------------------------
+Member of the Public:
+Start: 00:53:31.920
+End: 00:53:33.200
+Duration: 1.280 seconds
+Text: they're not up for real.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:53:33.200
+End: 00:53:36.560
+Duration: 3.360 seconds
+Text: I'm thinking for that flips every few years,
+--------------------------------------------------
+Mayor Morse:
+Start: 00:53:36.560
+End: 00:53:38.960
+Duration: 2.400 seconds
+Text: whether elected, you're going to get appointed,
+--------------------------------------------------
+Mayor Morse:
+Start: 00:53:38.960
+End: 00:53:40.080
+Duration: 1.120 seconds
+Text: or civilians.
+--------------------------------------------------
+Member of the Public:
+Start: 00:53:40.080
+End: 00:53:40.920
+Duration: 0.840 seconds
+Text: Yeah, I understand that.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:53:40.920
+End: 00:53:42.680
+Duration: 1.760 seconds
+Text: They're not going to solve that today.
+--------------------------------------------------
+Member of the Public:
+Start: 00:53:42.680
+End: 00:53:44.280
+Duration: 1.600 seconds
+Text: I'm just pointing it out to the citizens
+--------------------------------------------------
+Member of the Public:
+Start: 00:53:44.280
+End: 00:53:46.600
+Duration: 2.320 seconds
+Text: as you discuss the budget with regards
+--------------------------------------------------
+Member of the Public:
+Start: 00:53:46.600
+End: 00:53:51.720
+Duration: 5.120 seconds
+Text: to $25 million of RCPD's budget, which is, in my opinion,
+--------------------------------------------------
+Member of the Public:
+Start: 00:53:51.720
+End: 00:53:55.400
+Duration: 3.680 seconds
+Text: is one taxpayer way over the top, way over the top,
+--------------------------------------------------
+Member of the Public:
+Start: 00:53:55.400
+End: 00:53:56.360
+Duration: 0.960 seconds
+Text: way over the top.
+--------------------------------------------------
+Member of the Public:
+Start: 00:53:56.360
+End: 00:53:58.200
+Duration: 1.840 seconds
+Text: But we don't have any basis of comparison.
+--------------------------------------------------
+Member of the Public:
+Start: 00:53:58.200
+End: 00:54:00.440
+Duration: 2.240 seconds
+Text: We don't know what it costs for Johnson County Police
+--------------------------------------------------
+Member of the Public:
+Start: 00:54:00.440
+End: 00:54:02.560
+Duration: 2.120 seconds
+Text: and all those individual police departments,
+--------------------------------------------------
+Member of the Public:
+Start: 00:54:02.560
+End: 00:54:05.560
+Duration: 3.000 seconds
+Text: or Wichita, or Pick a City, Lawrence.
+--------------------------------------------------
+Member of the Public:
+Start: 00:54:05.560
+End: 00:54:08.400
+Duration: 2.840 seconds
+Text: So tough decision.
+--------------------------------------------------
+Member of the Public:
+Start: 00:54:08.400
+End: 00:54:10.480
+Duration: 2.080 seconds
+Text: Appreciate the time.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:54:10.480
+End: 00:54:11.760
+Duration: 1.280 seconds
+Text: OK.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:54:11.760
+End: 00:54:13.360
+Duration: 1.600 seconds
+Text: You came in at two minutes.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:54:13.360
+End: 00:54:16.160
+Duration: 2.800 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:54:16.160
+End: 00:54:17.800
+Duration: 1.640 seconds
+Text: Sorry to be honoring.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:54:17.800
+End: 00:54:18.320
+Duration: 0.520 seconds
+Text: OK.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:54:18.320
+End: 00:54:19.040
+Duration: 0.720 seconds
+Text: Thank you very much.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:54:19.040
+End: 00:54:19.760
+Duration: 0.720 seconds
+Text: We appreciate it.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:54:19.760
+End: 00:54:24.120
+Duration: 4.360 seconds
+Text: Is anyone else here to speak in the public comment
+--------------------------------------------------
+Mayor Morse:
+Start: 00:54:24.120
+End: 00:54:28.160
+Duration: 4.040 seconds
+Text: about the revenue neutral rate that we're considered?
+--------------------------------------------------
+Mayor Morse:
+Start: 00:54:28.160
+End: 00:54:32.440
+Duration: 4.280 seconds
+Text: Part of the budget that we're considering this evening?
+--------------------------------------------------
+Mayor Morse:
+Start: 00:54:32.440
+End: 00:54:38.160
+Duration: 5.720 seconds
+Text: Seeing no one, I will close the public comment section.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:54:38.160
+End: 00:54:44.640
+Duration: 6.480 seconds
+Text: And I have new instructions here,
+--------------------------------------------------
+Mayor Morse:
+Start: 00:54:44.640
+End: 00:54:46.000
+Duration: 1.360 seconds
+Text: so I have to make my way through.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:54:52.880
+End: 00:55:01.440
+Duration: 8.560 seconds
+Text: Well, I guess we're back to the Commission discussion time.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:55:01.440
+End: 00:55:11.400
+Duration: 9.960 seconds
+Text: And we would need to have a motion, I guess.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:55:11.400
+End: 00:55:13.600
+Duration: 2.200 seconds
+Text: If you're through with discussion,
+--------------------------------------------------
+Mayor Morse:
+Start: 00:55:13.600
+End: 00:55:16.600
+Duration: 3.000 seconds
+Text: if you want to talk some more, then let's proceed to do that.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:55:16.600
+End: 00:55:17.480
+Duration: 0.880 seconds
+Text: This is important.
+--------------------------------------------------
+Member of the Public:
+Start: 00:55:20.640
+End: 00:55:21.960
+Duration: 1.320 seconds
+Text: It's the point of clarification.
+--------------------------------------------------
+Member of the Public:
+Start: 00:55:21.960
+End: 00:55:27.040
+Duration: 5.080 seconds
+Text: We talked Katie about changing it to where we would make a motion
+--------------------------------------------------
+Member of the Public:
+Start: 00:55:27.040
+End: 00:55:29.480
+Duration: 2.440 seconds
+Text: and then have a discussion like every other organization
+--------------------------------------------------
+Member of the Public:
+Start: 00:55:29.480
+End: 00:55:32.000
+Duration: 2.520 seconds
+Text: in the world tends to do with their motions.
+--------------------------------------------------
+Member of the Public:
+Start: 00:55:32.000
+End: 00:55:34.200
+Duration: 2.200 seconds
+Text: But I see we're reverting back to the old way
+--------------------------------------------------
+Member of the Public:
+Start: 00:55:34.200
+End: 00:55:36.000
+Duration: 1.800 seconds
+Text: of discussing and then motion.
+--------------------------------------------------
+Member of the Public:
+Start: 00:55:36.000
+End: 00:55:39.840
+Duration: 3.840 seconds
+Text: Which, how did we leave that during this wait a month or two
+--------------------------------------------------
+Member of the Public:
+Start: 00:55:39.840
+End: 00:55:40.680
+Duration: 0.840 seconds
+Text: ago?
+--------------------------------------------------
+City Clerk:
+Start: 00:55:40.680
+End: 00:55:41.680
+Duration: 1.000 seconds
+Text: Sure.
+--------------------------------------------------
+City Clerk:
+Start: 00:55:41.680
+End: 00:55:44.880
+Duration: 3.200 seconds
+Text: And so I have the new policy here.
+--------------------------------------------------
+Member of the Public:
+Start: 00:55:44.880
+End: 00:55:47.200
+Duration: 2.320 seconds
+Text: I'll pull it up so I tell you exactly.
+--------------------------------------------------
+Member of the Public:
+Start: 00:55:50.840
+End: 00:55:53.680
+Duration: 2.840 seconds
+Text: So on the general agenda item, what you have,
+--------------------------------------------------
+Member of the Public:
+Start: 00:55:53.680
+End: 00:55:56.120
+Duration: 2.440 seconds
+Text: you've been through the presentation, your questions,
+--------------------------------------------------
+Member of the Public:
+Start: 00:55:56.120
+End: 00:55:57.240
+Duration: 1.120 seconds
+Text: public comment.
+--------------------------------------------------
+Member of the Public:
+Start: 00:55:57.240
+End: 00:55:59.360
+Duration: 2.120 seconds
+Text: At this point, you can have discussion
+--------------------------------------------------
+Member of the Public:
+Start: 00:55:59.360
+End: 00:56:02.160
+Duration: 2.800 seconds
+Text: with the staff clarification or commission discussion.
+--------------------------------------------------
+Member of the Public:
+Start: 00:56:02.160
+End: 00:56:05.880
+Duration: 3.720 seconds
+Text: That's intended to help you formulate a motion.
+--------------------------------------------------
+Member of the Public:
+Start: 00:56:05.880
+End: 00:56:07.440
+Duration: 1.560 seconds
+Text: Then you have a motion and you can have discussion
+--------------------------------------------------
+Mayor Morse:
+Start: 00:56:07.440
+End: 00:56:08.040
+Duration: 0.600 seconds
+Text: on the motion.
+--------------------------------------------------
+Member of the Public:
+Start: 00:56:08.040
+End: 00:56:10.920
+Duration: 2.880 seconds
+Text: So you can have discussion prior to the motion,
+--------------------------------------------------
+Member of the Public:
+Start: 00:56:10.920
+End: 00:56:12.800
+Duration: 1.880 seconds
+Text: but it's intended to kind of clarify comments
+--------------------------------------------------
+Member of the Public:
+Start: 00:56:12.800
+End: 00:56:16.840
+Duration: 4.040 seconds
+Text: from the public or any questions that you need to formulate it.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:56:16.840
+End: 00:56:20.440
+Duration: 3.600 seconds
+Text: But you can ask the staff questions after their presentation.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:56:20.440
+End: 00:56:23.280
+Duration: 2.840 seconds
+Text: So it's not all commission discussion.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:56:23.280
+End: 00:56:25.680
+Duration: 2.400 seconds
+Text: It's dynamic.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:56:25.680
+End: 00:56:26.680
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:56:29.520
+End: 00:56:34.120
+Duration: 4.600 seconds
+Text: So we could have a motion or we can continue to discuss.
+--------------------------------------------------
+City Clerk:
+Start: 00:56:34.120
+End: 00:56:35.560
+Duration: 1.440 seconds
+Text: Well, I'll go ahead and make a motion.
+--------------------------------------------------
+City Clerk:
+Start: 00:56:35.560
+End: 00:56:37.560
+Duration: 2.000 seconds
+Text: I'll let someone.
+--------------------------------------------------
+City Clerk:
+Start: 00:56:37.560
+End: 00:56:38.160
+Duration: 0.600 seconds
+Text: I move.
+--------------------------------------------------
+City Clerk:
+Start: 00:56:38.160
+End: 00:56:43.880
+Duration: 5.720 seconds
+Text: We approve resolution number 070522-B regarding the government
+--------------------------------------------------
+City Clerk:
+Start: 00:56:43.880
+End: 00:56:48.880
+Duration: 5.000 seconds
+Text: and the body's intent to levied 2023 property tax, exceeding
+--------------------------------------------------
+City Clerk:
+Start: 00:56:48.880
+End: 00:56:51.720
+Duration: 2.840 seconds
+Text: the revenue neutral rate with a proposal of maximum mill
+--------------------------------------------------
+City Clerk:
+Start: 00:56:51.720
+End: 00:56:56.720
+Duration: 5.000 seconds
+Text: levy at 52.143 mils and setting the public hearing
+--------------------------------------------------
+City Clerk:
+Start: 00:56:56.720
+End: 00:57:01.960
+Duration: 5.240 seconds
+Text: related there to on September 6, 2022 at 6 p.m.
+--------------------------------------------------
+City Clerk:
+Start: 00:57:01.960
+End: 00:57:07.160
+Duration: 5.200 seconds
+Text: at city hall, 1-101 points avenue Manhattan, Kansas.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:57:07.160
+End: 00:57:09.840
+Duration: 2.680 seconds
+Text: I'll second.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:57:09.840
+End: 00:57:15.720
+Duration: 5.880 seconds
+Text: And the actual mill levy you propose in your motion is,
+--------------------------------------------------
+Mayor Morse:
+Start: 00:57:15.720
+End: 00:57:18.280
+Duration: 2.560 seconds
+Text: which is 52.143.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:57:18.280
+End: 00:57:19.160
+Duration: 0.880 seconds
+Text: OK.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:57:19.160
+End: 00:57:21.280
+Duration: 2.120 seconds
+Text: We have motion and a second.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:57:21.280
+End: 00:57:23.760
+Duration: 2.480 seconds
+Text: Is there further discussion?
+--------------------------------------------------
+Mayor Morse:
+Start: 00:57:23.760
+End: 00:57:25.320
+Duration: 1.560 seconds
+Text: OK.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:57:25.320
+End: 00:57:29.080
+Duration: 3.760 seconds
+Text: City Clerk, would you call the roll?
+--------------------------------------------------
+City Clerk:
+Start: 00:57:29.080
+End: 00:57:30.200
+Duration: 1.120 seconds
+Text: Mayor Morse.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:57:30.200
+End: 00:57:32.160
+Duration: 1.960 seconds
+Text: No.
+--------------------------------------------------
+City Clerk:
+Start: 00:57:32.160
+End: 00:57:33.440
+Duration: 1.280 seconds
+Text: Commissioner Hattisol.
+--------------------------------------------------
+Member of the Public:
+Start: 00:57:33.440
+End: 00:57:34.720
+Duration: 1.280 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:57:34.720
+End: 00:57:35.600
+Duration: 0.880 seconds
+Text: Commissioner Reddy.
+--------------------------------------------------
+Member of the Public:
+Start: 00:57:38.880
+End: 00:57:40.080
+Duration: 1.200 seconds
+Text: Oh, I don't think so.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:57:40.080
+End: 00:57:41.640
+Duration: 1.560 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:57:41.640
+End: 00:57:42.720
+Duration: 1.080 seconds
+Text: Commissioner Butler.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:57:42.720
+End: 00:57:44.240
+Duration: 1.520 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:57:44.240
+End: 00:57:45.280
+Duration: 1.040 seconds
+Text: Commissioner Mata.
+--------------------------------------------------
+City Clerk:
+Start: 00:57:45.280
+End: 00:57:46.680
+Duration: 1.400 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:57:46.680
+End: 00:57:51.640
+Duration: 4.960 seconds
+Text: Motion carries 4 to 1.
+--------------------------------------------------
+City Clerk:
+Start: 00:57:51.640
+End: 00:57:52.140
+Duration: 0.500 seconds
+Text: OK.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:57:56.400
+End: 00:57:59.320
+Duration: 2.920 seconds
+Text: Not much left here.
+--------------------------------------------------
+Member of the Public:
+Start: 00:57:59.320
+End: 00:58:03.160
+Duration: 3.840 seconds
+Text: I want to clarify one thing, sorry, about the motion's been made.
+--------------------------------------------------
+Member of the Public:
+Start: 00:58:03.160
+End: 00:58:06.440
+Duration: 3.280 seconds
+Text: So when she calls the roll does it start with you all the time,
+--------------------------------------------------
+Member of the Public:
+Start: 00:58:06.440
+End: 00:58:06.960
+Duration: 0.520 seconds
+Text: then?
+--------------------------------------------------
+Member of the Public:
+Start: 00:58:06.960
+End: 00:58:07.160
+Duration: 0.200 seconds
+Text: No.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:58:07.160
+End: 00:58:07.960
+Duration: 0.800 seconds
+Text: I don't know.
+--------------------------------------------------
+Member of the Public:
+Start: 00:58:07.960
+End: 00:58:11.120
+Duration: 3.160 seconds
+Text: This time it started with.
+--------------------------------------------------
+Member of the Public:
+Start: 00:58:11.120
+End: 00:58:12.040
+Duration: 0.920 seconds
+Text: It started with me.
+--------------------------------------------------
+Member of the Public:
+Start: 00:58:12.040
+End: 00:58:13.760
+Duration: 1.720 seconds
+Text: So I just wanted to know what the thing will be.
+--------------------------------------------------
+Member of the Public:
+Start: 00:58:13.760
+End: 00:58:14.160
+Duration: 0.400 seconds
+Text: Yeah.
+--------------------------------------------------
+Member of the Public:
+Start: 00:58:14.160
+End: 00:58:15.120
+Duration: 0.960 seconds
+Text: I just wanted to know.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:58:15.120
+End: 00:58:18.360
+Duration: 3.240 seconds
+Text: I honestly don't know.
+--------------------------------------------------
+Member of the Public:
+Start: 00:58:18.360
+End: 00:58:19.160
+Duration: 0.800 seconds
+Text: I don't know either.
+--------------------------------------------------
+Member of the Public:
+Start: 00:58:19.160
+End: 00:58:19.680
+Duration: 0.520 seconds
+Text: That's on that.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:58:19.680
+End: 00:58:20.080
+Duration: 0.400 seconds
+Text: And I don't.
+--------------------------------------------------
+Member of the Public:
+Start: 00:58:20.080
+End: 00:58:20.880
+Duration: 0.800 seconds
+Text: I don't really.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:58:20.880
+End: 00:58:23.240
+Duration: 2.360 seconds
+Text: I just I'm ready to vote whenever I'm supposed to.
+--------------------------------------------------
+Member of the Public:
+Start: 00:58:23.240
+End: 00:58:23.760
+Duration: 0.520 seconds
+Text: Right.
+--------------------------------------------------
+Member of the Public:
+Start: 00:58:23.760
+End: 00:58:25.800
+Duration: 2.040 seconds
+Text: When she calls your name, OK.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:58:25.800
+End: 00:58:26.560
+Duration: 0.760 seconds
+Text: OK.
+--------------------------------------------------
+Member of the Public:
+Start: 00:58:26.560
+End: 00:58:27.120
+Duration: 0.560 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:58:27.120
+End: 00:58:29.600
+Duration: 2.480 seconds
+Text: Chelsea, thank you for calling.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:58:29.600
+End: 00:58:34.440
+Duration: 4.840 seconds
+Text: And I think that we're ready for another one.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:58:34.440
+End: 00:58:35.760
+Duration: 1.320 seconds
+Text: We need a motion to adjourn.
+--------------------------------------------------
+Member of the Public:
+Start: 00:58:35.760
+End: 00:58:36.720
+Duration: 0.960 seconds
+Text: I move that we adjourn.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:58:36.720
+End: 00:58:38.520
+Duration: 1.800 seconds
+Text: I get passed all the pages to get there.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:58:38.520
+End: 00:58:40.280
+Duration: 1.760 seconds
+Text: Second.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:58:40.280
+End: 00:58:43.280
+Duration: 3.000 seconds
+Text: We have a motion and a second to adjourn.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:58:43.280
+End: 00:58:44.520
+Duration: 1.240 seconds
+Text: Further discussion?
+--------------------------------------------------
+Mayor Morse:
+Start: 00:58:44.520
+End: 00:58:46.720
+Duration: 2.200 seconds
+Text: City clerk would you call the roll?
+--------------------------------------------------
+City Clerk:
+Start: 00:58:46.720
+End: 00:58:47.840
+Duration: 1.120 seconds
+Text: Commissioner Hattisol?
+--------------------------------------------------
+Member of the Public:
+Start: 00:58:47.840
+End: 00:58:49.160
+Duration: 1.320 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:58:49.160
+End: 00:58:50.240
+Duration: 1.080 seconds
+Text: Commissioner Reddy?
+--------------------------------------------------
+Member of the Public:
+Start: 00:58:50.240
+End: 00:58:51.200
+Duration: 0.960 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:58:51.200
+End: 00:58:52.200
+Duration: 1.000 seconds
+Text: Commissioner Butler?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:58:52.200
+End: 00:58:53.280
+Duration: 1.080 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:58:53.280
+End: 00:58:54.240
+Duration: 0.960 seconds
+Text: Commissioner Mata?
+--------------------------------------------------
+City Clerk:
+Start: 00:58:54.240
+End: 00:58:55.360
+Duration: 1.120 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:58:55.360
+End: 00:58:56.160
+Duration: 0.800 seconds
+Text: Mayor Morse?
+--------------------------------------------------
+Member of the Public:
+Start: 00:58:56.160
+End: 00:58:58.080
+Duration: 1.920 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:58:58.080
+End: 00:58:59.240
+Duration: 1.160 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Morse:
+Start: 00:58:59.240
+End: 00:59:00.440
+Duration: 1.200 seconds
+Text: The end.
+--------------------------------------------------

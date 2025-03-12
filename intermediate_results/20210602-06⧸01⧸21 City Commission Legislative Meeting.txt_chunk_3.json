@@ -1,0 +1,168 @@
+{
+  "open_ended_analysis": {
+    "primary_themes": [
+      {
+        "theme": "Indoor Aquatic Center Feasibility Study",
+        "description": "Multiple city council members engaged in detailed discussion about commissioning a feasibility study for an indoor aquatic center in Manhattan, Kansas.",
+        "notable_points": [
+          "The study will cost $15,000 and aims to answer key questions about the facility's potential functions, operations, funding, and implementation timeline.",
+          "The council expresses desire for the facility to be multipurpose to serve diverse community needs.",
+          "Potential partnerships with Kansas State University Foundation and the School District were suggested as ways to help fund and use the facility."
+        ]
+      }
+    ],
+    "significant_discussions": [
+      {
+        "topic": "Consideration of covering existing city pool",
+        "significance": "Exploration of cost-efficient alternatives to building a new facility.",
+        "stakeholders": [
+          "Anderson Eyed Architects, the feasibility study vendor",
+          "Manhattan City Council",
+          "Community members"
+        ]
+      },
+      {
+        "topic": "Funding of the potential Indoor Aquatic Center",
+        "significance": "Discussing how to pool funds for construction and ensuring that the project is financially sustainable over 20-30 years.",
+        "stakeholders": [
+          "City Council members",
+          "Potential donors/investors like Vern Hendrix and Kansas State University Foundation"
+        ]
+      }
+    ],
+    "unexpected_elements": [
+      {
+        "element": "Public participation was expected, but only Tracy Anderson of Anderson Eyed Architects spoke. Tracy did not contribute any new insights.",
+        "context": "Usually such issues attract attention from various stakeholders or the general public who would participate in the discussions. However, this was not the case in this meeting, suggesting either lack of publicity or public interest."
+      }
+    ]
+  },
+  "directed_analysis": {
+    "land_use": {
+      "present": true,
+      "significance": "High",
+      "context": "Land use was discussed a lot in the context of building a new indoor aquatic center. They discussed where it would be located, potentially at Seaco Park, and even potentially covering an existing city pool. The specifics of the project, like what amenities it would include and how it would operate, were also discussed.",
+      "notable_points": [
+        "Discussion about the potential construction of an indoor aquatic center",
+        "Discussion about the potential location (e.g. Seaco Park) and design of the aquatic center"
+      ]
+    },
+    "economic_development": {
+      "present": true,
+      "significance": "Medium",
+      "context": "There was discussion about funding sources for the aquatic center project. Possibility of seeking private funds or partnerships, like with the school district or K-State foundation, to help fund the project were mentioned. The community's potential support (or lack thereof) for a possible ballot issue for funding was also discussed.",
+      "notable_points": [
+        "Potential for private funding for the aquatic center project",
+        "Potential partnerships with the school district and K-State foundation"
+      ]
+    },
+    "taxes_budget": {
+      "present": true,
+      "significance": "High",
+      "context": "The costs for the aquatic center project were a significant part of the discussion. The council discussed investing $15,000 for a feasibility study. It was mentioned that this money would be coming out of the parks and rec fund, not property tax, and that the city could handle this spending. There was a brief mention of other large debt projects impacting city resources.",
+      "notable_points": [
+        "Initial feasibility study cost of $15,000",
+        "Sources of funding for the project (from the Parks and Rec Fund, not property tax)",
+        "Discussion of debt projects impacting city resources"
+      ]
+    },
+    "other_significant_topics": [
+      {
+        "topic": "Community Needs and Interests",
+        "significance": "High",
+        "context": "The council discussed the long-term community benefit of an indoor aquatic center, and the importance of designing it to be inclusive and of interest to a wide variety of people in the community."
+      }
+    ]
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 5,
+      "speaking_time": {
+        "Commissioner Moors": 221.0,
+        "Mayor Butler": 129.0,
+        "City Clerk": 409.0,
+        "Mark Abbott": 121.0,
+        "City Manager": 58.0
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [
+        "City Clerk",
+        "Commissioner Moors",
+        "Mayor Butler"
+      ],
+      "observation": "The City Clerk appears to be the most active participant in terms of speaking time and segments. Commissioner Moors and Mayor Butler both also have significant speaking time and numerous segments. The Mayor's role involves directing the proceedings, which grants them a significant amount of power in the meeting."
+    },
+    "interaction_patterns": {
+      "pattern": "Most of the communications seem to be speaker led, making a statement or providing information, which is followed by supportive or exploratory questions from others. The Mayor controls the flow of conversations, indicating whose turn it is to speak.",
+      "notable_exchanges": [
+        "Discussion revolving around the feasibility study for an indoor aquatic center, and exploring ways to finance it including partnering with K-State, contributions from private sector, and funding from school district. The dynamics showed agreement between all speakers."
+      ]
+    },
+    "topic_ownership": [
+      {
+        "speaker": "Commissioner Moors",
+        "topics": [
+          "Regional funding for projects",
+          "Future project planning"
+        ]
+      },
+      {
+        "speaker": "Mayor Butler",
+        "topics": [
+          "Feasibility study for an indoor aquatic center",
+          "Call for public participation"
+        ]
+      },
+      {
+        "speaker": "City Clerk",
+        "topics": [
+          "Administrative tasks",
+          "Meeting facilitation",
+          "Roll call"
+        ]
+      }
+    ],
+    "public_participation": {
+      "level": "Low",
+      "observation": "There were instances of public participation, specifically Mark Abbott speaking about the feasibility study and Chad Bunger expressing community interest in the project. However, the majority of the meeting's dialogue was conducted between the city officials.\u201d"
+    }
+  },
+  "emergent_patterns": {
+    "recurring_themes": [
+      {
+        "theme": "Long-Term Community Investment",
+        "evidence": "Frequent mentions of future planning in terms of years down the line, this includes considering lifeguard requirements, potential for donations and partnerships, and proposals for feasibility studies. 'That's what's going to move this forward to what the community can have and enjoy, not only for 10 years, but 20 years and 30 years down the road.'"
+      },
+      {
+        "theme": "Public Amenities",
+        "evidence": "Constant conversation surrounding the construction of an indoor aquatic center and a museum, as well as the conduction of feasibility studies to finalize such plans."
+      }
+    ],
+    "underlying_tensions": [
+      {
+        "tension": "Need for an aquatic facility versus financial and logistical constraints",
+        "between": [
+          "City council",
+          "Community members"
+        ],
+        "context": "While there's a clear desire for amenities like a pool, but logistical and financial constraints are frequently cited as a reason to proceed cautiously."
+      }
+    ],
+    "decision_patterns": {
+      "pattern": "Discussion, Seek Public Opinion, Vote",
+      "observation": "Council members openly discuss issues, seek the public's opinions - 'Now we didn't have anybody sign up for a public comment. Is there anyone in the audience who would like to speak to this issue?' - and then they vote on resolutions - 'Okay, we have a motion in a second city clerk. Could you please call the roll.'"
+    },
+    "language_patterns": {
+      "formality": "Medium",
+      "technical_density": "Low",
+      "emotional_tone": "Neutral to Positive",
+      "notable_features": [
+        "Regular use of commas, signifying pauses and thought process. Use of direct address to make conversation personal and engaging."
+      ]
+    },
+    "other_insights": [
+      "There is a sense of camaraderie and mutual respect amongst council members and between council members and the community. Emphasis on inclusivity and diversity - 'but we really want to create a center that's inclusive of everybody.'"
+    ]
+  }
+}

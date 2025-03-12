@@ -1,0 +1,101 @@
+{
+  "open_ended_analysis": {
+    "primary_themes": [
+      {
+        "theme": "Senior Center Month Proclamation",
+        "description": "The meeting began with a proclamation for National Senior Center Month, emphasizing the important role of elders and the Senior Center in the community.",
+        "notable_points": [
+          "Recognition of the Senior Center's effort to enrich and strengthen the community",
+          "Recognition of the volunteers and staff at the Senior Center"
+        ]
+      },
+      {
+        "theme": "Public Hearing for the vacation of the Public Utility Easement",
+        "description": "A hearing took place to discuss vacating a public utility easement for a specific property. The proposal was to construct a retaining wall for safety and landscaping purposes.",
+        "notable_points": [
+          "The concern over the location of utility services",
+          "Approval of the vacation"
+        ]
+      },
+      {
+        "theme": "Short-Term Property Rentals Discussion",
+        "description": "There was extensive discussion about the regulation and implications of short-term rentals in residential buildings.",
+        "notable_points": [
+          "Benefits and potential issues with short-term rentals",
+          "Comparison to other cities' handling of short-term rentals",
+          "Concerns about property management and enforcement of rules"
+        ]
+      }
+    ],
+    "significant_discussions": [
+      {
+        "topic": "The Short-Term Rentals",
+        "significance": "This topic is critical as it could govern future property usage in the city. It affects property owners, residents, city planning and potentially the larger housing market.",
+        "stakeholders": [
+          "City commissioners",
+          "Property owners",
+          "Local residents",
+          "City planning department",
+          "Potential renters"
+        ]
+      }
+    ],
+    "unexpected_elements": [
+      {
+        "element": "Fundamental disagreement on the handling of Short-Term Rentals",
+        "context": "Differing viewpoints were evident among the commissioners on short-term rentals. Some see it as an unnecessary regulation, whereas others expressed a need for more oversight and control."
+      }
+    ]
+  },
+  "directed_analysis": {
+    "land_use": {
+      "present": true,
+      "significance": "High",
+      "context": "The meeting included significant discussions around land use, particularly in terms of housing and urban planning. The issue of short term rentals in Manhattan, Kansas, and converting apartments into condos for potential short-term rentals were also discussed. The council members discussed the implications of the conversions and the impact on neighbors and the community, noting concerns about increasing short-term rentals in the city.",
+      "notable_points": [
+        "A proposal to convert Stadium Place Apartments into condos for short-term rentals was considered.",
+        "Issues of land use regulation and enforcement of short-term rental policies were discussed."
+      ]
+    },
+    "economic_development": {
+      "present": true,
+      "significance": "Medium",
+      "context": "Economic development discussions revolved around the potential of the proposed changes in land use to contribute to economic growth by attracting visitors to the city. There was also implied reference to potential competition with the campus' plans for a hotel.",
+      "notable_points": [
+        "The potential for short term rentals to contribute to economic development was discussed.",
+        "Potential competition with the university\u2019s planned hotel construction was mentioned."
+      ]
+    },
+    "taxes_budget": {
+      "present": false,
+      "significance": "Low",
+      "context": "The meeting did not focus significantly on taxes or the city's budget.",
+      "notable_points": []
+    },
+    "other_significant_topics": [
+      {
+        "topic": "Senior Center Activities",
+        "significance": "Medium",
+        "context": "The meeting opened with a proclamation for National Senior Center Month, highlighting the contributions of senior residents in Manhattan and the activities of the Manhattan Senior Center."
+      }
+    ]
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 5,
+      "speaking_time": {
+        "Transcription and Diarization for 20230818-08\u29f815\u29f823 City Commission Meeting.mp4": 9.3,
+        "Commissioner Butler": 349.40000000000003,
+        "Commissioner Morris": 451.31999999999994,
+        "Mayor Hadasal": 410.1,
+        "City Manager": 337.7600000000001
+      }
+    },
+    "patterns": {
+      "error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+    }
+  },
+  "emergent_patterns": {
+    "error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+  }
+}

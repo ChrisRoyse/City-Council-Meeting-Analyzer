@@ -1,0 +1,4989 @@
+Transcription and Diarization for 20200528-05⧸28⧸2019 City Commission Meeting.mp4
+==================================================
+
+Mayor Dawson:
+Start: 00:00:00.000
+End: 00:00:07.000
+Duration: 7.000 seconds
+Text: There's lots you can do in the city, so you can still go on the website and sign up for a whole variety of activities.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:00:07.000
+End: 00:00:14.000
+Duration: 7.000 seconds
+Text: And the pools are probably not going on right now, but they will be once the weather gets back to in the 70s, I guess.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:00:14.000
+End: 00:00:21.000
+Duration: 7.000 seconds
+Text: So enjoy Manhattan, and hopefully if you have visitors, show them all the wonderful things we have going on here.
+--------------------------------------------------
+Commissioner York:
+Start: 00:00:22.000
+End: 00:00:33.000
+Duration: 11.000 seconds
+Text: I just wouldn't comment. Hopefully many of you are able to celebrate Memorial Day and what all that means to our country yesterday.
+--------------------------------------------------
+Commissioner York:
+Start: 00:00:33.000
+End: 00:00:39.000
+Duration: 6.000 seconds
+Text: We had many opportunities all the way from Fort Riley over to Walmigo.
+--------------------------------------------------
+Commissioner York:
+Start: 00:00:39.000
+End: 00:00:50.000
+Duration: 11.000 seconds
+Text: I think we had a pretty decent turnout at all of them, just to remind us that we have lost 1.2 million Americans defending freedom.
+--------------------------------------------------
+Commissioner York:
+Start: 00:00:50.000
+End: 00:00:53.000
+Duration: 3.000 seconds
+Text: And it's something we all need to remember.
+--------------------------------------------------
+Commissioner York:
+Start: 00:00:53.000
+End: 00:01:05.000
+Duration: 12.000 seconds
+Text: So thank you for all of those who helped set up all the arrangements, and particularly thanks to the American Legion and thanks to the Municipal Band that participated on Monday.
+--------------------------------------------------
+Commissioner York:
+Start: 00:01:05.000
+End: 00:01:10.000
+Duration: 5.000 seconds
+Text: And I think Ron, you are going to talk a little bit about the flood and overview.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:01:10.000
+End: 00:01:14.000
+Duration: 4.000 seconds
+Text: I was mayor. Thank you, commissioners. Good evening.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:01:14.000
+End: 00:01:28.000
+Duration: 14.000 seconds
+Text: There was a news conference held earlier today by folks at the Manhattan Fire Department to give an update, and I wanted to just expand on that and share with the commissioners and the community.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:01:28.000
+End: 00:01:36.000
+Duration: 8.000 seconds
+Text: Some of the announcements from that and that have some developments that have happened since then.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:01:36.000
+End: 00:01:51.000
+Duration: 15.000 seconds
+Text: The quick reservoir late this afternoon was at 1133.48, so it's getting increasingly closer to that 1136 level, which is an elevation we don't want it to get to.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:01:51.000
+End: 00:01:56.000
+Duration: 5.000 seconds
+Text: But we're planning for it to get there regardless.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:01:56.000
+End: 00:02:16.000
+Duration: 20.000 seconds
+Text: We're going to anticipate releases from the core, and they did make the announcement that they do plan to try to bring the lake elevations down based on their forecast and their forecast at that time was showing releases in the 2 to 5,000 cubic foot per second range.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:02:16.000
+End: 00:02:23.000
+Duration: 7.000 seconds
+Text: In the afternoon, they announced that for the next three days, they anticipate releases of 15,000 CFS.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:02:23.000
+End: 00:02:35.000
+Duration: 12.000 seconds
+Text: Those releases historically have stayed in the channel of the Blue River without causing any undue damage.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:02:35.000
+End: 00:02:45.000
+Duration: 10.000 seconds
+Text: In the morning, the average amount of increases in the 20 to 25,000 have been stayed in the channel in previous releases.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:02:45.000
+End: 00:02:55.000
+Duration: 10.000 seconds
+Text: 15,000 is their projection for the next three days to help keep those levels down. There's been some storms in the watershed, especially up in Nebraska.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:02:55.000
+End: 00:03:02.000
+Duration: 7.000 seconds
+Text: Sometimes it takes several days for the water from those storms to make it to total creek reservoir.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:03:02.000
+End: 00:03:13.000
+Duration: 11.000 seconds
+Text: All of the releases are planned to be made from the regular tube outlets below the dam and not from the emergency spillway gates.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:03:13.000
+End: 00:03:26.000
+Duration: 13.000 seconds
+Text: At our Intergovernmental Emergency Operations Center, we've got that operating now from 8 to 8, that's fully staffed, and then in the overnight hours it has some minimal staffing.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:03:27.000
+End: 00:03:35.000
+Duration: 8.000 seconds
+Text: At the Emergency Operations Center, we do have a hotline that's established and that's being staffed.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:03:35.000
+End: 00:03:53.000
+Duration: 18.000 seconds
+Text: That number is 785-587-4526. Again, 785-587-4526 is the number to call. If you have questions concerning the flooding, they'll try to help you with that information.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:03:53.000
+End: 00:04:00.000
+Duration: 7.000 seconds
+Text: Again, that is that hotline is staffed from 8am to 8pm daily.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:04:00.000
+End: 00:04:15.000
+Duration: 15.000 seconds
+Text: Also today, staff from our Code Services Division of the Fire Department did conduct some additional canvassing and educational information work, as well as gathering information and some targeted neighborhoods.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:04:15.000
+End: 00:04:41.000
+Duration: 26.000 seconds
+Text: The Harvey Drive Area of the Dix edition and in the Knoxbury edition today, and they plan to continue to do that tomorrow again to provide some overview information, and part of what they're doing is to determine whether folks in any particular area have any kind of special needs that would require additional assistance in the event of an evacuation.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:04:41.000
+End: 00:04:54.000
+Duration: 13.000 seconds
+Text: Also, I would just encourage residents to visit the city's website and also sign up for emergency notifications on the Everbridge system and the event of evacuation.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:04:54.000
+End: 00:05:10.000
+Duration: 16.000 seconds
+Text: That's where we would provide that information for folks to evacuate. Also, in the event of an evacuation, our emergency personnel would be going door-to-door in those neighborhoods to let folks know that they would need to evacuate.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:05:11.000
+End: 00:05:21.000
+Duration: 10.000 seconds
+Text: On some of the other fronts, the Kansas River this afternoon, just this evening, had dropped to 16.7 feet.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:05:21.000
+End: 00:05:32.000
+Duration: 11.000 seconds
+Text: So, the action stage there on the Kansas is around 14. We usually close our flood control gates on the Levy at about 15 roughly.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:05:32.000
+End: 00:05:53.000
+Duration: 21.000 seconds
+Text: That's good news. The forecast is for it to be below 14 by Saturday. That helps us. When those gates are closed, if we get a very heavy rain of several inches, then we have a bathtub effect where we have to pump that water through the Levy.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:05:53.000
+End: 00:06:04.000
+Duration: 11.000 seconds
+Text: We're certainly able to handle the rains that occurred over the weekend. So, the gates have been closed probably since about last Thursday, roughly.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:06:04.000
+End: 00:06:15.000
+Duration: 11.000 seconds
+Text: So, again, that's a good information. I understand that on Thursday, we're planning to hold another news conference. That one was carried live on Cayman.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:06:15.000
+End: 00:06:27.000
+Duration: 12.000 seconds
+Text: And we did do live broadcast on Facebook and City of Manhattan website. Thank you. That's all ahead, Mayor. Thank you.
+--------------------------------------------------
+Commissioner York:
+Start: 00:06:27.000
+End: 00:06:41.000
+Duration: 14.000 seconds
+Text: I think having the Kansas River down is helpful when we're letting water out of the tubes because somebody said, I think last week, we had water from the Kansas all the way up to near Rocky Fort.
+--------------------------------------------------
+Commissioner York:
+Start: 00:06:41.000
+End: 00:06:54.000
+Duration: 13.000 seconds
+Text: So, it just shows you the power of that water when it gets up pretty high. Right now, having it go down allows the blue to flow pretty evenly. So, that's really good news.
+--------------------------------------------------
+Commissioner York:
+Start: 00:06:54.000
+End: 00:07:06.000
+Duration: 12.000 seconds
+Text: We now move to item three, which is a consent agenda. These are items which are routine in nature or have been considered by the commission once before.
+--------------------------------------------------
+Commissioner York:
+Start: 00:07:06.000
+End: 00:07:15.000
+Duration: 9.000 seconds
+Text: And we ask if this time, if any of the commissioners would like to have any questions or comments on these.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:07:15.000
+End: 00:07:27.000
+Duration: 12.000 seconds
+Text: Mayor, on item D, which is the final plat of the 17th Street Properties Edition Unit 2.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:07:28.000
+End: 00:07:38.000
+Duration: 10.000 seconds
+Text: I think I want to discuss that. That's the one I mentioned earlier that calls for a 50-50 split of the costs.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:07:38.000
+End: 00:07:48.000
+Duration: 10.000 seconds
+Text: And because these owners, several of them, have not cooperated, one was out of state, whatever all the stories are.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:07:48.000
+End: 00:08:02.000
+Duration: 14.000 seconds
+Text: I'm not willing for the city to pick up the remainder. And so, I'd like for us to vote this evening to split that 50-50 and assess the residents.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:08:02.000
+End: 00:08:06.000
+Duration: 4.000 seconds
+Text: So, that can come later, but not part of the consent.
+--------------------------------------------------
+Commissioner York:
+Start: 00:08:06.000
+End: 00:08:13.000
+Duration: 7.000 seconds
+Text: I think I am remiss because I think Ron told me just before we started that we had another issue with...
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:08:13.000
+End: 00:08:16.000
+Duration: 3.000 seconds
+Text: We've had another discrepancy. This is actually item N.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:08:16.000
+End: 00:08:17.000
+Duration: 1.000 seconds
+Text: N?
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:08:17.000
+End: 00:08:27.000
+Duration: 10.000 seconds
+Text: So, it is the 17th Street Sanitary Suer Improvements. And we are recommending to withdraw that item from the consent agenda for a future meeting.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:08:27.000
+End: 00:08:29.000
+Duration: 2.000 seconds
+Text: So, the other one...
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:08:29.000
+End: 00:08:32.000
+Duration: 3.000 seconds
+Text: Item D is not the one I'm after.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:08:32.000
+End: 00:08:33.000
+Duration: 1.000 seconds
+Text: Not applicable to the...
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:08:33.000
+End: 00:08:35.000
+Duration: 2.000 seconds
+Text: But you were visiting the 17th Street.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:08:35.000
+End: 00:08:38.000
+Duration: 3.000 seconds
+Text: Okay. Well, I'm happy to...
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:08:38.000
+End: 00:08:43.000
+Duration: 5.000 seconds
+Text: So, we would have a specific motion to...
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:08:43.000
+End: 00:08:44.000
+Duration: 1.000 seconds
+Text: No, I'm just...
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:08:44.000
+End: 00:08:46.000
+Duration: 2.000 seconds
+Text: ...not included on the consent agenda.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:08:46.000
+End: 00:08:48.000
+Duration: 2.000 seconds
+Text: I'm withdrawing it from the...
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:08:48.000
+End: 00:08:49.000
+Duration: 1.000 seconds
+Text: You're withdrawing it.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:08:49.000
+End: 00:08:50.000
+Duration: 1.000 seconds
+Text: Okay. Very good.
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:08:50.000
+End: 00:08:53.000
+Duration: 3.000 seconds
+Text: I just got asked, Linda, I think it's completely cool.
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:08:53.000
+End: 00:08:55.000
+Duration: 2.000 seconds
+Text: I just got asked, and he gets pulled, you know?
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:08:55.000
+End: 00:08:56.000
+Duration: 1.000 seconds
+Text: I know.
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:08:56.000
+End: 00:09:04.000
+Duration: 8.000 seconds
+Text: Ron, on item G, could you just talk a little bit about how the research park circle and the research park drive got added to that?
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:09:05.000
+End: 00:09:07.000
+Duration: 2.000 seconds
+Text: Sure, this was...
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:09:07.000
+End: 00:09:13.000
+Duration: 6.000 seconds
+Text: The item G is the first re-even ordinance to amend the code to establish several different...
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:09:13.000
+End: 00:09:16.000
+Duration: 3.000 seconds
+Text: ...no parking at any time, locations.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:09:16.000
+End: 00:09:22.000
+Duration: 6.000 seconds
+Text: Some of those are in relations to the transit service by the Flint Hills, ATA.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:09:22.000
+End: 00:09:30.000
+Duration: 8.000 seconds
+Text: We also received a request from the owners adjacent to the streets in the research park.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:09:30.000
+End: 00:09:46.000
+Duration: 16.000 seconds
+Text: That would be the K-State Foundation and Kansas State University requesting that the parking be taking off research park circle and research park drive to allow for better traffic flow within that development.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:09:46.000
+End: 00:09:55.000
+Duration: 9.000 seconds
+Text: There has been a lot of cars parked on the streets in that area, and we'd met with them and had some requests.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:09:55.000
+End: 00:10:16.000
+Duration: 21.000 seconds
+Text: There has been some obviously some transition of ownership with the KSUIC building that went from city ownership to the university ownership, and that's had some issues with that transition from something that really didn't have parking restrictions and that parking lot to one that now is a city university lot with parking restrictions.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:10:16.000
+End: 00:10:25.000
+Duration: 9.000 seconds
+Text: And I think the commission has had some communication from some folks that aren't pleased that you might be considering eliminating this park.
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:10:25.000
+End: 00:10:36.000
+Duration: 11.000 seconds
+Text: If considering if we pass G tonight, it would go to second reading in two weeks, how soon and if we passed in that scenario, how soon would it take effect after we pass that?
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:10:36.000
+End: 00:10:41.000
+Duration: 5.000 seconds
+Text: It would take effect after publication of the ordinance in the paper.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:10:42.000
+End: 00:10:44.000
+Duration: 2.000 seconds
+Text: We get the signs up.
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:10:44.000
+End: 00:11:09.000
+Duration: 25.000 seconds
+Text: Okay, well then my only comment regarding this consent is I'm not going to be supporting that tonight only because I could understand the long term need to start to regulate parking there, but for such a long time, that has been a place that people could park and if civic plus told me tomorrow, then I needed to pay $189 within the next few weeks in order to park in their lot, that would be put me in a financial disposition.
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:11:09.000
+End: 00:11:21.000
+Duration: 12.000 seconds
+Text: So I'd rather us take an approach of maybe closing one side of it down, maybe try to change behavior over the time, but to just flat out, close it after two or three weeks after a couple of readings of an ordinance, that's not something I can support.
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:11:21.000
+End: 00:11:24.000
+Duration: 3.000 seconds
+Text: So I'll be voting no on item G.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:11:24.000
+End: 00:11:30.000
+Duration: 6.000 seconds
+Text: So I have a question about item G. So is this coming from Adibus at all?
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:11:30.000
+End: 00:11:32.000
+Duration: 2.000 seconds
+Text: No, it's totally unrelated to Adibus.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:11:32.000
+End: 00:11:40.000
+Duration: 8.000 seconds
+Text: Because the premise was that some of these were because of Adibus and some weren't as far as I was reading all the stops that they had.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:11:40.000
+End: 00:11:46.000
+Duration: 6.000 seconds
+Text: So the no parking at any time has nothing to do with Adibus at all. This is just because of other.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:11:46.000
+End: 00:11:53.000
+Duration: 7.000 seconds
+Text: We were just taking the action for the ordinance is the same for both and so we just lumped them all together.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:11:53.000
+End: 00:12:00.000
+Duration: 7.000 seconds
+Text: But no, there was nothing related to the transit service relative to the specific request in research part.
+--------------------------------------------------
+Commissioner York:
+Start: 00:12:00.000
+End: 00:12:04.000
+Duration: 4.000 seconds
+Text: But to clarify, Adibus wants to know parking at their stops.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:12:04.000
+End: 00:12:06.000
+Duration: 2.000 seconds
+Text: At their stops, correct?
+--------------------------------------------------
+Commissioner York:
+Start: 00:12:06.000
+End: 00:12:11.000
+Duration: 5.000 seconds
+Text: No. The research drive is two separate things they got combined.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:12:11.000
+End: 00:12:12.000
+Duration: 1.000 seconds
+Text: That's what I want to come up with.
+--------------------------------------------------
+Commissioner York:
+Start: 00:12:12.000
+End: 00:12:14.000
+Duration: 2.000 seconds
+Text: I'm going to vote for it because I want to support the Adibus thing.
+--------------------------------------------------
+Commissioner York:
+Start: 00:12:14.000
+End: 00:12:18.000
+Duration: 4.000 seconds
+Text: And you did say the building of Longstay State on research drive.
+--------------------------------------------------
+Commissioner York:
+Start: 00:12:18.000
+End: 00:12:19.000
+Duration: 1.000 seconds
+Text: Right.
+--------------------------------------------------
+Commissioner York:
+Start: 00:12:19.000
+End: 00:12:21.000
+Duration: 2.000 seconds
+Text: So they have the right to regulate their parking.
+--------------------------------------------------
+Commissioner York:
+Start: 00:12:21.000
+End: 00:12:23.000
+Duration: 2.000 seconds
+Text: So I don't have a problem supporting it.
+--------------------------------------------------
+Commissioner York:
+Start: 00:12:24.000
+End: 00:12:30.000
+Duration: 6.000 seconds
+Text: The I had a couple of comments on G.
+--------------------------------------------------
+Commissioner York:
+Start: 00:12:30.000
+End: 00:12:37.000
+Duration: 7.000 seconds
+Text: We can do this one or two ways in my view because if we can't kind of agree upfront, then I'll move it to the end.
+--------------------------------------------------
+Commissioner York:
+Start: 00:12:37.000
+End: 00:12:39.000
+Duration: 2.000 seconds
+Text: I think it deserves some discussion.
+--------------------------------------------------
+Commissioner York:
+Start: 00:12:39.000
+End: 00:12:44.000
+Duration: 5.000 seconds
+Text: But I'm a fairly heavy user of KOSIC.
+--------------------------------------------------
+Commissioner York:
+Start: 00:12:44.000
+End: 00:12:47.000
+Duration: 3.000 seconds
+Text: A lot of meetings are held up there.
+--------------------------------------------------
+Commissioner York:
+Start: 00:12:47.000
+End: 00:12:51.000
+Duration: 4.000 seconds
+Text: The very unique building, a very unique mission.
+--------------------------------------------------
+Commissioner York:
+Start: 00:12:52.000
+End: 00:13:02.000
+Duration: 10.000 seconds
+Text: I can't imagine a organization with a mission that KSUIC has without parking that's open.
+--------------------------------------------------
+Commissioner York:
+Start: 00:13:02.000
+End: 00:13:06.000
+Duration: 4.000 seconds
+Text: There are four slots reserved for visitors.
+--------------------------------------------------
+Commissioner York:
+Start: 00:13:06.000
+End: 00:13:10.000
+Duration: 4.000 seconds
+Text: And I can tell you, and we have our citizens in-bath committee meeting.
+--------------------------------------------------
+Commissioner York:
+Start: 00:13:10.000
+End: 00:13:12.000
+Duration: 2.000 seconds
+Text: There is no place to park.
+--------------------------------------------------
+Commissioner York:
+Start: 00:13:12.000
+End: 00:13:15.000
+Duration: 3.000 seconds
+Text: Now we've got some construction and things going on.
+--------------------------------------------------
+Commissioner York:
+Start: 00:13:15.000
+End: 00:13:24.000
+Duration: 9.000 seconds
+Text: But my recommendation is to remove that part from G and consider it later by more communication with K State.
+--------------------------------------------------
+Commissioner York:
+Start: 00:13:24.000
+End: 00:13:28.000
+Duration: 4.000 seconds
+Text: I've written a note to Alinda Cook to ask her to look into this.
+--------------------------------------------------
+Commissioner York:
+Start: 00:13:28.000
+End: 00:13:33.000
+Duration: 5.000 seconds
+Text: I just think it is the wrong approach for that kind of a building.
+--------------------------------------------------
+Commissioner York:
+Start: 00:13:33.000
+End: 00:13:42.000
+Duration: 9.000 seconds
+Text: And I think we can do a little bit more whether expanding the number of parking spots that are open or kind of working around some other things.
+--------------------------------------------------
+Commissioner York:
+Start: 00:13:42.000
+End: 00:13:44.000
+Duration: 2.000 seconds
+Text: But I agree with you.
+--------------------------------------------------
+Commissioner York:
+Start: 00:13:44.000
+End: 00:13:48.000
+Duration: 4.000 seconds
+Text: 180 bucks is a lot of money for people that are doing startups up there.
+--------------------------------------------------
+Commissioner York:
+Start: 00:13:48.000
+End: 00:13:50.000
+Duration: 2.000 seconds
+Text: That's what that building is for.
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:13:50.000
+End: 00:13:54.000
+Duration: 4.000 seconds
+Text: Yeah. I support that approach.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:13:54.000
+End: 00:14:01.000
+Duration: 7.000 seconds
+Text: I feel like all employees at K State pay to park.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:14:01.000
+End: 00:14:10.000
+Duration: 9.000 seconds
+Text: And so I don't have a problem with them regulating and causing their permit system to be used in that area.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:14:10.000
+End: 00:14:15.000
+Duration: 5.000 seconds
+Text: But I'm willing to go along for the discussion because I think we need to have it.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:14:15.000
+End: 00:14:17.000
+Duration: 2.000 seconds
+Text: Because it's not clear.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:14:17.000
+End: 00:14:21.000
+Duration: 4.000 seconds
+Text: We see a map where it's just all of it is along the drive.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:14:21.000
+End: 00:14:26.000
+Duration: 5.000 seconds
+Text: But the area around KSUIC isn't in the map.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:14:26.000
+End: 00:14:30.000
+Duration: 4.000 seconds
+Text: So it's just really the parking, that drive, research drive.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:14:30.000
+End: 00:14:33.000
+Duration: 3.000 seconds
+Text: But there's a new building that's being built there.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:14:33.000
+End: 00:14:39.000
+Duration: 6.000 seconds
+Text: And I think maybe there needs to be, maybe they'll give some thought to the more comprehensive look at the site.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:14:39.000
+End: 00:14:42.000
+Duration: 3.000 seconds
+Text: I don't mind discussing it.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:14:42.000
+End: 00:14:49.000
+Duration: 7.000 seconds
+Text: But KSU Foundation and KSU Kansas State University and the city are three different entities.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:14:49.000
+End: 00:14:56.000
+Duration: 7.000 seconds
+Text: And so I want to make sure we're not infringing on somebody else's control over this area.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:14:56.000
+End: 00:15:02.000
+Duration: 6.000 seconds
+Text: And we do what we need to do as far as in the best interest of the city.
+--------------------------------------------------
+Commissioner York:
+Start: 00:15:02.000
+End: 00:15:20.000
+Duration: 18.000 seconds
+Text: To clarify the motion that I would make, seek a second on, is that remove the park is relative to research park, research park drive from G and approve G as written otherwise.
+--------------------------------------------------
+Commissioner York:
+Start: 00:15:20.000
+End: 00:15:29.000
+Duration: 9.000 seconds
+Text: And then Linda, you wanted to do something with D or with the organ object to D.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:15:29.000
+End: 00:15:34.000
+Duration: 5.000 seconds
+Text: Well Ron has withdrawn actually item in.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:15:34.000
+End: 00:15:36.000
+Duration: 2.000 seconds
+Text: So we don't have to do anything with it.
+--------------------------------------------------
+Commissioner York:
+Start: 00:15:36.000
+End: 00:15:42.000
+Duration: 6.000 seconds
+Text: So do we have a second or a second?
+--------------------------------------------------
+Commissioner York:
+Start: 00:15:42.000
+End: 00:15:49.000
+Duration: 7.000 seconds
+Text: And can you call the role on this, the motion will be to approve the consent agenda with the ex.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:15:49.000
+End: 00:15:50.000
+Duration: 1.000 seconds
+Text: Somebody needs to make it.
+--------------------------------------------------
+Commissioner York:
+Start: 00:15:50.000
+End: 00:15:52.000
+Duration: 2.000 seconds
+Text: I did.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:15:52.000
+End: 00:15:55.000
+Duration: 3.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:15:55.000
+End: 00:15:57.000
+Duration: 2.000 seconds
+Text: We didn't hear it either.
+--------------------------------------------------
+Commissioner York:
+Start: 00:15:57.000
+End: 00:16:03.000
+Duration: 6.000 seconds
+Text: We'll have public comment first and then you can call the role, Brian.
+--------------------------------------------------
+Commissioner York:
+Start: 00:16:03.000
+End: 00:16:06.000
+Duration: 3.000 seconds
+Text: So public comment on the consent agenda please.
+--------------------------------------------------
+Commissioner York:
+Start: 00:16:06.000
+End: 00:16:14.000
+Duration: 8.000 seconds
+Text: Anyone wishing to come forward and make a comment about any item on the consent agenda please come forward now.
+--------------------------------------------------
+Commissioner York:
+Start: 00:16:14.000
+End: 00:16:18.000
+Duration: 4.000 seconds
+Text: Please, just tell us your name and where you live.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:16:18.000
+End: 00:16:21.000
+Duration: 3.000 seconds
+Text: Trevor McKeeman, a man atten here.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:16:21.000
+End: 00:16:28.000
+Duration: 7.000 seconds
+Text: And I'm on the research park circle drive parking is what I'm interested in visiting.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:16:28.000
+End: 00:16:32.000
+Duration: 4.000 seconds
+Text: I send a letter to the commission and hopefully you've received that.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:16:32.000
+End: 00:16:41.000
+Duration: 9.000 seconds
+Text: I have some copies otherwise, but we've been up at the IC now for 13 years since it since it opened.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:16:41.000
+End: 00:16:44.000
+Duration: 3.000 seconds
+Text: And I would agree totally with your comments.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:16:44.000
+End: 00:16:49.000
+Duration: 5.000 seconds
+Text: It's been a great place to bring in people from all over the world from start-up perspective.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:16:49.000
+End: 00:16:55.000
+Duration: 6.000 seconds
+Text: I just had a meeting with an investor today who is investing in our little startup up there.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:16:55.000
+End: 00:17:00.000
+Duration: 5.000 seconds
+Text: He's putting a sizable amount in and we were talking about a meeting location and he said,
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:17:00.000
+End: 00:17:04.000
+Duration: 4.000 seconds
+Text: well, I'd really like to come up and visit you guys, but the parking is so terrible up there.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:17:04.000
+End: 00:17:06.000
+Duration: 2.000 seconds
+Text: I can't do it.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:17:06.000
+End: 00:17:09.000
+Duration: 3.000 seconds
+Text: So here you have a guy that's about right, you know, potentially a very large check.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:17:09.000
+End: 00:17:13.000
+Duration: 4.000 seconds
+Text: And just what the changes that have been made, it's been very difficult to do it.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:17:13.000
+End: 00:17:16.000
+Duration: 3.000 seconds
+Text: So my concern really is a couple fold.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:17:17.000
+End: 00:17:20.000
+Duration: 3.000 seconds
+Text: Again, this has been a great location for the city.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:17:20.000
+End: 00:17:26.000
+Duration: 6.000 seconds
+Text: One, you know, as that parking lot was transitioned to K-State,
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:17:26.000
+End: 00:17:31.000
+Duration: 5.000 seconds
+Text: the concern really I have is as companies grow within that building,
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:17:31.000
+End: 00:17:36.000
+Duration: 5.000 seconds
+Text: we will very quickly max out the available K-State parking there.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:17:36.000
+End: 00:17:41.000
+Duration: 5.000 seconds
+Text: And so if the city streets that lead to those parking lots are closed down,
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:17:41.000
+End: 00:17:45.000
+Duration: 4.000 seconds
+Text: there will literally be no other place for parking.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:17:45.000
+End: 00:17:50.000
+Duration: 5.000 seconds
+Text: And the closest public street is actually across North Manhattan on the east side.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:17:50.000
+End: 00:17:57.000
+Duration: 7.000 seconds
+Text: So you'd have people parking in a residential neighborhood to cross pretty busy North Manhattan to get to the IC.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:17:57.000
+End: 00:18:00.000
+Duration: 3.000 seconds
+Text: And that just doesn't seem like a really safe option.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:18:00.000
+End: 00:18:04.000
+Duration: 4.000 seconds
+Text: So just overall amount is a problem.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:18:04.000
+End: 00:18:09.000
+Duration: 5.000 seconds
+Text: I'd say to the point on the four parking spaces, I mean, there's some really great conference rooms.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:18:09.000
+End: 00:18:14.000
+Duration: 5.000 seconds
+Text: I'm sure you guys have all been up there with the four spots.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:18:14.000
+End: 00:18:18.000
+Duration: 4.000 seconds
+Text: Basically, that limits the size of the meeting to four outside people.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:18:18.000
+End: 00:18:21.000
+Duration: 3.000 seconds
+Text: That doesn't work well.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:18:21.000
+End: 00:18:27.000
+Duration: 6.000 seconds
+Text: You know, the whole part with the parking spots there,
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:18:27.000
+End: 00:18:30.000
+Duration: 3.000 seconds
+Text: you have to have even a permit to use those.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:18:30.000
+End: 00:18:34.000
+Duration: 4.000 seconds
+Text: So literally I had another investor stop by for 15 minutes the other day.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:18:34.000
+End: 00:18:40.000
+Duration: 6.000 seconds
+Text: I would have had to have gone down to K-State parking services, picked up a $5 pass,
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:18:40.000
+End: 00:18:43.000
+Duration: 3.000 seconds
+Text: put it in his window for a 15 minute conversation.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:18:43.000
+End: 00:18:49.000
+Duration: 6.000 seconds
+Text: And I'd literally spend more time acquiring a temporary parking permit than I would having the meeting.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:18:49.000
+End: 00:18:52.000
+Duration: 3.000 seconds
+Text: So, you know, that doesn't make sense.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:18:52.000
+End: 00:18:58.000
+Duration: 6.000 seconds
+Text: The Mbaff parking there, I think, is a temporary issue.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:18:58.000
+End: 00:19:03.000
+Duration: 5.000 seconds
+Text: And this is outside of the city's, probably the discussion on the street.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:19:03.000
+End: 00:19:08.000
+Duration: 5.000 seconds
+Text: But a lot of the cars that are on that public drive are Mbaff employees.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:19:08.000
+End: 00:19:11.000
+Duration: 3.000 seconds
+Text: And I don't see that as a long-term thing.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:19:11.000
+End: 00:19:18.000
+Duration: 7.000 seconds
+Text: They're parking there because obviously there are challenges in other areas where they're supposed to be parking.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:19:18.000
+End: 00:19:23.000
+Duration: 5.000 seconds
+Text: And, you know, the biggest thing that, you know, I'm out, I'm on the west coast,
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:19:23.000
+End: 00:19:26.000
+Duration: 3.000 seconds
+Text: and I'm on the east coast a lot visiting with other tech companies.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:19:26.000
+End: 00:19:32.000
+Duration: 6.000 seconds
+Text: And I'm constantly saying Manhattan's a great place to have a tech company because it's easy to do business here.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:19:32.000
+End: 00:19:34.000
+Duration: 2.000 seconds
+Text: And it has been.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:19:34.000
+End: 00:19:40.000
+Duration: 6.000 seconds
+Text: Fantastic. I mentioned in my letter, this is my third tech company at the IC.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:19:40.000
+End: 00:19:44.000
+Duration: 4.000 seconds
+Text: And it's fulfilled its mission, I think, beautifully.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:19:44.000
+End: 00:19:45.000
+Duration: 1.000 seconds
+Text: We love the space.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:19:45.000
+End: 00:19:50.000
+Duration: 5.000 seconds
+Text: And so, any little frictions that we put on in parking, it sounds like such a trivial thing.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:19:50.000
+End: 00:19:55.000
+Duration: 5.000 seconds
+Text: But it's really not. Any frictions that we put on these things that prevent meetings from happening,
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:19:55.000
+End: 00:20:01.000
+Duration: 6.000 seconds
+Text: or investors from coming into town, or, you know, that guy drives all the way in from,
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:20:01.000
+End: 00:20:03.000
+Duration: 2.000 seconds
+Text: or flies in from Chicago.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:20:03.000
+End: 00:20:11.000
+Duration: 8.000 seconds
+Text: First thing he's greeted with is a parking ticket from being up at an innovation center.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:20:11.000
+End: 00:20:16.000
+Duration: 5.000 seconds
+Text: It's not the best example of an open and innovative place.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:20:16.000
+End: 00:20:23.000
+Duration: 7.000 seconds
+Text: So, I would just urge the commission to really think about those public streets as an open public place.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:20:23.000
+End: 00:20:29.000
+Duration: 6.000 seconds
+Text: They're the same width as other public streets that people are allowed to park on.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:20:29.000
+End: 00:20:32.000
+Duration: 3.000 seconds
+Text: This isn't really, in my mind, a safety issue at all.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:20:32.000
+End: 00:20:36.000
+Duration: 4.000 seconds
+Text: There's very little traffic in and out of that. It's a cul-de-sac area.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:20:36.000
+End: 00:20:39.000
+Duration: 3.000 seconds
+Text: So, it's not like there's heavy traffic.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:20:39.000
+End: 00:20:41.000
+Duration: 2.000 seconds
+Text: You know, it's a...
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:20:41.000
+End: 00:20:47.000
+Duration: 6.000 seconds
+Text: I think it will be a material detriment to the building if we eliminate public parking on the street.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:20:47.000
+End: 00:20:50.000
+Duration: 3.000 seconds
+Text: So, anyway, happy to answer any questions at the office.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:20:50.000
+End: 00:20:52.000
+Duration: 2.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:20:52.000
+End: 00:21:02.000
+Duration: 10.000 seconds
+Text: Mayor, members of the commission, I'm Kent Glaskock with KC Institute for Commercialization.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:21:02.000
+End: 00:21:09.000
+Duration: 7.000 seconds
+Text: And let me echo what Trevor said, his start-up company is doing very well,
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:21:09.000
+End: 00:21:15.000
+Duration: 6.000 seconds
+Text: is raising significant amount of money and is adding employees.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:21:15.000
+End: 00:21:22.000
+Duration: 7.000 seconds
+Text: I also want to echo Mayor York Comments at Commissioner McKee.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:21:22.000
+End: 00:21:26.000
+Duration: 4.000 seconds
+Text: The KSUIC building is private sector focused.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:21:26.000
+End: 00:21:31.000
+Duration: 5.000 seconds
+Text: We are outside out facing focused.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:21:31.000
+End: 00:21:38.000
+Duration: 7.000 seconds
+Text: We have companies come in who are wanting to partner with Kansas State University,
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:21:38.000
+End: 00:21:43.000
+Duration: 5.000 seconds
+Text: who may want to reside and create a location in Manhattan.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:21:43.000
+End: 00:21:47.000
+Duration: 4.000 seconds
+Text: And we have student interns.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:21:47.000
+End: 00:21:51.000
+Duration: 4.000 seconds
+Text: We have student employees, College of Ed Med,
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:21:51.000
+End: 00:21:57.000
+Duration: 6.000 seconds
+Text: and Priscilla Rodney of the CFO of College of Ed Med was to be here tonight,
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:21:57.000
+End: 00:22:00.000
+Duration: 3.000 seconds
+Text: but had a conflict to rise.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:22:00.000
+End: 00:22:08.000
+Duration: 8.000 seconds
+Text: But they have students working in the diagnostic labs
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:22:08.000
+End: 00:22:14.000
+Duration: 6.000 seconds
+Text: who can't afford Commissioner to your point, a parking permit.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:22:14.000
+End: 00:22:18.000
+Duration: 4.000 seconds
+Text: We have visitors from around the world, around the country,
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:22:18.000
+End: 00:22:23.000
+Duration: 5.000 seconds
+Text: who are private sector folks, who are trying to do business with.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:22:23.000
+End: 00:22:29.000
+Duration: 6.000 seconds
+Text: And if you, when you come back to the issue, and I appreciate your sort,
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:22:29.000
+End: 00:22:33.000
+Duration: 4.000 seconds
+Text: bifurcating the issue from items G,
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:22:33.000
+End: 00:22:39.000
+Duration: 6.000 seconds
+Text: but what our folks, our visitors, who have to do beyond the number of four,
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:22:39.000
+End: 00:22:47.000
+Duration: 8.000 seconds
+Text: is probably park on Keen Street and Blue Hills Road, where you can park.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:22:47.000
+End: 00:22:53.000
+Duration: 6.000 seconds
+Text: There are no sidewalks and huff it across North Manhattan Avenue,
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:22:53.000
+End: 00:22:59.000
+Duration: 6.000 seconds
+Text: up to the four lane road to get to our building.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:22:59.000
+End: 00:23:05.000
+Duration: 6.000 seconds
+Text: And I can't imagine a worse outward facing place for companies to interact
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:23:05.000
+End: 00:23:08.000
+Duration: 3.000 seconds
+Text: with Manhattan and Kansas State University and than that.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:23:08.000
+End: 00:23:12.000
+Duration: 4.000 seconds
+Text: So I appreciate your indulgence, I appreciate your consideration.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:23:12.000
+End: 00:23:19.000
+Duration: 7.000 seconds
+Text: And when you come back to the issue, let's have a solution in hand
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:23:19.000
+End: 00:23:22.000
+Duration: 3.000 seconds
+Text: that compromises all interests. Thank you so much.
+--------------------------------------------------
+Commissioner York:
+Start: 00:23:22.000
+End: 00:23:25.000
+Duration: 3.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner York:
+Start: 00:23:25.000
+End: 00:23:28.000
+Duration: 3.000 seconds
+Text: Anyone else please?
+--------------------------------------------------
+Commissioner York:
+Start: 00:23:30.000
+End: 00:23:36.000
+Duration: 6.000 seconds
+Text: You will close public comment and come back to the commission any further comment.
+--------------------------------------------------
+Commissioner York:
+Start: 00:23:36.000
+End: 00:23:39.000
+Duration: 3.000 seconds
+Text: Call the roll please.
+--------------------------------------------------
+Commissioner York:
+Start: 00:23:39.000
+End: 00:23:41.000
+Duration: 2.000 seconds
+Text: Mayor Dotson. Yes.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:23:41.000
+End: 00:23:44.000
+Duration: 3.000 seconds
+Text: Commissioner Reddy. Yes.
+--------------------------------------------------
+Commissioner York:
+Start: 00:23:44.000
+End: 00:23:46.000
+Duration: 2.000 seconds
+Text: Commissioner Butler. Yes.
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:23:46.000
+End: 00:23:48.000
+Duration: 2.000 seconds
+Text: Commissioner McKee. Yes.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:23:48.000
+End: 00:23:50.000
+Duration: 2.000 seconds
+Text: Commissioner Morse. Yes.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:23:50.000
+End: 00:23:54.000
+Duration: 4.000 seconds
+Text: Motion carries 5-0.
+--------------------------------------------------
+Commissioner York:
+Start: 00:23:54.000
+End: 00:23:59.000
+Duration: 5.000 seconds
+Text: We'll now move to item 4, which is the general agenda.
+--------------------------------------------------
+Commissioner York:
+Start: 00:23:59.000
+End: 00:24:04.000
+Duration: 5.000 seconds
+Text: And item A, under the general agenda, is to consider the first reading of an ordinance
+--------------------------------------------------
+Commissioner York:
+Start: 00:24:04.000
+End: 00:24:11.000
+Duration: 7.000 seconds
+Text: rezoning 9-11 sunset avenue from R2U-O to family residential with the University overlay
+--------------------------------------------------
+Commissioner York:
+Start: 00:24:11.000
+End: 00:24:17.000
+Duration: 6.000 seconds
+Text: to RM4 family residential district.
+--------------------------------------------------
+Commissioner York:
+Start: 00:24:17.000
+End: 00:24:19.000
+Duration: 2.000 seconds
+Text: Good evening, Commissioner.
+--------------------------------------------------
+City Manager:
+Start: 00:24:19.000
+End: 00:24:24.000
+Duration: 5.000 seconds
+Text: We'll move to item 3, which is the general agenda.
+--------------------------------------------------
+City Manager:
+Start: 00:26:49.000
+End: 00:26:54.000
+Duration: 5.000 seconds
+Text: The general agenda is to consider the first reading of an ordinance
+--------------------------------------------------
+City Manager:
+Start: 00:26:54.000
+End: 00:26:59.000
+Duration: 5.000 seconds
+Text: to the city.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:26:59.000
+End: 00:27:04.000
+Duration: 5.000 seconds
+Text: The general agenda is to consider the first reading of an ordinance
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:27:04.000
+End: 00:27:08.000
+Duration: 4.000 seconds
+Text: to the city.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:27:09.000
+End: 00:27:12.000
+Duration: 3.000 seconds
+Text: By the way, I have a 6-unit apartment building instead of a 4.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:27:12.000
+End: 00:27:15.000
+Duration: 3.000 seconds
+Text: Talk about that a bit.
+--------------------------------------------------
+Commissioner York:
+Start: 00:27:15.000
+End: 00:27:17.000
+Duration: 2.000 seconds
+Text: The maximum under this rezoning district
+--------------------------------------------------
+Commissioner York:
+Start: 00:27:17.000
+End: 00:27:21.000
+Duration: 4.000 seconds
+Text: that they're seeking is that it would be a 4 family dwelling.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:27:21.000
+End: 00:27:25.000
+Duration: 4.000 seconds
+Text: That is the plan now. That's the maximum that would be allowed.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:27:25.000
+End: 00:27:27.000
+Duration: 2.000 seconds
+Text: Yes. Thank you. Thank you.
+--------------------------------------------------
+City Manager:
+Start: 00:27:27.000
+End: 00:27:30.000
+Duration: 3.000 seconds
+Text: I appreciate that.
+--------------------------------------------------
+Commissioner York:
+Start: 00:27:30.000
+End: 00:27:36.000
+Duration: 6.000 seconds
+Text: On this item, anyone wishing to comment
+--------------------------------------------------
+Commissioner York:
+Start: 00:27:36.000
+End: 00:27:39.600
+Duration: 3.600 seconds
+Text: comment from the public. Please come forward at this time.
+--------------------------------------------------
+Commissioner York:
+Start: 00:27:46.160
+End: 00:27:48.800
+Duration: 2.640 seconds
+Text: You see no one entertain a motion for this item.
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:27:49.720
+End: 00:27:54.480
+Duration: 4.760 seconds
+Text: I move we approve first reading of an ordinance rezoning 9-1-1 sunset avenue
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:27:54.880
+End: 00:28:00.120
+Duration: 5.240 seconds
+Text: a 0.25 acre site from R2 OU to family residential with the University
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:28:00.120
+End: 00:28:04.320
+Duration: 4.200 seconds
+Text: overlay to RM4 family residential district based on the findings and the staff
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:28:04.320
+End: 00:28:08.160
+Duration: 3.840 seconds
+Text: report and recommendations and may not an urban area planning board. Second.
+--------------------------------------------------
+Commissioner York:
+Start: 00:28:10.880
+End: 00:28:14.440
+Duration: 3.560 seconds
+Text: Call the roll please. Commissioner Reddy. Yes.
+--------------------------------------------------
+Commissioner York:
+Start: 00:28:15.120
+End: 00:28:18.320
+Duration: 3.200 seconds
+Text: Commissioner Butler. Yes. Commissioner McKee. Yes.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:28:18.840
+End: 00:28:22.200
+Duration: 3.360 seconds
+Text: Commissioner Morris. Yes. Mayor Dawson. Yes.
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:28:22.240
+End: 00:28:23.680
+Duration: 1.440 seconds
+Text: Motion carries 5-0.
+--------------------------------------------------
+Commissioner York:
+Start: 00:28:25.080
+End: 00:28:28.600
+Duration: 3.520 seconds
+Text: We'll now move to item B which is to consider professional services
+--------------------------------------------------
+Commissioner York:
+Start: 00:28:28.600
+End: 00:28:33.120
+Duration: 4.520 seconds
+Text: agreements and project authorization resolutions for 12th Street from
+--------------------------------------------------
+Commissioner York:
+Start: 00:28:33.120
+End: 00:28:38.000
+Duration: 4.880 seconds
+Text: Moro Street to Blumont Avenue. Laramie Street from North Manhattan Avenue.
+--------------------------------------------------
+City Manager:
+Start: 00:29:03.120
+End: 00:29:33.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:29:33.120
+End: 00:30:03.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:30:03.120
+End: 00:30:33.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:30:33.120
+End: 00:31:03.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:31:03.120
+End: 00:31:33.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:31:33.120
+End: 00:32:03.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:32:03.120
+End: 00:32:33.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:32:33.120
+End: 00:33:03.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:33:03.120
+End: 00:33:33.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:33:33.120
+End: 00:34:03.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:34:03.120
+End: 00:34:33.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:34:33.120
+End: 00:35:03.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:35:03.120
+End: 00:35:33.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:35:33.120
+End: 00:36:03.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:36:03.120
+End: 00:36:33.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:36:33.120
+End: 00:37:03.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:37:03.120
+End: 00:37:33.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:37:33.120
+End: 00:38:03.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:38:03.120
+End: 00:38:33.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:38:33.120
+End: 00:39:03.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:39:03.120
+End: 00:39:33.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:39:33.120
+End: 00:40:03.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:40:03.120
+End: 00:40:33.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:40:33.120
+End: 00:41:03.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:41:03.120
+End: 00:41:33.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:41:33.120
+End: 00:42:03.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:42:03.120
+End: 00:42:33.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:42:33.120
+End: 00:43:03.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:43:03.120
+End: 00:43:33.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:43:33.120
+End: 00:44:03.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:44:03.120
+End: 00:44:33.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:44:33.120
+End: 00:45:03.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:45:03.120
+End: 00:45:33.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:45:33.120
+End: 00:46:03.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:46:03.120
+End: 00:46:33.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:46:33.120
+End: 00:47:03.120
+Duration: 30.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:47:03.120
+End: 00:47:11.120
+Duration: 8.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:47:11.120
+End: 00:47:15.120
+Duration: 4.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:47:15.120
+End: 00:47:19.120
+Duration: 4.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:47:19.120
+End: 00:47:21.120
+Duration: 2.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:47:21.120
+End: 00:47:25.120
+Duration: 4.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:47:25.120
+End: 00:47:29.120
+Duration: 4.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:47:29.120
+End: 00:47:33.120
+Duration: 4.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:47:33.120
+End: 00:47:37.120
+Duration: 4.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:47:37.120
+End: 00:47:41.120
+Duration: 4.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:47:41.120
+End: 00:47:45.120
+Duration: 4.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:47:45.120
+End: 00:47:49.120
+Duration: 4.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:47:49.120
+End: 00:47:53.120
+Duration: 4.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:47:53.120
+End: 00:47:57.120
+Duration: 4.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:47:57.120
+End: 00:47:59.120
+Duration: 2.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:47:59.120
+End: 00:48:01.120
+Duration: 2.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:48:01.120
+End: 00:48:03.120
+Duration: 2.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:48:03.120
+End: 00:48:05.120
+Duration: 2.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:48:05.120
+End: 00:48:07.120
+Duration: 2.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:48:07.120
+End: 00:48:09.120
+Duration: 2.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:48:09.120
+End: 00:48:11.120
+Duration: 2.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:48:11.120
+End: 00:48:13.120
+Duration: 2.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:48:13.120
+End: 00:48:15.120
+Duration: 2.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:48:15.120
+End: 00:48:17.120
+Duration: 2.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:48:17.120
+End: 00:48:19.120
+Duration: 2.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:48:19.120
+End: 00:48:21.120
+Duration: 2.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:48:21.120
+End: 00:48:23.120
+Duration: 2.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:48:23.120
+End: 00:48:25.120
+Duration: 2.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:48:25.120
+End: 00:48:27.120
+Duration: 2.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:48:27.120
+End: 00:48:29.120
+Duration: 2.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:48:29.120
+End: 00:48:31.120
+Duration: 2.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+City Manager:
+Start: 00:48:31.120
+End: 00:48:33.120
+Duration: 2.000 seconds
+Text: We'll move to item B which is to consider professional services
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:48:33.120
+End: 00:48:43.120
+Duration: 10.000 seconds
+Text: Seems to me that a parking management plan at the point of design is premature for that plan
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:48:43.120
+End: 00:48:53.120
+Duration: 10.000 seconds
+Text: It seems to me it needs to be separated so that the parking management plan is considered in as a whole
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:48:53.120
+End: 00:48:59.120
+Duration: 6.000 seconds
+Text: As a whole and that it doesn't come back that parking management plan with a
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:48:59.120
+End: 00:49:07.120
+Duration: 8.000 seconds
+Text: At the same time as the design so that we have
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:49:07.120
+End: 00:49:15.120
+Duration: 8.000 seconds
+Text: I just think that people need input into the parking management plan
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:49:15.120
+End: 00:49:19.120
+Duration: 4.000 seconds
+Text: That isn't part of the design of the parking garage
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:49:19.120
+End: 00:49:25.120
+Duration: 6.000 seconds
+Text: The consultant we're talking about hiring does both
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:49:25.120
+End: 00:49:29.120
+Duration: 4.000 seconds
+Text: As I mentioned they are partnered with us out at the airport
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:49:29.120
+End: 00:49:35.120
+Duration: 6.000 seconds
+Text: Knowing how the businesses and the community are going to react
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:49:35.120
+End: 00:49:41.120
+Duration: 6.000 seconds
+Text: They're going to be a lot of opinions on how to manage parking in Aggieville
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:49:41.120
+End: 00:49:45.120
+Duration: 4.000 seconds
+Text: Why we have them at the table talking about the asset and the resource for parking
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:49:45.120
+End: 00:49:49.120
+Duration: 4.000 seconds
+Text: We would really like their input and feedback on how we're going to manage it
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:49:49.120
+End: 00:49:51.120
+Duration: 2.000 seconds
+Text: Rather than go through two processes
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:49:51.120
+End: 00:49:53.120
+Duration: 2.000 seconds
+Text: Let's go through one and talk about both
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:49:53.120
+End: 00:49:55.120
+Duration: 2.000 seconds
+Text: Here's how the garage is going to be managed
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:49:55.120
+End: 00:49:59.120
+Duration: 4.000 seconds
+Text: Here's how your on-street parking public wise is going to be managed
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:49:59.120
+End: 00:50:03.120
+Duration: 4.000 seconds
+Text: I think you have to get into the park and I think you had a 14th street
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:50:03.120
+End: 00:50:05.120
+Duration: 2.000 seconds
+Text: Bluemont I think you have to get into not bluemont
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:50:05.120
+End: 00:50:09.120
+Duration: 4.000 seconds
+Text: But north of bluemont you have to talk about the entire area and how it's going to be used
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:50:09.120
+End: 00:50:13.120
+Duration: 4.000 seconds
+Text: Before you address how the garage is going to be managed
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:50:13.120
+End: 00:50:17.120
+Duration: 4.000 seconds
+Text: When we went up to Lincoln it's all tied in together
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:50:17.120
+End: 00:50:21.120
+Duration: 4.000 seconds
+Text: There are strategies on street and there are strategies in the garage themselves
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:50:21.120
+End: 00:50:25.120
+Duration: 4.000 seconds
+Text: They fluctuate by a time of day, day of week, and event
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:50:25.120
+End: 00:50:29.120
+Duration: 4.000 seconds
+Text: And they're tied together
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:50:29.120
+End: 00:50:31.120
+Duration: 2.000 seconds
+Text: So there's clearly opportunity for people to park on those streets
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:50:31.120
+End: 00:50:35.120
+Duration: 4.000 seconds
+Text: And in the garage during certain times of the day in the consistent manner
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:50:35.120
+End: 00:50:37.120
+Duration: 2.000 seconds
+Text: And events are treated the same as well
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:50:37.120
+End: 00:50:41.120
+Duration: 4.000 seconds
+Text: So we feel like having the consultant with that extra care
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:50:41.120
+End: 00:50:45.120
+Duration: 4.000 seconds
+Text: We feel like having the consultant with that extra teeth at the table
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:50:45.120
+End: 00:50:49.120
+Duration: 4.000 seconds
+Text: Now we can take advantage and look at those plans together
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:50:49.120
+End: 00:50:53.120
+Duration: 4.000 seconds
+Text: So they're not interdependent
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:50:53.120
+End: 00:50:57.120
+Duration: 4.000 seconds
+Text: They are two separate projects going forth together
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:50:57.120
+End: 00:50:59.120
+Duration: 2.000 seconds
+Text: But not
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:50:59.120
+End: 00:51:03.120
+Duration: 4.000 seconds
+Text: We're not going to be presented with a parking management plan
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:51:03.120
+End: 00:51:07.120
+Duration: 4.000 seconds
+Text: The night we get a plan for the design three years from now
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:51:07.120
+End: 00:51:09.120
+Duration: 2.000 seconds
+Text: I mean
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:51:09.120
+End: 00:51:13.120
+Duration: 4.000 seconds
+Text: Every segment of roadway we're talking about redoing an Aggieville
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:51:13.120
+End: 00:51:15.120
+Duration: 2.000 seconds
+Text: I know the road
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:51:15.120
+End: 00:51:19.120
+Duration: 4.000 seconds
+Text: Could potentially need infrastructure to manage that parking
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:51:19.120
+End: 00:51:23.120
+Duration: 4.000 seconds
+Text: Now I talked about the KTAG scenario and not everybody's going to have one of those
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:51:23.120
+End: 00:51:25.120
+Duration: 2.000 seconds
+Text: You come from out of town and you want to park an Aggieville
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:51:25.120
+End: 00:51:29.120
+Duration: 4.000 seconds
+Text: You're more likely you're going to have to go to a kiosk to pay or something in the garage
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:51:29.120
+End: 00:51:31.120
+Duration: 2.000 seconds
+Text: To pay
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:51:31.120
+End: 00:51:35.120
+Duration: 4.000 seconds
+Text: We got to integrate that infrastructure and that parking management together
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:51:35.120
+End: 00:51:41.120
+Duration: 6.000 seconds
+Text: So parking on the street and parking in the garage is handled in a very similar way
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:51:41.120
+End: 00:51:43.120
+Duration: 2.000 seconds
+Text: From a management standpoint
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:51:43.120
+End: 00:51:47.120
+Duration: 4.000 seconds
+Text: So that infrastructure even in Lawrence or other communities where you find
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:51:47.120
+End: 00:51:51.120
+Duration: 4.000 seconds
+Text: On street, off street and garages
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:51:51.120
+End: 00:51:55.120
+Duration: 4.000 seconds
+Text: They integrate their systems towards the user friendly system
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:51:55.120
+End: 00:51:57.120
+Duration: 2.000 seconds
+Text: And people can easily adapt
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:51:57.120
+End: 00:52:01.120
+Duration: 4.000 seconds
+Text: I know more and more stories we're hearing from staff who have traveled
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:52:01.120
+End: 00:52:09.120
+Duration: 8.000 seconds
+Text: Your phone is a great resource in a lot of these metro areas to you can secure a parking stall before you even get there
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:52:09.120
+End: 00:52:13.120
+Duration: 4.000 seconds
+Text: Once you arrive you can even pay for your parking via your phone
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:52:13.120
+End: 00:52:19.120
+Duration: 6.000 seconds
+Text: And we want to develop those systems as we put this design together for the garage for Aggieville
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:52:21.120
+End: 00:52:27.120
+Duration: 6.000 seconds
+Text: I just don't want to be presented one night here with the parking plan
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:52:27.120
+End: 00:52:37.120
+Duration: 10.000 seconds
+Text: And not have any opportunity to review it carefully and thoroughly and make it as responsive as we can
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:52:37.120
+End: 00:52:41.120
+Duration: 4.000 seconds
+Text: Much like when we're at 30% designed for the roadways and the garage
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:52:41.120
+End: 00:52:51.120
+Duration: 10.000 seconds
+Text: We'll have a parking management discussion about what they're thinking and what we've heard and get reactions from the commission
+--------------------------------------------------
+Commissioner York:
+Start: 00:52:51.120
+End: 00:52:59.120
+Duration: 8.000 seconds
+Text: I think the intent, as you stated earlier, is bring things back at intermediate times before we get to vote
+--------------------------------------------------
+Commissioner York:
+Start: 00:52:59.120
+End: 00:53:01.120
+Duration: 2.000 seconds
+Text: Absolutely
+--------------------------------------------------
+Commissioner York:
+Start: 00:53:01.120
+End: 00:53:05.120
+Duration: 4.000 seconds
+Text: So I think we'll have an opportunity for review items before we have to go ahead
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:53:05.120
+End: 00:53:07.120
+Duration: 2.000 seconds
+Text: Be sure it's vetted thoroughly
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:53:07.120
+End: 00:53:15.120
+Duration: 8.000 seconds
+Text: I think that's where the ones having the courage to vote to fund a parking garage
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:53:15.120
+End: 00:53:27.120
+Duration: 12.000 seconds
+Text: Be sure that the other part of that, the customer, the citizen is thoroughly engaged in it also
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:53:27.120
+End: 00:53:35.120
+Duration: 8.000 seconds
+Text: And isn't I want them to be satisfied with this too
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:53:35.120
+End: 00:53:41.120
+Duration: 6.000 seconds
+Text: The parking is a very hard thing to please everybody with even our system today doesn't please everybody
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:53:41.120
+End: 00:53:45.120
+Duration: 4.000 seconds
+Text: So I know that controversy is coming, the controversy is coming
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:53:45.120
+End: 00:53:49.120
+Duration: 4.000 seconds
+Text: You're going to have 100 businesses with 100 different opinions how to address parking
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:53:49.120
+End: 00:53:55.120
+Duration: 6.000 seconds
+Text: A lot of them are going to want to stall right up front of their business that we don't charge for
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:53:55.120
+End: 00:54:03.120
+Duration: 8.000 seconds
+Text: Yeah, I'm all for doing parking management plan up front because then you're not going to be changing something at the last minute
+--------------------------------------------------
+Commissioner York:
+Start: 00:54:03.120
+End: 00:54:07.120
+Duration: 4.000 seconds
+Text: And of course what it doesn't address is that's going to be a revenue source
+--------------------------------------------------
+Commissioner York:
+Start: 00:54:07.120
+End: 00:54:09.120
+Duration: 2.000 seconds
+Text: Does that help offset some of the cost of this?
+--------------------------------------------------
+Commissioner York:
+Start: 00:54:09.120
+End: 00:54:15.120
+Duration: 6.000 seconds
+Text: And I assume it will and so that's why that needs to be sort of researched early on
+--------------------------------------------------
+Commissioner York:
+Start: 00:54:15.120
+End: 00:54:21.120
+Duration: 6.000 seconds
+Text: Now what we've got on the table here tonight is about $5.2 million worth of bond for the planning
+--------------------------------------------------
+Commissioner York:
+Start: 00:54:21.120
+End: 00:54:23.120
+Duration: 2.000 seconds
+Text: Now where does that money come from?
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:54:23.120
+End: 00:54:29.120
+Duration: 6.000 seconds
+Text: Right now we're not committing to anything to diet
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:54:29.120
+End: 00:54:33.120
+Duration: 4.000 seconds
+Text: More than what we anticipate being able to bond with the TIFF
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:54:33.120
+End: 00:54:37.120
+Duration: 4.000 seconds
+Text: Right now you got about $5.5 million worth of expenses
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:54:37.120
+End: 00:54:41.120
+Duration: 4.000 seconds
+Text: We anticipate $12.13 in revenue
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:54:41.120
+End: 00:54:45.120
+Duration: 4.000 seconds
+Text: The next one is when we commit to the garage
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:54:45.120
+End: 00:54:49.120
+Duration: 4.000 seconds
+Text: You know at that point in time with Laramy, with Wall Street, with the garage
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:54:49.120
+End: 00:54:53.120
+Duration: 4.000 seconds
+Text: We're looking at a closer to $17 million total
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:54:53.120
+End: 00:54:57.120
+Duration: 4.000 seconds
+Text: That's when we'll have to come with not only a TIFF scenario
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:54:57.120
+End: 00:55:01.120
+Duration: 4.000 seconds
+Text: But then how do we accomplish the balance of Aggieville?
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:55:01.120
+End: 00:55:07.120
+Duration: 6.000 seconds
+Text: We've mentioned it as part of our .3 in terms of our sales tax question for this November
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:55:07.120
+End: 00:55:11.120
+Duration: 4.000 seconds
+Text: Aggieville is a part of that economic development dollars
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:55:11.120
+End: 00:55:17.120
+Duration: 6.000 seconds
+Text: Should be part of that discussion as well if the .3 isn't there to satisfy it
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:55:17.120
+End: 00:55:25.120
+Duration: 8.000 seconds
+Text: We've talked about both those resources in terms of Aggieville being a catalyst type of project for the community
+--------------------------------------------------
+Trevor McKeeman:
+Start: 00:55:25.120
+End: 00:55:31.120
+Duration: 6.000 seconds
+Text: But the $5 million for tonight, that's coming out of what exactly?
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:55:31.120
+End: 00:55:37.120
+Duration: 6.000 seconds
+Text: Tonight it could be part of a future general obligation bond with TIFF revenue supporting it
+--------------------------------------------------
+Commissioner York:
+Start: 00:55:37.120
+End: 00:55:43.120
+Duration: 6.000 seconds
+Text: Okay, so we can still sort out the details I got it
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:55:43.120
+End: 00:55:47.120
+Duration: 4.000 seconds
+Text: Our three and a half year period will give us that grace period before we actually issue that debt
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:55:47.120
+End: 00:55:51.120
+Duration: 4.000 seconds
+Text: But the temporary financing would be in place
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:55:51.120
+End: 00:55:57.120
+Duration: 6.000 seconds
+Text: Commissioner Butler's questions were actually the start of them were in line with what I had questions to
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:55:57.120
+End: 00:56:03.120
+Duration: 6.000 seconds
+Text: I realized tonight we're just voting on the financing of the design
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:56:03.120
+End: 00:56:09.120
+Duration: 6.000 seconds
+Text: But one of the things that concerns me is I vote yes on a design for a parking garage that costs $1.2 million
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:56:09.120
+End: 00:56:13.120
+Duration: 4.000 seconds
+Text: Knowing that there's only $7 million left in that fund
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:56:13.120
+End: 00:56:15.120
+Duration: 2.000 seconds
+Text: For whatever reason, the sales tax doesn't pass
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:56:15.120
+End: 00:56:23.120
+Duration: 8.000 seconds
+Text: And then suddenly I'm gilded into bonding out because I've already spent $1.2 million on a design and what a waste of money that would be
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:56:23.120
+End: 00:56:27.120
+Duration: 4.000 seconds
+Text: So I know we're just focusing on the finance of the design
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:56:27.120
+End: 00:56:31.120
+Duration: 4.000 seconds
+Text: But to not think about the second or third order effects is irresponsible
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:56:31.120
+End: 00:56:39.120
+Duration: 8.000 seconds
+Text: So one of my questions is the design is covering excuse my ignorance in this right
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:56:39.120
+End: 00:56:41.120
+Duration: 2.000 seconds
+Text: Because I don't deal in architecture a lot
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:56:41.120
+End: 00:56:45.120
+Duration: 4.000 seconds
+Text: But per se for whatever reason the sales tax doesn't pass
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:56:45.120
+End: 00:56:49.120
+Duration: 4.000 seconds
+Text: And we only have $7 to $10 million to work with
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:56:49.120
+End: 00:56:56.120
+Duration: 7.000 seconds
+Text: What would be the cost for us to adjust designs to make a smaller garage or readjust our plans?
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:56:56.120
+End: 00:57:03.120
+Duration: 7.000 seconds
+Text: Or would we be looking at at that point going the design is specifically for that $15 million garage that we had planned
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:57:03.120
+End: 00:57:07.120
+Duration: 4.000 seconds
+Text: And either we throw away that money we just spend on design or we pay to $15 million
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:57:07.120
+End: 00:57:15.120
+Duration: 8.000 seconds
+Text: I think what you're committing to at this point in time truly is the $1.2 million in design for the garage
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:57:15.120
+End: 00:57:23.120
+Duration: 8.000 seconds
+Text: And you've got roughly designed for Laramie which is $173,000
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:57:23.120
+End: 00:57:25.120
+Duration: 2.000 seconds
+Text: That's what you're committing to tonight
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:57:25.120
+End: 00:57:29.120
+Duration: 4.000 seconds
+Text: Your bonds are giving you the resolutions are giving you authority to do something in the future
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:57:29.120
+End: 00:57:35.120
+Duration: 6.000 seconds
+Text: But you're virtually committing to a $1.2 million design contract for the garage and Laramie
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:57:35.120
+End: 00:57:37.120
+Duration: 2.000 seconds
+Text: $13,000 contract to design 12th Street
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:57:37.120
+End: 00:57:39.120
+Duration: 2.000 seconds
+Text: That's all you're committing to tonight
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:57:39.120
+End: 00:57:45.120
+Duration: 6.000 seconds
+Text: You won't be asked to commit to any more until we have that November bond election
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:57:45.120
+End: 00:57:51.120
+Duration: 6.000 seconds
+Text: So you don't want to build 12th Street you don't want to build Laramie and you don't want to build the garage
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:57:51.120
+End: 00:57:57.120
+Duration: 6.000 seconds
+Text: Because the question failed you can come back and resort where your priorities are with the $12 to $13 million
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:57:57.120
+End: 00:57:59.120
+Duration: 2.000 seconds
+Text: Thank you
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:57:59.120
+End: 00:58:07.120
+Duration: 8.000 seconds
+Text: Yeah, I had similar questions but I you know I think the case date garage is four levels
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:58:07.120
+End: 00:58:15.120
+Duration: 8.000 seconds
+Text: And if we're going for five in Aguil that just seems huge compared to what it is
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:58:15.120
+End: 00:58:19.120
+Duration: 4.000 seconds
+Text: So why are we going for the four levels?
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:58:19.120
+End: 00:58:25.120
+Duration: 6.000 seconds
+Text: If we're not even the commercial component is an option right now
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:58:25.120
+End: 00:58:29.120
+Duration: 4.000 seconds
+Text: Without the commercial component is what we're looking at
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:58:29.120
+End: 00:58:33.120
+Duration: 4.000 seconds
+Text: So we talked about this process during phase two of Olsen
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:58:33.120
+End: 00:58:39.120
+Duration: 6.000 seconds
+Text: The current case date garage is twice the size of the garage we've come up with
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:58:39.120
+End: 00:58:41.120
+Duration: 2.000 seconds
+Text: The height, don't you?
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:58:41.120
+End: 00:58:45.120
+Duration: 4.000 seconds
+Text: Well this is 500 stalls, the case date is over a thousand
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:58:45.120
+End: 00:58:51.120
+Duration: 6.000 seconds
+Text: And we tried to maximize the space in order to generate the highest number of stalls
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:58:51.120
+End: 00:58:59.120
+Duration: 8.000 seconds
+Text: Keep it within the zoning rigs that we all were presented and agreed to
+--------------------------------------------------
+Commissioner McKee:
+Start: 00:58:59.120
+End: 00:59:03.120
+Duration: 4.000 seconds
+Text: You shorten the garage you reduce the number of stalls
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:59:03.120
+End: 00:59:09.120
+Duration: 6.000 seconds
+Text: Right and that's one of the things I'm thinking I'm thinking 500 might be too much
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:59:09.120
+End: 00:59:13.120
+Duration: 4.000 seconds
+Text: But if that's what the City Commission also believes and as well as Aguil I'm comfortable with that
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:59:13.120
+End: 00:59:19.120
+Duration: 6.000 seconds
+Text: But we need to be cautious about comparing ourselves to Lincoln
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:59:19.120
+End: 00:59:27.120
+Duration: 8.000 seconds
+Text: We are 54,000 and 50 to 54,000 population Lincoln is much, much larger than us
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:59:27.120
+End: 00:59:31.120
+Duration: 4.000 seconds
+Text: And they have a different type of population than what we do
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:59:31.120
+End: 00:59:37.120
+Duration: 6.000 seconds
+Text: I like thinking about the financing about how this is going to go as far as
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:59:37.120
+End: 00:59:43.120
+Duration: 6.000 seconds
+Text: How everybody's going to pay the employees, the businesses, students, whomever they may be
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:59:43.120
+End: 00:59:51.120
+Duration: 8.000 seconds
+Text: Even though it's 5 million right now, my concern is the same if we're dependent on the sales tax or
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:59:51.120
+End: 00:59:55.120
+Duration: 4.000 seconds
+Text: Making it a public, I'm sorry, a benefit district
+--------------------------------------------------
+Mayor Dawson:
+Start: 00:59:55.120
+End: 01:00:00.120
+Duration: 5.000 seconds
+Text: I want us to be really clear about benefit districts if the sales tax hasn't passed
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:00:00.120
+End: 01:00:04.120
+Duration: 4.000 seconds
+Text: Because that's going to be an extra burden to those businesses in that area
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:00:04.120
+End: 01:00:08.120
+Duration: 4.000 seconds
+Text: In addition to the sales property tax that might be increasing because it's a tip district now
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:00:08.120
+End: 01:00:10.120
+Duration: 2.000 seconds
+Text: And what we might be collecting from it
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:00:10.120
+End: 01:00:18.120
+Duration: 8.000 seconds
+Text: I don't have a huge problem in moving forward with the design and construction as they are in the resolutions
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:00:23.120
+End: 01:00:31.120
+Duration: 8.000 seconds
+Text: But this has been kind of bothering me a lot because I'm not sure how much people are going to pay to park
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:00:31.120
+End: 01:00:36.120
+Duration: 5.000 seconds
+Text: We're now thinking about the entire district having some kind of a finance management plan
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:00:36.120
+End: 01:00:42.120
+Duration: 6.000 seconds
+Text: Very paid to park kind of plan and I want us to be clear about how that's going to look
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:00:42.120
+End: 01:00:47.120
+Duration: 5.000 seconds
+Text: If we have enrollment going down a little bit more than the next few years or deployments happening
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:00:47.120
+End: 01:00:50.120
+Duration: 3.000 seconds
+Text: Our population that's going to park there is going to be a little less
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:00:50.120
+End: 01:00:57.120
+Duration: 7.000 seconds
+Text: When we're looking at the district in Aggieville where people can walk and bike
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:00:57.120
+End: 01:00:59.120
+Duration: 2.000 seconds
+Text: And that's why we're increasing that density
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:00:59.120
+End: 01:01:03.120
+Duration: 4.000 seconds
+Text: I want to be clear about how many people are actually going to drive to park in the garage
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:01:03.120
+End: 01:01:08.120
+Duration: 5.000 seconds
+Text: Except for maybe those late evenings or maybe those football games or once in a while
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:01:08.120
+End: 01:01:13.120
+Duration: 5.000 seconds
+Text: I don't want us to build it for just once in a while events I want to build it for a continuous event
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:01:13.120
+End: 01:01:22.120
+Duration: 9.000 seconds
+Text: So I'm okay with going forward with this but I'm really worried about the future payments on this
+--------------------------------------------------
+Commissioner York:
+Start: 01:01:25.120
+End: 01:01:32.120
+Duration: 7.000 seconds
+Text: Yeah maybe just a couple of comments I appreciate you reaching out to some of the consultants who do this for a living
+--------------------------------------------------
+Commissioner York:
+Start: 01:01:32.120
+End: 01:01:37.120
+Duration: 5.000 seconds
+Text: I think moving us ahead in technology is important
+--------------------------------------------------
+Commissioner York:
+Start: 01:01:37.120
+End: 01:01:45.120
+Duration: 8.000 seconds
+Text: I mean I think we want to be one of those cities that has great connectivity and kind of the things that most people expect to have
+--------------------------------------------------
+Commissioner York:
+Start: 01:01:45.120
+End: 01:01:54.120
+Duration: 9.000 seconds
+Text: If they come here to develop a business or they're a young person that has come from an area where those things are kind of in place and expected
+--------------------------------------------------
+Commissioner York:
+Start: 01:01:54.120
+End: 01:01:57.120
+Duration: 3.000 seconds
+Text: So I think that's a great initiative
+--------------------------------------------------
+Commissioner York:
+Start: 01:01:57.120
+End: 01:02:06.120
+Duration: 9.000 seconds
+Text: I think it's keeping in mind that the emergence of this plan as you illustrate it on one of your first slides has taken a long time
+--------------------------------------------------
+Commissioner York:
+Start: 01:02:06.120
+End: 01:02:15.120
+Duration: 9.000 seconds
+Text: And has had extraordinary consultation among the owners of the buildings, the business owners that are in there
+--------------------------------------------------
+Commissioner York:
+Start: 01:02:15.120
+End: 01:02:26.120
+Duration: 11.000 seconds
+Text: People who frequent Aggieville and others so bringing this along to have everybody in coincidence on this has been quite a labor
+--------------------------------------------------
+Commissioner York:
+Start: 01:02:26.120
+End: 01:02:37.120
+Duration: 11.000 seconds
+Text: But I think with this next push that we're going to learn some things about you know whether or not we ought to include businesses on the first floor of the parking garage
+--------------------------------------------------
+Commissioner York:
+Start: 01:02:37.120
+End: 01:02:50.120
+Duration: 13.000 seconds
+Text: If that is necessary and I think the parking study that we did before along with the transportation study showed us that those two numbers are not far off from what I thought the requirements are
+--------------------------------------------------
+Commissioner York:
+Start: 01:02:50.120
+End: 01:02:56.120
+Duration: 6.000 seconds
+Text: And I know many of the commissioners are anxious to get the load off the top of city park
+--------------------------------------------------
+Commissioner York:
+Start: 01:02:56.120
+End: 01:03:00.120
+Duration: 4.000 seconds
+Text: And that's probably about the only way we're going to achieve that
+--------------------------------------------------
+Commissioner York:
+Start: 01:03:00.120
+End: 01:03:08.120
+Duration: 8.000 seconds
+Text: And then maybe give a break to the employees that work down in Aggieville because I mean with they're there every day
+--------------------------------------------------
+Commissioner York:
+Start: 01:03:08.120
+End: 01:03:11.120
+Duration: 3.000 seconds
+Text: The expense of a parking garage is pretty high
+--------------------------------------------------
+Commissioner York:
+Start: 01:03:11.120
+End: 01:03:16.120
+Duration: 5.000 seconds
+Text: So the tiered structure that we have or if you do it electronically that's great
+--------------------------------------------------
+Commissioner York:
+Start: 01:03:16.120
+End: 01:03:25.120
+Duration: 9.000 seconds
+Text: A lot of opportunities and then I think as Commissioner McKee said if something does go wrong we may have to resort
+--------------------------------------------------
+Commissioner York:
+Start: 01:03:25.120
+End: 01:03:35.120
+Duration: 10.000 seconds
+Text: But I think the inclusion of maybe a lead element of what street scape is as part of what we do on 12 street is
+--------------------------------------------------
+Commissioner York:
+Start: 01:03:35.120
+End: 01:03:41.120
+Duration: 6.000 seconds
+Text: Is going to be really important I mean people will see new hotel
+--------------------------------------------------
+Commissioner York:
+Start: 01:03:41.120
+End: 01:03:48.120
+Duration: 7.000 seconds
+Text: And a little bit of that street scape to kind of remind them of how this can look in the future
+--------------------------------------------------
+Commissioner York:
+Start: 01:03:48.120
+End: 01:03:55.120
+Duration: 7.000 seconds
+Text: And after all we're going out to 2025 or 2026 so along runway ahead of us
+--------------------------------------------------
+Commissioner York:
+Start: 01:03:58.120
+End: 01:04:06.120
+Duration: 8.000 seconds
+Text: So at this point let me ask for any public comment on this issue and anyone wishing to comment please come forward
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:04:12.120
+End: 01:04:18.120
+Duration: 6.000 seconds
+Text: I didn't come to talk about Aggieville again Trevor McKeeman but I have been monitoring the conversations about Aggieville
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:04:18.120
+End: 01:04:25.120
+Duration: 7.000 seconds
+Text: And I thought I would offer just one one really interesting point I had a chance to do a project in Cambridge
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:04:25.120
+End: 01:04:33.120
+Duration: 8.000 seconds
+Text: MIT is redeveloping all the area around Cambridge which was a very industrial area kind of a harsh neighborhood
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:04:33.120
+End: 01:04:37.120
+Duration: 4.000 seconds
+Text: They're doing everything that these guys are talking about here
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:04:37.120
+End: 01:04:44.120
+Duration: 7.000 seconds
+Text: As far as density parking garages and just some interesting first impressions
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:04:44.120
+End: 01:04:51.120
+Duration: 7.000 seconds
+Text: So one of the buildings that was the underutilized building now has close to 340 startup companies in it
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:04:51.120
+End: 01:04:54.120
+Duration: 3.000 seconds
+Text: And about 4 billion adventure capital funding
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:04:54.120
+End: 01:05:02.120
+Duration: 8.000 seconds
+Text: So I'm not saying that we're going to be necessarily that scale but the cities that are really innovative and thinking about these high density areas
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:05:02.120
+End: 01:05:09.120
+Duration: 7.000 seconds
+Text: They're the cities that are going to grow and so I think all this stuff is actually really exciting from an entrepreneur's perspective
+--------------------------------------------------
+Commissioner York:
+Start: 01:05:32.120
+End: 01:05:39.120
+Duration: 7.000 seconds
+Text: But the store I can't hear
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:05:39.120
+End: 01:05:46.120
+Duration: 7.000 seconds
+Text: But the store I can't hear
+--------------------------------------------------
+City Manager:
+Start: 01:06:09.120
+End: 01:06:16.120
+Duration: 7.000 seconds
+Text: And I can't hear
+--------------------------------------------------
+City Manager:
+Start: 01:06:39.120
+End: 01:06:46.120
+Duration: 7.000 seconds
+Text: And I can't hear
+--------------------------------------------------
+City Manager:
+Start: 01:07:09.120
+End: 01:07:16.120
+Duration: 7.000 seconds
+Text: And I can't hear
+--------------------------------------------------
+City Manager:
+Start: 01:07:39.120
+End: 01:07:46.120
+Duration: 7.000 seconds
+Text: And I can't hear
+--------------------------------------------------
+City Manager:
+Start: 01:08:09.120
+End: 01:08:16.120
+Duration: 7.000 seconds
+Text: And I can't hear
+--------------------------------------------------
+Commissioner York:
+Start: 01:08:39.120
+End: 01:08:53.120
+Duration: 14.000 seconds
+Text: So yeah, did we have you sign in? I don't think we got your signature
+--------------------------------------------------
+Commissioner York:
+Start: 01:08:53.120
+End: 01:09:07.120
+Duration: 14.000 seconds
+Text: There's a clipboard up here on the right then Dennis do you want to come on up?
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:09:07.120
+End: 01:09:15.120
+Duration: 8.000 seconds
+Text: Yeah, you were waiting for this.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:09:15.120
+End: 01:09:23.120
+Duration: 8.000 seconds
+Text: My name is Dennis Cook, I'm the Director for the Aguil Business Association and I do appreciate everything that we've done up to this point
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:09:23.120
+End: 01:09:29.120
+Duration: 6.000 seconds
+Text: And as we have talked before, the clock hasn't really started, we can see the clock but it hasn't started
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:09:29.120
+End: 01:09:39.120
+Duration: 10.000 seconds
+Text: This will be the beginning of the Aguil revision that we've been looking for and Commissioner Reddy
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:09:39.120
+End: 01:09:57.120
+Duration: 18.000 seconds
+Text: As we were talking about on the parking garage, when we did a survey down there that we were found that between 11 and 2 o'clock, almost every day, there's upwards of about 125 to 150 employees that are working in Aguil
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:09:57.120
+End: 01:10:04.120
+Duration: 7.000 seconds
+Text: So I don't think that's a real scary thought for us, I think this is something we really need
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:10:04.120
+End: 01:10:11.120
+Duration: 7.000 seconds
+Text: This is the parking garage is a huge catalyst for everything that's going to happen next for Aguil
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:10:11.120
+End: 01:10:21.120
+Duration: 10.000 seconds
+Text: So the Aguil Business Association is very much in support of this project. Thanks
+--------------------------------------------------
+Commissioner York:
+Start: 01:10:21.120
+End: 01:10:27.120
+Duration: 6.000 seconds
+Text: Anyone else please?
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:10:27.120
+End: 01:10:36.120
+Duration: 9.000 seconds
+Text: I wasn't going to get up and speak Mark Bashamp with Olson but I just want to reiterate what Jason said on all the meetings and all of the information that's going to be put out
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:10:36.120
+End: 01:10:42.120
+Duration: 6.000 seconds
+Text: There is going to be a lot of meetings, a lot of information that's all going to be brought back to you for discussion
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:10:42.120
+End: 01:10:53.120
+Duration: 11.000 seconds
+Text: So yes, it'll be much needed input from Aguil, its self businesses and including the City Commission as well
+--------------------------------------------------
+Commissioner York:
+Start: 01:11:05.120
+End: 01:11:08.120
+Duration: 3.000 seconds
+Text: Anyone else please?
+--------------------------------------------------
+Commissioner York:
+Start: 01:11:08.120
+End: 01:11:11.120
+Duration: 3.000 seconds
+Text: We will come back to the commission for further comment
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:11:11.120
+End: 01:11:17.120
+Duration: 6.000 seconds
+Text: Mayor, I would just say that since I've been elected, I've been a defender of City Park
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:11:17.120
+End: 01:11:24.120
+Duration: 7.000 seconds
+Text: And continuing to preserve the City Park space for the future
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:11:24.120
+End: 01:11:31.120
+Duration: 7.000 seconds
+Text: And it has served us that kind of a commitment over the last 100 and some years has served us well
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:11:31.120
+End: 01:11:34.120
+Duration: 3.000 seconds
+Text: And we have a lovely City Park
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:11:34.120
+End: 01:11:40.120
+Duration: 6.000 seconds
+Text: And so I had hoped we would not include it in the plan
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:11:40.120
+End: 01:11:44.120
+Duration: 4.000 seconds
+Text: But I don't seem to have a lot of commission support for that
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:11:44.120
+End: 01:11:58.120
+Duration: 14.000 seconds
+Text: So if we do somehow engage part of City Park, I would like a commitment that City Park will be restored to its original state
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:11:58.120
+End: 01:12:02.120
+Duration: 4.000 seconds
+Text: And not compromised on a permanent basis
+--------------------------------------------------
+Commissioner York:
+Start: 01:12:02.120
+End: 01:12:09.120
+Duration: 7.000 seconds
+Text: I think everyone's in support of getting the traffic out of or the parking out of it
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:12:09.120
+End: 01:12:12.120
+Duration: 3.000 seconds
+Text: Well sure, yeah, I agree
+--------------------------------------------------
+Commissioner York:
+Start: 01:12:12.120
+End: 01:12:17.120
+Duration: 5.000 seconds
+Text: I think part of the plan is to do exactly that is to find other places so that we don't
+--------------------------------------------------
+Commissioner York:
+Start: 01:12:17.120
+End: 01:12:21.120
+Duration: 4.000 seconds
+Text: Then we can put the parking plan in place that will restrict the parking in the north
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:12:21.120
+End: 01:12:27.120
+Duration: 6.000 seconds
+Text: I'm just talking to about also about the long term viability of the park as a park
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:12:27.120
+End: 01:12:34.120
+Duration: 7.000 seconds
+Text: And you know, it's our, we're the reason because we haven't taken action
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:12:34.120
+End: 01:12:38.120
+Duration: 4.000 seconds
+Text: That City Park has been used as a parking lot, the north part of it
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:12:38.120
+End: 01:12:44.120
+Duration: 6.000 seconds
+Text: And I agree that we have to have a place for the employees
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:12:44.120
+End: 01:12:51.120
+Duration: 7.000 seconds
+Text: But we also have to, we have a responsibility to maintain that park also
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:12:51.120
+End: 01:12:54.120
+Duration: 3.000 seconds
+Text: So thank you
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:12:56.120
+End: 01:13:00.120
+Duration: 4.000 seconds
+Text: Yes, and I'm not gonna get this as an economic driver
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:13:00.120
+End: 01:13:05.120
+Duration: 5.000 seconds
+Text: So we'll see what happens in the future
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:13:05.120
+End: 01:13:08.120
+Duration: 3.000 seconds
+Text: With that I move that we authorize City Administration to finalize
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:13:08.120
+End: 01:13:14.120
+Duration: 6.000 seconds
+Text: And the mayor and city clerk to execute design agreements with Olsen of Manhattan, Kansas
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:13:14.120
+End: 01:13:17.120
+Duration: 3.000 seconds
+Text: For both north, 12th street
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:13:24.120
+End: 01:13:27.120
+Duration: 3.000 seconds
+Text: Kind of what I do at home with my fire alarm
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:13:27.120
+End: 01:13:32.120
+Duration: 5.000 seconds
+Text: From Bluemont Avenue to Marrow Street and for the parking garage and Laramie Street
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:13:32.120
+End: 01:13:36.120
+Duration: 4.000 seconds
+Text: From north 14th street to north Manhattan Avenue projects
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:13:36.120
+End: 01:13:47.120
+Duration: 11.000 seconds
+Text: And approve resolution number 052819-D authorizing and granting authority for general obligation debt financing for the north street
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:13:47.120
+End: 01:13:55.120
+Duration: 8.000 seconds
+Text: From Bluemont Avenue to Marrow Street project and the Laramie Street from north 14th street to north Manhattan Avenue project
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:13:55.120
+End: 01:14:05.120
+Duration: 10.000 seconds
+Text: And approve resolution number 052819-E authorizing and providing for the design of the planning for the new public parking garage and amenities
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:14:05.120
+End: 01:14:06.120
+Duration: 1.000 seconds
+Text: Second
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:14:06.120
+End: 01:14:15.120
+Duration: 9.000 seconds
+Text: I would just like to point out that this doesn't say anything about the parking management plan
+--------------------------------------------------
+Commissioner York:
+Start: 01:14:29.120
+End: 01:14:31.120
+Duration: 2.000 seconds
+Text: Call the roll please
+--------------------------------------------------
+Commissioner York:
+Start: 01:14:31.120
+End: 01:14:32.120
+Duration: 1.000 seconds
+Text: Commissioner Butler
+--------------------------------------------------
+Commissioner York:
+Start: 01:14:32.120
+End: 01:14:33.120
+Duration: 1.000 seconds
+Text: Yes
+--------------------------------------------------
+Commissioner York:
+Start: 01:14:33.120
+End: 01:14:35.120
+Duration: 2.000 seconds
+Text: Commissioner McKee
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:14:35.120
+End: 01:14:36.120
+Duration: 1.000 seconds
+Text: Yes
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:14:36.120
+End: 01:14:37.120
+Duration: 1.000 seconds
+Text: Commissioner Morse
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:14:37.120
+End: 01:14:38.120
+Duration: 1.000 seconds
+Text: Yes
+--------------------------------------------------
+Commissioner York:
+Start: 01:14:38.120
+End: 01:14:39.120
+Duration: 1.000 seconds
+Text: Mayor Dawson
+--------------------------------------------------
+Commissioner York:
+Start: 01:14:39.120
+End: 01:14:40.120
+Duration: 1.000 seconds
+Text: Yes
+--------------------------------------------------
+Commissioner York:
+Start: 01:14:40.120
+End: 01:14:41.120
+Duration: 1.000 seconds
+Text: Commissioner Reddy
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:14:41.120
+End: 01:14:42.120
+Duration: 1.000 seconds
+Text: Yes
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:14:42.120
+End: 01:14:44.120
+Duration: 2.000 seconds
+Text: Motion carries 5-0
+--------------------------------------------------
+Commissioner York:
+Start: 01:14:50.120
+End: 01:14:52.120
+Duration: 2.000 seconds
+Text: There's one over a hill
+--------------------------------------------------
+Commissioner York:
+Start: 01:14:54.120
+End: 01:14:56.120
+Duration: 2.000 seconds
+Text: We have your nurse from
+--------------------------------------------------
+Commissioner York:
+Start: 01:14:56.120
+End: 01:15:10.120
+Duration: 14.000 seconds
+Text: Next item up is discussion right away ordinance and permit program which is item C and we'll have Rob lot
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:15:10.120
+End: 01:15:17.120
+Duration: 7.000 seconds
+Text: Any other mayor, commissioners, Rob lot, director of public works, I'll get Randy Dwitt's going to help me out this evening
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:15:17.120
+End: 01:15:21.120
+Duration: 4.000 seconds
+Text: And then Katie will stop us if we misspeak
+--------------------------------------------------
+City Manager:
+Start: 01:15:21.120
+End: 01:15:22.120
+Duration: 1.000 seconds
+Text: Yes
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:15:23.120
+End: 01:15:33.120
+Duration: 10.000 seconds
+Text: All right, this is a discussion item so we are kind of seeking direction and guidance on the possibility of a new right away ordinance
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:15:33.120
+End: 01:15:41.120
+Duration: 8.000 seconds
+Text: Just kind of starting off with some basics obviously right away is often defined on plat for new subdivisions
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:15:41.120
+End: 01:15:48.120
+Duration: 7.000 seconds
+Text: It kind of includes both the surface area above and below a strip of land and it's been dedicated
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:15:49.120
+End: 01:15:57.120
+Duration: 8.000 seconds
+Text: And sometimes we do acquire actual right away interest when we require real estate for various projects
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:15:57.120
+End: 01:16:06.120
+Duration: 9.000 seconds
+Text: And right away is intended for the purpose of transportation and whether it be motorized by school or pedestrian as well as utility service
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:16:08.120
+End: 01:16:12.120
+Duration: 4.000 seconds
+Text: What right away does not include is often utility easements
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:16:12.120
+End: 01:16:19.120
+Duration: 7.000 seconds
+Text: Typically those are dedicated sometimes as companion easements but definitely
+--------------------------------------------------
+City Manager:
+Start: 01:16:42.120
+End: 01:17:12.120
+Duration: 30.000 seconds
+Text: And then we are kind of looking at the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the right way of the
+--------------------------------------------------
+City Manager:
+Start: 01:17:12.120
+End: 01:17:42.120
+Duration: 30.000 seconds
+Text: to to to to to to to to
+--------------------------------------------------
+City Manager:
+Start: 01:32:12.120
+End: 01:32:34.000
+Duration: 21.880 seconds
+Text: I'm going to put it on the screen.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:32:34.000
+End: 01:32:40.040
+Duration: 6.040 seconds
+Text: Those different recovery costs, again, remember this does not include repairs to, say,
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:32:40.040
+End: 01:32:46.040
+Duration: 6.000 seconds
+Text: pavement or sidewalk or ADA ramps and so forth. That would be an additional cost above
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:32:46.040
+End: 01:32:49.040
+Duration: 3.000 seconds
+Text: and beyond what these permits would be.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:32:49.040
+End: 01:32:53.880
+Duration: 4.840 seconds
+Text: So in conclusion, we certainly would like to see this right away ordinance and permit
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:32:53.880
+End: 01:33:01.640
+Duration: 7.760 seconds
+Text: program be implemented as soon as possible. As I mentioned earlier, July 1 with the new
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:33:01.640
+End: 01:33:10.040
+Duration: 8.400 seconds
+Text: state law, we will have a little bit of a gap in our ability to regulate right away.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:33:10.040
+End: 01:33:16.520
+Duration: 6.480 seconds
+Text: And obviously, starting any new program, I always recommend a review after a five-year
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:33:16.520
+End: 01:33:23.400
+Duration: 6.880 seconds
+Text: period. So with that, you know, you'd hope that the commission would be interested in
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:33:23.400
+End: 01:33:28.640
+Duration: 5.240 seconds
+Text: having staff and giving us direction to finalize and bring back forth to you all in a first
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:33:28.640
+End: 01:33:36.320
+Duration: 7.680 seconds
+Text: reading of an ordinance. And then if that appears to be a direction that you're all comfortable
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:33:36.320
+End: 01:33:41.720
+Duration: 5.400 seconds
+Text: with, obviously, we'll have to hire dedicated staff and begin to work on all those four
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:33:41.720
+End: 01:33:50.120
+Duration: 8.400 seconds
+Text: items there that will need to develop for the program as well as education with our providers
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:33:50.120
+End: 01:33:57.200
+Duration: 7.080 seconds
+Text: of other services within the right away. And I think, yep. So with that, commissioners
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:33:57.200
+End: 01:34:03.440
+Duration: 6.240 seconds
+Text: mayor, Randy and I will stand for any comments or questions I don't believe we have anybody
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:34:03.440
+End: 01:34:08.000
+Duration: 4.560 seconds
+Text: from any of the other utility providers and the audience tonight.
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:34:08.000
+End: 01:34:15.440
+Duration: 7.440 seconds
+Text: I have a quick question. So when someone damages a piece of infrastructure in the right
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:34:15.440
+End: 01:34:20.640
+Duration: 5.200 seconds
+Text: away, do we typically just make them and tell me to change this under this ordinance, pay
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:34:20.640
+End: 01:34:24.920
+Duration: 4.280 seconds
+Text: back the damage or is there a fine associated with that as well?
+--------------------------------------------------
+Commissioner York:
+Start: 01:34:24.920
+End: 01:34:32.240
+Duration: 7.320 seconds
+Text: There's no fine. Typically with the water sewer, our staff will facilitate the repair or
+--------------------------------------------------
+Commissioner York:
+Start: 01:34:32.240
+End: 01:34:37.840
+Duration: 5.600 seconds
+Text: at least on the water side, sanitary sewer because of the depth of the sewer, our SOPs don't
+--------------------------------------------------
+Commissioner York:
+Start: 01:34:37.840
+End: 01:34:43.080
+Duration: 5.240 seconds
+Text: allow us to excavate that deep so we'll hire a contractor to do the repair. Typically,
+--------------------------------------------------
+Commissioner York:
+Start: 01:34:43.080
+End: 01:34:49.720
+Duration: 6.640 seconds
+Text: we're assessing an invoice to that contractor time and materials plus, you know, 10 or 15%
+--------------------------------------------------
+Commissioner York:
+Start: 01:34:49.720
+End: 01:34:53.720
+Duration: 4.000 seconds
+Text: of the time that we have had it fee and we just invoice that out.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:34:53.720
+End: 01:35:01.400
+Duration: 7.680 seconds
+Text: But there's no civil penalty, there's no criminal penalty in addition to what Randy just described.
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:35:01.400
+End: 01:35:08.360
+Duration: 6.960 seconds
+Text: And other municipalities that you've seen with similar plans is, I mean, a contractor
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:35:08.360
+End: 01:35:14.760
+Duration: 6.400 seconds
+Text: gets a permit and behaves recklessly. And any of the other municipalities that you see
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:35:14.760
+End: 01:35:18.000
+Duration: 3.240 seconds
+Text: setups like this or there any sort of fines or is it just you're just going to pay back
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:35:18.000
+End: 01:35:19.520
+Duration: 1.520 seconds
+Text: the damage that you did?
+--------------------------------------------------
+Commissioner York:
+Start: 01:35:19.520
+End: 01:35:24.720
+Duration: 5.200 seconds
+Text: I think the ordinance is set up to where, like I said, it's a typical ordinance violation
+--------------------------------------------------
+Commissioner York:
+Start: 01:35:24.720
+End: 01:35:30.760
+Duration: 6.040 seconds
+Text: where there could be fine and jail time. But I think with this, the real damage comes
+--------------------------------------------------
+Commissioner York:
+Start: 01:35:30.760
+End: 01:35:36.960
+Duration: 6.200 seconds
+Text: in, we have the ability, the future to review path performance and deny them a permit.
+--------------------------------------------------
+Commissioner York:
+Start: 01:35:36.960
+End: 01:35:43.560
+Duration: 6.600 seconds
+Text: So I mean, if they perform unsatisfactorily or if they fail to reimburse us for our expenses
+--------------------------------------------------
+Commissioner York:
+Start: 01:35:43.560
+End: 01:35:47.800
+Duration: 4.240 seconds
+Text: to repair the infrastructure, they won't get to work anymore.
+--------------------------------------------------
+Commissioner York:
+Start: 01:35:47.800
+End: 01:35:49.320
+Duration: 1.520 seconds
+Text: I think that's the intent.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:35:49.320
+End: 01:35:54.600
+Duration: 5.280 seconds
+Text: I think Ben, when you did some research, some cities did have provisions to prevent bad
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:35:54.600
+End: 01:35:56.840
+Duration: 2.240 seconds
+Text: performing contractors.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:35:56.840
+End: 01:35:57.840
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:35:57.840
+End: 01:36:04.320
+Duration: 6.480 seconds
+Text: Yeah. So there are some provisions to say, okay, contractor ABC, you know, you've had,
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:36:04.320
+End: 01:36:10.440
+Duration: 6.120 seconds
+Text: I don't know, two violations in the last 12 months were failed to repair or, you know,
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:36:10.440
+End: 01:36:14.160
+Duration: 3.720 seconds
+Text: they do have some provisions whether they're criminal or not.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:36:14.160
+End: 01:36:19.960
+Duration: 5.800 seconds
+Text: I know there's some provisions because we surveyed several different municipalities and
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:36:19.960
+End: 01:36:20.960
+Duration: 1.000 seconds
+Text: stuff.
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:36:20.960
+End: 01:36:21.960
+Duration: 1.000 seconds
+Text: Makes sense.
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:36:21.960
+End: 01:36:22.960
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:36:22.960
+End: 01:36:27.600
+Duration: 4.640 seconds
+Text: Then you just answer right where I was going essentially is, I don't want to charge people
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:36:27.600
+End: 01:36:33.760
+Duration: 6.160 seconds
+Text: a permit for the sake of getting a permit and us knowing that they're doing the work.
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:36:33.760
+End: 01:36:39.160
+Duration: 5.400 seconds
+Text: But the fact that you just explained of us being able to, if that person or that contractor
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:36:39.160
+End: 01:36:43.540
+Duration: 4.380 seconds
+Text: behaved like a request, oh my gosh, I'm having so much trouble saying that word, that
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:36:43.540
+End: 01:36:46.400
+Duration: 2.860 seconds
+Text: contractor did not do good work.
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:36:46.400
+End: 01:36:51.480
+Duration: 5.080 seconds
+Text: Us being able to die in permit in the future, I think makes sense on why we would do this.
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:36:51.480
+End: 01:36:56.360
+Duration: 4.880 seconds
+Text: So I'm supportive of going forward with this and seeing a final version of it.
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:36:56.360
+End: 01:37:02.640
+Duration: 6.280 seconds
+Text: If I'm going to kind of trust your recommendation on cost based on what other communities are
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:37:02.640
+End: 01:37:07.040
+Duration: 4.400 seconds
+Text: doing, but looking at this, it seems reasonable to me that you would shoot somewhere right
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:37:07.040
+End: 01:37:14.200
+Duration: 7.160 seconds
+Text: in the middle of that average, probably around 181, the 240 mark somewhere in there.
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:37:14.200
+End: 01:37:17.680
+Duration: 3.480 seconds
+Text: But otherwise, yeah, fully supportive of looking at a pilot.
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:37:17.680
+End: 01:37:29.160
+Duration: 11.480 seconds
+Text: I need to stop anyway, but I'm supportive.
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:37:29.160
+End: 01:37:30.160
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:37:30.160
+End: 01:37:35.720
+Duration: 5.560 seconds
+Text: Rob, I would just say that I am very supportive and that's something that we need to do to protect
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:37:35.720
+End: 01:37:37.720
+Duration: 2.000 seconds
+Text: our own interests.
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:37:37.720
+End: 01:37:43.400
+Duration: 5.680 seconds
+Text: And I would support the middle, the average of, you know, we could start small, but we might
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:37:43.400
+End: 01:37:45.480
+Duration: 2.080 seconds
+Text: as well just go with average.
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:37:45.480
+End: 01:37:52.960
+Duration: 7.480 seconds
+Text: And the $241.67 is the middle of the road in most ways.
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:37:52.960
+End: 01:37:56.240
+Duration: 3.280 seconds
+Text: And there have to be consequences.
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:37:56.240
+End: 01:38:03.440
+Duration: 7.200 seconds
+Text: And our public should not be absorbing the costs of whether it's sloppy or not getting
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:38:03.440
+End: 01:38:09.360
+Duration: 5.920 seconds
+Text: a locator or whatever those, the circumstances, the stances are that led to it.
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:38:09.360
+End: 01:38:13.440
+Duration: 4.080 seconds
+Text: So you said the state law goes into effect July 1.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:38:13.440
+End: 01:38:16.320
+Duration: 2.880 seconds
+Text: Yeah, I don't know if Casey want to help me out.
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:38:16.320
+End: 01:38:20.640
+Duration: 4.320 seconds
+Text: If you're able to come back soon, do we want, do we need to try to get this into effect
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:38:20.640
+End: 01:38:22.960
+Duration: 2.320 seconds
+Text: before July 1?
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:38:22.960
+End: 01:38:28.840
+Duration: 5.880 seconds
+Text: On your next legislative meeting, we have first reading of an ordinance to amend that small
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:38:28.840
+End: 01:38:29.840
+Duration: 1.000 seconds
+Text: cell.
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:38:29.840
+End: 01:38:30.840
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:38:30.840
+End: 01:38:35.160
+Duration: 4.320 seconds
+Text: So we have a standard and permit that you adopted for the FCC regulations.
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:38:35.160
+End: 01:38:36.640
+Duration: 1.480 seconds
+Text: We're broadening the scope of that.
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:38:36.640
+End: 01:38:37.640
+Duration: 1.000 seconds
+Text: It's on the consent agenda.
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:38:37.640
+End: 01:38:43.080
+Duration: 5.440 seconds
+Text: We're broadening the scope of that so that any wireless telecom provider or wireless
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:38:43.080
+End: 01:38:47.560
+Duration: 4.480 seconds
+Text: infrastructure provider who comes into our community knew will at least have to get that
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:38:47.560
+End: 01:38:49.560
+Duration: 2.000 seconds
+Text: permit as of July 1.
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:38:49.560
+End: 01:38:54.280
+Duration: 4.720 seconds
+Text: The state law says that we cannot apply a franchise to those new providers.
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:38:54.280
+End: 01:38:59.920
+Duration: 5.640 seconds
+Text: So if we didn't amend the small cell aesthetic standards, they wouldn't have any regulation.
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:38:59.920
+End: 01:39:02.480
+Duration: 2.560 seconds
+Text: I do want to note because Robin, I talked about this before.
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:39:02.480
+End: 01:39:08.640
+Duration: 6.160 seconds
+Text: If that small, if that wireless telecom provider or wireless infrastructure provider doesn't
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:39:08.640
+End: 01:39:10.720
+Duration: 2.080 seconds
+Text: install small cell facilities.
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:39:10.720
+End: 01:39:13.360
+Duration: 2.640 seconds
+Text: So they're just putting fiber in the ground or something.
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:39:13.360
+End: 01:39:17.240
+Duration: 3.880 seconds
+Text: As of July 1, we can't require a franchise agreement with them.
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:39:17.240
+End: 01:39:22.040
+Duration: 4.800 seconds
+Text: So we do believe this is important to get in place, but we do have a stop gap by broadening
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:39:22.040
+End: 01:39:26.600
+Duration: 4.560 seconds
+Text: the small cell aesthetics to include non-franchisies.
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:39:26.600
+End: 01:39:31.920
+Duration: 5.320 seconds
+Text: And we would like to set up a framework for those other new providers shortly thereafter.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:39:31.920
+End: 01:39:35.360
+Duration: 3.440 seconds
+Text: But you will see that on your next agenda, which just close the gap a bit.
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:39:35.360
+End: 01:39:38.680
+Duration: 3.320 seconds
+Text: That'll be reading number one and then there'll be a reading number two, but we'll get it
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:39:38.680
+End: 01:39:40.200
+Duration: 1.520 seconds
+Text: done before July 1.
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:39:40.200
+End: 01:39:41.200
+Duration: 1.000 seconds
+Text: Correct.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:39:41.200
+End: 01:39:42.200
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:39:42.200
+End: 01:39:43.760
+Duration: 1.560 seconds
+Text: And Katie, you correct them wrong.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:39:43.760
+End: 01:39:49.840
+Duration: 6.080 seconds
+Text: Even if we don't get the new right away ordinance completed by July 1, we do not lose
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:39:49.840
+End: 01:39:54.000
+Duration: 4.160 seconds
+Text: the ability to adopt and create that ordinance in the future.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:39:54.000
+End: 01:39:56.520
+Duration: 2.520 seconds
+Text: So again, I don't think we want to take another.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:39:57.360
+End: 01:39:59.320
+Duration: 1.960 seconds
+Text: What year did I say 2007?
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:39:59.320
+End: 01:40:04.520
+Duration: 5.200 seconds
+Text: I don't think we want to take another 12 years to adopt the ordinance, but we don't
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:40:04.520
+End: 01:40:06.600
+Duration: 2.080 seconds
+Text: do at least at this point, correct Katie?
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:40:06.600
+End: 01:40:13.440
+Duration: 6.840 seconds
+Text: We do not lose the ability to, even if it's August, September, to finalize that ordinance,
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:40:13.440
+End: 01:40:15.040
+Duration: 1.600 seconds
+Text: we do not lose that ability.
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:40:15.040
+End: 01:40:19.560
+Duration: 4.520 seconds
+Text: Something with the FCC recently we had to hurry up and come to the place.
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:40:19.560
+End: 01:40:22.560
+Duration: 3.000 seconds
+Text: So this does not fit that description.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:40:22.560
+End: 01:40:23.560
+Duration: 1.000 seconds
+Text: Correct.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:40:23.560
+End: 01:40:29.240
+Duration: 5.680 seconds
+Text: This is a different set of facts in which we don't have to meet that July 1 deadline.
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:40:29.240
+End: 01:40:30.240
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner York:
+Start: 01:40:30.240
+End: 01:40:31.240
+Duration: 1.000 seconds
+Text: That's right.
+--------------------------------------------------
+Commissioner York:
+Start: 01:40:31.240
+End: 01:40:32.240
+Duration: 1.000 seconds
+Text: I'm all for it.
+--------------------------------------------------
+Commissioner York:
+Start: 01:40:32.240
+End: 01:40:33.240
+Duration: 1.000 seconds
+Text: No, I have a problem.
+--------------------------------------------------
+Commissioner York:
+Start: 01:40:33.240
+End: 01:40:36.760
+Duration: 3.520 seconds
+Text: I would just set the fees to recover 100% of the costs.
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:40:36.760
+End: 01:40:41.440
+Duration: 4.680 seconds
+Text: Yeah, I'm supportive as well.
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:40:41.440
+End: 01:40:45.120
+Duration: 3.680 seconds
+Text: And I think I would go with what Commissioner Morris was saying about average.
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:40:45.120
+End: 01:40:47.720
+Duration: 2.600 seconds
+Text: I think we need to get ahead of this.
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:40:47.720
+End: 01:40:54.040
+Duration: 6.320 seconds
+Text: There's a lot of elements, different type of regulations or non-regulations that are
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:40:54.040
+End: 01:40:58.120
+Duration: 4.080 seconds
+Text: coming down from the federal institutions.
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:40:58.120
+End: 01:41:03.440
+Duration: 5.320 seconds
+Text: And I want to make sure that we can take care of our community rather well before we get
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:41:03.440
+End: 01:41:05.640
+Duration: 2.200 seconds
+Text: inundated with all of these things.
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:41:05.640
+End: 01:41:10.600
+Duration: 4.960 seconds
+Text: Because this is something that we want a lot of wireless usage in our community, but
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:41:10.600
+End: 01:41:15.000
+Duration: 4.400 seconds
+Text: we also want them to follow the rules and pay like everybody else does.
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:41:15.000
+End: 01:41:18.560
+Duration: 3.560 seconds
+Text: Because they are a business and they're going to make a profit off of most of these things.
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:41:18.560
+End: 01:41:20.360
+Duration: 1.800 seconds
+Text: But the education process needs to be there.
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:41:20.360
+End: 01:41:25.240
+Duration: 4.880 seconds
+Text: So we're not trying to be like a gotcha kind of system, but make sure they know what they're
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:41:25.240
+End: 01:41:27.480
+Duration: 2.240 seconds
+Text: getting themselves into and what the permit fees are.
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:41:27.480
+End: 01:41:29.480
+Duration: 2.000 seconds
+Text: And I think the earlier we do it, the better off.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:41:29.480
+End: 01:41:33.040
+Duration: 3.560 seconds
+Text: Actually, that's a good point about the education commissioners.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:41:33.040
+End: 01:41:38.880
+Duration: 5.840 seconds
+Text: We do have monthly meetings with all the utility projects, both subdivisions as well as
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:41:38.880
+End: 01:41:45.920
+Duration: 7.040 seconds
+Text: city light projects with all the utility companies and certainly them and their contractors.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:41:45.920
+End: 01:41:48.640
+Duration: 2.720 seconds
+Text: And they tell us when they have large projects too.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:41:48.640
+End: 01:41:50.720
+Duration: 2.080 seconds
+Text: So that'll be part of that education.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:41:50.720
+End: 01:41:57.880
+Duration: 7.160 seconds
+Text: So there is always, there is already a relationship established with Brian Johnson and Karen
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:41:57.880
+End: 01:42:02.200
+Duration: 4.320 seconds
+Text: Beckerts, actually the one that manages and on a monthly basis and she has an agenda
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:42:02.200
+End: 01:42:03.200
+Duration: 1.000 seconds
+Text: and stuff.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:42:03.200
+End: 01:42:04.200
+Duration: 1.000 seconds
+Text: So I agree.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:42:04.200
+End: 01:42:06.960
+Duration: 2.760 seconds
+Text: There is certainly an education component to this.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:42:06.960
+End: 01:42:09.200
+Duration: 2.240 seconds
+Text: And we have to figure out some of the software.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:42:09.200
+End: 01:42:13.880
+Duration: 4.680 seconds
+Text: Do we use existing software for permits or are we looking at something new?
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:42:13.880
+End: 01:42:16.680
+Duration: 2.800 seconds
+Text: So there's definitely things we have to do at our end.
+--------------------------------------------------
+Mayor Dawson:
+Start: 01:42:16.680
+End: 01:42:19.440
+Duration: 2.760 seconds
+Text: And I'm glad there's going to be a dedicated person to this as well.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:42:19.440
+End: 01:42:22.840
+Duration: 3.400 seconds
+Text: Yeah, I mean, the Brian's already overloaded.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:42:22.840
+End: 01:42:24.840
+Duration: 2.000 seconds
+Text: He can't do everything.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:42:24.840
+End: 01:42:27.960
+Duration: 3.120 seconds
+Text: And I need him to keep his eye on the big ticket items.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:42:27.960
+End: 01:42:31.960
+Duration: 4.000 seconds
+Text: Plus, I don't want him to go insane.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:42:31.960
+End: 01:42:33.120
+Duration: 1.160 seconds
+Text: Mayor.
+--------------------------------------------------
+Commissioner York:
+Start: 01:42:37.560
+End: 01:42:39.720
+Duration: 2.160 seconds
+Text: Cover as much as we can.
+--------------------------------------------------
+Commissioner York:
+Start: 01:42:39.720
+End: 01:42:44.520
+Duration: 4.800 seconds
+Text: It may be that we treat this a little bit like we do our water connections and that is
+--------------------------------------------------
+Commissioner York:
+Start: 01:42:44.520
+End: 01:42:46.800
+Duration: 2.280 seconds
+Text: the size of the work.
+--------------------------------------------------
+Commissioner York:
+Start: 01:42:46.800
+End: 01:42:51.000
+Duration: 4.200 seconds
+Text: In other words, if somebody is going to do three miles through the city, it costs different
+--------------------------------------------------
+Commissioner York:
+Start: 01:42:51.000
+End: 01:42:54.800
+Duration: 3.800 seconds
+Text: for that than it does just go on to have a block down somewhere.
+--------------------------------------------------
+Commissioner York:
+Start: 01:42:54.800
+End: 01:42:57.240
+Duration: 2.440 seconds
+Text: That's why we've put the requirement.
+--------------------------------------------------
+Commissioner York:
+Start: 01:42:57.240
+End: 01:42:59.080
+Duration: 1.840 seconds
+Text: Each permit is going to be limited by size.
+--------------------------------------------------
+Commissioner York:
+Start: 01:42:59.080
+End: 01:43:01.880
+Duration: 2.800 seconds
+Text: So basically a block, 400 feet in either direction.
+--------------------------------------------------
+Commissioner York:
+Start: 01:43:01.880
+End: 01:43:05.400
+Duration: 3.520 seconds
+Text: I mean, imagine a 400 by 400 square around the work site.
+--------------------------------------------------
+Commissioner York:
+Start: 01:43:05.640
+End: 01:43:09.840
+Duration: 4.200 seconds
+Text: Well, if we've got a company, it's going to be born a mile stretch along Anderson Avenue.
+--------------------------------------------------
+Commissioner York:
+Start: 01:43:09.840
+End: 01:43:12.760
+Duration: 2.920 seconds
+Text: We're going to hit them for four or five permits.
+--------------------------------------------------
+Commissioner York:
+Start: 01:43:12.760
+End: 01:43:18.200
+Duration: 5.440 seconds
+Text: So they'll have to pay additional fees for each section of work.
+--------------------------------------------------
+Commissioner York:
+Start: 01:43:18.200
+End: 01:43:19.760
+Duration: 1.560 seconds
+Text: Then I had a question.
+--------------------------------------------------
+Commissioner York:
+Start: 01:43:19.760
+End: 01:43:22.920
+Duration: 3.160 seconds
+Text: This is kind of a question that goes back away.
+--------------------------------------------------
+Commissioner York:
+Start: 01:43:22.920
+End: 01:43:29.280
+Duration: 6.360 seconds
+Text: But on the background, we say the city is responsible for maintaining public right away.
+--------------------------------------------------
+Commissioner York:
+Start: 01:43:29.280
+End: 01:43:35.080
+Duration: 5.800 seconds
+Text: And the discussion we had before had to do with maybe
+--------------------------------------------------
+Commissioner York:
+Start: 01:43:35.080
+End: 01:43:41.160
+Duration: 6.080 seconds
+Text: trash or grass too long outside of fences between the fence and the curb, which is public
+--------------------------------------------------
+Commissioner York:
+Start: 01:43:41.160
+End: 01:43:42.160
+Duration: 1.000 seconds
+Text: right away.
+--------------------------------------------------
+Commissioner York:
+Start: 01:43:42.160
+End: 01:43:47.720
+Duration: 5.560 seconds
+Text: We've always said that it's a public landowner who also owns up to the curb.
+--------------------------------------------------
+Commissioner York:
+Start: 01:43:47.720
+End: 01:43:52.880
+Duration: 5.160 seconds
+Text: But we have right away in it their responsibility for maintaining.
+--------------------------------------------------
+Commissioner York:
+Start: 01:43:52.880
+End: 01:43:56.880
+Duration: 4.000 seconds
+Text: What does this maintaining mean?
+--------------------------------------------------
+Commissioner York:
+Start: 01:43:56.880
+End: 01:43:59.680
+Duration: 2.800 seconds
+Text: I suppose it's a broad term.
+--------------------------------------------------
+Commissioner York:
+Start: 01:43:59.680
+End: 01:44:03.880
+Duration: 4.200 seconds
+Text: But when I say maintaining, I mean, I guess maintaining the authority and the regulatory
+--------------------------------------------------
+Commissioner York:
+Start: 01:44:03.880
+End: 01:44:06.200
+Duration: 2.320 seconds
+Text: authority over the right away.
+--------------------------------------------------
+Commissioner York:
+Start: 01:44:06.200
+End: 01:44:09.080
+Duration: 2.880 seconds
+Text: I mean, obviously we're responsible for a certain amount of maintenance.
+--------------------------------------------------
+Commissioner York:
+Start: 01:44:09.080
+End: 01:44:14.000
+Duration: 4.920 seconds
+Text: I just didn't want to have to reverse my plea to the community.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:44:14.000
+End: 01:44:19.000
+Duration: 5.000 seconds
+Text: We probably perhaps should have word Smith a little better.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:44:19.000
+End: 01:44:20.600
+Duration: 1.600 seconds
+Text: But I understand your point, Mayor.
+--------------------------------------------------
+Commissioner York:
+Start: 01:44:20.600
+End: 01:44:28.760
+Duration: 8.160 seconds
+Text: I think the ordinance will be a little more described about exactly what it covers.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:44:28.760
+End: 01:44:32.480
+Duration: 3.720 seconds
+Text: I did want to get back to the point and just made mayor and I was going to try and find
+--------------------------------------------------
+Commissioner York:
+Start: 01:44:32.480
+End: 01:44:33.480
+Duration: 1.000 seconds
+Text: it real quick.
+--------------------------------------------------
+Commissioner York:
+Start: 01:44:33.480
+End: 01:44:37.600
+Duration: 4.120 seconds
+Text: Yeah, as you're schooling through, let me ask if there's any public comment at this
+--------------------------------------------------
+Commissioner York:
+Start: 01:44:37.600
+End: 01:44:38.600
+Duration: 1.000 seconds
+Text: time.
+--------------------------------------------------
+Commissioner York:
+Start: 01:44:38.600
+End: 01:44:45.640
+Duration: 7.040 seconds
+Text: I don't see any public here except the folks from the radio and the press.
+--------------------------------------------------
+Commissioner York:
+Start: 01:44:45.640
+End: 01:44:53.720
+Duration: 8.080 seconds
+Text: So we'll close the public comment period.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:44:53.720
+End: 01:44:59.520
+Duration: 5.800 seconds
+Text: So mayor, back to your point a little bit about the permit kind of being the right size
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:44:59.520
+End: 01:45:01.480
+Duration: 1.960 seconds
+Text: for the size of the project.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:45:01.480
+End: 01:45:04.960
+Duration: 3.480 seconds
+Text: We kind of chose the city block, which is the ward districts.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:45:04.960
+End: 01:45:08.360
+Duration: 3.400 seconds
+Text: They all went through seven ward districts.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:45:08.360
+End: 01:45:13.840
+Duration: 5.480 seconds
+Text: Basically, there are 400 linear feet of work or the 1600 square feet, which is basically
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:45:13.840
+End: 01:45:16.200
+Duration: 2.360 seconds
+Text: one block area.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:45:16.200
+End: 01:45:23.360
+Duration: 7.160 seconds
+Text: So if you're going half a mile, take a half a mile on that length, divide by 400, that's
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:45:23.360
+End: 01:45:29.760
+Duration: 6.400 seconds
+Text: how much you permit fee would be, plus whatever damage to pavement and so forth throughout
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:45:29.760
+End: 01:45:30.760
+Duration: 1.000 seconds
+Text: that project.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:45:31.160
+End: 01:45:32.960
+Duration: 1.800 seconds
+Text: That kind of dress you're concerned with.
+--------------------------------------------------
+Commissioner York:
+Start: 01:45:32.960
+End: 01:45:33.960
+Duration: 1.000 seconds
+Text: Absolutely.
+--------------------------------------------------
+Commissioner York:
+Start: 01:45:33.960
+End: 01:45:36.560
+Duration: 2.600 seconds
+Text: And the other reason we wanted to set it up like that was because you're going to have
+--------------------------------------------------
+Commissioner York:
+Start: 01:45:36.560
+End: 01:45:41.200
+Duration: 4.640 seconds
+Text: a wide variety of contractors that are going to be pulling permits from the large boring
+--------------------------------------------------
+Commissioner York:
+Start: 01:45:41.200
+End: 01:45:46.240
+Duration: 5.040 seconds
+Text: companies to Joe Plummer that's just doing a lateral repair.
+--------------------------------------------------
+Commissioner York:
+Start: 01:45:46.240
+End: 01:45:51.240
+Duration: 5.000 seconds
+Text: You don't want to cause exorbit fees on that homeowner that's just doing a lateral repair.
+--------------------------------------------------
+City Manager:
+Start: 01:45:51.240
+End: 01:45:52.240
+Duration: 1.000 seconds
+Text: Makes sense.
+--------------------------------------------------
+Commissioner York:
+Start: 01:45:52.240
+End: 01:45:58.040
+Duration: 5.800 seconds
+Text: I think I just want to be sure you know the permit rather than go with an average is try
+--------------------------------------------------
+Commissioner York:
+Start: 01:45:58.040
+End: 01:46:00.520
+Duration: 2.480 seconds
+Text: to target it to what you estimate.
+--------------------------------------------------
+Commissioner York:
+Start: 01:46:00.520
+End: 01:46:04.640
+Duration: 4.120 seconds
+Text: You know, you can you can get to cover the cost of the guy you got to hire to make this
+--------------------------------------------------
+Commissioner York:
+Start: 01:46:04.640
+End: 01:46:09.280
+Duration: 4.640 seconds
+Text: work because then it becomes revenue neutral as far as property owners and everybody else.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:46:09.280
+End: 01:46:11.880
+Duration: 2.600 seconds
+Text: I wish I could tell you it's going to be 250 permits.
+--------------------------------------------------
+Commissioner York:
+Start: 01:46:11.880
+End: 01:46:12.880
+Duration: 1.000 seconds
+Text: Yeah, that's a good.
+--------------------------------------------------
+Commissioner York:
+Start: 01:46:12.880
+End: 01:46:13.880
+Duration: 1.000 seconds
+Text: You're going to have to guess.
+--------------------------------------------------
+Commissioner York:
+Start: 01:46:13.880
+End: 01:46:19.360
+Duration: 5.480 seconds
+Text: Yeah, we've talked to all other communities about how many permits they generally do a
+--------------------------------------------------
+Commissioner York:
+Start: 01:46:19.360
+End: 01:46:20.360
+Duration: 1.000 seconds
+Text: year.
+--------------------------------------------------
+Commissioner York:
+Start: 01:46:20.360
+End: 01:46:22.120
+Duration: 1.760 seconds
+Text: It's they're in the same boat.
+--------------------------------------------------
+Commissioner York:
+Start: 01:46:22.120
+End: 01:46:26.800
+Duration: 4.680 seconds
+Text: It's been high and low because of Google fiber and everything else that's going on
+--------------------------------------------------
+Commissioner York:
+Start: 01:46:26.800
+End: 01:46:28.240
+Duration: 1.440 seconds
+Text: the metro area.
+--------------------------------------------------
+Commissioner York:
+Start: 01:46:28.240
+End: 01:46:30.840
+Duration: 2.600 seconds
+Text: We have an idea what their permit fees are.
+--------------------------------------------------
+Commissioner York:
+Start: 01:46:30.840
+End: 01:46:37.520
+Duration: 6.680 seconds
+Text: It's such a wide wide range of permit fees from $40 per parcel to $125 per parcel plus
+--------------------------------------------------
+Commissioner York:
+Start: 01:46:37.520
+End: 01:46:41.960
+Duration: 4.440 seconds
+Text: they tack on pavement cut fees, dirt cut fees.
+--------------------------------------------------
+Commissioner York:
+Start: 01:46:41.960
+End: 01:46:43.760
+Duration: 1.800 seconds
+Text: So it's there's a wide range.
+--------------------------------------------------
+Commissioner York:
+Start: 01:46:43.760
+End: 01:46:47.880
+Duration: 4.120 seconds
+Text: So I think our our perspective is let's just set the fees at where we need them to be
+--------------------------------------------------
+Commissioner York:
+Start: 01:46:47.880
+End: 01:46:50.840
+Duration: 2.960 seconds
+Text: not necessarily what another community has.
+--------------------------------------------------
+Commissioner York:
+Start: 01:46:50.840
+End: 01:46:55.680
+Duration: 4.840 seconds
+Text: But we've we've looked at that just for comparison purposes and and it's all over the board.
+--------------------------------------------------
+Commissioner York:
+Start: 01:46:55.680
+End: 01:46:57.680
+Duration: 2.000 seconds
+Text: So it's hard to compare.
+--------------------------------------------------
+Commissioner York:
+Start: 01:46:57.680
+End: 01:46:59.680
+Duration: 2.000 seconds
+Text: Got everything you need?
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:46:59.680
+End: 01:47:00.680
+Duration: 1.000 seconds
+Text: I think so.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:47:00.680
+End: 01:47:01.680
+Duration: 1.000 seconds
+Text: Katie, you.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:47:01.680
+End: 01:47:03.680
+Duration: 2.000 seconds
+Text: Because you're the draftee.
+--------------------------------------------------
+City Manager:
+Start: 01:47:03.680
+End: 01:47:04.680
+Duration: 1.000 seconds
+Text: Draftee.
+--------------------------------------------------
+Commissioner York:
+Start: 01:47:04.680
+End: 01:47:08.200
+Duration: 3.520 seconds
+Text: Right, there being no further business will adjourn.
+--------------------------------------------------
+Commissioner York:
+Start: 01:47:08.200
+End: 01:47:09.200
+Duration: 1.000 seconds
+Text: Thanks everybody.
+--------------------------------------------------
+Commissioner York:
+Start: 01:47:09.200
+End: 01:47:10.200
+Duration: 1.000 seconds
+Text: Thanks for my shirt.
+--------------------------------------------------
+Commissioner McKee:
+Start: 01:47:10.200
+End: 01:47:11.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:47:11.200
+End: 01:47:14.200
+Duration: 3.000 seconds
+Text: Good job, Brian.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:47:14.200
+End: 01:47:15.200
+Duration: 1.000 seconds
+Text: Good job.
+--------------------------------------------------
+Commissioner York:
+Start: 01:47:15.200
+End: 01:47:17.200
+Duration: 2.000 seconds
+Text: No more for you.
+--------------------------------------------------
+Trevor McKeeman:
+Start: 01:47:17.200
+End: 01:47:21.200
+Duration: 4.000 seconds
+Text: No more for you.
+--------------------------------------------------

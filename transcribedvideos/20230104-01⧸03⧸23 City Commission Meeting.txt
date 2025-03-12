@@ -1,0 +1,1941 @@
+Transcription and Diarization for 20230104-01⧸03⧸23 City Commission Meeting.mp4
+==================================================
+
+Mayor Linda Morse:
+Start: 00:00:00.000
+End: 00:00:08.000
+Duration: 8.000 seconds
+Text: Good evening and welcome to the Manhattan City Commission meeting. Welcome to the new year
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:00:08.000
+End: 00:00:16.560
+Duration: 8.560 seconds
+Text: 2023. This is January 3rd as and we appreciate you coming. Nice to have an audience and even if
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:00:16.560
+End: 00:00:25.520
+Duration: 8.960 seconds
+Text: Mark said half of them are related to him. That's nice. We're glad you're here. So I'll call
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:00:25.520
+End: 00:00:31.920
+Duration: 6.400 seconds
+Text: up on the city clerk to call the roll. Mayor Morse, President, Commissioner Hessell.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:31.920
+End: 00:00:35.680
+Duration: 3.760 seconds
+Text: President. Commissioner Reddy, President. Commissioner Butler.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:35.680
+End: 00:00:41.920
+Duration: 6.240 seconds
+Text: President. Commissioner Mottet. Here. Mayor, we have five commissioners present. The quorum has to
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:00:41.920
+End: 00:00:46.720
+Duration: 4.800 seconds
+Text: met. Thank you very much. And the next on the agenda is the Pledge of Allegiance if you would
+--------------------------------------------------
+City Clerk:
+Start: 00:00:46.720
+End: 00:00:54.880
+Duration: 8.160 seconds
+Text: join me. I pledge allegiance to the flyer of the United States of America and to the Republic
+--------------------------------------------------
+Staff Member:
+Start: 00:00:54.880
+End: 00:01:01.280
+Duration: 6.400 seconds
+Text: for which it stands. One nation under God, indivisible, and liberty and justice for all.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:01:03.600
+End: 00:01:11.680
+Duration: 8.080 seconds
+Text: And now we would have a proclamation. Suzanne Gleymor, if you'd come forward and it says Kevin
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:01:11.680
+End: 00:01:21.680
+Duration: 10.000 seconds
+Text: Bryant, are you are you by yourself or do you have a substitute? Okay, you're welcome. Please
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:01:21.680
+End: 00:01:42.080
+Duration: 20.400 seconds
+Text: come forward. Welcome. Thank you for having this. Oh, there's Kevin. We were recruiting a
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:01:42.080
+End: 00:01:53.120
+Duration: 11.040 seconds
+Text: substitute. Yeah, welcome. Okay, we have Suzanne Gleymor. Gleymor. I say, okay, and Kevin Bryant
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:01:53.120
+End: 00:02:02.320
+Duration: 9.200 seconds
+Text: are here to receive the proclamation for Martin Luther King holiday and activities. So at this
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:02:02.320
+End: 00:02:09.920
+Duration: 7.600 seconds
+Text: point, I will please scoot on over this way when you get a chance. I'll read the proclamation.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:02:09.920
+End: 00:02:16.160
+Duration: 6.240 seconds
+Text: Whereas January 16th marks the observance of Dr. Martin Luther King, Jr. Federal holiday and
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:02:16.160
+End: 00:02:25.120
+Duration: 8.960 seconds
+Text: service day established by public law in 1983. And whereas this King holiday and service act
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:02:25.120
+End: 00:02:30.320
+Duration: 5.200 seconds
+Text: highlights remembrance and celebration and encourages people everywhere to reflect on the
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:02:30.320
+End: 00:02:36.960
+Duration: 6.640 seconds
+Text: principles of nonviolent social change, racial equality, community and humanitarian service,
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:02:36.960
+End: 00:02:43.360
+Duration: 6.400 seconds
+Text: and interracial cooperation. And Dr. Martin Luther King, Jr. devoted his life to advancing
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:02:43.360
+End: 00:02:49.280
+Duration: 5.920 seconds
+Text: equality, social justice and opportunity for all and challenged all Americans to participate in
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:02:49.280
+End: 00:02:57.040
+Duration: 7.760 seconds
+Text: the never-ending work of building a more perfect union. And celebrating Dr. King's life and
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:02:57.040
+End: 00:03:02.800
+Duration: 5.760 seconds
+Text: spirit through community wide recognitions and service on King holiday is an appropriate way to
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:03:02.800
+End: 00:03:09.280
+Duration: 6.480 seconds
+Text: honor Dr. King, bringing our citizens together and strengthening our communities and nation. And
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:03:09.280
+End: 00:03:15.680
+Duration: 6.400 seconds
+Text: it is appropriate for the city of Manhattan, Kansas to support a community celebration in observance
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:03:15.680
+End: 00:03:22.720
+Duration: 7.040 seconds
+Text: of the King holiday and day of service honoring Dr. Martin Luther King. And each of us can and must
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:03:23.360
+End: 00:03:28.800
+Duration: 5.440 seconds
+Text: contribute to making our communities better with increased opportunity for all our citizens.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:03:29.360
+End: 00:03:34.720
+Duration: 5.360 seconds
+Text: Now therefore, I lend a more smear of the city of Manhattan, Kansas. Do hereby proclaim January
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:03:34.720
+End: 00:03:41.200
+Duration: 6.480 seconds
+Text: 16th and 21st and you'll have to explain today's as Dr. Martin Luther King, Jr. community
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:03:41.200
+End: 00:03:47.680
+Duration: 6.480 seconds
+Text: celebration and day of service in Manhattan and urge all people to join and pay tribute to our life
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:03:47.680
+End: 00:03:53.600
+Duration: 5.920 seconds
+Text: to the life and works of Dr. Martin Luther King and apply his life principles and teachings of
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:03:53.600
+End: 00:04:00.880
+Duration: 7.280 seconds
+Text: service to inspire others to serve and remember his spirit of community. Suzanne Gleemorth and Kevin
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:04:00.880
+End: 00:04:06.560
+Duration: 5.680 seconds
+Text: Bryant. I'll share this proclamation with you and if you'd like to say a few words please.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:09.360
+End: 00:04:14.720
+Duration: 5.360 seconds
+Text: Thank you, ma'am Wors. Kevin Bryant and Anne Martin Luther King Committee and proudly we bring
+--------------------------------------------------
+City Clerk:
+Start: 00:04:16.080
+End: 00:04:21.200
+Duration: 5.120 seconds
+Text: our art writing contest Community Celebration Spirit Award and our guest speaker which will be
+--------------------------------------------------
+City Clerk:
+Start: 00:04:22.160
+End: 00:04:28.240
+Duration: 6.080 seconds
+Text: the new Provost of K-State. We're happy to bring this to Manhattan to show the diversity and
+--------------------------------------------------
+City Clerk:
+Start: 00:04:31.040
+End: 00:04:37.360
+Duration: 6.320 seconds
+Text: community that we have here. It's a fantastic community to be in. It's a community for King.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:37.360
+End: 00:04:41.360
+Duration: 4.000 seconds
+Text: On the 16th we'll be doing it. We'll be at the Douglas Center with our prayer breakfast
+--------------------------------------------------
+City Clerk:
+Start: 00:04:41.360
+End: 00:04:46.800
+Duration: 5.440 seconds
+Text: community celebration. I invite you to come down. Saturday on the 21st is the day of service.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:46.800
+End: 00:04:52.080
+Duration: 5.280 seconds
+Text: Hands-on K-State participates in different various functions and you can still sign up for hands-on
+--------------------------------------------------
+City Clerk:
+Start: 00:04:52.080
+End: 00:04:56.400
+Duration: 4.320 seconds
+Text: hands-on K-State for you people listening out there and then of course the laying of the reef
+--------------------------------------------------
+City Clerk:
+Start: 00:04:56.400
+End: 00:05:01.280
+Duration: 4.880 seconds
+Text: will occur at K-State on the 27th. Lorenzo Lockett will be speaking. We'll be speaking on that.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:01.280
+End: 00:05:06.560
+Duration: 5.280 seconds
+Text: So it'll be an interesting thing and we look forward to celebrating this fantastic community.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:06.560
+End: 00:05:08.160
+Duration: 1.600 seconds
+Text: I'm going to stop dropping stuff anytime.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:08.400
+End: 00:05:20.320
+Duration: 11.920 seconds
+Text: Okay. The art and writing contest theme this year is as always based on a quote from Dr. King.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:21.280
+End: 00:05:29.200
+Duration: 7.920 seconds
+Text: This year that is true peace is not merely the absence of tension. It is the presence of justice.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:31.040
+End: 00:05:36.560
+Duration: 5.520 seconds
+Text: That contest is still open for submissions until January 7th so the community is invited to
+--------------------------------------------------
+City Clerk:
+Start: 00:05:36.640
+End: 00:05:43.280
+Duration: 6.640 seconds
+Text: participate. Children, youth, adults, anyone can participate and you can drop off your entries
+--------------------------------------------------
+City Clerk:
+Start: 00:05:43.280
+End: 00:05:48.640
+Duration: 5.360 seconds
+Text: at the Manhattan Public Library until January 7th at 6 p.m. which is when they close.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:49.520
+End: 00:05:52.480
+Duration: 2.960 seconds
+Text: So we invite you all. Thank you. Thank you.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:06:06.720
+End: 00:06:20.720
+Duration: 14.000 seconds
+Text: I would just say that this community has a long history of recognizing Martin Luther King in this
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:06:20.720
+End: 00:06:27.840
+Duration: 7.120 seconds
+Text: community. I don't know 30 years anyway and I would note that Jim Butler, Reverend Jim Butler,
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:06:27.840
+End: 00:06:33.040
+Duration: 5.200 seconds
+Text: passed away this last year and so this will be the first year that he has not been a part of the
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:06:33.040
+End: 00:06:42.880
+Duration: 9.840 seconds
+Text: organizing committee. Pardon? I could I say. Sorry. Reverend Jim Spencer, I know that. I'm sorry.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:06:43.600
+End: 00:06:51.680
+Duration: 8.080 seconds
+Text: Just grabbed the wrong name. So but I do want to mention Jim Spencer because he was kind of the
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:06:51.680
+End: 00:06:59.200
+Duration: 7.520 seconds
+Text: glue that held things together and we appreciated his efforts at lifetime actually his whole life.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:06:59.280
+End: 00:07:09.280
+Duration: 10.000 seconds
+Text: So thank you all. All right. The next category on the agenda is public comments. If anyone has
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:07:09.280
+End: 00:07:20.000
+Duration: 10.720 seconds
+Text: comments then please come forward. You'd like to pay tribute to your dad. Anyone? Seeing no one,
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:07:20.000
+End: 00:07:25.600
+Duration: 5.600 seconds
+Text: I'll move on. Passed public comments to Commissioner comments. No?
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:07:26.080
+End: 00:07:32.320
+Duration: 6.240 seconds
+Text: You just want to give a shout out to Whoville, you know, for the festival lights. They did a great
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:07:32.320
+End: 00:07:37.840
+Duration: 5.520 seconds
+Text: job. Of course those are coming down which is sad but they'll be back up next year and remember
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:07:37.840
+End: 00:07:43.600
+Duration: 5.760 seconds
+Text: that's not sponsored by the city so they take donations. So feel free this year to donate to
+--------------------------------------------------
+City Clerk:
+Start: 00:07:43.600
+End: 00:07:48.880
+Duration: 5.280 seconds
+Text: festival the lights so we'll continue. Yes, I just want to wish everybody a happy new year.
+--------------------------------------------------
+City Clerk:
+Start: 00:07:48.880
+End: 00:07:53.760
+Duration: 4.880 seconds
+Text: Hopefully it's off to a great start. Even though we didn't do so great in the sugar bowl, there's
+--------------------------------------------------
+City Clerk:
+Start: 00:07:53.760
+End: 00:07:59.120
+Duration: 5.360 seconds
+Text: lots of basketball games to go to as well. And USD 383 starts tomorrow. Thank you.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:08:01.200
+End: 00:08:06.320
+Duration: 5.120 seconds
+Text: I would just say that this community has done an excellent job with the holiday events that we've
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:08:06.320
+End: 00:08:13.360
+Duration: 7.040 seconds
+Text: had from from the Blue Earth Plaza to the lighted holiday parade and all of the events in the
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:08:13.360
+End: 00:08:21.520
+Duration: 8.160 seconds
+Text: community. I think the Santa Claus' were just wonderful. And hope we get them back. I might also
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:08:21.520
+End: 00:08:30.800
+Duration: 9.280 seconds
+Text: mention I've been serving on the law board, Raleigh County Law Board and we have just sworn in
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:08:30.800
+End: 00:08:39.760
+Duration: 8.960 seconds
+Text: last Friday the new director of RCPD and his name is Brian Pete and that was his first day and he's
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:08:39.760
+End: 00:08:48.080
+Duration: 8.320 seconds
+Text: been very busy with the new jobs since he's arrived here. And we hope to have a welcome reception
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:08:48.080
+End: 00:08:59.040
+Duration: 10.960 seconds
+Text: for him as soon. I did take the opportunity to tour the Wolf House, the historic holiday decorations
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:08:59.040
+End: 00:09:08.560
+Duration: 9.520 seconds
+Text: there were just wonderful. It's a real gem here in the community so you might go there sometime when
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:09:08.560
+End: 00:09:16.800
+Duration: 8.240 seconds
+Text: there's an open house about what life was like in the 1860s, 70s or 80s and it's pretty remarkable.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:09:18.000
+End: 00:09:24.640
+Duration: 6.640 seconds
+Text: I also went to these are just recent things to the Flint Hills Discovery Center. It was like a
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:09:24.640
+End: 00:09:30.080
+Duration: 5.440 seconds
+Text: pajama party for new years and they dropped balloons from the ceiling and there were a lot of
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:09:30.080
+End: 00:09:36.880
+Duration: 6.800 seconds
+Text: squealing kids. There were 220 people registered although I think two thirds of those are parents
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:09:37.760
+End: 00:09:44.160
+Duration: 6.400 seconds
+Text: that they have a maximum the building can hold but it was just delightful to see the children doing
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:09:44.160
+End: 00:09:51.120
+Duration: 6.960 seconds
+Text: something in the community that was it was a pizza party too. So I could use to the Flint Hills
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:09:51.120
+End: 00:09:57.200
+Duration: 6.080 seconds
+Text: Discovery Center for and I know the zoo has been doing some special programming too so they've done
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:09:57.200
+End: 00:10:09.280
+Duration: 12.080 seconds
+Text: an excellent job. Okay with that it is now time for the reorganization. So I would just like to make
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:10:09.280
+End: 00:10:19.760
+Duration: 10.480 seconds
+Text: some comments here on my way departing the mayor position and I think we've we've had some
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:10:19.760
+End: 00:10:28.240
+Duration: 8.480 seconds
+Text: real successes and certainly the word infrastructure would describe a lot of them. We have
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:10:29.440
+End: 00:10:36.720
+Duration: 7.280 seconds
+Text: worked on the water treatment plant, the water plant, the sewer, the streets, everything and
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:10:37.840
+End: 00:10:47.360
+Duration: 9.520 seconds
+Text: that's going to pay off. It's like at your house should I do this maintenance? It will pay off later
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:10:47.440
+End: 00:10:58.400
+Duration: 10.960 seconds
+Text: and I had my sewer's line rub a year ago and so and I really think that we don't we have not had
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:10:58.400
+End: 00:11:05.200
+Duration: 6.800 seconds
+Text: the kind of I mentioned on the radio this morning the kind number of water breaks that Topeka had.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:11:05.200
+End: 00:11:12.880
+Duration: 7.680 seconds
+Text: I heard on the radio there were 125 during that severe winter, severe cold we had and I confirmed
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:11:12.880
+End: 00:11:20.800
+Duration: 7.920 seconds
+Text: with Ron that we had one. On Christmas day we had one. We may have had two or three but for the
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:11:20.800
+End: 00:11:28.240
+Duration: 7.440 seconds
+Text: most part it was the the the work we have been doing in this community is really paying off so I
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:11:28.240
+End: 00:11:34.160
+Duration: 5.920 seconds
+Text: hope everyone you know you don't notice the absence of something. If we had 50 of them people
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:11:34.160
+End: 00:11:39.040
+Duration: 4.880 seconds
+Text: would be screaming bloody murder because they're watered be off and sewer and all that so the fact
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:11:39.040
+End: 00:11:48.240
+Duration: 9.200 seconds
+Text: that life is normal and usual is a really good thing. We have continued to chip away at the
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:11:48.240
+End: 00:11:56.560
+Duration: 8.320 seconds
+Text: city's commitment to the North Campus corridor. That commitment was made overnight. I've been on
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:11:56.560
+End: 00:12:02.640
+Duration: 6.080 seconds
+Text: the commission now about eight years and that was all that commitment had already been made when I
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:12:03.120
+End: 00:12:09.840
+Duration: 6.720 seconds
+Text: joined the commission so we have continued to deliver on that and you know it comes out of our hide
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:12:09.840
+End: 00:12:15.600
+Duration: 5.760 seconds
+Text: sometimes because we don't have money to do other things that we'd like to but it a commitment is
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:12:15.600
+End: 00:12:23.440
+Duration: 7.840 seconds
+Text: a commitment and we have been good partners with Kansas State University and we're going to help
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:12:23.440
+End: 00:12:30.160
+Duration: 6.720 seconds
+Text: them get their enrollment up. So we could enjoy these wonderful streets and sewers that we're building.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:12:30.720
+End: 00:12:42.320
+Duration: 11.600 seconds
+Text: It's some of the highlights we've we're putting in a new data and technology system and ERP
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:12:43.520
+End: 00:12:49.360
+Duration: 5.840 seconds
+Text: to replace the one we have and we're using three million dollars of ARPA money for that but it's
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:12:49.360
+End: 00:12:54.720
+Duration: 5.360 seconds
+Text: still going to be a major investment over a couple of years of our staff time those are
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:12:55.120
+End: 00:13:02.000
+Duration: 6.880 seconds
+Text: that's the heart of all the computer systems for the city and it's going to be a big deal and
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:13:02.000
+End: 00:13:09.840
+Duration: 7.840 seconds
+Text: it's going to require a lot of effort. We've approved the Art and Light Museum, we are dredging
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:13:09.840
+End: 00:13:16.720
+Duration: 6.880 seconds
+Text: Dishman Lake. I mean look at the people that go there that for that will really be able to fish
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:13:17.840
+End: 00:13:22.960
+Duration: 5.120 seconds
+Text: it won't be clogged anymore. We've approved the city's commitment to the Scorpion project
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:13:23.520
+End: 00:13:31.040
+Duration: 7.520 seconds
+Text: and ERBs and all the economic development things that we need to do there. We've approved the Midtown
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:13:31.040
+End: 00:13:43.040
+Duration: 12.000 seconds
+Text: Development for Aggieville. I won't talk about parking lots. We have we're improving sidewalks
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:13:43.040
+End: 00:13:47.840
+Duration: 4.800 seconds
+Text: on Fort Riley Boulevard and on Hayes Drive and there others throughout this whole year and
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:13:47.840
+End: 00:13:57.760
+Duration: 9.920 seconds
+Text: coming up next year that are major and the new parking garage just opened up a few months ago
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:13:57.760
+End: 00:14:04.720
+Duration: 6.960 seconds
+Text: and in Aggieville and with now we have license plate readers we're just really modern.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:14:06.400
+End: 00:14:13.120
+Duration: 6.720 seconds
+Text: We accepted the FAA's contribution of about 25 million dollars to reconstruct the runways
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:14:13.200
+End: 00:14:21.120
+Duration: 7.920 seconds
+Text: is reconstruct the right word, Brandon. Okay. That's going to be major for us and it'll
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:14:21.120
+End: 00:14:26.960
+Duration: 5.840 seconds
+Text: serve us well for another 20 years. We've completed the first year of the Manhattan Development Code
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:14:27.520
+End: 00:14:34.800
+Duration: 7.280 seconds
+Text: and we're tweaking it. It seems that we've tweaked it twice or three times already and I
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:14:34.800
+End: 00:14:41.040
+Duration: 6.240 seconds
+Text: we had a commitment to take a look at it again in one year so that that year's up so it's time.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:14:41.840
+End: 00:14:50.160
+Duration: 8.320 seconds
+Text: We authorized a FEMA buyout of the National Church Residences on Garden Way and those are so
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:14:50.160
+End: 00:14:59.760
+Duration: 9.600 seconds
+Text: important to keep people out of harm's way every time we can buy out a and use FEMA for 80% of the
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:14:59.760
+End: 00:15:05.520
+Duration: 5.760 seconds
+Text: cost. We approved a pre-development agreement with the Manhattan Housing Authority.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:15:06.400
+End: 00:15:13.040
+Duration: 6.640 seconds
+Text: We adopted a new housing market analysis and now we need to follow through to implement it.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:15:14.240
+End: 00:15:20.480
+Duration: 6.240 seconds
+Text: We've established a policy. This was major. It's taken some years to develop a fee in lieu of storm
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:15:20.480
+End: 00:15:29.280
+Duration: 8.800 seconds
+Text: water fee and we have just approved new chamber contracts and we're redeveloping the levy system
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:15:29.280
+End: 00:15:37.920
+Duration: 8.640 seconds
+Text: reconstructing the levy system. Those are huge projects and I just wanted to call attention to those
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:15:39.120
+End: 00:15:46.240
+Duration: 7.120 seconds
+Text: highlights. They are all pretty much big ticket items that have consumed our attention, our staff's
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:15:46.240
+End: 00:15:53.360
+Duration: 7.120 seconds
+Text: attention. Our staff does an excellent job resource-wise. Administration does a great job
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:15:53.360
+End: 00:16:03.760
+Duration: 10.400 seconds
+Text: of finding grants and the FAA, 25 million. I mean think about the things that we're accomplishing
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:16:03.760
+End: 00:16:12.800
+Duration: 9.040 seconds
+Text: here. All to make our community better. As I address, go to address welcome a conference here
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:16:12.800
+End: 00:16:20.560
+Duration: 7.760 seconds
+Text: in the community. I usually say that Manhattan is one of the is the shining star on the Kansas map
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:16:21.200
+End: 00:16:27.600
+Duration: 6.400 seconds
+Text: and I really think it is. We're doing things here that other communities are suffering
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:16:27.600
+End: 00:16:37.120
+Duration: 9.520 seconds
+Text: and declining in population. We are steady and growing slightly and that's a good way to grow
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:16:37.120
+End: 00:16:47.440
+Duration: 10.320 seconds
+Text: rather than having a huge bowl of some kind. If I would have liked to have completed or to have
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:16:48.240
+End: 00:16:55.120
+Duration: 6.880 seconds
+Text: worked on the annexation of Green Valley along the commercial corridor, I think that's important
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:16:55.120
+End: 00:17:02.160
+Duration: 7.040 seconds
+Text: to our future growth and we can't just put our heads in the sand. That's what's happened in Green
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:17:02.160
+End: 00:17:12.320
+Duration: 10.160 seconds
+Text: Valley is head in the sand and not dealing with the issues there. I would also I would encourage
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:17:12.320
+End: 00:17:19.440
+Duration: 7.120 seconds
+Text: us to review and update old policies because they tend to get the old ones get in the way of the
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:17:19.440
+End: 00:17:25.520
+Duration: 6.080 seconds
+Text: things that we need to be doing and I know everybody wants to look the other way and and avoid.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:17:26.400
+End: 00:17:32.560
+Duration: 6.160 seconds
+Text: But we've seen how some of them are so disruptive when we don't take action.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:17:33.680
+End: 00:17:41.040
+Duration: 7.360 seconds
+Text: So with that, I think our community is healthy. I think that we are in better shape than many
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:17:41.040
+End: 00:17:51.200
+Duration: 10.160 seconds
+Text: communities are in many cities and I want us to continue to grow and help and we are so
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:17:51.200
+End: 00:17:58.720
+Duration: 7.520 seconds
+Text: unfortunate to have Fort Riley and K-State here and in Baff. So and now in future to have Scorpion.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:17:58.720
+End: 00:18:04.560
+Duration: 5.840 seconds
+Text: And so those are exciting things for our community and we can't take them for granted and we have to
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:18:04.560
+End: 00:18:13.440
+Duration: 8.880 seconds
+Text: keep blowing oxygen to all of these things to make our community better and attract people. I'm
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:18:15.200
+End: 00:18:21.760
+Duration: 6.560 seconds
+Text: amazed at the senior citizens that moved they've gone to school here or but and they come back
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:18:21.760
+End: 00:18:28.000
+Duration: 6.240 seconds
+Text: after they retire. They come to Manhattan and the young professionals who went away got a job
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:18:28.000
+End: 00:18:34.320
+Duration: 6.320 seconds
+Text: and want to come back here. That's what we want that dynamic is what we need here in this community.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:18:34.720
+End: 00:18:47.520
+Duration: 12.800 seconds
+Text: And we're doing that. So it is all good. So just please continue to have what have patience with
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:18:47.520
+End: 00:18:59.200
+Duration: 11.680 seconds
+Text: our street repairs and rebuilds. I'm pleased that we can tear up a block but the businesses around
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:18:59.200
+End: 00:19:05.280
+Duration: 6.080 seconds
+Text: it can can can continue to survive and make it through that short period of time and then we'll
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:19:05.280
+End: 00:19:11.360
+Duration: 6.080 seconds
+Text: go to the next block but we don't tear up the whole street and put a lot of businesses out of
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:19:11.360
+End: 00:19:20.720
+Duration: 9.360 seconds
+Text: business for that period of time. So I think our staff, our administration has a good system and
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:19:21.440
+End: 00:19:33.040
+Duration: 11.600 seconds
+Text: that we can appreciate and so with that I will move on to then I my comments are ending and it
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:19:33.040
+End: 00:19:40.320
+Duration: 7.280 seconds
+Text: rend it the city clerk has a plan for us. I would like to ask the commission for nominations for Mayor.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:42.560
+End: 00:19:48.960
+Duration: 6.400 seconds
+Text: I move that commissioner Mark Hadasal, Mark J Hadasal, be appointed to serve as Mayor until the
+--------------------------------------------------
+City Clerk:
+Start: 00:19:49.040
+End: 00:19:57.840
+Duration: 8.800 seconds
+Text: first working Tuesday of January 2024. Is there a second? No second. Hearing no other nominations for
+--------------------------------------------------
+City Clerk:
+Start: 00:19:57.840
+End: 00:20:05.200
+Duration: 7.360 seconds
+Text: Mayor I will now call the roll. Mayor Morse? Yes. Commissioner Hadasal? Yes. Commissioner
+--------------------------------------------------
+City Clerk:
+Start: 00:20:05.200
+End: 00:20:11.680
+Duration: 6.480 seconds
+Text: Reddy? Yes. Commissioner Butler? Yes. Commissioner Mata? Yes. Motion carries 5-0.
+--------------------------------------------------
+Staff Member:
+Start: 00:20:12.640
+End: 00:20:22.480
+Duration: 9.840 seconds
+Text: I would like to ask the commission for nominations for Mayor Pro Tem. I move that commissioner
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:20:22.480
+End: 00:20:29.040
+Duration: 6.560 seconds
+Text: Usher Reddy be appointed to serve as Mayor Pro Tem until the first working Tuesday of January 2024.
+--------------------------------------------------
+Staff Member:
+Start: 00:20:29.040
+End: 00:20:36.000
+Duration: 6.960 seconds
+Text: Is there a second? Second. Hearing no other nominations for Mayor Pro Tem. City clerk, would you
+--------------------------------------------------
+City Clerk:
+Start: 00:20:36.000
+End: 00:20:43.600
+Duration: 7.600 seconds
+Text: please call the roll? Mayor Hassel? Yes. Commissioner Reddy? Yes. Commissioner Butler? Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:20:43.600
+End: 00:20:48.560
+Duration: 4.960 seconds
+Text: Commissioner Mata? Yes. Commissioner Morse? Yes. Motion carries 5-0.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:21:06.000
+End: 00:21:07.600
+Duration: 1.600 seconds
+Text: I know.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:21:21.440
+End: 00:21:27.200
+Duration: 5.760 seconds
+Text: I think this is a record of Mayor's and former Mayor's Black for Mayor's.
+--------------------------------------------------
+Staff Member:
+Start: 00:21:29.840
+End: 00:21:34.560
+Duration: 4.720 seconds
+Text: On behalf of the City's Fath, the City of Commission and citizens of Manhattan,
+--------------------------------------------------
+Staff Member:
+Start: 00:21:34.560
+End: 00:21:40.160
+Duration: 5.600 seconds
+Text: would like to present you with your Mayor Gable for serving as Mayor of the January 2022.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:21:49.760
+End: 00:21:55.120
+Duration: 5.360 seconds
+Text: We have become a tradition of putting together a picture of some things that happened.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:21:55.120
+End: 00:22:02.240
+Duration: 7.120 seconds
+Text: We have managed to put some things together. Definitely, most recently, the chamber recognized you.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:22:03.200
+End: 00:22:07.840
+Duration: 4.640 seconds
+Text: I think a record year of having governor or governor's staff in Manhattan, the
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:22:07.840
+End: 00:22:13.680
+Duration: 5.840 seconds
+Text: help he has to dedicate things or announce things. And so we've reflected some of that in a way
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:22:13.680
+End: 00:22:20.000
+Duration: 6.320 seconds
+Text: where they picked Manhattan for something like grants that we were awarded and then for highly.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:22:20.880
+End: 00:22:25.920
+Duration: 5.040 seconds
+Text: Former Sergeant Major was a retirement and then I checked the scurvy center. We hope you will.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:22:26.880
+End: 00:22:31.120
+Duration: 4.240 seconds
+Text: Now I'll help you reflect some bond memories of the service and the one on behalf of the staff.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:22:32.240
+End: 00:22:34.240
+Duration: 2.000 seconds
+Text: Thank you very much.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:34.240
+End: 00:22:42.240
+Duration: 8.000 seconds
+Text: Applause
+--------------------------------------------------
+City Clerk:
+Start: 00:22:52.240
+End: 00:22:54.240
+Duration: 2.000 seconds
+Text: Not quite yet.
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:22:54.240
+End: 00:22:56.240
+Duration: 2.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:56.240
+End: 00:22:58.240
+Duration: 2.000 seconds
+Text: Yeah. Do I go down there to the center?
+--------------------------------------------------
+Speaker_0:
+Start: 00:22:58.240
+End: 00:23:00.240
+Duration: 2.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Staff Member:
+Start: 00:23:02.240
+End: 00:23:04.240
+Duration: 2.000 seconds
+Text: We'll be over there. Change now.
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:23:04.240
+End: 00:23:06.240
+Duration: 2.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Clerk:
+Start: 00:23:06.240
+End: 00:23:08.240
+Duration: 2.000 seconds
+Text: You're my host.
+--------------------------------------------------
+Staff Member:
+Start: 00:23:26.240
+End: 00:23:36.240
+Duration: 10.000 seconds
+Text: I want my chair back. This one's too low.
+--------------------------------------------------
+City Clerk:
+Start: 00:23:36.240
+End: 00:23:38.240
+Duration: 2.000 seconds
+Text: I'll have to.
+--------------------------------------------------
+City Clerk:
+Start: 00:23:38.240
+End: 00:23:40.240
+Duration: 2.000 seconds
+Text: There you go.
+--------------------------------------------------
+City Clerk:
+Start: 00:23:40.240
+End: 00:23:42.240
+Duration: 2.000 seconds
+Text: Oh yeah.
+--------------------------------------------------
+City Clerk:
+Start: 00:23:42.240
+End: 00:23:52.240
+Duration: 10.000 seconds
+Text: All righty.
+--------------------------------------------------
+Staff Member:
+Start: 00:23:52.240
+End: 00:23:58.160
+Duration: 5.920 seconds
+Text: Well, first of all, I would like to thank my wife Pamela and my daughter Jessica and Georgia
+--------------------------------------------------
+Staff Member:
+Start: 00:23:58.160
+End: 00:24:02.800
+Duration: 4.640 seconds
+Text: for being here tonight. Also, my brother David and his wife Julie for spending part of their evening
+--------------------------------------------------
+Staff Member:
+Start: 00:24:02.800
+End: 00:24:07.200
+Duration: 4.400 seconds
+Text: with us. I really appreciate the support and encouragement that you guys have all provided me
+--------------------------------------------------
+Staff Member:
+Start: 00:24:07.200
+End: 00:24:12.400
+Duration: 5.200 seconds
+Text: over the last three years on the commission. I've always felt a being rare of Manhattan was a real
+--------------------------------------------------
+Staff Member:
+Start: 00:24:12.400
+End: 00:24:17.600
+Duration: 5.200 seconds
+Text: honor and privilege. People across the state of Kansas love coming to Manhattan and enjoying the
+--------------------------------------------------
+Staff Member:
+Start: 00:24:17.600
+End: 00:24:22.160
+Duration: 4.560 seconds
+Text: great things that are happening here. As I visit with people across the state, I'm thrilled with
+--------------------------------------------------
+Staff Member:
+Start: 00:24:22.160
+End: 00:24:26.400
+Duration: 4.240 seconds
+Text: the opportunity to share with them all of the things that we are doing here to make Manhattan
+--------------------------------------------------
+Staff Member:
+Start: 00:24:26.400
+End: 00:24:31.680
+Duration: 5.280 seconds
+Text: an even better place to live, work, and visit. I don't have any particular agenda for the next
+--------------------------------------------------
+Staff Member:
+Start: 00:24:31.680
+End: 00:24:37.120
+Duration: 5.440 seconds
+Text: year other than my usual soap boxes of less regulation and interference by the government in our lives
+--------------------------------------------------
+Staff Member:
+Start: 00:24:37.120
+End: 00:24:43.360
+Duration: 6.240 seconds
+Text: and livelihoods are continuing attempts to provide services that citizens expect in an affordable
+--------------------------------------------------
+Staff Member:
+Start: 00:24:44.320
+End: 00:24:47.840
+Duration: 3.520 seconds
+Text: way and hopefully the continuous streamlining and shortening of state commission meetings.
+--------------------------------------------------
+Staff Member:
+Start: 00:24:49.280
+End: 00:24:54.320
+Duration: 5.040 seconds
+Text: Having said that, the top items I would like to see us work on and hopefully accomplish this year
+--------------------------------------------------
+Staff Member:
+Start: 00:24:54.320
+End: 00:25:00.400
+Duration: 6.080 seconds
+Text: include getting our head around and developing some action steps on this workforce housing issue.
+--------------------------------------------------
+Staff Member:
+Start: 00:25:00.960
+End: 00:25:05.440
+Duration: 4.480 seconds
+Text: I know we won't have any money to implement anything for a while, but with the steering committee
+--------------------------------------------------
+Staff Member:
+Start: 00:25:05.440
+End: 00:25:10.480
+Duration: 5.040 seconds
+Text: in place, I would like to see some tangible progress this year, including some bright ideas for
+--------------------------------------------------
+Staff Member:
+Start: 00:25:10.480
+End: 00:25:16.240
+Duration: 5.760 seconds
+Text: the commission to consider. Secondly, we need to start discussing a plan to allocate our extra
+--------------------------------------------------
+Staff Member:
+Start: 00:25:16.240
+End: 00:25:23.040
+Duration: 6.800 seconds
+Text: $2.6 million in arpefants. Our budget discussions this year should include some firm possible uses,
+--------------------------------------------------
+Staff Member:
+Start: 00:25:23.040
+End: 00:25:28.640
+Duration: 5.600 seconds
+Text: and I'd like to have it settled by the end of the year. I would also like to see us make some
+--------------------------------------------------
+Staff Member:
+Start: 00:25:28.640
+End: 00:25:33.440
+Duration: 4.800 seconds
+Text: progress on the office space on the first floor of the Aguil parking garage. Since it doesn't appear
+--------------------------------------------------
+Staff Member:
+Start: 00:25:33.440
+End: 00:25:38.480
+Duration: 5.040 seconds
+Text: we're going to get state grants to finish that space. We need to come up with some ideas on how to
+--------------------------------------------------
+Staff Member:
+Start: 00:25:38.480
+End: 00:25:45.200
+Duration: 6.720 seconds
+Text: fund, use and manage that prime piece of real estate. I am concerned that the community is still
+--------------------------------------------------
+Staff Member:
+Start: 00:25:45.200
+End: 00:25:50.240
+Duration: 5.040 seconds
+Text: suspicious of our plans for the Parks and Recreation Department. We need to communicate more and
+--------------------------------------------------
+Staff Member:
+Start: 00:25:50.240
+End: 00:25:56.560
+Duration: 6.320 seconds
+Text: better as to what the city is doing to provide expected parks and recreation services and programs.
+--------------------------------------------------
+Staff Member:
+Start: 00:25:57.200
+End: 00:26:02.400
+Duration: 5.200 seconds
+Text: We need to get a director hired and going as soon as possible. Getting the pools open last year
+--------------------------------------------------
+Staff Member:
+Start: 00:26:02.400
+End: 00:26:06.960
+Duration: 4.560 seconds
+Text: was much appreciated by the public, but I'm afraid we still have a ways to go to re-earn the
+--------------------------------------------------
+Staff Member:
+Start: 00:26:06.960
+End: 00:26:14.480
+Duration: 7.520 seconds
+Text: public's trust in this area. As we have seen over the past few years, the updating and improving
+--------------------------------------------------
+Staff Member:
+Start: 00:26:14.480
+End: 00:26:20.160
+Duration: 5.680 seconds
+Text: of our community is expensive and inconvenient. Between the closures and detours of Kimball Avenue
+--------------------------------------------------
+Staff Member:
+Start: 00:26:20.160
+End: 00:26:25.920
+Duration: 5.760 seconds
+Text: and the ongoing construction in and around Aguil, these improvements can really try our collective
+--------------------------------------------------
+Staff Member:
+Start: 00:26:25.920
+End: 00:26:32.240
+Duration: 6.320 seconds
+Text: patience. If you're hoping to end it for an end to these hassles, I'm afraid this is not your year.
+--------------------------------------------------
+Staff Member:
+Start: 00:26:32.880
+End: 00:26:38.640
+Duration: 5.760 seconds
+Text: We are looking at more and better inconvenience in Aguil, total closure for a few months of the
+--------------------------------------------------
+Staff Member:
+Start: 00:26:38.640
+End: 00:26:45.200
+Duration: 6.560 seconds
+Text: airport, continued linear trail closures on the levee, and don't forget the regularly scheduled orange
+--------------------------------------------------
+Staff Member:
+Start: 00:26:45.200
+End: 00:26:52.240
+Duration: 7.040 seconds
+Text: cone zones that come with our annual road maintenance projects. But still, these are exciting times
+--------------------------------------------------
+Staff Member:
+Start: 00:26:52.240
+End: 00:26:59.280
+Duration: 7.040 seconds
+Text: here in MHK. In the next 18 to 24 months, we will add a world-class museum, a state-of-the-art
+--------------------------------------------------
+Staff Member:
+Start: 00:26:59.280
+End: 00:27:05.760
+Duration: 6.480 seconds
+Text: vaccine and drug manufacturing facility, probably two beautiful and top shelf class A office buildings,
+--------------------------------------------------
+Staff Member:
+Start: 00:27:06.640
+End: 00:27:12.160
+Duration: 5.520 seconds
+Text: an updated and improved airport experience, much improved levee protection and storm water
+--------------------------------------------------
+Staff Member:
+Start: 00:27:12.160
+End: 00:27:18.560
+Duration: 6.400 seconds
+Text: management infrastructure, a great new maintenance building for a city equipment and employees to
+--------------------------------------------------
+Staff Member:
+Start: 00:27:18.560
+End: 00:27:24.080
+Duration: 5.520 seconds
+Text: work from, and soon the long-awaited commissioning and opening of the National Bio and Aguil
+--------------------------------------------------
+Staff Member:
+Start: 00:27:24.080
+End: 00:27:29.520
+Duration: 5.440 seconds
+Text: Defense Facility. It truly is a great time to be alive in Manhattan, Kansas. Thank you again for
+--------------------------------------------------
+Staff Member:
+Start: 00:27:29.520
+End: 00:27:41.760
+Duration: 12.240 seconds
+Text: this honor. We will. Is there any reason for pause for any reason? We're just going to keep moving
+--------------------------------------------------
+Staff Member:
+Start: 00:27:41.760
+End: 00:27:49.520
+Duration: 7.760 seconds
+Text: and knock this stuff out quick if you guys can hang on a minute. We'll move on to the consent agenda.
+--------------------------------------------------
+Staff Member:
+Start: 00:27:49.520
+End: 00:27:53.680
+Duration: 4.160 seconds
+Text: Items on the consent agenda are those of a routine in housekeeping nature or those items which
+--------------------------------------------------
+Staff Member:
+Start: 00:27:53.680
+End: 00:27:58.000
+Duration: 4.320 seconds
+Text: have been previously considered by the City Commission and may be approved in one motion.
+--------------------------------------------------
+Staff Member:
+Start: 00:27:58.560
+End: 00:28:02.480
+Duration: 3.920 seconds
+Text: The commissioner may request an item be removed for separate discussion and considered
+--------------------------------------------------
+Staff Member:
+Start: 00:28:02.480
+End: 00:28:06.880
+Duration: 4.400 seconds
+Text: immediately following the consent agenda. Comments from the public related to these items
+--------------------------------------------------
+Staff Member:
+Start: 00:28:07.680
+End: 00:28:11.840
+Duration: 4.160 seconds
+Text: is allowed. Each person will be limited to one speaking opportunity for up to five minutes.
+--------------------------------------------------
+Staff Member:
+Start: 00:28:13.280
+End: 00:28:17.040
+Duration: 3.760 seconds
+Text: Commissioners, do you have any questions about any items on the consent agenda?
+--------------------------------------------------
+City Clerk:
+Start: 00:28:17.040
+End: 00:28:28.960
+Duration: 11.920 seconds
+Text: Yes, item E1 on the request for proposal for the Arts and the Part Concerts.
+--------------------------------------------------
+City Clerk:
+Start: 00:28:31.200
+End: 00:28:40.800
+Duration: 9.600 seconds
+Text: In the memo, it gives how much we spent for those events that we put on for 2019-2022.
+--------------------------------------------------
+City Clerk:
+Start: 00:28:40.960
+End: 00:28:47.360
+Duration: 6.400 seconds
+Text: That's it over the same time period received 24,000 in sponsorships and donations. Was that 24,000
+--------------------------------------------------
+City Clerk:
+Start: 00:28:47.360
+End: 00:28:52.400
+Duration: 5.040 seconds
+Text: for like those number of years cumulative? I believe that's correct.
+--------------------------------------------------
+City Clerk:
+Start: 00:28:52.880
+End: 00:29:01.120
+Duration: 8.240 seconds
+Text: Okay. Also in the proposal, the last page says optional possible sharing of vendors and
+--------------------------------------------------
+City Clerk:
+Start: 00:29:01.680
+End: 00:29:09.520
+Duration: 7.840 seconds
+Text: sponsors' money. I would hope that if we do this, we get a good proposal
+--------------------------------------------------
+City Clerk:
+Start: 00:29:10.080
+End: 00:29:16.080
+Duration: 6.000 seconds
+Text: where it incentivizes them to go out and get it, but either we get a percentage of that
+--------------------------------------------------
+City Clerk:
+Start: 00:29:16.080
+End: 00:29:23.120
+Duration: 7.040 seconds
+Text: or the money goes into better events that we put on because we did Mark mentioned parks and rec.
+--------------------------------------------------
+City Clerk:
+Start: 00:29:23.120
+End: 00:29:27.360
+Duration: 4.240 seconds
+Text: When we did those meetings, we heard from people the community that will enlist to sponsor.
+--------------------------------------------------
+City Clerk:
+Start: 00:29:27.360
+End: 00:29:32.080
+Duration: 4.720 seconds
+Text: I don't want to sponsor to give a vendor more money on a make sure we've got something like that.
+--------------------------------------------------
+City Clerk:
+Start: 00:29:32.640
+End: 00:29:38.480
+Duration: 5.840 seconds
+Text: I think we've got a unique opportunity to look at some talent within the community who might be able to
+--------------------------------------------------
+City Clerk:
+Start: 00:29:39.680
+End: 00:29:49.920
+Duration: 10.240 seconds
+Text: program, plan and lock in those musicians and those groups that may come and perform in our park
+--------------------------------------------------
+City Clerk:
+Start: 00:29:49.920
+End: 00:29:55.520
+Duration: 5.600 seconds
+Text: during the summer. One of the relationships that we do have with existing vendors is our
+--------------------------------------------------
+City Clerk:
+Start: 00:29:55.520
+End: 00:30:00.480
+Duration: 4.960 seconds
+Text: concessionaires. We do get a percentage from them every year when they operate within our facilities.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:00.960
+End: 00:30:07.120
+Duration: 6.160 seconds
+Text: We don't know just exactly who is going to be interested in this, but we do foresee that
+--------------------------------------------------
+City Clerk:
+Start: 00:30:07.120
+End: 00:30:13.040
+Duration: 5.920 seconds
+Text: relationship and we want that ability, as you mentioned, to create and send them for them to go out,
+--------------------------------------------------
+City Clerk:
+Start: 00:30:13.920
+End: 00:30:19.200
+Duration: 5.280 seconds
+Text: generate those sponsorships and then ultimately potentially share in those sponsorships.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:21.360
+End: 00:30:27.440
+Duration: 6.080 seconds
+Text: We're fairly optimistic about where this is headed and then we've had other conversations about
+--------------------------------------------------
+City Clerk:
+Start: 00:30:27.440
+End: 00:30:32.880
+Duration: 5.440 seconds
+Text: other services going there too and I had no commissioner Butler has mentioned it before as well
+--------------------------------------------------
+City Clerk:
+Start: 00:30:32.960
+End: 00:30:38.320
+Duration: 5.360 seconds
+Text: in terms of looking other ways to generate revenue through billboards and signage.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:38.320
+End: 00:30:42.560
+Duration: 4.240 seconds
+Text: There are other opportunities that we're exploring and we'll be bringing back to you all as well.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:43.120
+End: 00:30:44.480
+Duration: 1.360 seconds
+Text: Okay, good. Glad to hear.
+--------------------------------------------------
+Staff Member:
+Start: 00:30:46.560
+End: 00:30:51.520
+Duration: 4.960 seconds
+Text: Any other commissioners comments or questions? All right, is anybody in public
+--------------------------------------------------
+Staff Member:
+Start: 00:30:51.520
+End: 00:30:55.120
+Duration: 3.600 seconds
+Text: care to weigh in on any of the items on the consent agenda tonight?
+--------------------------------------------------
+Staff Member:
+Start: 00:30:57.840
+End: 00:31:01.840
+Duration: 4.000 seconds
+Text: All right, seeing none, I would close public comment. Is there a motion?
+--------------------------------------------------
+City Clerk:
+Start: 00:31:02.400
+End: 00:31:04.560
+Duration: 2.160 seconds
+Text: Mayor, I move we approve the consent agenda.
+--------------------------------------------------
+Staff Member:
+Start: 00:31:05.200
+End: 00:31:08.720
+Duration: 3.520 seconds
+Text: I'll second. All right, there's a motion on a second.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:09.280
+End: 00:31:09.600
+Duration: 0.320 seconds
+Text: City clerk.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:10.560
+End: 00:31:11.200
+Duration: 0.640 seconds
+Text: Commissioner Ready?
+--------------------------------------------------
+City Clerk:
+Start: 00:31:11.920
+End: 00:31:12.240
+Duration: 0.320 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:12.720
+End: 00:31:13.600
+Duration: 0.880 seconds
+Text: Commissioner Butler?
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:31:13.600
+End: 00:31:14.320
+Duration: 0.720 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:14.320
+End: 00:31:15.280
+Duration: 0.960 seconds
+Text: Commissioner Mata?
+--------------------------------------------------
+City Clerk:
+Start: 00:31:15.280
+End: 00:31:16.240
+Duration: 0.960 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:16.240
+End: 00:31:17.120
+Duration: 0.880 seconds
+Text: Commissioner Morse?
+--------------------------------------------------
+Mayor Linda Morse:
+Start: 00:31:17.120
+End: 00:31:17.760
+Duration: 0.640 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:17.760
+End: 00:31:18.960
+Duration: 1.200 seconds
+Text: Mayor Hattiesel?
+--------------------------------------------------
+Staff Member:
+Start: 00:31:18.960
+End: 00:31:19.600
+Duration: 0.640 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:19.600
+End: 00:31:21.280
+Duration: 1.680 seconds
+Text: Motion carries 5-0.
+--------------------------------------------------
+Staff Member:
+Start: 00:31:22.160
+End: 00:31:28.640
+Duration: 6.480 seconds
+Text: All righty, we will move on to our one item which is a public hearing considering
+--------------------------------------------------
+Staff Member:
+Start: 00:31:28.640
+End: 00:31:32.800
+Duration: 4.160 seconds
+Text: vacating a portion of a public utility easement located on Lot 3 interlock in addition
+--------------------------------------------------
+Staff Member:
+Start: 00:31:32.800
+End: 00:31:34.160
+Duration: 1.360 seconds
+Text: 29-05 Palmer Circle.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:34.960
+End: 00:31:37.360
+Duration: 2.400 seconds
+Text: Then, good evening, Mayor commissioners.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:37.360
+End: 00:31:39.360
+Duration: 2.000 seconds
+Text: I will make this as quick as possible.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:40.080
+End: 00:31:41.600
+Duration: 1.520 seconds
+Text: Understand the new margin orders.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:44.080
+End: 00:31:45.360
+Duration: 1.280 seconds
+Text: Maybe I can use some technology.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:45.360
+End: 00:31:50.080
+Duration: 4.720 seconds
+Text: Okay, like you said in Mayor, before you have a request vacated utility easement,
+--------------------------------------------------
+City Clerk:
+Start: 00:31:52.480
+End: 00:31:57.760
+Duration: 5.280 seconds
+Text: background on this particular utility easement is that when this utility easement was
+--------------------------------------------------
+City Clerk:
+Start: 00:31:57.760
+End: 00:32:03.360
+Duration: 5.600 seconds
+Text: included in the final plat for the interlock and addition, I know this is a lot to look at,
+--------------------------------------------------
+City Clerk:
+Start: 00:32:03.360
+End: 00:32:06.240
+Duration: 2.880 seconds
+Text: you'll get a better exhibit moving forward.
+--------------------------------------------------
+City Clerk:
+Start: 00:32:06.240
+End: 00:32:13.600
+Duration: 7.360 seconds
+Text: But basically, the way this easement is running, it bisex the 1-3rd almost of the East
+--------------------------------------------------
+City Clerk:
+Start: 00:32:13.600
+End: 00:32:15.520
+Duration: 1.920 seconds
+Text: correction west boundary of the Lot.
+--------------------------------------------------
+City Clerk:
+Start: 00:32:16.800
+End: 00:32:21.840
+Duration: 5.040 seconds
+Text: The current owners are requesting the vacation of this easement so that they can put a pool
+--------------------------------------------------
+City Clerk:
+Start: 00:32:21.840
+End: 00:32:22.480
+Duration: 0.640 seconds
+Text: in their yard.
+--------------------------------------------------
+City Clerk:
+Start: 00:32:24.400
+End: 00:32:25.760
+Duration: 1.360 seconds
+Text: Here's a better exhibit.
+--------------------------------------------------
+City Clerk:
+Start: 00:32:25.840
+End: 00:32:30.000
+Duration: 4.160 seconds
+Text: So as you can see, this line right here is the easement.
+--------------------------------------------------
+City Clerk:
+Start: 00:32:30.000
+End: 00:32:31.200
+Duration: 1.200 seconds
+Text: It falls like such.
+--------------------------------------------------
+City Clerk:
+Start: 00:32:31.200
+End: 00:32:35.840
+Duration: 4.640 seconds
+Text: They are requesting to basically vacate this area here with it.
+--------------------------------------------------
+City Clerk:
+Start: 00:32:36.800
+End: 00:32:38.000
+Duration: 1.200 seconds
+Text: There's nothing here.
+--------------------------------------------------
+City Clerk:
+Start: 00:32:38.560
+End: 00:32:43.360
+Duration: 4.800 seconds
+Text: There is a line that runs along, centuriously that runs along the property lines,
+--------------------------------------------------
+City Clerk:
+Start: 00:32:43.360
+End: 00:32:47.360
+Duration: 4.000 seconds
+Text: but this is well outside of any area that we're concerned about.
+--------------------------------------------------
+City Clerk:
+Start: 00:32:49.520
+End: 00:32:51.360
+Duration: 1.840 seconds
+Text: No utilities are current in the right ways.
+--------------------------------------------------
+City Clerk:
+Start: 00:32:51.760
+End: 00:32:57.360
+Duration: 5.600 seconds
+Text: All utilities have responded to the request and all support this vacation.
+--------------------------------------------------
+Staff Member:
+Start: 00:33:00.240
+End: 00:33:01.760
+Duration: 1.520 seconds
+Text: Very good. Any questions for Ben?
+--------------------------------------------------
+Staff Member:
+Start: 00:33:03.600
+End: 00:33:04.560
+Duration: 0.960 seconds
+Text: All right. Thank you.
+--------------------------------------------------
+Staff Member:
+Start: 00:33:05.760
+End: 00:33:11.840
+Duration: 6.080 seconds
+Text: There's nobody here for the applicant to speak apparently, so we'll throw up in the public
+--------------------------------------------------
+Staff Member:
+Start: 00:33:11.840
+End: 00:33:17.520
+Duration: 5.680 seconds
+Text: hearing. Members of the public, nobody signed up for it. But if anybody would like to comment or
+--------------------------------------------------
+Staff Member:
+Start: 00:33:17.520
+End: 00:33:21.760
+Duration: 4.240 seconds
+Text: have a concern about this utility vacation, please come forward.
+--------------------------------------------------
+Staff Member:
+Start: 00:33:24.000
+End: 00:33:26.000
+Duration: 2.000 seconds
+Text: If not, I will close the public hearing.
+--------------------------------------------------
+Staff Member:
+Start: 00:33:28.560
+End: 00:33:31.680
+Duration: 3.120 seconds
+Text: Any other questions for city staff commissioners?
+--------------------------------------------------
+Staff Member:
+Start: 00:33:32.960
+End: 00:33:34.720
+Duration: 1.760 seconds
+Text: If not, will they be ready for a motion?
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:33:39.920
+End: 00:33:45.200
+Duration: 5.280 seconds
+Text: Okay, move that we find that no private rights will be injured or endangered by such vacation
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:33:45.280
+End: 00:33:51.040
+Duration: 5.760 seconds
+Text: that the public will suffer no loss of inconvenience thereby and approve first reading of an ordinance,
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:33:51.040
+End: 00:33:56.880
+Duration: 5.840 seconds
+Text: vacating the portion of a utility easement located at Lot 3 interlock and addition,
+--------------------------------------------------
+Commissioner Usha Reddi:
+Start: 00:33:56.880
+End: 00:34:03.360
+Duration: 6.480 seconds
+Text: also known as 2905 Palmer Circle Manhattan, Riley County, Kansas 2205.
+--------------------------------------------------
+Staff Member:
+Start: 00:34:04.000
+End: 00:34:08.480
+Duration: 4.480 seconds
+Text: Second. All right. There's a commissioner Butler made a motion and commissioner ready.
+--------------------------------------------------
+Staff Member:
+Start: 00:34:08.480
+End: 00:34:10.480
+Duration: 2.000 seconds
+Text: Seconded, city clerk, please call the roll.
+--------------------------------------------------
+City Clerk:
+Start: 00:34:11.120
+End: 00:34:13.040
+Duration: 1.920 seconds
+Text: Commissioner Butler. Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:34:13.040
+End: 00:34:14.640
+Duration: 1.600 seconds
+Text: Commissioner Motta. Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:34:14.640
+End: 00:34:16.320
+Duration: 1.680 seconds
+Text: Commissioner Morse. Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:34:16.320
+End: 00:34:17.920
+Duration: 1.600 seconds
+Text: Mayor Hattasal. Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:34:17.920
+End: 00:34:21.280
+Duration: 3.360 seconds
+Text: Commissioner Ready. Yes. Motion carries 5-0.
+--------------------------------------------------
+Staff Member:
+Start: 00:34:22.240
+End: 00:34:27.760
+Duration: 5.520 seconds
+Text: All right. That extent of our agenda for this evening, is there a motion to adjourn?
+--------------------------------------------------
+City Clerk:
+Start: 00:34:27.760
+End: 00:34:29.360
+Duration: 1.600 seconds
+Text: I move we adjourn. Second.
+--------------------------------------------------
+Staff Member:
+Start: 00:34:30.080
+End: 00:34:32.320
+Duration: 2.240 seconds
+Text: There's been a motion to adjourn. Please call the roll.
+--------------------------------------------------
+City Clerk:
+Start: 00:34:33.440
+End: 00:34:36.160
+Duration: 2.720 seconds
+Text: Commissioner Motta. Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:34:36.480
+End: 00:34:39.760
+Duration: 3.280 seconds
+Text: Commissioner Morse. Yes. Mayor Hattasal. Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:34:39.760
+End: 00:34:41.440
+Duration: 1.680 seconds
+Text: Commissioner Ready. Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:34:41.440
+End: 00:34:43.120
+Duration: 1.680 seconds
+Text: Commissioner Butler. Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:34:43.120
+End: 00:34:47.600
+Duration: 4.480 seconds
+Text: Motion carries 5-0. At 6-3-5.
+--------------------------------------------------
+Staff Member:
+Start: 00:34:48.480
+End: 00:34:50.960
+Duration: 2.480 seconds
+Text: Okay. 6-35. This meeting is adjourned.
+--------------------------------------------------

@@ -1,0 +1,459 @@
+Transcription and Diarization for 20220428-03⧸15⧸22 City Commission Meeting.mp4
+==================================================
+
+Mayor Morris:
+Start: 00:00:00.000
+End: 00:00:09.000
+Duration: 9.000 seconds
+Text: Good evening. This is the March 15th meeting of the Manhattan City Commission. It is a work session.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:00:09.000
+End: 00:00:16.000
+Duration: 7.000 seconds
+Text: I'm sorry. It's a legislative session. What was I thinking? And so we'll begin with the
+--------------------------------------------------
+Mayor Morris:
+Start: 00:00:16.000
+End: 00:00:39.700
+Duration: 23.700 seconds
+Text: webinar. The next of the next item on the agenda is
+--------------------------------------------------
+Mayor Morris:
+Start: 00:00:39.700
+End: 00:00:45.440
+Duration: 5.740 seconds
+Text: period for commissioners. Do any of you have something you'd like to address?
+--------------------------------------------------
+Mayor Morris:
+Start: 00:00:45.440
+End: 00:00:52.240
+Duration: 6.800 seconds
+Text: I'm just going to say have a wonderful St. Patrick's Day event on Saturday. If you're
+--------------------------------------------------
+Mayor Morris:
+Start: 00:00:52.240
+End: 00:00:56.080
+Duration: 3.840 seconds
+Text: running or walking in the morning or in the parade, I think it's going to be a
+--------------------------------------------------
+Mayor Morris:
+Start: 00:00:56.080
+End: 00:00:59.740
+Duration: 3.660 seconds
+Text: good weather looking forward to that. And there's going to be spring clean up
+--------------------------------------------------
+Mayor Morris:
+Start: 00:00:59.740
+End: 00:01:03.160
+Duration: 3.420 seconds
+Text: coming up here soon. And I think I hope Ron speaks to that about the
+--------------------------------------------------
+Mayor Morris:
+Start: 00:01:03.160
+End: 00:01:07.960
+Duration: 4.800 seconds
+Text: dates and stuff. We won't have a meeting in next few weeks so can start
+--------------------------------------------------
+Mayor Morris:
+Start: 00:01:07.960
+End: 00:01:13.480
+Duration: 5.520 seconds
+Text: cleaning up. We probably will have snow before then as goes Kansas weather but
+--------------------------------------------------
+Mayor Morris:
+Start: 00:01:13.480
+End: 00:01:18.280
+Duration: 4.800 seconds
+Text: have a wonderful spring break during this time.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:01:27.800
+End: 00:01:33.720
+Duration: 5.920 seconds
+Text: I don't have anything special to announce. So, all right. I like to just start
+--------------------------------------------------
+Commissioner Hassel:
+Start: 00:01:33.720
+End: 00:01:39.800
+Duration: 6.080 seconds
+Text: off and ask Eric Katel to stand up if he would please. This is Eric's last
+--------------------------------------------------
+Commissioner Hassel:
+Start: 00:01:39.800
+End: 00:01:44.800
+Duration: 5.000 seconds
+Text: official meeting as a city employee. He's been our director of community
+--------------------------------------------------
+Commissioner Hassel:
+Start: 00:01:44.800
+End: 00:01:53.560
+Duration: 8.760 seconds
+Text: development for the last number of years but he's topping off 38 plus year
+--------------------------------------------------
+Commissioner Hassel:
+Start: 00:01:53.560
+End: 00:01:59.080
+Duration: 5.520 seconds
+Text: Stant with the City of Manhattan career and we appreciate Eric everything
+--------------------------------------------------
+Commissioner Hassel:
+Start: 00:01:59.080
+End: 00:02:03.560
+Duration: 4.480 seconds
+Text: that you've done. You've brought this city through. You've seen a lot of change
+--------------------------------------------------
+Commissioner Hassel:
+Start: 00:02:03.560
+End: 00:02:08.360
+Duration: 4.800 seconds
+Text: in that 38 plus years and have had a hand in a lot of it. A couple of downtown
+--------------------------------------------------
+Commissioner Hassel:
+Start: 00:02:08.360
+End: 00:02:14.640
+Duration: 6.280 seconds
+Text: redevelopment projects with them all and also more recently are North Tiff and
+--------------------------------------------------
+Commissioner Hassel:
+Start: 00:02:14.640
+End: 00:02:20.040
+Duration: 5.400 seconds
+Text: Starbond districts. The downtown tomorrow plan, you were part of a team that
+--------------------------------------------------
+Commissioner Hassel:
+Start: 00:02:20.040
+End: 00:02:25.840
+Duration: 5.800 seconds
+Text: authored that that kind of drove that second downtown redevelopment effort and
+--------------------------------------------------
+Commissioner Hassel:
+Start: 00:02:25.840
+End: 00:02:30.560
+Duration: 4.720 seconds
+Text: seen a lot of growth in the community. A lot of subdivision rezoning annexation,
+--------------------------------------------------
+Commissioner Hassel:
+Start: 00:02:30.560
+End: 00:02:36.720
+Duration: 6.160 seconds
+Text: a lot of comprehensive plans, just finished up the Manhattan Development Code where
+--------------------------------------------------
+Commissioner Hassel:
+Start: 00:02:36.720
+End: 00:02:44.200
+Duration: 7.480 seconds
+Text: you combine zoning and subdivision regulations. So, been through some interesting
+--------------------------------------------------
+Commissioner Hassel:
+Start: 00:02:44.200
+End: 00:02:50.920
+Duration: 6.720 seconds
+Text: issues with super duplexes and creating zoning overlays to deal with that and
+--------------------------------------------------
+Commissioner Hassel:
+Start: 00:02:50.920
+End: 00:02:58.120
+Duration: 7.200 seconds
+Text: so just a number of different things and really dedicated yourself to the
+--------------------------------------------------
+Commissioner Hassel:
+Start: 00:02:58.120
+End: 00:03:01.680
+Duration: 3.560 seconds
+Text: community and to the city and we really appreciate all that you've done for us
+--------------------------------------------------
+Commissioner Hassel:
+Start: 00:03:01.680
+End: 00:03:06.200
+Duration: 4.520 seconds
+Text: and we wish you well. There is a public reception for Eric on Friday at two
+--------------------------------------------------
+Commissioner Hassel:
+Start: 00:03:06.200
+End: 00:03:10.080
+Duration: 3.880 seconds
+Text: o'clock in this room so encourage you if you're available to come well, wish
+--------------------------------------------------
+Commissioner Hassel:
+Start: 00:03:10.080
+End: 00:03:13.360
+Duration: 3.280 seconds
+Text: him well. So, thank you Eric. If you have any comments you want to make you
+--------------------------------------------------
+Eric Katel:
+Start: 00:03:13.360
+End: 00:03:20.200
+Duration: 6.840 seconds
+Text: certainly can. I would just like to thank the citizens of Manhattan and the
+--------------------------------------------------
+Eric Katel:
+Start: 00:03:20.200
+End: 00:03:25.360
+Duration: 5.160 seconds
+Text: City Commission and the City Manager's Office for giving me the opportunity to
+--------------------------------------------------
+Eric Katel:
+Start: 00:03:25.360
+End: 00:03:30.600
+Duration: 5.240 seconds
+Text: be a public servant in Manhattan for my entire professional career. Starting
+--------------------------------------------------
+Eric Katel:
+Start: 00:03:30.600
+End: 00:03:37.440
+Duration: 6.840 seconds
+Text: back in 1983 I've held pretty much every planning position we had and then
+--------------------------------------------------
+Eric Katel:
+Start: 00:03:37.440
+End: 00:03:43.520
+Duration: 6.080 seconds
+Text: was promoted when Karen retired five years ago and I just really appreciate
+--------------------------------------------------
+Eric Katel:
+Start: 00:03:43.520
+End: 00:03:47.080
+Duration: 3.560 seconds
+Text: having that opportunity. I think public service is really the highest calling,
+--------------------------------------------------
+Eric Katel:
+Start: 00:03:47.080
+End: 00:03:52.200
+Duration: 5.120 seconds
+Text: at least in my mind. I'm most proud of downtown tomorrow and the
+--------------------------------------------------
+Eric Katel:
+Start: 00:03:52.200
+End: 00:03:56.000
+Duration: 3.800 seconds
+Text: Aggieville community vision. Those were both projects they were written in-house
+--------------------------------------------------
+Eric Katel:
+Start: 00:03:56.000
+End: 00:04:00.400
+Duration: 4.400 seconds
+Text: and provide the framework for the private investment that you're seeing both
+--------------------------------------------------
+Eric Katel:
+Start: 00:04:00.400
+End: 00:04:05.080
+Duration: 4.680 seconds
+Text: downtown and in Aggieville. I think I'm most proud of my staff that we've put
+--------------------------------------------------
+Eric Katel:
+Start: 00:04:05.080
+End: 00:04:09.880
+Duration: 4.800 seconds
+Text: together and they really deserve the credit and I think that's what I have for
+--------------------------------------------------
+Commissioner Hassel:
+Start: 00:04:09.880
+End: 00:04:14.400
+Duration: 4.520 seconds
+Text: today. And thought of flood, you know, in 93 and been through floodplain
+--------------------------------------------------
+Commissioner Hassel:
+Start: 00:04:14.400
+End: 00:04:18.680
+Duration: 4.280 seconds
+Text: management improvements in the community, the community zone, different aspects.
+--------------------------------------------------
+Commissioner Hassel:
+Start: 00:04:18.680
+End: 00:04:23.080
+Duration: 4.400 seconds
+Text: So again, thank you so much for all you've done for us. Appreciate it. Eric.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:04:23.080
+End: 00:04:34.320
+Duration: 11.240 seconds
+Text: Eric and I both lived in the north view area during the flood of 93 so we
+--------------------------------------------------
+Mayor Morris:
+Start: 00:04:34.320
+End: 00:04:41.280
+Duration: 6.960 seconds
+Text: could talk flood. I wasn't inundated but you your neighborhood was. It was
+--------------------------------------------------
+Mayor Morris:
+Start: 00:04:41.280
+End: 00:04:47.520
+Duration: 6.240 seconds
+Text: trying time. Thank you for your long service. It's been comforting having you
+--------------------------------------------------
+Mayor Morris:
+Start: 00:04:47.520
+End: 00:04:54.440
+Duration: 6.920 seconds
+Text: there for that, you know, as a ready reference and you're you don't require a
+--------------------------------------------------
+Mayor Morris:
+Start: 00:04:54.440
+End: 00:05:01.920
+Duration: 7.480 seconds
+Text: lot of attention. You're very shy. I think. So, but thank you very much. I'd also
+--------------------------------------------------
+Commissioner Hassel:
+Start: 00:05:01.920
+End: 00:05:07.240
+Duration: 5.320 seconds
+Text: share that there will not be any work sessions next week or on the fifth
+--------------------------------------------------
+Commissioner Hassel:
+Start: 00:05:07.240
+End: 00:05:11.240
+Duration: 4.000 seconds
+Text: Tuesday. We typically don't meet then. So, well, next meeting will be for the
+--------------------------------------------------
+Mayor Morris:
+Start: 00:05:11.240
+End: 00:05:20.120
+Duration: 8.880 seconds
+Text: commission will be April 5th. That's newsworthy. We seldom get to pass on take a
+--------------------------------------------------
+Mayor Morris:
+Start: 00:05:20.120
+End: 00:05:25.120
+Duration: 5.000 seconds
+Text: pass on two meetings in a row. So, thanks for saying, for letting us, reminding
+--------------------------------------------------
+Mayor Morris:
+Start: 00:05:25.120
+End: 00:05:36.360
+Duration: 11.240 seconds
+Text: us of that. Any other commissioner? Okay. The next item is the consent agenda and
+--------------------------------------------------
+Mayor Morris:
+Start: 00:05:37.240
+End: 00:05:42.600
+Duration: 5.360 seconds
+Text: the items on the consent agenda are those of a routine and housekeeping nature
+--------------------------------------------------
+Mayor Morris:
+Start: 00:05:42.600
+End: 00:05:47.440
+Duration: 4.840 seconds
+Text: or those items which have previously been reviewed by the City Commission. A
+--------------------------------------------------
+Mayor Morris:
+Start: 00:05:47.440
+End: 00:05:51.760
+Duration: 4.320 seconds
+Text: City Commissioner may request an item be moved to the end of the general agenda
+--------------------------------------------------
+Mayor Morris:
+Start: 00:05:51.760
+End: 00:05:57.200
+Duration: 5.440 seconds
+Text: for more discussion. Does the commission have any questions or comments on any
+--------------------------------------------------
+Mayor Morris:
+Start: 00:05:57.200
+End: 00:06:07.120
+Duration: 9.920 seconds
+Text: of the consent agenda items? Yeah. It's easy to race through when we think we have
+--------------------------------------------------
+Mayor Morris:
+Start: 00:06:07.120
+End: 00:06:14.360
+Duration: 7.240 seconds
+Text: five minute meetings. We get anxious. No commissioner seeing no commission
+--------------------------------------------------
+Mayor Morris:
+Start: 00:06:14.360
+End: 00:06:20.960
+Duration: 6.600 seconds
+Text: comments. I'd like to this is the time for public comments on the consent
+--------------------------------------------------
+Mayor Morris:
+Start: 00:06:20.960
+End: 00:06:31.120
+Duration: 10.160 seconds
+Text: agenda. If there's anyone wish to speak to an item. If you'd come forward please.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:06:31.120
+End: 00:06:40.560
+Duration: 9.440 seconds
+Text: He's not interested. Right? Okay. All right. So, seeing no member of the public
+--------------------------------------------------
+Mayor Morris:
+Start: 00:06:40.560
+End: 00:06:44.620
+Duration: 4.060 seconds
+Text: wishing to speak, is there a motion? Mayor?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:06:44.620
+End: 00:06:49.800
+Duration: 5.180 seconds
+Text: Just to see one other thing. I think we have an item on here which is a 3F1 traffic
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:06:49.800
+End: 00:06:54.720
+Duration: 4.920 seconds
+Text: system management or FQ. There you go. And I volunteered to be the commission
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:06:54.720
+End: 00:06:58.720
+Duration: 4.000 seconds
+Text: representative on that meeting. So, that needs to be added. Now we can't
+--------------------------------------------------
+Mayor Morris:
+Start: 00:06:58.720
+End: 00:07:04.000
+Duration: 5.280 seconds
+Text: move on. Mayor, I move we accept the consent agenda in a point commissioner
+--------------------------------------------------
+Mayor Morris:
+Start: 00:07:04.000
+End: 00:07:10.840
+Duration: 6.840 seconds
+Text: Butler for the traffic systems master plan on item F. I second. Okay. We have a
+--------------------------------------------------
+Mayor Morris:
+Start: 00:07:10.840
+End: 00:07:18.200
+Duration: 7.360 seconds
+Text: motion and a second to pass the consent agenda with one additional piece of
+--------------------------------------------------
+Mayor Morris:
+Start: 00:07:18.200
+End: 00:07:29.600
+Duration: 11.400 seconds
+Text: information. Is there a city clerk Brenda? Well, if you'd like to call the roll. Mayor
+--------------------------------------------------
+Mayor Morris:
+Start: 00:07:29.600
+End: 00:07:31.280
+Duration: 1.680 seconds
+Text: Morris? Yes.
+--------------------------------------------------
+City Clerk Brenda:
+Start: 00:07:31.280
+End: 00:07:37.080
+Duration: 5.800 seconds
+Text: Commissioner Hassel? Yes. Fisher Ready? Yes. Fisher Butler? Yes.
+--------------------------------------------------
+City Clerk Brenda:
+Start: 00:07:37.080
+End: 00:07:41.880
+Duration: 4.800 seconds
+Text: Fisher Mata? Yes. Ocean Carries? Five to zero. Okay.
+--------------------------------------------------
+Mayor Morris:
+Start: 00:07:41.880
+End: 00:07:48.900
+Duration: 7.020 seconds
+Text: Motionanimus. Thank you all for coming. At this point we've approved the
+--------------------------------------------------
+Mayor Morris:
+Start: 00:07:48.900
+End: 00:07:55.920
+Duration: 7.020 seconds
+Text: consent agenda and we're ready for adjournment. Is there a motion? Move we adjourn.
+--------------------------------------------------

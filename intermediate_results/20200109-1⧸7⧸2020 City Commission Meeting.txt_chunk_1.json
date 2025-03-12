@@ -1,0 +1,186 @@
+{
+  "open_ended_analysis": {
+    "primary_themes": [
+      {
+        "theme": "Community Celebrations and Service Days",
+        "description": "At the beginning of the meeting, the Manhattan City council highlighted Dr. Martin Luther King Jr. Day and the various celebrations planned around it. This demonstrated their commitment to acknowledging important social figures and fostering a sense of community.",
+        "notable_points": [
+          "Proclamation for Dr. Martin Luther King Jr. community celebration",
+          "Recognition of the need for community support"
+        ]
+      },
+      {
+        "theme": "Importance of Youth participation",
+        "description": "Commissioner Jared McKee addressed the importance of involving young people in decision-making in the community. His comments highlighted a concern for participation and representation within the civic community, particularly for young people and people of color.",
+        "notable_points": [
+          "Youth's ability to effect change in community",
+          "Need to recruit more young and diverse individuals in decision-making"
+        ]
+      },
+      {
+        "theme": "Acknowledgement of Service and Leaving Members",
+        "description": "There was a clear significance given to the contributions of the members who were leaving. Speeches and gifts were a part of this acknowledgement, showing the value the council places on service and dedication.",
+        "notable_points": [
+          "Acknowledgement of Mike Dotson and Jared McKee's services",
+          "Exchange of parting gifts and speeches"
+        ]
+      }
+    ],
+    "significant_discussions": [
+      {
+        "topic": "Affordable Housing",
+        "significance": "A member of the community addressed the city council regarding the progress and challenges associated with affordable housing, highlighting an area of potential growth and change within the community.",
+        "stakeholders": [
+          "Kansas State University",
+          "Community members interested in affordable housing",
+          "Kansas Health Foundation"
+        ]
+      },
+      {
+        "topic": "LGBTQ Issues",
+        "significance": "A representative from the Flint Hills Human Rights Project expressed gratitude for support on LGBTQ issues and voiced encouragement for continued progress, advocating for the representation and inclusion of diverse communities.",
+        "stakeholders": [
+          "LGBTQ community",
+          "Flint Hills Human Rights Project",
+          "Elected officials"
+        ]
+      }
+    ],
+    "unexpected_elements": [
+      {
+        "element": "Commissioner's Candid Discussion on Youth Participation",
+        "context": "Commissioner Jared McKee's candid discussion on the lack of youth involvement in political systems and the need for greater levels of inclusion and representation was a surprising and very frank look at a broader social issue that's often overlooked."
+      }
+    ]
+  },
+  "directed_analysis": {
+    "land_use": {
+      "present": false,
+      "significance": "Low",
+      "context": "Land use was not a topic of discussion in this meeting.",
+      "notable_points": []
+    },
+    "economic_development": {
+      "present": false,
+      "significance": "Low",
+      "context": "Economic development was not discussed during this meeting.",
+      "notable_points": []
+    },
+    "taxes_budget": {
+      "present": false,
+      "significance": "Low",
+      "context": "There were no tax or budget discussions during this meeting.",
+      "notable_points": []
+    },
+    "other_significant_topics": [
+      {
+        "topic": "Dr. Martin Luther King Jr. Community Celebration",
+        "significance": "Medium",
+        "context": "The meeting started with a recognition of the upcoming Dr. Martin Luther King Jr. Community Celebration and Day of Service. There were discussions around the planned activities."
+      },
+      {
+        "topic": "Affordable Housing",
+        "significance": "Medium",
+        "context": "During public comment, the issue of affordable housing was brought up as a concern and interest."
+      },
+      {
+        "topic": "LGBTQ Advocacy",
+        "significance": "Medium",
+        "context": "LGBTQ issues and representation in commission were discussed during public comment."
+      },
+      {
+        "topic": "Recognition of outgoing commissioners",
+        "significance": "High",
+        "context": "Much of the meeting was spent recognizing the service of outgoing commissioners, specifically Mayor Michael L. Dodson and Dr. Lind."
+      }
+    ]
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 6,
+      "speaking_time": {
+        "Transcription and Diarization for 20200109-1\u29f87\u29f82020 City Commission Meeting.mp4": 5.44,
+        "Mayor Mike Dodson": 883.36,
+        "Commissioner Linda Morse": 1356.16,
+        "City Clerk Brenda Wolf": 158.94,
+        "Commissioner Usha Reddi": 31.0,
+        "Speaker_0": 71.0
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [
+        "Mayor Mike Dodson",
+        "Commissioner Linda Morse"
+      ],
+      "observation": "Mayor Mike Dodson and Commissioner Linda Morse are leading the discussions. They have the highest speaking times and segments."
+    },
+    "interaction_patterns": {
+      "pattern": "Speakers largely command their own segments, however, their interactions suggest mutual respect and cooperation. They take turns to give their inputs and response.",
+      "notable_exchanges": [
+        "Exchange between Mayor Dodson and the other commissioners on legislative issues"
+      ]
+    },
+    "topic_ownership": [
+      {
+        "speaker": "Mayor Mike Dodson",
+        "topics": [
+          "Pledge of Allegiance",
+          "Proclamation for the Dr. Martin Luther King Jr. Community Celebration and Day of Service",
+          "Agenda declaration"
+        ]
+      },
+      {
+        "speaker": "Commissioner Linda Morse",
+        "topics": [
+          "Involved in appreciation of fellow commissioners' service",
+          "Participation in Martin Luther King Jr. event and related announcements"
+        ]
+      }
+    ],
+    "public_participation": {
+      "level": "Medium",
+      "observation": "Members of the public actively participate through public comments, expressing thanks and pleas related to elected officials and accessibility of housing. Public's participation is solicited by Mayor Mike Dodson towards public comment."
+    }
+  },
+  "emergent_patterns": {
+    "recurring_themes": [
+      {
+        "theme": "Community service and participation",
+        "evidence": "Several mentions of community celebrations, volunteer work, and public input during council meetings."
+      },
+      {
+        "theme": "Recognition and appreciation",
+        "evidence": "Several instances of gratitude and recognition towards city officials and community members for their service or contribution to the city."
+      },
+      {
+        "theme": "Inclusion and diversity",
+        "evidence": "References to the importance of including young, minority, and marginalized populations in city meetings and decisions processes."
+      }
+    ],
+    "underlying_tensions": [
+      {
+        "tension": "Age-related representation in decision-making",
+        "between": [
+          "Younger community members",
+          "Established governing entities"
+        ],
+        "context": "There is an expressed tension around the under-representation and sometimes devaluation of young voices in government decision-making and processes."
+      }
+    ],
+    "decision_patterns": {
+      "pattern": "Consensus-based decision-making",
+      "observation": "Council members, through deliberation and discussion, come to a communal decision. Representative comments are then taken into account before formal decisions are made."
+    },
+    "language_patterns": {
+      "formality": "High",
+      "technical_density": "Medium",
+      "emotional_tone": "Respectful and appreciative",
+      "notable_features": [
+        "Use of procedural language, adherence to formal meeting protocols, expressions of gratitude and appreciation"
+      ]
+    },
+    "other_insights": [
+      "The city council meeting shows efforts to promote participation, transparency and community involvement. The emphasis on appreciating both outgoing and incoming officials shows the city's commitment to recognizing its leaders and contributors."
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "open_ended_analysis": {
+    "primary_themes": [
+      {
+        "theme": "Housing and Development",
+        "description": "The council's primary discussion revolves around housing, specifically the development of workforce housing and potential incentives for developers.",
+        "notable_points": [
+          "Emphasis on facilitating workforce housing",
+          "Different consideration for renting in downtown versus greenfield areas",
+          "Debated geographical restrictions or preferences for development"
+        ]
+      },
+      {
+        "theme": "Use of Industrial Revenue Bonds (IRBs)",
+        "description": "The council discusses the potential use of IRBs as a tool to incentivize housing development and the criteria for their use.",
+        "notable_points": [
+          "Sales tax exemption for builders as a significant incentive",
+          "Possible scenarios and impacts were examined through example projects"
+        ]
+      }
+    ],
+    "significant_discussions": [
+      {
+        "topic": "Scoring criteria for benefiting from IRBs",
+        "significance": "The criteria determined will directly impact what buyers, developers and properties will benefit from the use of IRBs. This in turn influences the kind of housing developed in Manhattan, Kansas.",
+        "stakeholders": [
+          "City council",
+          "City staff",
+          "Local developers",
+          "Residents"
+        ]
+      },
+      {
+        "topic": "Targeting workforce housing",
+        "significance": "There's an acknowledged need for more workforce housing. This will impact the types and cost range of properties developed, potentially influencing the city's demographic make-up.",
+        "stakeholders": [
+          "City council",
+          "City staff",
+          "Potential residents",
+          "Local businesses"
+        ]
+      }
+    ],
+    "unexpected_elements": [
+      {
+        "element": "Discussion on student housing",
+        "context": "While the overarching topic was workforce housing, the discussion also touched upon student housing. The speakers seemed to suggest the market rate for student housing might be higher than for similar workforce housing."
+      }
+    ]
+  },
+  "directed_analysis": {
+    "land_use": {
+      "present": true,
+      "significance": "High",
+      "context": "The council discussed different reactions to housing in the community geographically. The slide presentation focused on potential locations for housing projects and their projected annual tax implications. The council considered the implications of each proposed housing project on the community and whether these proposals would be considered for future incentivization. They achieved a general consensus that workforce housing should be the priority, but there was disagreement about whether incentives should be given for projects in all areas of the city or prioritized in downtown areas.",
+      "notable_points": [
+        "Council viewed slides with potential housing project sites",
+        "Discussed different reactions to housing based on geography",
+        "Discussed how to prioritize and incentivize workforce housing"
+      ]
+    },
+    "economic_development": {
+      "present": true,
+      "significance": "High",
+      "context": "Economic development was discussed in relation to attracting potential developers and ensuring that new housing projects in the city would contribute to economic development. One of the main tools discussed for incentivizing these developments were Industrial Revenue Bonds (IRBs), which provide development incentives such as sales tax exemptions or abatements on property taxes.",
+      "notable_points": [
+        "Discussed use of Industrial Revenue Bonds (IRBs) for development incentives",
+        "Debate on whether these incentives should be offered universally or prioritize certain locations"
+      ]
+    },
+    "taxes_budget": {
+      "present": true,
+      "significance": "High",
+      "context": "Taxes and budget were a main focus of the meeting. The council discussed the potential tax implications of new developments in terms of property taxes and sales taxes. They considered the benefits and drawbacks of offering tax abatements as development incentives, including the fiscal impact on the city.",
+      "notable_points": [
+        "Considered tax implications of proposed projects",
+        "Discussed fiscal impact of offering tax abatements on property taxes",
+        "Discussed how sales tax exemptions work in context of IRBs"
+      ]
+    },
+    "other_significant_topics": [
+      {
+        "topic": "Housing Availability",
+        "significance": "High",
+        "context": "The council discussed the current availability of housing in Manhattan, Kansas, including the lack of available vacant lots and the potential of existing properties for redevelopment. It was noted that the city may need to consider redevelopment of poorly maintained or under-utilized property as a strategy for creating more housing availability."
+      },
+      {
+        "topic": "Public Infrastructure",
+        "significance": "Medium",
+        "context": "There was discussion on the necessity and challenges for extending public infrastructure services, particularly in areas that are still developing. Concerns were raised about the cost associated with extending infrastructure to greenfield development sites compared to infill urban sites where infrastructure already exists."
+      }
+    ]
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 5,
+      "speaking_time": {
+        "City Manager": 389.52000000000004,
+        "Stephanie Peterson, Director of Community Development": 764.4799999999999,
+        "City Clerk": 296.00000000000006,
+        "Mayor Butler": 278.16,
+        "Commissioner Adam Chad": 371.6800000000001
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [
+        "Stephanie Peterson, Director of Community Development",
+        "Mayor Butler",
+        "Commissioner Adam Chad"
+      ],
+      "observation": "Stephanie Peterson takes the longest time speaking and is often the one providing information and context to the rest of the council. Mayor Butler and Commissioner Adam Chad also lead discussions, specifically when it comes to providing input, asking questions and steering the direction of discussions."
+    },
+    "interaction_patterns": {
+      "pattern": "Speakers tend to interact with each other in a question-answer format. Often, one speaker will ask or raise a point, and another speaker will respond by adding to the discussion, asking another question, or providing a related point of view.",
+      "notable_exchanges": [
+        "Stephanie Peterson's presentation of different development projects and the responses and questions raised by Mayor Butler and Commissioner Adam Chad"
+      ]
+    },
+    "topic_ownership": [
+      {
+        "speaker": "Stephanie Peterson, Director of Community Development",
+        "topics": [
+          "Housing developments",
+          "Workforce housing",
+          "City development policies"
+        ]
+      },
+      {
+        "speaker": "Mayor Butler",
+        "topics": [
+          "Workforce housing",
+          "City development policies"
+        ]
+      },
+      {
+        "speaker": "Commissioner Adam Chad",
+        "topics": [
+          "City development policies"
+        ]
+      }
+    ],
+    "public_participation": {
+      "level": "Low",
+      "observation": "The meeting seems to be primarily between city officials with minimal participation from the public. The discussion is focused on the housing development and city community development policy from representatives in those respective fields. There isn't any mention of public commentary or questions in the provided excerpt."
+    }
+  },
+  "emergent_patterns": {
+    "recurring_themes": [
+      {
+        "theme": "Need for workforce housing",
+        "evidence": "The conversation consistently revolves around the need to create affordable, accessible housing for local workers and deciding on incentives for developers to construct such properties."
+      },
+      {
+        "theme": "Navigating renting rules and regulations",
+        "evidence": "Discussions around how to ensure compliance with rental regulations, including monitoring rental prices, limiting student rentals, and balancing property rights with city goals."
+      },
+      {
+        "theme": "Geographic and infrastructural considerations",
+        "evidence": "The council members discuss at length the geographic and infrastructural factors impacting housing development including concerns about urban infill, greenfield development, and the availability of city services in different areas."
+      }
+    ],
+    "underlying_tensions": [
+      {
+        "tension": "Balancing the need for workforce housing with the interests of developers",
+        "between": [
+          "City Council",
+          "Developers"
+        ],
+        "context": "The council needs to incentivize developers to construct affordable housing without creating an unfair advantage or competition in the market. The issue of offering tax abatements for certain projects came up repeatedly, reflecting this tension."
+      },
+      {
+        "tension": "Preserving neighborhood character and managing growth",
+        "between": [
+          "City Council",
+          "Existing residents"
+        ],
+        "context": "The need to increase housing stock in the city is balanced against concerns about preserving the character of established neighborhoods, managing infrastructural services and controlling the impact on existing residents."
+      }
+    ],
+    "decision_patterns": {
+      "pattern": "Collective and consensus-oriented decision making",
+      "observation": "The city council members engage in active discussions, ask clarifying questions, probe for more information, and seem to aim for consensus in their discussions. They consider different points of view and evaluate how various decisions would impact different stakeholders."
+    },
+    "language_patterns": {
+      "formality": "Medium",
+      "technical_density": "High",
+      "emotional_tone": "Neutral to Involved",
+      "notable_features": [
+        "Use of local references and specific property examples",
+        "Frequent use of planning and construction terminology",
+        "Discussions are generally collaborative and respectful"
+      ]
+    },
+    "other_insights": [
+      "There is a clear focus on long-term city planning rather than short-term fixes."
+    ]
+  }
+}

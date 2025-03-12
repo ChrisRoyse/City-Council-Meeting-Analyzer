@@ -1,0 +1,4755 @@
+Transcription and Diarization for 20240103-01⧸02⧸24 City Commission Meeting.mp4
+==================================================
+
+Mayor Hussle:
+Start: 00:00:00.000
+End: 00:00:09.640
+Duration: 9.640 seconds
+Text: It is 6 o'clock and I call the Tuesday, January 2, 2024 City Commission meeting to order.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:00:09.640
+End: 00:00:11.320
+Duration: 1.680 seconds
+Text: Please call the roll.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:11.320
+End: 00:00:12.320
+Duration: 1.000 seconds
+Text: Mayor Hussle.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:00:12.320
+End: 00:00:13.320
+Duration: 1.000 seconds
+Text: Here.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:13.320
+End: 00:00:14.320
+Duration: 1.000 seconds
+Text: Mr. Butler.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:14.320
+End: 00:00:15.320
+Duration: 1.000 seconds
+Text: Here.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:15.320
+End: 00:00:17.320
+Duration: 2.000 seconds
+Text: Mr. Mora's present.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:17.320
+End: 00:00:19.960
+Duration: 2.640 seconds
+Text: Mayor, we have four commissioners present.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:19.960
+End: 00:00:21.800
+Duration: 1.840 seconds
+Text: The Court of the three is met.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:00:21.800
+End: 00:00:23.200
+Duration: 1.400 seconds
+Text: Please join in the Pledge of Allegiance.
+--------------------------------------------------
+Member of the Public:
+Start: 00:00:23.200
+End: 00:00:32.480
+Duration: 9.280 seconds
+Text: I pledge allegiance to the flag of the United States of America and to the Republic for which
+--------------------------------------------------
+Member of the Public:
+Start: 00:00:32.480
+End: 00:00:33.480
+Duration: 1.000 seconds
+Text: it stands.
+--------------------------------------------------
+Member of the Public:
+Start: 00:00:33.480
+End: 00:00:41.800
+Duration: 8.320 seconds
+Text: The elimination under God in the visible with liberty and justice for all.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:00:41.800
+End: 00:00:45.960
+Duration: 4.160 seconds
+Text: We have got one proclamation this evening for Martin Luther King Jr.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:00:45.960
+End: 00:00:48.640
+Duration: 2.680 seconds
+Text: Celebration, Susan and Kevin.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:00:48.640
+End: 00:00:52.960
+Duration: 4.320 seconds
+Text: Come on up.
+--------------------------------------------------
+Member of the Public:
+Start: 00:00:52.960
+End: 00:00:55.960
+Duration: 3.000 seconds
+Text: Hello.
+--------------------------------------------------
+Member of the Public:
+Start: 00:00:55.960
+End: 00:00:56.960
+Duration: 1.000 seconds
+Text: Good.
+--------------------------------------------------
+Member of the Public:
+Start: 00:00:56.960
+End: 00:00:57.960
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:00:57.960
+End: 00:01:08.960
+Duration: 11.000 seconds
+Text: We'll go ahead and read it here quick.
+--------------------------------------------------
+Member of the Public:
+Start: 00:01:08.960
+End: 00:01:11.960
+Duration: 3.000 seconds
+Text: There we go.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:01:11.960
+End: 00:01:14.960
+Duration: 3.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:01:14.960
+End: 00:01:20.920
+Duration: 5.960 seconds
+Text: Mora's January 15, 2024 marks the observance of the Dr. Martin Luther King Jr. Federal
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:01:20.920
+End: 00:01:26.920
+Duration: 6.000 seconds
+Text: Holiday and Service Day, established by Public Law Number 98144 in 1983.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:01:26.920
+End: 00:01:32.200
+Duration: 5.280 seconds
+Text: And whereas the King Holiday and Service Act highlights remembrance and celebration and
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:01:32.200
+End: 00:01:37.800
+Duration: 5.600 seconds
+Text: encourages people everywhere to reflect on the principles of nonviolent social change,
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:01:37.800
+End: 00:01:42.360
+Duration: 4.560 seconds
+Text: racial equality, community and humanitarian service and interracial cooperation.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:01:43.080
+End: 00:01:48.320
+Duration: 5.240 seconds
+Text: And whereas Dr. Martin Luther King Jr. devoted his life to advancing equality, social justice
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:01:48.320
+End: 00:01:53.080
+Duration: 4.760 seconds
+Text: and opportunity for all and challenged all Americans to participate in the never ending
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:01:53.080
+End: 00:01:56.160
+Duration: 3.080 seconds
+Text: work of building a more perfect union.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:01:56.160
+End: 00:02:00.400
+Duration: 4.240 seconds
+Text: And whereas celebrating Dr. King's life and spirit through community-wide recognitions
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:02:00.400
+End: 00:02:06.160
+Duration: 5.760 seconds
+Text: and service on the King Holiday is an appropriate way to honor Dr. King bringing our citizens
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:02:06.160
+End: 00:02:09.800
+Duration: 3.640 seconds
+Text: together and strengthening our communities and nation.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:02:09.800
+End: 00:02:14.320
+Duration: 4.520 seconds
+Text: And whereas it is appropriate for the City of Manhattan to support a community celebration
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:02:14.320
+End: 00:02:19.040
+Duration: 4.720 seconds
+Text: in observance of the King Holiday and Day of Service honoring Dr. Martin Luther King.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:02:19.040
+End: 00:02:23.840
+Duration: 4.800 seconds
+Text: Whereas each one of us can and must contribute to making our communities better with increased
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:02:23.840
+End: 00:02:26.080
+Duration: 2.240 seconds
+Text: opportunity for all citizens.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:02:26.080
+End: 00:02:30.440
+Duration: 4.360 seconds
+Text: So therefore, I mark how to solve the mayor of the City of Manhattan Kansas to hereby
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:02:30.440
+End: 00:02:36.320
+Duration: 5.880 seconds
+Text: proclaim January 13th and 20th Dr. Martin Luther King Jr. Community Service and Day of
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:02:36.320
+End: 00:02:41.360
+Duration: 5.040 seconds
+Text: Celebration in Manhattan, Kansas and urge all people to join and pay tribute to the
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:02:41.360
+End: 00:02:46.640
+Duration: 5.280 seconds
+Text: life and works of Dr. Martin Luther King Jr. and apply his life principles and teachings
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:02:46.640
+End: 00:02:51.640
+Duration: 5.000 seconds
+Text: of service to inspire others to serve and remember his spirit of the community.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:02:51.640
+End: 00:02:53.480
+Duration: 1.840 seconds
+Text: I'd like to say a few words.
+--------------------------------------------------
+Member of the Public:
+Start: 00:02:53.480
+End: 00:02:54.480
+Duration: 1.000 seconds
+Text: Hey, we're here tonight.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:02:54.480
+End: 00:02:57.480
+Duration: 3.000 seconds
+Text: You guys can say.
+--------------------------------------------------
+Member of the Public:
+Start: 00:02:57.480
+End: 00:03:05.160
+Duration: 7.680 seconds
+Text: It's an honor to be up here and receive the Martin Luther King Proclamation.
+--------------------------------------------------
+Member of the Public:
+Start: 00:03:05.160
+End: 00:03:08.520
+Duration: 3.360 seconds
+Text: The important part is the city's connection.
+--------------------------------------------------
+Member of the Public:
+Start: 00:03:08.520
+End: 00:03:11.240
+Duration: 2.720 seconds
+Text: It's one of the bonds that you never be broken.
+--------------------------------------------------
+Member of the Public:
+Start: 00:03:11.240
+End: 00:03:14.320
+Duration: 3.080 seconds
+Text: This year we're going to be working cooperation with the MAC.
+--------------------------------------------------
+Member of the Public:
+Start: 00:03:14.320
+End: 00:03:16.080
+Duration: 1.760 seconds
+Text: So we're going to have a fantastic display.
+--------------------------------------------------
+Member of the Public:
+Start: 00:03:16.080
+End: 00:03:18.160
+Duration: 2.080 seconds
+Text: Dr. Janella Holmes is going to be our speaker.
+--------------------------------------------------
+Member of the Public:
+Start: 00:03:18.160
+End: 00:03:20.800
+Duration: 2.640 seconds
+Text: We have quilters from all over and Rhonda Tyson will be there.
+--------------------------------------------------
+Member of the Public:
+Start: 00:03:20.800
+End: 00:03:24.840
+Duration: 4.040 seconds
+Text: And if you haven't seen Rhonda Tyson's quilt, it's a must see and get it signed.
+--------------------------------------------------
+Member of the Public:
+Start: 00:03:24.840
+End: 00:03:30.440
+Duration: 5.600 seconds
+Text: I'm going to forward over to my Theresa, who's our one of our coordinators.
+--------------------------------------------------
+Member of the Public:
+Start: 00:03:30.440
+End: 00:03:32.920
+Duration: 2.480 seconds
+Text: Yeah, I have to read.
+--------------------------------------------------
+Member of the Public:
+Start: 00:03:32.920
+End: 00:03:33.920
+Duration: 1.000 seconds
+Text: I don't have a lot to say.
+--------------------------------------------------
+Member of the Public:
+Start: 00:03:33.920
+End: 00:03:34.920
+Duration: 1.000 seconds
+Text: I just got had radiation.
+--------------------------------------------------
+Member of the Public:
+Start: 00:03:34.920
+End: 00:03:40.240
+Duration: 5.320 seconds
+Text: So I'm just trying to see if I get superpowers before, you know, Martin Luther King day.
+--------------------------------------------------
+Member of the Public:
+Start: 00:03:40.240
+End: 00:03:44.200
+Duration: 3.960 seconds
+Text: But seriously, you guys, once again, it's the day of service.
+--------------------------------------------------
+Member of the Public:
+Start: 00:03:44.200
+End: 00:03:46.040
+Duration: 1.840 seconds
+Text: That whole week, there's going to be activities.
+--------------------------------------------------
+Member of the Public:
+Start: 00:03:46.040
+End: 00:03:50.440
+Duration: 4.400 seconds
+Text: So make sure you guys are checking your calendars, coming out, supporting and participating.
+--------------------------------------------------
+Member of the Public:
+Start: 00:03:50.440
+End: 00:03:52.440
+Duration: 2.000 seconds
+Text: Because this is truly a community effort here.
+--------------------------------------------------
+Member of the Public:
+Start: 00:03:52.440
+End: 00:03:55.680
+Duration: 3.240 seconds
+Text: And so we can't make a successful week without you guys.
+--------------------------------------------------
+Member of the Public:
+Start: 00:03:55.680
+End: 00:03:59.840
+Duration: 4.160 seconds
+Text: And so we hope that you guys will all come out and support and we appreciate you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:03:59.840
+End: 00:04:00.840
+Duration: 1.000 seconds
+Text: Thanks.
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:01.840
+End: 00:04:02.840
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:02.840
+End: 00:04:10.560
+Duration: 7.720 seconds
+Text: I just want to let everybody know that as usual, we have the art and writing contest.
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:10.560
+End: 00:04:13.160
+Duration: 2.600 seconds
+Text: That is part of this program as well.
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:13.160
+End: 00:04:15.760
+Duration: 2.600 seconds
+Text: Lots of kids have participated.
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:15.760
+End: 00:04:18.360
+Duration: 2.600 seconds
+Text: The artwork is pretty darn amazing.
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:18.360
+End: 00:04:23.760
+Duration: 5.400 seconds
+Text: So like Kevin said, we'll be at Mac this year at the art center for the celebration on
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:23.760
+End: 00:04:25.000
+Duration: 1.240 seconds
+Text: the 13th.
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:25.000
+End: 00:04:27.480
+Duration: 2.480 seconds
+Text: The kids artwork will be on display.
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:27.480
+End: 00:04:31.240
+Duration: 3.760 seconds
+Text: The exhibit at Mac coincides with this event.
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:31.240
+End: 00:04:34.720
+Duration: 3.480 seconds
+Text: It's called Beyond the Fiber and the Thread.
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:34.720
+End: 00:04:38.960
+Duration: 4.240 seconds
+Text: The artists are local and regional.
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:38.960
+End: 00:04:44.320
+Duration: 5.360 seconds
+Text: And the theme for the contest, I forgot to say, was as usual a quote from Dr. King.
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:44.320
+End: 00:04:49.440
+Duration: 5.120 seconds
+Text: And in this case, it was the time is always ripe to do right.
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:49.440
+End: 00:04:51.680
+Duration: 2.240 seconds
+Text: So come see what the kids made of that.
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:51.680
+End: 00:04:52.840
+Duration: 1.160 seconds
+Text: Hope to see you there.
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:52.840
+End: 00:04:56.480
+Duration: 3.640 seconds
+Text: On the 20th, the 13th is the community celebration at Mac.
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:56.480
+End: 00:04:59.880
+Duration: 3.400 seconds
+Text: On the 20th is the day of service.
+--------------------------------------------------
+Member of the Public:
+Start: 00:04:59.880
+End: 00:05:04.880
+Duration: 5.000 seconds
+Text: Check the Facebook page or whatever it's called these days.
+--------------------------------------------------
+Member of the Public:
+Start: 00:05:04.880
+End: 00:05:05.880
+Duration: 1.000 seconds
+Text: What is it called?
+--------------------------------------------------
+Member of the Public:
+Start: 00:05:05.880
+End: 00:05:08.840
+Duration: 2.960 seconds
+Text: No, no, no, I know, but Facebook isn't Facebook anymore.
+--------------------------------------------------
+Member of the Public:
+Start: 00:05:08.840
+End: 00:05:09.840
+Duration: 1.000 seconds
+Text: Whatever it is.
+--------------------------------------------------
+Member of the Public:
+Start: 00:05:09.840
+End: 00:05:10.840
+Duration: 1.000 seconds
+Text: Check the MLK committee.
+--------------------------------------------------
+Member of the Public:
+Start: 00:05:10.840
+End: 00:05:12.840
+Duration: 2.000 seconds
+Text: That's not a social media.
+--------------------------------------------------
+Member of the Public:
+Start: 00:05:12.840
+End: 00:05:15.200
+Duration: 2.360 seconds
+Text: Whatever, y'all know what it is.
+--------------------------------------------------
+Member of the Public:
+Start: 00:05:15.200
+End: 00:05:18.120
+Duration: 2.920 seconds
+Text: Check that because all the updates will be there and come see us.
+--------------------------------------------------
+Member of the Public:
+Start: 00:05:18.120
+End: 00:05:19.120
+Duration: 1.000 seconds
+Text: All right, thanks.
+--------------------------------------------------
+Member of the Public:
+Start: 00:05:19.120
+End: 00:05:20.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:05:20.120
+End: 00:05:27.120
+Duration: 7.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:05:39.120
+End: 00:05:42.560
+Duration: 3.440 seconds
+Text: Since this is the first legislative meeting of the month, we will be having a chance for
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:05:42.560
+End: 00:05:44.040
+Duration: 1.480 seconds
+Text: public comments.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:05:44.040
+End: 00:05:48.120
+Duration: 4.080 seconds
+Text: These are comments on items that are not on the agenda for this evening.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:05:48.120
+End: 00:05:52.760
+Duration: 4.640 seconds
+Text: The commission will not discuss or debate these items or make any decisions based on these
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:05:52.760
+End: 00:05:56.280
+Duration: 3.520 seconds
+Text: discussion items, which you'll have up to five minutes to talk about anything that's
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:05:56.280
+End: 00:05:59.120
+Duration: 2.840 seconds
+Text: not on the agenda for this evening.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:05:59.120
+End: 00:06:00.120
+Duration: 1.000 seconds
+Text: Gary signed up.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:06:00.120
+End: 00:06:03.680
+Duration: 3.560 seconds
+Text: So if you want to come up first, Gary, then after that, anyone else who would like to comment
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:06:03.680
+End: 00:06:10.080
+Duration: 6.400 seconds
+Text: on something that is not on this evening's agenda, please state your name and then sign
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:06:10.080
+End: 00:06:11.080
+Duration: 1.000 seconds
+Text: it.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:06:11.080
+End: 00:06:13.800
+Duration: 2.720 seconds
+Text: Please state your name for the record.
+--------------------------------------------------
+Member of the Public:
+Start: 00:06:13.800
+End: 00:06:14.800
+Duration: 1.000 seconds
+Text: Good evening.
+--------------------------------------------------
+Member of the Public:
+Start: 00:06:14.800
+End: 00:06:15.800
+Duration: 1.000 seconds
+Text: My name is Gary Oles.
+--------------------------------------------------
+Member of the Public:
+Start: 00:06:15.800
+End: 00:06:18.480
+Duration: 2.680 seconds
+Text: I'm a Dr. Lee, 308, Frontier Circle.
+--------------------------------------------------
+Member of the Public:
+Start: 00:06:18.480
+End: 00:06:24.180
+Duration: 5.700 seconds
+Text: I just thought this was an appropriate opportunity, the first meeting of the year, to take a moment
+--------------------------------------------------
+Member of the Public:
+Start: 00:06:24.180
+End: 00:06:31.300
+Duration: 7.120 seconds
+Text: as one citizen and hopefully I'm representing the hearts of numerous citizens in Manhattan.
+--------------------------------------------------
+Member of the Public:
+Start: 00:06:31.300
+End: 00:06:38.980
+Duration: 7.680 seconds
+Text: To thank you as commissioners for the time that you've given, as commissioners, Mark, Linda,
+--------------------------------------------------
+Member of the Public:
+Start: 00:06:38.980
+End: 00:06:46.300
+Duration: 7.320 seconds
+Text: we've put in a lot of hours, had a lot of brain matter moving quickly to try to figure
+--------------------------------------------------
+Member of the Public:
+Start: 00:06:46.300
+End: 00:06:50.060
+Duration: 3.760 seconds
+Text: out everything that you could on behalf of the citizens.
+--------------------------------------------------
+Member of the Public:
+Start: 00:06:50.060
+End: 00:06:54.580
+Duration: 4.520 seconds
+Text: That's another reminder that is actually addressed to the new commission, but since I don't
+--------------------------------------------------
+Member of the Public:
+Start: 00:06:54.580
+End: 00:06:59.300
+Duration: 4.720 seconds
+Text: have that opportunity, I'll do that because I know a part of them are behind me.
+--------------------------------------------------
+Member of the Public:
+Start: 00:06:59.300
+End: 00:07:06.240
+Duration: 6.940 seconds
+Text: I just want to remind everyone and the commissioners that as what most people would call leaders
+--------------------------------------------------
+Member of the Public:
+Start: 00:07:06.240
+End: 00:07:12.000
+Duration: 5.760 seconds
+Text: in our community, as elected officials, as you know, you represent the people.
+--------------------------------------------------
+Member of the Public:
+Start: 00:07:12.000
+End: 00:07:13.720
+Duration: 1.720 seconds
+Text: You don't represent your interest.
+--------------------------------------------------
+Member of the Public:
+Start: 00:07:13.720
+End: 00:07:16.000
+Duration: 2.280 seconds
+Text: You don't represent a special interest.
+--------------------------------------------------
+Member of the Public:
+Start: 00:07:16.000
+End: 00:07:17.320
+Duration: 1.320 seconds
+Text: You represent the people.
+--------------------------------------------------
+Member of the Public:
+Start: 00:07:17.320
+End: 00:07:22.960
+Duration: 5.640 seconds
+Text: As best you can, based on the information you have, certainly you have leanings everyone
+--------------------------------------------------
+Member of the Public:
+Start: 00:07:22.960
+End: 00:07:24.880
+Duration: 1.920 seconds
+Text: does or biases.
+--------------------------------------------------
+Member of the Public:
+Start: 00:07:24.880
+End: 00:07:31.240
+Duration: 6.360 seconds
+Text: And I just want to take a moment and just remind everybody that any time that you want
+--------------------------------------------------
+Member of the Public:
+Start: 00:07:32.240
+End: 00:07:38.680
+Duration: 6.440 seconds
+Text: to email a commissioner, don't hesitate or call because these commissioners represent us
+--------------------------------------------------
+Member of the Public:
+Start: 00:07:38.680
+End: 00:07:44.360
+Duration: 5.680 seconds
+Text: as not only taxpayers, but citizens or voters here in the area in the community.
+--------------------------------------------------
+Member of the Public:
+Start: 00:07:44.360
+End: 00:07:47.760
+Duration: 3.400 seconds
+Text: And it's important that the citizens keep that in mind.
+--------------------------------------------------
+Member of the Public:
+Start: 00:07:47.760
+End: 00:07:54.920
+Duration: 7.160 seconds
+Text: If I had to look back on the last 12 months, I'm probably one of the few consistent people
+--------------------------------------------------
+Member of the Public:
+Start: 00:07:54.920
+End: 00:07:57.200
+Duration: 2.280 seconds
+Text: that get up here and make comments.
+--------------------------------------------------
+Member of the Public:
+Start: 00:07:57.200
+End: 00:08:01.120
+Duration: 3.920 seconds
+Text: And I do that on purpose because I'd like to encourage others to get up here.
+--------------------------------------------------
+Member of the Public:
+Start: 00:08:01.120
+End: 00:08:06.080
+Duration: 4.960 seconds
+Text: I also would like the new commission to consider changing the formats so that citizens have
+--------------------------------------------------
+Member of the Public:
+Start: 00:08:06.080
+End: 00:08:09.520
+Duration: 3.440 seconds
+Text: more than just 12 opportunities to address you publicly.
+--------------------------------------------------
+Member of the Public:
+Start: 00:08:09.520
+End: 00:08:14.440
+Duration: 4.920 seconds
+Text: I realize that you get emails and you get phone calls so people are talking to you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:08:14.440
+End: 00:08:20.120
+Duration: 5.680 seconds
+Text: But this is the platform, the soapbox, so to speak, for citizens to step up and talk
+--------------------------------------------------
+Member of the Public:
+Start: 00:08:20.120
+End: 00:08:25.440
+Duration: 5.320 seconds
+Text: about agenda items when it's appropriate, but general comments at this point in time.
+--------------------------------------------------
+Member of the Public:
+Start: 00:08:25.520
+End: 00:08:32.360
+Duration: 6.840 seconds
+Text: I do want to thank you for allowing citizens to comment on whatever's on the general agenda
+--------------------------------------------------
+Member of the Public:
+Start: 00:08:32.360
+End: 00:08:33.640
+Duration: 1.280 seconds
+Text: when you're discussing it.
+--------------------------------------------------
+Member of the Public:
+Start: 00:08:33.640
+End: 00:08:37.880
+Duration: 4.240 seconds
+Text: That's really, to me, very, very good.
+--------------------------------------------------
+Member of the Public:
+Start: 00:08:37.880
+End: 00:08:42.360
+Duration: 4.480 seconds
+Text: I'm also active in Junction City, as you know, and I have to be honest with you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:08:42.360
+End: 00:08:49.920
+Duration: 7.560 seconds
+Text: I wish they were a little more open to conversation in that format as you do it here.
+--------------------------------------------------
+Member of the Public:
+Start: 00:08:49.920
+End: 00:08:54.200
+Duration: 4.280 seconds
+Text: Lastly, in the time that I have, and I won't use up all five minutes, Ron, I've known
+--------------------------------------------------
+Member of the Public:
+Start: 00:08:54.280
+End: 00:08:56.120
+Duration: 1.840 seconds
+Text: you for many, many, many, many years.
+--------------------------------------------------
+Member of the Public:
+Start: 00:08:56.120
+End: 00:08:57.600
+Duration: 1.480 seconds
+Text: I couldn't tell you how many.
+--------------------------------------------------
+Member of the Public:
+Start: 00:08:57.600
+End: 00:09:02.440
+Duration: 4.840 seconds
+Text: But I just want to thank you for all the things that you've done for Manhattan in the time
+--------------------------------------------------
+Member of the Public:
+Start: 00:09:02.440
+End: 00:09:03.640
+Duration: 1.200 seconds
+Text: you've served.
+--------------------------------------------------
+Member of the Public:
+Start: 00:09:03.640
+End: 00:09:10.760
+Duration: 7.120 seconds
+Text: I remember long ago, starting out when you said parks and rec a long time ago, and we
+--------------------------------------------------
+Member of the Public:
+Start: 00:09:10.760
+End: 00:09:14.120
+Duration: 3.360 seconds
+Text: just thank you for all that you've done.
+--------------------------------------------------
+Member of the Public:
+Start: 00:09:14.120
+End: 00:09:18.200
+Duration: 4.080 seconds
+Text: You haven't always been popular, but you also haven't always been unpopular.
+--------------------------------------------------
+Member of the Public:
+Start: 00:09:18.200
+End: 00:09:20.200
+Duration: 2.000 seconds
+Text: So there's a balance there.
+--------------------------------------------------
+Member of the Public:
+Start: 00:09:20.280
+End: 00:09:24.280
+Duration: 4.000 seconds
+Text: You've done your best, and that's all that any citizen can ask.
+--------------------------------------------------
+Member of the Public:
+Start: 00:09:24.280
+End: 00:09:30.800
+Duration: 6.520 seconds
+Text: We're never all going to be like-minded, but so long as we can have conversations,
+--------------------------------------------------
+Member of the Public:
+Start: 00:09:30.800
+End: 00:09:36.680
+Duration: 5.880 seconds
+Text: what laws we can talk about issues with staff, as well as we have with you, that's the
+--------------------------------------------------
+Member of the Public:
+Start: 00:09:36.680
+End: 00:09:37.680
+Duration: 1.000 seconds
+Text: right thing.
+--------------------------------------------------
+Member of the Public:
+Start: 00:09:37.680
+End: 00:09:44.160
+Duration: 6.480 seconds
+Text: And it's never too long late to do the right thing, or whatever the motto was just a minute
+--------------------------------------------------
+Member of the Public:
+Start: 00:09:44.160
+End: 00:09:45.160
+Duration: 1.000 seconds
+Text: ago.
+--------------------------------------------------
+Member of the Public:
+Start: 00:09:45.160
+End: 00:09:46.160
+Duration: 1.000 seconds
+Text: Always right.
+--------------------------------------------------
+Member of the Public:
+Start: 00:09:46.160
+End: 00:09:49.200
+Duration: 3.040 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:09:49.200
+End: 00:09:54.560
+Duration: 5.360 seconds
+Text: So as I close this out, it's a heartfelt thanks.
+--------------------------------------------------
+Member of the Public:
+Start: 00:09:54.560
+End: 00:10:00.200
+Duration: 5.640 seconds
+Text: I'm not elected by anybody, so I don't represent anybody, but I'm pretty sure that there would
+--------------------------------------------------
+Member of the Public:
+Start: 00:10:00.200
+End: 00:10:05.240
+Duration: 5.040 seconds
+Text: be a line behind me had people thought about coming up and taking time out of their busy
+--------------------------------------------------
+Member of the Public:
+Start: 00:10:05.240
+End: 00:10:09.880
+Duration: 4.640 seconds
+Text: evening and just say thank you.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:10:09.880
+End: 00:10:10.880
+Duration: 1.000 seconds
+Text: Thank you, Gary.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:10:10.880
+End: 00:10:18.120
+Duration: 7.240 seconds
+Text: Would anybody else get to comment on something that's not on the agenda for this evening?
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:10:19.120
+End: 00:10:25.120
+Duration: 6.000 seconds
+Text: Please come forward and state your name and also sign in there.
+--------------------------------------------------
+Member of the Public:
+Start: 00:10:25.120
+End: 00:10:26.280
+Duration: 1.160 seconds
+Text: Good evening.
+--------------------------------------------------
+Member of the Public:
+Start: 00:10:26.280
+End: 00:10:28.160
+Duration: 1.880 seconds
+Text: My name is Julie Govert-Walter.
+--------------------------------------------------
+Member of the Public:
+Start: 00:10:28.160
+End: 00:10:33.360
+Duration: 5.200 seconds
+Text: I live at 831 Pierre Street in Manhattan, right here.
+--------------------------------------------------
+Member of the Public:
+Start: 00:10:33.360
+End: 00:10:42.880
+Duration: 9.520 seconds
+Text: And I wanted to echo, really, Gary said it so well, the tribute to those of you, Mayor
+--------------------------------------------------
+Member of the Public:
+Start: 00:10:42.880
+End: 00:10:49.720
+Duration: 6.840 seconds
+Text: Mark Linda, for the work that you've invested in our community.
+--------------------------------------------------
+Member of the Public:
+Start: 00:10:49.720
+End: 00:10:57.920
+Duration: 8.200 seconds
+Text: I think that there's a lot of people who would have wanted to be here tonight to say thanks,
+--------------------------------------------------
+Member of the Public:
+Start: 00:10:57.920
+End: 00:11:03.240
+Duration: 5.320 seconds
+Text: but I just want to let you know what you do, what you've done.
+--------------------------------------------------
+Member of the Public:
+Start: 00:11:03.240
+End: 00:11:08.720
+Duration: 5.480 seconds
+Text: And of course, those of you who remain commissioners, what you continue to do, is very important
+--------------------------------------------------
+Member of the Public:
+Start: 00:11:08.720
+End: 00:11:13.640
+Duration: 4.920 seconds
+Text: for the success of our community and the decisions that you make.
+--------------------------------------------------
+Member of the Public:
+Start: 00:11:13.640
+End: 00:11:18.960
+Duration: 5.320 seconds
+Text: I think all of us realize are important, but I don't think all of us realize how challenging
+--------------------------------------------------
+Member of the Public:
+Start: 00:11:18.960
+End: 00:11:25.400
+Duration: 6.440 seconds
+Text: it is to do the right thing for governance.
+--------------------------------------------------
+Member of the Public:
+Start: 00:11:25.400
+End: 00:11:29.800
+Duration: 4.400 seconds
+Text: And to Linda, I want to express particular appreciation.
+--------------------------------------------------
+Member of the Public:
+Start: 00:11:29.800
+End: 00:11:37.400
+Duration: 7.600 seconds
+Text: You've been working in the public service arena for eight years.
+--------------------------------------------------
+Member of the Public:
+Start: 00:11:37.400
+End: 00:11:45.440
+Duration: 8.040 seconds
+Text: And going to all those meetings and keeping up with what's going on with one commission
+--------------------------------------------------
+Member of the Public:
+Start: 00:11:45.440
+End: 00:11:49.480
+Duration: 4.040 seconds
+Text: after another has always been amazing to me.
+--------------------------------------------------
+Member of the Public:
+Start: 00:11:49.480
+End: 00:11:55.200
+Duration: 5.720 seconds
+Text: How you not only can get to all those meetings, but you remember what the big issues are and
+--------------------------------------------------
+Member of the Public:
+Start: 00:11:55.200
+End: 00:11:56.200
+Duration: 1.000 seconds
+Text: what's being said.
+--------------------------------------------------
+City Clerk:
+Start: 00:11:56.200
+End: 00:11:57.200
+Duration: 1.000 seconds
+Text: I write it down.
+--------------------------------------------------
+Member of the Public:
+Start: 00:11:57.200
+End: 00:12:04.440
+Duration: 7.240 seconds
+Text: Yeah, well, whatever your plan is, I just want to give you a special shout out.
+--------------------------------------------------
+Member of the Public:
+Start: 00:12:04.440
+End: 00:12:13.880
+Duration: 9.440 seconds
+Text: And even though there's retirement here, as we say at the area agency, based on the Lion King,
+--------------------------------------------------
+Member of the Public:
+Start: 00:12:13.880
+End: 00:12:19.120
+Duration: 5.240 seconds
+Text: there's always more in the world than can ever be done.
+--------------------------------------------------
+Member of the Public:
+Start: 00:12:19.120
+End: 00:12:26.240
+Duration: 7.120 seconds
+Text: So I want to say thanks, and Ron, thank you for your service to our community too.
+--------------------------------------------------
+Member of the Public:
+Start: 00:12:26.240
+End: 00:12:33.760
+Duration: 7.520 seconds
+Text: And I wish you well in your future endeavors and thank you for your service.
+--------------------------------------------------
+Member of the Public:
+Start: 00:12:33.760
+End: 00:12:36.720
+Duration: 2.960 seconds
+Text: And I will write my name and address now down.
+--------------------------------------------------
+Member of the Public:
+Start: 00:12:36.720
+End: 00:12:40.160
+Duration: 3.440 seconds
+Text: And that I just want to say thanks again.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:12:40.160
+End: 00:12:41.240
+Duration: 1.080 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:12:41.240
+End: 00:12:42.840
+Duration: 1.600 seconds
+Text: Thank you, Julie.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:12:42.840
+End: 00:12:44.360
+Duration: 1.520 seconds
+Text: Anybody else would care to comment?
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:12:44.360
+End: 00:12:46.720
+Duration: 2.360 seconds
+Text: We've always got time to hear good things.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:12:46.720
+End: 00:12:54.000
+Duration: 7.280 seconds
+Text: So please, please feel free to step forward.
+--------------------------------------------------
+Member of the Public:
+Start: 00:12:54.000
+End: 00:13:03.200
+Duration: 9.200 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:13:03.200
+End: 00:13:09.560
+Duration: 6.360 seconds
+Text: Well, I guess we'll go ahead and wrap up the general public comments and move on to Commissioner
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:13:09.560
+End: 00:13:10.560
+Duration: 1.000 seconds
+Text: comments.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:13:10.560
+End: 00:13:15.640
+Duration: 5.080 seconds
+Text: Oh, yeah, you'll have time later too later.
+--------------------------------------------------
+City Clerk:
+Start: 00:13:15.640
+End: 00:13:16.640
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Clerk:
+Start: 00:13:16.640
+End: 00:13:19.200
+Duration: 2.560 seconds
+Text: Just that it's been a busy season.
+--------------------------------------------------
+City Clerk:
+Start: 00:13:19.200
+End: 00:13:21.480
+Duration: 2.280 seconds
+Text: I appreciate all of you being here.
+--------------------------------------------------
+City Clerk:
+Start: 00:13:21.480
+End: 00:13:25.080
+Duration: 3.600 seconds
+Text: Thank you for your question on January 2nd.
+--------------------------------------------------
+City Clerk:
+Start: 00:13:25.080
+End: 00:13:26.080
+Duration: 1.000 seconds
+Text: Thank you for coming.
+--------------------------------------------------
+City Clerk:
+Start: 00:13:26.080
+End: 00:13:27.080
+Duration: 1.000 seconds
+Text: It's important.
+--------------------------------------------------
+Member of the Public:
+Start: 00:13:27.080
+End: 00:13:29.880
+Duration: 2.800 seconds
+Text: John, you're on the way.
+--------------------------------------------------
+Member of the Public:
+Start: 00:13:29.880
+End: 00:13:30.880
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:13:30.880
+End: 00:13:31.880
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:13:31.880
+End: 00:13:36.640
+Duration: 4.760 seconds
+Text: We will close Commissioner comments and move on to the old business consent agenda.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:13:36.640
+End: 00:13:40.120
+Duration: 3.480 seconds
+Text: These are items of a routine or housekeeping nature or things that have been previously
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:13:40.120
+End: 00:13:41.440
+Duration: 1.320 seconds
+Text: reviewed by the Commission.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:13:41.440
+End: 00:13:46.200
+Duration: 4.760 seconds
+Text: The Commissioner may request that item be removed and separate discussion and consider
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:13:46.200
+End: 00:13:49.000
+Duration: 2.800 seconds
+Text: to immediately following this consent agenda.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:13:49.000
+End: 00:13:52.480
+Duration: 3.480 seconds
+Text: We will have a chance for the public to comment on these items.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:13:52.480
+End: 00:13:57.560
+Duration: 5.080 seconds
+Text: Commissioners, are there any questions about any of the old business consent agenda?
+--------------------------------------------------
+Member of the Public:
+Start: 00:13:57.560
+End: 00:13:58.560
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:13:58.560
+End: 00:13:59.560
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:13:59.560
+End: 00:14:03.240
+Duration: 3.680 seconds
+Text: We have new business consent agenda, which the new Commission will uptake.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:14:03.240
+End: 00:14:06.200
+Duration: 2.960 seconds
+Text: So is anybody have any questions or comments?
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:14:06.200
+End: 00:14:10.800
+Duration: 4.600 seconds
+Text: You can have up to five minutes to talk on anything like approving the minutes of the last
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:14:10.800
+End: 00:14:17.520
+Duration: 6.720 seconds
+Text: meeting, paying some bills, various things like that.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:14:17.520
+End: 00:14:19.920
+Duration: 2.400 seconds
+Text: Any university special projects agreement?
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:14:19.920
+End: 00:14:21.920
+Duration: 2.000 seconds
+Text: Is that interest anybody?
+--------------------------------------------------
+Member of the Public:
+Start: 00:14:21.920
+End: 00:14:22.920
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:14:22.920
+End: 00:14:26.440
+Duration: 3.520 seconds
+Text: We'll go ahead and close the public comments on the consent agenda.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:14:26.440
+End: 00:14:27.440
+Duration: 1.000 seconds
+Text: Is there a motion?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:14:27.440
+End: 00:14:29.640
+Duration: 2.200 seconds
+Text: I move we approve the consent agenda.
+--------------------------------------------------
+Member of the Public:
+Start: 00:14:29.640
+End: 00:14:30.640
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:14:30.640
+End: 00:14:33.320
+Duration: 2.680 seconds
+Text: It's been moved and seconded to approve the consent agenda.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:14:33.320
+End: 00:14:34.320
+Duration: 1.000 seconds
+Text: Please call the roll.
+--------------------------------------------------
+City Clerk:
+Start: 00:14:34.320
+End: 00:14:35.320
+Duration: 1.000 seconds
+Text: Commissioner Butler.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:14:35.320
+End: 00:14:36.320
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:14:36.320
+End: 00:14:37.320
+Duration: 1.000 seconds
+Text: Commissioner Mada.
+--------------------------------------------------
+Member of the Public:
+Start: 00:14:37.320
+End: 00:14:38.320
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:14:38.320
+End: 00:14:39.320
+Duration: 1.000 seconds
+Text: Commissioner Morris.
+--------------------------------------------------
+City Clerk:
+Start: 00:14:39.320
+End: 00:14:40.320
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Member of the Public:
+Start: 00:14:40.320
+End: 00:14:41.320
+Duration: 1.000 seconds
+Text: Mayor Hasill.
+--------------------------------------------------
+City Clerk:
+Start: 00:14:41.320
+End: 00:14:42.320
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:14:42.320
+End: 00:14:43.320
+Duration: 1.000 seconds
+Text: Motion carried.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:14:43.320
+End: 00:14:44.320
+Duration: 1.000 seconds
+Text: Just four to zero.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:14:44.320
+End: 00:14:50.120
+Duration: 5.800 seconds
+Text: We will move into the first steps of the organization and begin with comments from outgoing
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:14:50.120
+End: 00:14:52.640
+Duration: 2.520 seconds
+Text: the Commissioner and former Mayor Linda.
+--------------------------------------------------
+City Clerk:
+Start: 00:14:52.640
+End: 00:14:54.480
+Duration: 1.840 seconds
+Text: Thank you very much.
+--------------------------------------------------
+City Clerk:
+Start: 00:14:54.480
+End: 00:14:57.200
+Duration: 2.720 seconds
+Text: I appreciate being included.
+--------------------------------------------------
+City Clerk:
+Start: 00:14:57.200
+End: 00:15:03.840
+Duration: 6.640 seconds
+Text: I want to be sure to speak a bit about serving as the commissioner.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:03.840
+End: 00:15:10.820
+Duration: 6.980 seconds
+Text: I really think of myself as a citizen who has stepped forward to serve the public for
+--------------------------------------------------
+City Clerk:
+Start: 00:15:10.820
+End: 00:15:11.820
+Duration: 1.000 seconds
+Text: a short period of time.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:11.820
+End: 00:15:16.300
+Duration: 4.480 seconds
+Text: In this case, it was almost nine years.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:16.300
+End: 00:15:21.500
+Duration: 5.200 seconds
+Text: It's been a privilege and a pleasure to serve as a city commissioner and Mayor twice.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:21.500
+End: 00:15:30.580
+Duration: 9.080 seconds
+Text: I have so appreciated the confidence and support that the public has extended to me.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:30.580
+End: 00:15:33.500
+Duration: 2.920 seconds
+Text: I felt like when I was first elected, I was just lifted up.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:33.500
+End: 00:15:34.500
+Duration: 1.000 seconds
+Text: I couldn't imagine.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:34.500
+End: 00:15:39.020
+Duration: 4.520 seconds
+Text: It was, you know, when you put yourself out there and you declare that you're going to
+--------------------------------------------------
+City Clerk:
+Start: 00:15:39.020
+End: 00:15:40.020
+Duration: 1.000 seconds
+Text: run.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:40.020
+End: 00:15:44.780
+Duration: 4.760 seconds
+Text: It's a bit of a trepidation that you do that.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:44.780
+End: 00:15:48.500
+Duration: 3.720 seconds
+Text: You have to be, you know, suck it up and be brave.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:48.500
+End: 00:15:55.620
+Duration: 7.120 seconds
+Text: And then to be elected is just a rewarding thing.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:55.620
+End: 00:15:59.580
+Duration: 3.960 seconds
+Text: I was first elected in April of 2015.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:59.580
+End: 00:16:04.100
+Duration: 4.520 seconds
+Text: After almost nine years, it's time for me to transition off just as the commissioners
+--------------------------------------------------
+City Clerk:
+Start: 00:16:04.100
+End: 00:16:06.740
+Duration: 2.640 seconds
+Text: have in the past.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:06.740
+End: 00:16:12.620
+Duration: 5.880 seconds
+Text: While some are negative and critical, I am proud of our community.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:12.620
+End: 00:16:15.820
+Duration: 3.200 seconds
+Text: Our city is attractive and forward thinking.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:15.820
+End: 00:16:18.100
+Duration: 2.280 seconds
+Text: I hope you all think that way too.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:18.100
+End: 00:16:20.860
+Duration: 2.760 seconds
+Text: We are like a family and siblings.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:20.860
+End: 00:16:22.580
+Duration: 1.720 seconds
+Text: We argue.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:22.580
+End: 00:16:25.980
+Duration: 3.400 seconds
+Text: We pull back and forth.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:25.980
+End: 00:16:31.060
+Duration: 5.080 seconds
+Text: But eventually we come up with what's the best for our community and we have a wonderful
+--------------------------------------------------
+City Clerk:
+Start: 00:16:31.060
+End: 00:16:32.260
+Duration: 1.200 seconds
+Text: community.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:32.260
+End: 00:16:33.260
+Duration: 1.000 seconds
+Text: And I'm mayor.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:33.260
+End: 00:16:41.260
+Duration: 8.000 seconds
+Text: I am just so excited to hear people at the conferences where I do a welcome or people
+--------------------------------------------------
+City Clerk:
+Start: 00:16:41.260
+End: 00:16:44.700
+Duration: 3.440 seconds
+Text: I run into that don't even know I'm a commissioner.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:44.700
+End: 00:16:50.780
+Duration: 6.080 seconds
+Text: Speak about Manhattan and why they wanted to move here from wherever they are, Clay Center
+--------------------------------------------------
+City Clerk:
+Start: 00:16:50.780
+End: 00:16:52.460
+Duration: 1.680 seconds
+Text: or Western Kansas.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:52.460
+End: 00:16:58.420
+Duration: 5.960 seconds
+Text: They love our community and I want to make sure that we keep making our community that desirable
+--------------------------------------------------
+City Clerk:
+Start: 00:16:58.420
+End: 00:17:04.300
+Duration: 5.880 seconds
+Text: place that people want to come.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:04.300
+End: 00:17:09.220
+Duration: 4.920 seconds
+Text: These are a couple of highlights of the years I've been in office.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:09.220
+End: 00:17:17.620
+Duration: 8.400 seconds
+Text: We added five words to the existing non-discrimination ordinance to make things more fair for all
+--------------------------------------------------
+City Clerk:
+Start: 00:17:17.620
+End: 00:17:20.060
+Duration: 2.440 seconds
+Text: of our citizens.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:20.060
+End: 00:17:24.820
+Duration: 4.760 seconds
+Text: We finally are completing the North Campus corridor later this year.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:24.820
+End: 00:17:26.620
+Duration: 1.800 seconds
+Text: Yay.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:26.620
+End: 00:17:32.820
+Duration: 6.200 seconds
+Text: That has been such an expensive project year after year after year.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:32.820
+End: 00:17:34.340
+Duration: 1.520 seconds
+Text: Replacement of the airport runway.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:34.340
+End: 00:17:35.340
+Duration: 1.000 seconds
+Text: We were lucky.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:35.340
+End: 00:17:39.740
+Duration: 4.400 seconds
+Text: We pieced the we I'm sure I did.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:39.740
+End: 00:17:45.300
+Duration: 5.560 seconds
+Text: The city administration pieced the money together for the airport runway with all the sources
+--------------------------------------------------
+City Clerk:
+Start: 00:17:45.300
+End: 00:17:51.520
+Duration: 6.220 seconds
+Text: and reconstructing the levy and I have to pay tribute to the administration year of
+--------------------------------------------------
+City Clerk:
+Start: 00:17:51.520
+End: 00:17:58.720
+Duration: 7.200 seconds
+Text: mastery of finding money from federal for these kinds of federal projects.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:58.720
+End: 00:18:03.440
+Duration: 4.720 seconds
+Text: Reconstructing the levy itself is a major undertaking.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:03.440
+End: 00:18:09.640
+Duration: 6.200 seconds
+Text: Buying out several flooded homes each year so that they are never going to be flooded
+--------------------------------------------------
+City Clerk:
+Start: 00:18:09.640
+End: 00:18:14.840
+Duration: 5.200 seconds
+Text: again and the people will be in safe.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:14.840
+End: 00:18:19.760
+Duration: 4.920 seconds
+Text: I am especially pleased that we've been able to appoint more women and people of color
+--------------------------------------------------
+City Clerk:
+Start: 00:18:19.760
+End: 00:18:22.160
+Duration: 2.400 seconds
+Text: to the boards here in the community.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:22.160
+End: 00:18:31.840
+Duration: 9.680 seconds
+Text: When I first came we had overwhelmingly all white male on a lot of our boards and so that's
+--------------------------------------------------
+City Clerk:
+Start: 00:18:31.840
+End: 00:18:33.600
+Duration: 1.760 seconds
+Text: changing slowly.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:33.600
+End: 00:18:36.680
+Duration: 3.080 seconds
+Text: I have just thank you to so many people.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:36.680
+End: 00:18:43.080
+Duration: 6.400 seconds
+Text: Thank you to the city manager Ron Fear and the city administration team and city employees.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:43.080
+End: 00:18:51.800
+Duration: 8.720 seconds
+Text: I know they have made do with budget shortages and covered for other employees and there
+--------------------------------------------------
+City Clerk:
+Start: 00:18:51.800
+End: 00:18:57.480
+Duration: 5.680 seconds
+Text: have been sometimes too few employees and especially in recent years with COVID.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:57.480
+End: 00:19:01.920
+Duration: 4.440 seconds
+Text: Ron as I enter my secondary retirement I wish you well in yours.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:01.920
+End: 00:19:06.720
+Duration: 4.800 seconds
+Text: I know we'll have another opportunity in April when you officially retire.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:06.720
+End: 00:19:11.120
+Duration: 4.400 seconds
+Text: And thank you to the commissioners I've served with.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:11.120
+End: 00:19:15.320
+Duration: 4.200 seconds
+Text: I'm Christine Yusher Ready and Karen McCullough who were here when I first came.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:15.320
+End: 00:19:18.440
+Duration: 3.120 seconds
+Text: I'm enthusiastic about the newly elected commissioners.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:18.440
+End: 00:19:25.200
+Duration: 6.760 seconds
+Text: I'm proud of our community and proud that we continue to elect women to leadership positions.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:25.200
+End: 00:19:31.200
+Duration: 6.000 seconds
+Text: It's extremely important to elect women and people of color to achieve a balanced representation
+--------------------------------------------------
+City Clerk:
+Start: 00:19:31.200
+End: 00:19:36.680
+Duration: 5.480 seconds
+Text: here in the community so we're all represented and not just part of us.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:36.680
+End: 00:19:39.760
+Duration: 3.080 seconds
+Text: To all of you I would just say thank you very much.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:19:39.760
+End: 00:19:54.080
+Duration: 14.320 seconds
+Text: I haven't had much to say during the commissioner comments period over the last few years so I'm
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:19:54.080
+End: 00:19:57.680
+Duration: 3.600 seconds
+Text: reclaiming all of that time.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:19:57.680
+End: 00:20:02.160
+Duration: 4.480 seconds
+Text: So I want to thank the community for the opportunity to serve on the commission and especially
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:20:02.160
+End: 00:20:04.920
+Duration: 2.760 seconds
+Text: the honor of serving as mayor this past year.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:20:04.920
+End: 00:20:09.960
+Duration: 5.040 seconds
+Text: It has been a distinct pleasure for me to represent the city at welcomes ribbon cuttings
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:20:09.960
+End: 00:20:15.000
+Duration: 5.040 seconds
+Text: and ground breakings and to have the chance to say a few words at the in-bath dedication.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:20:15.000
+End: 00:20:18.520
+Duration: 3.520 seconds
+Text: I'm proud of the work that the commission has done over the past few years and I think
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:20:18.520
+End: 00:20:23.120
+Duration: 4.600 seconds
+Text: we have set the table for a great economic harvest in the years to come.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:20:23.120
+End: 00:20:29.360
+Duration: 6.240 seconds
+Text: I'd first like to thank my wife Pamela for all of her love and support over the past
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:20:29.360
+End: 00:20:32.840
+Duration: 3.480 seconds
+Text: four years and the whole 33 years we've been together.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:20:32.840
+End: 00:20:37.720
+Duration: 4.880 seconds
+Text: A constant source of encouragement and she has been a safe haven during the rough times.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:20:37.720
+End: 00:20:39.840
+Duration: 2.120 seconds
+Text: Please join me in acknowledging her.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:20:39.840
+End: 00:20:49.040
+Duration: 9.200 seconds
+Text: I'd also like to thank the city staff which has been very gracious to me.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:20:49.040
+End: 00:20:53.760
+Duration: 4.720 seconds
+Text: Ron and his leadership team Brenda, Lauren and Chelsea and all of the department heads
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:20:53.760
+End: 00:20:57.200
+Duration: 3.440 seconds
+Text: who have been so knowledgeable and quick to respond.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:20:57.200
+End: 00:20:59.280
+Duration: 2.080 seconds
+Text: Sure do Miss Robotho.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:20:59.320
+End: 00:21:04.760
+Duration: 5.440 seconds
+Text: I also want to acknowledge Shoe at the zoo and Susan and her team at the Discovery Center.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:21:04.760
+End: 00:21:08.120
+Duration: 3.360 seconds
+Text: Both have been so helpful and a pleasure to interact with.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:21:08.120
+End: 00:21:12.680
+Duration: 4.560 seconds
+Text: With the Museum of Art and Light ringing thousands of students to visit each year, the Discovery
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:21:12.680
+End: 00:21:16.920
+Duration: 4.240 seconds
+Text: Center will only grow in popularity and impact.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:21:16.920
+End: 00:21:22.360
+Duration: 5.440 seconds
+Text: While the past four years have gone by very quickly, this past year has gone way too fast.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:21:22.360
+End: 00:21:27.080
+Duration: 4.720 seconds
+Text: The dedication of in-bath was definitely the highlight for me, but also celebrating
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:21:27.080
+End: 00:21:32.320
+Duration: 5.240 seconds
+Text: the opening of the Ought, the joint maintenance facility, celebrating the new Aguivil sign
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:21:32.320
+End: 00:21:35.800
+Duration: 3.480 seconds
+Text: and kind of the temporary end of construction there.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:21:35.800
+End: 00:21:40.160
+Duration: 4.360 seconds
+Text: And then also the new Stonehaven Park and Bayer pond are going to be great additions to
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:21:40.160
+End: 00:21:41.920
+Duration: 1.760 seconds
+Text: the community.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:21:41.920
+End: 00:21:46.160
+Duration: 4.240 seconds
+Text: The Museum of Art and Light will be an awesome addition to the community along with the Midtown
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:21:46.160
+End: 00:21:48.520
+Duration: 2.360 seconds
+Text: and Aguivil related projects.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:21:48.520
+End: 00:21:52.880
+Duration: 4.360 seconds
+Text: We have helped also help facilitate the Werem Hall project which I think is going to be
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:21:52.880
+End: 00:21:55.040
+Duration: 2.160 seconds
+Text: the coolest thing ever.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:21:55.040
+End: 00:22:00.200
+Duration: 5.160 seconds
+Text: And we have gotten off the ground with the Seco Park Ball Fields project after waiting
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:22:00.200
+End: 00:22:02.480
+Duration: 2.280 seconds
+Text: on that for several years.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:22:02.480
+End: 00:22:06.960
+Duration: 4.480 seconds
+Text: The Levy improvements are going about as well as any Corps of Engineer project can.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:22:06.960
+End: 00:22:11.200
+Duration: 4.240 seconds
+Text: The inconvenience of the airport closure has already been forgotten as they have been
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:22:11.200
+End: 00:22:14.760
+Duration: 3.560 seconds
+Text: overwhelmed by the increased usage since it reopened.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:22:14.760
+End: 00:22:21.600
+Duration: 6.840 seconds
+Text: So many projects are cursed for their inconvenience, but are quickly forgotten, but discomfort
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:22:21.600
+End: 00:22:25.640
+Duration: 4.040 seconds
+Text: is quickly forgotten when that project is completed and we can enjoy something that
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:22:25.640
+End: 00:22:27.160
+Duration: 1.520 seconds
+Text: is new and nicer.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:22:27.160
+End: 00:22:32.360
+Duration: 5.200 seconds
+Text: I'm going to pass along some unsolicited advice to the new commissioners which you can take
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:22:32.360
+End: 00:22:37.920
+Duration: 5.560 seconds
+Text: or leave, but the first thing I had to learn was that there's two sides to every story.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:22:37.920
+End: 00:22:40.480
+Duration: 2.560 seconds
+Text: I've been slow to learn this.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:22:40.480
+End: 00:22:43.560
+Duration: 3.080 seconds
+Text: Several times over the years I've made the mistake of hearing someone's story about
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:22:43.560
+End: 00:22:50.400
+Duration: 6.840 seconds
+Text: a situation with the city and then overreacted to it to their version of the events.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:22:50.400
+End: 00:22:54.560
+Duration: 4.160 seconds
+Text: This has led to apologies on my part as once I learned the other side of the story.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:22:54.560
+End: 00:22:59.000
+Duration: 4.440 seconds
+Text: And so I would like to have you express some patience sometimes when you hear something
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:22:59.000
+End: 00:23:03.880
+Duration: 4.880 seconds
+Text: that sounds outlandish, it's going to be really cool to hear the other side because
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:23:03.880
+End: 00:23:06.040
+Duration: 2.160 seconds
+Text: a lot of times there's a big difference.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:23:06.040
+End: 00:23:10.960
+Duration: 4.920 seconds
+Text: Secondly, what is best for the community is not always what's best for any individual.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:23:10.960
+End: 00:23:16.360
+Duration: 5.400 seconds
+Text: All we can do is make it as right as possible to those who have been adversely affected.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:23:16.360
+End: 00:23:21.240
+Duration: 4.880 seconds
+Text: Most people's concerns and fears never manifest themselves and most arguments are based
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:23:21.240
+End: 00:23:25.000
+Duration: 3.760 seconds
+Text: on insufficient or incorrect information.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:23:25.000
+End: 00:23:29.440
+Duration: 4.440 seconds
+Text: This is especially true in the age of social media when wrong information and exciting
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:23:29.440
+End: 00:23:31.640
+Duration: 2.200 seconds
+Text: information will spread very quickly.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:23:31.640
+End: 00:23:37.040
+Duration: 5.400 seconds
+Text: Thirdly, I would encourage you to take advantage of as many as possible the many opportunities
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:23:37.040
+End: 00:23:39.600
+Duration: 2.560 seconds
+Text: afforded you as you are a commissioner.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:23:39.600
+End: 00:23:43.880
+Duration: 4.280 seconds
+Text: My favorite extra-curricular events have been the opportunities to spend time with the
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:23:43.880
+End: 00:23:45.880
+Duration: 2.000 seconds
+Text: big red one leadership.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:23:45.880
+End: 00:23:50.160
+Duration: 4.280 seconds
+Text: Some of the finest people you will ever meet are the generals, colonels, and command
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:23:50.160
+End: 00:23:54.160
+Duration: 4.000 seconds
+Text: sergeants major who pass through Fort Riley.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:23:54.160
+End: 00:23:57.120
+Duration: 2.960 seconds
+Text: Last advice, keep a long-term vision.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:23:57.120
+End: 00:24:00.360
+Duration: 3.240 seconds
+Text: Long-term goals always conflict with short-term goals.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:24:00.360
+End: 00:24:05.040
+Duration: 4.680 seconds
+Text: I'd like to lose ten pounds, but I also plan on eating a pizza when I get home.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:24:05.040
+End: 00:24:10.360
+Duration: 5.320 seconds
+Text: We need to fix the water lines in Aguil, but nobody wants to close up and close and tear
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:24:10.360
+End: 00:24:12.160
+Duration: 1.800 seconds
+Text: up Moral Street.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:24:12.160
+End: 00:24:15.680
+Duration: 3.520 seconds
+Text: You can't complain about terrible streets and then turn around and complain that the streets
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:24:15.680
+End: 00:24:17.840
+Duration: 2.160 seconds
+Text: are closed for repair.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:24:17.840
+End: 00:24:25.480
+Duration: 7.640 seconds
+Text: Nobody wants to use eminent domain to accumulate the land for the downtown redevelopment projects,
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:24:25.480
+End: 00:24:30.920
+Duration: 5.440 seconds
+Text: but looking back we can now agree that that whole process was worth it.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:24:30.920
+End: 00:24:35.600
+Duration: 4.680 seconds
+Text: Everybody resists change and the responsibility is commissioners is to help the community
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:24:35.600
+End: 00:24:45.600
+Duration: 10.000 seconds
+Text: to see what can be and to say yes to the ideas that will benefit.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:24:45.600
+End: 00:24:50.040
+Duration: 4.440 seconds
+Text: Everyone in the long-term, despite the short-term discomfort.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:24:50.040
+End: 00:24:55.280
+Duration: 5.240 seconds
+Text: I was on the commission for the downtown redevelopment and now again with the Aguil redevelopment.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:24:55.280
+End: 00:25:00.720
+Duration: 5.440 seconds
+Text: Despite concerns from the public, we were right back then on the downtown projects and
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:25:00.720
+End: 00:25:05.160
+Duration: 4.440 seconds
+Text: I am completely confident in the current Aguil projects planned.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:25:05.160
+End: 00:25:10.720
+Duration: 5.560 seconds
+Text: For a small town Kansas kid who grew up thinking Manhattan was about the coolest place around,
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:25:10.720
+End: 00:25:16.560
+Duration: 5.840 seconds
+Text: the chance to be mayor of that great city has been the highlight of my life.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:25:16.560
+End: 00:25:22.240
+Duration: 5.680 seconds
+Text: I have nothing but joy, gratitude and appreciation for this opportunity.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:25:22.240
+End: 00:25:27.040
+Duration: 4.800 seconds
+Text: I know not everybody is going to feel that strongly about it.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:25:27.040
+End: 00:25:32.640
+Duration: 5.600 seconds
+Text: When I went to the mayor's conference, League of Kansas municipality meetings and I've
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:25:32.640
+End: 00:25:37.240
+Duration: 4.600 seconds
+Text: traveled to other places with the Chiropractic Association around the state, being mayor
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:25:37.320
+End: 00:25:43.640
+Duration: 6.320 seconds
+Text: of Manhattan is kind of a big deal and large areas of the state.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:25:43.640
+End: 00:25:47.520
+Duration: 3.880 seconds
+Text: This community is loved and adored across Kansas and I love it every minute I can
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:25:47.520
+End: 00:25:49.520
+Duration: 2.000 seconds
+Text: able to represent it.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:25:49.520
+End: 00:25:54.000
+Duration: 4.480 seconds
+Text: The people I've met, the friendships I've been able to develop and the places I've been
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:25:54.000
+End: 00:25:59.040
+Duration: 5.040 seconds
+Text: able to go are all things I never would have had a chance to do if it wasn't for my time
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:25:59.040
+End: 00:26:00.640
+Duration: 1.600 seconds
+Text: on the commission.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:26:00.640
+End: 00:26:05.080
+Duration: 4.440 seconds
+Text: I have nothing but good thoughts and fond memories for my time on the commission.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:26:05.080
+End: 00:26:07.680
+Duration: 2.600 seconds
+Text: For me, this has been the opportunity of a lifetime.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:26:07.680
+End: 00:26:17.680
+Duration: 10.000 seconds
+Text: Thank you so much.
+--------------------------------------------------
+Member of the Public:
+Start: 00:26:17.680
+End: 00:26:23.280
+Duration: 5.600 seconds
+Text: Brenda's up next.
+--------------------------------------------------
+City Clerk:
+Start: 00:26:23.280
+End: 00:26:27.360
+Duration: 4.080 seconds
+Text: Mr. Mayor, I would like to ask the newly elected commissioners to come forward and meet me
+--------------------------------------------------
+City Clerk:
+Start: 00:26:27.360
+End: 00:26:31.840
+Duration: 4.480 seconds
+Text: in front of the commission table.
+--------------------------------------------------
+City Clerk:
+Start: 00:26:31.840
+End: 00:26:54.040
+Duration: 22.200 seconds
+Text: Please raise your right hand and repeat after me.
+--------------------------------------------------
+City Clerk:
+Start: 00:26:54.040
+End: 00:27:01.800
+Duration: 7.760 seconds
+Text: I do solemnly swear that I will support the Constitution of the United States.
+--------------------------------------------------
+City Clerk:
+Start: 00:27:01.800
+End: 00:27:11.360
+Duration: 9.560 seconds
+Text: The Constitution of the state of Kansas and the code of ordinances of the city of Manhattan
+--------------------------------------------------
+City Clerk:
+Start: 00:27:11.360
+End: 00:27:27.280
+Duration: 15.920 seconds
+Text: Kansas and faithfully discharge the duties of city commissioner for the city of Manhattan.
+--------------------------------------------------
+City Clerk:
+Start: 00:27:27.280
+End: 00:27:29.440
+Duration: 2.160 seconds
+Text: So help me God.
+--------------------------------------------------
+Member of the Public:
+Start: 00:28:29.440
+End: 00:28:36.440
+Duration: 7.000 seconds
+Text: You did that chair.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:28:36.440
+End: 00:28:39.440
+Duration: 3.000 seconds
+Text: What's that?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:28:39.440
+End: 00:28:49.920
+Duration: 10.480 seconds
+Text: Sometimes it gets cold in here while we put it in the car.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:28:49.920
+End: 00:28:56.920
+Duration: 7.000 seconds
+Text: Remember you come on with air conditioning and freeze to death in here.
+--------------------------------------------------
+Member of the Public:
+Start: 00:29:19.920
+End: 00:29:40.400
+Duration: 20.480 seconds
+Text: I would like to ask the commission for nomination for mayor.
+--------------------------------------------------
+Member of the Public:
+Start: 00:29:40.400
+End: 00:29:46.440
+Duration: 6.040 seconds
+Text: I move that commissioner Wynn Butler be appointed to serve as mayor until the first working
+--------------------------------------------------
+Member of the Public:
+Start: 00:29:46.440
+End: 00:29:49.600
+Duration: 3.160 seconds
+Text: Tuesday of January 2025.
+--------------------------------------------------
+City Clerk:
+Start: 00:29:49.600
+End: 00:29:52.400
+Duration: 2.800 seconds
+Text: Is there a second?
+--------------------------------------------------
+City Clerk:
+Start: 00:29:52.400
+End: 00:29:57.000
+Duration: 4.600 seconds
+Text: Hearing no other nominations for mayor, I will now call the roll.
+--------------------------------------------------
+City Clerk:
+Start: 00:29:57.000
+End: 00:29:59.400
+Duration: 2.400 seconds
+Text: Commissioner Adam check.
+--------------------------------------------------
+City Clerk:
+Start: 00:29:59.400
+End: 00:30:00.400
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:00.400
+End: 00:30:01.400
+Duration: 1.000 seconds
+Text: Commissioner McCalla?
+--------------------------------------------------
+City Clerk:
+Start: 00:30:01.400
+End: 00:30:02.400
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:02.400
+End: 00:30:03.400
+Duration: 1.000 seconds
+Text: Commissioner O'Cope?
+--------------------------------------------------
+Member of the Public:
+Start: 00:30:03.400
+End: 00:30:04.400
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:04.400
+End: 00:30:05.400
+Duration: 1.000 seconds
+Text: Commissioner Mata?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:30:05.400
+End: 00:30:06.400
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:06.400
+End: 00:30:07.400
+Duration: 1.000 seconds
+Text: Commissioner Butler?
+--------------------------------------------------
+City Clerk:
+Start: 00:30:07.400
+End: 00:30:08.400
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:08.400
+End: 00:30:09.400
+Duration: 1.000 seconds
+Text: Motion carries 4-0.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:09.400
+End: 00:30:17.400
+Duration: 8.000 seconds
+Text: I turn that back on.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:30:17.400
+End: 00:30:22.760
+Duration: 5.360 seconds
+Text: I would like to ask the commission for nominations for mayor pro temp.
+--------------------------------------------------
+Member of the Public:
+Start: 00:30:22.760
+End: 00:30:27.280
+Duration: 4.520 seconds
+Text: I move that commissioner Susan Adam check be appointed to serve as mayor pro temp until
+--------------------------------------------------
+Member of the Public:
+Start: 00:30:27.280
+End: 00:30:30.200
+Duration: 2.920 seconds
+Text: the first working Tuesday of January 2025.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:30:30.200
+End: 00:30:33.400
+Duration: 3.200 seconds
+Text: Is there a second?
+--------------------------------------------------
+Member of the Public:
+Start: 00:30:33.400
+End: 00:30:34.400
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:30:34.400
+End: 00:30:40.200
+Duration: 5.800 seconds
+Text: Hearing no other nominations for mayor pro temp, city clerk, would you please call the roll.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:40.200
+End: 00:30:41.200
+Duration: 1.000 seconds
+Text: Commissioner McCalla?
+--------------------------------------------------
+City Clerk:
+Start: 00:30:41.200
+End: 00:30:42.200
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Member of the Public:
+Start: 00:30:42.200
+End: 00:30:43.200
+Duration: 1.000 seconds
+Text: Commissioner O'Palt?
+--------------------------------------------------
+City Clerk:
+Start: 00:30:43.200
+End: 00:30:44.200
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:30:44.200
+End: 00:30:45.200
+Duration: 1.000 seconds
+Text: Commissioner Mata?
+--------------------------------------------------
+City Clerk:
+Start: 00:30:45.200
+End: 00:30:46.200
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:46.200
+End: 00:30:47.200
+Duration: 1.000 seconds
+Text: Commissioner Mata?
+--------------------------------------------------
+Member of the Public:
+Start: 00:30:47.200
+End: 00:30:48.200
+Duration: 1.000 seconds
+Text: Mayor Butler?
+--------------------------------------------------
+City Clerk:
+Start: 00:30:48.200
+End: 00:30:49.200
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:49.200
+End: 00:30:50.200
+Duration: 1.000 seconds
+Text: Commissioner Adam check.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:50.200
+End: 00:30:51.200
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:51.200
+End: 00:30:53.200
+Duration: 2.000 seconds
+Text: Motion carries 5-0.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:30:53.200
+End: 00:31:01.680
+Duration: 8.480 seconds
+Text: I guess at this point we are going to recognize the outgoing mayor at his all and commissioner
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:31:01.680
+End: 00:31:02.680
+Duration: 1.000 seconds
+Text: Morris.
+--------------------------------------------------
+Member of the Public:
+Start: 00:31:02.680
+End: 00:31:05.680
+Duration: 3.000 seconds
+Text: We are still there.
+--------------------------------------------------
+Member of the Public:
+Start: 00:31:05.680
+End: 00:31:26.520
+Duration: 20.840 seconds
+Text: All packaging is difficult.
+--------------------------------------------------
+Member of the Public:
+Start: 00:31:26.520
+End: 00:31:27.520
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:31:27.520
+End: 00:31:30.200
+Duration: 2.680 seconds
+Text: Linda, there is a nice plaque.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:31:30.200
+End: 00:31:31.200
+Duration: 1.000 seconds
+Text: You probably have several.
+--------------------------------------------------
+Member of the Public:
+Start: 00:31:31.200
+End: 00:31:32.200
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:31:32.200
+End: 00:31:33.200
+Duration: 1.000 seconds
+Text: Hope the whole room full of them.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:31:33.200
+End: 00:31:40.200
+Duration: 7.000 seconds
+Text: It has been a pleasure to serve with you for eight years.
+--------------------------------------------------
+Member of the Public:
+Start: 00:31:40.200
+End: 00:31:43.200
+Duration: 3.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:31:43.200
+End: 00:31:47.200
+Duration: 4.000 seconds
+Text: And we have a little something else.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:47.200
+End: 00:31:48.200
+Duration: 1.000 seconds
+Text: Oh, good.
+--------------------------------------------------
+Member of the Public:
+Start: 00:31:48.200
+End: 00:31:52.200
+Duration: 4.000 seconds
+Text: New to the questions.
+--------------------------------------------------
+Member of the Public:
+Start: 00:31:52.200
+End: 00:31:55.200
+Duration: 3.000 seconds
+Text: Oh.
+--------------------------------------------------
+Member of the Public:
+Start: 00:31:55.200
+End: 00:32:02.200
+Duration: 7.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:32:02.200
+End: 00:32:04.200
+Duration: 2.000 seconds
+Text: We have got them.
+--------------------------------------------------
+Member of the Public:
+Start: 00:32:04.200
+End: 00:32:05.200
+Duration: 1.000 seconds
+Text: Maybe.
+--------------------------------------------------
+Member of the Public:
+Start: 00:32:05.200
+End: 00:32:09.200
+Duration: 4.000 seconds
+Text: City of Manhattan, candy dish, and it has your dates of service on it.
+--------------------------------------------------
+Member of the Public:
+Start: 00:32:09.200
+End: 00:32:10.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:32:10.200
+End: 00:32:11.200
+Duration: 1.000 seconds
+Text: So remember, thank you for all your service.
+--------------------------------------------------
+Member of the Public:
+Start: 00:32:11.200
+End: 00:32:12.200
+Duration: 1.000 seconds
+Text: We appreciate it very much.
+--------------------------------------------------
+Member of the Public:
+Start: 00:32:12.200
+End: 00:32:13.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:32:13.200
+End: 00:32:20.200
+Duration: 7.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:32:20.200
+End: 00:32:23.200
+Duration: 3.000 seconds
+Text: Get a box.
+--------------------------------------------------
+Member of the Public:
+Start: 00:32:23.200
+End: 00:32:31.200
+Duration: 8.000 seconds
+Text: I guess, Mark.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:32:31.200
+End: 00:32:32.200
+Duration: 1.000 seconds
+Text: Mark.
+--------------------------------------------------
+Member of the Public:
+Start: 00:32:32.200
+End: 00:32:33.200
+Duration: 1.000 seconds
+Text: Come on out.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:32:33.200
+End: 00:32:37.200
+Duration: 4.000 seconds
+Text: Get you get the traditional little mallet.
+--------------------------------------------------
+Member of the Public:
+Start: 00:32:37.200
+End: 00:32:38.200
+Duration: 1.000 seconds
+Text: As usual.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:32:39.200
+End: 00:32:43.200
+Duration: 4.000 seconds
+Text: I appreciate the time you served on the commission.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:32:43.200
+End: 00:32:47.200
+Duration: 4.000 seconds
+Text: But you have been here as you mentioned in your speech for two of the tough ones.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:32:47.200
+End: 00:32:52.200
+Duration: 5.000 seconds
+Text: The Midtown redevelopment and the other people are when you are first on the commission.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:32:52.200
+End: 00:32:55.200
+Duration: 3.000 seconds
+Text: Those were some of the toughest votes yet.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:32:55.200
+End: 00:32:57.200
+Duration: 2.000 seconds
+Text: So I appreciate the effort you put into that.
+--------------------------------------------------
+Member of the Public:
+Start: 00:32:57.200
+End: 00:32:58.200
+Duration: 1.000 seconds
+Text: Thank you very much.
+--------------------------------------------------
+Member of the Public:
+Start: 00:32:58.200
+End: 00:32:59.200
+Duration: 1.000 seconds
+Text: Very good.
+--------------------------------------------------
+Member of the Public:
+Start: 00:32:59.200
+End: 00:33:07.200
+Duration: 8.000 seconds
+Text: And Mark, it has become a tradition to put a collection of pictures together over your term as mayor.
+--------------------------------------------------
+Member of the Public:
+Start: 00:33:07.200
+End: 00:33:15.200
+Duration: 8.000 seconds
+Text: And as you mentioned in your remarks, you have had a lot of opportunity to cut some great ribbons.
+--------------------------------------------------
+Member of the Public:
+Start: 00:33:15.200
+End: 00:33:20.200
+Duration: 5.000 seconds
+Text: And we stuck in Arbor Day ceremony in there because the mayor participated in that.
+--------------------------------------------------
+Member of the Public:
+Start: 00:33:20.200
+End: 00:33:25.200
+Duration: 5.000 seconds
+Text: But hopefully this will bring back some great memories for you for your term.
+--------------------------------------------------
+Member of the Public:
+Start: 00:33:25.200
+End: 00:33:34.200
+Duration: 9.000 seconds
+Text: And thank you so much for your service and for taking the time to make all these events and all the comments that you made and all the others as well.
+--------------------------------------------------
+Member of the Public:
+Start: 00:33:34.200
+End: 00:33:35.200
+Duration: 1.000 seconds
+Text: It's a big effort.
+--------------------------------------------------
+Member of the Public:
+Start: 00:33:35.200
+End: 00:33:36.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:33:36.200
+End: 00:33:37.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:33:37.200
+End: 00:33:38.200
+Duration: 1.000 seconds
+Text: I got it.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:33:38.200
+End: 00:33:39.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:33:39.200
+End: 00:33:40.200
+Duration: 1.000 seconds
+Text: Thank you so much.
+--------------------------------------------------
+Member of the Public:
+Start: 00:33:40.200
+End: 00:33:41.200
+Duration: 1.000 seconds
+Text: You're the nice part.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:33:41.200
+End: 00:33:42.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:33:42.200
+End: 00:33:43.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:33:43.200
+End: 00:33:44.200
+Duration: 1.000 seconds
+Text: That was the vote.
+--------------------------------------------------
+Member of the Public:
+Start: 00:33:44.200
+End: 00:33:45.200
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:33:45.200
+End: 00:33:46.200
+Duration: 1.000 seconds
+Text: Always have that.
+--------------------------------------------------
+Member of the Public:
+Start: 00:33:46.200
+End: 00:33:47.200
+Duration: 1.000 seconds
+Text: Pamela.
+--------------------------------------------------
+Member of the Public:
+Start: 00:33:47.200
+End: 00:33:48.200
+Duration: 1.000 seconds
+Text: There we go.
+--------------------------------------------------
+Member of the Public:
+Start: 00:33:48.200
+End: 00:33:50.200
+Duration: 2.000 seconds
+Text: I don't like that.
+--------------------------------------------------
+Member of the Public:
+Start: 00:33:50.200
+End: 00:33:51.200
+Duration: 1.000 seconds
+Text: The welcome too.
+--------------------------------------------------
+Member of the Public:
+Start: 00:33:51.200
+End: 00:33:52.200
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:33:52.200
+End: 00:33:53.200
+Duration: 1.000 seconds
+Text: That's long gone.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:33:53.200
+End: 00:33:54.200
+Duration: 1.000 seconds
+Text: Whoops.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:33:54.200
+End: 00:33:55.200
+Duration: 1.000 seconds
+Text: There we go.
+--------------------------------------------------
+Member of the Public:
+Start: 00:33:55.200
+End: 00:33:56.200
+Duration: 1.000 seconds
+Text: He's breaking.
+--------------------------------------------------
+Member of the Public:
+Start: 00:33:56.200
+End: 00:34:01.200
+Duration: 5.000 seconds
+Text: So we know there's another big sacrifice that family members make.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:01.200
+End: 00:34:11.200
+Duration: 10.000 seconds
+Text: Especially spouses for elected officials during their time.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:11.200
+End: 00:34:15.200
+Duration: 4.000 seconds
+Text: So just a small token of our appreciation and a candy dish as well.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:15.200
+End: 00:34:17.200
+Duration: 2.000 seconds
+Text: So thank you so much for all you've done.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:34:17.200
+End: 00:34:18.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:18.200
+End: 00:34:20.200
+Duration: 2.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:20.200
+End: 00:34:21.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:21.200
+End: 00:34:22.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:22.200
+End: 00:34:23.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:23.200
+End: 00:34:24.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:24.200
+End: 00:34:25.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:25.200
+End: 00:34:26.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:26.200
+End: 00:34:27.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:27.200
+End: 00:34:28.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:28.200
+End: 00:34:29.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:29.200
+End: 00:34:30.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:30.200
+End: 00:34:31.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Hussle:
+Start: 00:34:31.200
+End: 00:34:32.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:32.200
+End: 00:34:33.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:33.200
+End: 00:34:34.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:34.200
+End: 00:34:35.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:35.200
+End: 00:34:36.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:36.200
+End: 00:34:37.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:37.200
+End: 00:34:38.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:38.200
+End: 00:34:39.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:39.200
+End: 00:34:40.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:40.200
+End: 00:34:41.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:41.200
+End: 00:34:42.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:42.200
+End: 00:34:43.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:43.200
+End: 00:34:44.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:44.200
+End: 00:34:45.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:45.200
+End: 00:34:46.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:46.200
+End: 00:34:47.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:47.200
+End: 00:34:48.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:48.200
+End: 00:34:49.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:49.200
+End: 00:34:50.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:50.200
+End: 00:34:51.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:51.200
+End: 00:34:52.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:52.200
+End: 00:34:53.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:53.200
+End: 00:34:54.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:54.200
+End: 00:34:55.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:55.200
+End: 00:34:56.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:56.200
+End: 00:34:57.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:57.200
+End: 00:34:58.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:58.200
+End: 00:34:59.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:34:59.200
+End: 00:35:00.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:35:00.200
+End: 00:35:01.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:35:01.200
+End: 00:35:02.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:35:02.200
+End: 00:35:03.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:35:03.200
+End: 00:35:04.200
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:04.200
+End: 00:35:05.200
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:05.200
+End: 00:35:10.200
+Duration: 5.000 seconds
+Text: And I guess next on the agenda, I'm supposed to provide remarks to the upcoming years, but I learned
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:10.200
+End: 00:35:14.200
+Duration: 4.000 seconds
+Text: one thing from Mayor Hattisall and that is, you know, we don't need to have long speeches.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:14.200
+End: 00:35:18.200
+Duration: 4.000 seconds
+Text: So I've got three simple comments.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:18.200
+End: 00:35:21.800
+Duration: 3.600 seconds
+Text: The biggest challenge we've got for next year is, of course, Ron is going to retire in
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:21.800
+End: 00:35:22.800
+Duration: 1.000 seconds
+Text: April.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:22.800
+End: 00:35:26.800
+Duration: 4.000 seconds
+Text: And so the commission's got to pick a very good replacement.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:26.800
+End: 00:35:30.200
+Duration: 3.400 seconds
+Text: And that's probably the most important thing that's going to happen.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:30.200
+End: 00:35:34.720
+Duration: 4.520 seconds
+Text: The second thing for me is, I want to see the middle of it come down a little bit lower than
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:34.720
+End: 00:35:36.200
+Duration: 1.480 seconds
+Text: it was last year.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:36.200
+End: 00:35:40.160
+Duration: 3.960 seconds
+Text: And I think, you know, Gary Olds for sure will appreciate that because he comes to talk
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:40.160
+End: 00:35:42.280
+Duration: 2.120 seconds
+Text: about it every meeting.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:42.280
+End: 00:35:46.800
+Duration: 4.520 seconds
+Text: And then the last thing is, in order to get anything done in the city, it takes three votes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:46.800
+End: 00:35:50.880
+Duration: 4.080 seconds
+Text: And so we're going to do the best we can to reach consensus on all the various things that
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:50.880
+End: 00:35:52.800
+Duration: 1.920 seconds
+Text: come before the commission.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:52.800
+End: 00:35:56.760
+Duration: 3.960 seconds
+Text: And as Ron mentioned this morning on the radio, that pretty much happens most of the time
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:56.760
+End: 00:35:57.760
+Duration: 1.000 seconds
+Text: here.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:35:57.760
+End: 00:36:04.760
+Duration: 7.000 seconds
+Text: So on that note, we'll move on to the next big item, which is new business on the consent
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:04.760
+End: 00:36:06.160
+Duration: 1.400 seconds
+Text: agenda.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:06.160
+End: 00:36:10.400
+Duration: 4.240 seconds
+Text: So items on the consent agenda are those of routine and housekeeping nature or those items
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:10.400
+End: 00:36:15.480
+Duration: 5.080 seconds
+Text: which have previously been reviewed by the city commission and may be approved on one
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:15.480
+End: 00:36:16.480
+Duration: 1.000 seconds
+Text: motion.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:16.480
+End: 00:36:20.840
+Duration: 4.360 seconds
+Text: A commissioner may request an item be removed for separate discussion considered immediately
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:20.840
+End: 00:36:23.320
+Duration: 2.480 seconds
+Text: following the consent agenda.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:23.320
+End: 00:36:25.360
+Duration: 2.040 seconds
+Text: And we also take public comments.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:25.360
+End: 00:36:30.520
+Duration: 5.160 seconds
+Text: So are there any public comments on the new business consent agenda?
+--------------------------------------------------
+Member of the Public:
+Start: 00:36:30.520
+End: 00:36:31.520
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:31.520
+End: 00:36:36.720
+Duration: 5.200 seconds
+Text: Seeing none, we'll take commissioner comments.
+--------------------------------------------------
+Member of the Public:
+Start: 00:36:36.720
+End: 00:36:37.720
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:37.720
+End: 00:36:44.560
+Duration: 6.840 seconds
+Text: If there's no commissioner comments, then we'll take a motion to approve one item.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:44.560
+End: 00:36:47.720
+Duration: 3.160 seconds
+Text: I think two items that are on there.
+--------------------------------------------------
+Member of the Public:
+Start: 00:36:47.720
+End: 00:36:51.720
+Duration: 4.000 seconds
+Text: I move we accept the new business consent agenda.
+--------------------------------------------------
+City Clerk:
+Start: 00:36:51.720
+End: 00:36:52.720
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Member of the Public:
+Start: 00:36:52.720
+End: 00:36:53.720
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:53.720
+End: 00:36:55.520
+Duration: 1.800 seconds
+Text: We have a motion in a second.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:55.520
+End: 00:36:58.040
+Duration: 2.520 seconds
+Text: The city clerk, can you please call the roll?
+--------------------------------------------------
+City Clerk:
+Start: 00:36:58.040
+End: 00:36:59.040
+Duration: 1.000 seconds
+Text: Commissioner O'Palt.
+--------------------------------------------------
+Member of the Public:
+Start: 00:36:59.040
+End: 00:37:00.040
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:37:00.040
+End: 00:37:01.040
+Duration: 1.000 seconds
+Text: Commissioner Mata.
+--------------------------------------------------
+Member of the Public:
+Start: 00:37:01.040
+End: 00:37:02.040
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:37:02.040
+End: 00:37:03.040
+Duration: 1.000 seconds
+Text: Mayor Butler.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:03.040
+End: 00:37:04.040
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:37:04.040
+End: 00:37:05.240
+Duration: 1.200 seconds
+Text: Commissioner Adam Jack.
+--------------------------------------------------
+City Clerk:
+Start: 00:37:05.240
+End: 00:37:06.240
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:37:06.240
+End: 00:37:07.240
+Duration: 1.000 seconds
+Text: Commissioner McCollough.
+--------------------------------------------------
+City Clerk:
+Start: 00:37:07.240
+End: 00:37:08.240
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:37:08.240
+End: 00:37:09.240
+Duration: 1.000 seconds
+Text: Motion carries.
+--------------------------------------------------
+City Clerk:
+Start: 00:37:09.240
+End: 00:37:10.240
+Duration: 1.000 seconds
+Text: Five to zero.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:10.240
+End: 00:37:11.240
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:11.240
+End: 00:37:17.200
+Duration: 5.960 seconds
+Text: And the next and final item on the agenda tonight is a general agenda item which is to consider
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:17.200
+End: 00:37:28.000
+Duration: 10.800 seconds
+Text: allowing outside city connection to city water system for 2,909 college Avenue.
+--------------------------------------------------
+Member of the Public:
+Start: 00:37:28.000
+End: 00:37:31.520
+Duration: 3.520 seconds
+Text: Mr. Randi Duet, assistant director for utilities.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:37:31.520
+End: 00:37:33.560
+Duration: 2.040 seconds
+Text: Thank you, Mayor commissioners.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:37:33.560
+End: 00:37:37.800
+Duration: 4.240 seconds
+Text: As Mayor said, we have a consideration for a request for city services, for city water
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:37:37.800
+End: 00:37:43.240
+Duration: 5.440 seconds
+Text: services, for the property that is located outside of the city limits.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:37:43.240
+End: 00:37:48.200
+Duration: 4.960 seconds
+Text: So just general background information on the request, the property is located north of
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:37:48.200
+End: 00:37:55.600
+Duration: 7.400 seconds
+Text: Marlotte Avenue on college Avenue between Satchel Avenue and Doug McBullibard.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:37:55.600
+End: 00:38:02.600
+Duration: 7.000 seconds
+Text: A little closer up map showing the property in relation to the inner
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:38:02.600
+End: 00:38:04.080
+Duration: 1.480 seconds
+Text: avenue and Marlotte Avenue.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:38:04.080
+End: 00:38:09.800
+Duration: 5.720 seconds
+Text: So the property in blue is the property that making a request.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:38:09.800
+End: 00:38:13.840
+Duration: 4.040 seconds
+Text: On the east side of college Avenue is a six inch city water line that will be able to serve
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:38:13.840
+End: 00:38:19.680
+Duration: 5.840 seconds
+Text: the property that property that water line currently only serves K state.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:38:19.680
+End: 00:38:24.000
+Duration: 4.320 seconds
+Text: The livestock units.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:38:24.000
+End: 00:38:26.000
+Duration: 2.000 seconds
+Text: A little background on the request.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:38:26.000
+End: 00:38:29.280
+Duration: 3.280 seconds
+Text: So the owner is Timothy and Patricia Thomas.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:38:29.280
+End: 00:38:35.040
+Duration: 5.760 seconds
+Text: Existing property has one single family residential structure and the request is for water services
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:38:35.040
+End: 00:38:38.160
+Duration: 3.120 seconds
+Text: only.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:38:38.160
+End: 00:38:42.080
+Duration: 3.920 seconds
+Text: I wanted to also provide a little background on these requests in general and what goes
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:38:42.080
+End: 00:38:44.400
+Duration: 2.320 seconds
+Text: into them.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:38:44.400
+End: 00:38:49.040
+Duration: 4.640 seconds
+Text: These are pretty much template agreements that we have for these outside city service
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:38:49.040
+End: 00:38:50.040
+Duration: 1.000 seconds
+Text: requests.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:38:50.440
+End: 00:38:55.000
+Duration: 4.560 seconds
+Text: They're all essentially the same, usually traditionally these have been a consent agenda
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:38:55.000
+End: 00:38:59.240
+Duration: 4.240 seconds
+Text: item because they're relatively routine.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:38:59.240
+End: 00:39:05.560
+Duration: 6.320 seconds
+Text: They all contain provisions that require the owner to follow all city ordinances regarding
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:39:05.560
+End: 00:39:11.120
+Duration: 5.560 seconds
+Text: water use or the discharge of sanitary sewer to discharge of wastewater to the sanitary
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:39:11.120
+End: 00:39:13.480
+Duration: 2.360 seconds
+Text: sewer system.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:39:13.480
+End: 00:39:19.320
+Duration: 5.840 seconds
+Text: They all contain provisions that require the owners to pay surcharges on their system development
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:39:19.320
+End: 00:39:21.640
+Duration: 2.320 seconds
+Text: charges and their monthly water and sewer fees.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:39:21.640
+End: 00:39:27.720
+Duration: 6.080 seconds
+Text: So for the water side it's double and for the wastewater side it's one and a half times.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:39:27.720
+End: 00:39:33.520
+Duration: 5.800 seconds
+Text: And they all include provisions that require the owner to essentially consent to annexation
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:39:33.520
+End: 00:39:38.720
+Duration: 5.200 seconds
+Text: should the city ever have the desire the need to annex the property.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:39:38.720
+End: 00:39:44.560
+Duration: 5.840 seconds
+Text: They also agree not to petition the annexation of any property located within 200 feet of
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:39:44.560
+End: 00:39:47.080
+Duration: 2.520 seconds
+Text: the subject property.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:39:47.080
+End: 00:39:53.680
+Duration: 6.600 seconds
+Text: So the reason we're here today as a general discussion item is because last year city
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:39:53.680
+End: 00:40:01.040
+Duration: 7.360 seconds
+Text: staff got together and decided that traditionally this was a request that we would get and city
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:40:01.040
+End: 00:40:04.180
+Duration: 3.140 seconds
+Text: staff would generally just look at whether or not we had the infrastructure to serve the
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:40:04.180
+End: 00:40:05.180
+Duration: 1.000 seconds
+Text: property.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:40:05.180
+End: 00:40:09.760
+Duration: 4.580 seconds
+Text: If we did we would generally recommend yes let's provide service for the property.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:40:09.760
+End: 00:40:16.360
+Duration: 6.600 seconds
+Text: And like I said it was a pretty general consent item not a lot of discussion.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:40:16.360
+End: 00:40:22.200
+Duration: 5.840 seconds
+Text: We decided that we wanted to have a more thorough review of these requests even looked at
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:40:22.200
+End: 00:40:28.480
+Duration: 6.280 seconds
+Text: adapting or establishing a policy to help us make our decision as whether or whether
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:40:28.480
+End: 00:40:33.320
+Duration: 4.840 seconds
+Text: or not we would request that we approve or recommend that we approve the connection or
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:40:33.320
+End: 00:40:37.000
+Duration: 3.680 seconds
+Text: recommend that we deny it and require annexation.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:40:37.000
+End: 00:40:43.960
+Duration: 6.960 seconds
+Text: So city staff developed a list of right now it's 16 criteria that we review.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:40:43.960
+End: 00:40:48.120
+Duration: 4.160 seconds
+Text: Much of them are criteria that public works considers.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:40:48.120
+End: 00:40:51.480
+Duration: 3.360 seconds
+Text: This is a list of the seven items that we look at.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:40:51.480
+End: 00:40:57.320
+Duration: 5.840 seconds
+Text: There are also some community development considerations that we review and we can talk
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:40:57.320
+End: 00:41:00.040
+Duration: 2.720 seconds
+Text: about these in a little bit more detail if you'd like.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:41:00.040
+End: 00:41:05.200
+Duration: 5.160 seconds
+Text: And then there's some considerations for the fire department and the risk reduction department
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:41:05.200
+End: 00:41:06.200
+Duration: 1.000 seconds
+Text: that we look at.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:41:06.200
+End: 00:41:09.720
+Duration: 3.520 seconds
+Text: I'm going to backtrack a little bit I forgot to mention that one of the new requirements
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:41:09.800
+End: 00:41:13.760
+Duration: 3.960 seconds
+Text: of these agreements is that any new structures being built on the property also meet city
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:41:13.760
+End: 00:41:14.760
+Duration: 1.000 seconds
+Text: building codes.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:41:14.760
+End: 00:41:19.200
+Duration: 4.440 seconds
+Text: So that was new as of last year.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:41:19.200
+End: 00:41:22.720
+Duration: 3.520 seconds
+Text: The reason that we wanted to go through this more thorough process is because we started
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:41:22.720
+End: 00:41:29.320
+Duration: 6.600 seconds
+Text: to see some outside city properties requesting services where development had occurred around
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:41:29.320
+End: 00:41:35.080
+Duration: 5.760 seconds
+Text: it and maybe somebody was proposing use that didn't meet the criteria that we wanted
+--------------------------------------------------
+Member of the Public:
+Start: 00:41:35.080
+End: 00:41:36.080
+Duration: 1.000 seconds
+Text: for it.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:41:36.080
+End: 00:41:43.520
+Duration: 7.440 seconds
+Text: So a lot of that comes into what we consider what community development considers is if
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:41:43.520
+End: 00:41:50.080
+Duration: 6.560 seconds
+Text: the use proposed meets the zoning requirements or if it's consistent with the urban area
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:41:50.080
+End: 00:41:52.680
+Duration: 2.600 seconds
+Text: comprehensive plan.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:41:52.680
+End: 00:41:57.160
+Duration: 4.480 seconds
+Text: For public works we look at whether or not they already have one of those other services.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:41:57.160
+End: 00:42:00.960
+Duration: 3.800 seconds
+Text: We look at if there's any special characteristic in their waste for as far as what they're
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:42:00.960
+End: 00:42:05.960
+Duration: 5.000 seconds
+Text: going to discharge the sewer system or if they're a high high demand water user.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:42:05.960
+End: 00:42:11.040
+Duration: 5.080 seconds
+Text: So that in general is why we are bringing these to you guys to the commission as a general
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:42:11.040
+End: 00:42:13.680
+Duration: 2.640 seconds
+Text: agenda item for more discussion.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:42:13.680
+End: 00:42:17.360
+Duration: 3.680 seconds
+Text: This particular request is pretty straightforward.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:42:17.360
+End: 00:42:23.440
+Duration: 6.080 seconds
+Text: So after we went through this criteria we state staff recommended that we allow the connections
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:42:23.440
+End: 00:42:27.520
+Duration: 4.080 seconds
+Text: without requiring annexation.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:42:27.520
+End: 00:42:32.600
+Duration: 5.080 seconds
+Text: A little bit more background on these considerations at this time these are just discussion points
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:42:32.600
+End: 00:42:34.080
+Duration: 1.480 seconds
+Text: for city staff.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:42:34.080
+End: 00:42:39.920
+Duration: 5.840 seconds
+Text: There is no set number of these criteria that we look at to say if we say yes to half
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:42:39.920
+End: 00:42:44.720
+Duration: 4.800 seconds
+Text: of these then that means we're going to require annexation or not require annexation.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:42:44.720
+End: 00:42:51.240
+Duration: 6.520 seconds
+Text: So at some point in the future we will have a policy that has a more I guess rigid guideline
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:42:51.240
+End: 00:42:53.520
+Duration: 2.280 seconds
+Text: for making that recommendation.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:42:53.520
+End: 00:42:58.440
+Duration: 4.920 seconds
+Text: But for now this is what we have and this is the recommendation we've made for this
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:42:58.440
+End: 00:43:00.480
+Duration: 2.040 seconds
+Text: particular request.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:43:00.480
+End: 00:43:05.920
+Duration: 5.440 seconds
+Text: So with that I'll turn it over for any questions that you might have.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:43:05.920
+End: 00:43:11.040
+Duration: 5.120 seconds
+Text: Sorry I couldn't come up with something more interesting for your first meeting.
+--------------------------------------------------
+Member of the Public:
+Start: 00:43:11.040
+End: 00:43:13.920
+Duration: 2.880 seconds
+Text: No this is a good layup it's nice.
+--------------------------------------------------
+Member of the Public:
+Start: 00:43:13.920
+End: 00:43:20.400
+Duration: 6.480 seconds
+Text: But so just in general like when I looked at this it's not adjacent to any city limits
+--------------------------------------------------
+Member of the Public:
+Start: 00:43:20.400
+End: 00:43:22.480
+Duration: 2.080 seconds
+Text: or anything like that.
+--------------------------------------------------
+Member of the Public:
+Start: 00:43:22.480
+End: 00:43:27.680
+Duration: 5.200 seconds
+Text: Basically this would just be it's kind of easy enough just to give them the access to
+--------------------------------------------------
+Member of the Public:
+Start: 00:43:27.680
+End: 00:43:30.520
+Duration: 2.840 seconds
+Text: water they'll pay a little bit more in their water bill.
+--------------------------------------------------
+Member of the Public:
+Start: 00:43:30.520
+End: 00:43:34.640
+Duration: 4.120 seconds
+Text: If we were to annex then they would have to pay city property taxes.
+--------------------------------------------------
+Member of the Public:
+Start: 00:43:34.640
+End: 00:43:39.240
+Duration: 4.600 seconds
+Text: But would we still then have to provide them sewer and things like that?
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:43:39.240
+End: 00:43:43.920
+Duration: 4.680 seconds
+Text: Not necessarily but that is one of the considerations the fact that this subdivision does not have
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:43:43.920
+End: 00:43:49.560
+Duration: 5.640 seconds
+Text: access to public sewer and we would prefer that if they did have both we would typically
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:43:49.560
+End: 00:43:52.760
+Duration: 3.200 seconds
+Text: look a little bit closer at annexing them.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:43:52.760
+End: 00:43:58.080
+Duration: 5.320 seconds
+Text: We don't really have a strong desire to annex a property that has a septic system.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:43:58.080
+End: 00:44:03.840
+Duration: 5.760 seconds
+Text: In order to look at that more closely we've had a lot of requests for city services in
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:44:03.840
+End: 00:44:08.360
+Duration: 4.520 seconds
+Text: this neighborhood we just don't have the means to provide it at this time.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:44:08.360
+End: 00:44:16.520
+Duration: 8.160 seconds
+Text: If there was a combined effort by either the subdivision the owners to come to the city
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:44:16.520
+End: 00:44:21.040
+Duration: 4.520 seconds
+Text: to put together a benefit district of some sort we certainly would look at it.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:44:21.040
+End: 00:44:24.600
+Duration: 3.560 seconds
+Text: They would have to fund the construction of that infrastructure if we wanted to do something
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:44:24.600
+End: 00:44:25.600
+Duration: 1.000 seconds
+Text: like that.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:44:25.600
+End: 00:44:29.760
+Duration: 4.160 seconds
+Text: But right now since the city does not have the infrastructure there in order we really
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:44:29.760
+End: 00:44:36.520
+Duration: 6.760 seconds
+Text: have to desire to fund that infrastructure for them this is the best solution we have.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:44:36.520
+End: 00:44:40.120
+Duration: 3.600 seconds
+Text: For this property this is one of the very few properties within that subdivision that
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:44:40.120
+End: 00:44:44.280
+Duration: 4.160 seconds
+Text: actually has access to city infrastructure.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:44:44.280
+End: 00:44:48.200
+Duration: 3.920 seconds
+Text: We can't really find a great reason to stick our necks out there and say no we shouldn't
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:44:48.200
+End: 00:44:49.200
+Duration: 1.000 seconds
+Text: provide it.
+--------------------------------------------------
+Member of the Public:
+Start: 00:44:49.200
+End: 00:44:53.680
+Duration: 4.480 seconds
+Text: And then you said any future building that they do on the property will have to meet city
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:44:53.680
+End: 00:44:54.680
+Duration: 1.000 seconds
+Text: code.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:44:54.680
+End: 00:44:55.680
+Duration: 1.000 seconds
+Text: Absolutely.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:44:55.680
+End: 00:44:59.360
+Duration: 3.680 seconds
+Text: And then additionally within those agreements any future building they have to come back
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:44:59.360
+End: 00:45:01.000
+Duration: 1.640 seconds
+Text: to us for written permission as well.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:45:01.000
+End: 00:45:05.000
+Duration: 4.000 seconds
+Text: So if they wanted to put another building in a stand water service to it we'd have to
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:45:05.000
+End: 00:45:06.920
+Duration: 1.920 seconds
+Text: come back and amend this agreement to allow it.
+--------------------------------------------------
+Member of the Public:
+Start: 00:45:06.920
+End: 00:45:10.560
+Duration: 3.640 seconds
+Text: But that doesn't include like remodel or anything like that of the existing infrastructure.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:45:10.560
+End: 00:45:11.960
+Duration: 1.400 seconds
+Text: Not necessarily.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:45:11.960
+End: 00:45:15.720
+Duration: 3.760 seconds
+Text: If the use is going to remain the same.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:45:15.720
+End: 00:45:19.840
+Duration: 4.120 seconds
+Text: And that gives us another reason if they wanted to change the zoning or something like that
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:45:19.840
+End: 00:45:26.760
+Duration: 6.920 seconds
+Text: that didn't meet the comprehensive plan or zoning regs we probably withdraw that wouldn't
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:45:26.760
+End: 00:45:27.760
+Duration: 1.000 seconds
+Text: allow it.
+--------------------------------------------------
+Member of the Public:
+Start: 00:45:27.760
+End: 00:45:30.080
+Duration: 2.320 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:45:30.080
+End: 00:45:33.080
+Duration: 3.000 seconds
+Text: So they've got adequate space for a septic system?
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:45:33.080
+End: 00:45:34.080
+Duration: 1.000 seconds
+Text: It would appear so yeah.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:45:34.080
+End: 00:45:36.960
+Duration: 2.880 seconds
+Text: Then again that's the county's decision.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:45:36.960
+End: 00:45:38.680
+Duration: 1.720 seconds
+Text: We don't typically regulate a septic system.
+--------------------------------------------------
+Member of the Public:
+Start: 00:45:38.680
+End: 00:45:43.160
+Duration: 4.480 seconds
+Text: But if they tried to put another house on the property they wouldn't have probably.
+--------------------------------------------------
+Member of the Public:
+Start: 00:45:43.160
+End: 00:45:44.160
+Duration: 1.000 seconds
+Text: Not necessarily.
+--------------------------------------------------
+City Clerk:
+Start: 00:45:44.160
+End: 00:45:51.920
+Duration: 7.760 seconds
+Text: And to that was that nearby group that we annexed off of Browning.
+--------------------------------------------------
+Member of the Public:
+Start: 00:45:51.920
+End: 00:45:52.920
+Duration: 1.000 seconds
+Text: Sergeant?
+--------------------------------------------------
+Member of the Public:
+Start: 00:45:52.920
+End: 00:45:53.920
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:45:53.920
+End: 00:45:54.920
+Duration: 1.000 seconds
+Text: Sergeant addition.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:45:54.920
+End: 00:45:55.920
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:45:55.920
+End: 00:45:56.920
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:45:56.920
+End: 00:45:57.920
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:45:57.920
+End: 00:46:00.080
+Duration: 2.160 seconds
+Text: I guess that that would take a bigger effort with a combination of city staff or county staff
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:46:00.080
+End: 00:46:08.400
+Duration: 8.320 seconds
+Text: working together to resolve that issue.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:46:08.400
+End: 00:46:12.320
+Duration: 3.920 seconds
+Text: Is there any public comment on this particular item?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:46:13.320
+End: 00:46:14.320
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:46:14.320
+End: 00:46:15.320
+Duration: 1.000 seconds
+Text: Seeing none will close public comments.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:46:15.320
+End: 00:46:17.320
+Duration: 2.000 seconds
+Text: I want to say that's a great criterion list.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:46:17.320
+End: 00:46:18.320
+Duration: 1.000 seconds
+Text: It came up with there.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:46:18.320
+End: 00:46:22.440
+Duration: 4.120 seconds
+Text: A good way to analyze that because we do quite a few of those.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:46:22.440
+End: 00:46:24.080
+Duration: 1.640 seconds
+Text: So I appreciate that.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:46:24.080
+End: 00:46:28.560
+Duration: 4.480 seconds
+Text: I'm not so sure we want to have a matrix that says this many right or wrong.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:46:28.560
+End: 00:46:34.000
+Duration: 5.440 seconds
+Text: I think just evaluating that for each one is probably sufficient and then make a judgment
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:46:34.000
+End: 00:46:39.720
+Duration: 5.720 seconds
+Text: based on each individual property as opposed to say you need seven yeses in order for
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:46:39.720
+End: 00:46:40.720
+Duration: 1.000 seconds
+Text: it to qualify.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:46:41.360
+End: 00:46:42.960
+Duration: 1.600 seconds
+Text: That's my only thought on that.
+--------------------------------------------------
+Commissioner Susan Adamcheck:
+Start: 00:46:42.960
+End: 00:46:43.960
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:46:43.960
+End: 00:46:46.160
+Duration: 2.200 seconds
+Text: So any other commissioner comments?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:46:46.160
+End: 00:46:47.160
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:46:47.160
+End: 00:46:52.160
+Duration: 5.000 seconds
+Text: Well, in that note, I guess we can entertain a motion.
+--------------------------------------------------
+Member of the Public:
+Start: 00:46:52.160
+End: 00:46:56.760
+Duration: 4.600 seconds
+Text: I'll move that we authorize the mayor and city clerk to execute an agreement with Timothy
+--------------------------------------------------
+Member of the Public:
+Start: 00:46:56.760
+End: 00:47:02.000
+Duration: 5.240 seconds
+Text: E. Thomas and Patricia C. Thomas for outside city limits water system connection for the
+--------------------------------------------------
+Member of the Public:
+Start: 00:47:02.000
+End: 00:47:06.800
+Duration: 4.800 seconds
+Text: property located at 2909 College Avenue Manhattan, Kansas, Riley County.
+--------------------------------------------------
+Member of the Public:
+Start: 00:47:07.800
+End: 00:47:08.800
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:47:08.800
+End: 00:47:12.800
+Duration: 4.000 seconds
+Text: We have a motion in a second.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:47:12.800
+End: 00:47:14.800
+Duration: 2.000 seconds
+Text: City clerk, could you please call the roll?
+--------------------------------------------------
+City Clerk:
+Start: 00:47:14.800
+End: 00:47:15.800
+Duration: 1.000 seconds
+Text: Mr. Mata.
+--------------------------------------------------
+Member of the Public:
+Start: 00:47:15.800
+End: 00:47:16.800
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:47:16.800
+End: 00:47:17.800
+Duration: 1.000 seconds
+Text: Mayor Butler.
+--------------------------------------------------
+City Clerk:
+Start: 00:47:17.800
+End: 00:47:18.800
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:47:18.800
+End: 00:47:19.800
+Duration: 1.000 seconds
+Text: Commissioner Adam check.
+--------------------------------------------------
+Member of the Public:
+Start: 00:47:19.800
+End: 00:47:20.800
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:47:20.800
+End: 00:47:21.800
+Duration: 1.000 seconds
+Text: Commissioner Colo.
+--------------------------------------------------
+Member of the Public:
+Start: 00:47:21.800
+End: 00:47:22.800
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:47:22.800
+End: 00:47:23.800
+Duration: 1.000 seconds
+Text: Commissioner O'Poe.
+--------------------------------------------------
+Member of the Public:
+Start: 00:47:23.800
+End: 00:47:24.800
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:47:24.800
+End: 00:47:26.800
+Duration: 2.000 seconds
+Text: Motion carries 5-0.
+--------------------------------------------------
+Member of the Public:
+Start: 00:47:26.800
+End: 00:47:28.800
+Duration: 2.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:47:28.800
+End: 00:47:31.800
+Duration: 3.000 seconds
+Text: That concludes the final item on the agenda.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:47:31.800
+End: 00:47:35.800
+Duration: 4.000 seconds
+Text: You know, only a 47 minute meeting still not as good as what Mark did.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:47:35.800
+End: 00:47:38.720
+Duration: 2.920 seconds
+Text: He had a 17 minute meeting one time.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:47:38.720
+End: 00:47:42.800
+Duration: 4.080 seconds
+Text: But on that note, is there a motion to adjourn?
+--------------------------------------------------
+Member of the Public:
+Start: 00:47:42.800
+End: 00:47:43.800
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Member of the Public:
+Start: 00:47:43.800
+End: 00:47:49.800
+Duration: 6.000 seconds
+Text: I'll move to adjourn the January 8th, 2024 city commission meeting.
+--------------------------------------------------
+Member of the Public:
+Start: 00:47:49.800
+End: 00:47:50.800
+Duration: 1.000 seconds
+Text: And I second.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:47:50.800
+End: 00:47:52.600
+Duration: 1.800 seconds
+Text: Can we have a motion in a second?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:47:52.600
+End: 00:47:54.400
+Duration: 1.800 seconds
+Text: City clerk, can you please call the roll?
+--------------------------------------------------
+City Clerk:
+Start: 00:47:54.400
+End: 00:47:55.400
+Duration: 1.000 seconds
+Text: Mayor Butler.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:47:55.400
+End: 00:47:56.400
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:47:56.400
+End: 00:47:57.400
+Duration: 1.000 seconds
+Text: Commissioner Adam check.
+--------------------------------------------------
+City Clerk:
+Start: 00:47:57.400
+End: 00:47:58.400
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:47:58.400
+End: 00:47:59.400
+Duration: 1.000 seconds
+Text: Commissioner McCullough.
+--------------------------------------------------
+City Clerk:
+Start: 00:47:59.400
+End: 00:48:00.400
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Member of the Public:
+Start: 00:48:00.400
+End: 00:48:01.400
+Duration: 1.000 seconds
+Text: Commissioner O'Poe.
+--------------------------------------------------
+City Clerk:
+Start: 00:48:01.400
+End: 00:48:02.400
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Member of the Public:
+Start: 00:48:02.400
+End: 00:48:03.400
+Duration: 1.000 seconds
+Text: Commissioner Mata.
+--------------------------------------------------
+City Clerk:
+Start: 00:48:03.400
+End: 00:48:04.400
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:48:04.400
+End: 00:48:05.400
+Duration: 1.000 seconds
+Text: Commissioner O'Poe.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:48:05.400
+End: 00:48:06.400
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:48:06.400
+End: 00:48:07.400
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:48:07.400
+End: 00:48:08.400
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Member of the Public:
+Start: 00:48:08.400
+End: 00:48:10.400
+Duration: 2.000 seconds
+Text: On that note, the meeting is adjourned.
+--------------------------------------------------

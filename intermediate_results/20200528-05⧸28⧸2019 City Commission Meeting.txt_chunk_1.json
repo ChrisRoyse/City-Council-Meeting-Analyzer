@@ -1,0 +1,209 @@
+{
+  "open_ended_analysis": {
+    "primary_themes": [
+      {
+        "theme": "City Activities",
+        "description": "Discussion of available city activities, notably the activities available through the website and the seasonal offerings like pools.",
+        "notable_points": [
+          "The importance of engaging with city activities",
+          "The influence of seasonal weather on available activities"
+        ]
+      },
+      {
+        "theme": "Memorial Day Celebration",
+        "description": "Recognition of the Memorial Day celebrations that took place in Manhattan, Kansas, and the remembrance for those who served and sacrificed their lives for the country.",
+        "notable_points": [
+          "The number of American lives lost defending freedom",
+          "Appreciation for the American Legion and the Municipal Band"
+        ]
+      },
+      {
+        "theme": "Flooding Concerns and Future Planning",
+        "description": "Flooding risks, updates on the reservoir levels, and future predictions and plans for that issue. An emphasis on emergency responses and steps were put in place.",
+        "notable_points": [
+          "Potential danger posed by rising water levels",
+          "The available resources and preparations for potential emergencies"
+        ]
+      },
+      {
+        "theme": "Parking Management and Regulations",
+        "description": "Discussion of instituting or changing parking regulations in specific areas, such as Research Park Drive and Research Park Circle.",
+        "notable_points": [
+          "Potential impact on local businesses and residents",
+          "Discussion on gradual change vs immediate change"
+        ]
+      }
+    ],
+    "significant_discussions": [
+      {
+        "topic": "Proposed Rezoning of 9-11 Sunset Avenue",
+        "significance": "The change in zoning could potentially affect the nature of the area, effectively changing the type of buildings that would be allowed there.",
+        "stakeholders": [
+          "City council",
+          "Local residents",
+          "Potential developers"
+        ]
+      },
+      {
+        "topic": "Professional Services Agreements and Project Authorization Resolutions",
+        "significance": "These agreements would authorize significant construction and development projects within the city.",
+        "stakeholders": [
+          "City council",
+          "Local residents",
+          "Construction companies",
+          "Potential developers"
+        ]
+      }
+    ],
+    "unexpected_elements": [
+      {
+        "element": "Discrepancy in agenda items",
+        "context": "During the discussion of the consent agenda, there was confusion about the appropriate letter labels for the items. This confusion generated additional discussion and resulted in one item being withdrawn for further clarification."
+      }
+    ]
+  },
+  "directed_analysis": {
+    "land_use": {
+      "present": true,
+      "significance": "Medium",
+      "context": "Land use discussions focused on various projects, including street renovations, a reservoir overview, and rezoning. The rezoning involved enabling an apartment building to accommodate more units. Considerations related to parking, both in the context of proposed downtown parking and with regards to the Research Park, were also discussed at length.",
+      "notable_points": [
+        "Rezoning of 9-11 Sunset Avenue to RM4 Family Residential District was approved",
+        "Discussions were held regarding parking concerns in the Research Park"
+      ]
+    },
+    "economic_development": {
+      "present": true,
+      "significance": "Medium",
+      "context": "Economic development aspects revolved around the anticipated improvement in infrastructure through proposed street improvement projects, which could attract more businesses and residents, promoting economic growth. Concern related to how regulations surrounding parking, particularly in the Research Park area, might affect business investment and startups.",
+      "notable_points": [
+        "Consideration of proposed street improvement projects",
+        "Concerns raised around parking restrictions potentially discouraging business investment in Research Park"
+      ]
+    },
+    "taxes_budget": {
+      "present": true,
+      "significance": "Medium",
+      "context": "Although not explicitly discussed in terms of 'taxes' or 'budget', the undertone of financial responsibility and spending priorities was present in the discussion about the proposed professional services agreements for various street repair and improvements.",
+      "notable_points": [
+        "Consideration of professional services agreements for various street repair and improvements"
+      ]
+    },
+    "other_significant_topics": [
+      {
+        "topic": "Community Engagement and Memorial Celebration",
+        "significance": "Low",
+        "context": "Dr. Lind reminded the public about the variety of activities available in the city and recognized Memorial Day celebrations in the community."
+      },
+      {
+        "topic": "Emergency measures for potential flood",
+        "significance": "High",
+        "context": "There was a detailed update and discussion around the flood threats, including briefings about lake elevation levels, potential release rates, and preparatory measures. An Emergency Operations Center and a hotline existed for flood-related inquiries. Potential evacuation plans were also mentioned."
+      }
+    ]
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 6,
+      "speaking_time": {
+        "Transcription and Diarization for 20200528-05\u29f828\u29f82019 City Commission Meeting.mp4": 7.0,
+        "Mayor Dawson": 280.8,
+        "Commissioner York": 352.91999999999996,
+        "Trevor McKeeman": 867.0,
+        "Commissioner McKee": 278.04,
+        "City Manager": 1130.0
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [
+        "Mayor Dawson",
+        "City Manager",
+        "Trevor McKeeman"
+      ],
+      "observation": "Mayor Dawson and City Manager appear to lead the meeting due to their respective roles in local government. They tend to speak the most and guide the discussion. Trevor McKeeman, a member of the public, also speaks extensively and generates significant discussion, showing his influence during the meeting."
+    },
+    "interaction_patterns": {
+      "pattern": "Speakers are respectful and take turns talking. Many conversations are led by Mayor Dawson or the City Manager, and then others respond or ask questions.",
+      "notable_exchanges": [
+        "Conversation about Research Park parking issue led by Trevor McKeeman and responded by Mayor and Commissioners, Commissioner McKee\u2019s conversation on parking regulation issues."
+      ]
+    },
+    "topic_ownership": [
+      {
+        "speaker": "Mayor Dawson",
+        "topics": [
+          "City events and activities",
+          "Weather updates",
+          "City advancements",
+          "Emergency arrangements"
+        ]
+      },
+      {
+        "speaker": "City Manager",
+        "topics": [
+          "Flood status and anticipation",
+          "Emergency operations",
+          "Future developments and planning"
+        ]
+      },
+      {
+        "speaker": "Trevor McKeeman",
+        "topics": [
+          "Parking issue at Research Park Circle Drive"
+        ]
+      },
+      {
+        "speaker": "Commissioner McKee",
+        "topics": [
+          "Regulation of parking"
+        ]
+      }
+    ],
+    "public_participation": {
+      "level": "Medium",
+      "observation": "Two members of the public actively participated in the meeting, providing their opinion and contributing effectively to the discussion."
+    }
+  },
+  "emergent_patterns": {
+    "recurring_themes": [
+      {
+        "theme": "Community and outdoor activities",
+        "evidence": "Early in the meeting, council members discuss the variety of activities available to do in the city. The pools are mentioned specifically, indicating they may be a popular aspect of the city's community offerings."
+      },
+      {
+        "theme": "Weather and natural disasters",
+        "evidence": "The mayor discusses flood updates and emergency preparedness extensively in the meeting, indicating an ongoing community concern."
+      },
+      {
+        "theme": "Infrastructure improvements",
+        "evidence": "The council discusses rezoning areas and making improvements to the city streets, indicating a continuous commitment to improving the city's infrastructure."
+      }
+    ],
+    "underlying_tensions": [
+      {
+        "tension": "Balancing resource allocation for new infrastructures",
+        "between": [
+          "City council",
+          "public"
+        ],
+        "context": "Tensions arise over the allocation of resources for a new parking garage and the associated management plan, while also considering the impact on other areas of the city."
+      }
+    ],
+    "decision_patterns": {
+      "pattern": "Democratic decision making with public input",
+      "observation": "The city council invites community input, considers different perspectives, and then votes collectively on decisions."
+    },
+    "language_patterns": {
+      "formality": "High",
+      "technical_density": "Medium",
+      "emotional_tone": "Neutral",
+      "notable_features": [
+        "Use of specific and technical language during the discussions of infrastructure and emergency preparedness",
+        "Use of respectful and formal language while addressing fellow council members and the public"
+      ]
+    },
+    "other_insights": [
+      "The concerns of the public seem to be heavily factored into discussions, indicating a council that is responsive to its community."
+    ]
+  }
+}

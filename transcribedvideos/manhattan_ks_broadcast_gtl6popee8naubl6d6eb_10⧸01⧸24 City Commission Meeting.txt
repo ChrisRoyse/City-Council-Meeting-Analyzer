@@ -1,0 +1,5667 @@
+Transcription and Diarization for manhattan_ks_broadcast_gtl6popee8naubl6d6eb_10⧸01⧸24 City Commission Meeting.mp4
+==================================================
+
+Mayor Susan Annabcheck:
+Start: 00:00:00.000
+End: 00:00:03.500
+Duration: 3.500 seconds
+Text: Mayor Proto and McCullough?
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:00:03.500
+End: 00:00:05.000
+Duration: 1.500 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:00:05.000
+End: 00:00:06.940
+Duration: 1.940 seconds
+Text: Commissioner O'Palt?
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:00:06.940
+End: 00:00:07.740
+Duration: 0.800 seconds
+Text: Here.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:00:07.740
+End: 00:00:08.440
+Duration: 0.700 seconds
+Text: Commissioner Mata?
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:00:08.440
+End: 00:00:09.040
+Duration: 0.600 seconds
+Text: Here.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:00:09.040
+End: 00:00:09.780
+Duration: 0.740 seconds
+Text: Commissioner Mitten?
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:00:09.780
+End: 00:00:10.780
+Duration: 1.000 seconds
+Text: Here.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:00:10.780
+End: 00:00:12.920
+Duration: 2.140 seconds
+Text: Mayor Proto and we have four commissioners present.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:00:12.920
+End: 00:00:14.480
+Duration: 1.560 seconds
+Text: The quorum of three is met.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:00:14.480
+End: 00:00:15.720
+Duration: 1.240 seconds
+Text: Thank you very much.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:00:15.720
+End: 00:00:19.520
+Duration: 3.800 seconds
+Text: Would you join me in the pledge of allegiance?
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:00:19.520
+End: 00:00:22.760
+Duration: 3.240 seconds
+Text: I pledge allegiance to the blood of the United States
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:00:22.760
+End: 00:00:26.560
+Duration: 3.800 seconds
+Text: of America and to the Republic for which it stands,
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:00:26.560
+End: 00:00:29.400
+Duration: 2.840 seconds
+Text: one nation under God in this whole
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:00:29.400
+End: 00:00:33.640
+Duration: 4.240 seconds
+Text: with liberty and justice for all.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:00:33.640
+End: 00:00:34.160
+Duration: 0.520 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:00:40.000
+End: 00:00:42.480
+Duration: 2.480 seconds
+Text: We will do the proclamations.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:00:42.480
+End: 00:00:46.520
+Duration: 4.040 seconds
+Text: We'll start with the one for position and assistance.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:00:51.440
+End: 00:00:55.720
+Duration: 4.280 seconds
+Text: We've got Vivian Guerra and Sarah Borges.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:00:55.720
+End: 00:00:57.120
+Duration: 1.400 seconds
+Text: Borges.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:00:57.120
+End: 00:00:57.620
+Duration: 0.500 seconds
+Text: Borges.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:00:57.620
+End: 00:00:58.120
+Duration: 0.500 seconds
+Text: Borges.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:00:58.120
+End: 00:00:58.620
+Duration: 0.500 seconds
+Text: Borges.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:00:58.620
+End: 00:00:59.120
+Duration: 0.500 seconds
+Text: Borges.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:00:59.120
+End: 00:01:00.120
+Duration: 1.000 seconds
+Text: Borges.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:01:00.120
+End: 00:01:01.120
+Duration: 1.000 seconds
+Text: Borges.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:01:01.120
+End: 00:01:02.120
+Duration: 1.000 seconds
+Text: Borges.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:01:02.120
+End: 00:01:03.120
+Duration: 1.000 seconds
+Text: Borges.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:01:03.120
+End: 00:01:04.120
+Duration: 1.000 seconds
+Text: Borges.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:01:04.120
+End: 00:01:05.120
+Duration: 1.000 seconds
+Text: Borges.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:01:05.120
+End: 00:01:06.120
+Duration: 1.000 seconds
+Text: Borges.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:01:06.120
+End: 00:01:08.120
+Duration: 2.000 seconds
+Text: I need to speak.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:01:08.120
+End: 00:01:09.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:01:09.120
+End: 00:01:13.120
+Duration: 4.000 seconds
+Text: This is about physician's assistance.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:01:13.120
+End: 00:01:14.120
+Duration: 1.000 seconds
+Text: There's too many.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:01:14.120
+End: 00:01:15.120
+Duration: 1.000 seconds
+Text: There's too many.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:01:15.120
+End: 00:01:16.120
+Duration: 1.000 seconds
+Text: There's too many.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:01:16.120
+End: 00:01:19.120
+Duration: 3.000 seconds
+Text: You guys really are important and I'm really pleased
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:01:19.120
+End: 00:01:23.120
+Duration: 4.000 seconds
+Text: that we've realized that physician's assistance can do
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:01:23.120
+End: 00:01:26.120
+Duration: 3.000 seconds
+Text: a lot of things that we don't have to have an MD for.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:01:26.120
+End: 00:01:28.120
+Duration: 2.000 seconds
+Text: We are the mean adopters.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:01:28.120
+End: 00:01:35.120
+Duration: 7.000 seconds
+Text: I was on the state board for emergency services and I remember
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:01:35.120
+End: 00:01:37.120
+Duration: 2.000 seconds
+Text: this is a long time ago.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:01:37.120
+End: 00:01:41.120
+Duration: 4.000 seconds
+Text: Remember we talked about this because we had people out in
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:01:41.120
+End: 00:01:45.120
+Duration: 4.000 seconds
+Text: St. John's and you know, and could we have a PA or, you know,
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:01:45.120
+End: 00:01:48.120
+Duration: 3.000 seconds
+Text: and we decided we could.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:01:48.120
+End: 00:01:49.120
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:01:49.120
+End: 00:01:53.120
+Duration: 4.000 seconds
+Text: Whereas quality, cost effective and accessible patient,
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:01:53.120
+End: 00:01:57.120
+Duration: 4.000 seconds
+Text: patient-centered health care provided by a physician's
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:01:57.120
+End: 00:02:01.120
+Duration: 4.000 seconds
+Text: assistance contributes to the well-being and quality of life of
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:02:01.120
+End: 00:02:04.120
+Duration: 3.000 seconds
+Text: all patients in Manhattan, Kansas.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:02:04.120
+End: 00:02:09.120
+Duration: 5.000 seconds
+Text: And PA's are academically and clinically prepared medical
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:02:09.120
+End: 00:02:12.120
+Duration: 3.000 seconds
+Text: professionals who diagnose illness, develop and manage treatment
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:02:12.120
+End: 00:02:16.120
+Duration: 4.000 seconds
+Text: plans, and often serve as a patient's principal health care
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:02:16.120
+End: 00:02:18.120
+Duration: 2.000 seconds
+Text: provider.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:02:18.120
+End: 00:02:22.120
+Duration: 4.000 seconds
+Text: And PA's are often the first point of contact for many patients
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:02:22.120
+End: 00:02:25.120
+Duration: 3.000 seconds
+Text: and play a vital role in helping them understand their
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:02:25.120
+End: 00:02:31.120
+Duration: 6.000 seconds
+Text: medical needs and empower them to become effective advocates for their own health.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:02:31.120
+End: 00:02:35.120
+Duration: 4.000 seconds
+Text: And they are a valuable asset to the medical team.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:02:35.120
+End: 00:02:40.120
+Duration: 5.000 seconds
+Text: PA's enhanced the delivery of high quality health care for patients,
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:02:40.120
+End: 00:02:45.120
+Duration: 5.000 seconds
+Text: often, often, in medically underserved rural areas.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:02:45.120
+End: 00:02:49.120
+Duration: 4.000 seconds
+Text: And PA's have re-earned the respect of the general public for their
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:02:49.120
+End: 00:02:53.120
+Duration: 4.000 seconds
+Text: dedication and contributions to people's lives and for their commitment to
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:02:53.120
+End: 00:02:58.120
+Duration: 5.000 seconds
+Text: team-based care and they ensure delivery of effective and efficient health care
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:02:58.120
+End: 00:02:59.120
+Duration: 1.000 seconds
+Text: services.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:02:59.120
+End: 00:03:03.120
+Duration: 4.000 seconds
+Text: Now, therefore, Susan Annabcheck, Mayor of City of Manhattan,
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:03:03.120
+End: 00:03:07.120
+Duration: 4.000 seconds
+Text: does proclaim October 6 through 12.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:03:07.120
+End: 00:03:11.120
+Duration: 4.000 seconds
+Text: As national physicians this is not weak, throughout Manhattan and encourage
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:03:11.120
+End: 00:03:16.120
+Duration: 5.000 seconds
+Text: all our residents to recognize PA's for the significant impact they have made
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:03:16.120
+End: 00:03:21.120
+Duration: 5.000 seconds
+Text: and continue to make in our health care as a critical part of the health care team.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:03:22.120
+End: 00:03:24.120
+Duration: 2.000 seconds
+Text: Would you like to say a few words?
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:03:24.120
+End: 00:03:25.120
+Duration: 1.000 seconds
+Text: Sure.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:03:25.120
+End: 00:03:26.120
+Duration: 1.000 seconds
+Text: Sure.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:03:26.120
+End: 00:03:28.120
+Duration: 2.000 seconds
+Text: I'm the shortest one, so I have to do it first.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:03:28.120
+End: 00:03:31.120
+Duration: 3.000 seconds
+Text: All right, so my name is Dr. Vivian Guevara.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:03:31.120
+End: 00:03:36.120
+Duration: 5.000 seconds
+Text: I am the Entrance Program Director right now of our, the K-State University PA
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:03:36.120
+End: 00:03:37.120
+Duration: 1.000 seconds
+Text: program.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:03:37.120
+End: 00:03:39.120
+Duration: 2.000 seconds
+Text: And this is Ms. Sarah Borjas.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:03:39.120
+End: 00:03:43.120
+Duration: 4.000 seconds
+Text: She is the president of the PA Student Society.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:03:43.120
+End: 00:03:49.120
+Duration: 6.000 seconds
+Text: So we would like to thank the City Commission officials and all of you here
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:03:50.120
+End: 00:03:56.120
+Duration: 6.000 seconds
+Text: that are sitting there and everybody around here for your support to the PA
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:03:56.120
+End: 00:03:57.120
+Duration: 1.000 seconds
+Text: program.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:03:57.120
+End: 00:04:03.120
+Duration: 6.000 seconds
+Text: So this is our fourth time, fourth year, to come in here as proclaimed as the PA
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:04:03.120
+End: 00:04:06.120
+Duration: 3.000 seconds
+Text: for the PA community.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:04:06.120
+End: 00:04:14.120
+Duration: 8.000 seconds
+Text: So we have 6 to 12 is the PA week, is the National PA week for, that's why we are
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:04:15.120
+End: 00:04:19.120
+Duration: 4.000 seconds
+Text: celebrating this PA week next week with our students.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:04:19.120
+End: 00:04:24.120
+Duration: 5.000 seconds
+Text: So we have our Kappa, which is the association, the Kansas Association of Physician
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:04:24.120
+End: 00:04:31.120
+Duration: 7.000 seconds
+Text: Assistance that we have, our association, Kansas, Kansas, yeah, so many ages.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:04:31.120
+End: 00:04:36.120
+Duration: 5.000 seconds
+Text: But you know, we have that, what do you call this?
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:04:36.120
+End: 00:04:40.120
+Duration: 4.000 seconds
+Text: We have the conference on the, during that week.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:04:40.120
+End: 00:04:41.120
+Duration: 1.000 seconds
+Text: No, it's in Wichita last year.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:04:41.120
+End: 00:04:43.120
+Duration: 2.000 seconds
+Text: It was here in Manhattan.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:04:44.120
+End: 00:04:49.120
+Duration: 5.000 seconds
+Text: So I know we are going to alternate that.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:04:49.120
+End: 00:04:52.120
+Duration: 3.000 seconds
+Text: So Wichita and then here and then some other places.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:04:52.120
+End: 00:04:55.120
+Duration: 3.000 seconds
+Text: But we asked them last year that, you know, can you do it in Manhattan?
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:04:55.120
+End: 00:04:59.120
+Duration: 4.000 seconds
+Text: Because we have a few, a lot of PA's there that cannot go to Wichita.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:04:59.120
+End: 00:05:03.120
+Duration: 4.000 seconds
+Text: It's a two hour drive and then they can come over here and then they can, you know,
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:05:03.120
+End: 00:05:07.120
+Duration: 4.000 seconds
+Text: they can increase the number of the members of Kappa.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:05:07.120
+End: 00:05:12.120
+Duration: 5.000 seconds
+Text: So we just want to thank everyone in the commission for, you know, giving us again
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:05:12.120
+End: 00:05:17.120
+Duration: 5.000 seconds
+Text: opportunity for this, getting us are, yeah, thank you.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:05:17.120
+End: 00:05:20.120
+Duration: 3.000 seconds
+Text: Would you like to say something?
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:05:20.120
+End: 00:05:26.120
+Duration: 6.000 seconds
+Text: As a student, I'd like to thank Manhattan for supporting the university and for
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:05:26.120
+End: 00:05:31.120
+Duration: 5.000 seconds
+Text: helping to bring the Physician Assistance program to Manhattan and help grow
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:05:31.120
+End: 00:05:35.120
+Duration: 4.000 seconds
+Text: the profession throughout the entire state.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:05:35.120
+End: 00:05:36.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:05:36.120
+End: 00:05:37.120
+Duration: 1.000 seconds
+Text: Thank you so much.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:05:37.120
+End: 00:05:38.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:05:38.120
+End: 00:05:41.120
+Duration: 3.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:05:41.120
+End: 00:05:44.120
+Duration: 3.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:05:44.120
+End: 00:05:45.120
+Duration: 1.000 seconds
+Text: Happy Ray.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:05:45.120
+End: 00:05:47.120
+Duration: 2.000 seconds
+Text: And how do I do this?
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:05:47.120
+End: 00:05:48.120
+Duration: 1.000 seconds
+Text: Tichel?
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:05:48.120
+End: 00:05:49.120
+Duration: 1.000 seconds
+Text: Tichel?
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:05:49.120
+End: 00:05:50.120
+Duration: 1.000 seconds
+Text: Great.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:05:50.120
+End: 00:05:54.120
+Duration: 4.000 seconds
+Text: Now, look, bear with me.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:05:54.120
+End: 00:05:56.120
+Duration: 2.000 seconds
+Text: I'm Dr. Proklaim.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:05:56.120
+End: 00:06:02.120
+Duration: 6.000 seconds
+Text: Whereas domestic violence is a widespread public health problem impacting all demographics
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:06:02.120
+End: 00:06:07.120
+Duration: 5.000 seconds
+Text: of Manhattan Kansas and perpetrators of domestic violence use illegal
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:06:07.120
+End: 00:06:12.120
+Duration: 5.000 seconds
+Text: and legal behaviors and tactics that undermine the victim's sense of self,
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:06:12.120
+End: 00:06:15.120
+Duration: 3.000 seconds
+Text: free will and safety.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:06:15.120
+End: 00:06:21.120
+Duration: 6.000 seconds
+Text: And domestic violence can have profound lifelong impacts on the victim's health,
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:06:21.120
+End: 00:06:27.120
+Duration: 6.000 seconds
+Text: opportunity, and well-being, and also the victim's families, and, yeah, the circle.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:06:27.120
+End: 00:06:33.120
+Duration: 6.000 seconds
+Text: One in four women and one in seven men in the United States have experienced sexual violence,
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:06:33.120
+End: 00:06:37.120
+Duration: 4.000 seconds
+Text: physical violence, or stalking by an intimate partner.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:06:37.120
+End: 00:06:45.120
+Duration: 8.000 seconds
+Text: And the Kansas Bureau of Mestigation reports one domestic violence murder occurs every 10 days,
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:06:45.120
+End: 00:06:49.120
+Duration: 4.000 seconds
+Text: 10 hours, and 17 minutes in Kansas.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:06:49.120
+End: 00:06:55.120
+Duration: 6.000 seconds
+Text: And across the United States many leaders and organizations have displayed their commitment
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:06:55.120
+End: 00:06:57.120
+Duration: 2.000 seconds
+Text: to ending domestic violence.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:06:57.120
+End: 00:07:02.120
+Duration: 5.000 seconds
+Text: And we must devote ourselves to protect the vulnerable and at risk members of our community.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:07:02.120
+End: 00:07:07.120
+Duration: 5.000 seconds
+Text: So we remind victims of domestic violence that they're not alone.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:07:07.120
+End: 00:07:12.120
+Duration: 5.000 seconds
+Text: And that the three in confidential services are available by calling the crisis center.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:07:12.120
+End: 00:07:19.120
+Duration: 7.000 seconds
+Text: And that's at 1-800-72727-85, or texting heal,
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:07:19.120
+End: 00:07:30.120
+Duration: 11.000 seconds
+Text: HEL, to 847-411, or the safe line, Kansas helpline, at 1-888-363-2287,
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:07:30.120
+End: 00:07:35.120
+Duration: 5.000 seconds
+Text: and texting to safe, but that's the same number right as the heal.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:07:35.120
+End: 00:07:39.120
+Duration: 4.000 seconds
+Text: It's at 847-847-11.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:07:39.120
+End: 00:07:41.120
+Duration: 2.000 seconds
+Text: Thank you, service provider.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:07:41.120
+End: 00:07:47.120
+Duration: 6.000 seconds
+Text: Now, therefore, Susan Annan-Chegmayer of City of Manhattan proclaims October 20, 24,
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:07:47.120
+End: 00:07:50.120
+Duration: 3.000 seconds
+Text: as domestic violence awareness month.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:07:50.120
+End: 00:07:52.120
+Duration: 2.000 seconds
+Text: Now, I want to see the PA's back here next year.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:07:52.120
+End: 00:07:54.120
+Duration: 2.000 seconds
+Text: I don't want to see you guys back here.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:07:54.120
+End: 00:07:57.120
+Duration: 3.000 seconds
+Text: I wish we didn't have to have to have to have to have.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:07:57.120
+End: 00:08:05.120
+Duration: 8.000 seconds
+Text: I urge all citizens to become more aware of domestic violence and the services available for victims.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:08:05.120
+End: 00:08:07.120
+Duration: 2.000 seconds
+Text: Kathy, you want to say a few words?
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:08:07.120
+End: 00:08:09.120
+Duration: 2.000 seconds
+Text: Sure, I'll just say a few comments.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:08:09.120
+End: 00:08:14.120
+Duration: 5.000 seconds
+Text: Thank you for recognizing October as domestic violence awareness month.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:08:14.120
+End: 00:08:19.120
+Duration: 5.000 seconds
+Text: Some national and Kansas statistics were provided, but last year,
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:08:19.120
+End: 00:08:25.120
+Duration: 6.000 seconds
+Text: I just want to share what the crisis center served, so that here in Manhattan,
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:08:25.120
+End: 00:08:29.120
+Duration: 4.000 seconds
+Text: so that you get a good idea of what that's like in our own community.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:08:29.120
+End: 00:08:33.120
+Duration: 4.000 seconds
+Text: So last, state fiscal year, state fiscal year 2024,
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:08:33.120
+End: 00:08:39.120
+Duration: 6.000 seconds
+Text: we answered 1,888 calls on our 24-7 crisis help lines.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:08:39.120
+End: 00:08:44.120
+Duration: 5.000 seconds
+Text: We now have the texting features to reach more people with that service.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:08:44.120
+End: 00:08:50.120
+Duration: 6.000 seconds
+Text: We provided 9,150 bednights in our safe shelter in one year,
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:08:50.120
+End: 00:08:53.120
+Duration: 3.000 seconds
+Text: and that's in a confidential location here in Manhattan.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:08:53.120
+End: 00:08:58.120
+Duration: 5.000 seconds
+Text: We co-responded to 446 domestic violence law enforcement calls
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:08:58.120
+End: 00:09:06.120
+Duration: 8.000 seconds
+Text: with the Riley County Police Department, and we provided 63 community awareness presentation and training events.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:09:06.120
+End: 00:09:10.120
+Duration: 4.000 seconds
+Text: So these statistics are a stark reminder that it does affect us all,
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:09:10.120
+End: 00:09:14.120
+Duration: 4.000 seconds
+Text: whether that's us directly, our friends, our neighbors,
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:09:14.120
+End: 00:09:17.120
+Duration: 3.000 seconds
+Text: these are our community members and our co-workers and our loved ones.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:09:17.120
+End: 00:09:22.120
+Duration: 5.000 seconds
+Text: And so we're here tonight to remind everyone that there is help available at the crisis center,
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:09:22.120
+End: 00:09:28.120
+Duration: 6.000 seconds
+Text: where 24-7 nonprofit organization, all of our services are completely free and confidential.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:09:28.120
+End: 00:09:32.120
+Duration: 4.000 seconds
+Text: So please reach out if you or you know someone who needs help.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:09:32.120
+End: 00:09:33.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:09:33.120
+End: 00:09:34.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:09:34.120
+End: 00:09:41.120
+Duration: 7.000 seconds
+Text: And as we move through the remainder of October, I know we just began.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:09:41.120
+End: 00:09:45.120
+Duration: 4.000 seconds
+Text: We will ask that you, we extend our opportunity to you all to continue to support the crisis center,
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:09:45.120
+End: 00:09:50.120
+Duration: 5.000 seconds
+Text: our families, the victims, and survivors that we serve and continue to support us,
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:09:50.120
+End: 00:09:52.120
+Duration: 2.000 seconds
+Text: so we can continue to support them.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:09:52.120
+End: 00:09:53.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:09:53.120
+End: 00:09:54.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:09:54.120
+End: 00:09:56.120
+Duration: 2.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:09:56.120
+End: 00:10:05.120
+Duration: 9.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:10:05.120
+End: 00:10:12.120
+Duration: 7.000 seconds
+Text: We have public comments, and there are a couple on this list that have signed up
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:10:12.120
+End: 00:10:14.120
+Duration: 2.000 seconds
+Text: that want to talk about the cemetery.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:10:14.120
+End: 00:10:20.120
+Duration: 6.000 seconds
+Text: So I think we'll save those comments for when we get to the cemeteries if that's right.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:10:20.120
+End: 00:10:21.120
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:10:21.120
+End: 00:10:22.120
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:10:22.120
+End: 00:10:26.120
+Duration: 4.000 seconds
+Text: So Gary, I think you're up.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:10:44.120
+End: 00:10:52.120
+Duration: 8.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:10:52.120
+End: 00:10:55.120
+Duration: 3.000 seconds
+Text: Good evening commissioners.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:10:55.120
+End: 00:10:57.120
+Duration: 2.000 seconds
+Text: As you know, my name is Gary Ols.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:10:57.120
+End: 00:10:59.120
+Duration: 2.000 seconds
+Text: I live at 3308 Frontier Circle.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:10:59.120
+End: 00:11:04.120
+Duration: 5.000 seconds
+Text: If you could set that, what I gave you aside just a second and listen to what I'm going to say.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:11:04.120
+End: 00:11:09.120
+Duration: 5.000 seconds
+Text: Normally, I speak in prompt two, but tonight I thought it was important enough to write this down.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:11:09.120
+End: 00:11:13.120
+Duration: 4.000 seconds
+Text: So hopefully I'll be under my four minutes and 45 seconds.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:11:13.120
+End: 00:11:20.120
+Duration: 7.000 seconds
+Text: I hope you all agree with me that words matter, truth matters, transparency matters,
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:11:20.120
+End: 00:11:25.120
+Duration: 5.000 seconds
+Text: and elections, as well as appointments matter.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:11:25.120
+End: 00:11:31.120
+Duration: 6.000 seconds
+Text: The R&R and Bud 2025 budget hearings were held on September 9th?
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:11:31.120
+End: 00:11:32.120
+Duration: 1.000 seconds
+Text: No.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:11:32.120
+End: 00:11:33.120
+Duration: 1.000 seconds
+Text: Third.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:11:33.120
+End: 00:11:36.120
+Duration: 3.000 seconds
+Text: Third, I think it was.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:11:36.120
+End: 00:11:43.120
+Duration: 7.000 seconds
+Text: The new commissioner McCullough aired when you opened the R&R and public and budget hearings
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:11:43.120
+End: 00:11:50.120
+Duration: 7.000 seconds
+Text: and asked for and I quote public comment.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:11:50.120
+End: 00:12:05.120
+Duration: 15.000 seconds
+Text: The public should have been told by you as Mayor Pro Tem that the purpose of these hearings are for elected officials to hear and answer to the taxpayer objections relating to the proposed use of all funds,
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:12:05.120
+End: 00:12:10.120
+Duration: 5.000 seconds
+Text: the amount of advalorem tax and the revenue neutral rate.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:12:10.120
+End: 00:12:13.120
+Duration: 3.000 seconds
+Text: And you can see that in the top paragraph that I underlined.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:12:13.120
+End: 00:12:15.120
+Duration: 2.000 seconds
+Text: That was the purpose of those two hearings.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:12:15.120
+End: 00:12:17.120
+Duration: 2.000 seconds
+Text: That did not happen.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:12:17.120
+End: 00:12:26.120
+Duration: 9.000 seconds
+Text: Therefore, the R&R hearing is for the public to be heard by the commission and answer objections about raising property taxes.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:12:26.120
+End: 00:12:34.120
+Duration: 8.000 seconds
+Text: Above what the city set in 2024, not how the money would be spent, nor discussing among yourselves where money could be spent.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:12:34.120
+End: 00:12:40.120
+Duration: 6.000 seconds
+Text: Those were the ones where money could be moved from one fund to another to lower property taxes.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:12:40.120
+End: 00:12:55.120
+Duration: 15.000 seconds
+Text: The 2025 budget hearing, which was obviously right after the R&R hearing, is for the public to be heard once again by the commission to answer objections on how and where the money should be spent.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:12:55.120
+End: 00:13:00.120
+Duration: 5.000 seconds
+Text: Those are two different hearings for two completely different purposes.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:13:00.120
+End: 00:13:04.120
+Duration: 4.000 seconds
+Text: That would have been the transparent thing to say to the public.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:13:04.120
+End: 00:13:17.120
+Duration: 13.000 seconds
+Text: Unfortunately, the nine that spoke during the R&R hearing, and I watched that three times, were unaware of the difference between public comments and these public hearings.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:13:17.120
+End: 00:13:20.120
+Duration: 3.000 seconds
+Text: There is a significant difference.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:13:20.120
+End: 00:13:39.120
+Duration: 19.000 seconds
+Text: After the R&R hearing closed, you almost acted on the commissioner moda's suggestion for a bit of property tax relief by funding outsize agencies at the same amount as 24, 24, thus lowering the mill by about one half mill.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:13:39.120
+End: 00:13:46.120
+Duration: 7.000 seconds
+Text: What commissioner moda proposed was reasonable, but the other four decided otherwise.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:13:46.120
+End: 00:13:59.120
+Duration: 13.000 seconds
+Text: When you had a second chance during the 2025 budget hearing to do the same, but the vote was approved and the proposed 2025 budget passed three to two.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:13:59.120
+End: 00:14:07.120
+Duration: 8.000 seconds
+Text: A decision that may have consequences in the 2026 election.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:14:07.120
+End: 00:14:13.120
+Duration: 6.000 seconds
+Text: You'll have one more opportunity to redeem yourself if you so choose in the 2026 budget year.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:14:13.120
+End: 00:14:39.120
+Duration: 26.000 seconds
+Text: On a side note, which is the document that I gave you, or documents, did any of you realize the 2.068 million was being removed from the debt service for 2024 into 2025, and that the 2024 from 2024 to 2025, 4.342 million was being dumped into it.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:14:39.120
+End: 00:14:46.120
+Duration: 7.000 seconds
+Text: I'm not sure the public is aware of that, even though they could see the document if they took the paper or went online.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:14:46.120
+End: 00:15:05.120
+Duration: 19.000 seconds
+Text: I share this with you in order that the 2026 R&R and budget hearings will be explained to the public according to the state law.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:15:05.120
+End: 00:15:10.120
+Duration: 5.000 seconds
+Text: As I mentioned a month ago, I was out of town, so I was not able to attend.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:15:10.120
+End: 00:15:16.120
+Duration: 6.000 seconds
+Text: Unless someone else in my family gets married, which there are no others, well, that's not true.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:15:16.120
+End: 00:15:19.120
+Duration: 3.000 seconds
+Text: I plan to be here in 2026.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:15:19.120
+End: 00:15:35.120
+Duration: 16.000 seconds
+Text: I also plan to be here just so you know, as a heads up, in two weeks during public comment to express my concerns once again about the seats on the Riley County Law Board.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:15:35.120
+End: 00:15:49.120
+Duration: 14.000 seconds
+Text: We need to go back to what it was a very long time ago where all members are elected officials, because right now the R&R hearing was pointless with regards to R&R, Riley County Board, because you had no choice but to pass that.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:15:49.120
+End: 00:15:56.120
+Duration: 7.000 seconds
+Text: It was given to you, and you don't have all elected officials, so you cannot be removed by election.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:15:56.120
+End: 00:15:57.120
+Duration: 1.000 seconds
+Text: Thank you, Gary.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:15:57.120
+End: 00:15:58.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:16:06.120
+End: 00:16:08.120
+Duration: 2.000 seconds
+Text: I've got Darian.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:16:08.120
+End: 00:16:11.120
+Duration: 3.000 seconds
+Text: So, what are we doing with this?
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:16:11.120
+End: 00:16:14.120
+Duration: 3.000 seconds
+Text: Just go ahead.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:16:14.120
+End: 00:16:15.120
+Duration: 1.000 seconds
+Text: Just go ahead.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:16:15.120
+End: 00:16:16.120
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:16:16.120
+End: 00:16:17.120
+Duration: 1.000 seconds
+Text: Hi.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:16:17.120
+End: 00:16:20.120
+Duration: 3.000 seconds
+Text: Hi.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:16:20.120
+End: 00:16:23.120
+Duration: 3.000 seconds
+Text: Hi.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:16:23.120
+End: 00:16:26.120
+Duration: 3.000 seconds
+Text: Hi.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:16:26.120
+End: 00:16:31.120
+Duration: 5.000 seconds
+Text: My name is Darian Smith-Getchall, and I live at 2132 Prairie Lee Place here in Manhattan.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:16:31.120
+End: 00:16:34.120
+Duration: 3.000 seconds
+Text: I'm here today because I don't think we've ever met.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:16:34.120
+End: 00:16:38.120
+Duration: 4.000 seconds
+Text: You see, I'm what most people would consider the average citizen.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:16:38.120
+End: 00:16:41.120
+Duration: 3.000 seconds
+Text: I vote, I pay my taxes, and I contribute to our community.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:16:41.120
+End: 00:16:49.120
+Duration: 8.000 seconds
+Text: I work at mid-level blue-collar job, can be found at City Park on the weekends, and have been known to have a beer or two at Annie Mays when finance is a level.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:16:49.120
+End: 00:16:50.120
+Duration: 1.000 seconds
+Text: I'm just like you.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:16:50.120
+End: 00:16:51.120
+Duration: 1.000 seconds
+Text: Kind of.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:16:51.120
+End: 00:16:54.120
+Duration: 3.000 seconds
+Text: Like you, I own a home in this community.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:16:54.120
+End: 00:17:00.120
+Duration: 6.000 seconds
+Text: A $12,000 two-bedroom townhome in a food desert just off Tuttle Creek well within city limits.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:17:00.120
+End: 00:17:08.120
+Duration: 8.000 seconds
+Text: Unlike you, I had to disclose my address to everyone present and on the internet in order for my words today to have credibility.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:17:08.120
+End: 00:17:12.120
+Duration: 4.000 seconds
+Text: Like you, I am a veteran of the United States Army.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:17:12.120
+End: 00:17:23.120
+Duration: 11.000 seconds
+Text: Unlike you, I was disabled by my military service and found myself in a community that provides no services specific to veterans in terms of home buying assistance, transportation to medical appointments or social gatherings with those similarly affected.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:17:24.120
+End: 00:17:26.120
+Duration: 2.000 seconds
+Text: Like you, I had a career in health care.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:17:26.120
+End: 00:17:29.120
+Duration: 3.000 seconds
+Text: Unlike you, mine was much more recent.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:17:29.120
+End: 00:17:31.120
+Duration: 2.000 seconds
+Text: And hands on.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:17:31.120
+End: 00:17:42.120
+Duration: 11.000 seconds
+Text: As an emergency room paramedic during the first wave of COVID, I was separated from my family for 15 incredibly long months in service to my country during an unprecedented and preventable pandemic.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:17:42.120
+End: 00:17:46.120
+Duration: 4.000 seconds
+Text: I then went on to earn a master's degree in health education last year.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:17:47.120
+End: 00:17:54.120
+Duration: 7.000 seconds
+Text: One could say that makes me a tad bit more up-to-date on recent research, especially considering the post-pandemic society we live in.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:17:54.120
+End: 00:18:01.120
+Duration: 7.000 seconds
+Text: Unlike you, by scientific standards, I am in fact qualified to speak on matters of community health.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:18:01.120
+End: 00:18:05.120
+Duration: 4.000 seconds
+Text: Like you, I have invested interest in the socio-economic success of Manhattan.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:18:05.120
+End: 00:18:11.120
+Duration: 6.000 seconds
+Text: Unlike you, I worked for a small local business and a painfully aware of the downward trend our economy has been taking.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:18:12.120
+End: 00:18:18.120
+Duration: 6.000 seconds
+Text: I also had a desire that a new world could be more than ignoring the trend have restructured the business in order to meet the needs of our employees and consumers in these difficult times.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:18:18.120
+End: 00:18:20.120
+Duration: 2.000 seconds
+Text: Same same but different, right?
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:18:20.120
+End: 00:18:29.120
+Duration: 9.000 seconds
+Text: As it stands today, I feel incredibly underrepresented by the composition of this commission, the decisions you make and the direction which you are trying to drive my beloved city.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:18:29.120
+End: 00:18:35.120
+Duration: 6.000 seconds
+Text: While it isn't my place or desire to speak for everyone, I am here today to let you know that there are other voices out there.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:18:35.120
+End: 00:18:38.120
+Duration: 3.000 seconds
+Text: Voices that are becoming increasingly louder by the day.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:18:38.120
+End: 00:18:39.120
+Duration: 1.000 seconds
+Text: Voices that deserve.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:18:39.120
+End: 00:18:42.120
+Duration: 3.000 seconds
+Text: Nay, have the right to be heard.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:18:44.120
+End: 00:18:47.120
+Duration: 3.000 seconds
+Text: You're allowed to pretend that you're making decisions for the people.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:18:47.120
+End: 00:18:50.120
+Duration: 3.000 seconds
+Text: Barrier heads in the sand if you like. That's a choice you're allowed to make.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:18:50.120
+End: 00:18:53.120
+Duration: 3.000 seconds
+Text: Just know that we the people are paying attention.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:18:58.120
+End: 00:18:59.120
+Duration: 1.000 seconds
+Text: Jessica?
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:19:00.120
+End: 00:19:11.120
+Duration: 11.000 seconds
+Text: Jessica Winters, 408 Houston Street has been my legal address for well over a year.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:19:11.120
+End: 00:19:21.120
+Duration: 10.000 seconds
+Text: It is on my driver's license, tax documents, banking and insurance documents, and on my voter and vehicle registration.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:19:21.120
+End: 00:19:26.120
+Duration: 5.000 seconds
+Text: If you would like me to explain why that is the case, I will be glad to inform you.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:19:27.120
+End: 00:19:37.120
+Duration: 10.000 seconds
+Text: However, if this commission chooses to openly violate my first amendment rights, as a citizen of Manhattan, I will be loved with no other choice but to pursue this through the courts.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:19:37.120
+End: 00:19:39.120
+Duration: 2.000 seconds
+Text: Which would you prefer?
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:19:39.120
+End: 00:19:42.120
+Duration: 3.000 seconds
+Text: Jessica, just tell us what you have to say.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:19:46.120
+End: 00:19:49.120
+Duration: 3.000 seconds
+Text: Last year, my partner sold her house and we bought an RV together.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:19:50.120
+End: 00:19:53.120
+Duration: 3.000 seconds
+Text: This wasn't a split second decision or a mid-life crisis.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:19:53.120
+End: 00:20:00.120
+Duration: 7.000 seconds
+Text: It was an international lifestyle shift to downsize and to learn how little we could live with.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:20:00.120
+End: 00:20:02.120
+Duration: 2.000 seconds
+Text: That path came with certain drawbacks.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:20:02.120
+End: 00:20:06.120
+Duration: 4.000 seconds
+Text: One was losing the stability that came with owning a house and having a mailbox.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:20:06.120
+End: 00:20:11.120
+Duration: 5.000 seconds
+Text: We contacted the county, state and federal government to ask them what they wanted us to do.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:20:11.120
+End: 00:20:18.120
+Duration: 7.000 seconds
+Text: And this arrangement, it turns out, is not as uncommon as the commission seems to believe.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:20:18.120
+End: 00:20:25.120
+Duration: 7.000 seconds
+Text: Many people are simplifying their lifestyles by choice or because of our spiraling housing crisis.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:20:25.120
+End: 00:20:27.120
+Duration: 2.000 seconds
+Text: The answer was unanimous.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:20:27.120
+End: 00:20:33.120
+Duration: 6.000 seconds
+Text: From every office we contacted, don't use a PO box and don't use the park where you're staying.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:20:33.120
+End: 00:20:39.120
+Duration: 6.000 seconds
+Text: As a small business owner, we were supposed to use our business address at 408 Houston Street.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:20:39.120
+End: 00:20:42.120
+Duration: 3.000 seconds
+Text: Because that is the easiest way to get a hold of us.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:20:42.120
+End: 00:20:46.120
+Duration: 4.000 seconds
+Text: I don't and haven't used my address to skirt the rules.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:20:46.120
+End: 00:20:51.120
+Duration: 5.000 seconds
+Text: I use it so I'm playing by the same rules as every other citizen.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:20:51.120
+End: 00:20:59.120
+Duration: 8.000 seconds
+Text: As I feel it's necessary to answer the baseless accusations, the lowercase m mayor hurled at me during the last open meeting.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:20:59.120
+End: 00:21:00.120
+Duration: 1.000 seconds
+Text: I will say this.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:21:00.120
+End: 00:21:03.120
+Duration: 3.000 seconds
+Text: I have not only lived in Manhattan for a decade now.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:21:03.120
+End: 00:21:07.120
+Duration: 4.000 seconds
+Text: The address for the park where I live at is also a Manhattan address.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:21:07.120
+End: 00:21:10.120
+Duration: 3.000 seconds
+Text: My family has been here for three generations.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:21:10.120
+End: 00:21:15.120
+Duration: 5.000 seconds
+Text: My grandmother and my grandfather grew up here and raised their kids here.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:21:15.120
+End: 00:21:22.120
+Duration: 7.000 seconds
+Text: My only reason I didn't get to grow up here is because like many, I was an army brat.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:21:22.120
+End: 00:21:25.120
+Duration: 3.000 seconds
+Text: My aunt and two of my uncles still live here.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:21:25.120
+End: 00:21:28.120
+Duration: 3.000 seconds
+Text: My siblings and nieces are growing up and going to school here.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:21:28.120
+End: 00:21:31.120
+Duration: 3.000 seconds
+Text: My entire community is Manhattan.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:21:31.120
+End: 00:21:34.120
+Duration: 3.000 seconds
+Text: So don't you dare accuse me of not being a member of this community.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:21:34.120
+End: 00:21:44.120
+Duration: 10.000 seconds
+Text: Everyone watching knows that this was nothing but a personal attack because that is not even a requirement on the rules you so easily throw in the trash whenever you feel like.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:21:44.120
+End: 00:21:52.120
+Duration: 8.000 seconds
+Text: In fact, the last time I was here to speak was rather ironic that you decided to silence me because there was actually coming up here to read this.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:21:52.120
+End: 00:21:58.120
+Duration: 6.000 seconds
+Text: A comment, sorry, this.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:21:58.120
+End: 00:22:03.120
+Duration: 5.000 seconds
+Text: A comment on your inconsistencies.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:22:03.120
+End: 00:22:05.120
+Duration: 2.000 seconds
+Text: I have not changed the dates.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:22:05.120
+End: 00:22:08.120
+Duration: 3.000 seconds
+Text: I will read it to you exactly as it is written.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:22:08.120
+End: 00:22:13.120
+Duration: 5.000 seconds
+Text: I am not someone who usually advocates for strict rules during commission meetings.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:22:13.120
+End: 00:22:23.120
+Duration: 10.000 seconds
+Text: I think it discourages public comments and makes it overly complicated for tax paying citizens who may not have experienced speaking here, but certainly have the right to be heard.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:22:23.120
+End: 00:22:37.120
+Duration: 14.000 seconds
+Text: However, what I cannot stand is the inconsistency and injustice with which you over police regular folks while completely disregarding those same rules when it comes to outsiders, developers, and upper-crust community members of our town.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:22:37.120
+End: 00:22:44.120
+Duration: 7.000 seconds
+Text: Time and time again, I have seen rules such as not allowing commissioners to respond to speakers or time limits blatantly ignore.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:22:44.120
+End: 00:22:45.120
+Duration: 1.000 seconds
+Text: It is nauseating.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:22:45.120
+End: 00:23:03.120
+Duration: 18.000 seconds
+Text: Two weeks ago, you let a Springfield Missouri resident and a vice president of sales for the Hilton, a $26 million dollar a year company speak for almost six minutes, while on the same breath, openly advocating to cut your own citizens' time short for the tax hearing that you didn't have.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:23:03.120
+End: 00:23:08.120
+Duration: 5.000 seconds
+Text: You regularly let citizens speak without starting a time or requiring an address.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:23:08.120
+End: 00:23:15.120
+Duration: 7.000 seconds
+Text: Just last week, once again, during a work meeting, the commission exchanged several comments with the vice president of Bayer Construction.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:23:15.120
+End: 00:23:24.120
+Duration: 9.000 seconds
+Text: I could go on all night if I was a VP of sales for a large corporation, but I'm just a taxpayer, so I've only got five minutes.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:23:25.120
+End: 00:23:32.120
+Duration: 7.000 seconds
+Text: I do encourage residents to look back at this year alone. It's egregious. It's not even a pattern, it's a practice.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:23:32.120
+End: 00:23:39.120
+Duration: 7.000 seconds
+Text: Commission-reading rules are not set by the state. The commissioners set them and the commissioners can change them or ignore them at any time.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:23:39.120
+End: 00:23:46.120
+Duration: 7.000 seconds
+Text: We may not be able to hold them accountable for breaking their own rules, but we should pay attention to who they break them for.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:23:46.120
+End: 00:23:48.120
+Duration: 2.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:23:50.120
+End: 00:23:52.120
+Duration: 2.000 seconds
+Text: Amber?
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:23:55.120
+End: 00:23:59.120
+Duration: 4.000 seconds
+Text: Amber, Starling 408 Houston Street.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:23:59.120
+End: 00:24:04.120
+Duration: 5.000 seconds
+Text: My wife is a polarizing topic. I'm sure you've noticed. Her morals are annealing.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:24:04.120
+End: 00:24:12.120
+Duration: 8.000 seconds
+Text: Coming up against her can feel abrasive. She's logical, direct. If you don't leave your ego at the door, it's bound to be wounded.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:24:12.120
+End: 00:24:19.120
+Duration: 7.000 seconds
+Text: I can't imagine that a single commissioner would describe her as healing and kind, but all of her friends would.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:24:20.120
+End: 00:24:29.120
+Duration: 9.000 seconds
+Text: You should try being on her good side. She buried her innocence at 10 years old, where the evangelical Christian parents caught her wearing a dress at her aunt's house.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:24:29.120
+End: 00:24:42.120
+Duration: 13.000 seconds
+Text: She always knew she was a baby girl, nothing within her had changed, but in that moment she transformed from her father's favorite son into a monster to be brutally abused for the simple crime of not meeting her family's narrow expectations.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:24:43.120
+End: 00:24:51.120
+Duration: 8.000 seconds
+Text: In church, they played devout followers of God, but at home the physical and emotional violence was an expanding daily hell.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:24:51.120
+End: 00:24:59.120
+Duration: 8.000 seconds
+Text: Her father beat her so often that she learned to fix her dislocated shoulders by driving them into a door jam. She can still do that to this day.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:24:59.120
+End: 00:25:07.120
+Duration: 8.000 seconds
+Text: You should now be able to understand why your hypocrisy discussed her so deeply and why she supports true colors.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:25:07.120
+End: 00:25:19.120
+Duration: 12.000 seconds
+Text: She has experienced homelessness many times in her life. At 20, they started kicking her out. Rain, shine, night day, heated visories, thunderstorm watches, no matter what she was wearing.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:25:19.120
+End: 00:25:29.120
+Duration: 10.000 seconds
+Text: They tossed her out in pajamas and bare feet in the Kansas snow. She slept in the crawl space under the house and learned to wake up every hour to avoid hypothermia.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:25:29.120
+End: 00:25:44.120
+Duration: 15.000 seconds
+Text: Once she could finally rent a home of her own, she rented one as big as she could afford and started giving away bedrooms to other youth escaping neglect, to friends experiencing eviction, to pregnant women, escaping domestic violence.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:25:44.120
+End: 00:25:57.120
+Duration: 13.000 seconds
+Text: She was working three jobs to do it. She's been in retail food service nursing. Unlike you, she knows what it's like to try and cram a $40 parking membership into an already fragile budget, so a lot more than a pedicure isn't it.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:25:57.120
+End: 00:26:07.120
+Duration: 10.000 seconds
+Text: She gave away so many bedrooms that she eventually moved into a pallet of blankets in a linen closet and even then shared it with a mama cat and kittens.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:26:07.120
+End: 00:26:15.120
+Duration: 8.000 seconds
+Text: In the winter, she would walk her neighborhood and the parks close by looking for the unhoused and inviting them to sleep in her home.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:26:15.120
+End: 00:26:21.120
+Duration: 6.000 seconds
+Text: She was not blind to the danger. She simply accepted it as a hazard of doing the right thing.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:26:21.120
+End: 00:26:26.120
+Duration: 5.000 seconds
+Text: You should now be able to understand why she's so passionate about the housing crisis.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:26:26.120
+End: 00:26:36.120
+Duration: 10.000 seconds
+Text: Because she has been in so many other people's shoes, she does not look down on others. Many I have met strive to see everyone as equals, but none have come closer than she.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:26:36.120
+End: 00:26:50.120
+Duration: 14.000 seconds
+Text: Fame, wealth and status hold no meaning to her. I've seen her treat street performers and beggars with more warmth and welcome than an incongruous member of the US cabinet and a braggered Atlanta CEO with a mansion the size of a mall.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:26:50.120
+End: 00:26:56.120
+Duration: 6.000 seconds
+Text: Don't believe him, just ask him. You should now be able to understand why she doesn't just give you respect.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:26:56.120
+End: 00:27:09.120
+Duration: 13.000 seconds
+Text: To her, respect is earned by the expression of character and ethics alone. She doesn't allow herself the luxury of willful ignorance. She deliberately looks in her own wake.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:27:09.120
+End: 00:27:18.120
+Duration: 9.000 seconds
+Text: In modern American society, we are complicit every day in a thousand untold horrors. Our privileged lives have consequences and if you don't see them, you aren't looking.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:27:18.120
+End: 00:27:27.120
+Duration: 9.000 seconds
+Text: The only way for us to have all of this is through massive ecological harm and the suffering and dispossession of those human beings at the bottom of the supply chain.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:27:27.120
+End: 00:27:38.120
+Duration: 11.000 seconds
+Text: When she eats a chocolate bar, she understands that generations of lives have been destroyed for it. She experiences the bitter with a sweet and unlike you, she chooses to eat less chocolate.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:27:39.120
+End: 00:27:47.120
+Duration: 8.000 seconds
+Text: She drives a crappier old beater with no air conditioning because to her, buying a new car is wasteful and she wasn't willing to put her comfort above other people's lives.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:27:47.120
+End: 00:27:53.120
+Duration: 6.000 seconds
+Text: For a politician who has not confronted and cannot linger in that discomfort, she is terrifying.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:27:53.120
+End: 00:27:57.120
+Duration: 4.000 seconds
+Text: But truth, spring from the bottom of a well always is.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:27:57.120
+End: 00:28:14.120
+Duration: 17.000 seconds
+Text: Was it not obvious that she's idle leopold's grandchild for God's sake that she is falling in the footsteps of a woman who adopted disabled teens from foster care instead of letting them age out in the system, who was appointed by the mayor to the Housing Authority Board of Commissioners and served there for 20 years?
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:28:14.120
+End: 00:28:22.120
+Duration: 8.000 seconds
+Text: Less than a year ago, the Housing Authority dedicated a bench in Ida's honor and less than a month ago, you spit in her granddaughter's face.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:28:23.120
+End: 00:28:30.120
+Duration: 7.000 seconds
+Text: And why was it easier to believe that she was an interloper with no right to speak instead of a constituent that your policies were actively harming?
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:28:30.120
+End: 00:28:41.120
+Duration: 11.000 seconds
+Text: Are you that allergic to accountability? Why was it easier to believe that she was here to humiliate and torment you instead of speaking on behalf of her friends and family and neighbors who couldn't come?
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:28:41.120
+End: 00:28:46.120
+Duration: 5.000 seconds
+Text: Are you that narcissistic? You have an unequal power dynamic with your citizens.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:28:46.120
+End: 00:28:56.120
+Duration: 10.000 seconds
+Text: She comes here to tell you that you're stepping on us. And somehow you don't have a decency to say I'm sorry, but you still found the audacity to say quiet down.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:28:56.120
+End: 00:29:00.120
+Duration: 4.000 seconds
+Text: Jessica is only a mirror. If you don't like what you see, change it.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:29:06.120
+End: 00:29:13.120
+Duration: 7.000 seconds
+Text: Are there any other public comments that don't have anything to do with the consent agenda or the general agenda?
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:29:13.120
+End: 00:29:19.120
+Duration: 6.000 seconds
+Text: Okay, moving on. Commissioner Cummins.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:29:19.120
+End: 00:29:25.120
+Duration: 6.000 seconds
+Text: I just want to recognize that we have four firemen from Manhattan Fire Department who are last week they went to Florida.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:29:25.120
+End: 00:29:31.120
+Duration: 6.000 seconds
+Text: They're now in North Carolina helping with hurricane relief efforts as part of the Kansas Task Force.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:29:31.120
+End: 00:29:34.120
+Duration: 3.000 seconds
+Text: That's a mess.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 00:29:34.120
+End: 00:29:47.120
+Duration: 13.000 seconds
+Text: Right before the meeting I was at the ribbon cutting for Flint Hills, ATA. They were able to expand and improve their facilities and I just want to mention my.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 00:29:47.120
+End: 00:29:52.120
+Duration: 5.000 seconds
+Text: Sincere gratitude to them and the service that they provide to this community.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 00:29:52.120
+End: 00:29:59.120
+Duration: 7.000 seconds
+Text: They are essential to this community. We need to have them for essential services to get to things like work in the grocery store.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 00:29:59.120
+End: 00:30:03.120
+Duration: 4.000 seconds
+Text: We have a lot of people that depend on them so we need to continue our support.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:30:03.120
+End: 00:30:12.120
+Duration: 9.000 seconds
+Text: Yeah, we had a really good turnout. I'm on the ATA board and I have a free bus pass if anybody wants to have it.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:30:12.120
+End: 00:30:28.120
+Duration: 16.000 seconds
+Text: We need to take the bus and I see more and more people taking the bus and the ATA board allows the city to access federal funds and the million dollar expansion and the new buses are all either national department of the city.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:30:28.120
+End: 00:30:35.120
+Duration: 7.000 seconds
+Text: National Department of Transportation or K.Dot money so bringing a million dollars into the community is always a positive.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:30:35.120
+End: 00:30:42.120
+Duration: 7.000 seconds
+Text: Okay, that's back to the consent agenda then.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:30:42.120
+End: 00:30:51.120
+Duration: 9.000 seconds
+Text: Items on the consent agenda are those of a routine and housekeeping nature or those items which have been previously reviewed by the city.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:30:51.120
+End: 00:30:54.120
+Duration: 3.000 seconds
+Text: Commission and may be approved in one motion.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:30:54.120
+End: 00:31:03.120
+Duration: 9.000 seconds
+Text: A commissioner may request an item be removed for separate discussion and considered immediately following the consent agenda.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:31:03.120
+End: 00:31:10.120
+Duration: 7.000 seconds
+Text: Is there any comment from the public on the consent agenda?
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:31:10.120
+End: 00:31:14.120
+Duration: 4.000 seconds
+Text: Do I hear a motion to approve?
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:31:14.120
+End: 00:31:16.120
+Duration: 2.000 seconds
+Text: I do have questions about E2.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:31:16.120
+End: 00:31:17.120
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:31:17.120
+End: 00:31:20.120
+Duration: 3.000 seconds
+Text: Which is the Cypress Ridge project.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:31:20.120
+End: 00:31:23.120
+Duration: 3.000 seconds
+Text: The what is it?
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:31:23.120
+End: 00:31:28.120
+Duration: 5.000 seconds
+Text: 61,000 would be coming from workforce housing sales tax dollars.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:31:28.120
+End: 00:31:31.120
+Duration: 3.000 seconds
+Text: We have the code in the audience.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:31:31.120
+End: 00:31:37.120
+Duration: 6.000 seconds
+Text: You.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:31:37.120
+End: 00:31:40.120
+Duration: 3.000 seconds
+Text: Jamie is your question more about where the money is coming from.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:31:40.120
+End: 00:31:46.120
+Duration: 6.000 seconds
+Text: Yeah, like I'm very much in support of the project and I think it's something great and actually it's better than what it was.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:31:46.120
+End: 00:31:50.120
+Duration: 4.000 seconds
+Text: I think I have my understanding that the fees are lower than what we thought.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:31:50.120
+End: 00:31:57.120
+Duration: 7.000 seconds
+Text: I think mine was the question of how that fits into the workforce housing sales tax.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:31:57.120
+End: 00:32:05.120
+Duration: 8.000 seconds
+Text: And then if the other options are and Jason I exchanged some emails about that but just wanting to see what everyone else's thoughts.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:32:05.120
+End: 00:32:09.120
+Duration: 4.000 seconds
+Text: I mean I believe the only other option would be to.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:32:09.120
+End: 00:32:16.120
+Duration: 7.000 seconds
+Text: I think we decided to do this before we changed the policy then we changed it.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:32:16.120
+End: 00:32:21.120
+Duration: 5.000 seconds
+Text: So it now because the fees went down.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:32:21.120
+End: 00:32:27.120
+Duration: 6.000 seconds
+Text: I don't think that's reason to change what we've decided before.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:32:27.120
+End: 00:32:37.120
+Duration: 10.000 seconds
+Text: Well, and John things I was trying to read back through things and it looks like before it was.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:32:37.120
+End: 00:32:42.120
+Duration: 5.000 seconds
+Text: I was trying to read the minutes and it was kind of confusing on if something was attached to it.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:32:42.120
+End: 00:32:46.120
+Duration: 4.000 seconds
+Text: If everyone else if that's where we're feeling that's all I'll leave it there.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 00:32:46.120
+End: 00:32:48.120
+Duration: 2.000 seconds
+Text: I think it's I think it's a good discussion.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 00:32:48.120
+End: 00:32:56.120
+Duration: 8.000 seconds
+Text: This was one of like the first things that we had talked about for the workforce housing money.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 00:32:56.120
+End: 00:33:11.120
+Duration: 15.000 seconds
+Text: And you know we've talked about this this band of 60 to 120 percent of area median income for this money.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 00:33:11.120
+End: 00:33:19.120
+Duration: 8.000 seconds
+Text: But I don't know that I don't think that it's wise of us to to put a floor on that.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 00:33:19.120
+End: 00:33:24.120
+Duration: 5.000 seconds
+Text: And when you look at a lot of the dynamics that are going on in the housing market,
+--------------------------------------------------
+Commissioner Cummins:
+Start: 00:33:24.120
+End: 00:33:39.120
+Duration: 15.000 seconds
+Text: folks are staying in their homes longer thus leaving them off the market because there isn't an alternative for good humane age in place living.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 00:33:39.120
+End: 00:33:49.120
+Duration: 10.000 seconds
+Text: And I think this type of this type of community could could offer that alternative.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 00:33:49.120
+End: 00:33:53.120
+Duration: 4.000 seconds
+Text: And the folks that are going to move into it will put their houses on the market.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 00:33:53.120
+End: 00:34:01.120
+Duration: 8.000 seconds
+Text: And hopefully they will be at a they'll be at a price that folks can can afford.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 00:34:01.120
+End: 00:34:05.120
+Duration: 4.000 seconds
+Text: At least that's the theory anyway. So you know.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 00:34:05.120
+End: 00:34:12.120
+Duration: 7.000 seconds
+Text: I think when we look at spending this workforce housing money, you know we're not going to just build our way out of it.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 00:34:12.120
+End: 00:34:17.120
+Duration: 5.000 seconds
+Text: But this is something that can kind of relieve one of those dynamics.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 00:34:17.120
+End: 00:34:21.120
+Duration: 4.000 seconds
+Text: That is at play that's creating kind of this this shortage.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:34:21.120
+End: 00:34:29.120
+Duration: 8.000 seconds
+Text: I think Jill could expound on the people that are in the the wreath avenue.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:34:29.120
+End: 00:34:33.120
+Duration: 4.000 seconds
+Text: And they are they're really happy with that housing.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:34:33.120
+End: 00:34:40.120
+Duration: 7.000 seconds
+Text: And I mean it's really nice and they have this common room that they decorated out of.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:34:40.120
+End: 00:34:55.120
+Duration: 15.000 seconds
+Text: But Jill did I see what you're saying is that elderly people who want to live in a more secure safe place with all the handicap accessibility and that kind of thing may move from their house into this.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:34:55.120
+End: 00:35:03.120
+Duration: 8.000 seconds
+Text: And that will free up more possible purchases in Manhattan.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 00:35:03.120
+End: 00:35:12.120
+Duration: 9.000 seconds
+Text: And from what I've heard we have a shortage of affordable senior housing anyways, which we have it sort of everybody.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:35:12.120
+End: 00:35:17.120
+Duration: 5.000 seconds
+Text: I mean I agree with all that. It with it being an important project happen.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:35:17.120
+End: 00:35:22.120
+Duration: 5.000 seconds
+Text: I don't know if it's in the spirit of workforce housing sales tax dollars.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:35:22.120
+End: 00:35:29.120
+Duration: 7.000 seconds
+Text: I know we're we pass a resolution that goes into effect for low income in January this January that we can use it for that.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:35:29.120
+End: 00:35:36.120
+Duration: 7.000 seconds
+Text: I guess mine was more maybe questioning the use of that for senior care in that.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:35:36.120
+End: 00:35:39.120
+Duration: 3.000 seconds
+Text: And maybe I'm more thinking in the spirit midst of semantics game.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:35:39.120
+End: 00:35:42.120
+Duration: 3.000 seconds
+Text: I know workforce housing is however category in that 60 to 120.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:35:42.120
+End: 00:35:48.120
+Duration: 6.000 seconds
+Text: But I was thinking of it more literally as well that it's not the intended target.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:35:48.120
+End: 00:35:55.120
+Duration: 7.000 seconds
+Text: But if everyone's comfortable with it staying there, I'm not going to pursue it and push it somewhere else.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:35:55.120
+End: 00:35:56.120
+Duration: 1.000 seconds
+Text: I think so.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:35:56.120
+End: 00:36:16.120
+Duration: 20.000 seconds
+Text: I think the hope is that we'll free up more housing for starter families than that kind of thing and move seniors into housing that they can stay and not have to go into because they are so handy accessible in the bathrooms or have wider doors and all that kind of thing.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:36:16.120
+End: 00:36:19.120
+Duration: 3.000 seconds
+Text: So we're providing for the seniors.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:36:19.120
+End: 00:36:30.120
+Duration: 11.000 seconds
+Text: And we need all kinds of housing and also we do and I just want to make sure that I mean but workforce housing sales tax dollars aren't for all kinds of housing.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:36:30.120
+End: 00:36:32.120
+Duration: 2.000 seconds
+Text: I mean we have some limits on the.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:36:32.120
+End: 00:36:37.120
+Duration: 5.000 seconds
+Text: And I think we're sort of taking baby steps with all of this.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:36:37.120
+End: 00:36:40.120
+Duration: 3.000 seconds
+Text: Okay, are there any other.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:36:40.120
+End: 00:36:43.120
+Duration: 3.000 seconds
+Text: Do you want anybody want to pull out anything else?
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:36:43.120
+End: 00:36:46.120
+Duration: 3.000 seconds
+Text: I'd like to note we can leave that on the.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:36:46.120
+End: 00:36:58.120
+Duration: 12.000 seconds
+Text: Carla Haggermeister has been pointed to the Douglas Center advisory board and she was on WIBW the other night.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:36:58.120
+End: 00:37:02.120
+Duration: 4.000 seconds
+Text: She was the citizen of the week or the citizen of the day or something.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:37:02.120
+End: 00:37:05.120
+Duration: 3.000 seconds
+Text: She did a nice job talking about the bread basket.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:37:05.120
+End: 00:37:09.120
+Duration: 4.000 seconds
+Text: And Nancy Rochelo, did I do that right?
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:37:09.120
+End: 00:37:10.120
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:37:10.120
+End: 00:37:11.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:37:11.120
+End: 00:37:22.120
+Duration: 11.000 seconds
+Text: Has been appointed to the Rally County Commission by Solid Waste Committee and the Solid Waste Management Committee and we hope that they will meet soon.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:37:22.120
+End: 00:37:24.120
+Duration: 2.000 seconds
+Text: They don't meet very often.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:37:24.120
+End: 00:37:28.120
+Duration: 4.000 seconds
+Text: Okay, so do I hear an emotion to approve the consent agenda?
+--------------------------------------------------
+Commissioner Cummins:
+Start: 00:37:28.120
+End: 00:37:31.120
+Duration: 3.000 seconds
+Text: I'll move that we approve the consent agenda.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:37:31.120
+End: 00:37:32.120
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:37:32.120
+End: 00:37:33.120
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:37:33.120
+End: 00:37:34.120
+Duration: 1.000 seconds
+Text: Moving second.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:37:34.120
+End: 00:37:35.120
+Duration: 1.000 seconds
+Text: Would you call the role please?
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:37:35.120
+End: 00:37:36.120
+Duration: 1.000 seconds
+Text: Can you sure opel?
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:37:36.120
+End: 00:37:37.120
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:37:37.120
+End: 00:37:38.120
+Duration: 1.000 seconds
+Text: Krishamada?
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:37:38.120
+End: 00:37:39.120
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:37:39.120
+End: 00:37:40.120
+Duration: 1.000 seconds
+Text: Krishamitten?
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:37:40.120
+End: 00:37:41.120
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:37:41.120
+End: 00:37:42.120
+Duration: 1.000 seconds
+Text: Mayor Proto-McCola?
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:37:42.120
+End: 00:37:43.120
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:37:43.120
+End: 00:37:44.120
+Duration: 1.000 seconds
+Text: Motion carries.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:37:44.120
+End: 00:37:45.120
+Duration: 1.000 seconds
+Text: 4-0.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:37:45.120
+End: 00:37:49.120
+Duration: 4.000 seconds
+Text: Okay, now we move on to the general agenda.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:37:49.120
+End: 00:38:01.120
+Duration: 12.000 seconds
+Text: And if there are comments that people want to make to the general agenda, we are considering a request for qualifications, for proposals, for sunrise and some set of cemeteries, improvements.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:38:01.120
+End: 00:38:07.120
+Duration: 6.000 seconds
+Text: And historic designation for sunset cemeteries.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:38:07.120
+End: 00:38:10.120
+Duration: 3.000 seconds
+Text: And do we do comment?
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:38:10.120
+End: 00:38:12.120
+Duration: 2.000 seconds
+Text: Staff presentation first.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:38:12.120
+End: 00:38:13.120
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:38:13.120
+End: 00:38:14.120
+Duration: 1.000 seconds
+Text: I think we should move that.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:38:14.120
+End: 00:38:16.120
+Duration: 2.000 seconds
+Text: I think we need to move that to the bottom.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:38:16.120
+End: 00:38:17.120
+Duration: 1.000 seconds
+Text: Excuse me.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:38:17.120
+End: 00:38:18.120
+Duration: 1.000 seconds
+Text: Excuse me.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:38:18.120
+End: 00:38:19.120
+Duration: 1.000 seconds
+Text: No, certainly.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:38:19.120
+End: 00:38:20.120
+Duration: 1.000 seconds
+Text: You're good.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:38:20.120
+End: 00:38:21.120
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:38:21.120
+End: 00:38:31.120
+Duration: 10.000 seconds
+Text: Here's your report.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:38:31.120
+End: 00:38:33.120
+Duration: 2.000 seconds
+Text: Director.
+--------------------------------------------------
+Speaker_0:
+Start: 00:38:33.120
+End: 00:38:35.120
+Duration: 2.000 seconds
+Text: Good evening, Mayor and commissioners.
+--------------------------------------------------
+Speaker_0:
+Start: 00:38:35.120
+End: 00:38:45.120
+Duration: 10.000 seconds
+Text: Aaron Stewart, Parks and Rec Director, here to talk about the request for qualifications and request for proposals for the cemetery improvements.
+--------------------------------------------------
+Speaker_0:
+Start: 00:38:45.120
+End: 00:38:55.120
+Duration: 10.000 seconds
+Text: In December, we adopted a cemetery master plan and this was the next step in this is to further refine the cost of this plan.
+--------------------------------------------------
+Speaker_0:
+Start: 00:38:55.120
+End: 00:39:02.120
+Duration: 7.000 seconds
+Text: But we're going to kind of go through the background and review a lot of that information that was there.
+--------------------------------------------------
+Speaker_0:
+Start: 00:39:02.120
+End: 00:39:06.120
+Duration: 4.000 seconds
+Text: Currently we manage two cemeteries, sunset cemeteries, which is approximately 45 acres.
+--------------------------------------------------
+Speaker_0:
+Start: 00:39:06.120
+End: 00:39:08.120
+Duration: 2.000 seconds
+Text: It is our oldest cemetery.
+--------------------------------------------------
+Speaker_0:
+Start: 00:39:08.120
+End: 00:39:10.120
+Duration: 2.000 seconds
+Text: It established in 1860.
+--------------------------------------------------
+Speaker_0:
+Start: 00:39:10.120
+End: 00:39:13.120
+Duration: 3.000 seconds
+Text: Sunrise cemeteries established in 1960.
+--------------------------------------------------
+Speaker_0:
+Start: 00:39:13.120
+End: 00:39:16.120
+Duration: 3.000 seconds
+Text: It's approximately 80 acres.
+--------------------------------------------------
+Speaker_0:
+Start: 00:39:16.120
+End: 00:39:30.120
+Duration: 14.000 seconds
+Text: Again, we adopted the plan and that identified the construction of a new office and maintenance facilities at sunrise, a joint maintenance shop at sunset cemeteries that would be shared with sunset zoo.
+--------------------------------------------------
+Speaker_0:
+Start: 00:39:30.120
+End: 00:39:39.120
+Duration: 9.000 seconds
+Text: New Columbarium sites, infrastructure upgrades, which include road and utility improvements and ADA compliant access enhancement.
+--------------------------------------------------
+Speaker_0:
+Start: 00:39:39.120
+End: 00:39:45.120
+Duration: 6.000 seconds
+Text: And historical restorations at sunset.
+--------------------------------------------------
+Speaker_0:
+Start: 00:39:45.120
+End: 00:39:52.120
+Duration: 7.000 seconds
+Text: The design team and this is where the commission would take part in.
+--------------------------------------------------
+Speaker_0:
+Start: 00:39:52.120
+End: 00:39:59.120
+Duration: 7.000 seconds
+Text: We would issue the RFQ, which requires your permission or your approval.
+--------------------------------------------------
+Speaker_0:
+Start: 00:39:59.120
+End: 00:40:09.120
+Duration: 10.000 seconds
+Text: The selection of the team, we were looking to select the team that has the best overall value with the city and then of course an agreement for phase one services.
+--------------------------------------------------
+Speaker_0:
+Start: 00:40:09.120
+End: 00:40:12.120
+Duration: 3.000 seconds
+Text: So all of that flows through the commission for approval.
+--------------------------------------------------
+Speaker_0:
+Start: 00:40:12.120
+End: 00:40:18.120
+Duration: 6.000 seconds
+Text: Just like Zika, we would enter the phase one design services because this is a design build process.
+--------------------------------------------------
+Speaker_0:
+Start: 00:40:18.120
+End: 00:40:27.120
+Duration: 9.000 seconds
+Text: And for pre-construction, until we get a 30% design that we would bring back to the commission with a guaranteed maximum price of GMP.
+--------------------------------------------------
+Speaker_0:
+Start: 00:40:27.120
+End: 00:40:32.120
+Duration: 5.000 seconds
+Text: You would approve that design the GMP and then the phase two agreements.
+--------------------------------------------------
+Speaker_0:
+Start: 00:40:32.120
+End: 00:40:39.120
+Duration: 7.000 seconds
+Text: And then we would do construction and ideally have a close out and a finished product.
+--------------------------------------------------
+Speaker_0:
+Start: 00:40:39.120
+End: 00:40:54.120
+Duration: 15.000 seconds
+Text: So the key improvements identified at sunrise, which is where a bulk of this work will occur, is a new office which allows for ADA compliance, the renovation of the existing shop that's been there since the 50s or 60s.
+--------------------------------------------------
+Speaker_0:
+Start: 00:40:54.120
+End: 00:40:57.120
+Duration: 3.000 seconds
+Text: Construction of a new 40 by 80 shop.
+--------------------------------------------------
+Speaker_0:
+Start: 00:40:57.120
+End: 00:41:07.120
+Duration: 10.000 seconds
+Text: As you noticed on your tours, we have to maintain all of our equipment outside because it cannot fit in our existing shop and expansion and enclosing the maintenance yard.
+--------------------------------------------------
+Speaker_0:
+Start: 00:41:07.120
+End: 00:41:19.120
+Duration: 12.000 seconds
+Text: So that's both better security and if you use things like PDS slats, it will actually create a visual barrier back from several grave sites.
+--------------------------------------------------
+Speaker_0:
+Start: 00:41:19.120
+End: 00:41:37.120
+Duration: 18.000 seconds
+Text: Here's the plan and section that you've seen before the existing office slash, I call it a house that was built in 50s is existing right here and we would move that down to this base level to create that ADA access.
+--------------------------------------------------
+Speaker_0:
+Start: 00:41:37.120
+End: 00:41:48.120
+Duration: 11.000 seconds
+Text: For those that were out there, Mike has told you that there have been times where he is at assist people up the stairway that are in wheelchairs by pulling them backwards up that.
+--------------------------------------------------
+Speaker_0:
+Start: 00:41:48.120
+End: 00:41:56.120
+Duration: 8.000 seconds
+Text: So it's not very conducive and inviting for those that have mobility challenges.
+--------------------------------------------------
+Speaker_0:
+Start: 00:41:56.120
+End: 00:41:59.120
+Duration: 3.000 seconds
+Text: This is kind of the existing conditions.
+--------------------------------------------------
+Speaker_0:
+Start: 00:41:59.120
+End: 00:42:09.120
+Duration: 10.000 seconds
+Text: One of the things that I caught that I know we didn't necessarily show you when you were out there is the shop restroom was intriguing to me as you literally cannot pass that door to get to the toilet.
+--------------------------------------------------
+Speaker_0:
+Start: 00:42:09.120
+End: 00:42:13.120
+Duration: 4.000 seconds
+Text: You have to finagle your way back to the sink to close the door.
+--------------------------------------------------
+Speaker_0:
+Start: 00:42:13.120
+End: 00:42:23.120
+Duration: 10.000 seconds
+Text: I recognize that I'm a little larger than the average person but even the smaller stature would have trouble.
+--------------------------------------------------
+Speaker_0:
+Start: 00:42:23.120
+End: 00:42:31.120
+Duration: 8.000 seconds
+Text: It's simple things like this that exist well before ADA implications took place.
+--------------------------------------------------
+Speaker_0:
+Start: 00:42:31.120
+End: 00:42:40.120
+Duration: 9.000 seconds
+Text: The Lamyon office, again this is where we're meeting people on a lot of times their worst day to discuss where they're going to bury a loved one.
+--------------------------------------------------
+Speaker_0:
+Start: 00:42:40.120
+End: 00:42:47.120
+Duration: 7.000 seconds
+Text: So of course the office century where we're talking about the stairs in the open yard and exposed equipment.
+--------------------------------------------------
+Speaker_0:
+Start: 00:42:48.120
+End: 00:43:00.120
+Duration: 12.000 seconds
+Text: Sunset, key improvements there, joint maintenance facility and I'll cover that in a minute but the Columbarium design and construction this would be one of the features that we could add to actually.
+--------------------------------------------------
+Speaker_0:
+Start: 00:43:00.120
+End: 00:43:14.120
+Duration: 14.000 seconds
+Text: Sunset cemetery is sold out for all intents and purposes and this would add some opportunities for Columbariums for people to purchase those in sunset which are highly desired at this point.
+--------------------------------------------------
+Speaker_0:
+Start: 00:43:14.120
+End: 00:43:23.120
+Duration: 9.000 seconds
+Text: Infrastructure improvements, roads, irrigation and of course ADA improvements along with that and the memorial archer pair.
+--------------------------------------------------
+Speaker_0:
+Start: 00:43:23.120
+End: 00:43:32.120
+Duration: 9.000 seconds
+Text: So the shop concept, this joint shop you can see would be shared and this is kind of for reference right down here.
+--------------------------------------------------
+Speaker_0:
+Start: 00:43:33.120
+End: 00:43:43.120
+Duration: 10.000 seconds
+Text: Out of side of the sunset cemetery shared with the zoo that would clean up a lot of that and it's literally just a mirror image on each side.
+--------------------------------------------------
+Speaker_0:
+Start: 00:43:43.120
+End: 00:43:48.120
+Duration: 5.000 seconds
+Text: And so here's some pictures of the existing conditions.
+--------------------------------------------------
+Speaker_0:
+Start: 00:43:48.120
+End: 00:43:52.120
+Duration: 4.000 seconds
+Text: This is the Colvert failure that's out there right now.
+--------------------------------------------------
+Speaker_0:
+Start: 00:43:53.120
+End: 00:44:00.120
+Duration: 7.000 seconds
+Text: We have the ability to do maybe a temporary fix this winter but the reality is is this kind of you can see it's not just there.
+--------------------------------------------------
+Speaker_0:
+Start: 00:44:00.120
+End: 00:44:04.120
+Duration: 4.000 seconds
+Text: The roads are literally falling apart.
+--------------------------------------------------
+Speaker_0:
+Start: 00:44:04.120
+End: 00:44:13.120
+Duration: 9.000 seconds
+Text: Talking to Mike there have been no improvements done in either cemetery to that extent to refurbish this since the mid 90s.
+--------------------------------------------------
+Speaker_0:
+Start: 00:44:13.120
+End: 00:44:18.120
+Duration: 5.000 seconds
+Text: Again, fixing the monument all important pieces.
+--------------------------------------------------
+Speaker_0:
+Start: 00:44:18.120
+End: 00:44:26.120
+Duration: 8.000 seconds
+Text: One of the benefits by adding that shared shop in there is we can remove some of the existing conditions at sunset zoo.
+--------------------------------------------------
+Speaker_0:
+Start: 00:44:26.120
+End: 00:44:35.120
+Duration: 9.000 seconds
+Text: So as we develop that master plan as you're aware it became apparent where we could clean up some of this which is more bang for your buck.
+--------------------------------------------------
+Speaker_0:
+Start: 00:44:35.120
+End: 00:44:39.120
+Duration: 4.000 seconds
+Text: And these are just images of the structures that would be removed at that point.
+--------------------------------------------------
+Speaker_0:
+Start: 00:44:40.120
+End: 00:44:49.120
+Duration: 9.000 seconds
+Text: As you can see they're pretty well out of shape and dilapidated and have exceeded their lifespan for the most part.
+--------------------------------------------------
+Speaker_0:
+Start: 00:44:49.120
+End: 00:44:56.120
+Duration: 7.000 seconds
+Text: So again financial considerations there are no cost issue the RFP RFG.
+--------------------------------------------------
+Speaker_0:
+Start: 00:44:56.120
+End: 00:45:06.120
+Duration: 10.000 seconds
+Text: The project estimate costs as estimated around 10 million part of this was to try to refine that by going to an RFG RFP to dial that in.
+--------------------------------------------------
+Speaker_0:
+Start: 00:45:06.120
+End: 00:45:10.120
+Duration: 4.000 seconds
+Text: So this is the estimates outlined in the master plan.
+--------------------------------------------------
+Speaker_0:
+Start: 00:45:10.120
+End: 00:45:15.120
+Duration: 5.000 seconds
+Text: So we really want to we think that will be refined down.
+--------------------------------------------------
+Speaker_0:
+Start: 00:45:15.120
+End: 00:45:22.120
+Duration: 7.000 seconds
+Text: So we want to select a design build team in a phase one phase two agreement.
+--------------------------------------------------
+Speaker_0:
+Start: 00:45:22.120
+End: 00:45:24.120
+Duration: 2.000 seconds
+Text: Similar to the CCO.
+--------------------------------------------------
+Speaker_0:
+Start: 00:45:24.120
+End: 00:45:29.120
+Duration: 5.000 seconds
+Text: So a potential timeline if we issue the design build tomorrow.
+--------------------------------------------------
+Speaker_0:
+Start: 00:45:29.120
+End: 00:45:32.120
+Duration: 3.000 seconds
+Text: Proposals would be due on November 4th December 3rd.
+--------------------------------------------------
+Speaker_0:
+Start: 00:45:32.120
+End: 00:45:36.120
+Duration: 4.000 seconds
+Text: So we're going to have a selection committee and recommendation to the city commission.
+--------------------------------------------------
+Speaker_0:
+Start: 00:45:36.120
+End: 00:45:41.120
+Duration: 5.000 seconds
+Text: The commission we consider the final scope and the phase one agreement on January 7th.
+--------------------------------------------------
+Speaker_0:
+Start: 00:45:41.120
+End: 00:45:46.120
+Duration: 5.000 seconds
+Text: Then may we be looking for that 30% GMP and a phase two agreement.
+--------------------------------------------------
+Speaker_0:
+Start: 00:45:46.120
+End: 00:45:52.120
+Duration: 6.000 seconds
+Text: Summer of 25 we'd begin construction with an ideal ideally we would end in summer of 2026.
+--------------------------------------------------
+Speaker_0:
+Start: 00:45:52.120
+End: 00:45:57.120
+Duration: 5.000 seconds
+Text: Obviously that is whether dependent.
+--------------------------------------------------
+Speaker_0:
+Start: 00:45:57.120
+End: 00:46:04.120
+Duration: 7.000 seconds
+Text: But you also have in front of you today is the historic resources board has made a recommendation to create this historic district.
+--------------------------------------------------
+Speaker_0:
+Start: 00:46:04.120
+End: 00:46:07.120
+Duration: 3.000 seconds
+Text: That is sunset cemetery.
+--------------------------------------------------
+Speaker_0:
+Start: 00:46:07.120
+End: 00:46:13.120
+Duration: 6.000 seconds
+Text: It also has a land water water tower the sexted south and some other individual nominations in there.
+--------------------------------------------------
+Speaker_0:
+Start: 00:46:13.120
+End: 00:46:19.120
+Duration: 6.000 seconds
+Text: This was presented to the cemetery and Parks and Rec Advisory Board.
+--------------------------------------------------
+Speaker_0:
+Start: 00:46:19.120
+End: 00:46:25.120
+Duration: 6.000 seconds
+Text: And their recommendation is delaying the nomination till after the completion of the construction.
+--------------------------------------------------
+Speaker_0:
+Start: 00:46:25.120
+End: 00:46:30.120
+Duration: 5.000 seconds
+Text: So to be clear the discrepancy here is the timing.
+--------------------------------------------------
+Speaker_0:
+Start: 00:46:30.120
+End: 00:46:37.120
+Duration: 7.000 seconds
+Text: Both boards agree and including staff agree that this designation should probably happen.
+--------------------------------------------------
+Speaker_0:
+Start: 00:46:37.120
+End: 00:46:50.120
+Duration: 13.000 seconds
+Text: The desire from those boards and staff would be to delay that for construction to avoid any unnecessary additional reviews that would happen that could delay construction.
+--------------------------------------------------
+Speaker_0:
+Start: 00:46:50.120
+End: 00:47:03.120
+Duration: 13.000 seconds
+Text: That is kind of the discrepancy that we are going to ask you to weigh on these two different recommendations is either to move ahead or delay.
+--------------------------------------------------
+Speaker_0:
+Start: 00:47:03.120
+End: 00:47:17.120
+Duration: 14.000 seconds
+Text: So if you were to move ahead with the timeline or when that happens one to two months for their nomination draft three to five months for a state review and draft approval.
+--------------------------------------------------
+Speaker_0:
+Start: 00:47:17.120
+End: 00:47:32.120
+Duration: 15.000 seconds
+Text: The month six to ten Kansas sites review board approves the state listing and then month twelve eighteen National Park Service approves a national listing.
+--------------------------------------------------
+Speaker_0:
+Start: 00:47:32.120
+End: 00:47:35.120
+Duration: 3.000 seconds
+Text: So happy to answer any questions.
+--------------------------------------------------
+Speaker_0:
+Start: 00:47:35.120
+End: 00:48:04.120
+Duration: 29.000 seconds
+Text: The two kind of things that we've outlined for you today is we're asking for recommendation either to delay the pursuit of that historic nomination until after the construction or pursue it as of now with the construction and or take action on either approve the issuance of the design RFPRQ or deny the issuance of the
+--------------------------------------------------
+Speaker_0:
+Start: 00:48:04.120
+End: 00:48:08.120
+Duration: 4.000 seconds
+Text: RFQ or Fee questions.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:48:08.120
+End: 00:48:10.120
+Duration: 2.000 seconds
+Text: Yeah question.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:48:10.120
+End: 00:48:16.120
+Duration: 6.000 seconds
+Text: How does it work if you actually start construction and the reviews going on at the same time?
+--------------------------------------------------
+Speaker_0:
+Start: 00:48:16.120
+End: 00:48:19.120
+Duration: 3.000 seconds
+Text: I'm going to defer pins.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:48:19.120
+End: 00:48:21.120
+Duration: 2.000 seconds
+Text: Go ahead.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:48:21.120
+End: 00:48:24.120
+Duration: 3.000 seconds
+Text: Ben Schmiel senior planner.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:48:24.120
+End: 00:48:29.120
+Duration: 5.000 seconds
+Text: You're asking if you could begin construction during the nomination process.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:48:29.120
+End: 00:48:30.120
+Duration: 1.000 seconds
+Text: Right.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:48:30.120
+End: 00:48:31.120
+Duration: 1.000 seconds
+Text: That'd be the first question.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:48:31.120
+End: 00:48:36.120
+Duration: 5.000 seconds
+Text: If you say no, you can't then that answers the second question, which is how would you do that?
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:48:36.120
+End: 00:48:50.120
+Duration: 14.000 seconds
+Text: Yeah. So just beginning the nomination process, submitting a nomination to the state doesn't establish any more Torium or anything on on anything within that proposed district boundary.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:48:50.120
+End: 00:48:53.120
+Duration: 3.000 seconds
+Text: You can.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:48:53.120
+End: 00:48:55.120
+Duration: 2.000 seconds
+Text: Yeah, so there's no issues there.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:48:55.120
+End: 00:49:07.120
+Duration: 12.000 seconds
+Text: It's just as soon as the state approves of that nomination and it's listed on the state register then state law state preservation law begins to apply and then those projects have to be reviewed.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:49:07.120
+End: 00:49:19.120
+Duration: 12.000 seconds
+Text: So if it's already essentially started, you know, a building permit is issued or with projects that don't necessarily require a building permit but are already substantially underway.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:49:19.120
+End: 00:49:22.120
+Duration: 3.000 seconds
+Text: Those would not be affected.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:49:22.120
+End: 00:49:29.120
+Duration: 7.000 seconds
+Text: Okay. So if say they didn't like something that we already were halfway through, it's going to be like that's too late for that.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:49:29.120
+End: 00:49:36.120
+Duration: 7.000 seconds
+Text: Let's say there was a second part that hadn't started yet that kind of fit with the first part.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:49:36.120
+End: 00:49:43.120
+Duration: 7.000 seconds
+Text: Would there be a risk there that someone say, well, yeah, I know you had these were kind of complimentary, but we still see them as separate.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:49:43.120
+End: 00:49:45.120
+Duration: 2.000 seconds
+Text: And then you could have a problem doing them.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:49:45.120
+End: 00:49:54.120
+Duration: 9.000 seconds
+Text: Yeah, the trigger is going to be a building permit for subdivisions of the state or, you know, subdivisions of the government.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:49:54.120
+End: 00:50:05.120
+Duration: 11.000 seconds
+Text: It's a little bit different because sometimes we don't have building permits or, you know, we do work that the public generally isn't doing like building roads.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:50:05.120
+End: 00:50:14.120
+Duration: 9.000 seconds
+Text: So we do have to make a call on if a project is equivalent to something that would require a building permit.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:50:14.120
+End: 00:50:19.120
+Duration: 5.000 seconds
+Text: If it were split into different phases and, you know, one phase was complete and then we moved into another.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:50:19.120
+End: 00:50:23.120
+Duration: 4.000 seconds
+Text: We might see that as requiring a review.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:50:23.120
+End: 00:50:28.120
+Duration: 5.000 seconds
+Text: If it weren't, if it didn't have a nexus with the original project.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:50:28.120
+End: 00:50:43.120
+Duration: 15.000 seconds
+Text: Okay. And that, you know, obviously you're doing contracts and there's certain timing with contractors get things done that would, you know, that delay could cause a financial issue or something with the project.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:50:43.120
+End: 00:50:49.120
+Duration: 6.000 seconds
+Text: Because, you know, someone came on board figuring they were going to finish within X amount of time.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:50:49.120
+End: 00:50:54.120
+Duration: 5.000 seconds
+Text: And Elvis and you have a review that could blow that up.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:50:54.120
+End: 00:50:58.120
+Duration: 4.000 seconds
+Text: Depending on the review type, that the timeline is different.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:50:58.120
+End: 00:51:02.120
+Duration: 4.000 seconds
+Text: So smaller projects were able to review administratively.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:51:02.120
+End: 00:51:04.120
+Duration: 2.000 seconds
+Text: Those are called minor reviews.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:51:04.120
+End: 00:51:09.120
+Duration: 5.000 seconds
+Text: Larger project, we call those major reviews.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:51:09.120
+End: 00:51:13.120
+Duration: 4.000 seconds
+Text: Those would have to be reviewed by the historic resources board.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:51:13.120
+End: 00:51:20.120
+Duration: 7.000 seconds
+Text: And that can take several weeks to maybe a month depending on the schedule with their meetings.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:51:20.120
+End: 00:51:25.120
+Duration: 5.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:51:25.120
+End: 00:51:33.120
+Duration: 8.000 seconds
+Text: What is the, I guess when I think of putting something in historic registry, I think of your preserving that for future.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:51:33.120
+End: 00:51:42.120
+Duration: 9.000 seconds
+Text: Land, are there like more reasons that we're looking at like what are the advantages to having this listed on the historic register?
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:51:42.120
+End: 00:51:48.120
+Duration: 6.000 seconds
+Text: I apologize for anything that's going to be mad that I don't already know that answer.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:51:48.120
+End: 00:51:57.120
+Duration: 9.000 seconds
+Text: So from a, yeah, from a practical standpoint, there are financial incentives for preservation work.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:51:57.120
+End: 00:52:04.120
+Duration: 7.000 seconds
+Text: So there are tax credits and grants available through the state, through the National Park Service.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:52:04.120
+End: 00:52:10.120
+Duration: 6.000 seconds
+Text: Occasionally, NPO's will offer support for certain projects.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:52:10.120
+End: 00:52:13.120
+Duration: 3.000 seconds
+Text: So there's the financial incentive.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:52:13.120
+End: 00:52:21.120
+Duration: 8.000 seconds
+Text: I will say that there's not a lot in the cemetery that would qualify for those programs within the proposed boundary.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:52:21.120
+End: 00:52:25.120
+Duration: 4.000 seconds
+Text: It's really buildings, habitable structures that qualify.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:52:25.120
+End: 00:52:32.120
+Duration: 7.000 seconds
+Text: So we'd be looking at the, the Sexton's House, the Paisley Tower.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:52:32.120
+End: 00:52:39.120
+Duration: 7.000 seconds
+Text: The Girl Scout little house is outside of that district, but you know, is a building that would qualify.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:52:39.120
+End: 00:52:48.120
+Duration: 9.000 seconds
+Text: Outside of that, there's more soft benefits, you know, just related to civic pride and tourism.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:52:48.120
+End: 00:53:00.120
+Duration: 12.000 seconds
+Text: And, you know, just kind of bolstering the recognizing the history of a community and instilling it in the register.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 00:53:00.120
+End: 00:53:13.120
+Duration: 13.000 seconds
+Text: So I feel like it would be pretty easy given the current state of the district that we're proposing.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 00:53:13.120
+End: 00:53:17.120
+Duration: 4.000 seconds
+Text: Those are all very old historic, not just old, but historic buildings.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 00:53:17.120
+End: 00:53:25.120
+Duration: 8.000 seconds
+Text: Cemetery's especially one of the most important historic locations of many communities.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 00:53:25.120
+End: 00:53:39.120
+Duration: 14.000 seconds
+Text: How could adding a new building into this historic district affect the approval and all that process?
+--------------------------------------------------
+Speaker_0:
+Start: 00:53:39.120
+End: 00:53:44.120
+Duration: 5.000 seconds
+Text: So just to clarify, Commissioner, are you talking about the proposed joint maintenance facility?
+--------------------------------------------------
+Commissioner Cummins:
+Start: 00:53:44.120
+End: 00:53:47.120
+Duration: 3.000 seconds
+Text: Well, no, the column barrioms as well.
+--------------------------------------------------
+Speaker_0:
+Start: 00:53:47.120
+End: 00:53:53.120
+Duration: 6.000 seconds
+Text: So I don't know that those would be considered a building as much as a...
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:53:53.120
+End: 00:53:55.120
+Duration: 2.000 seconds
+Text: It could be...
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:53:55.120
+End: 00:54:02.120
+Duration: 7.000 seconds
+Text: There have been people that are telling me that they're concerned that the column barriom would be better put at sunrise.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:54:02.120
+End: 00:54:10.120
+Duration: 8.000 seconds
+Text: Yeah, the column barrioms have been a point of issue for the HRB and individuals in the community.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:54:10.120
+End: 00:54:24.120
+Duration: 14.000 seconds
+Text: In consultation with the state, they did not see that as a recommended installation, specifically at the location where it is.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:54:24.120
+End: 00:54:32.120
+Duration: 8.000 seconds
+Text: But that would not necessarily affect the eligibility of establishing a district if that more so answers your question.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 00:54:32.120
+End: 00:54:34.120
+Duration: 2.000 seconds
+Text: So that...no.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 00:54:34.120
+End: 00:54:38.120
+Duration: 4.000 seconds
+Text: They didn't recommend...
+--------------------------------------------------
+Commissioner Cummins:
+Start: 00:54:38.120
+End: 00:54:44.120
+Duration: 6.000 seconds
+Text: We put it there, but it wouldn't prevent the district from being designated.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:54:44.120
+End: 00:54:45.120
+Duration: 1.000 seconds
+Text: Correct.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:54:45.120
+End: 00:54:53.120
+Duration: 8.000 seconds
+Text: If those were to be established and we came back a year later and wanted to pursue a historic nomination,
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:54:53.120
+End: 00:55:01.120
+Duration: 8.000 seconds
+Text: there's a very small chance that that would actually put it in the category of no longer eligible.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 00:55:01.120
+End: 00:55:13.120
+Duration: 12.000 seconds
+Text: And the reason we are putting them there is just because of the desire for folks to spend eternity there as opposed to sunrise.
+--------------------------------------------------
+Speaker_0:
+Start: 00:55:13.120
+End: 00:55:25.120
+Duration: 12.000 seconds
+Text: Yes, there's been a high desire for people to locate their versus sunrise in particular in those column barrioms.
+--------------------------------------------------
+Speaker_0:
+Start: 00:55:25.120
+End: 00:55:39.120
+Duration: 14.000 seconds
+Text: They would also add from a financial component, they would contribute to the overall care fund that would go in well as long as it could maintain that in perpetuity.
+--------------------------------------------------
+Speaker_0:
+Start: 00:55:39.120
+End: 00:55:51.120
+Duration: 12.000 seconds
+Text: So there would be an opportunity to generate some revenue back into that location that would, again, help take care of that facility, that cemetery for a longer haul.
+--------------------------------------------------
+Speaker_0:
+Start: 00:55:51.120
+End: 00:55:59.120
+Duration: 8.000 seconds
+Text: I mean, it eventually run out of those endowed funds and you'll be managing that with taxes.
+--------------------------------------------------
+Speaker_0:
+Start: 00:55:59.120
+End: 00:56:07.120
+Duration: 8.000 seconds
+Text: But it's a way to help inject some revenue into that system.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:56:07.120
+End: 00:56:13.120
+Duration: 6.000 seconds
+Text: Aaron, when we talked about this before in March or January.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:56:13.120
+End: 00:56:14.120
+Duration: 1.000 seconds
+Text: January.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:56:14.120
+End: 00:56:17.120
+Duration: 3.000 seconds
+Text: I thought the price tag was 3 million.
+--------------------------------------------------
+Speaker_0:
+Start: 00:56:17.120
+End: 00:56:23.120
+Duration: 6.000 seconds
+Text: That was for, this is for both cemeteries and all of the road infrastructure.
+--------------------------------------------------
+Speaker_0:
+Start: 00:56:23.120
+End: 00:56:29.120
+Duration: 6.000 seconds
+Text: So the total tax, the total price tag was just under 10 million.
+--------------------------------------------------
+Speaker_0:
+Start: 00:56:29.120
+End: 00:56:31.120
+Duration: 2.000 seconds
+Text: It was nine and some change for both cemeteries.
+--------------------------------------------------
+Speaker_0:
+Start: 00:56:31.120
+End: 00:56:37.120
+Duration: 6.000 seconds
+Text: 3 million was for sunset just by itself.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:56:37.120
+End: 00:56:44.120
+Duration: 7.000 seconds
+Text: Go ahead.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:56:44.120
+End: 00:56:49.120
+Duration: 5.000 seconds
+Text: I mean, I have some questions, but I'm interested in public comment before we.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:56:49.120
+End: 00:56:51.120
+Duration: 2.000 seconds
+Text: So I was just saying I'm all holding on.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:56:51.120
+End: 00:56:52.120
+Duration: 1.000 seconds
+Text: No, we finished with.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:56:52.120
+End: 00:56:54.120
+Duration: 2.000 seconds
+Text: So you're ready for comment?
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:56:54.120
+End: 00:56:55.120
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:56:55.120
+End: 00:56:58.120
+Duration: 3.000 seconds
+Text: We went and retained public comment on this subject.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:56:58.120
+End: 00:57:05.120
+Duration: 7.000 seconds
+Text: Not Mick on here?
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:57:05.120
+End: 00:57:07.120
+Duration: 2.000 seconds
+Text: Did anybody sign up?
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:57:07.120
+End: 00:57:08.120
+Duration: 1.000 seconds
+Text: What?
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:57:08.120
+End: 00:57:09.120
+Duration: 1.000 seconds
+Text: Did he make sign up?
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:57:09.120
+End: 00:57:10.120
+Duration: 1.000 seconds
+Text: Yeah, Mick, Charlie.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:57:10.120
+End: 00:57:11.120
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 00:57:11.120
+End: 00:57:14.120
+Duration: 3.000 seconds
+Text: And Kathy Delvichowski.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:57:14.120
+End: 00:57:15.120
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:57:15.120
+End: 00:57:18.120
+Duration: 3.000 seconds
+Text: I think you can.
+--------------------------------------------------
+Commissioner Mata:
+Start: 00:57:18.120
+End: 00:57:29.120
+Duration: 11.000 seconds
+Text: Mick, Charlie, 1420 Waterford.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:57:29.120
+End: 00:57:35.120
+Duration: 6.000 seconds
+Text: I'm also a member of the historic resources board.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:57:35.120
+End: 00:57:43.120
+Duration: 8.000 seconds
+Text: And I come to you tonight to underscore the uniqueness and the importance of our sunset cemetery.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:57:43.120
+End: 00:57:46.120
+Duration: 3.000 seconds
+Text: It's a gorgeous cemetery.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:57:46.120
+End: 00:57:52.120
+Duration: 6.000 seconds
+Text: And I hope with a superb design and significant historical importance.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:57:52.120
+End: 00:57:59.120
+Duration: 7.000 seconds
+Text: And I hope that eventually it will become nominated to both the state and the national registers of historic places.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:57:59.120
+End: 00:58:10.120
+Duration: 11.000 seconds
+Text: I want to reinforce that what we have here is very special, very valuable, very precious, and that we need not to dispoil it in any way.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:58:10.120
+End: 00:58:13.120
+Duration: 3.000 seconds
+Text: We need to take special care of that cemetery.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:58:13.120
+End: 00:58:21.120
+Duration: 8.000 seconds
+Text: It's deserving of a very methodical, deliberate, and careful approach to making any alterations.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:58:21.120
+End: 00:58:23.120
+Duration: 2.000 seconds
+Text: This is election season.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:58:23.120
+End: 00:58:26.120
+Duration: 3.000 seconds
+Text: You've probably heard the term low information voters.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:58:26.120
+End: 00:58:38.120
+Duration: 12.000 seconds
+Text: And so I ask only that as you discuss and reconcile the differing viewpoints you will hear about alterations to sunset cemetery, particularly the column barrioms,
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:58:38.120
+End: 00:58:43.120
+Duration: 5.000 seconds
+Text: that you do not become low information arbiters of that discussion.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:58:43.120
+End: 00:58:47.120
+Duration: 4.000 seconds
+Text: And so we all recognize the beauty of the cemetery.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:58:47.120
+End: 00:58:51.120
+Duration: 4.000 seconds
+Text: I thought I would address a little bit the historical significance.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:58:51.120
+End: 00:59:01.120
+Duration: 10.000 seconds
+Text: There are 2,371 cemeteries or burial grounds in Kansas, of which only 22 are on the national register.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:59:01.120
+End: 00:59:04.120
+Duration: 3.000 seconds
+Text: R's would be the 23rd.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:59:04.120
+End: 00:59:14.120
+Duration: 10.000 seconds
+Text: And if you organize those cemeteries chronologically, you can see, number 6, we would be the 6th oldest cemetery in Kansas on the national register.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:59:14.120
+End: 00:59:27.120
+Duration: 13.000 seconds
+Text: And if you organize them by their origin or their type, we would be the 2nd oldest civic cemetery in Kansas on the national register superseded only by Topeka's cemetery.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:59:28.120
+End: 00:59:33.120
+Duration: 5.000 seconds
+Text: If you map all that out, I'll show you where the locations are for these 22 or 23 cemeteries.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:59:33.120
+End: 00:59:36.120
+Duration: 3.000 seconds
+Text: And as you can see, most of them are east of us.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:59:36.120
+End: 00:59:38.120
+Duration: 2.000 seconds
+Text: There we are, number 6.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:59:38.120
+End: 00:59:46.120
+Duration: 8.000 seconds
+Text: And when you map that out, what that says to me is that our four founders and settlers of the town were very enlightened.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:59:46.120
+End: 00:59:49.120
+Duration: 3.000 seconds
+Text: They were very foresighted.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:59:49.120
+End: 00:59:56.120
+Duration: 7.000 seconds
+Text: And they were very aware of what was going on in terms of cemetery styles and fads and fashions.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:59:56.120
+End: 00:59:59.120
+Duration: 3.000 seconds
+Text: And so here they are right on the frontier.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 00:59:59.120
+End: 01:00:05.120
+Duration: 6.000 seconds
+Text: That's one of the far western cemeteries we have for this western cemeteries we have in Kansas.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:00:05.120
+End: 01:00:10.120
+Duration: 5.000 seconds
+Text: There's a layout of this cemetery beautifully designed over the years over many decades.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:00:10.120
+End: 01:00:16.120
+Duration: 6.000 seconds
+Text: And what's wonderful about it is it starts off on the east side as a very Jeffersonian sort of grid,
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:00:16.120
+End: 01:00:20.120
+Duration: 4.000 seconds
+Text: a transition into a bose art or city beautiful sort of movement.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:00:20.120
+End: 01:00:29.120
+Duration: 9.000 seconds
+Text: And then from there takes a turn, a curve around that dog leg into a portion of the cemetery that we might classify as romantic or picturesque,
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:00:29.120
+End: 01:00:31.120
+Duration: 2.000 seconds
+Text: all done very beautifully.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:00:31.120
+End: 01:00:39.120
+Duration: 8.000 seconds
+Text: Cheryl Collins, the late Cheryl Collins, had exactly right when she said that it was a progression of layer upon layer of different landscape movements.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:00:39.120
+End: 01:00:45.120
+Duration: 6.000 seconds
+Text: And here we have it all preserved in one cemetery almost as if it's a museum of these movements.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:00:45.120
+End: 01:00:48.120
+Duration: 3.000 seconds
+Text: And it parallels the east to west settlement of the country.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:00:48.120
+End: 01:00:52.120
+Duration: 4.000 seconds
+Text: In fact, you know, you've heard the expression go west young man.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:00:52.120
+End: 01:01:01.120
+Duration: 9.000 seconds
+Text: If you compare to other cemeteries like Topeka Cemetery or Mount Vernon Cemetery in that which is now officially on the national register,
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:01:01.120
+End: 01:01:06.120
+Duration: 5.000 seconds
+Text: you'll see that those two, those other two are sort of grid-like cemeteries, kind of boilerplate,
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:01:06.120
+End: 01:01:09.120
+Duration: 3.000 seconds
+Text: whereas ours is much more inventive in terms of its design.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:01:09.120
+End: 01:01:14.120
+Duration: 5.000 seconds
+Text: You can see it from the aerial points of view as well, how unique our cemetery is.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:01:14.120
+End: 01:01:22.120
+Duration: 8.000 seconds
+Text: They even erected a gate that's a really interesting gateway, much more prominent than the gateways on either of the other two cemeteries.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:01:22.120
+End: 01:01:33.120
+Duration: 11.000 seconds
+Text: And part of the beauty of the cemetery is due to individuals like Chora Kimball, who prodded her neighbors and coaxed them to plant trees.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:01:33.120
+End: 01:01:36.120
+Duration: 3.000 seconds
+Text: And that's why the place is just so beautiful and lovely.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:01:36.120
+End: 01:01:41.120
+Duration: 5.000 seconds
+Text: If you look at Sun Cemetery up above and Topeka down below, you can see the difference.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:01:41.120
+End: 01:01:44.120
+Duration: 3.000 seconds
+Text: Or you compare our Sun Cemetery to Mount Vernon Cemetery in Atchison.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:01:44.120
+End: 01:01:50.120
+Duration: 6.000 seconds
+Text: And again, you can see the difference. We've got a beautiful, beautiful picturesque garden rural cemetery here.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:01:50.120
+End: 01:01:57.120
+Duration: 7.000 seconds
+Text: Other views. They took care over those decades to make sure that there was a contrast of light and shade,
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:01:57.120
+End: 01:02:00.120
+Duration: 3.000 seconds
+Text: open spaces, more closed spaces, and so forth.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:02:00.120
+End: 01:02:05.120
+Duration: 5.000 seconds
+Text: And the texture color formed. These were all important elements in the design of the cemetery,
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:02:05.120
+End: 01:02:09.120
+Duration: 4.000 seconds
+Text: as well as curving your eye and your path around the dog leg there.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:02:09.120
+End: 01:02:13.120
+Duration: 4.000 seconds
+Text: And so if I have one admonition, it would be, please, please, whatever you do,
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:02:13.120
+End: 01:02:21.120
+Duration: 8.000 seconds
+Text: don't allow column barrioms to be located anywhere near that tower, because it's clear to me by reading the accounts at the time
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:02:21.120
+End: 01:02:27.120
+Duration: 6.000 seconds
+Text: that those individuals never intended that area to be built on with anything else except that tower.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:02:27.120
+End: 01:02:29.120
+Duration: 2.000 seconds
+Text: Thank you very much for your attention.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:02:29.120
+End: 01:02:33.120
+Duration: 4.000 seconds
+Text: Oh, perfect timing. Thank you, Mick.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:02:33.120
+End: 01:02:34.120
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:02:34.120
+End: 01:02:36.120
+Duration: 2.000 seconds
+Text: Kathy Delosioski.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:02:52.120
+End: 01:02:55.120
+Duration: 3.000 seconds
+Text: Good evening. I'm Kathy Jolte-Tosie. I live at 100 South Delaware Avenue.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:02:56.120
+End: 01:02:59.120
+Duration: 3.000 seconds
+Text: I am in support of establishing this historic district.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:02:59.120
+End: 01:03:07.120
+Duration: 8.000 seconds
+Text: And I wanted to mention the Sextance House. I know there's been some concerns among city officials about the ownership situation with the Sextance House.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:03:07.120
+End: 01:03:13.120
+Duration: 6.000 seconds
+Text: And so I want to comment on that and say that normally in a historic district is united around a theme.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:03:13.120
+End: 01:03:19.120
+Duration: 6.000 seconds
+Text: The properties within an historic district all support a common theme, which in this case would be the cemetery.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:03:19.120
+End: 01:03:26.120
+Duration: 7.000 seconds
+Text: And I think the Sextance House then clearly belongs in this district because it was there to support the cemetery.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:03:26.120
+End: 01:03:36.120
+Duration: 10.000 seconds
+Text: So I mentioned this because in the minutes of the cemetery board, it was mentioned that perhaps the boundary could be withdrawn, do not include the Sextance House.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:03:36.120
+End: 01:03:47.120
+Duration: 11.000 seconds
+Text: And so I just wanted to argue in favor and keeping it because it clearly fits the theme of the cemetery because it was part of the support of the overall operations of the cemetery.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:03:47.120
+End: 01:04:03.120
+Duration: 16.000 seconds
+Text: And also I think that moving forward, that would be a way to honor that gift from the Kimball family when they donated the land to construct the Sextance House if it was part of the historic district and therefore was preserved more long term.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:04:03.120
+End: 01:04:08.120
+Duration: 5.000 seconds
+Text: And then also I wanted to mention tax credits in terms of how that can be a benefit.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:04:08.120
+End: 01:04:18.120
+Duration: 10.000 seconds
+Text: It was reported at the July historic resources board meeting that there's a roof work that needs to happen at the Douglas annex and the city was looking to use tax credits to help pay for that.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:04:18.120
+End: 01:04:27.120
+Duration: 9.000 seconds
+Text: So clearly the city is aware of how tax credits are a benefit for an historic district in case you aren't aware the Douglas annex is in the human street historic district.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:04:27.120
+End: 01:04:34.120
+Duration: 7.000 seconds
+Text: And so they do have financial benefits towards maintenance of city on the properties and that would be the case here in the cemetery.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:04:34.120
+End: 01:04:55.120
+Duration: 21.000 seconds
+Text: I caught perhaps the memorial gate and adjacent shelter would be eligible. I'll defer to Ben if he doesn't think that because it's not a traditional building, they wouldn't be eligible but might be something to look into whether there was a possibility they could be used or a grant funds could help with any work that has to happen at those gates.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:04:55.120
+End: 01:05:01.120
+Duration: 6.000 seconds
+Text: So again, I just wanted to mention I very much support establishment of that historic district sooner rather than later.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:05:01.120
+End: 01:05:05.120
+Duration: 4.000 seconds
+Text: Kathy, is the water tower in historic district?
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:05:05.120
+End: 01:05:13.120
+Duration: 8.000 seconds
+Text: The water tower currently is already on the national register. It is not in an historic district but it is proposed to be included in this district.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:05:14.120
+End: 01:05:18.120
+Duration: 4.000 seconds
+Text: Any other public comment?
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:05:18.120
+End: 01:05:21.120
+Duration: 3.000 seconds
+Text: Mel?
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:05:28.120
+End: 01:05:34.120
+Duration: 6.000 seconds
+Text: Good evening commissioners. My name is Catherine Hensler and I reside at 439 Northfield Road.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:05:35.120
+End: 01:05:54.120
+Duration: 19.000 seconds
+Text: Tonight I come to you as a private citizen. Often I'm up here for a very different reason. But I wanted to speak with you from the perspective of someone who is a historian, who is a preservationist, and also a conservator of historic cemeteries and the monuments that are within those boundaries.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:05:54.120
+End: 01:06:06.120
+Duration: 12.000 seconds
+Text: The first one I think the historic resources board and Ben and others who have pursued and worked very hard on this proposal for nomination that is being presented tonight.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:06:06.120
+End: 01:06:15.120
+Duration: 9.000 seconds
+Text: As Mick mentioned in our state, there is a very small number of cemeteries that are actually on the national register.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:06:16.120
+End: 01:06:30.120
+Duration: 14.000 seconds
+Text: And you may already know this but there are none in Riley County which also means there aren't none in Manhattan currently listed yet there are eligible cemeteries and sunset cemetery happens to be at the top of that list.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:06:30.120
+End: 01:06:41.120
+Duration: 11.000 seconds
+Text: Sunset cemetery is a unique example of a rural or garden style cemetery while operating also as a municipal cemetery that doesn't often happen that way.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:06:41.120
+End: 01:06:58.120
+Duration: 17.000 seconds
+Text: If we look at the design and Mick showed a great illustration of the different varieties of development of landscape, we can identify those trends in American history which reflected in cemeteries from the rural to the garden park and then on to the memorial park.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:06:58.120
+End: 01:07:02.120
+Duration: 4.000 seconds
+Text: All of those styles are encompassed in sunset cemetery.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:07:02.120
+End: 01:07:12.120
+Duration: 10.000 seconds
+Text: So probably already know this but cemeteries were also the first type of planned green space in the United States and that dates back to 1831.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:07:12.120
+End: 01:07:27.120
+Duration: 15.000 seconds
+Text: So while considering this proposal to nominate the sunset cemetery as a potential district, please also know that listing will not exclude the cemetery or the contributing properties from functional infrastructure repairs and improvements.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:07:27.120
+End: 01:07:39.120
+Duration: 12.000 seconds
+Text: So something like this may also open the possibilities of funding through additional federal state and private funding and as they have also mentioned tonight tax credits.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:07:39.120
+End: 01:07:42.120
+Duration: 3.000 seconds
+Text: These kinds of things can alleviate the burden on the tax payer.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:07:42.120
+End: 01:07:56.120
+Duration: 14.000 seconds
+Text: So this is a way to create infusion of funding not limiting what can be done preservation often as we all know in the business can sometimes get a negative reputation as a force that stops progress.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:07:56.120
+End: 01:08:05.120
+Duration: 9.000 seconds
+Text: But with this type of thing, let us work together to illustrate how preservation can work as a partnership through balance and collaboration.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:08:05.120
+End: 01:08:07.120
+Duration: 2.000 seconds
+Text: It does not have to stop progress.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:08:07.120
+End: 01:08:19.120
+Duration: 12.000 seconds
+Text: You also have a number of organizations in the community that are dedicated to preservation and cultural resources who may be willing to step in and assist from a number of different ways.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:08:19.120
+End: 01:08:27.120
+Duration: 8.000 seconds
+Text: So let us not view this nomination or preservation as a roadblock but as an opportunity or a tool for the betterment of our community.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:08:27.120
+End: 01:08:43.120
+Duration: 16.000 seconds
+Text: I do support this nomination of the sunset cemetery as a historic district to state and or national registries and I compliment the work towards the school that has been done through the planning department, the HRB Parks and Rec Department and the cemetery board.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:08:43.120
+End: 01:08:56.120
+Duration: 13.000 seconds
+Text: They have already put a lot of work into this. Let's keep this going. Commissioners, I hope tonight that you too can see the value that this brings to our community and those who will enjoy this park space and reflection space for years to come.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:08:56.120
+End: 01:08:57.120
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:08:57.120
+End: 01:08:59.120
+Duration: 2.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:09:02.120
+End: 01:09:04.120
+Duration: 2.000 seconds
+Text: Come on up. Don't argue.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:09:13.120
+End: 01:09:34.120
+Duration: 21.000 seconds
+Text: Good evening commissioners.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:09:34.120
+End: 01:09:44.120
+Duration: 10.000 seconds
+Text: I would like to thank you for your support and support for the event.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:09:44.120
+End: 01:09:54.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:09:54.120
+End: 01:10:04.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:10:04.120
+End: 01:10:14.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:10:34.120
+End: 01:10:44.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:11:04.120
+End: 01:11:14.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:11:34.120
+End: 01:11:44.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:11:44.120
+End: 01:11:54.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:12:14.120
+End: 01:12:24.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:12:44.120
+End: 01:12:54.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:13:14.120
+End: 01:13:24.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:13:44.120
+End: 01:13:54.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:13:54.120
+End: 01:14:04.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:14:04.120
+End: 01:14:14.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:14:14.120
+End: 01:14:24.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:14:24.120
+End: 01:14:34.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:14:34.120
+End: 01:14:44.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:14:44.120
+End: 01:14:54.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:14:54.120
+End: 01:15:04.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:15:04.120
+End: 01:15:14.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:15:14.120
+End: 01:15:24.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:15:24.120
+End: 01:15:34.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:15:34.120
+End: 01:15:44.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:15:44.120
+End: 01:15:54.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:15:54.120
+End: 01:16:04.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:16:04.120
+End: 01:16:14.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:16:14.120
+End: 01:16:24.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:16:24.120
+End: 01:16:34.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:16:34.120
+End: 01:16:44.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:16:44.120
+End: 01:16:54.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:16:54.120
+End: 01:17:04.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:17:04.120
+End: 01:17:14.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:17:14.120
+End: 01:17:24.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:17:24.120
+End: 01:17:34.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:17:34.120
+End: 01:17:44.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:17:44.120
+End: 01:17:54.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:17:54.120
+End: 01:18:04.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:18:04.120
+End: 01:18:14.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:18:34.120
+End: 01:18:44.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:18:44.120
+End: 01:18:54.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:18:54.120
+End: 01:19:04.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:19:24.120
+End: 01:19:34.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:19:34.120
+End: 01:19:44.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:19:44.120
+End: 01:19:54.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:19:54.120
+End: 01:20:04.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:20:04.120
+End: 01:20:14.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:20:14.120
+End: 01:20:24.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:20:24.120
+End: 01:20:34.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:20:34.120
+End: 01:20:44.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:20:44.120
+End: 01:20:54.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:20:54.120
+End: 01:21:04.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:21:04.120
+End: 01:21:14.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:21:14.120
+End: 01:21:24.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:21:24.120
+End: 01:21:34.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:21:34.120
+End: 01:21:44.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:21:44.120
+End: 01:21:54.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:21:54.120
+End: 01:22:04.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:22:04.120
+End: 01:22:14.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:22:14.120
+End: 01:22:24.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:22:24.120
+End: 01:22:34.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:22:34.120
+End: 01:22:44.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:22:44.120
+End: 01:22:54.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:22:54.120
+End: 01:23:04.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Speaker_0:
+Start: 01:23:04.120
+End: 01:23:14.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Speaker_0:
+Start: 01:23:14.120
+End: 01:23:24.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Speaker_0:
+Start: 01:23:24.120
+End: 01:23:34.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:23:34.120
+End: 01:23:44.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:24:04.120
+End: 01:24:14.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Speaker_0:
+Start: 01:24:34.120
+End: 01:24:44.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Speaker_0:
+Start: 01:24:44.120
+End: 01:24:54.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Speaker_0:
+Start: 01:24:54.120
+End: 01:25:04.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Speaker_0:
+Start: 01:25:04.120
+End: 01:25:14.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Speaker_0:
+Start: 01:25:14.120
+End: 01:25:24.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Speaker_0:
+Start: 01:25:24.120
+End: 01:25:34.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Speaker_0:
+Start: 01:25:54.120
+End: 01:26:04.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Speaker_0:
+Start: 01:26:04.120
+End: 01:26:14.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Speaker_0:
+Start: 01:26:14.120
+End: 01:26:24.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Speaker_0:
+Start: 01:26:24.120
+End: 01:26:34.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Speaker_0:
+Start: 01:26:34.120
+End: 01:26:44.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Speaker_0:
+Start: 01:26:44.120
+End: 01:26:54.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Speaker_0:
+Start: 01:26:54.120
+End: 01:27:04.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:27:24.120
+End: 01:27:34.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:27:34.120
+End: 01:27:44.120
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:27:44.120
+End: 01:27:54.120
+Duration: 10.000 seconds
+Text: When will we do this?
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:27:54.120
+End: 01:28:04.120
+Duration: 10.000 seconds
+Text: We will do this.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:28:04.120
+End: 01:28:14.120
+Duration: 10.000 seconds
+Text: We will do this.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:28:14.120
+End: 01:28:24.120
+Duration: 10.000 seconds
+Text: We will do this.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:28:24.120
+End: 01:28:34.120
+Duration: 10.000 seconds
+Text: We will do this.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:28:34.120
+End: 01:28:44.120
+Duration: 10.000 seconds
+Text: We will do this.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:28:44.120
+End: 01:28:54.120
+Duration: 10.000 seconds
+Text: I didn't want to raise the millilady for millas.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:28:54.120
+End: 01:29:04.120
+Duration: 10.000 seconds
+Text: I think we have the commission collectively.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:29:04.120
+End: 01:29:18.120
+Duration: 14.000 seconds
+Text: I see all of these with the exception of the ecolumbariums as necessary.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:29:18.120
+End: 01:29:28.120
+Duration: 10.000 seconds
+Text: These are not nice to have things.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:29:28.120
+End: 01:29:38.120
+Duration: 10.000 seconds
+Text: We have expensive equipment parked outside that looks like it's 20 years old that we've owned for three to five years.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:29:38.120
+End: 01:29:48.120
+Duration: 10.000 seconds
+Text: We haven't done the roads in sunset cemetery since the 90s.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:29:48.120
+End: 01:29:58.120
+Duration: 10.000 seconds
+Text: I'm not against this project.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:29:58.120
+End: 01:30:08.120
+Duration: 10.000 seconds
+Text: I'm not against this project.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:30:08.120
+End: 01:30:18.120
+Duration: 10.000 seconds
+Text: I'm against this project.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:30:18.120
+End: 01:30:28.120
+Duration: 10.000 seconds
+Text: I'm against this project.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:30:28.120
+End: 01:30:38.120
+Duration: 10.000 seconds
+Text: I'm against this project.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:30:38.120
+End: 01:30:48.120
+Duration: 10.000 seconds
+Text: I'm against this project.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:30:48.120
+End: 01:30:58.120
+Duration: 10.000 seconds
+Text: I'm against this project.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:30:58.120
+End: 01:31:08.120
+Duration: 10.000 seconds
+Text: I'm against this project.
+--------------------------------------------------
+Speaker_0:
+Start: 01:31:08.120
+End: 01:31:18.120
+Duration: 10.000 seconds
+Text: I'm against this project.
+--------------------------------------------------
+Speaker_0:
+Start: 01:31:18.120
+End: 01:31:28.120
+Duration: 10.000 seconds
+Text: I'm against this project.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:31:28.120
+End: 01:31:38.120
+Duration: 10.000 seconds
+Text: I'm against this project.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:31:38.120
+End: 01:31:48.120
+Duration: 10.000 seconds
+Text: I would delay the historic district having said that I'm for the RFP and RFQ.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:31:48.120
+End: 01:31:54.120
+Duration: 6.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:31:54.120
+End: 01:31:58.120
+Duration: 4.000 seconds
+Text: But there is a lot of stuff that needs to be fixed out there.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:31:58.120
+End: 01:32:08.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:32:08.120
+End: 01:32:18.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:32:18.120
+End: 01:32:28.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:32:28.120
+End: 01:32:38.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:32:38.120
+End: 01:32:48.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Speaker_0:
+Start: 01:32:48.120
+End: 01:32:58.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Speaker_0:
+Start: 01:32:58.120
+End: 01:33:08.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Speaker_0:
+Start: 01:33:08.120
+End: 01:33:18.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Speaker_0:
+Start: 01:33:18.120
+End: 01:33:28.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Speaker_0:
+Start: 01:33:28.120
+End: 01:33:36.120
+Duration: 8.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Speaker_0:
+Start: 01:33:36.120
+End: 01:33:46.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Speaker_0:
+Start: 01:33:46.120
+End: 01:33:56.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Speaker_0:
+Start: 01:33:56.120
+End: 01:34:04.120
+Duration: 8.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:34:04.120
+End: 01:34:14.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:34:14.120
+End: 01:34:24.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:34:24.120
+End: 01:34:28.120
+Duration: 4.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:34:28.120
+End: 01:34:38.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:34:38.120
+End: 01:34:48.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:34:48.120
+End: 01:34:56.120
+Duration: 8.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:34:56.120
+End: 01:35:06.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Speaker_0:
+Start: 01:35:06.120
+End: 01:35:14.120
+Duration: 8.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:35:14.120
+End: 01:35:24.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Speaker_0:
+Start: 01:35:24.120
+End: 01:35:34.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Speaker_0:
+Start: 01:35:34.120
+End: 01:35:42.120
+Duration: 8.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Speaker_0:
+Start: 01:35:42.120
+End: 01:35:52.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Speaker_0:
+Start: 01:35:52.120
+End: 01:36:02.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Speaker_0:
+Start: 01:36:02.120
+End: 01:36:10.120
+Duration: 8.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Speaker_0:
+Start: 01:36:10.120
+End: 01:36:20.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Speaker_0:
+Start: 01:36:20.120
+End: 01:36:30.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Speaker_0:
+Start: 01:36:30.120
+End: 01:36:40.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:36:40.120
+End: 01:36:50.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:36:50.120
+End: 01:36:58.120
+Duration: 8.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Speaker_0:
+Start: 01:36:58.120
+End: 01:37:04.120
+Duration: 6.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Speaker_0:
+Start: 01:37:04.120
+End: 01:37:14.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Speaker_0:
+Start: 01:37:14.120
+End: 01:37:22.120
+Duration: 8.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:37:22.120
+End: 01:37:30.120
+Duration: 8.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:37:30.120
+End: 01:37:40.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:37:40.120
+End: 01:37:50.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:37:50.120
+End: 01:38:00.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:38:00.120
+End: 01:38:08.120
+Duration: 8.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:38:08.120
+End: 01:38:14.120
+Duration: 6.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:38:14.120
+End: 01:38:24.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:38:24.120
+End: 01:38:32.120
+Duration: 8.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:38:32.120
+End: 01:38:42.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:38:42.120
+End: 01:38:52.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:38:52.120
+End: 01:39:00.120
+Duration: 8.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:39:00.120
+End: 01:39:08.120
+Duration: 8.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:39:08.120
+End: 01:39:18.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:39:18.120
+End: 01:39:26.120
+Duration: 8.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:39:26.120
+End: 01:39:32.120
+Duration: 6.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:39:32.120
+End: 01:39:42.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:39:42.120
+End: 01:39:50.120
+Duration: 8.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:39:50.120
+End: 01:39:58.120
+Duration: 8.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:39:58.120
+End: 01:40:08.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:40:08.120
+End: 01:40:16.120
+Duration: 8.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:40:16.120
+End: 01:40:22.120
+Duration: 6.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:40:22.120
+End: 01:40:32.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:40:32.120
+End: 01:40:40.120
+Duration: 8.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:40:40.120
+End: 01:40:46.120
+Duration: 6.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Speaker_0:
+Start: 01:40:46.120
+End: 01:40:56.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Speaker_0:
+Start: 01:40:56.120
+End: 01:41:04.120
+Duration: 8.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:41:04.120
+End: 01:41:12.120
+Duration: 8.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:41:12.120
+End: 01:41:22.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:41:22.120
+End: 01:41:30.120
+Duration: 8.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:41:30.120
+End: 01:41:38.120
+Duration: 8.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:41:38.120
+End: 01:41:48.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:41:48.120
+End: 01:41:56.120
+Duration: 8.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:41:56.120
+End: 01:42:06.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:42:06.120
+End: 01:42:16.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:42:16.120
+End: 01:42:24.120
+Duration: 8.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:42:24.120
+End: 01:42:32.120
+Duration: 8.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:42:32.120
+End: 01:42:42.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:42:42.120
+End: 01:42:50.120
+Duration: 8.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:42:50.120
+End: 01:42:58.120
+Duration: 8.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:42:58.120
+End: 01:43:08.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:43:08.120
+End: 01:43:16.120
+Duration: 8.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:43:16.120
+End: 01:43:22.120
+Duration: 6.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:43:22.120
+End: 01:43:32.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:43:32.120
+End: 01:43:40.120
+Duration: 8.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:43:40.120
+End: 01:43:48.120
+Duration: 8.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:43:48.120
+End: 01:43:58.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:43:58.120
+End: 01:44:06.120
+Duration: 8.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:44:06.120
+End: 01:44:14.120
+Duration: 8.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:44:14.120
+End: 01:44:24.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:44:24.120
+End: 01:44:32.120
+Duration: 8.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:44:32.120
+End: 01:44:40.120
+Duration: 8.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:44:40.120
+End: 01:44:50.120
+Duration: 10.000 seconds
+Text: I have a lot of concerns.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:44:50.120
+End: 01:44:58.120
+Duration: 8.000 seconds
+Text: I will throw my name in there.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:44:58.120
+End: 01:45:06.120
+Duration: 8.000 seconds
+Text: I will throw my name in there.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:45:06.120
+End: 01:45:08.120
+Duration: 2.000 seconds
+Text: I will throw my name in there.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:45:08.120
+End: 01:45:18.120
+Duration: 10.000 seconds
+Text: I will throw my name in there.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:45:18.120
+End: 01:45:26.120
+Duration: 8.000 seconds
+Text: I will throw my name in there.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:45:26.120
+End: 01:45:32.120
+Duration: 6.000 seconds
+Text: I will throw my name in there.
+--------------------------------------------------
+Commissioner Mitten:
+Start: 01:45:32.120
+End: 01:45:42.120
+Duration: 10.000 seconds
+Text: I will throw my name in there.
+--------------------------------------------------
+Commissioner Cummins:
+Start: 01:45:42.120
+End: 01:45:50.120
+Duration: 8.000 seconds
+Text: I will throw my name in there.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:45:50.120
+End: 01:45:58.120
+Duration: 8.000 seconds
+Text: I will throw my name in there.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:45:58.120
+End: 01:46:08.120
+Duration: 10.000 seconds
+Text: I will throw my name in there.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:46:08.120
+End: 01:46:16.120
+Duration: 8.000 seconds
+Text: I will throw my name in there.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:46:16.120
+End: 01:46:24.120
+Duration: 8.000 seconds
+Text: I will throw my name in there.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:46:24.120
+End: 01:46:34.120
+Duration: 10.000 seconds
+Text: I will throw my name in there.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:46:34.120
+End: 01:46:42.120
+Duration: 8.000 seconds
+Text: I will throw my name in there.
+--------------------------------------------------
+Commissioner Mata:
+Start: 01:46:42.120
+End: 01:46:50.120
+Duration: 8.000 seconds
+Text: I will throw my name in there.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:46:50.120
+End: 01:47:00.120
+Duration: 10.000 seconds
+Text: I will throw my name in there.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:47:00.120
+End: 01:47:08.120
+Duration: 8.000 seconds
+Text: I will throw my name in there.
+--------------------------------------------------
+Mayor Susan Annabcheck:
+Start: 01:47:08.120
+End: 01:47:14.120
+Duration: 6.000 seconds
+Text: I will throw my name in there.
+--------------------------------------------------

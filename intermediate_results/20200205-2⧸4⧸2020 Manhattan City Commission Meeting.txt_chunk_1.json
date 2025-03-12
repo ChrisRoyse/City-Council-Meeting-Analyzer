@@ -1,0 +1,68 @@
+{
+  "open_ended_analysis": {
+    "error": "Failed to parse response",
+    "raw": "{\n    \"primary_themes\": [\n        {\n            \"theme\": \"Housing Market Analysis and Policy Strategy Study\",\n            \"description\": \"The council is considering investing in a comprehensive housing market analysis and policy strategy study in Manhattan, Kansas. The proposed study aims to provide a data-driven approach to understanding current and future housing needs, formulating strategies, and evaluating their effectiveness.\",\n            \"notable_points\": [\n                \"The study will be conducted by hiring a consultant or a team with the hope of providing unbiased data and analysis on the housing situation in Manhattan.\",\n                \"Concerns and issues surrounding affordable housing, student housing and housing for soldiers were touched upon.\"\n            ]\n        }\n    ],\n    \"significant_discussions\": [\n        {\n            \"topic\": \"Investment and objectives of the housing study\",\n            \"significance\": \"This discussion focused on whether investing $95,000 in a housing study was feasible and necessary. Several commissioners questioned its value and effectiveness, while some maintaining it as a vital document for the city.\",\n            \"stakeholders\": [\"City Commissioners\", \"Developers\", \"Citizens\"]\n        },\n        {\n            \"topic\": \"Public Participation and Stakeholder Engagement\",\n            \"significance\": \"Multiple commissioners highlighted the need for community engagement in the process. They emphasized the importance of citizen input alongside the engagement of builders, developers, and agencies.\",\n            \"stakeholders\": [\"City Commissioners\", \"Public\", \"Developers\", \"Advisory committees\"]\n        },\n        {\n            \"topic\": \"Concerns about affordable housing\",\n            \"significance\": \"The issue of affordable housing was a"
+  },
+  "directed_analysis": {
+    "error": "Failed to parse response",
+    "raw": "{\n    \"land_use\": {\n        \"present\": true,\n        \"significance\": \"High\",\n        \"context\": \"A significant portion of the meeting focused on a comprehensive housing policy document. Important discussions were made about affordable housing, homelessness, investment in housing projects, and potential partnerships to address housing needs. Additionally, the idea of creating an advisory committee for input on housing strategies was raised. Significant emphasis was put on the importance of data-driven analysis in understanding housing issues and finding appropriate solutions.\",\n        \"notable_points\": [\"The city is considering a comprehensive housing policy to address housing needs\", \"Current housing stock, home sales, demographics, economic indicators etc. are all part of the baseline analysis\", \"There are discussions on public involvement, zoning and building codes and how they relate to affordable housing\"]\n    },\n    \"economic_development\": {\n        \"present\": true,\n        \"significance\": \"Medium\",\n        \"context\": \""
+  },
+  "speaker_analysis": {
+    "speakers": {
+      "count": 6,
+      "speaking_time": {
+        "Transcription and Diarization for 20200205-2\u29f84\u29f82020 Manhattan City Commission Meeting.mp4": 10.24,
+        "Mayor Ready": 582.0799999999999,
+        "City Clerk": 462.68,
+        "Chad Bunger, Assistant Director of Community Development": 1122.0,
+        "Commissioner Butler": 335.0,
+        "Speaker_4": 236.0
+      }
+    },
+    "power_dynamics": {
+      "dominant_speakers": [
+        "Mayor Ready",
+        "Chad Bunger, Assistant Director of Community Development"
+      ],
+      "observation": "Mayor Ready appears to be leading the city council meeting, but Chad Bunger stands out as the dominant speaker due to his high speaking time and role in presenting comprehensive policy documents for discussion. Additionally, City Clerk also has substantial dialogue, mostly in administrative and procedural aspects."
+    },
+    "interaction_patterns": {
+      "pattern": "Speakers tend to speak sequentially, with the Mayor usually initiating or concluding topics. There is a clear sense of formality and structure in the discussion, which is typical of a city council meeting. There is some degree of back and forth, with some discussion involving questions or clarifications from Commissioners, which are then answered by other speakers like Chad Bunger.",
+      "notable_exchanges": [
+        "Discussion on housing market analysis and policy strategy study led by Chad Bunger, with questions and comments from commissioners."
+      ]
+    },
+    "topic_ownership": [
+      {
+        "speaker": "Chad Bunger, Assistant Director of Community Development",
+        "topics": [
+          "Manhattan Housing Market Analysis and Policy Strategy Study"
+        ]
+      },
+      {
+        "speaker": "Mayor Ready",
+        "topics": [
+          "Public comments",
+          "Commissioner comments",
+          "City Commission goals",
+          "Consent agenda"
+        ]
+      },
+      {
+        "speaker": "City Clerk",
+        "topics": [
+          "Administrative procedures",
+          "Agenda management"
+        ]
+      }
+    ],
+    "public_participation": {
+      "level": "Low",
+      "observation": "Based on the provided transcript, it appears that public participation in this particular city council meeting was low. Most of the speaking was done by city officials, with little mention made of comments or questions from the public."
+    }
+  },
+  "emergent_patterns": {
+    "error": "Failed to parse response",
+    "raw": "{\n    \"recurring_themes\": [\n        {\n            \"theme\": \"There is a need for affordable housing in Manhattan\",\n            \"evidence\": \"Many of the council members and audience participants express concerns about the lack of affordable housing in the city.\"\n        },\n        {\n            \"theme\": \"The city needs a comprehensive housing policy\",\n            \"evidence\": \"The city commissioner and others emphasize the need for a solid plan regarding city housing, advocating for a study to collect data and develop a strategy on housing policy.\"\n        }\n    ],\n    \"underlying_tensions\": [\n        {\n            \"tension\": \"There's disagreement on how to address the housing issue\",\n            \"between\": [\"Some city commissioners\", \"Local builders\"],\n            \"context\": \"While some members of the commission see the need for an extensive study to gather data, others suggest utilizing local builders and their knowledge, arguing for the efficacy of market forces.\"\n        }\n    ],\n    \"decision_patterns\": {\n        \"pattern\": \"Decisions are made based on collective agreement following public and internal commissioner discussions\",\n        \"observation\": \"Most decisions during"
+  }
+}

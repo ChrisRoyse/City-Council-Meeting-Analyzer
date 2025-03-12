@@ -1,0 +1,2721 @@
+Transcription and Diarization for 20220425-01⧸04⧸2022 Special City Commission Meeting.mp4
+==================================================
+
+Mayor Win Butler:
+Start: 00:00:00.000
+End: 00:00:03.540
+Duration: 3.540 seconds
+Text: So welcome to a special City Commission meeting,
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:00:03.540
+End: 00:00:06.200
+Duration: 2.660 seconds
+Text: which is called for 5.25 PM.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:00:06.200
+End: 00:00:10.700
+Duration: 4.500 seconds
+Text: The regular City Commission meeting for 7 PM was canceled.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:00:10.700
+End: 00:00:12.600
+Duration: 1.900 seconds
+Text: And we'll start our two meetings tonight
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:00:12.600
+End: 00:00:13.760
+Duration: 1.160 seconds
+Text: with a pledge of allegiance.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:00:13.760
+End: 00:00:14.520
+Duration: 0.760 seconds
+Text: Please join me.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:00:17.520
+End: 00:00:22.080
+Duration: 4.560 seconds
+Text: A pledge of allegiance to the flag of the United States of America
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:00:22.080
+End: 00:00:24.800
+Duration: 2.720 seconds
+Text: and to the Republic for which it stands.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:00:24.800
+End: 00:00:28.120
+Duration: 3.320 seconds
+Text: One on nation under God and individual,
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:00:28.120
+End: 00:00:30.040
+Duration: 1.920 seconds
+Text: with liberty and justice as well.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:00:35.600
+End: 00:00:37.960
+Duration: 2.360 seconds
+Text: OK, now we have an old business agenda.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:00:37.960
+End: 00:00:40.000
+Duration: 2.040 seconds
+Text: The items on the consent agenda are those
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:00:40.000
+End: 00:00:42.160
+Duration: 2.160 seconds
+Text: of a routine and housekeeping nature,
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:00:42.160
+End: 00:00:43.680
+Duration: 1.520 seconds
+Text: or those items which have previously
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:00:43.680
+End: 00:00:46.000
+Duration: 2.320 seconds
+Text: been reviewed by the City Commission.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:00:46.000
+End: 00:00:48.000
+Duration: 2.000 seconds
+Text: Does the commission have any questions or comments
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:00:48.000
+End: 00:00:48.960
+Duration: 0.960 seconds
+Text: on the consent agenda?
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:00:52.360
+End: 00:00:54.040
+Duration: 1.680 seconds
+Text: I confirmed, Linda Mars.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:00:54.040
+End: 00:00:56.480
+Duration: 2.440 seconds
+Text: I confirmed before the meeting that both of them
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:00:56.480
+End: 00:00:58.040
+Duration: 1.560 seconds
+Text: are renewals.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:00:58.040
+End: 00:01:04.160
+Duration: 6.120 seconds
+Text: And so it's just a routine matter to renew the licenses.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:01:04.160
+End: 00:01:06.880
+Duration: 2.720 seconds
+Text: And the item on here, there's just one item,
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:01:06.880
+End: 00:01:09.200
+Duration: 2.320 seconds
+Text: a proven annual serial malt beverage
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:01:09.200
+End: 00:01:14.080
+Duration: 4.880 seconds
+Text: on premise license for K State Union Bowling Center, 311 K State
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:01:14.080
+End: 00:01:16.080
+Duration: 2.000 seconds
+Text: Union, and the annual serial malt beverage
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:01:16.080
+End: 00:01:21.080
+Duration: 5.000 seconds
+Text: is off premises license for Walgreens at 325 Blumont Avenue.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:01:23.840
+End: 00:01:26.040
+Duration: 2.200 seconds
+Text: It will do not be any public comment on any item
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:01:26.080
+End: 00:01:27.640
+Duration: 1.560 seconds
+Text: on tonight's consent agenda.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:01:27.640
+End: 00:01:29.440
+Duration: 1.800 seconds
+Text: If you're here to speak on an item that is not
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:01:29.440
+End: 00:01:32.120
+Duration: 2.680 seconds
+Text: on the consent agenda, general public comment
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:01:32.120
+End: 00:01:35.400
+Duration: 3.280 seconds
+Text: will be on January 18th.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:01:35.400
+End: 00:01:37.840
+Duration: 2.440 seconds
+Text: So if there's no further discussion from the commission
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:01:37.840
+End: 00:01:39.840
+Duration: 2.000 seconds
+Text: on this one, we can take a motion.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:01:39.840
+End: 00:01:42.800
+Duration: 2.960 seconds
+Text: Mayor, I move that we approve the annual serial malt
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:01:42.800
+End: 00:01:46.560
+Duration: 3.760 seconds
+Text: beverages on premises license for K State Union Bowling
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:01:46.560
+End: 00:01:49.120
+Duration: 2.560 seconds
+Text: Center and the annual serial malt
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:01:49.120
+End: 00:01:53.560
+Duration: 4.440 seconds
+Text: beverages off premises license for Walgreens at 325 Blumont
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:01:53.560
+End: 00:01:55.240
+Duration: 1.680 seconds
+Text: Avenue.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:01:55.240
+End: 00:01:56.560
+Duration: 1.320 seconds
+Text: Second.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:01:56.560
+End: 00:01:58.040
+Duration: 1.480 seconds
+Text: Okay, we have a motion on the second.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:01:58.040
+End: 00:02:00.200
+Duration: 2.160 seconds
+Text: City Clerk, could you please call the roll?
+--------------------------------------------------
+City Clerk:
+Start: 00:02:00.200
+End: 00:02:01.240
+Duration: 1.040 seconds
+Text: Mayor Butler.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:02:01.240
+End: 00:02:02.360
+Duration: 1.120 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:02.360
+End: 00:02:03.200
+Duration: 0.840 seconds
+Text: Commissioner Morse.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:03.200
+End: 00:02:04.360
+Duration: 1.160 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:04.360
+End: 00:02:05.320
+Duration: 0.960 seconds
+Text: Commissioner Hattiesel.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:02:05.320
+End: 00:02:06.560
+Duration: 1.240 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:06.560
+End: 00:02:07.560
+Duration: 1.000 seconds
+Text: Commissioner Estabrick.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:02:07.560
+End: 00:02:08.400
+Duration: 0.840 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:08.400
+End: 00:02:09.760
+Duration: 1.360 seconds
+Text: Commissioner Reddy.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:02:09.760
+End: 00:02:10.760
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:10.760
+End: 00:02:13.480
+Duration: 2.720 seconds
+Text: Motion carries 5 to 0.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:02:13.480
+End: 00:02:17.000
+Duration: 3.520 seconds
+Text: Okay, so at this point, that meeting is adjourned.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:02:17.000
+End: 00:02:21.040
+Duration: 4.040 seconds
+Text: And we're going to now begin our second commission meeting.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:02:21.040
+End: 00:02:22.520
+Duration: 1.480 seconds
+Text: That's the special City Commission.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:22.520
+End: 00:02:23.520
+Duration: 1.000 seconds
+Text: Mayor.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:02:23.520
+End: 00:02:24.360
+Duration: 0.840 seconds
+Text: Mayor.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:24.360
+End: 00:02:28.040
+Duration: 3.680 seconds
+Text: Okay, Mayor, we need to wait until 530.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:28.040
+End: 00:02:30.800
+Duration: 2.760 seconds
+Text: That was the time that was advertised.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:02:30.800
+End: 00:02:34.200
+Duration: 3.400 seconds
+Text: Okay, I've got about 30 seconds.
+--------------------------------------------------
+City Clerk:
+Start: 00:02:34.200
+End: 00:02:37.480
+Duration: 3.280 seconds
+Text: Actually about a minute and a half.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:02:37.480
+End: 00:02:38.480
+Duration: 1.000 seconds
+Text: Based on.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:02:38.480
+End: 00:02:39.680
+Duration: 1.200 seconds
+Text: I got 529.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:02:39.680
+End: 00:02:43.480
+Duration: 3.800 seconds
+Text: I always use the.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:02:43.480
+End: 00:02:44.520
+Duration: 1.040 seconds
+Text: But yet you are correct.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:02:44.520
+End: 00:02:47.520
+Duration: 3.000 seconds
+Text: We don't want to goof up and get started too early.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:03:24.360
+End: 00:03:36.000
+Duration: 11.640 seconds
+Text: All right, my clock has 530.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:03:36.000
+End: 00:03:38.600
+Duration: 2.600 seconds
+Text: So I think we can begin.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:03:38.600
+End: 00:03:43.200
+Duration: 4.600 seconds
+Text: So welcome to the special City Commission meeting for 530 PM.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:03:43.200
+End: 00:03:47.000
+Duration: 3.800 seconds
+Text: And the regular City Commission meeting 7PM is canceled.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:03:47.000
+End: 00:03:50.400
+Duration: 3.400 seconds
+Text: We already did the Pledge of Allegiance once, so we won't do that again.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:03:50.400
+End: 00:03:55.000
+Duration: 4.600 seconds
+Text: We'll move right on to a proclamation that we have tonight.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:03:55.000
+End: 00:03:58.560
+Duration: 3.560 seconds
+Text: Okay, and that would be the Dr. Martin Luther King Jr.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:03:58.560
+End: 00:04:04.360
+Duration: 5.800 seconds
+Text: Community Celebration and Day of Service, which is for January 15th through 17th.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:04:04.360
+End: 00:04:07.160
+Duration: 2.800 seconds
+Text: And I think Kevin, you're here to accept this.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:04:07.160
+End: 00:04:12.960
+Duration: 5.800 seconds
+Text: Want to come on up and anybody else that's with the group?
+--------------------------------------------------
+City Clerk:
+Start: 00:04:12.960
+End: 00:04:31.240
+Duration: 18.280 seconds
+Text: We're as January 17th, 2022, Mark's observance of the Dr. Martin Luther King Jr.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:31.240
+End: 00:04:36.520
+Duration: 5.280 seconds
+Text: Federal holiday and service day established in 1983.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:36.520
+End: 00:04:42.720
+Duration: 6.200 seconds
+Text: This King holiday and service acts highlight remembrance and celebration and encourages
+--------------------------------------------------
+City Clerk:
+Start: 00:04:42.720
+End: 00:04:49.800
+Duration: 7.080 seconds
+Text: people everywhere to reflect on the principles of non-violent social change, racial equality,
+--------------------------------------------------
+City Clerk:
+Start: 00:04:49.800
+End: 00:04:54.920
+Duration: 5.120 seconds
+Text: community and humanitarian service and interracial cooperation.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:54.920
+End: 00:04:56.480
+Duration: 1.560 seconds
+Text: Dr. Martin Luther King Jr.
+--------------------------------------------------
+City Clerk:
+Start: 00:04:56.480
+End: 00:05:03.240
+Duration: 6.760 seconds
+Text: devoted his life to advancing equality, social justice, and opportunity for all and challenged
+--------------------------------------------------
+City Clerk:
+Start: 00:05:03.240
+End: 00:05:10.040
+Duration: 6.800 seconds
+Text: all Americans to participate in the never ending work of building a more perfect union.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:10.040
+End: 00:05:14.560
+Duration: 4.520 seconds
+Text: Celebrating Dr. King's life and spirit through community-wide recognitions and service on
+--------------------------------------------------
+City Clerk:
+Start: 00:05:14.560
+End: 00:05:21.480
+Duration: 6.920 seconds
+Text: the King holiday is an appropriate way to honor Dr. King, bringing our citizens together
+--------------------------------------------------
+City Clerk:
+Start: 00:05:21.480
+End: 00:05:24.960
+Duration: 3.480 seconds
+Text: and strengthening our communities and nation.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:24.960
+End: 00:05:30.420
+Duration: 5.460 seconds
+Text: It is appropriate for the City of Manhattan to support a community celebration and observance
+--------------------------------------------------
+City Clerk:
+Start: 00:05:30.420
+End: 00:05:36.220
+Duration: 5.800 seconds
+Text: of the King holiday and day of service honoring Dr. Martin Luther King Jr.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:36.220
+End: 00:05:41.500
+Duration: 5.280 seconds
+Text: Each of us can and must contribute to making our communities better with increased opportunity
+--------------------------------------------------
+City Clerk:
+Start: 00:05:41.500
+End: 00:05:43.740
+Duration: 2.240 seconds
+Text: for all our citizens.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:43.740
+End: 00:05:49.980
+Duration: 6.240 seconds
+Text: Now therefore, Win Butler, Mayor of the City of Manhattan, Kansas, does hereby proclaim
+--------------------------------------------------
+City Clerk:
+Start: 00:05:49.980
+End: 00:05:56.180
+Duration: 6.200 seconds
+Text: January 15th through the 17th of 2022, Dr. Martin Luther King Jr.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:56.180
+End: 00:05:59.580
+Duration: 3.400 seconds
+Text: is a community celebration and day of service.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:59.580
+End: 00:06:04.940
+Duration: 5.360 seconds
+Text: In Manhattan, Kansas, it urged all people to join and pay tribute to the life and works
+--------------------------------------------------
+City Clerk:
+Start: 00:06:04.940
+End: 00:06:07.780
+Duration: 2.840 seconds
+Text: of Dr. Martin Luther King Jr.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:07.780
+End: 00:06:13.500
+Duration: 5.720 seconds
+Text: and apply his life principles and teachings of service to inspire others to serve and remember
+--------------------------------------------------
+City Clerk:
+Start: 00:06:13.500
+End: 00:06:14.980
+Duration: 1.480 seconds
+Text: his spirit of community.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:06:26.180
+End: 00:06:33.180
+Duration: 7.000 seconds
+Text: I think we probably will be calling the City of Michigan as the amazing thing that has
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:06:33.180
+End: 00:06:34.180
+Duration: 1.000 seconds
+Text: happened for us.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:06:34.180
+End: 00:06:42.580
+Duration: 8.400 seconds
+Text: Last year, I opened this, I opened the real, and it's all what this community is about.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:06:42.580
+End: 00:06:46.060
+Duration: 3.480 seconds
+Text: I have to say a few words about Jim Spencer.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:06:46.060
+End: 00:06:48.300
+Duration: 2.240 seconds
+Text: We celebrated his 71st birthday.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:06:48.300
+End: 00:06:54.220
+Duration: 5.920 seconds
+Text: He's been a part of this, this committee and, in part, this community for a long time.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:06:54.220
+End: 00:06:59.260
+Duration: 5.040 seconds
+Text: These contributions will never, I don't think we can ever equal these contributions.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:06:59.260
+End: 00:07:05.780
+Duration: 6.520 seconds
+Text: We can talk about the opening of the Douglas Center, the naming of Martin Luther King Drive.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:07:05.780
+End: 00:07:09.940
+Duration: 4.160 seconds
+Text: This committee is also involved in community conversations and what we've done there.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:07:09.940
+End: 00:07:14.700
+Duration: 4.760 seconds
+Text: The headway that we've made with the director Butler and the coalition and the equal justice.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:07:14.700
+End: 00:07:20.540
+Duration: 5.840 seconds
+Text: All we can go on and on about all the good things that this city is participated in and
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:07:20.540
+End: 00:07:25.660
+Duration: 5.120 seconds
+Text: endorsed and helped us with to make Manhattan a better place.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:07:25.660
+End: 00:07:29.300
+Duration: 3.640 seconds
+Text: Can't help but say a few things about the losses that we've had this year.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:07:29.300
+End: 00:07:33.620
+Duration: 4.320 seconds
+Text: Lynette Hill has passed and she was an icon here.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:07:33.620
+End: 00:07:37.860
+Duration: 4.240 seconds
+Text: We'll be very, very missed and very beloved.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:07:37.860
+End: 00:07:39.860
+Duration: 2.000 seconds
+Text: Cheryl Collins also from the Historical Society.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:07:39.860
+End: 00:07:44.100
+Duration: 4.240 seconds
+Text: As a member of the committee, I've had the opportunity to work with those people and
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:07:44.100
+End: 00:07:48.700
+Duration: 4.600 seconds
+Text: you can't say anything about the amazing residents that we have here in Manhattan, Kansas.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:07:48.700
+End: 00:07:52.580
+Duration: 3.880 seconds
+Text: You just can't say enough about them.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:07:52.580
+End: 00:07:58.080
+Duration: 5.500 seconds
+Text: We are going through our community celebration and our prayer breakfast and we're looking
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:07:58.080
+End: 00:08:00.580
+Duration: 2.500 seconds
+Text: forward to doing that.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:08:00.580
+End: 00:08:06.620
+Duration: 6.040 seconds
+Text: Despite what the environment has done, we're still thriving on, we're moving on and it's
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:08:06.620
+End: 00:08:15.700
+Duration: 9.080 seconds
+Text: great to be part of a community, a community and a city that endorses equality, justice,
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:08:15.700
+End: 00:08:19.100
+Duration: 3.400 seconds
+Text: and treats everybody like they're humans.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:08:19.100
+End: 00:08:25.420
+Duration: 6.320 seconds
+Text: On that point, Susan Glamour talked a little bit about the heart writing process.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:08:25.420
+End: 00:08:34.100
+Duration: 8.680 seconds
+Text: Hi, I'm Susan Glimore and the theme for the contest this year is again a quote from Reverend
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:08:34.100
+End: 00:08:41.660
+Duration: 7.560 seconds
+Text: Dr. Martin Luther King and it is, we must learn to live together as brothers or perish
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:08:41.660
+End: 00:08:44.820
+Duration: 3.160 seconds
+Text: together as fools.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:08:44.820
+End: 00:08:49.940
+Duration: 5.120 seconds
+Text: We've had quite a few entries again this year, both in the art as well as the writing
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:08:49.940
+End: 00:09:02.500
+Duration: 12.560 seconds
+Text: categories and it's really touching to see the depth that kids and some adults too will
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:09:02.500
+End: 00:09:05.260
+Duration: 2.760 seconds
+Text: put into the work that they submit.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:09:05.260
+End: 00:09:08.740
+Duration: 3.480 seconds
+Text: It's, we are because of COVID again, totally online.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:09:08.740
+End: 00:09:10.620
+Duration: 1.880 seconds
+Text: Everything is being submitted online.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:09:10.620
+End: 00:09:12.700
+Duration: 2.080 seconds
+Text: Everything can be viewed online.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:09:12.700
+End: 00:09:17.820
+Duration: 5.120 seconds
+Text: So after the celebration, we will announce our winners but we really want to also just
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:09:17.820
+End: 00:09:22.620
+Duration: 4.800 seconds
+Text: acknowledge everyone that participated in any way and submitted an entry.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:09:22.620
+End: 00:09:28.460
+Duration: 5.840 seconds
+Text: So I encourage you guys to check out our website and look for some of those because they really
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:09:28.460
+End: 00:09:31.500
+Duration: 3.040 seconds
+Text: are inspiring.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:09:31.500
+End: 00:09:34.140
+Duration: 2.640 seconds
+Text: You guys are all also welcome to participate anytime.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:09:34.140
+End: 00:09:36.860
+Duration: 2.720 seconds
+Text: We do it every year and we're not going too quick.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:09:36.860
+End: 00:09:43.860
+Duration: 7.000 seconds
+Text: Okay, thank you.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:09:43.860
+End: 00:09:58.140
+Duration: 14.280 seconds
+Text: Okay, then we'll move on to old business.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:09:58.140
+End: 00:10:02.100
+Duration: 3.960 seconds
+Text: The items on the consent agenda are those of a routine and housekeeping nature or those
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:10:02.100
+End: 00:10:06.500
+Duration: 4.400 seconds
+Text: items which have previously been reviewed by the City Commission.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:10:06.500
+End: 00:10:10.940
+Duration: 4.440 seconds
+Text: Does the commission have any questions or comments on any of the consent agenda items and there's
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:10:10.940
+End: 00:10:15.940
+Duration: 5.000 seconds
+Text: only two on here this time, minutes and claims payments?
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:10:15.940
+End: 00:10:22.700
+Duration: 6.760 seconds
+Text: Okay, there will not be any public comment on any item on tonight's consent agenda.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:10:22.700
+End: 00:10:27.300
+Duration: 4.600 seconds
+Text: If you're here to speak on an item that is not on the consent agenda, you can do that
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:10:27.300
+End: 00:10:31.460
+Duration: 4.160 seconds
+Text: at the next public comment session which will be January 18th.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:10:31.460
+End: 00:10:36.660
+Duration: 5.200 seconds
+Text: Okay, so if there's no discussion, we can entertain a motion.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:10:36.660
+End: 00:10:41.540
+Duration: 4.880 seconds
+Text: Mayor, Mayor, I move that we approve the old business consent agenda.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:10:41.540
+End: 00:10:42.740
+Duration: 1.200 seconds
+Text: Second.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:10:42.740
+End: 00:10:45.260
+Duration: 2.520 seconds
+Text: We have a motion in the second.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:10:45.260
+End: 00:10:49.340
+Duration: 4.080 seconds
+Text: City Court, could you please call the roll?
+--------------------------------------------------
+City Clerk:
+Start: 00:10:49.340
+End: 00:10:50.340
+Duration: 1.000 seconds
+Text: Commissioner Morse?
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:10:50.340
+End: 00:10:51.340
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:10:51.340
+End: 00:10:52.340
+Duration: 1.000 seconds
+Text: Commissioner Hassel?
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:10:52.340
+End: 00:10:53.340
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:10:53.340
+End: 00:10:54.340
+Duration: 1.000 seconds
+Text: Commissioner Estabrick?
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:10:54.340
+End: 00:10:55.340
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:10:55.340
+End: 00:10:57.340
+Duration: 2.000 seconds
+Text: Commissioner Rady?
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:10:57.340
+End: 00:10:58.340
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:10:58.340
+End: 00:10:59.340
+Duration: 1.000 seconds
+Text: Mayor Butler?
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:10:59.340
+End: 00:11:00.340
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 00:11:00.340
+End: 00:11:02.340
+Duration: 2.000 seconds
+Text: Motion carries, 5 to 0.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:11:02.340
+End: 00:11:08.140
+Duration: 5.800 seconds
+Text: Okay, so the next item on the agenda, I guess, is the main reason we all got to go tonight
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:11:08.140
+End: 00:11:14.540
+Duration: 6.400 seconds
+Text: is the reorganization of the commission and the first part of that is, I guess, I get to
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:11:14.540
+End: 00:11:21.020
+Duration: 6.480 seconds
+Text: make some outgoing comments and I'll try to keep that brief.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:11:21.020
+End: 00:11:25.020
+Duration: 4.000 seconds
+Text: I find it interesting that a lot of people in the city don't really understand the
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:11:25.020
+End: 00:11:28.060
+Duration: 3.040 seconds
+Text: role of the mayor and the way our system is set up.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:11:28.060
+End: 00:11:30.260
+Duration: 2.200 seconds
+Text: The mayor is really a ceremonial position.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:11:30.260
+End: 00:11:33.580
+Duration: 3.320 seconds
+Text: It's really nice to be called mayor, that makes you feel good.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:11:33.580
+End: 00:11:36.700
+Duration: 3.120 seconds
+Text: But you don't really have any little buttons to push except for maybe that one over there
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:11:36.700
+End: 00:11:40.780
+Duration: 4.080 seconds
+Text: that turns on the microphone when we have meetings.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:11:40.780
+End: 00:11:44.500
+Duration: 3.720 seconds
+Text: And the mayor's main purpose in life is to try to manage the meeting so they don't get
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:11:44.500
+End: 00:11:46.000
+Duration: 1.500 seconds
+Text: unruly.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:11:46.000
+End: 00:11:51.020
+Duration: 5.020 seconds
+Text: And you spend a lot of time trying to recruit citizens to come forth on boards because
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:11:51.020
+End: 00:11:54.220
+Duration: 3.200 seconds
+Text: you've got to sort of shake the trees sometimes with that to come out.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:11:54.220
+End: 00:11:57.900
+Duration: 3.680 seconds
+Text: But the mayor doesn't appoint people to the boards, the commission does that.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:11:57.900
+End: 00:12:02.260
+Duration: 4.360 seconds
+Text: The mayor's job is just to find some applicants and make recommendations.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:12:02.260
+End: 00:12:05.060
+Duration: 2.800 seconds
+Text: And so that's a big thing.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:12:05.060
+End: 00:12:09.420
+Duration: 4.360 seconds
+Text: And really I think if you look through what the mayor can actually do, the only thing
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:12:09.420
+End: 00:12:13.820
+Duration: 4.400 seconds
+Text: has to do with fireworks and that was put in place I think about 10 years ago.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:12:13.820
+End: 00:12:18.460
+Duration: 4.640 seconds
+Text: And the mayor can, in fact, actually ban fireworks if there's a fire hazard on the 4th
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:12:18.460
+End: 00:12:19.460
+Duration: 1.000 seconds
+Text: of July.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:12:19.460
+End: 00:12:23.860
+Duration: 4.400 seconds
+Text: But still can't do that by himself, has to get the fire chief to agree.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:12:23.860
+End: 00:12:24.860
+Duration: 1.000 seconds
+Text: And that's never been done.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:12:24.860
+End: 00:12:27.780
+Duration: 2.920 seconds
+Text: I hope it's not done because it has caused a disaster.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:12:27.780
+End: 00:12:33.340
+Duration: 5.560 seconds
+Text: So hope for rain this 4th of July again so that we get it to work out well.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:12:33.340
+End: 00:12:39.700
+Duration: 6.360 seconds
+Text: And when I think back on last year, the one disappointment I had was property tax got
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:12:39.700
+End: 00:12:42.500
+Duration: 2.800 seconds
+Text: increased because everybody knows that's not my thing.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:12:42.500
+End: 00:12:48.300
+Duration: 5.800 seconds
+Text: The good news is that it looks like the city is digging out of this pandemic hole as we
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:12:48.300
+End: 00:12:49.300
+Duration: 1.000 seconds
+Text: call it.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:12:49.300
+End: 00:12:50.980
+Duration: 1.680 seconds
+Text: Our sales tax receipts are up.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:12:50.980
+End: 00:12:52.420
+Duration: 1.440 seconds
+Text: They were for October.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:12:52.420
+End: 00:12:56.820
+Duration: 4.400 seconds
+Text: I think as Ron mentioned on the radio this morning, we're looking at probably a plus
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:12:56.820
+End: 00:12:57.820
+Duration: 1.000 seconds
+Text: 900,000.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:12:57.820
+End: 00:12:59.340
+Duration: 1.520 seconds
+Text: We'll get the end of the year.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:12:59.340
+End: 00:13:03.620
+Duration: 4.280 seconds
+Text: And we still haven't gotten the November and December because we're always two months
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:13:03.620
+End: 00:13:04.620
+Duration: 1.000 seconds
+Text: behind.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:13:04.620
+End: 00:13:06.700
+Duration: 2.080 seconds
+Text: And it looked like we had a lot of holiday activity.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:13:06.700
+End: 00:13:09.260
+Duration: 2.560 seconds
+Text: So I think we've turned the corner on that.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:13:09.260
+End: 00:13:13.340
+Duration: 4.080 seconds
+Text: And I think that's going to be very helpful on the budget this year because sales taxes
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:13:13.340
+End: 00:13:14.340
+Duration: 1.000 seconds
+Text: are looking up.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:13:14.340
+End: 00:13:17.100
+Duration: 2.760 seconds
+Text: We'll be working on the 2022 budget.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:13:17.100
+End: 00:13:21.940
+Duration: 4.840 seconds
+Text: And that, of course, is going to be supported by the economic recovery sales tax, city
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:13:21.940
+End: 00:13:23.860
+Duration: 1.920 seconds
+Text: wide sales tax.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:13:23.860
+End: 00:13:25.580
+Duration: 1.720 seconds
+Text: And so that's going to be a big player.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:13:25.580
+End: 00:13:27.660
+Duration: 2.080 seconds
+Text: And then we've got some federal funds.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:13:27.660
+End: 00:13:34.100
+Duration: 6.440 seconds
+Text: So I think the budget situation, I'm very optimistic that what we're going to do quite well
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:13:34.100
+End: 00:13:37.380
+Duration: 3.280 seconds
+Text: with that this year.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:13:37.380
+End: 00:13:43.540
+Duration: 6.160 seconds
+Text: The one great success, I really appreciate the CVB and the Chamber and what they did to
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:13:43.540
+End: 00:13:47.700
+Duration: 4.160 seconds
+Text: bring together what I've been pushing for for years, which is having Manhattan be the
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:13:47.700
+End: 00:13:49.620
+Duration: 1.920 seconds
+Text: holiday destination.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:13:49.620
+End: 00:13:52.100
+Duration: 2.480 seconds
+Text: And I think we just did a great job this year.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:13:52.100
+End: 00:13:55.940
+Duration: 3.840 seconds
+Text: West Loop, DMI, Aggieville, the Chamber.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:13:55.940
+End: 00:13:57.860
+Duration: 1.920 seconds
+Text: We had all kinds of events and brought in people.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:13:57.860
+End: 00:14:02.860
+Duration: 5.000 seconds
+Text: And I think you see that success of that directly in the sales tax receipts.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:14:02.860
+End: 00:14:08.140
+Duration: 5.280 seconds
+Text: And we got to just keep pushing that effort and get people to come into our great city.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:14:08.140
+End: 00:14:14.580
+Duration: 6.440 seconds
+Text: And we had some, of course, minor setbacks like a windstorm that trashed our tree, but
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:14:14.580
+End: 00:14:16.500
+Duration: 1.920 seconds
+Text: Manhattan is very resilient.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:14:16.500
+End: 00:14:18.100
+Duration: 1.600 seconds
+Text: And we're a blessed community.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:14:18.100
+End: 00:14:22.740
+Duration: 4.640 seconds
+Text: We didn't end up in bad shape like some of those cities in Tennessee.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:14:22.740
+End: 00:14:28.820
+Duration: 6.080 seconds
+Text: So we should be very thankful that we just had what I would call minor damage to some
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:14:28.820
+End: 00:14:30.820
+Duration: 2.000 seconds
+Text: of our decorations.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:14:30.820
+End: 00:14:34.300
+Duration: 3.480 seconds
+Text: And it's been my pleasure to serve as mayor for the second time.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:14:34.300
+End: 00:14:38.020
+Duration: 3.720 seconds
+Text: It's always enjoyable to go around and give the little welcome speeches and some of
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:14:38.020
+End: 00:14:42.540
+Duration: 4.520 seconds
+Text: the other things that the mayor gets to do to groups like, you know, I was at the Discovery
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:14:42.540
+End: 00:14:46.860
+Duration: 4.320 seconds
+Text: Center here, you know, New Year's and got to do the balloon drop for the family Christmas.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:14:46.860
+End: 00:14:49.340
+Duration: 2.480 seconds
+Text: And little events like that are really, really cool.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:14:49.340
+End: 00:14:51.980
+Duration: 2.640 seconds
+Text: And they always invite the mayor to do those.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:14:51.980
+End: 00:14:55.300
+Duration: 3.320 seconds
+Text: And I get a lot of fun out of that.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:14:55.300
+End: 00:15:00.220
+Duration: 4.920 seconds
+Text: And I like to finish off by just putting forth, I guess, a piece of political advice that
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:15:00.220
+End: 00:15:04.340
+Duration: 4.120 seconds
+Text: I got from, I think, a fourth grader by reading one of their essays.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:15:04.340
+End: 00:15:06.700
+Duration: 2.360 seconds
+Text: We're just talking about essays.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:15:06.780
+End: 00:15:08.620
+Duration: 1.840 seconds
+Text: And I always find it applicable.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:15:08.620
+End: 00:15:12.100
+Duration: 3.480 seconds
+Text: And it was a little essay written about Julius Caesar.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:15:12.100
+End: 00:15:14.100
+Duration: 2.000 seconds
+Text: And very short, too.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:15:14.100
+End: 00:15:15.100
+Duration: 1.000 seconds
+Text: And it was a biography.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:15:15.100
+End: 00:15:18.860
+Duration: 3.760 seconds
+Text: And it said Julius Caesar was a soldier.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:15:18.860
+End: 00:15:21.500
+Duration: 2.640 seconds
+Text: Julius Caesar became a politician.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:15:21.500
+End: 00:15:23.140
+Duration: 1.640 seconds
+Text: He gave long speeches.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:15:23.140
+End: 00:15:24.580
+Duration: 1.440 seconds
+Text: They killed him.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:15:24.580
+End: 00:15:26.340
+Duration: 1.760 seconds
+Text: So on that note, thank you.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:15:26.340
+End: 00:15:29.980
+Duration: 3.640 seconds
+Text: We'll move on to the next item.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:15:29.980
+End: 00:15:31.740
+Duration: 1.760 seconds
+Text: So that's City Clerk.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:15:31.740
+End: 00:15:38.180
+Duration: 6.440 seconds
+Text: We'll get to administer the oath of office to recently reelected Commissioner Usher Ready
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:15:38.180
+End: 00:15:41.380
+Duration: 3.200 seconds
+Text: and Win Butler and newly elected again, John Lada.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:41.380
+End: 00:15:46.700
+Duration: 5.320 seconds
+Text: Mayor, I would like to ask the newly elected commissioners to come forward and meet me at
+--------------------------------------------------
+City Clerk:
+Start: 00:15:46.700
+End: 00:15:49.700
+Duration: 3.000 seconds
+Text: the front of the commission room.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:02.300
+End: 00:16:05.220
+Duration: 2.920 seconds
+Text: If you would raise your right hand please.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:05.220
+End: 00:16:17.540
+Duration: 12.320 seconds
+Text: I do solemnly swear that I will support the Constitution of the United States, the Constitution
+--------------------------------------------------
+City Clerk:
+Start: 00:16:17.540
+End: 00:16:29.140
+Duration: 11.600 seconds
+Text: of the State of Kansas, and the Code of Ordinces of the City of Manhattan, and faithfully
+--------------------------------------------------
+City Clerk:
+Start: 00:16:29.140
+End: 00:16:39.860
+Duration: 10.720 seconds
+Text: discharge the duties of City Commissioner for the City of Manhattan.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:39.860
+End: 00:16:40.860
+Duration: 1.000 seconds
+Text: So help me, God.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:16:40.860
+End: 00:16:41.860
+Duration: 1.000 seconds
+Text: So help me now.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:41.860
+End: 00:16:42.860
+Duration: 1.000 seconds
+Text: Congratulations.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:42.860
+End: 00:16:43.860
+Duration: 1.000 seconds
+Text: And welcome.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:16:59.140
+End: 00:17:19.140
+Duration: 20.000 seconds
+Text: We don't move yet.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:17:19.140
+End: 00:17:20.140
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:17:20.140
+End: 00:17:21.140
+Duration: 1.000 seconds
+Text: Next item.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:17:21.140
+End: 00:17:26.940
+Duration: 5.800 seconds
+Text: Item C is City Clerk gets to call for a nomination for a new mayor.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:26.940
+End: 00:17:46.580
+Duration: 19.640 seconds
+Text: I would like to ask the commission for nominations for mayor.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:17:46.580
+End: 00:17:50.860
+Duration: 4.280 seconds
+Text: I move that Commissioner Morse be appointed to serve as mayor until the first working Tuesday
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:17:50.860
+End: 00:17:52.580
+Duration: 1.720 seconds
+Text: of January 2023.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:52.580
+End: 00:17:55.220
+Duration: 2.640 seconds
+Text: Is there a second?
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:17:55.220
+End: 00:17:56.820
+Duration: 1.600 seconds
+Text: I second.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:56.820
+End: 00:17:58.700
+Duration: 1.880 seconds
+Text: Hearing no other nominations.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:58.700
+End: 00:18:03.300
+Duration: 4.600 seconds
+Text: All in favor of Commissioner Morse for the position of mayor, say aye.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:18:03.300
+End: 00:18:04.300
+Duration: 1.000 seconds
+Text: Aye.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:04.300
+End: 00:18:08.500
+Duration: 4.200 seconds
+Text: Motion carries, five to zero.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:18:08.500
+End: 00:18:11.740
+Duration: 3.240 seconds
+Text: Okay, then you're open.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:18:11.740
+End: 00:18:12.740
+Duration: 1.000 seconds
+Text: No.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:18:12.740
+End: 00:18:13.740
+Duration: 1.000 seconds
+Text: Pardon?
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:18:13.740
+End: 00:18:14.740
+Duration: 1.000 seconds
+Text: Oh.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:18:14.740
+End: 00:18:19.660
+Duration: 4.920 seconds
+Text: The mayor elect.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:18:19.660
+End: 00:18:24.580
+Duration: 4.920 seconds
+Text: I would like to ask the commission for nominations for mayor pro tem.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:18:24.580
+End: 00:18:29.580
+Duration: 5.000 seconds
+Text: I move that Commissioner have a saw be appointed to serve as mayor pro tem until the first working
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:18:29.580
+End: 00:18:31.860
+Duration: 2.280 seconds
+Text: Tuesday of January 2023.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:18:31.860
+End: 00:18:33.860
+Duration: 2.000 seconds
+Text: Is there a second?
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:18:33.860
+End: 00:18:37.620
+Duration: 3.760 seconds
+Text: I second the motion.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:18:37.620
+End: 00:18:39.340
+Duration: 1.720 seconds
+Text: Hearing no other nominations.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:18:39.340
+End: 00:18:44.500
+Duration: 5.160 seconds
+Text: All in favor of Commissioner had a saw for the position of mayor pro tem say aye.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:18:44.500
+End: 00:18:47.500
+Duration: 3.000 seconds
+Text: Aye.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:18:47.500
+End: 00:18:49.540
+Duration: 2.040 seconds
+Text: And the motion carries.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:18:49.540
+End: 00:18:50.540
+Duration: 1.000 seconds
+Text: We have a script.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:18:50.540
+End: 00:18:54.540
+Duration: 4.000 seconds
+Text: Not spontaneous.
+--------------------------------------------------
+Speaker_4:
+Start: 00:18:54.540
+End: 00:18:56.540
+Duration: 2.000 seconds
+Text: Let's see.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:18:56.540
+End: 00:18:57.540
+Duration: 1.000 seconds
+Text: Go to item.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:18:57.540
+End: 00:18:58.540
+Duration: 1.000 seconds
+Text: Pardon?
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:18:58.540
+End: 00:18:59.540
+Duration: 1.000 seconds
+Text: E.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:18:59.540
+End: 00:19:00.540
+Duration: 1.000 seconds
+Text: E.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:19:00.540
+End: 00:19:09.380
+Duration: 8.840 seconds
+Text: The mayor and the city manager recognize outgoing mayor win butler for his service.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:19:09.380
+End: 00:19:13.020
+Duration: 3.640 seconds
+Text: I haven't got them to that page yet.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:19:13.020
+End: 00:19:20.020
+Duration: 7.000 seconds
+Text: I've got a symbolic.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:19:20.020
+End: 00:19:32.020
+Duration: 12.000 seconds
+Text: A symbolic gavel that we never really use.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:19:32.020
+End: 00:19:37.020
+Duration: 5.000 seconds
+Text: But it's a small one.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:19:37.020
+End: 00:19:44.020
+Duration: 7.000 seconds
+Text: It's very nice.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:19:44.020
+End: 00:19:51.020
+Duration: 7.000 seconds
+Text: So when one of the things that the.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:19:51.020
+End: 00:19:55.220
+Duration: 4.200 seconds
+Text: One of the things we've done as a tradition is try to capture some moments of your year's
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:19:55.220
+End: 00:19:59.220
+Duration: 4.000 seconds
+Text: mayor.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:19:59.220
+End: 00:20:06.940
+Duration: 7.720 seconds
+Text: And so on behalf of the city and city staff and the city commissioners we've re replicated
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:20:06.940
+End: 00:20:09.220
+Duration: 2.280 seconds
+Text: some photos over the years.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:20:09.220
+End: 00:20:14.700
+Duration: 5.480 seconds
+Text: It was an astonishing year from a recreation center perspective.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:20:14.700
+End: 00:20:19.900
+Duration: 5.200 seconds
+Text: We cut the ribbon on three recreation centers which is just amazing.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:20:19.900
+End: 00:20:22.820
+Duration: 2.920 seconds
+Text: We appreciate the community's support of that.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:20:22.820
+End: 00:20:26.820
+Duration: 4.000 seconds
+Text: So we've got a couple of pictures that reflect that as part of this.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:20:26.820
+End: 00:20:29.820
+Duration: 3.000 seconds
+Text: And then Mr. Christmas.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:20:29.820
+End: 00:20:38.820
+Duration: 9.000 seconds
+Text: When is a great advocate for the holidays and certainly loves to decorate old engine one.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:20:38.820
+End: 00:20:41.820
+Duration: 3.000 seconds
+Text: And he spends a lot of time on it.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:20:41.820
+End: 00:20:46.820
+Duration: 5.000 seconds
+Text: And it looks marvelous with the Christmas parade as well as Veterans Day.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:20:46.820
+End: 00:20:49.820
+Duration: 3.000 seconds
+Text: And it just it isn't just those particular events.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:20:49.820
+End: 00:20:53.820
+Duration: 4.000 seconds
+Text: And pretty much any parade that the old engine one's involved in and the commissioners
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:20:53.820
+End: 00:20:54.820
+Duration: 1.000 seconds
+Text: are writing on it.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:20:54.820
+End: 00:20:56.820
+Duration: 2.000 seconds
+Text: He's added some great amenities too.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:20:56.820
+End: 00:20:59.820
+Duration: 3.000 seconds
+Text: So we've reflected that as well.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:20:59.820
+End: 00:21:03.820
+Duration: 4.000 seconds
+Text: And then as was mentioned in the proclamation the dedication of Martin Luther King Jr.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:21:03.820
+End: 00:21:04.820
+Duration: 1.000 seconds
+Text: Drive.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:21:04.820
+End: 00:21:08.820
+Duration: 4.000 seconds
+Text: So those are some moments that I know that you you thought a lot of.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:21:08.820
+End: 00:21:11.820
+Duration: 3.000 seconds
+Text: And so we've recreated that for you.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:21:11.820
+End: 00:21:12.820
+Duration: 1.000 seconds
+Text: Yeah, appreciate that.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:21:12.820
+End: 00:21:14.820
+Duration: 2.000 seconds
+Text: There's a there's the pictures I always like.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:21:14.820
+End: 00:21:18.820
+Duration: 4.000 seconds
+Text: We want and all the help the fire department gives on you know tolerating me and.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:21:18.820
+End: 00:21:20.820
+Duration: 2.000 seconds
+Text: Gotta give credit to my wife Maryanne.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:21:20.820
+End: 00:21:21.820
+Duration: 1.000 seconds
+Text: She does a lot of work on that too.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:21:21.820
+End: 00:21:23.820
+Duration: 2.000 seconds
+Text: I don't just do it myself.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:21:23.820
+End: 00:21:26.820
+Duration: 3.000 seconds
+Text: I appreciate you guys putting the greatest humiliating moment.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:21:26.820
+End: 00:21:32.820
+Duration: 6.000 seconds
+Text: My term is mayor which is we proved the only guy that could shoot a basket as Mark had as well.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:21:32.820
+End: 00:21:35.820
+Duration: 3.000 seconds
+Text: But thank you.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:21:35.820
+End: 00:21:53.820
+Duration: 18.000 seconds
+Text: And next Ron and I will recognize outgoing commissioner Aaron Estabrick for his years two years of service.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:21:53.820
+End: 00:22:01.820
+Duration: 8.000 seconds
+Text: Aaron.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:22:01.820
+End: 00:22:04.820
+Duration: 3.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:22:04.820
+End: 00:22:05.820
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:22:05.820
+End: 00:22:09.820
+Duration: 4.000 seconds
+Text: And this business plaques are important.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:22:09.820
+End: 00:22:12.820
+Duration: 3.000 seconds
+Text: So we put that so that it will be there for years to come.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:22:12.820
+End: 00:22:14.820
+Duration: 2.000 seconds
+Text: And we appreciate your service.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:22:14.820
+End: 00:22:16.820
+Duration: 2.000 seconds
+Text: It's been great getting to know you better.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:22:16.820
+End: 00:22:21.820
+Duration: 5.000 seconds
+Text: And I know the community has valued service and the effort that you've made.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:22:21.820
+End: 00:22:24.820
+Duration: 3.000 seconds
+Text: To just be a good commissioner.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:22:24.820
+End: 00:22:25.820
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:22:25.820
+End: 00:22:27.820
+Duration: 2.000 seconds
+Text: And all of us work you've done.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:22:27.820
+End: 00:22:28.820
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:22:28.820
+End: 00:22:31.820
+Duration: 3.000 seconds
+Text: And we have some moments that we captured.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:22:31.820
+End: 00:22:33.820
+Duration: 2.000 seconds
+Text: It's very near term.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:22:33.820
+End: 00:22:43.820
+Duration: 10.000 seconds
+Text: And also the Martin Luther King Jr. dedication which you were certainly a strong supporter of as well as the rec centers.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:22:43.820
+End: 00:22:46.820
+Duration: 3.000 seconds
+Text: And got you in good form at least attempting the basket.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:22:46.820
+End: 00:22:48.820
+Duration: 2.000 seconds
+Text: What did Mark eyeing me?
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:22:48.820
+End: 00:22:52.820
+Duration: 4.000 seconds
+Text: She showed him the right form.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:22:52.820
+End: 00:22:57.820
+Duration: 5.000 seconds
+Text: And then a picture in front of some of the murals that we have there.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:22:57.820
+End: 00:23:04.820
+Duration: 7.000 seconds
+Text: And then veterans day you've always been a great proponent for veterans and we appreciate that and your family.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:23:04.820
+End: 00:23:05.820
+Duration: 1.000 seconds
+Text: So thank you.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:23:05.820
+End: 00:23:06.820
+Duration: 1.000 seconds
+Text: And yes, enjoy it.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:23:06.820
+End: 00:23:07.820
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:23:07.820
+End: 00:23:21.820
+Duration: 14.000 seconds
+Text: And for commissioners that are leaving the day is we also recognize that family members give up a lot of time for commissioners to be able to serve.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:23:21.820
+End: 00:23:24.820
+Duration: 3.000 seconds
+Text: And we appreciate that service that we have a little gift here for Doncha.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:23:24.820
+End: 00:23:25.820
+Duration: 1.000 seconds
+Text: Thank you so much.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:23:25.820
+End: 00:23:26.820
+Duration: 1.000 seconds
+Text: Thank you so much.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:23:26.820
+End: 00:23:27.820
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:23:27.820
+End: 00:23:28.820
+Duration: 1.000 seconds
+Text: So thank you so much for.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:23:28.820
+End: 00:23:29.820
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:23:29.820
+End: 00:23:30.820
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:23:30.820
+End: 00:23:31.820
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:23:31.820
+End: 00:23:32.820
+Duration: 1.000 seconds
+Text: Thank you so much.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:23:32.820
+End: 00:23:33.820
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:23:33.820
+End: 00:23:34.820
+Duration: 1.000 seconds
+Text: So thank you so much for.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:23:34.820
+End: 00:23:35.820
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:23:35.820
+End: 00:23:36.820
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:23:36.820
+End: 00:23:37.820
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:23:37.820
+End: 00:23:38.820
+Duration: 1.000 seconds
+Text: Sure.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:23:38.820
+End: 00:23:40.820
+Duration: 2.000 seconds
+Text: So I will be very brief.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:23:40.820
+End: 00:23:44.820
+Duration: 4.000 seconds
+Text: I'm glad to see the Martin Luther King Jr. drive on here.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:23:44.820
+End: 00:23:48.820
+Duration: 4.000 seconds
+Text: I think that was one of the highlights in one of the two years.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:23:48.820
+End: 00:23:50.820
+Duration: 2.000 seconds
+Text: It's been a while, two years.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:23:50.820
+End: 00:23:58.820
+Duration: 8.000 seconds
+Text: I mean, who asked to be on the commission during a pandemic and then half the half, you know, the mask issues.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:23:58.820
+End: 00:24:01.820
+Duration: 3.000 seconds
+Text: Most of our meetings were most of my meetings.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:24:01.820
+End: 00:24:12.820
+Duration: 11.000 seconds
+Text: I'll probably I'm sure I'll be the only commissioner in the history that spent most of their meetings at home and doing that virtually with my five year old running around in my 10 year old,
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:24:12.820
+End: 00:24:16.820
+Duration: 4.000 seconds
+Text: and then about the differences in mask and vaccine.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:24:16.820
+End: 00:24:19.820
+Duration: 3.000 seconds
+Text: So we had internal debates across the city.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:24:19.820
+End: 00:24:28.820
+Duration: 9.000 seconds
+Text: We navigated things in the last two years and I think it's transformative where we've gotten to what we're able to do now compared to two years ago.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:24:28.820
+End: 00:24:31.820
+Duration: 3.000 seconds
+Text: And I look forward to all the success in the future.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:24:31.820
+End: 00:24:35.820
+Duration: 4.000 seconds
+Text: But the Martin Luther King drive renaming was very important to me.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:24:35.820
+End: 00:24:45.820
+Duration: 10.000 seconds
+Text: And then of course the issues that we've begun to address with housing, the housing advisory council that may come along soon.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:24:45.820
+End: 00:24:58.820
+Duration: 13.000 seconds
+Text: And the strategic planning initiatives that put some goals around and the meeting potatoes behind what all the staff does and drawing his team have led a lot of efforts.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:24:58.820
+End: 00:25:03.820
+Duration: 5.000 seconds
+Text: But it's hard to quantify those without that strategic plan and show the progress we're making.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:25:03.820
+End: 00:25:06.820
+Duration: 3.000 seconds
+Text: And I look forward to seeing that over the next 10 years.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:25:06.820
+End: 00:25:08.820
+Duration: 2.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:25:08.820
+End: 00:25:18.820
+Duration: 10.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:25:18.820
+End: 00:25:21.820
+Duration: 3.000 seconds
+Text: Change, we're going to change chairs.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:25:38.820
+End: 00:25:41.820
+Duration: 3.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:25:41.820
+End: 00:25:44.820
+Duration: 3.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:25:44.820
+End: 00:26:01.820
+Duration: 17.000 seconds
+Text: We appreciate you being here this evening to watch us go through the formal process of what we call reorganization.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:26:01.820
+End: 00:26:08.820
+Duration: 7.000 seconds
+Text: And the next item is item G on the agenda commissioner comments on reorganization.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:26:08.820
+End: 00:26:15.820
+Duration: 7.000 seconds
+Text: As mayor I'd like to welcome John Mata to the commission.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:26:15.820
+End: 00:26:20.820
+Duration: 5.000 seconds
+Text: He's returning from a stent how many years ago John.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:26:20.820
+End: 00:26:22.820
+Duration: 2.000 seconds
+Text: 2015.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:26:22.820
+End: 00:26:25.820
+Duration: 3.000 seconds
+Text: So that was before me.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:26:25.820
+End: 00:26:28.820
+Duration: 3.000 seconds
+Text: I think I came on about the time you went off.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:26:28.820
+End: 00:26:31.820
+Duration: 3.000 seconds
+Text: And so welcome.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:26:31.820
+End: 00:26:34.820
+Duration: 3.000 seconds
+Text: And we look forward to working with you.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:26:34.820
+End: 00:26:37.820
+Duration: 3.000 seconds
+Text: It'll be interesting.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:26:37.820
+End: 00:26:44.820
+Duration: 7.000 seconds
+Text: And welcome back to when and you show who have all three of you won the election.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:26:44.820
+End: 00:26:48.820
+Duration: 4.000 seconds
+Text: And we're happy to have some veterans actually.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:26:48.820
+End: 00:26:50.820
+Duration: 2.000 seconds
+Text: That'll be a good thing.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:26:50.820
+End: 00:26:55.820
+Duration: 5.000 seconds
+Text: So perhaps Mark, do you have some comments?
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:26:55.820
+End: 00:26:58.820
+Duration: 3.000 seconds
+Text: I don't want to say too much.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:26:58.820
+End: 00:27:08.820
+Duration: 10.000 seconds
+Text: I just want to, well, everybody will notice that occasionally when there are some issues that are divisive between the commissioners just like they are on a national level,
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:27:08.820
+End: 00:27:19.820
+Duration: 11.000 seconds
+Text: whenever there's issues that are strictly what's best for the city of Manhattan, it seems like it always ends up being five zero votes, whether it's water wastewater sewer streets highway.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:27:19.820
+End: 00:27:31.820
+Duration: 12.000 seconds
+Text: All those important things that people expect the city government to do, we pretty much are always five zero on that because everybody wants the best things for the city of Manhattan.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:27:31.820
+End: 00:27:38.820
+Duration: 7.000 seconds
+Text: When it gets into some of the things that are when national politics drips into local politics, that's when there's some disparities a lot of times.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:27:38.820
+End: 00:27:49.820
+Duration: 11.000 seconds
+Text: I just want to remind people that when things are important for day-to-day operations of the city, pretty much that's one of the things we pretty much all will agree on.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:27:49.820
+End: 00:27:53.820
+Duration: 4.000 seconds
+Text: And thanks, Aaron.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:27:53.820
+End: 00:27:56.820
+Duration: 3.000 seconds
+Text: Thank you, Mayor.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:27:56.820
+End: 00:28:00.820
+Duration: 4.000 seconds
+Text: No, I think I'm glad to be up here again for the third term.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:28:00.820
+End: 00:28:03.820
+Duration: 3.000 seconds
+Text: It's always a pleasure to work with fellow city commissioners.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:28:03.820
+End: 00:28:10.820
+Duration: 7.000 seconds
+Text: Mark is absolutely right. We tend to agree more than not and we do have really good civil discourse.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:28:10.820
+End: 00:28:15.820
+Duration: 5.000 seconds
+Text: And it's good to have that kind of discourse when we make our decisions and have a broad discussion.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:28:15.820
+End: 00:28:22.820
+Duration: 7.000 seconds
+Text: I'm glad to see friends and family here this evening as well. We don't often get to many people, this is to come and take pictures.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:28:22.820
+End: 00:28:25.820
+Duration: 3.000 seconds
+Text: So thank you and also thank you, Aaron, for serving.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:28:25.820
+End: 00:28:35.820
+Duration: 10.000 seconds
+Text: I'm sure we will see him on many platforms in the future and we always look forward to community participation and continue to work with our partners in our community.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:28:35.820
+End: 00:28:38.820
+Duration: 3.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:28:38.820
+End: 00:28:41.820
+Duration: 3.000 seconds
+Text: Mr. Butler.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:28:41.820
+End: 00:28:54.820
+Duration: 13.000 seconds
+Text: Yeah, thanks, Aaron, for serving and I'm sure you'll, you know, working with the Manhattan Housing Authority there, you're going to make some progress there and hopefully help us out with the, you know, workforce housing test force that'll get put in place.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:28:54.820
+End: 00:29:00.820
+Duration: 6.000 seconds
+Text: We'll have some work to do on that and looking forward to serving with John again, enjoyed the first four years.
+--------------------------------------------------
+Mayor Win Butler:
+Start: 00:29:00.820
+End: 00:29:07.820
+Duration: 7.000 seconds
+Text: We're on the commission together and very optimistic about the next two years. Thanks.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:29:07.820
+End: 00:29:11.820
+Duration: 4.000 seconds
+Text: I also like to thank Aaron.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:29:11.820
+End: 00:29:22.820
+Duration: 11.000 seconds
+Text: I'm looking forward to be on the commission again. I think we've got some fantastic projects coming up that have been top two as a lead in as we go into these next couple of years.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:29:22.820
+End: 00:29:31.820
+Duration: 9.000 seconds
+Text: I joined the commission in 2011. One of the things I said I wanted to do were the things that I said I was going to do on the campaign.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:29:31.820
+End: 00:29:35.820
+Duration: 4.000 seconds
+Text: Now that didn't mean I was going to win every vote, but I was going to try.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:29:35.820
+End: 00:29:46.820
+Duration: 11.000 seconds
+Text: And also, I hope that I presented myself at nine times out of ten people could figure out how I was going to vote because I let people know and that's why they voted for me.
+--------------------------------------------------
+Commissioner Morse:
+Start: 00:29:46.820
+End: 00:29:56.820
+Duration: 10.000 seconds
+Text: When I left in 2015, I believe I accomplished that. So I'm happy to be back again. I'll be going to using that same philosophy.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:29:56.820
+End: 00:30:07.820
+Duration: 11.000 seconds
+Text: Thank you all. I'd like to make some remarks. And that is that Manhattan is a unique and wonderful community.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:30:07.820
+End: 00:30:17.820
+Duration: 10.000 seconds
+Text: It's bigger than just the city. We only have to do with the city, but it is a unique place.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:30:17.820
+End: 00:30:24.820
+Duration: 7.000 seconds
+Text: And the people I talk to that come here are excited to come to Manhattan and be a part of our community.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:30:24.820
+End: 00:30:29.820
+Duration: 5.000 seconds
+Text: And that has taken work over the years. That hasn't didn't just happen.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:30:29.820
+End: 00:30:40.820
+Duration: 11.000 seconds
+Text: We have invested in this community. And I don't just mean money, but just our hearts and our efforts.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:30:40.820
+End: 00:30:49.820
+Duration: 9.000 seconds
+Text: So I'm interested in continuing that. You know, the census was up slightly for Manhattan. I wasn't 1,500 or something.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:30:49.820
+End: 00:30:59.820
+Duration: 10.000 seconds
+Text: And that's not a lot of growth, but we had been pretty stagnant financially and population wise, just barely growing.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:30:59.820
+End: 00:31:13.820
+Duration: 14.000 seconds
+Text: 1%, 1 1 1,500 a year. And so in order for us to continue that what I call progress, we need to pay attention to our economic development efforts.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:31:13.820
+End: 00:31:21.820
+Duration: 8.000 seconds
+Text: And that has become kind of stagnant too in the last 5 years or so. We think we're doing the right things.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:31:21.820
+End: 00:31:28.820
+Duration: 7.000 seconds
+Text: And then when you look back, you say, well, what really did we accomplish? It wasn't enough. And we want to do more.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:31:28.820
+End: 00:31:36.820
+Duration: 8.000 seconds
+Text: So we have some other economic development initiatives that we want to pursue.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:31:36.820
+End: 00:31:52.820
+Duration: 16.000 seconds
+Text: We have some studies that we've been working on. And with a consultant or otherwise the diversity equity and inclusion committee has made some recommendations to us that we need to review carefully and act on.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:31:52.820
+End: 00:31:58.820
+Duration: 6.000 seconds
+Text: There's a housing study housing marketing study underway.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:31:58.820
+End: 00:32:11.820
+Duration: 13.000 seconds
+Text: That hasn't been concluded yet. So we don't have those recommendations. But the state of Kansas has done a housing study also. And that information is available now just recently.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:32:11.820
+End: 00:32:27.820
+Duration: 16.000 seconds
+Text: We have actually an annexation study that's been underway and we'll be talking about that in the next month or so for a green valley area in Potawatomi County, whether we, whether it's going to be good for Manhattan to annex.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:32:27.820
+End: 00:32:42.820
+Duration: 15.000 seconds
+Text: And we called it at the time a cost benefit analysis. So the utility issue there may really define how interested we are in that annexation.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:32:42.820
+End: 00:33:03.820
+Duration: 21.000 seconds
+Text: There are other things underway. I'm anxious to pursue some of the features in the strategic plan and at which in which we develop some vision, some values, goals that we need to follow up on.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:33:03.820
+End: 00:33:22.820
+Duration: 19.000 seconds
+Text: And the commission just recently a month or so approved that and we need to kind of tear it apart and make it ours and their piece by piece will implement that so that for the betterment of the city and the betterment of our city staff.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:33:22.820
+End: 00:33:40.820
+Duration: 18.000 seconds
+Text: We have been functioning really on a shoestring and trying to do everything and our staff has really been stretched. So this will be an opportunity with the additional federal money from the American Rescue Act.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:33:40.820
+End: 00:33:58.820
+Duration: 18.000 seconds
+Text: I'm hoping that our whole community can benefit and I don't mean to dismiss any aspect of it, but it's going to take some balance as we go forth with that.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:33:58.820
+End: 00:34:27.820
+Duration: 29.000 seconds
+Text: So I'm enthusiastic about this coming year will be I'm enthusiastic about 2023 also so 2022 2023 we will be emerging out of this pandemic. One of those years we will guarantee there's no guarantee which one that we've got to be ready and our sales tax and the state of Kansas sales tax is already emerging and above some past.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:34:28.820
+End: 00:34:54.820
+Duration: 26.000 seconds
+Text: So it's in our future is encouraging and we have to sell Manhattan as best we can everywhere we can to any of the groups and organizations we belong to selling Manhattan will be at the top of the list if it's the League of Kansas municipalities or the engineering society or the recreation society for the state and region please promote Manhattan.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:34:54.820
+End: 00:35:01.820
+Duration: 7.000 seconds
+Text: I thank you I look forward to working with everyone I think we have an exciting year ahead thank you.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:35:01.820
+End: 00:35:08.820
+Duration: 7.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Estabrick:
+Start: 00:35:08.820
+End: 00:35:19.820
+Duration: 11.000 seconds
+Text: I'd like to thank everyone for coming I think my family is about half of the hour and at this point I'd like to announce that the meeting is adjourned.
+--------------------------------------------------

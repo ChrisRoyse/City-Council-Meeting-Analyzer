@@ -1,0 +1,3819 @@
+Transcription and Diarization for 20231122-11⧸21⧸23 City Commission Meeting.mp4
+==================================================
+
+Mayor Mark Hattiesall:
+Start: 00:00:00.000
+End: 00:00:08.760
+Duration: 8.760 seconds
+Text: It is six o'clock and I call the Tuesday, November 21, 2023 City Commission meeting to order.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:00:08.760
+End: 00:00:10.800
+Duration: 2.040 seconds
+Text: Please call the roll.
+--------------------------------------------------
+City Manager:
+Start: 00:00:10.800
+End: 00:00:12.800
+Duration: 2.000 seconds
+Text: Mayor Hadisall.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:00:12.800
+End: 00:00:13.800
+Duration: 1.000 seconds
+Text: Here.
+--------------------------------------------------
+City Manager:
+Start: 00:00:13.800
+End: 00:00:15.280
+Duration: 1.480 seconds
+Text: Commissioner Butler.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:00:15.280
+End: 00:00:16.280
+Duration: 1.000 seconds
+Text: Here.
+--------------------------------------------------
+City Manager:
+Start: 00:00:16.280
+End: 00:00:18.080
+Duration: 1.800 seconds
+Text: Commissioner Mata.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:18.080
+End: 00:00:19.080
+Duration: 1.000 seconds
+Text: Here.
+--------------------------------------------------
+City Manager:
+Start: 00:00:19.080
+End: 00:00:23.040
+Duration: 3.960 seconds
+Text: Mayor, we have three commissioners present.
+--------------------------------------------------
+City Manager:
+Start: 00:00:23.040
+End: 00:00:24.680
+Duration: 1.640 seconds
+Text: The quorum of three is met.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:00:24.680
+End: 00:00:25.680
+Duration: 1.000 seconds
+Text: Very good.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:00:25.680
+End: 00:00:27.720
+Duration: 2.040 seconds
+Text: Please join me in the Pledge of Allegiance.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:00:28.720
+End: 00:00:31.120
+Duration: 2.400 seconds
+Text: I pledge allegiance to the flag.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:31.120
+End: 00:00:32.120
+Duration: 1.000 seconds
+Text: To the flag.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:00:32.120
+End: 00:00:33.120
+Duration: 1.000 seconds
+Text: State's flag.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:00:33.120
+End: 00:00:43.120
+Duration: 10.000 seconds
+Text: And to the Republic for which it stands, one nation under God, indivisible, with liberty and the justice for all.
+--------------------------------------------------
+City Manager:
+Start: 00:00:43.120
+End: 00:00:44.120
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:00:44.120
+End: 00:00:48.920
+Duration: 4.800 seconds
+Text: We've got two proclamations tonight.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:00:48.920
+End: 00:00:51.920
+Duration: 3.000 seconds
+Text: Is Melinda?
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:00:51.920
+End: 00:00:52.920
+Duration: 1.000 seconds
+Text: Yeah, yes you.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:00:52.920
+End: 00:00:53.920
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:00:53.920
+End: 00:00:54.920
+Duration: 1.000 seconds
+Text: Come on up.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:00:58.720
+End: 00:01:00.720
+Duration: 2.000 seconds
+Text: Class of State.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:01:00.720
+End: 00:01:03.720
+Duration: 3.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:01:03.720
+End: 00:01:06.720
+Duration: 3.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:01:06.720
+End: 00:01:09.720
+Duration: 3.000 seconds
+Text: The first one is for the Festival of Lights.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:01:09.720
+End: 00:01:14.120
+Duration: 4.400 seconds
+Text: Whereas the Manhattan Festival of Lights is a unique celebration of the holiday season.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:01:14.120
+End: 00:01:16.720
+Duration: 2.600 seconds
+Text: And this year is the 11th annual event.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:01:16.720
+End: 00:01:24.520
+Duration: 7.800 seconds
+Text: And whereas the Festival of Lights will take place at the Blue Earth Plaza with the opening ceremony to begin at 7 p.m. on Friday, November 24th.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:01:24.520
+End: 00:01:34.720
+Duration: 10.200 seconds
+Text: Whereas the Festival of Lights event is a collaboration of many businesses and local citizens with a love for their community and is funded through charitable donations and in kind contributions.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:01:34.720
+End: 00:01:40.320
+Duration: 5.600 seconds
+Text: Whereas this is a magical time to enjoy the wonderland of lights choreographed to holiday classics.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:01:40.320
+End: 00:01:46.920
+Duration: 6.600 seconds
+Text: Sip Hot Chocolate, Fireside with family and friends, and enjoy shopping and dining opportunities in our community.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:01:46.920
+End: 00:01:54.920
+Duration: 8.000 seconds
+Text: Whereas the lighting of the holiday tree can be enjoyed for all to see for it was who will and the generous donors who made it all come to be.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:01:54.920
+End: 00:02:03.920
+Duration: 9.000 seconds
+Text: And whereas this event has come to change the Grinch and his small selfish heart and the Festival of Lights has grown with love and that's just a start.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:02:03.920
+End: 00:02:10.920
+Duration: 7.000 seconds
+Text: And whereas this event will provide more cheer for your family that can't be missed and for and for more information.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:02:10.920
+End: 00:02:15.920
+Duration: 5.000 seconds
+Text: Visit www.imagekfestivaloflights.com to stay off the naughty list.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:02:15.920
+End: 00:02:35.920
+Duration: 20.000 seconds
+Text: Now therefore I mark how to solve the mayor of the City of Manhattan to hereby declare November 24th to January 1st, 2024 as Festival of Lights event in the City of Manhattan and encourage all citizens and community members throughout the region and state to enjoy the brilliant light displays and the family fun activities.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:02:35.920
+End: 00:02:37.920
+Duration: 2.000 seconds
+Text: Here you go. When I say a few words.
+--------------------------------------------------
+City Manager:
+Start: 00:02:37.920
+End: 00:02:54.920
+Duration: 17.000 seconds
+Text: We just like to invite everyone down to the lighting on Friday night. It starts at will start the pre festivities about 630. The Santa will arrive at 7 and then for the next six weeks we will have the blue earth plaza lit up and thanks to everyone the city of Manhattan.
+--------------------------------------------------
+City Manager:
+Start: 00:02:54.920
+End: 00:03:03.920
+Duration: 9.000 seconds
+Text: Chamber CVB that has helped us all of our volunteers and donors to make this a success and 11 years running.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:03:03.920
+End: 00:03:09.920
+Duration: 6.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:03:09.920
+End: 00:03:14.920
+Duration: 5.000 seconds
+Text: Find your foot and toe warmers and hand warmers and long and or come on out and join us.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:03:14.920
+End: 00:03:20.920
+Duration: 6.000 seconds
+Text: The next one is small business Saturday Craig Loppie.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:03:20.920
+End: 00:03:23.920
+Duration: 3.000 seconds
+Text: Come on somebody come with him.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:03:23.920
+End: 00:03:26.920
+Duration: 3.000 seconds
+Text: Very good.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:03:26.920
+End: 00:03:29.920
+Duration: 3.000 seconds
+Text: Hello again.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:03:29.920
+End: 00:03:37.920
+Duration: 8.000 seconds
+Text: We're as the small locally owned businesses of Manhattan are vital to our city's economic health and contribute to our unique and vibrant community character.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:03:37.920
+End: 00:03:45.920
+Duration: 8.000 seconds
+Text: And whereas the US small business administration states that small businesses create 65% of net new local jobs.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:03:45.920
+End: 00:03:55.920
+Duration: 10.000 seconds
+Text: And whereas with every hundred dollars spent at a small local retailer 68 dollars will return to the community through taxes payroll and donations to local schools and charities.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:03:55.920
+End: 00:04:02.920
+Duration: 7.000 seconds
+Text: And whereas the public awareness of the contributions made by Manhattan local businesses is the key to sustaining a healthy business climate.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:04:02.920
+End: 00:04:10.920
+Duration: 8.000 seconds
+Text: And the people of Manhattan are grateful to the small locally owned businesses of Manhattan for their generous contributions to the quality of life we all enjoy.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:04:10.920
+End: 00:04:18.920
+Duration: 8.000 seconds
+Text: And whereas we join American Express the US Chamber and other local chambers of commerce in supporting America's locally owned small businesses.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:04:18.920
+End: 00:04:35.920
+Duration: 17.000 seconds
+Text: Now therefore I mark how to solve the mayor of the city of Manhattan to hear by proclaim Saturday November 25th as small business Saturday in the city of Manhattan Kansas and it urged all residents to join the rest of America and do a portion of their holiday shopping at small locally owned businesses.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:04:35.920
+End: 00:04:38.920
+Duration: 3.000 seconds
+Text: Craig?
+--------------------------------------------------
+City Manager:
+Start: 00:04:38.920
+End: 00:04:52.920
+Duration: 14.000 seconds
+Text: So on behalf of the chamber obviously small businesses is the nuts and bolts of your community. And so I represent a committee that we're focusing on a campaign that just rolled out Saturday.
+--------------------------------------------------
+City Manager:
+Start: 00:04:52.920
+End: 00:05:04.920
+Duration: 12.000 seconds
+Text: That is specifically focused on shopping local. It doesn't matter for a smaller big that money does come back to the community. And so we appreciate the proclamation the chambers into phenomenal job supporting this and thanks to the city for the support as well.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:05:04.920
+End: 00:05:06.920
+Duration: 2.000 seconds
+Text: Very good. Thank you. Take yourself.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:06.920
+End: 00:05:13.920
+Duration: 7.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:05:13.920
+End: 00:05:25.920
+Duration: 12.000 seconds
+Text: The next item is commission or comments when do you have anything?
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:05:25.920
+End: 00:05:41.920
+Duration: 16.000 seconds
+Text: I just want to mention one thing that the lighted parades coming up and the reason that was originally formed many years ago was to raise food for the bread basket and parks and wrecks doing something sort of unique this year if you haven't noticed if you go to any of our rec centers or sunset zoo or even city hall.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:05:41.920
+End: 00:05:53.920
+Duration: 12.000 seconds
+Text: You can donate food by voting whether die hard as a Christmas music or not. And I think that's pretty good deal seems to be working so you know if you got a can of soup or something bring it by and cast your vote.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:05:53.920
+End: 00:05:55.920
+Duration: 2.000 seconds
+Text: I think it's a Christmas movie.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:05:55.920
+End: 00:05:59.920
+Duration: 4.000 seconds
+Text: It is. So John do you have anything else?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:05:59.920
+End: 00:06:00.920
+Duration: 1.000 seconds
+Text: No, they did.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:06:00.920
+End: 00:06:01.920
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:06:01.920
+End: 00:06:09.920
+Duration: 8.000 seconds
+Text: We will move on to the consent agenda which are items of a routine or housekeeping nature or items that have been previously reviewed by the commission.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:06:09.920
+End: 00:06:15.920
+Duration: 6.000 seconds
+Text: Commissioner may request an item be moved or separate discussion and consideration immediately following the consent agenda.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:06:15.920
+End: 00:06:27.920
+Duration: 12.000 seconds
+Text: Does the commission have any questions or comments about any items on the consent agenda?
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:06:27.920
+End: 00:06:30.920
+Duration: 3.000 seconds
+Text: If not, John you there you have something.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:06:30.920
+End: 00:06:32.920
+Duration: 2.000 seconds
+Text: No, don't have anything.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:06:32.920
+End: 00:06:43.920
+Duration: 11.000 seconds
+Text: Okay. We will move on to open public comment here. We will now receive public comment on any items on the consent agenda members of the public nobody signed up but anybody can come forward.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:06:43.920
+End: 00:06:46.920
+Duration: 3.000 seconds
+Text: Speak for five minutes up to five minutes.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:06:46.920
+End: 00:06:54.920
+Duration: 8.000 seconds
+Text: So state your name your address or an organization representing and you can only speak one time when your timer is up you need to stop.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:06:54.920
+End: 00:06:58.920
+Duration: 4.000 seconds
+Text: We will not answer questions or debate an issue but we'll take on your comments under advisement.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:06:58.920
+End: 00:07:04.920
+Duration: 6.000 seconds
+Text: Does anybody care to comment on any items on the consent agenda?
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:07:04.920
+End: 00:07:08.920
+Duration: 4.000 seconds
+Text: All right. If hearing none is there a motion?
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:07:08.920
+End: 00:07:11.920
+Duration: 3.000 seconds
+Text: Can I move we approve the consent agenda?
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:07:11.920
+End: 00:07:17.920
+Duration: 6.000 seconds
+Text: All right. It's been moved and seconded to approve the consent agenda. Please call the roll.
+--------------------------------------------------
+City Manager:
+Start: 00:07:17.920
+End: 00:07:18.920
+Duration: 1.000 seconds
+Text: Commissioner Butler?
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:07:18.920
+End: 00:07:19.920
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 00:07:19.920
+End: 00:07:21.920
+Duration: 2.000 seconds
+Text: Commissioner Mata?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:07:21.920
+End: 00:07:22.920
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 00:07:22.920
+End: 00:07:24.920
+Duration: 2.000 seconds
+Text: Mayor Hattasol?
+--------------------------------------------------
+City Manager:
+Start: 00:07:24.920
+End: 00:07:25.920
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 00:07:25.920
+End: 00:07:28.920
+Duration: 3.000 seconds
+Text: Motion carries. 3 to 0.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:07:28.920
+End: 00:07:34.920
+Duration: 6.000 seconds
+Text: All right. We will move on to the next item which is public hearing and city manager will tell us all about it.
+--------------------------------------------------
+City Manager:
+Start: 00:07:34.920
+End: 00:07:36.920
+Duration: 2.000 seconds
+Text: Thank you. Mayor. Commissioner is good evening.
+--------------------------------------------------
+City Manager:
+Start: 00:07:36.920
+End: 00:07:43.920
+Duration: 7.000 seconds
+Text: This is kind of a unique item that we're asking you to move to another time.
+--------------------------------------------------
+City Manager:
+Start: 00:07:43.920
+End: 00:07:48.920
+Duration: 5.000 seconds
+Text: So this is a tax agreement financing plan amendment.
+--------------------------------------------------
+City Manager:
+Start: 00:07:48.920
+End: 00:08:01.920
+Duration: 13.000 seconds
+Text: It requires an ordinance and also requires a two thirds majority vote of the seated commissioners and that would all four commissioners would need to or obviously missing commissioner more this evening.
+--------------------------------------------------
+City Manager:
+Start: 00:08:01.920
+End: 00:08:06.920
+Duration: 5.000 seconds
+Text: So we're not able to take action on that plan.
+--------------------------------------------------
+City Manager:
+Start: 00:08:06.920
+End: 00:08:18.920
+Duration: 12.000 seconds
+Text: We just after discovering we scheduled this and published our notices two times prior to this and then learned that we wouldn't have four commissioners tonight.
+--------------------------------------------------
+City Manager:
+Start: 00:08:18.920
+End: 00:08:30.920
+Duration: 12.000 seconds
+Text: So to proceed with consideration of the tiff plan amendment, city administration recommends that the mayor open the public hearing because that's when it was advertised to do was tonight.
+--------------------------------------------------
+City Manager:
+Start: 00:08:30.920
+End: 00:08:45.920
+Duration: 15.000 seconds
+Text: We recommend a commissioner make a motion to move the hearing to the first reading of the tiff amendment to December 5th at 6 p.m. or another date specified to move it or continue it.
+--------------------------------------------------
+City Manager:
+Start: 00:08:45.920
+End: 00:08:47.920
+Duration: 2.000 seconds
+Text: To continue.
+--------------------------------------------------
+City Manager:
+Start: 00:08:47.920
+End: 00:08:48.920
+Duration: 1.000 seconds
+Text: Okay. Very good.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:08:48.920
+End: 00:08:49.920
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:08:49.920
+End: 00:08:53.920
+Duration: 4.000 seconds
+Text: So we will still have the a presentation or not.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:08:53.920
+End: 00:08:55.920
+Duration: 2.000 seconds
+Text: No, just public hearing.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:08:55.920
+End: 00:08:58.920
+Duration: 3.000 seconds
+Text: So just actually open the public hearing.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:08:58.920
+End: 00:08:59.920
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Manager:
+Start: 00:08:59.920
+End: 00:09:00.920
+Duration: 1.000 seconds
+Text: To continue.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:09:00.920
+End: 00:09:01.920
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Manager:
+Start: 00:09:01.920
+End: 00:09:02.920
+Duration: 1.000 seconds
+Text: Let me get my glasses.
+--------------------------------------------------
+City Manager:
+Start: 00:09:02.920
+End: 00:09:04.920
+Duration: 2.000 seconds
+Text: Mayor, we need to open the public hearing.
+--------------------------------------------------
+City Manager:
+Start: 00:09:04.920
+End: 00:09:05.920
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Manager:
+Start: 00:09:05.920
+End: 00:09:07.920
+Duration: 2.000 seconds
+Text: And then the motion can occur.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:09:07.920
+End: 00:09:08.920
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:09:08.920
+End: 00:09:09.920
+Duration: 1.000 seconds
+Text: I want to.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:09:09.920
+End: 00:09:10.920
+Duration: 1.000 seconds
+Text: This is your chance.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:09:10.920
+End: 00:09:16.920
+Duration: 6.000 seconds
+Text: I will open a public hearing on considering the Aggieville tiff increment financing redevelopment plan.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:09:16.920
+End: 00:09:22.920
+Duration: 6.000 seconds
+Text: I'm opening the public hearing but stay seated.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:09:22.920
+End: 00:09:26.920
+Duration: 4.000 seconds
+Text: It is now going and what's next?
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:09:26.920
+End: 00:09:27.920
+Duration: 1.000 seconds
+Text: Motion.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:09:27.920
+End: 00:09:28.920
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:09:28.920
+End: 00:09:39.920
+Duration: 11.000 seconds
+Text: Then I would move that we recess this public hearing with the continuation of the hearing and first reading of the ordinance amending the redevelopment plan for the Aggieville tiff district to December 5th at 6 p.m.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:09:39.920
+End: 00:09:41.920
+Duration: 2.000 seconds
+Text: In the city commission room right here in city hall.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:09:41.920
+End: 00:09:42.920
+Duration: 1.000 seconds
+Text: I'll second.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:09:42.920
+End: 00:09:44.920
+Duration: 2.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:09:44.920
+End: 00:09:50.920
+Duration: 6.000 seconds
+Text: It's been moved and seconded to continue this public hearing until December 5th.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:09:50.920
+End: 00:09:52.920
+Duration: 2.000 seconds
+Text: Is there any other discussion?
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:09:52.920
+End: 00:09:54.920
+Duration: 2.000 seconds
+Text: John, you okay with that?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:54.920
+End: 00:09:55.920
+Duration: 1.000 seconds
+Text: I'm good.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:09:55.920
+End: 00:09:57.920
+Duration: 2.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:09:57.920
+End: 00:10:02.920
+Duration: 5.000 seconds
+Text: In that case, I will call for a vote.
+--------------------------------------------------
+City Manager:
+Start: 00:10:02.920
+End: 00:10:03.920
+Duration: 1.000 seconds
+Text: Commissioner Mata.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:10:03.920
+End: 00:10:05.920
+Duration: 2.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 00:10:05.920
+End: 00:10:06.920
+Duration: 1.000 seconds
+Text: Mayor Hattasol.
+--------------------------------------------------
+City Manager:
+Start: 00:10:06.920
+End: 00:10:07.920
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 00:10:07.920
+End: 00:10:09.920
+Duration: 2.000 seconds
+Text: Commissioner Butler.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:10:09.920
+End: 00:10:10.920
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 00:10:10.920
+End: 00:10:13.920
+Duration: 3.000 seconds
+Text: Motion carries 3 to 0.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:10:13.920
+End: 00:10:18.920
+Duration: 5.000 seconds
+Text: We will see you all on December 5th who came for that item.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:10:18.920
+End: 00:10:19.920
+Duration: 1.000 seconds
+Text: All right.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:10:19.920
+End: 00:10:27.920
+Duration: 8.000 seconds
+Text: Next is consider amending the 2023 city budget for 5 budgeted funds.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:10:27.920
+End: 00:10:28.920
+Duration: 1.000 seconds
+Text: Who we got?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:10:49.920
+End: 00:10:52.920
+Duration: 3.000 seconds
+Text: All right.
+--------------------------------------------------
+City Clerk:
+Start: 00:10:52.920
+End: 00:10:53.920
+Duration: 1.000 seconds
+Text: Good evening.
+--------------------------------------------------
+City Clerk:
+Start: 00:10:53.920
+End: 00:10:54.920
+Duration: 1.000 seconds
+Text: Mayor and commissioners.
+--------------------------------------------------
+City Clerk:
+Start: 00:10:54.920
+End: 00:11:02.920
+Duration: 8.000 seconds
+Text: This evening we will be reviewing the proposed amendments for 5 of the budgeted funds for the 2023 budget.
+--------------------------------------------------
+City Clerk:
+Start: 00:11:02.920
+End: 00:11:06.920
+Duration: 4.000 seconds
+Text: Just a little background for you.
+--------------------------------------------------
+City Clerk:
+Start: 00:11:06.920
+End: 00:11:14.920
+Duration: 8.000 seconds
+Text: This is what allows us to go ahead and amend one of our one or more of the budgeted funds prior to the end of the budget year.
+--------------------------------------------------
+City Clerk:
+Start: 00:11:15.920
+End: 00:11:21.920
+Duration: 6.000 seconds
+Text: We did publish our notification in the Manhattan Mercury as well as on our city website.
+--------------------------------------------------
+City Clerk:
+Start: 00:11:21.920
+End: 00:11:30.920
+Duration: 9.000 seconds
+Text: Notify everybody of the public hearing and our intent to go ahead and amend these 5 funds here as named Fire Pension KPNF.
+--------------------------------------------------
+City Clerk:
+Start: 00:11:30.920
+End: 00:11:41.920
+Duration: 11.000 seconds
+Text: Sales tax, employee benefit, special street maintenance, and then our parking services fund.
+--------------------------------------------------
+City Clerk:
+Start: 00:11:41.920
+End: 00:11:44.920
+Duration: 3.000 seconds
+Text: We will go through each one of these briefly here.
+--------------------------------------------------
+City Clerk:
+Start: 00:11:44.920
+End: 00:11:50.920
+Duration: 6.000 seconds
+Text: If you have questions you can ask about them as we go or you can save them all for the end however you'd like to do that.
+--------------------------------------------------
+City Clerk:
+Start: 00:11:50.920
+End: 00:11:57.920
+Duration: 7.000 seconds
+Text: Fire Pension KPNF, the adopted 23 budget was $1,196,500.
+--------------------------------------------------
+City Clerk:
+Start: 00:11:57.920
+End: 00:12:02.920
+Duration: 5.000 seconds
+Text: We proposed amending it to $1,416,500.
+--------------------------------------------------
+City Clerk:
+Start: 00:12:02.920
+End: 00:12:10.920
+Duration: 8.000 seconds
+Text: At this point as we review our expenditures that we have left in the year, we are anticipating that we will go ahead and exceed that 1,196,000.
+--------------------------------------------------
+City Clerk:
+Start: 00:12:10.920
+End: 00:12:24.920
+Duration: 14.000 seconds
+Text: As you can note at the bottom are expenditures as of October 31st which is 83% of the year is about a little over $1.1 million.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:12:24.920
+End: 00:12:27.920
+Duration: 3.000 seconds
+Text: That's a 20% increase in the budgeted line.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:12:27.920
+End: 00:12:31.920
+Duration: 4.000 seconds
+Text: What kind of things showed up that we weren't expecting and the idea is?
+--------------------------------------------------
+City Clerk:
+Start: 00:12:31.920
+End: 00:12:39.920
+Duration: 8.000 seconds
+Text: A lot of it has to do with just contributions that we provide for those fire individuals.
+--------------------------------------------------
+City Clerk:
+Start: 00:12:39.920
+End: 00:12:43.920
+Duration: 4.000 seconds
+Text: A lot of it depends on the number as well as what that rate is.
+--------------------------------------------------
+City Clerk:
+Start: 00:12:43.920
+End: 00:12:51.920
+Duration: 8.000 seconds
+Text: Sometimes that rate does come out for us in terms of what the city is required to go ahead and actually contribute and so that can sway a little bit.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:12:51.920
+End: 00:12:57.920
+Duration: 6.000 seconds
+Text: So when we were making up the budget last year, they potentially changed the rate and increased.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:12:57.920
+End: 00:13:01.920
+Duration: 4.000 seconds
+Text: I mean, we may have had more people retiring or some combination of all that.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:13:01.920
+End: 00:13:03.920
+Duration: 2.000 seconds
+Text: Okay, next.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:13:03.920
+End: 00:13:13.920
+Duration: 10.000 seconds
+Text: I'll click. Wait, is there any issue with the 24 budget given that we would assume based it on certain premises?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:13:13.920
+End: 00:13:17.920
+Duration: 4.000 seconds
+Text: Or did we already see this coming when we did the 24?
+--------------------------------------------------
+City Clerk:
+Start: 00:13:17.920
+End: 00:13:20.920
+Duration: 3.000 seconds
+Text: I think we adjusted accordingly.
+--------------------------------------------------
+City Clerk:
+Start: 00:13:20.920
+End: 00:13:29.920
+Duration: 9.000 seconds
+Text: I can 100% say that I won't be standing back up here again as well in 24 asking for that same thing because there are instances that can happen.
+--------------------------------------------------
+City Clerk:
+Start: 00:13:29.920
+End: 00:13:35.920
+Duration: 6.000 seconds
+Text: But we try to budget as accurately as we can with the information that we have at the time.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:13:35.920
+End: 00:13:40.920
+Duration: 5.000 seconds
+Text: Okay. Okay. Now next.
+--------------------------------------------------
+City Clerk:
+Start: 00:13:40.920
+End: 00:13:42.920
+Duration: 2.000 seconds
+Text: Our sales tax fund.
+--------------------------------------------------
+City Clerk:
+Start: 00:13:42.920
+End: 00:13:47.920
+Duration: 5.000 seconds
+Text: This is always nice to see our 23 budget. We had $5.9 million.
+--------------------------------------------------
+City Clerk:
+Start: 00:13:47.920
+End: 00:13:51.920
+Duration: 4.000 seconds
+Text: We'd like to amend that up to closer to 7.6.
+--------------------------------------------------
+City Clerk:
+Start: 00:13:51.920
+End: 00:13:59.920
+Duration: 8.000 seconds
+Text: As you can see on the slide, 2023 so far you're to date for just sales taxes roughly $5.2 million.
+--------------------------------------------------
+City Clerk:
+Start: 00:13:59.920
+End: 00:14:04.920
+Duration: 5.000 seconds
+Text: If we keep it up to 5.9, that's roughly 99% of our budget.
+--------------------------------------------------
+City Clerk:
+Start: 00:14:04.920
+End: 00:14:10.920
+Duration: 6.000 seconds
+Text: Use tax is exceeding our expectations in regards to where we budgeted.
+--------------------------------------------------
+City Clerk:
+Start: 00:14:10.920
+End: 00:14:17.920
+Duration: 7.000 seconds
+Text: We budgeted that line item at $600,000 in 2023 and it's now close to almost $1 million in regards to that.
+--------------------------------------------------
+City Clerk:
+Start: 00:14:17.920
+End: 00:14:21.920
+Duration: 4.000 seconds
+Text: So there is a note down at the bottom of this slide.
+--------------------------------------------------
+City Clerk:
+Start: 00:14:21.920
+End: 00:14:27.920
+Duration: 6.000 seconds
+Text: Both the sales tax was amended for years 2021 and 2022.
+--------------------------------------------------
+City Clerk:
+Start: 00:14:27.920
+End: 00:14:32.920
+Duration: 5.000 seconds
+Text: And so that number is reflected in this percentage of budget numbers on the slide.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:14:32.920
+End: 00:14:35.920
+Duration: 3.000 seconds
+Text: All right.
+--------------------------------------------------
+City Clerk:
+Start: 00:14:35.920
+End: 00:14:44.920
+Duration: 9.000 seconds
+Text: And then for 24 we did increase our sales tax fund closer to where we were seeing the 23 year end.
+--------------------------------------------------
+City Clerk:
+Start: 00:14:44.920
+End: 00:14:50.920
+Duration: 6.000 seconds
+Text: So hopefully we'll be a little bit closer on the 24 side than we are here currently for 23.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:14:50.920
+End: 00:14:54.920
+Duration: 4.000 seconds
+Text: We'll change income budgets up anytime you bring it to us.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:14:54.920
+End: 00:14:55.920
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Clerk:
+Start: 00:14:56.920
+End: 00:14:59.920
+Duration: 3.000 seconds
+Text: Employee benefit.
+--------------------------------------------------
+City Clerk:
+Start: 00:14:59.920
+End: 00:15:01.920
+Duration: 2.000 seconds
+Text: Very similar to KP&F.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:01.920
+End: 00:15:04.920
+Duration: 3.000 seconds
+Text: We had a budget of a little over $5.8 million.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:04.920
+End: 00:15:13.920
+Duration: 9.000 seconds
+Text: We're now looking closer to 6.2, just based upon the expenditures that we're anticipating for the remainder of the year at this point.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:15:13.920
+End: 00:15:22.920
+Duration: 9.000 seconds
+Text: Are we filling more unfilled positions or anything that we weren't expecting maybe for any reason?
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:15:22.920
+End: 00:15:27.920
+Duration: 5.000 seconds
+Text: Just having to pay people more to keep them or something?
+--------------------------------------------------
+City Manager:
+Start: 00:15:27.920
+End: 00:15:29.920
+Duration: 2.000 seconds
+Text: Yeah, I think it's a combination.
+--------------------------------------------------
+City Manager:
+Start: 00:15:29.920
+End: 00:15:31.920
+Duration: 2.000 seconds
+Text: I think it's a combination of things.
+--------------------------------------------------
+City Manager:
+Start: 00:15:31.920
+End: 00:15:37.920
+Duration: 6.000 seconds
+Text: I don't know, Jason, if you got a feel for that.
+--------------------------------------------------
+City Manager:
+Start: 00:15:37.920
+End: 00:15:39.920
+Duration: 2.000 seconds
+Text: Yeah.
+--------------------------------------------------
+City Manager:
+Start: 00:15:39.920
+End: 00:15:41.920
+Duration: 2.000 seconds
+Text: Everything just costs more.
+--------------------------------------------------
+City Manager:
+Start: 00:15:41.920
+End: 00:15:46.920
+Duration: 5.000 seconds
+Text: I mean, the budget just wasn't ready to take on that inflation.
+--------------------------------------------------
+City Manager:
+Start: 00:15:46.920
+End: 00:15:50.920
+Duration: 4.000 seconds
+Text: The actuals are more than we anticipated from a budget perspective.
+--------------------------------------------------
+City Manager:
+Start: 00:15:50.920
+End: 00:15:53.920
+Duration: 3.000 seconds
+Text: The good thing is revenues are up.
+--------------------------------------------------
+City Manager:
+Start: 00:15:53.920
+End: 00:16:03.920
+Duration: 10.000 seconds
+Text: So it's not as if it's created a total hardship, but in order to spend what we anticipate, we got to adjust the budget.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:16:03.920
+End: 00:16:04.920
+Duration: 1.000 seconds
+Text: First.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:16:04.920
+End: 00:16:09.920
+Duration: 5.000 seconds
+Text: We're still down and I would assume so still down and staff.
+--------------------------------------------------
+City Manager:
+Start: 00:16:09.920
+End: 00:16:11.920
+Duration: 2.000 seconds
+Text: We're making progress.
+--------------------------------------------------
+City Manager:
+Start: 00:16:11.920
+End: 00:16:14.920
+Duration: 3.000 seconds
+Text: We've had a lot of more successful recruitments.
+--------------------------------------------------
+City Manager:
+Start: 00:16:14.920
+End: 00:16:19.920
+Duration: 5.000 seconds
+Text: We can get that data sent out to the commissioners in terms of where we're at.
+--------------------------------------------------
+City Manager:
+Start: 00:16:19.920
+End: 00:16:21.920
+Duration: 2.000 seconds
+Text: But recruitments are up.
+--------------------------------------------------
+City Manager:
+Start: 00:16:21.920
+End: 00:16:27.920
+Duration: 6.000 seconds
+Text: Our staffing levels are a lot higher than they were this time last year.
+--------------------------------------------------
+City Manager:
+Start: 00:16:27.920
+End: 00:16:29.920
+Duration: 2.000 seconds
+Text: In key areas as well.
+--------------------------------------------------
+City Manager:
+Start: 00:16:29.920
+End: 00:16:39.920
+Duration: 10.000 seconds
+Text: Public works in parks and rec are really getting to a point where being fully staffs and budgets are being realized.
+--------------------------------------------------
+City Manager:
+Start: 00:16:39.920
+End: 00:16:46.920
+Duration: 7.000 seconds
+Text: If you paid attention to the last month's financial report, you'll very much notice.
+--------------------------------------------------
+City Manager:
+Start: 00:16:46.920
+End: 00:16:51.920
+Duration: 5.000 seconds
+Text: There are certain divisions that are outspending where they were last year by quite a bit.
+--------------------------------------------------
+City Manager:
+Start: 00:16:51.920
+End: 00:17:02.920
+Duration: 11.000 seconds
+Text: They're still within budget or real close, but years prior we had so much in savings in terms of forecasted revenues for expenditures.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:17:02.920
+End: 00:17:03.920
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:17:03.920
+End: 00:17:09.920
+Duration: 6.000 seconds
+Text: Again, my concern just is that if the benefits were based on a higher staff level, that's even more of an increase.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:17:09.920
+End: 00:17:12.920
+Duration: 3.000 seconds
+Text: So, I think we have to think about it.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:17:12.920
+End: 00:17:13.920
+Duration: 1.000 seconds
+Text: That's going in there.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:17:13.920
+End: 00:17:14.920
+Duration: 1.000 seconds
+Text: Again, am I saying question?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:17:14.920
+End: 00:17:20.920
+Duration: 6.000 seconds
+Text: Do we have this built into 24 and we already see this when we did the 24 budget?
+--------------------------------------------------
+City Manager:
+Start: 00:17:20.920
+End: 00:17:28.920
+Duration: 8.000 seconds
+Text: Well, I think the reality of our financial picture right now is we're also just total expenditures in the general fund are higher than our revenues.
+--------------------------------------------------
+City Manager:
+Start: 00:17:28.920
+End: 00:17:32.920
+Duration: 4.000 seconds
+Text: It's the first time in probably three or four years we've had this experience.
+--------------------------------------------------
+City Manager:
+Start: 00:17:32.920
+End: 00:17:41.920
+Duration: 9.000 seconds
+Text: So, we've had a lot of results of being staffed up and spending right up to our budget in a lot of areas.
+--------------------------------------------------
+City Manager:
+Start: 00:17:41.920
+End: 00:17:49.920
+Duration: 8.000 seconds
+Text: Our revenues are still positive, but again, all that inflation is impacting all those budgets.
+--------------------------------------------------
+City Manager:
+Start: 00:17:49.920
+End: 00:17:51.920
+Duration: 2.000 seconds
+Text: And the pay study hasn't been there.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:17:51.920
+End: 00:17:57.920
+Duration: 6.000 seconds
+Text: I'm just wanting to say that we already see this coming when we did the next budget.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:17:57.920
+End: 00:18:00.920
+Duration: 3.000 seconds
+Text: So, we kind of have this inflationary factor.
+--------------------------------------------------
+City Manager:
+Start: 00:18:00.920
+End: 00:18:04.920
+Duration: 4.000 seconds
+Text: Sure. I think there was an attempt there, Commissioner.
+--------------------------------------------------
+City Manager:
+Start: 00:18:04.920
+End: 00:18:05.920
+Duration: 1.000 seconds
+Text: I guess we'll find out.
+--------------------------------------------------
+City Manager:
+Start: 00:18:05.920
+End: 00:18:11.920
+Duration: 6.000 seconds
+Text: We'll see if the reality plays out to what we forecasted.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:18:11.920
+End: 00:18:15.920
+Duration: 4.000 seconds
+Text: Okay, next.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:15.920
+End: 00:18:21.920
+Duration: 6.000 seconds
+Text: Okay. Our fourth fund for tonight will be Special Street Maintenance Fund.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:21.920
+End: 00:18:29.920
+Duration: 8.000 seconds
+Text: Special Street Maintenance Fund has had a lot of projects that are now kind of coming to fruition as you can see throughout the community.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:29.920
+End: 00:18:35.920
+Duration: 6.000 seconds
+Text: In regards to maintenance projects, both on the asphalt as well as the concrete side.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:35.920
+End: 00:18:38.920
+Duration: 3.000 seconds
+Text: Those were anticipated in prior years.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:38.920
+End: 00:18:40.920
+Duration: 2.000 seconds
+Text: And so, they're now kind of catching up.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:40.920
+End: 00:18:49.920
+Duration: 9.000 seconds
+Text: And so, in order for us to be able to spend in this budget year for these projects, we do have to go ahead and amend from that 3.8 closer to that 5.2.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:50.920
+End: 00:18:54.920
+Duration: 4.000 seconds
+Text: And I'd like to note on this one is for 2023.
+--------------------------------------------------
+City Clerk:
+Start: 00:18:54.920
+End: 00:19:02.920
+Duration: 8.000 seconds
+Text: We anticipated them having a cash balance carryover of roughly $1.2 million.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:02.920
+End: 00:19:06.920
+Duration: 4.000 seconds
+Text: This fund ended up carrying over a little over $2.6 million.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:06.920
+End: 00:19:14.920
+Duration: 8.000 seconds
+Text: So, it did have some revenue that carried over from those prior years because they were budgeted and didn't actually happen in those years at that time.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:20.920
+End: 00:19:26.920
+Duration: 6.000 seconds
+Text: Our final fund for this evening is going to be our parking services fund.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:26.920
+End: 00:19:31.920
+Duration: 5.000 seconds
+Text: For 2023, we had a budget of roughly $769,000.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:31.920
+End: 00:19:42.920
+Duration: 11.000 seconds
+Text: And we're looking to amend that closer to the $820,000 based upon current expenditures where we're at and where we anticipate the remainder of the year.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:43.920
+End: 00:19:54.920
+Duration: 11.000 seconds
+Text: We're looking at wanting to get closer to that $820,000 to be able to make sure we have enough for everything that the parking services division is needing.
+--------------------------------------------------
+City Clerk:
+Start: 00:19:54.920
+End: 00:19:57.920
+Duration: 3.000 seconds
+Text: Any other questions?
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:19:57.920
+End: 00:20:06.920
+Duration: 9.000 seconds
+Text: I think there's one thing we need to clarify because people see this and they assume that we've now increased the budget and increased their property taxes.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:20:07.920
+End: 00:20:12.920
+Duration: 5.000 seconds
+Text: And we're spending more money, where did this money come from that we're spending?
+--------------------------------------------------
+City Clerk:
+Start: 00:20:12.920
+End: 00:20:17.920
+Duration: 5.000 seconds
+Text: So, each one of these will have a little bit different parking services.
+--------------------------------------------------
+City Clerk:
+Start: 00:20:17.920
+End: 00:20:22.920
+Duration: 5.000 seconds
+Text: There are fees that are being charged in that for that division.
+--------------------------------------------------
+City Clerk:
+Start: 00:20:22.920
+End: 00:20:26.920
+Duration: 4.000 seconds
+Text: So, a lot of that is going to help with this particular amendment.
+--------------------------------------------------
+City Clerk:
+Start: 00:20:26.920
+End: 00:20:33.920
+Duration: 7.000 seconds
+Text: There are others as well that will come in and help in the event that those aren't going to cover the full and then did amount.
+--------------------------------------------------
+City Clerk:
+Start: 00:20:33.920
+End: 00:20:41.920
+Duration: 8.000 seconds
+Text: Special Street Maintenance Fund is from the 210 sales tax that was passed, excuse me, by the voters.
+--------------------------------------------------
+City Clerk:
+Start: 00:20:41.920
+End: 00:20:46.920
+Duration: 5.000 seconds
+Text: So, that is from basically sales tax at that point.
+--------------------------------------------------
+City Clerk:
+Start: 00:20:46.920
+End: 00:20:53.920
+Duration: 7.000 seconds
+Text: Employee benefit to revenue sources that come for employee benefit, our property taxes and sales tax.
+--------------------------------------------------
+City Clerk:
+Start: 00:20:53.920
+End: 00:21:03.920
+Duration: 10.000 seconds
+Text: However, this amendment will be just on the sales tax side, will be increasing our sales tax transfer to be able to go ahead and amend our budget upwards for this particular fund.
+--------------------------------------------------
+City Clerk:
+Start: 00:21:03.920
+End: 00:21:07.920
+Duration: 4.000 seconds
+Text: So, it won't receive any additional property tax at this point.
+--------------------------------------------------
+City Clerk:
+Start: 00:21:07.920
+End: 00:21:12.920
+Duration: 5.000 seconds
+Text: Sales tax, exactly what it is, it's additional sales tax coming into that fund.
+--------------------------------------------------
+City Clerk:
+Start: 00:21:12.920
+End: 00:21:20.920
+Duration: 8.000 seconds
+Text: That as I mentioned in some of the other funds will turn around and actually go to those funds to be able to accomplish our amendment.
+--------------------------------------------------
+City Clerk:
+Start: 00:21:20.920
+End: 00:21:28.920
+Duration: 8.000 seconds
+Text: And that will be the same for fire pension KPNF. That's going to be a sales tax transfer from those additional sales tax revenues that we're seeing come in.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:21:28.920
+End: 00:21:41.920
+Duration: 13.000 seconds
+Text: Okay, so it'd be true to try to answer that in a short sentence when people ask me is that we're changing the budget because we have more dollars and we need to do this to authorize us to spend those dollars.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:21:41.920
+End: 00:21:44.920
+Duration: 3.000 seconds
+Text: But it's not a case of us collecting more, is that correct?
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:21:44.920
+End: 00:21:46.920
+Duration: 2.000 seconds
+Text: Not more property tax.
+--------------------------------------------------
+City Clerk:
+Start: 00:21:46.920
+End: 00:21:48.920
+Duration: 2.000 seconds
+Text: Correct, you're going to have additional coming in.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:21:48.920
+End: 00:21:53.920
+Duration: 5.000 seconds
+Text: Yeah, I understand for sales tax, but it has no impact on that because people still worried about that.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:21:53.920
+End: 00:22:00.920
+Duration: 7.000 seconds
+Text: So, I think I understand it, but I know I've gotten some questions when people look at this, it's just not as simple as it appears.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:22:00.920
+End: 00:22:01.920
+Duration: 1.000 seconds
+Text: Yep.
+--------------------------------------------------
+City Manager:
+Start: 00:22:01.920
+End: 00:22:02.920
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:22:02.920
+End: 00:22:03.920
+Duration: 1.000 seconds
+Text: Yep.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:22:03.920
+End: 00:22:09.920
+Duration: 6.000 seconds
+Text: I would call out the people, we'll appreciate that extra money being spent on streets though.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:22:09.920
+End: 00:22:11.920
+Duration: 2.000 seconds
+Text: Yep.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:11.920
+End: 00:22:14.920
+Duration: 3.000 seconds
+Text: Yes, there's some good projects in there.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:22:15.920
+End: 00:22:18.920
+Duration: 3.000 seconds
+Text: All right, well we will...
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:22:18.920
+End: 00:22:23.920
+Duration: 5.000 seconds
+Text: We'll conduct a public hearing then.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:22:23.920
+End: 00:22:30.920
+Duration: 7.000 seconds
+Text: I will now open the public hearing on amending the 2023 budget for these five budgeted funds.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:22:30.920
+End: 00:22:41.920
+Duration: 11.000 seconds
+Text: If you'd like to comment on these budget amendment, please come forward, sign in, state your name, and talk about it.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:22:41.920
+End: 00:22:43.920
+Duration: 2.000 seconds
+Text: Gary, that's so odd.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:22:43.920
+End: 00:22:52.920
+Duration: 9.000 seconds
+Text: All right, well close the public hearing on this budget amendment, and I move that we approve first reading of an ordinance amending the 2023 City budget.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:22:52.920
+End: 00:22:54.920
+Duration: 2.000 seconds
+Text: I'll second.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:22:54.920
+End: 00:23:01.920
+Duration: 7.000 seconds
+Text: All right, it's been moved and seconded to approve this budget amendment, please, to call the roll.
+--------------------------------------------------
+City Manager:
+Start: 00:23:01.920
+End: 00:23:02.920
+Duration: 1.000 seconds
+Text: Mayor Hattiesall.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:23:02.920
+End: 00:23:03.920
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 00:23:03.920
+End: 00:23:04.920
+Duration: 1.000 seconds
+Text: Commissioner Butler.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:23:04.920
+End: 00:23:05.920
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 00:23:05.920
+End: 00:23:06.920
+Duration: 1.000 seconds
+Text: Commissioner Mata.
+--------------------------------------------------
+City Manager:
+Start: 00:23:06.920
+End: 00:23:07.920
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 00:23:07.920
+End: 00:23:10.920
+Duration: 3.000 seconds
+Text: Motion carries, 3 to 0.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:23:10.920
+End: 00:23:22.920
+Duration: 12.000 seconds
+Text: All right, we will move on to the general agenda, and consider the social service funding and special alcohol funding recommendations for 2024.
+--------------------------------------------------
+Staff Member:
+Start: 00:23:22.920
+End: 00:23:25.920
+Duration: 3.000 seconds
+Text: Good evening, Mayor and Commissioners. I'm Jared Wasinger, Assistant City Manager.
+--------------------------------------------------
+Staff Member:
+Start: 00:23:25.920
+End: 00:23:31.920
+Duration: 6.000 seconds
+Text: I'm also the staff liaison to CISFAB, the Community Support Funds Advisory Board.
+--------------------------------------------------
+Staff Member:
+Start: 00:23:31.920
+End: 00:23:37.920
+Duration: 6.000 seconds
+Text: A new board created by you all this past year.
+--------------------------------------------------
+Staff Member:
+Start: 00:23:37.920
+End: 00:23:41.920
+Duration: 4.000 seconds
+Text: Tonight, I'm going to give you a little background on that board and pass processes.
+--------------------------------------------------
+Staff Member:
+Start: 00:23:41.920
+End: 00:23:48.920
+Duration: 7.000 seconds
+Text: Give you a taste of the process that the board went through to review applications and make recommendations.
+--------------------------------------------------
+Staff Member:
+Start: 00:23:48.920
+End: 00:24:03.920
+Duration: 15.000 seconds
+Text: And then we'll go through each fund that we're considering tonight and the agencies that our boards recommended so you all can can make that, you know, exception of their recommendations.
+--------------------------------------------------
+Staff Member:
+Start: 00:24:03.920
+End: 00:24:12.920
+Duration: 9.000 seconds
+Text: Back in December, we dissolved the Social Service Fund Advisory Board as well as a special alcohol funds advisory committee.
+--------------------------------------------------
+Staff Member:
+Start: 00:24:12.920
+End: 00:24:19.920
+Duration: 7.000 seconds
+Text: With the intention that we were going to combine both efforts into one board, where you all created CISFAB back in March.
+--------------------------------------------------
+Staff Member:
+Start: 00:24:19.920
+End: 00:24:25.920
+Duration: 6.000 seconds
+Text: And then a few months later, we appointed nine members to that board.
+--------------------------------------------------
+Staff Member:
+Start: 00:24:25.920
+End: 00:24:32.920
+Duration: 7.000 seconds
+Text: We started meeting back in around May and June that board created bylaws.
+--------------------------------------------------
+Staff Member:
+Start: 00:24:32.920
+End: 00:24:43.920
+Duration: 11.000 seconds
+Text: You had all kind of seen those bylaws prior when the board was created, which also went through kind of a funding process of applications and how the board would review those.
+--------------------------------------------------
+Staff Member:
+Start: 00:24:43.920
+End: 00:24:53.920
+Duration: 10.000 seconds
+Text: So they did some new work that they're, you know, hopefully not going to have to do as much in future years, but they did approve those bylaws.
+--------------------------------------------------
+Staff Member:
+Start: 00:24:53.920
+End: 00:25:01.920
+Duration: 8.000 seconds
+Text: They also adopted kind of guiding definitions, general standards to help guide their funding recommendations.
+--------------------------------------------------
+Staff Member:
+Start: 00:25:01.920
+End: 00:25:11.920
+Duration: 10.000 seconds
+Text: So I linked that in here. They had to find, well, for the special alcohol they're using verbatim, the state statute language on how special alcohol funds can be created.
+--------------------------------------------------
+Staff Member:
+Start: 00:25:11.920
+End: 00:25:23.920
+Duration: 12.000 seconds
+Text: They also kind of had a paragraph definition about what a social service is, is it, you know, serves a community and individuals and families and meets, helps meet community needs.
+--------------------------------------------------
+Staff Member:
+Start: 00:25:23.920
+End: 00:25:35.920
+Duration: 12.000 seconds
+Text: Really, they didn't reinvent the wheel though on that. They used the SSAB guiding definitions and standards that were adopted a long time ago and just kind of tweaked those and made them a little bit more modernized.
+--------------------------------------------------
+Staff Member:
+Start: 00:25:35.920
+End: 00:25:41.920
+Duration: 6.000 seconds
+Text: So they adopt those in July prior to opening their application process.
+--------------------------------------------------
+Staff Member:
+Start: 00:25:41.920
+End: 00:25:45.920
+Duration: 4.000 seconds
+Text: We had an application process that opened in July.
+--------------------------------------------------
+Staff Member:
+Start: 00:25:45.920
+End: 00:25:53.920
+Duration: 8.000 seconds
+Text: It was an online application form. If you were applying for special alcohol funds, you needed to fill out an application.
+--------------------------------------------------
+Staff Member:
+Start: 00:25:53.920
+End: 00:26:02.920
+Duration: 9.000 seconds
+Text: If you're applying for both funds, you needed to fill out an application twice. So some agencies filled out two applications because they're applying for both funds.
+--------------------------------------------------
+Staff Member:
+Start: 00:26:02.920
+End: 00:26:28.920
+Duration: 26.000 seconds
+Text: But as you all recall during our budget work session in June, we asked, we took a different approach because usually around June, we were already giving you the board's recommendation and you were accepting those then this go around and something we hope to continue to do is where we all work with you in the June work session to set the budget of the amount of funds that's going to be available in the next year.
+--------------------------------------------------
+Staff Member:
+Start: 00:26:28.920
+End: 00:26:41.920
+Duration: 13.000 seconds
+Text: So that the board can tell the agencies how much is available and they can not be surprised about how much a commission in a given year wants to provide whether it's more or less than what they're recommending.
+--------------------------------------------------
+Staff Member:
+Start: 00:26:41.920
+End: 00:26:57.920
+Duration: 16.000 seconds
+Text: And the past, our board was kind of going blind with that. So you all put in the 2024 budget, $515,000 for special alcohol funds as well as $557,000 for social services funds.
+--------------------------------------------------
+Staff Member:
+Start: 00:26:57.920
+End: 00:27:03.920
+Duration: 6.000 seconds
+Text: And that was about a 6% increase from what you had provided in the previous year.
+--------------------------------------------------
+Staff Member:
+Start: 00:27:03.920
+End: 00:27:16.920
+Duration: 13.000 seconds
+Text: I put there that we received 17 applications for special alcohol funds and received almost $700,000 in requests. That was about on par with past years for that fund.
+--------------------------------------------------
+Staff Member:
+Start: 00:27:16.920
+End: 00:27:26.920
+Duration: 10.000 seconds
+Text: We received 23 applications for the social services funding that told us to 1.2 million in requested. That was a lot bigger than previous years.
+--------------------------------------------------
+Staff Member:
+Start: 00:27:26.920
+End: 00:27:33.920
+Duration: 7.000 seconds
+Text: You can probably attest that to a new board, a new name, maybe agencies in the community think there's new funds available.
+--------------------------------------------------
+Staff Member:
+Start: 00:27:33.920
+End: 00:27:45.920
+Duration: 12.000 seconds
+Text: Which again, we just noted that there wasn't any really new funding available just that 6% increase year over year.
+--------------------------------------------------
+Staff Member:
+Start: 00:27:45.920
+End: 00:27:52.920
+Duration: 7.000 seconds
+Text: So after applications closed, our board members spent a lot of time looking through and reading applications.
+--------------------------------------------------
+Staff Member:
+Start: 00:27:52.920
+End: 00:27:59.920
+Duration: 7.000 seconds
+Text: And then we set interviews with each applicant on September 6th and September 20th.
+--------------------------------------------------
+Staff Member:
+Start: 00:27:59.920
+End: 00:28:04.920
+Duration: 5.000 seconds
+Text: What we did was we allowed each applicant five minutes to speak to the board.
+--------------------------------------------------
+Staff Member:
+Start: 00:28:04.920
+End: 00:28:09.920
+Duration: 5.000 seconds
+Text: You know, no PowerPoint, just given overview of why you're, why you're cussing funds, what's the need?
+--------------------------------------------------
+Staff Member:
+Start: 00:28:09.920
+End: 00:28:15.920
+Duration: 6.000 seconds
+Text: We want them to really get to the point, not be repetitive necessarily of the application.
+--------------------------------------------------
+Staff Member:
+Start: 00:28:15.920
+End: 00:28:25.920
+Duration: 10.000 seconds
+Text: And then it allowed the board members an additional two minutes to do some Q&A to maybe get any clarification they needed from the application.
+--------------------------------------------------
+Staff Member:
+Start: 00:28:25.920
+End: 00:28:28.920
+Duration: 3.000 seconds
+Text: So we did that on the 6th and the 20th.
+--------------------------------------------------
+Staff Member:
+Start: 00:28:28.920
+End: 00:28:38.920
+Duration: 10.000 seconds
+Text: And then on October 4th and October 18th, that's when the board was deliberating who they wanted to recommend funding for.
+--------------------------------------------------
+Staff Member:
+Start: 00:28:38.920
+End: 00:28:45.920
+Duration: 7.000 seconds
+Text: Which led us to the two big spreadsheets that we provided you all.
+--------------------------------------------------
+Staff Member:
+Start: 00:28:45.920
+End: 00:28:51.920
+Duration: 6.000 seconds
+Text: I'm going to just go over them briefly before we kind of start discussing.
+--------------------------------------------------
+Staff Member:
+Start: 00:28:51.920
+End: 00:28:55.920
+Duration: 4.000 seconds
+Text: Like I said, special alcohol very similar to prior years.
+--------------------------------------------------
+Staff Member:
+Start: 00:28:55.920
+End: 00:29:01.920
+Duration: 6.000 seconds
+Text: We had just one new agency this year that applied for funding that hadn't applied for four.
+--------------------------------------------------
+Staff Member:
+Start: 00:29:01.920
+End: 00:29:03.920
+Duration: 2.000 seconds
+Text: That was Kansas Legal Services.
+--------------------------------------------------
+Staff Member:
+Start: 00:29:03.920
+End: 00:29:08.920
+Duration: 5.000 seconds
+Text: They have received social services funding in the past, but this was the first year that they had requested.
+--------------------------------------------------
+Staff Member:
+Start: 00:29:08.920
+End: 00:29:10.920
+Duration: 2.000 seconds
+Text: Special alcohol funding.
+--------------------------------------------------
+Staff Member:
+Start: 00:29:10.920
+End: 00:29:20.920
+Duration: 10.000 seconds
+Text: And then you can see the two there that are highlighted in red that board do not recommend funding for the Friends of Recovery Association.
+--------------------------------------------------
+Staff Member:
+Start: 00:29:20.920
+End: 00:29:34.920
+Duration: 14.000 seconds
+Text: As well as K-State, AODS, which is kind of with LaFine in the student health realm at K-State.
+--------------------------------------------------
+Staff Member:
+Start: 00:29:34.920
+End: 00:29:49.920
+Duration: 15.000 seconds
+Text: Any questions just in general related to these before I move on to any clarification you're looking for just from a board or process perspective on any of those agencies.
+--------------------------------------------------
+City Manager:
+Start: 00:29:49.920
+End: 00:29:56.920
+Duration: 7.000 seconds
+Text: These social services.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:29:56.920
+End: 00:29:59.920
+Duration: 3.000 seconds
+Text: I'm just going to come in.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:29:59.920
+End: 00:30:03.920
+Duration: 4.000 seconds
+Text: I was able to read all the minutes and follow what the board was doing.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:30:03.920
+End: 00:30:05.920
+Duration: 2.000 seconds
+Text: So I'm pretty well versed on what the end of the logic.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:30:05.920
+End: 00:30:08.920
+Duration: 3.000 seconds
+Text: I was quite impressed with the work that was done.
+--------------------------------------------------
+Staff Member:
+Start: 00:30:08.920
+End: 00:30:13.920
+Duration: 5.000 seconds
+Text: Yeah, I do want to actually take a moment before I go into social services to commend nine new members.
+--------------------------------------------------
+Staff Member:
+Start: 00:30:13.920
+End: 00:30:18.920
+Duration: 5.000 seconds
+Text: We only really had a handful that had been on SSAP in many years past.
+--------------------------------------------------
+Staff Member:
+Start: 00:30:18.920
+End: 00:30:28.920
+Duration: 10.000 seconds
+Text: So just a credit to our chair, Phil Maddox, our vice chair, at least, assistley, and the other members who really worked well together.
+--------------------------------------------------
+Staff Member:
+Start: 00:30:28.920
+End: 00:30:31.920
+Duration: 3.000 seconds
+Text: You know, we're very responsive.
+--------------------------------------------------
+Staff Member:
+Start: 00:30:31.920
+End: 00:30:37.920
+Duration: 6.000 seconds
+Text: That there are a lot of interviews digested a lot of materials and we're able to come out with these recommendations.
+--------------------------------------------------
+Staff Member:
+Start: 00:30:37.920
+End: 00:30:41.920
+Duration: 4.000 seconds
+Text: So really kudos to them, credit to them.
+--------------------------------------------------
+Staff Member:
+Start: 00:30:41.920
+End: 00:30:45.920
+Duration: 4.000 seconds
+Text: The social services funding here is a breakdown.
+--------------------------------------------------
+Staff Member:
+Start: 00:30:45.920
+End: 00:30:48.920
+Duration: 3.000 seconds
+Text: I said, you know, we had a lot more applications this year.
+--------------------------------------------------
+Staff Member:
+Start: 00:30:48.920
+End: 00:30:53.920
+Duration: 5.000 seconds
+Text: Ten more, ten new agencies that hadn't received funding in the past.
+--------------------------------------------------
+Staff Member:
+Start: 00:30:53.920
+End: 00:31:03.920
+Duration: 10.000 seconds
+Text: And then you can see here that only three of those agencies, the board, recommended no funding for, which was,
+--------------------------------------------------
+Staff Member:
+Start: 00:31:04.920
+End: 00:31:10.920
+Duration: 6.000 seconds
+Text: let's see the Food and Farmer Council, Homestead Ministries and Salvation Army.
+--------------------------------------------------
+Staff Member:
+Start: 00:31:10.920
+End: 00:31:13.920
+Duration: 3.000 seconds
+Text: We're the three that voted to receive no funding.
+--------------------------------------------------
+Staff Member:
+Start: 00:31:13.920
+End: 00:31:22.920
+Duration: 9.000 seconds
+Text: Here again, with even though three didn't receive funding, you still had a handful of about seven new agencies that the board did recommend funding.
+--------------------------------------------------
+Staff Member:
+Start: 00:31:22.920
+End: 00:31:29.920
+Duration: 7.000 seconds
+Text: And again, though, with only kind of the 6% increase, it just kind of means a little bit less for some of the other agencies.
+--------------------------------------------------
+Staff Member:
+Start: 00:31:29.920
+End: 00:31:33.920
+Duration: 4.000 seconds
+Text: So you can see year over year of what they receive versus recommended.
+--------------------------------------------------
+Staff Member:
+Start: 00:31:33.920
+End: 00:31:36.920
+Duration: 3.000 seconds
+Text: It is a little bit lower for some agencies.
+--------------------------------------------------
+Staff Member:
+Start: 00:31:36.920
+End: 00:31:44.920
+Duration: 8.000 seconds
+Text: But that is where we landed because, you know, the board felt that those efforts were worth it and worth funding.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:31:48.920
+End: 00:31:57.920
+Duration: 9.000 seconds
+Text: I didn't see, I missed the part in a minute about the National Church Residences Garden Grove Colorado Plaza.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:31:57.920
+End: 00:32:02.920
+Duration: 5.000 seconds
+Text: What did they want their money for and what is their thing?
+--------------------------------------------------
+Staff Member:
+Start: 00:32:02.920
+End: 00:32:08.920
+Duration: 6.000 seconds
+Text: Yep, so their program coordinator at Garden Grove is grant funded.
+--------------------------------------------------
+Staff Member:
+Start: 00:32:08.920
+End: 00:32:14.920
+Duration: 6.000 seconds
+Text: But they don't have, they kind of use money out of their own pocket to help assist the residents there.
+--------------------------------------------------
+Staff Member:
+Start: 00:32:14.920
+End: 00:32:24.920
+Duration: 10.000 seconds
+Text: So the primary use of that 3,500 that they were requesting money for was bus passes to get them to grocery stores and places around the community.
+--------------------------------------------------
+Staff Member:
+Start: 00:32:24.920
+End: 00:32:31.920
+Duration: 7.000 seconds
+Text: And then activities for those residents because it's something that NCR does not fund.
+--------------------------------------------------
+Staff Member:
+Start: 00:32:31.920
+End: 00:32:38.920
+Duration: 7.000 seconds
+Text: So that's what they're looking for.
+--------------------------------------------------
+Staff Member:
+Start: 00:32:38.920
+End: 00:32:42.920
+Duration: 4.000 seconds
+Text: That's really the end of my presentation.
+--------------------------------------------------
+Staff Member:
+Start: 00:32:42.920
+End: 00:32:46.920
+Duration: 4.000 seconds
+Text: So, you know, I defer to you all, but what we could do is open for public comment.
+--------------------------------------------------
+Staff Member:
+Start: 00:32:46.920
+End: 00:32:53.920
+Duration: 7.000 seconds
+Text: Or if there's any questions that you all want to discuss, but then, you know, after public comment and any deliberation,
+--------------------------------------------------
+Staff Member:
+Start: 00:32:53.920
+End: 00:33:05.920
+Duration: 12.000 seconds
+Text: there's two kind of sub items within this one is approving the 2024 special alcohol funding and authorizing the city manager to execute those agreements.
+--------------------------------------------------
+Staff Member:
+Start: 00:33:05.920
+End: 00:33:08.920
+Duration: 3.000 seconds
+Text: And then there's a separate one for the social services funding.
+--------------------------------------------------
+City Manager:
+Start: 00:33:08.920
+End: 00:33:11.920
+Duration: 3.000 seconds
+Text: So.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:33:11.920
+End: 00:33:16.920
+Duration: 5.000 seconds
+Text: The board's not going to do any kind of other presentation in particular.
+--------------------------------------------------
+Staff Member:
+Start: 00:33:16.920
+End: 00:33:18.920
+Duration: 2.000 seconds
+Text: They may have public comment.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:33:18.920
+End: 00:33:25.920
+Duration: 7.000 seconds
+Text: All right, let's go ahead and open it up for public comment on this social services funding, especially alcohol funding recommendations.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:33:25.920
+End: 00:33:35.920
+Duration: 10.000 seconds
+Text: Please come forward, state your name and address.
+--------------------------------------------------
+City Manager:
+Start: 00:33:35.920
+End: 00:33:40.920
+Duration: 5.000 seconds
+Text: So my name is Lisa Cislay, 4018, Senate Court.
+--------------------------------------------------
+City Manager:
+Start: 00:33:40.920
+End: 00:33:45.920
+Duration: 5.000 seconds
+Text: I am the vice chair of the Community Support Fund Advisory Board.
+--------------------------------------------------
+City Manager:
+Start: 00:33:45.920
+End: 00:33:53.920
+Duration: 8.000 seconds
+Text: Our committee of nine citizens appointed by the mayor has been meeting, as Jared said, since May, reviewing 40 applications.
+--------------------------------------------------
+City Manager:
+Start: 00:33:53.920
+End: 00:33:57.920
+Duration: 4.000 seconds
+Text: And I just want to talk a little bit about the time that we put into this.
+--------------------------------------------------
+City Manager:
+Start: 00:33:57.920
+End: 00:34:00.920
+Duration: 3.000 seconds
+Text: Each of these applications was seven to 11 pages in length.
+--------------------------------------------------
+City Manager:
+Start: 00:34:00.920
+End: 00:34:09.920
+Duration: 9.000 seconds
+Text: All of them had supporting documentation that we went through, and we had to go back and revisit these applications more than once during the course of the process.
+--------------------------------------------------
+City Manager:
+Start: 00:34:09.920
+End: 00:34:12.920
+Duration: 3.000 seconds
+Text: We heard presentations from all the applicants.
+--------------------------------------------------
+City Manager:
+Start: 00:34:12.920
+End: 00:34:16.920
+Duration: 4.000 seconds
+Text: We had in-depth discussions in our meetings about the merits of each application.
+--------------------------------------------------
+City Manager:
+Start: 00:34:16.920
+End: 00:34:25.920
+Duration: 9.000 seconds
+Text: And we grappled a lot with how to allocate a little over a million dollars when we had almost two million dollars in requests.
+--------------------------------------------------
+City Manager:
+Start: 00:34:25.920
+End: 00:34:32.920
+Duration: 7.000 seconds
+Text: I don't believe that city staff or the commission realized how much more demand there would be for these funds this year,
+--------------------------------------------------
+City Manager:
+Start: 00:34:32.920
+End: 00:34:36.920
+Duration: 4.000 seconds
+Text: or how many requests from new organizations we would receive.
+--------------------------------------------------
+City Manager:
+Start: 00:34:36.920
+End: 00:34:40.920
+Duration: 4.000 seconds
+Text: But these factors made our job very challenging.
+--------------------------------------------------
+City Manager:
+Start: 00:34:40.920
+End: 00:34:46.920
+Duration: 6.000 seconds
+Text: Nevertheless, with the work of our excellent staff liaison, Jared Wasinger, and the Goodwill of the committee,
+--------------------------------------------------
+City Manager:
+Start: 00:34:46.920
+End: 00:34:52.920
+Duration: 6.000 seconds
+Text: we carried out our charge to allocate both special alcohol funds and social service funds.
+--------------------------------------------------
+City Manager:
+Start: 00:34:52.920
+End: 00:34:57.920
+Duration: 5.000 seconds
+Text: I believe that every organization that applied is doing excellent and crucial work.
+--------------------------------------------------
+City Manager:
+Start: 00:34:57.920
+End: 00:35:00.920
+Duration: 3.000 seconds
+Text: The social service network in our community is extraordinary.
+--------------------------------------------------
+City Manager:
+Start: 00:35:00.920
+End: 00:35:08.920
+Duration: 8.000 seconds
+Text: And I learned so much about how these organizations work together and support each other in serving our friends and neighbors.
+--------------------------------------------------
+City Manager:
+Start: 00:35:08.920
+End: 00:35:25.920
+Duration: 17.000 seconds
+Text: From monumental health, helping thousands of people each year with their mental health needs, to shepherds crossing, providing assistance with rent, utilities, and connections to so many other resources, to true colors, serving over 150 kids and families with a mission to quote,
+--------------------------------------------------
+City Manager:
+Start: 00:35:25.920
+End: 00:35:27.920
+Duration: 2.000 seconds
+Text: keep kids alive.
+--------------------------------------------------
+City Manager:
+Start: 00:35:27.920
+End: 00:35:35.920
+Duration: 8.000 seconds
+Text: To Flint Hills Bread Basket, feeding the hungry among us, we are blessed with a dedicated and purposeful community support system.
+--------------------------------------------------
+City Manager:
+Start: 00:35:35.920
+End: 00:35:43.920
+Duration: 8.000 seconds
+Text: I can't mention them all, but I wish we could have fully funded every single application to support the work that's happening in our community.
+--------------------------------------------------
+City Manager:
+Start: 00:35:43.920
+End: 00:35:50.920
+Duration: 7.000 seconds
+Text: The SISFAB committee was forced to weigh many factors in making our decisions, and we had to make some very tough calls.
+--------------------------------------------------
+City Manager:
+Start: 00:35:50.920
+End: 00:35:55.920
+Duration: 5.000 seconds
+Text: We did our very best to allocate taxpayer funds in the most responsible way we could.
+--------------------------------------------------
+City Manager:
+Start: 00:35:55.920
+End: 00:36:02.920
+Duration: 7.000 seconds
+Text: And I urge the commission to adopt our recommendations, which reflect hundreds of hours of cumulative work as presented.
+--------------------------------------------------
+City Manager:
+Start: 00:36:02.920
+End: 00:36:04.920
+Duration: 2.000 seconds
+Text: Thank you very much.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:36:04.920
+End: 00:36:13.920
+Duration: 9.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:36:13.920
+End: 00:36:25.920
+Duration: 12.000 seconds
+Text: Anybody else would like to speak? Come on up while she's finishing up.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:36:25.920
+End: 00:36:28.920
+Duration: 3.000 seconds
+Text: Anybody else?
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:36:28.920
+End: 00:36:40.920
+Duration: 12.000 seconds
+Text: All right. We'll go ahead and close public comment on the Social Services and Special Alcohol Funding recommendations.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:36:40.920
+End: 00:36:43.920
+Duration: 3.000 seconds
+Text: Any questions and comments?
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:36:43.920
+End: 00:36:46.920
+Duration: 3.000 seconds
+Text: John, you out there in the world still?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:46.920
+End: 00:36:50.920
+Duration: 4.000 seconds
+Text: I'm up here. First, I just want to thank all of the committee.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:50.920
+End: 00:36:54.920
+Duration: 4.000 seconds
+Text: Till I think I saw filmatics there.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:54.920
+End: 00:36:58.920
+Duration: 4.000 seconds
+Text: For his work as chair and everything everybody did, I know it's a new group.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:36:58.920
+End: 00:37:05.920
+Duration: 7.000 seconds
+Text: People talked about all the extra agencies that came in and all the work that was done.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:05.920
+End: 00:37:15.920
+Duration: 10.000 seconds
+Text: And I'd say, you know, the commission really appreciates that I know it's hard when you go through those things to actually say no to people when you see the need.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:15.920
+End: 00:37:23.920
+Duration: 8.000 seconds
+Text: That's why we need to go through everything and help us with those decisions.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:23.920
+End: 00:37:34.920
+Duration: 11.000 seconds
+Text: Having said that, I'm just going to go through. I do have one change that I'm going to propose or make a motion for.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:34.920
+End: 00:37:37.920
+Duration: 3.000 seconds
+Text: And that is.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:37.920
+End: 00:37:49.920
+Duration: 12.000 seconds
+Text: As I did last year as far as pulling the true colors funding, I do not even around for a year now, which is one of the things was one of the concerns, but there's still some other concerns that go along with it.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:37:49.920
+End: 00:38:03.920
+Duration: 14.000 seconds
+Text: I think if you read the minutes, you saw in there the lack of specificity of programs, by true colors that actually deal with running alcohol addiction and, you know, have some track record of.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:03.920
+End: 00:38:08.920
+Duration: 5.000 seconds
+Text: How do we help helping and to do the statute?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:08.920
+End: 00:38:19.920
+Duration: 11.000 seconds
+Text: The other is I'm concerned about the gender gender affirming approach that they use, particularly with the transcript, because there's no empirical evidence to support it.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:19.920
+End: 00:38:26.920
+Duration: 7.000 seconds
+Text: And in fact, most kids have allowed to go through and will have any gender incongruence dissipate.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:26.920
+End: 00:38:34.920
+Duration: 8.000 seconds
+Text: The idea that a firm or suicide is becoming more and more known as all.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:34.920
+End: 00:38:42.920
+Duration: 8.000 seconds
+Text: And I'll solve these kids have comorbidities like autism or HVP that really need to be addressed.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:42.920
+End: 00:38:53.920
+Duration: 11.000 seconds
+Text: Also, that model is being abandoned or greatly slowed in many European countries now such a sweet and trans film or way in Britain.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:38:53.920
+End: 00:39:09.920
+Duration: 16.000 seconds
+Text: So I have some concerns about the Curtis Baker group that is the private service that they do work with executive director of two colors is married to the owner of Curtis Baker.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:09.920
+End: 00:39:22.920
+Duration: 13.000 seconds
+Text: And as I brought up the last time this came, they did provide us with information that they do references for beauty blockers, hormones and certain things, which in my view for children is not something that we want to have.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:22.920
+End: 00:39:31.920
+Duration: 9.000 seconds
+Text: And getting some new awesome Texas imagery that may forge some of that but still that's the approach that they take also some concern.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:31.920
+End: 00:39:38.920
+Duration: 7.000 seconds
+Text: And if you go to their website, a lot of sexual contact, they bring out band books.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:38.920
+End: 00:39:41.920
+Duration: 3.000 seconds
+Text: I don't believe in banning books, but it's something of age appropriate books.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:41.920
+End: 00:39:46.920
+Duration: 5.000 seconds
+Text: Of course, that's an advice from kids to come in to get stuff that's banned in other places.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:46.920
+End: 00:39:55.920
+Duration: 9.000 seconds
+Text: And they do hand out things like binders to adolescent girls, which can call physical damage to as young bodies of material.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:39:55.920
+End: 00:40:00.920
+Duration: 5.000 seconds
+Text: So it was hard part long spine, ribcage and neurological damage.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:40:00.920
+End: 00:40:05.920
+Duration: 5.000 seconds
+Text: So it actually texted me opposed to they did about how they ended up.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:40:06.920
+End: 00:40:10.920
+Duration: 4.000 seconds
+Text: I don't know 56 size in four of those.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:40:10.920
+End: 00:40:18.920
+Duration: 8.000 seconds
+Text: So I don't think it needs the criteria that we have also I just have a number of concern.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:40:18.920
+End: 00:40:33.920
+Duration: 15.000 seconds
+Text: Having said that, I just want to say that I think for the most part for the most people to work with two colors, they believe they're doing the best that they can for these kids and that their approach is the right way to do it.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:40:33.920
+End: 00:40:54.920
+Duration: 21.000 seconds
+Text: I just disagree with that approach, particularly when it comes to this affirmation model, the use with the trans, what they call the trans kids, which greatly concerns me that they set them on a pathway to those blockers, home, hormones and surgeries.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:40:54.920
+End: 00:41:04.920
+Duration: 10.000 seconds
+Text: I don't do that there. That social affirmation puts them down that pathway and then that's the pathway that their counseling group wants to do.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:41:04.920
+End: 00:41:10.920
+Duration: 6.000 seconds
+Text: I know we brought this up before I talked to a number of their folks, of course, that called a bunch of names and things like that.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:41:10.920
+End: 00:41:18.920
+Duration: 8.000 seconds
+Text: And why do I hate these kids? I don't hate these kids. I care about these kids. And that's why I take the position that I take.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:41:18.920
+End: 00:41:33.920
+Duration: 15.000 seconds
+Text: I've actually researched this issue quite a great deal, culminated about a year ago. My association with Fair got me access to expert, stockers, counselors, written numerous books, Washington, numerous documentaries and everything else like that.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:41:33.920
+End: 00:41:43.920
+Duration: 10.000 seconds
+Text: In fact, when I had come in about a year ago, I was kind of wrapping up a lot of this and I had so much material I couldn't get, I never get to, but that was just stuck in bed.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:41:43.920
+End: 00:41:57.920
+Duration: 14.000 seconds
+Text: I was just reading the documents and going through a lot of the stories and videos of detransitioners, which I think is an explosion that's going to happen with all those kids coming out.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:41:57.920
+End: 00:42:16.920
+Duration: 19.000 seconds
+Text: And there are really heart-wrenching stories of parents and young adults that had done damage to their bodies. Some were able to recover, for example, girls who had their breasts cut off and were on hormones were able to reversely see hormones and actually were able to actually pass the ambulance, but some weren't.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:16.920
+End: 00:42:30.920
+Duration: 14.000 seconds
+Text: And that's one of the things that I'm just not comfortable with sending people down that pipeline. But it's because I do care about the kids, I realize people on the other side do too, but just a matter of a quote.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:30.920
+End: 00:42:40.920
+Duration: 10.000 seconds
+Text: And I think the strong sexual emphasis in that group is something that's hard at the least in the third party.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:40.920
+End: 00:42:50.920
+Duration: 10.000 seconds
+Text: So I'll just go ahead and throw it out.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:50.920
+End: 00:43:08.920
+Duration: 18.000 seconds
+Text: With that is that I make a motion to approve the 2024 CSFA be funding recommendations for special alcohol funds and authorizing city manager to execute 2024 grant agreements with respect of agencies consistent with the city commission's funding approval.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:43:08.920
+End: 00:43:12.920
+Duration: 4.000 seconds
+Text: The 8500 recommended distribution for two colors.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:43:12.920
+End: 00:43:17.920
+Duration: 5.000 seconds
+Text: The move to the faulty mental health.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:43:17.920
+End: 00:43:30.920
+Duration: 13.000 seconds
+Text: I am open if we wanted to pro rate. I think I did a motion this way of fundamental health, because I'm just thinking that a big chunk of money into an organization that's really at the spearhead of what we're trying to do here.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:43:30.920
+End: 00:43:34.920
+Duration: 4.000 seconds
+Text: We'll be able to do more concentrated good than divided a lot.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:43:34.920
+End: 00:43:48.920
+Duration: 14.000 seconds
+Text: Small miles, but fortunately across the other groups, but I'm not stocks, super hard on that. But I do think that's the best approach.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:43:48.920
+End: 00:43:57.920
+Duration: 9.000 seconds
+Text: There's been a motion. I'll second that. And will there any other discussion?
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:43:57.920
+End: 00:44:07.920
+Duration: 10.000 seconds
+Text: I just want to comment, you know, I understand fully in O'John's position on that, but when we change this process because last year I voted against true colors.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:44:07.920
+End: 00:44:15.920
+Duration: 8.000 seconds
+Text: I think everybody knows that. And I gave the reasons this year I won't. And the reason for that's pretty simple.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:44:15.920
+End: 00:44:20.920
+Duration: 5.000 seconds
+Text: We changed our process. And my concern has always been the amount of money.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:44:20.920
+End: 00:44:28.920
+Duration: 8.000 seconds
+Text: And as you can see here, if you just tell a board, collect what people want, they're going to come back and say we need two million dollars, three million dollars.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:44:28.920
+End: 00:44:36.920
+Duration: 8.000 seconds
+Text: So I like the idea of saying, okay, this is what we can afford. And we'll never be able to provide all the money people want.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:44:36.920
+End: 00:44:49.920
+Duration: 13.000 seconds
+Text: But I think 0.8 mils for the one fund and then whatever we can collect on the sale of drinks for the other puts us a little bit over a million dollars every year. And that's pretty solid.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:44:49.920
+End: 00:45:03.920
+Duration: 14.000 seconds
+Text: And my thought was, okay, that's what I want the commission to focus on. Decide what those limits are. And then we let the board fight out all the details, which as we heard tonight was a little bit difficult to do.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:45:03.920
+End: 00:45:12.920
+Duration: 9.000 seconds
+Text: And even the board, you know, they passed this six three. So they were split. And I've got some, you know, emails from people in town that don't like it.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:45:12.920
+End: 00:45:25.920
+Duration: 13.000 seconds
+Text: But I don't know what the answer is there. I think every year it's going to be split that way. So in my mind, we empowered the board to take the action. And I feel obligated to support it.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:45:25.920
+End: 00:45:42.920
+Duration: 17.000 seconds
+Text: And so while I probably wouldn't, you know, donate on the side greater Manhattan Community Foundation to that particular organization. I donate to a lot of others. But in this case, the board was empowered and I have to support them on that. So I'll be voting against it.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:45:42.920
+End: 00:45:52.920
+Duration: 10.000 seconds
+Text: Yeah, I'm going to support John's motion mostly because this issue is two devices. I think the city should stay out of it that way.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:45:52.920
+End: 00:46:10.920
+Duration: 18.000 seconds
+Text: Last year when the city turned it down, they were able to do a fundraiser and raise twice as much. You know, we can have her. So if there's a lot of support in the community, then they'll know to get their support from the community. And I think it's just something that's a city should continue to stay out of.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:46:10.920
+End: 00:46:17.920
+Duration: 7.000 seconds
+Text: Things will probably be different next year, but that's where I'm at right now. Please call the roll.
+--------------------------------------------------
+City Manager:
+Start: 00:46:19.920
+End: 00:46:31.920
+Duration: 12.000 seconds
+Text: Commissioner Butler. No. Commissioner Mata. Yes. Mayor Houdesall. Yes. Motion carries two to one.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:46:31.920
+End: 00:46:37.920
+Duration: 6.000 seconds
+Text: All right. We will move on to considering the rezoning of lots one and two. Oh, sorry.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:46:37.920
+End: 00:46:40.920
+Duration: 3.000 seconds
+Text: Well, that's as well. I'll make a motion. We approve.
+--------------------------------------------------
+Staff Member:
+Start: 00:46:40.920
+End: 00:46:56.920
+Duration: 16.000 seconds
+Text: I do want to know something just real quick just for transparency purposes. The numbers on this slide that you're voting to recommend versus what the board pass each agency. We adjusted between one and nine dollars.
+--------------------------------------------------
+Staff Member:
+Start: 00:46:56.920
+End: 00:47:06.920
+Duration: 10.000 seconds
+Text: So that we give them quarterly payments. So I didn't want to be doing contracts for finance was paying quarterly payments with sense that don't add up.
+--------------------------------------------------
+Staff Member:
+Start: 00:47:06.920
+End: 00:47:14.920
+Duration: 8.000 seconds
+Text: So just wanted to be transparent. I noted that to the board and they were okay with it. We can we can live with that. Okay.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:47:15.920
+End: 00:47:32.920
+Duration: 17.000 seconds
+Text: I move we approve the 2024 community support funds advisory board funding recommendations for social service funds and authorize a city manager to execute the 2024 grant agreements with respect of agencies consistent with the city commission's funding approval.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:47:32.920
+End: 00:47:43.920
+Duration: 11.000 seconds
+Text: I'll second that. Yeah, I appreciate your guys' work. I was on I could keep telling everybody I was on the social service advisory board as my first toe into the water of public service.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:47:43.920
+End: 00:47:53.920
+Duration: 10.000 seconds
+Text: And it's a lot of work and it's there's a lot of wrestling because there's a lot of different types of demand for that money. So I appreciate your work.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:47:53.920
+End: 00:48:01.920
+Duration: 8.000 seconds
+Text: We'll see you next year here. So we seconded that. I seconded that. Please call the roll for this one.
+--------------------------------------------------
+City Manager:
+Start: 00:48:01.920
+End: 00:48:10.920
+Duration: 9.000 seconds
+Text: Commissioner Mata. Yes. Mayor Hattisol. Yes. Commissioner Butler. Yes.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:48:10.920
+End: 00:48:23.920
+Duration: 13.000 seconds
+Text: Motion carries three to zero. Okay. Now move on to considering rezoning lots one and two. The Whitney edition from PUD to RL low density residential district.
+--------------------------------------------------
+City Clerk:
+Start: 00:48:23.920
+End: 00:48:49.920
+Duration: 26.000 seconds
+Text: Okay. And then your other ones down. Good evening, Stephanie Peterson, director of community development. We have a rezoning for you this evening. It's the nor PUD also lots one and two of Whitney edition and the applicant is seeking to rezone to RL.
+--------------------------------------------------
+City Clerk:
+Start: 00:48:49.920
+End: 00:48:55.920
+Duration: 6.000 seconds
+Text: The location of the property as shown here is at the southeast corner of Claflin and Hilton Heights Road.
+--------------------------------------------------
+City Clerk:
+Start: 00:48:55.920
+End: 00:49:10.920
+Duration: 15.000 seconds
+Text: When the PUD so originally it was owned RL and then the owners of the property requested a PUD for the PUD to be rezone in 2015. The primary or the purpose behind that was for what I've circled here on the screen.
+--------------------------------------------------
+City Clerk:
+Start: 00:49:10.920
+End: 00:49:22.920
+Duration: 12.000 seconds
+Text: They wanted to build a like an apartment building a residence on this property. The PUD was the only way to go about it. The applicant no longer wishes to have that residential component of their lot.
+--------------------------------------------------
+City Clerk:
+Start: 00:49:22.920
+End: 00:49:33.920
+Duration: 11.000 seconds
+Text: And so they are seeking to go back to the RL district. Here is our current current zoning map. You can see everything to the south is the RL district. So that would be remain consistent.
+--------------------------------------------------
+City Clerk:
+Start: 00:49:33.920
+End: 00:49:41.920
+Duration: 8.000 seconds
+Text: And then our future leading use map also designates this area as in the future as residential load of medium density.
+--------------------------------------------------
+City Clerk:
+Start: 00:49:41.920
+End: 00:49:48.920
+Duration: 7.000 seconds
+Text: This went to the planning board on November 9th. It was passed unanimously. We're recommended for approval by the board unanimously.
+--------------------------------------------------
+City Clerk:
+Start: 00:49:48.920
+End: 00:49:57.920
+Duration: 9.000 seconds
+Text: There were no comments from the board or from the public on this item. With that, I will stand for any questions that you may have.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:49:57.920
+End: 00:50:15.920
+Duration: 18.000 seconds
+Text: Any questions for Stephanie? No. All right. I guess we will throw it open for public comment. If someone would like to comment on this rezoning, please come forward.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:50:15.920
+End: 00:50:23.920
+Duration: 8.000 seconds
+Text: All right. There's no one here for that. So I'll close public comment. Is there a motion?
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:50:23.920
+End: 00:50:44.920
+Duration: 21.000 seconds
+Text: I move we approve first reading ordinance rezoning 1.45 acre tract of land generally located southeast of the intersection of Claflin Road and Hilton Heights Road from PUD planned unit development to RL low density residential district based on findings in the staff report and the recommendation by the Manhattan Urban Area Planning Board.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:50:44.920
+End: 00:50:58.920
+Duration: 14.000 seconds
+Text: I'll second. It's been moved and seconded to approve this rezoning. Please call the role. Mayor Hattasol. Yes. Commissioner Butler. Yes. Commissioner Mata. Yes.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:50:58.920
+End: 00:51:07.920
+Duration: 9.000 seconds
+Text: Motion carries 3 to 0. Very good. We'll move on to our last item. I'm ending the Manhattan Development Code.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:51:07.920
+End: 00:51:20.920
+Duration: 13.000 seconds
+Text: Good evening. Members of the commission. John Adam, Assistant Director of Community Development. This is very similar to last year's shakedown amendments that we did at the end of one year of using the MDC.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:51:20.920
+End: 00:51:33.920
+Duration: 13.000 seconds
+Text: Had a lot of small adjustments and corrections, but also a number of overhauled sections. Specifically clean up of temporary uses and accessory uses, making all STRs administrative permits.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:51:33.920
+End: 00:51:40.920
+Duration: 7.000 seconds
+Text: We write landscaping buffer and screening to roll back some of the more stringent regulations we had.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:51:40.920
+End: 00:51:58.920
+Duration: 18.000 seconds
+Text: Excuse me. So all these amendments, gray out of discussions with other departments. We've all been using these for two years. Everyone's been getting used to it, finding pain points, some redundancies and some conflicts as we've been working through it.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:51:58.920
+End: 00:52:07.920
+Duration: 9.000 seconds
+Text: And so we've been learning from it and learning to make it a better document. So it was a really good collaborative interdepartmental effort to get this one into shape.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:52:07.920
+End: 00:52:19.920
+Duration: 12.000 seconds
+Text: It's led us to this set of corrections and cleanups. I'm not going to go through the analysis. You saw that in the staff reports. These were the findings that the planning board made in very simple terms.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:52:19.920
+End: 00:52:35.920
+Duration: 16.000 seconds
+Text: And ultimately they recommended unanimously to approve recommended approval of the code amendment based on their findings of substantial compliance with this section of the MDC. And I'd be happy to take any questions.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:52:35.920
+End: 00:52:46.920
+Duration: 11.000 seconds
+Text: Is that it? Okay. Good. Any questions, John? No. All right. Thank you then. We'll open it up for public comment.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:52:46.920
+End: 00:52:52.920
+Duration: 6.000 seconds
+Text: If anybody would care to comment on demanding the Manhattan Development Code.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:52:52.920
+End: 00:53:01.920
+Duration: 9.000 seconds
+Text: All right. Apparently no one cares about these changes. So I'll close the public comment and look for a motion.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:53:01.920
+End: 00:53:03.920
+Duration: 2.000 seconds
+Text: I want to make one.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:53:03.920
+End: 00:53:04.920
+Duration: 1.000 seconds
+Text: What?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:53:04.920
+End: 00:53:05.920
+Duration: 1.000 seconds
+Text: What?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:53:05.920
+End: 00:53:07.920
+Duration: 2.000 seconds
+Text: The Manhattan Development Code has presented.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:53:07.920
+End: 00:53:08.920
+Duration: 1.000 seconds
+Text: What?
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:53:08.920
+End: 00:53:11.920
+Duration: 3.000 seconds
+Text: Go ahead. You finished.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:53:11.920
+End: 00:53:12.920
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:53:12.920
+End: 00:53:16.920
+Duration: 4.000 seconds
+Text: Is it in the staff report and recommended by the Manhattan Urban Area Planning Board?
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:53:16.920
+End: 00:53:18.920
+Duration: 2.000 seconds
+Text: All right. I'll second it. The wind's got some comments.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:53:18.920
+End: 00:53:30.920
+Duration: 12.000 seconds
+Text: Yeah. I just wanted to say I think these changes are a good idea because it provides some flexibility and adds what I call some common sense to a couple of things that caused us some problems here in the past.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:53:30.920
+End: 00:53:37.920
+Duration: 7.000 seconds
+Text: And those those tweaks were anticipated when we passed the original one because we knew we weren't going to get it perfect the first time around.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:53:37.920
+End: 00:53:41.920
+Duration: 4.000 seconds
+Text: So I just think good work for everybody working on that. Appreciate it.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:53:41.920
+End: 00:53:50.920
+Duration: 9.000 seconds
+Text: Yeah. It's I've always looked and hoped the government would have some human factor where they would look at something and they go.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:53:50.920
+End: 00:54:00.920
+Duration: 10.000 seconds
+Text: Yeah, we thought that was a good idea, but in reality it doesn't apply. And then somebody being willing to acknowledge that we need to change it and then doing it.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:54:00.920
+End: 00:54:12.920
+Duration: 12.000 seconds
+Text: That's one of the things that is driving us is when we get so married to a certain thing that even if it doesn't make any sense we refuse to give it up and so I'm glad we got to this point there.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:54:12.920
+End: 00:54:19.920
+Duration: 7.000 seconds
+Text: So all right. It's been moved and seconded to approve this amendment to the development code. Please call the roll.
+--------------------------------------------------
+City Manager:
+Start: 00:54:19.920
+End: 00:54:20.920
+Duration: 1.000 seconds
+Text: Commissioner Butler.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:54:20.920
+End: 00:54:21.920
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 00:54:21.920
+End: 00:54:23.920
+Duration: 2.000 seconds
+Text: Commissioner Mata.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:54:23.920
+End: 00:54:24.920
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 00:54:24.920
+End: 00:54:25.920
+Duration: 1.000 seconds
+Text: Mayor Hattisol.
+--------------------------------------------------
+City Manager:
+Start: 00:54:25.920
+End: 00:54:26.920
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 00:54:26.920
+End: 00:54:29.920
+Duration: 3.000 seconds
+Text: Motion carries three to zero.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:54:29.920
+End: 00:54:34.920
+Duration: 5.000 seconds
+Text: All right. That's it for the general agenda will move just to the city manager briefing now.
+--------------------------------------------------
+City Manager:
+Start: 00:54:34.920
+End: 00:54:35.920
+Duration: 1.000 seconds
+Text: Thank you, Mayor.
+--------------------------------------------------
+City Manager:
+Start: 00:54:35.920
+End: 00:54:42.920
+Duration: 7.000 seconds
+Text: Commissioner's just will be short, but since we're not meeting next week, we haven't had a briefing session for quite a while.
+--------------------------------------------------
+City Manager:
+Start: 00:54:42.920
+End: 00:54:51.920
+Duration: 9.000 seconds
+Text: So I just thought I'd kind of cover some things on your schedule and then our meeting schedule through the rest of the year and to the reorganization.
+--------------------------------------------------
+City Manager:
+Start: 00:54:51.920
+End: 00:54:55.920
+Duration: 4.000 seconds
+Text: So just reiterate we're not planning a work session for next week.
+--------------------------------------------------
+City Manager:
+Start: 00:54:55.920
+End: 00:54:59.920
+Duration: 4.000 seconds
+Text: We do have a legislative meeting on December 5th.
+--------------------------------------------------
+City Manager:
+Start: 00:54:59.920
+End: 00:55:03.920
+Duration: 4.000 seconds
+Text: We are planning to hold a special meeting on December 12th.
+--------------------------------------------------
+City Manager:
+Start: 00:55:03.920
+End: 00:55:15.920
+Duration: 12.000 seconds
+Text: That could be to take a few action items that are related to the meeting on the fifth and then also to do my evaluation in an executive session which requires a special meeting.
+--------------------------------------------------
+City Manager:
+Start: 00:55:15.920
+End: 00:55:31.920
+Duration: 16.000 seconds
+Text: We also plan to have a work session item that night to talk about just revisit our legislative items with the upcoming legislative session and then we're working with our legislators to have a luncheon on that first week of January.
+--------------------------------------------------
+City Manager:
+Start: 00:55:31.920
+End: 00:55:34.920
+Duration: 3.000 seconds
+Text: I think Friday at the end of the week on the fifth.
+--------------------------------------------------
+City Manager:
+Start: 00:55:35.920
+End: 00:55:41.920
+Duration: 6.000 seconds
+Text: And then we would have a legislative, our last legislative meeting of the year would be December 19th.
+--------------------------------------------------
+City Manager:
+Start: 00:55:41.920
+End: 00:55:58.920
+Duration: 17.000 seconds
+Text: And then the reorganization meeting would be January 2nd, where the commission would take care of any old business minutes, any other item they might have pending before them before we acknowledge folks and swear the new commissioners in.
+--------------------------------------------------
+City Manager:
+Start: 00:55:58.920
+End: 00:56:05.920
+Duration: 7.000 seconds
+Text: There's no intergovernmental meeting for November and we don't hold that in December.
+--------------------------------------------------
+City Manager:
+Start: 00:56:05.920
+End: 00:56:13.920
+Duration: 8.000 seconds
+Text: So next year those will be facilitated and hosted by K state and they plan to do that at the K state union.
+--------------------------------------------------
+City Manager:
+Start: 00:56:13.920
+End: 00:56:19.920
+Duration: 6.000 seconds
+Text: Tendively there's a joint city county meeting scheduled for December 21st.
+--------------------------------------------------
+City Manager:
+Start: 00:56:19.920
+End: 00:56:23.920
+Duration: 4.000 seconds
+Text: Right now I'm not aware of any items so we'll see if that holds.
+--------------------------------------------------
+City Manager:
+Start: 00:56:24.920
+End: 00:56:30.920
+Duration: 6.000 seconds
+Text: But if there are items that you'd like to discuss there, please let us know by December 14th.
+--------------------------------------------------
+City Manager:
+Start: 00:56:30.920
+End: 00:56:36.920
+Duration: 6.000 seconds
+Text: And then there's a December military relations committee luncheon on December 6th.
+--------------------------------------------------
+City Manager:
+Start: 00:56:36.920
+End: 00:56:43.920
+Duration: 7.000 seconds
+Text: So if you're interested in going that, I know we've got Mark and Joan already that have signed up for that.
+--------------------------------------------------
+City Manager:
+Start: 00:56:44.920
+End: 00:56:53.920
+Duration: 9.000 seconds
+Text: There's a big red one year of the NCO ball and that is December 14th at the Hilton conference center.
+--------------------------------------------------
+City Manager:
+Start: 00:56:53.920
+End: 00:56:58.920
+Duration: 5.000 seconds
+Text: And I think the deadline for that is Friday.
+--------------------------------------------------
+City Manager:
+Start: 00:56:58.920
+End: 00:57:03.920
+Duration: 5.000 seconds
+Text: So if you're interested in going to that you need to let us know soon.
+--------------------------------------------------
+City Manager:
+Start: 00:57:03.920
+End: 00:57:06.920
+Duration: 3.000 seconds
+Text: And then the parade has been mentioned in tree lighting ceremony.
+--------------------------------------------------
+City Manager:
+Start: 00:57:06.920
+End: 00:57:14.920
+Duration: 8.000 seconds
+Text: The tree lighting ceremony is the spirit of holidays lighted parade in the tree lighting ceremony is December 1st.
+--------------------------------------------------
+City Manager:
+Start: 00:57:14.920
+End: 00:57:18.920
+Duration: 4.000 seconds
+Text: And right now we've got Mark, John, and Win.
+--------------------------------------------------
+City Manager:
+Start: 00:57:18.920
+End: 00:57:26.920
+Duration: 8.000 seconds
+Text: And Chief the commissioner Butler asked me if the old engine one was repaired and ready to go.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:57:27.920
+End: 00:57:30.920
+Duration: 3.000 seconds
+Text: Okay, they sent me it out today.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:57:30.920
+End: 00:57:31.920
+Duration: 1.000 seconds
+Text: I appreciate that.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:57:31.920
+End: 00:57:38.920
+Duration: 7.000 seconds
+Text: And whoever the guys are that work on that greatly appreciated to be able to use that vehicle.
+--------------------------------------------------
+City Manager:
+Start: 00:57:38.920
+End: 00:57:44.920
+Duration: 6.000 seconds
+Text: And if you want to look at your planning charts, just go over those real quick.
+--------------------------------------------------
+City Manager:
+Start: 00:57:44.920
+End: 00:57:51.920
+Duration: 7.000 seconds
+Text: So on the 5th right now we've got the public hearing that we just continued.
+--------------------------------------------------
+City Manager:
+Start: 00:57:52.920
+End: 00:58:00.920
+Duration: 8.000 seconds
+Text: And that was to be tonight on amending the tip redevelopment plan scheduled for that evening.
+--------------------------------------------------
+City Manager:
+Start: 00:58:00.920
+End: 00:58:04.920
+Duration: 4.000 seconds
+Text: The no other general agenda items at this time.
+--------------------------------------------------
+City Manager:
+Start: 00:58:04.920
+End: 00:58:06.920
+Duration: 2.000 seconds
+Text: We'll see if something else develops.
+--------------------------------------------------
+City Manager:
+Start: 00:58:06.920
+End: 00:58:11.920
+Duration: 5.000 seconds
+Text: We've got some amendments to the airport advisory board.
+--------------------------------------------------
+City Manager:
+Start: 00:58:11.920
+End: 00:58:18.920
+Duration: 7.000 seconds
+Text: Those are just some modernizations that the board is recommending to clean up some of their old ordinance existing and then also.
+--------------------------------------------------
+City Manager:
+Start: 00:58:18.920
+End: 00:58:21.920
+Duration: 3.000 seconds
+Text: Our second reading will take care of their bylaws.
+--------------------------------------------------
+City Manager:
+Start: 00:58:21.920
+End: 00:58:25.920
+Duration: 4.000 seconds
+Text: All second readings of things that you did tonight.
+--------------------------------------------------
+City Manager:
+Start: 00:58:25.920
+End: 00:58:30.920
+Duration: 5.000 seconds
+Text: And then also we have a have a change order for you on the North Campus corridor.
+--------------------------------------------------
+City Manager:
+Start: 00:58:30.920
+End: 00:58:40.920
+Duration: 10.000 seconds
+Text: We have a water right line relocation that we're wanting to get done over the holidays to minimize disruption to the community and the university specifically.
+--------------------------------------------------
+City Manager:
+Start: 00:58:41.920
+End: 00:58:54.920
+Duration: 13.000 seconds
+Text: And then we have our a lot of our annual business licenses have a request by the Riley County EMS to wave the building permit fees for their new EMS headquarters that they're planning to build.
+--------------------------------------------------
+City Manager:
+Start: 00:58:54.920
+End: 00:58:59.920
+Duration: 5.000 seconds
+Text: We did something similar for about County EMS might remember.
+--------------------------------------------------
+City Manager:
+Start: 00:58:59.920
+End: 00:59:06.920
+Duration: 7.000 seconds
+Text: The contractor for street contract annual contract for street or concessions with parks and rec.
+--------------------------------------------------
+City Manager:
+Start: 00:59:06.920
+End: 00:59:12.920
+Duration: 6.000 seconds
+Text: We have a cemetery management software that we'd like to purchase and for your approval.
+--------------------------------------------------
+City Manager:
+Start: 00:59:12.920
+End: 00:59:20.920
+Duration: 8.000 seconds
+Text: We have an agreement with stepping into the prairie for the Flin Hills Discovery Center.
+--------------------------------------------------
+City Manager:
+Start: 00:59:20.920
+End: 00:59:29.920
+Duration: 9.000 seconds
+Text: And we want to authorize public works to negotiate a project management contract for the Houston Street project.
+--------------------------------------------------
+City Manager:
+Start: 00:59:29.920
+End: 00:59:34.920
+Duration: 5.000 seconds
+Text: That will be awarding later and will need some additional engineering services for.
+--------------------------------------------------
+City Manager:
+Start: 00:59:34.920
+End: 00:59:37.920
+Duration: 3.000 seconds
+Text: And the downtown dining platforms.
+--------------------------------------------------
+City Manager:
+Start: 00:59:37.920
+End: 00:59:43.920
+Duration: 6.000 seconds
+Text: This is our annual review and concurrence to continue those provisions.
+--------------------------------------------------
+City Manager:
+Start: 00:59:43.920
+End: 00:59:55.920
+Duration: 12.000 seconds
+Text: And then we have a request for industrial revenue bonds for the Warram Hall renovation, which we've talked about specifically for that sales tax exemption for construction for you.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:59:55.920
+End: 00:59:57.920
+Duration: 2.000 seconds
+Text: Time out.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:59:57.920
+End: 00:59:58.920
+Duration: 1.000 seconds
+Text: Yep.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 00:59:58.920
+End: 01:00:08.920
+Duration: 10.000 seconds
+Text: So on the so is this what's holding up the Houston Street thereby the wine dive that road getting repaired is we've got to get this thing.
+--------------------------------------------------
+City Manager:
+Start: 01:00:08.920
+End: 01:00:11.920
+Duration: 3.000 seconds
+Text: No, actually it's it's on the it's out to bid right now.
+--------------------------------------------------
+City Manager:
+Start: 01:00:11.920
+End: 01:00:13.920
+Duration: 2.000 seconds
+Text: Okay, so we're getting closer with that one.
+--------------------------------------------------
+City Manager:
+Start: 01:00:13.920
+End: 01:00:18.920
+Duration: 5.000 seconds
+Text: We just work this is assuming we're going to award the contract and we're going to need somebody to oversee the inspection.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 01:00:18.920
+End: 01:00:20.920
+Duration: 2.000 seconds
+Text: So it's almost going to start happening.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 01:00:20.920
+End: 01:00:21.920
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 01:00:21.920
+End: 01:00:23.920
+Duration: 2.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Manager:
+Start: 01:00:23.920
+End: 01:00:30.920
+Duration: 7.000 seconds
+Text: Then on the 12th right now we've got that we would have second reading assuming the tip amendment passes.
+--------------------------------------------------
+City Manager:
+Start: 01:00:30.920
+End: 01:00:38.920
+Duration: 8.000 seconds
+Text: We would have a second reading of consideration of that ordinance to amend the tip on the 12th at that special meeting.
+--------------------------------------------------
+City Manager:
+Start: 01:00:38.920
+End: 01:00:43.920
+Duration: 5.000 seconds
+Text: We did again we just planning to discuss legislative items for 2024.
+--------------------------------------------------
+City Manager:
+Start: 01:00:43.920
+End: 01:00:51.920
+Duration: 8.000 seconds
+Text: And then my evaluation that night might be some things that get added to that since we're having a special meeting but we'll have to see.
+--------------------------------------------------
+City Manager:
+Start: 01:00:51.920
+End: 01:01:02.920
+Duration: 11.000 seconds
+Text: The 19th then got quite a few general agenda items typical of our end of the last meeting of the year.
+--------------------------------------------------
+City Manager:
+Start: 01:01:02.920
+End: 01:01:09.920
+Duration: 7.000 seconds
+Text: So we've got some our annual Chamber of Commerce contracts for Convention of Visitors Bureau.
+--------------------------------------------------
+City Manager:
+Start: 01:01:09.920
+End: 01:01:20.920
+Duration: 11.000 seconds
+Text: Military liaison economic development they'll also present their year in reports and then we'll also do the joint annual economic development report with our partners.
+--------------------------------------------------
+City Manager:
+Start: 01:01:20.920
+End: 01:01:44.920
+Duration: 24.000 seconds
+Text: As a result of that we anticipate having an amendment to the agreement with National Church Residences for the Garden Grove project where we accept the FEMA grant for the Garden Grove project as well as a need to authorize a relocation to recruit a relocation specialist.
+--------------------------------------------------
+City Manager:
+Start: 01:01:44.920
+End: 01:02:13.920
+Duration: 29.000 seconds
+Text: And we anticipate having the development agreement for back nine development project and that as a result of amending the the tip redevelopment plan and so that project could move forward and then annexation and a rezoning on Hartford Hills and a pretty routine out of serve outside the city service agreement for water only on 2909 College Avenue which is beyond Marlett.
+--------------------------------------------------
+City Manager:
+Start: 01:02:13.920
+End: 01:02:21.920
+Duration: 8.000 seconds
+Text: And taking advantage of the city's main that feeds the North Farm area there of case state.
+--------------------------------------------------
+City Manager:
+Start: 01:02:21.920
+End: 01:02:36.920
+Duration: 15.000 seconds
+Text: We also would have on the consent agenda then some parking changes in Aggieville that second reading if that happens with probably carry over to your old business then on January 2nd.
+--------------------------------------------------
+City Manager:
+Start: 01:02:36.920
+End: 01:03:02.920
+Duration: 26.000 seconds
+Text: Again the second reading of the airport advisory board ordinance and then adopting their bylaws that are ready and then award the Houston Street improvements again that's from 3rd to 5th Street and that opens on the 6th and then we have our annual sanitary sewer rehab bid opening on the 6th as well and would award that that night.
+--------------------------------------------------
+City Manager:
+Start: 01:03:02.920
+End: 01:03:31.920
+Duration: 29.000 seconds
+Text: And the big project is the awarding the Kimball Avenue North Campus Court or phase 11 so remember you awarded the first phase which is the completion of that back frontage road and then the northern part of Denison this would be the intersection itself plus finishing it to the west to tie in where we stopped just to the east of the rowing at that new intersection and then to the south on Denison down to about the vet med facility.
+--------------------------------------------------
+City Manager:
+Start: 01:03:31.920
+End: 01:03:50.920
+Duration: 19.000 seconds
+Text: So that'll be a big project and then all our annual contracts minus what you just approved tonight that we have the new in there being with MATC would be on for that night any contractual changes to my agreement and then annual city boundary.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 01:03:50.920
+End: 01:04:19.920
+Duration: 29.000 seconds
+Text: Well we're talking about no parking loading zones and stuff and agiVill is there any chance they can find a spot or two for handicapped parking since that is still an unresolved unresolvable issue apparently I know right there in front of the dusty bookshelf there's a wider parking spot that's x-touched out that I've been told is too small you can't get a vandal or open put down a ramp.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 01:04:20.920
+End: 01:04:48.920
+Duration: 28.000 seconds
+Text: So I'm going to go ahead and make that work but it seems to be as a wasted spot as it is is anybody thinking about what to do about a couple of handicapped spots in agiVill anytime soon or is that going to just wait until they tear up more and then try to find one or two there is anybody care about that anymore or just the two people that talked to us about never being handicapped spots in agiVill.
+--------------------------------------------------
+City Manager:
+Start: 01:04:48.920
+End: 01:05:13.920
+Duration: 25.000 seconds
+Text: So I don't care about it it is something that Brian has initiated at the corner of 12th and more we can take additional looks and see what you know if we need to add a few more I know we put one right in front of kites on more we put another one over on 12th street in front of the barbershop so we can add more.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 01:05:13.920
+End: 01:05:15.920
+Duration: 2.000 seconds
+Text: That's not happening in the last month or so.
+--------------------------------------------------
+City Manager:
+Start: 01:05:15.920
+End: 01:05:41.920
+Duration: 26.000 seconds
+Text: No, those exist though but I mean I understand there's a desire for more as we come through with the redesign of streetscapes and streets and parking we can entertain just exactly where you want them and how many we want they're not inviolation of any type of rules or regs in agiVill.
+--------------------------------------------------
+City Manager:
+Start: 01:05:42.920
+End: 01:05:53.920
+Duration: 11.000 seconds
+Text: But as we get into garages there are very much handicapped parking within our garages that are really close to accessible doorways to get into the district.
+--------------------------------------------------
+City Manager:
+Start: 01:05:53.920
+End: 01:05:59.920
+Duration: 6.000 seconds
+Text: We can look at the parking stall over at Dusty Bookshelf and see if we can expand it any further.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 01:05:59.920
+End: 01:06:07.920
+Duration: 8.000 seconds
+Text: And if you can't use it as a handicapped one I don't know why it's not being used as just a regular braking spot because it seems perfectly fine that way.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 01:06:08.920
+End: 01:06:24.920
+Duration: 16.000 seconds
+Text: But when you get ready to close 12th street there for the construction spot I don't know if that will still make that the plan would still be to kind of close it at the alley and divert southbound traffic to the east of the alley again.
+--------------------------------------------------
+City Manager:
+Start: 01:06:24.920
+End: 01:06:28.920
+Duration: 4.000 seconds
+Text: Yeah it's wide Brian put that handicapped stall by the barbershop there.
+--------------------------------------------------
+City Manager:
+Start: 01:06:28.920
+End: 01:06:37.920
+Duration: 9.000 seconds
+Text: They'll have to do somewhat of a three point turn or go down the alley turn around to head back to the north towards Moro.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 01:06:37.920
+End: 01:06:44.920
+Duration: 7.000 seconds
+Text: But they're going to try to keep that section of 12th street both ways.
+--------------------------------------------------
+City Manager:
+Start: 01:06:44.920
+End: 01:06:51.920
+Duration: 7.000 seconds
+Text: During construction they'll probably put the construction fence across 12th street just south of the alley.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 01:06:51.920
+End: 01:06:59.920
+Duration: 8.000 seconds
+Text: So even though it's south it's I guess it's not southbound only yet both ways now so they're trying to keep it even though it'll be nothing coming from the south.
+--------------------------------------------------
+City Manager:
+Start: 01:06:59.920
+End: 01:07:01.920
+Duration: 2.000 seconds
+Text: Are you talking permanent? No I'm just talking about it.
+--------------------------------------------------
+City Manager:
+Start: 01:07:01.920
+End: 01:07:10.920
+Duration: 9.000 seconds
+Text: Oh during construction yeah it'll still allow a north south action but you'll have to go down to the fence and the alley and turn around if you want to go back to the north.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 01:07:10.920
+End: 01:07:17.920
+Duration: 7.000 seconds
+Text: Okay you guys got any questions about any of the items coming up on the agendas?
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 01:07:17.920
+End: 01:07:28.920
+Duration: 11.000 seconds
+Text: No I did want to mention that I still think you know I don't very still sitting there he made that comment a couple meetings ago about changing how many times people could do public comment.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 01:07:28.920
+End: 01:07:31.920
+Duration: 3.000 seconds
+Text: I wouldn't mind seeing that as a discussion item.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 01:07:31.920
+End: 01:07:37.920
+Duration: 6.000 seconds
+Text: You know so that we could have open public comment at least at every legislative meeting.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 01:07:37.920
+End: 01:07:43.920
+Duration: 6.000 seconds
+Text: Because I think that was a valid thing if you can only come talk to the commission and face to face once a month.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 01:07:43.920
+End: 01:07:49.920
+Duration: 6.000 seconds
+Text: I hadn't really thought about it till he brought that up but I think it's it's worth discussing.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:07:49.920
+End: 01:08:01.920
+Duration: 12.000 seconds
+Text: Yeah I would say so as well and I would think obviously we get the new commission in so they'd be to decide but I think that new group would probably agree with that settlement.
+--------------------------------------------------
+City Manager:
+Start: 01:08:01.920
+End: 01:08:11.920
+Duration: 10.000 seconds
+Text: We plan to go through the meeting procedures and then legal is going to walk them through some of the recent changes we made everything from the way you conduct
+--------------------------------------------------
+City Manager:
+Start: 01:08:11.920
+End: 01:08:27.920
+Duration: 16.000 seconds
+Text: yourselves in here and coma and Kora and every other aspect of what you do those are definitely things we can highlight along with that we'll continue to recommend you should put a timetable on just how long that period is.
+--------------------------------------------------
+City Manager:
+Start: 01:08:27.920
+End: 01:08:38.920
+Duration: 11.000 seconds
+Text: Because that's the exposure you really have not a matter of making more frequent but we've debated in here just how long that should go.
+--------------------------------------------------
+City Manager:
+Start: 01:08:38.920
+End: 01:08:49.920
+Duration: 11.000 seconds
+Text: That's recommended anywhere from 30 minutes to 45 minutes to hour and what we've seen in other cities but it is unlimited right now and that's problematic in our opinion.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 01:08:49.920
+End: 01:09:03.920
+Duration: 14.000 seconds
+Text: Yeah I agree with that I think we should have it more than once a month but I also think putting a time limit 45 minutes an hour max makes sense because I've been here a couple nights till way early morning hours because of that.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 01:09:03.920
+End: 01:09:12.920
+Duration: 9.000 seconds
+Text: You're talking about beginning of the meeting type commentary on things not on the agenda you never had those things go late.
+--------------------------------------------------
+City Manager:
+Start: 01:09:12.920
+End: 01:09:14.920
+Duration: 2.000 seconds
+Text: But they could.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 01:09:14.920
+End: 01:09:16.920
+Duration: 2.000 seconds
+Text: It's possible.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 01:09:16.920
+End: 01:09:18.920
+Duration: 2.000 seconds
+Text: John you got anything else?
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:09:18.920
+End: 01:09:22.920
+Duration: 4.000 seconds
+Text: No just want to wish everyone a happy Thanksgiving.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 01:09:22.920
+End: 01:09:23.920
+Duration: 1.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 01:09:23.920
+End: 01:09:29.920
+Duration: 6.000 seconds
+Text: Anybody else Katie, Ron, Wayne, Jason, Wyatt, Jared.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 01:09:29.920
+End: 01:09:34.920
+Duration: 5.000 seconds
+Text: All right then that case is there a motion to adjourn by someone.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 01:09:34.920
+End: 01:09:40.920
+Duration: 6.000 seconds
+Text: By move we adjourn the November 21st 2023 City Commission meeting.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 01:09:40.920
+End: 01:09:41.920
+Duration: 1.000 seconds
+Text: They're second.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:09:41.920
+End: 01:09:42.920
+Duration: 1.000 seconds
+Text: Second.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 01:09:42.920
+End: 01:09:46.920
+Duration: 4.000 seconds
+Text: It's been moved and seconded to adjourn the meeting please call the roll.
+--------------------------------------------------
+City Manager:
+Start: 01:09:46.920
+End: 01:09:47.920
+Duration: 1.000 seconds
+Text: Commissioner Mata.
+--------------------------------------------------
+City Manager:
+Start: 01:09:47.920
+End: 01:09:48.920
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 01:09:48.920
+End: 01:09:50.920
+Duration: 2.000 seconds
+Text: Commissioner Butler.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 01:09:50.920
+End: 01:09:51.920
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 01:09:51.920
+End: 01:09:52.920
+Duration: 1.000 seconds
+Text: Mayor Hadisle.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 01:09:52.920
+End: 01:09:53.920
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Manager:
+Start: 01:09:53.920
+End: 01:09:56.920
+Duration: 3.000 seconds
+Text: Motion carries three to zero.
+--------------------------------------------------
+Mayor Mark Hattiesall:
+Start: 01:09:56.920
+End: 01:09:57.920
+Duration: 1.000 seconds
+Text: Mayor of the adjourn.
+--------------------------------------------------
+City Manager:
+Start: 01:09:57.920
+End: 01:09:58.920
+Duration: 1.000 seconds
+Text: How the hell.
+--------------------------------------------------

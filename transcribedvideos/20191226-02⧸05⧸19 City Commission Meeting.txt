@@ -1,0 +1,5139 @@
+Transcription and Diarization for 20191226-02⧸05⧸19 City Commission Meeting.mp4
+==================================================
+
+Commissioner Butler:
+Start: 00:00:00.000
+End: 00:00:04.000
+Duration: 4.000 seconds
+Text: Commission meeting to order and a full view will join me in the pledge of allegiance.
+--------------------------------------------------
+City Clerk:
+Start: 00:00:04.000
+End: 00:00:12.480
+Duration: 8.480 seconds
+Text: I pledge allegiance to the flag of the United States of America and to the Republic for which
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:00:12.480
+End: 00:00:19.000
+Duration: 6.520 seconds
+Text: it stands. One nation under God, indivisible with liberty and justice for all.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:19.000
+End: 00:00:27.000
+Duration: 8.000 seconds
+Text: The next item will be a proclamation and will be going to the
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:27.000
+End: 00:00:33.000
+Duration: 6.000 seconds
+Text: councilor. So, Shelley and Angela, if you'll join me at microphone.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:00:57.000
+End: 00:01:06.000
+Duration: 9.000 seconds
+Text: I am Mr. Taylor, Michelle Storris. A year ago, I came before a riot at a
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:06.000
+End: 00:01:12.000
+Duration: 6.000 seconds
+Text: larval on the asphalt. There's a train. There's a train and so on.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:12.000
+End: 00:01:16.000
+Duration: 4.000 seconds
+Text: And so, I said, it's a good time.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:16.000
+End: 00:01:23.000
+Duration: 7.000 seconds
+Text: I said, it's a lady named Jake Leigh. And she went out on the lake so I took her
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:23.000
+End: 00:01:33.000
+Duration: 10.000 seconds
+Text: to the school councilor. So, you see, this one, I have something really hard to do.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:01:33.000
+End: 00:01:40.000
+Duration: 7.000 seconds
+Text: I'm chasing it. We appreciate that. So, you bet.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:01:40.000
+End: 00:01:45.000
+Duration: 5.000 seconds
+Text: Whereas, school counselors are employed in public and private schools to help students
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:01:45.000
+End: 00:01:50.000
+Duration: 5.000 seconds
+Text: explore their abilities, strengths, interest, and talents as these traits
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:01:50.000
+End: 00:01:55.000
+Duration: 5.000 seconds
+Text: relate to career awareness and development. Whereas, school counselors work with
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:01:55.000
+End: 00:01:59.000
+Duration: 4.000 seconds
+Text: parents, teachers, and other educators to help students explore their potential
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:01:59.000
+End: 00:02:05.000
+Duration: 6.000 seconds
+Text: and set realistic goals for themselves. Whereas, school counselors seek to identify
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:02:05.000
+End: 00:02:11.000
+Duration: 6.000 seconds
+Text: and utilize community resources that can enhance and complement, comprehensive
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:02:11.000
+End: 00:02:16.000
+Duration: 5.000 seconds
+Text: school counseling programs and help students become productive members of society.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:02:17.000
+End: 00:02:22.000
+Duration: 5.000 seconds
+Text: Now, therefore, Mike Dodson, Mayor of the City of Manhattan, Kansas, Proclaims
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:02:22.000
+End: 00:02:27.000
+Duration: 5.000 seconds
+Text: the week of February 4 through 8 as National School Counseling Week
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:02:27.000
+End: 00:02:34.000
+Duration: 7.000 seconds
+Text: and encourages all citizens of Manhattan to offer their support of school counselors.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:02:38.000
+End: 00:02:42.000
+Duration: 4.000 seconds
+Text: Good evening. I'm Shelley Ingram, School Counselor at Anthony Middle School.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:02:43.000
+End: 00:02:47.000
+Duration: 4.000 seconds
+Text: And this is Angela Bunger. She's School Counselor at Eisenhower Middle School.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:02:47.000
+End: 00:02:51.000
+Duration: 4.000 seconds
+Text: And we just really want to thank the City of Manhattan for being willing to recognize
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:02:51.000
+End: 00:02:56.000
+Duration: 5.000 seconds
+Text: school counseling week. We do a lot to advocate for students not only academically,
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:02:56.000
+End: 00:03:01.000
+Duration: 5.000 seconds
+Text: but with their social, emotional health. And that job is always ever changing.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:03:01.000
+End: 00:03:05.000
+Duration: 4.000 seconds
+Text: And we just appreciate the support and definitely being willing to recognize.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:03:05.000
+End: 00:03:08.000
+Duration: 3.000 seconds
+Text: So, thank you very much.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:09.000
+End: 00:03:12.000
+Duration: 3.000 seconds
+Text: You can still hear me just about this.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:14.000
+End: 00:03:17.000
+Duration: 3.000 seconds
+Text: We ought to put me in the middle so we are here.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:03:22.000
+End: 00:03:24.000
+Duration: 2.000 seconds
+Text: Thank you.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:39.000
+End: 00:03:46.000
+Duration: 7.000 seconds
+Text: So, item three on the agenda tonight are public comments.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:46.000
+End: 00:03:50.000
+Duration: 4.000 seconds
+Text: And at the first meeting of every month, we have public comments.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:50.000
+End: 00:03:56.000
+Duration: 6.000 seconds
+Text: And these are comments that are concerning anything except those items that are on the agenda for tonight.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:03:56.000
+End: 00:04:02.000
+Duration: 6.000 seconds
+Text: So, if I'll open a public comment, if anyone would like to come forward and talk about anything
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:02.000
+End: 00:04:06.000
+Duration: 4.000 seconds
+Text: that they'd like to talk about, now's the time.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:09.000
+End: 00:04:14.000
+Duration: 5.000 seconds
+Text: We knew this was going to happen because there's not only the president's address tonight,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:14.000
+End: 00:04:17.000
+Duration: 3.000 seconds
+Text: there's a K-State KU game.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:17.000
+End: 00:04:20.000
+Duration: 3.000 seconds
+Text: So, we appreciate those who did come.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:23.000
+End: 00:04:28.000
+Duration: 5.000 seconds
+Text: All right. We'll see no one from the public and we'll close the public comment,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:28.000
+End: 00:04:32.000
+Duration: 4.000 seconds
+Text: portion and move to agenda item four, which is Commissioner comments.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:04:32.000
+End: 00:04:34.000
+Duration: 2.000 seconds
+Text: So, Linda, do you want to start?
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:04:35.000
+End: 00:04:39.000
+Duration: 4.000 seconds
+Text: I happen to see a city road crew this morning, Brian,
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:04:39.000
+End: 00:04:46.000
+Duration: 7.000 seconds
+Text: out hurriedly filling some of the cracks and using that heat flame,
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:04:46.000
+End: 00:04:50.000
+Duration: 4.000 seconds
+Text: the flame that seals it.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:04:50.000
+End: 00:04:55.000
+Duration: 5.000 seconds
+Text: And I was appreciated how fast they were working before this next storm comes through.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:04:55.000
+End: 00:04:57.000
+Duration: 2.000 seconds
+Text: We got a lot of holes to patch.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:04:57.000
+End: 00:04:58.000
+Duration: 1.000 seconds
+Text: I can imagine.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:04:58.000
+End: 00:05:00.000
+Duration: 2.000 seconds
+Text: We got two crews working full-time on it.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:05:00.000
+End: 00:05:02.000
+Duration: 2.000 seconds
+Text: I'm happy to see that.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:05:03.000
+End: 00:05:07.000
+Duration: 4.000 seconds
+Text: And I just wanted to say, I happen to notice in the counties minutes
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:05:07.000
+End: 00:05:14.000
+Duration: 7.000 seconds
+Text: that the household hazardous waste will be accepted from the public,
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:05:14.000
+End: 00:05:18.000
+Duration: 4.000 seconds
+Text: not commercial or not business, but from the public,
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:05:18.000
+End: 00:05:21.000
+Duration: 3.000 seconds
+Text: this coming Saturday, February 9th, beginning at 8 o'clock,
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:05:21.000
+End: 00:05:23.000
+Duration: 2.000 seconds
+Text: I think it's all morning.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:05:23.000
+End: 00:05:30.000
+Duration: 7.000 seconds
+Text: But if you have some paint or insecticide or some kind of product at your house,
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:05:30.000
+End: 00:05:34.000
+Duration: 4.000 seconds
+Text: that you've been tripping over looking at for a long time,
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:05:34.000
+End: 00:05:37.000
+Duration: 3.000 seconds
+Text: and you just want to get rid of it, that's the place to take it.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:05:37.000
+End: 00:05:39.000
+Duration: 2.000 seconds
+Text: So, just wanted to suggest that.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:05:39.000
+End: 00:05:41.000
+Duration: 2.000 seconds
+Text: Karen McCullough used to say that pretty regularly.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:05:41.000
+End: 00:05:44.000
+Duration: 3.000 seconds
+Text: And we haven't heard it for a while, thanks.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:47.000
+End: 00:05:50.000
+Duration: 3.000 seconds
+Text: I just want to mention, you know, following up on the city,
+--------------------------------------------------
+City Clerk:
+Start: 00:05:50.000
+End: 00:05:53.000
+Duration: 3.000 seconds
+Text: gut licensing ordinance, it was passed last year,
+--------------------------------------------------
+City Clerk:
+Start: 00:05:53.000
+End: 00:05:57.000
+Duration: 4.000 seconds
+Text: where the local beds can, of course, sell the licenses.
+--------------------------------------------------
+City Clerk:
+Start: 00:05:57.000
+End: 00:06:00.000
+Duration: 3.000 seconds
+Text: And we've got great support from at least two of them out there,
+--------------------------------------------------
+City Clerk:
+Start: 00:06:00.000
+End: 00:06:05.000
+Duration: 5.000 seconds
+Text: the fur family, animal hospital, and the little apple veterinary hospital,
+--------------------------------------------------
+City Clerk:
+Start: 00:06:05.000
+End: 00:06:08.000
+Duration: 3.000 seconds
+Text: have done a good job in helping us sell licenses.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:08.000
+End: 00:06:13.000
+Duration: 5.000 seconds
+Text: And so the numbers are up for the first three months of the year.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:13.000
+End: 00:06:16.000
+Duration: 3.000 seconds
+Text: We sold 112 more than normal.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:16.000
+End: 00:06:18.000
+Duration: 2.000 seconds
+Text: We're hoping to do better.
+--------------------------------------------------
+City Clerk:
+Start: 00:06:18.000
+End: 00:06:21.000
+Duration: 3.000 seconds
+Text: So I encourage, you know, the other veterinary hospitals that are out there,
+--------------------------------------------------
+City Clerk:
+Start: 00:06:21.000
+End: 00:06:25.000
+Duration: 4.000 seconds
+Text: like the animal doctor, Westside, Candlewood, Vet Clinic,
+--------------------------------------------------
+City Clerk:
+Start: 00:06:25.000
+End: 00:06:30.000
+Duration: 5.000 seconds
+Text: and Blue Hills, and also a KSU veterinary clinic to get on board
+--------------------------------------------------
+City Clerk:
+Start: 00:06:30.000
+End: 00:06:33.000
+Duration: 3.000 seconds
+Text: and also help us sell the pet licenses,
+--------------------------------------------------
+City Clerk:
+Start: 00:06:33.000
+End: 00:06:36.000
+Duration: 3.000 seconds
+Text: because that is what supports our animal shelter.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:06:39.000
+End: 00:06:41.000
+Duration: 2.000 seconds
+Text: Yes, I have a few comments here.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:06:41.000
+End: 00:06:44.000
+Duration: 3.000 seconds
+Text: I want to say congratulations to Tom Loeb.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:06:44.000
+End: 00:06:46.000
+Duration: 2.000 seconds
+Text: I hope I said your name correctly.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:06:46.000
+End: 00:06:52.000
+Duration: 6.000 seconds
+Text: He is the 2019 Riley County Spelling Bee winner from Anthony Middle School.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:06:53.000
+End: 00:06:55.000
+Duration: 2.000 seconds
+Text: I know that doesn't impress a whole lot of people,
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:06:55.000
+End: 00:06:59.000
+Duration: 4.000 seconds
+Text: because it's a spelling bee, but I think it's really, really cool that we have spelling bees
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:06:59.000
+End: 00:07:03.000
+Duration: 4.000 seconds
+Text: and geography bees and science fairs.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:07:03.000
+End: 00:07:08.000
+Duration: 5.000 seconds
+Text: Those don't seem to be out in public nearly as much as assessments, assessments, and assessments.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:07:08.000
+End: 00:07:14.000
+Duration: 6.000 seconds
+Text: So it's congratulations to Tom and wish him good luck as he goes off to the nationals.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:07:15.000
+End: 00:07:19.000
+Duration: 4.000 seconds
+Text: The Kansas Association of School Board members, a school board members,
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:07:19.000
+End: 00:07:25.000
+Duration: 6.000 seconds
+Text: and the United Superintendent Association, Women's Leadership Summit.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:07:25.000
+End: 00:07:29.000
+Duration: 4.000 seconds
+Text: The first one of its kind is being held in Manhattan yesterday and today.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:07:29.000
+End: 00:07:33.000
+Duration: 4.000 seconds
+Text: Governor Kelly was here last night at the Plenty Hills Discovery Center for the reception.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:07:33.000
+End: 00:07:41.000
+Duration: 8.000 seconds
+Text: She spoke to the extraordinary leaders, which give guidance to our principals and our schools
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:07:41.000
+End: 00:07:43.000
+Duration: 2.000 seconds
+Text: and our children and families.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:07:43.000
+End: 00:07:47.000
+Duration: 4.000 seconds
+Text: So it was great that they had their first one here, and hopefully they continue to have a few more.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:07:47.000
+End: 00:07:52.000
+Duration: 5.000 seconds
+Text: Annual ones in Manhattan, Kansas.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:07:52.000
+End: 00:07:54.000
+Duration: 2.000 seconds
+Text: We are expecting freezing.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:07:54.000
+End: 00:07:58.000
+Duration: 4.000 seconds
+Text: We are expecting ice and sleet again tonight, probably early morning.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:07:58.000
+End: 00:08:00.000
+Duration: 2.000 seconds
+Text: So please drive carefully.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:08:00.000
+End: 00:08:03.000
+Duration: 3.000 seconds
+Text: Sometimes that you might not see it, but it's going to be pretty slick and slippery.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:08:03.000
+End: 00:08:09.000
+Duration: 6.000 seconds
+Text: So start off a little bit earlier or maybe put salt on your driveways right now
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:08:09.000
+End: 00:08:12.000
+Duration: 3.000 seconds
+Text: and take care of it so it's not as shocker as you get up in the morning.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:08:13.000
+End: 00:08:17.000
+Duration: 4.000 seconds
+Text: I also want to say Kudos to Jared, Washington and Jason Hillgers.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:08:17.000
+End: 00:08:23.000
+Duration: 6.000 seconds
+Text: I think on every Monday now, at least for the past three Mondays, on our Facebook page for City of Manhattan,
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:08:23.000
+End: 00:08:25.000
+Duration: 2.000 seconds
+Text: they've been giving about 20 minute updates.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:08:25.000
+End: 00:08:29.000
+Duration: 4.000 seconds
+Text: Not only what the commission is going to be talking about on this Tuesday for today, for example,
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:08:29.000
+End: 00:08:33.000
+Duration: 4.000 seconds
+Text: but also things that might be of interest to our community members.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:08:33.000
+End: 00:08:36.000
+Duration: 3.000 seconds
+Text: So if you're not going to tune in and watch our program on Tuesday nights,
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:08:36.000
+End: 00:08:41.000
+Duration: 5.000 seconds
+Text: there's always a little synopsis just to get an idea of what's going on in the city
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:08:41.000
+End: 00:08:43.000
+Duration: 2.000 seconds
+Text: as we talk about it.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:08:43.000
+End: 00:08:50.000
+Duration: 7.000 seconds
+Text: We're trying to get more people engaged in all the city events and city things that are not as exciting,
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:08:50.000
+End: 00:08:54.000
+Duration: 4.000 seconds
+Text: let's say, but to keep you updated at the same time and short snippets of it.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:08:54.000
+End: 00:08:55.000
+Duration: 1.000 seconds
+Text: So thank you.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:02.000
+End: 00:09:05.000
+Duration: 3.000 seconds
+Text: Just a couple of items, maybe.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:05.000
+End: 00:09:08.000
+Duration: 3.000 seconds
+Text: The ice storm that we had last week,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:08.000
+End: 00:09:16.000
+Duration: 8.000 seconds
+Text: I think a lot of people don't quite appreciate what all the street crews do to get that in shape,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:16.000
+End: 00:09:21.000
+Duration: 5.000 seconds
+Text: as well as the RCPD and then our responders who have to go out in this weather
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:21.000
+End: 00:09:24.000
+Duration: 3.000 seconds
+Text: and sometimes help people who have had an accident.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:24.000
+End: 00:09:30.000
+Duration: 6.000 seconds
+Text: So that was a tremendous effort and at the circumstances where as bad as it gets,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:30.000
+End: 00:09:34.000
+Duration: 4.000 seconds
+Text: because they can't, if it's raining, you can't pretreat.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:34.000
+End: 00:09:40.000
+Duration: 6.000 seconds
+Text: And then when the snow begins to fall on top of that or the, it turns immediately to ice,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:40.000
+End: 00:09:45.000
+Duration: 5.000 seconds
+Text: there's not that much that can be done except sanding and even the sanding trucks are having trouble.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:45.000
+End: 00:09:52.000
+Duration: 7.000 seconds
+Text: So a lot of folks worked a long hours in order to get us fixed up, so we appreciate that.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:52.000
+End: 00:09:59.000
+Duration: 7.000 seconds
+Text: We also appreciate fire department and their response down to the unfortunate accident down in Ogden.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:09:59.000
+End: 00:10:05.000
+Duration: 6.000 seconds
+Text: We've got our guys down there in just a few minutes out of the airport, fire department.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:10:05.000
+End: 00:10:12.000
+Duration: 7.000 seconds
+Text: These kind of tragedies are always bothersome to the entire region that hears about it,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:10:12.000
+End: 00:10:25.000
+Duration: 13.000 seconds
+Text: but I know our fire department, others try to promote smoke detectors and our code department tries to promote making sure we've got enough exits and things like that.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:10:25.000
+End: 00:10:39.000
+Duration: 14.000 seconds
+Text: So just an absolute tragedy, but we really appreciate the quick response that your guys gave us on that Scott. That was a good work.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:10:39.000
+End: 00:10:43.000
+Duration: 4.000 seconds
+Text: We'll move to item five, which is the consent agenda.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:10:43.000
+End: 00:10:50.000
+Duration: 7.000 seconds
+Text: I think as everyone knows, the consent agenda are those items that the commission is considered before,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:10:50.000
+End: 00:10:58.000
+Duration: 8.000 seconds
+Text: or that are just housekeeping and nature to make sure administration continues to work when we're not meeting.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:10:58.000
+End: 00:11:12.000
+Duration: 14.000 seconds
+Text: So does anyone on the commission have a question or comment about the consent agenda items?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:11:12.000
+End: 00:11:20.000
+Duration: 8.000 seconds
+Text: Does anyone from the public have a comment on the consent agenda items?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:11:23.000
+End: 00:11:29.000
+Duration: 6.000 seconds
+Text: Seeing none, let me go back to the commission if there are no further comments we will ask for the motion.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:11:29.000
+End: 00:11:31.000
+Duration: 2.000 seconds
+Text: I move we approve the consent agenda.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:11:31.000
+End: 00:11:33.000
+Duration: 2.000 seconds
+Text: Second.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:11:33.000
+End: 00:11:36.000
+Duration: 3.000 seconds
+Text: Call the roll.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:11:36.000
+End: 00:11:37.000
+Duration: 1.000 seconds
+Text: Mayor Dodson.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:11:37.000
+End: 00:11:39.000
+Duration: 2.000 seconds
+Text: Yes. Commissioner Ready.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:11:39.000
+End: 00:11:40.000
+Duration: 1.000 seconds
+Text: Yes. Commissioner Butler.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:11:40.000
+End: 00:11:42.000
+Duration: 2.000 seconds
+Text: Yes. Commissioner McKee.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:11:42.000
+End: 00:11:43.000
+Duration: 1.000 seconds
+Text: Yes. And Commissioner Morris.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:11:43.000
+End: 00:11:44.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:11:44.000
+End: 00:11:48.000
+Duration: 4.000 seconds
+Text: Motion carries. Five zero.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:11:48.000
+End: 00:12:02.000
+Duration: 14.000 seconds
+Text: Now we'll move to item number six, which is the general agenda and item A under that is consider a contract amendment for design of the Southwest neighborhood recreation center Douglas Park.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:12:02.000
+End: 00:12:11.000
+Duration: 9.000 seconds
+Text: I see Jason on here, but it's really Eddie Estes director of parks and recreation and Dave is with him.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:12:11.000
+End: 00:12:13.000
+Duration: 2.000 seconds
+Text: So.
+--------------------------------------------------
+City Manager:
+Start: 00:12:13.000
+End: 00:12:16.000
+Duration: 3.000 seconds
+Text: Yes. Thank you, Mayor.
+--------------------------------------------------
+City Manager:
+Start: 00:12:16.000
+End: 00:12:20.000
+Duration: 4.000 seconds
+Text: Commission. Yes, Mr. Baker appreciate him being here with us tonight.
+--------------------------------------------------
+City Manager:
+Start: 00:12:20.000
+End: 00:12:29.000
+Duration: 9.000 seconds
+Text: Very important that he can communicate to you some of the Douglas and advisor board concerns comments.
+--------------------------------------------------
+City Manager:
+Start: 00:12:29.000
+End: 00:12:34.000
+Duration: 5.000 seconds
+Text: So in meetings that we've had with them since we met last on this topic.
+--------------------------------------------------
+City Manager:
+Start: 00:12:34.000
+End: 00:12:38.000
+Duration: 4.000 seconds
+Text: So we'll just get started.
+--------------------------------------------------
+City Manager:
+Start: 00:12:38.000
+End: 00:12:42.000
+Duration: 4.000 seconds
+Text: A reminder we had this discussion back in December.
+--------------------------------------------------
+City Manager:
+Start: 00:12:42.000
+End: 00:12:50.000
+Duration: 8.000 seconds
+Text: City administration had a discussion with the commission to inform you that we could not use community development block grant phones for the construction.
+--------------------------------------------------
+City Manager:
+Start: 00:12:50.000
+End: 00:12:54.000
+Duration: 4.000 seconds
+Text: We call it the Douglas recreation center.
+--------------------------------------------------
+City Manager:
+Start: 00:12:54.000
+End: 00:12:57.000
+Duration: 3.000 seconds
+Text: The normal culture we've been using is Southeast neighborhood.
+--------------------------------------------------
+City Manager:
+Start: 00:12:57.000
+End: 00:12:59.000
+Duration: 2.000 seconds
+Text: Sin rec.
+--------------------------------------------------
+City Manager:
+Start: 00:12:59.000
+End: 00:13:03.000
+Duration: 4.000 seconds
+Text: Advisory board I think is more in favor of the Douglas recreation center.
+--------------------------------------------------
+City Manager:
+Start: 00:13:03.000
+End: 00:13:07.000
+Duration: 4.000 seconds
+Text: And so you'll see both of those names a little bit in the memo and tonight.
+--------------------------------------------------
+City Manager:
+Start: 00:13:07.000
+End: 00:13:15.000
+Duration: 8.000 seconds
+Text: But as we discussed with you in December, the fact that we could not use community development block grant funds for the construction of that facility.
+--------------------------------------------------
+City Manager:
+Start: 00:13:15.000
+End: 00:13:23.000
+Duration: 8.000 seconds
+Text: Through that discussion, the commission did express interest in pursuing the construction of the facility.
+--------------------------------------------------
+City Manager:
+Start: 00:13:23.000
+End: 00:13:36.000
+Duration: 13.000 seconds
+Text: Commission also expressed interest and re-engaging the community to make sure that amenities that would be considered for this facility do meet community needs.
+--------------------------------------------------
+City Manager:
+Start: 00:13:36.000
+End: 00:13:44.000
+Duration: 8.000 seconds
+Text: We've tried to stuff amenities into that previous budget and it kind of ran the show so to speak.
+--------------------------------------------------
+City Manager:
+Start: 00:13:44.000
+End: 00:13:49.000
+Duration: 5.000 seconds
+Text: Advisory board has always been in favor of an elevated walking track.
+--------------------------------------------------
+City Manager:
+Start: 00:13:49.000
+End: 00:14:03.000
+Duration: 14.000 seconds
+Text: We know that from public meetings that we had in interaction with the Douglas and advisory board before we'd ever got to the design and discussion in December.
+--------------------------------------------------
+City Manager:
+Start: 00:14:03.000
+End: 00:14:15.000
+Duration: 12.000 seconds
+Text: We can continue to use community development block grant funds for design work, for site work, parking lot work, but not the construction of the facility.
+--------------------------------------------------
+City Manager:
+Start: 00:14:15.000
+End: 00:14:20.000
+Duration: 5.000 seconds
+Text: So that was the discussion that we had back in December.
+--------------------------------------------------
+City Manager:
+Start: 00:14:20.000
+End: 00:14:22.000
+Duration: 2.000 seconds
+Text: And correct me if I'm wrong.
+--------------------------------------------------
+City Manager:
+Start: 00:14:22.000
+End: 00:14:28.000
+Duration: 6.000 seconds
+Text: But again, I believe the commission expressed interest in pursuing construction of the facility.
+--------------------------------------------------
+City Manager:
+Start: 00:14:28.000
+End: 00:14:41.000
+Duration: 13.000 seconds
+Text: Commission was interested in re-engaging the community to make sure that amenities that could be considered for the facilities did meet the community's needs.
+--------------------------------------------------
+City Manager:
+Start: 00:14:41.000
+End: 00:14:51.000
+Duration: 10.000 seconds
+Text: So from that meeting, Mr. Baker has assisted with public meetings that we've had.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:14:51.000
+End: 00:14:58.000
+Duration: 7.000 seconds
+Text: Is that microphone working?
+--------------------------------------------------
+City Manager:
+Start: 00:14:58.000
+End: 00:15:00.000
+Duration: 2.000 seconds
+Text: There we go.
+--------------------------------------------------
+City Manager:
+Start: 00:15:00.000
+End: 00:15:03.000
+Duration: 3.000 seconds
+Text: The city administration has hosted a couple meetings.
+--------------------------------------------------
+City Manager:
+Start: 00:15:03.000
+End: 00:15:13.000
+Duration: 10.000 seconds
+Text: David's been in those meetings assisted with those and I thought it'd be important to be reflect the information that we received in the comments that we received at those meetings.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:13.000
+End: 00:15:22.000
+Duration: 9.000 seconds
+Text: Commissioners, last year our department staff, we took a trip to Kansas City.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:22.000
+End: 00:15:29.000
+Duration: 7.000 seconds
+Text: And we visited six different recreation facilities and went back a lot of ideas.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:29.000
+End: 00:15:41.000
+Duration: 12.000 seconds
+Text: And it's interesting that after we conducted this survey last month, there were both meetings where at the Douglas Center, one on Sunday and one on Thursday.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:41.000
+End: 00:15:57.000
+Duration: 16.000 seconds
+Text: And after reviewing the results of the survey, all the amenities that we've been wanting to put in, the new facility, those were the things that the new survey showed.
+--------------------------------------------------
+City Clerk:
+Start: 00:15:57.000
+End: 00:16:03.000
+Duration: 6.000 seconds
+Text: The center is doing great things today for the Manhattan community.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:03.000
+End: 00:16:06.000
+Duration: 3.000 seconds
+Text: It's amazing the things that are happening there on a daily basis.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:06.000
+End: 00:16:21.000
+Duration: 15.000 seconds
+Text: If you had the opportunity to come by, you could see the things that are going on there and how important it is that we get this new facility so that we can continue to do the things that we need to do in recreation.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:21.000
+End: 00:16:29.000
+Duration: 8.000 seconds
+Text: The facility is serving the community today in a way that is never served in the past.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:29.000
+End: 00:16:35.000
+Duration: 6.000 seconds
+Text: And one of the most important things the advisory board was concerned about was that elevated track.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:35.000
+End: 00:16:40.000
+Duration: 5.000 seconds
+Text: We were not going to be able to do that with the HUD money. There was just not enough in the budget.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:40.000
+End: 00:16:53.000
+Duration: 13.000 seconds
+Text: And so now we're hoping that we can, with the new design that we'll be able to add the amenities to the new facility that will meet all the needs that the community has been asking for.
+--------------------------------------------------
+City Clerk:
+Start: 00:16:53.000
+End: 00:17:05.000
+Duration: 12.000 seconds
+Text: Manhattan, we are a little bit behind in terms of indoor recreation facilities that people can have families can come and enjoy.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:05.000
+End: 00:17:11.000
+Duration: 6.000 seconds
+Text: And we're going into the third year on this project.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:11.000
+End: 00:17:16.000
+Duration: 5.000 seconds
+Text: So my goal and my hope is that we can get this one done first and get it done quickly.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:16.000
+End: 00:17:19.000
+Duration: 3.000 seconds
+Text: And of course we know we have the other two coming on.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:19.000
+End: 00:17:24.000
+Duration: 5.000 seconds
+Text: But Manhattan is very deserving of indoor recreation facilities.
+--------------------------------------------------
+City Clerk:
+Start: 00:17:24.000
+End: 00:17:30.000
+Duration: 6.000 seconds
+Text: And that's what we're trying to achieve here with the Double Center project.
+--------------------------------------------------
+City Manager:
+Start: 00:17:30.000
+End: 00:17:48.000
+Duration: 18.000 seconds
+Text: One thing that's also important to note, as we put in the memo also, that if we are not using community development block grant funds for the construction of the facility, we obviously don't have to utilize Davis-Bacon wage rates, which allows that budget theoretically to expand because we wouldn't have to pay that elevated rate.
+--------------------------------------------------
+City Manager:
+Start: 00:17:48.000
+End: 00:18:06.000
+Duration: 18.000 seconds
+Text: So again, there's some reasoning as to why we want to reengage the community, re-evaluate this design and make sure we're going to progress to construction that it includes the amenities that truly is going to provide for the needs of the community.
+--------------------------------------------------
+City Manager:
+Start: 00:18:06.000
+End: 00:18:13.000
+Duration: 7.000 seconds
+Text: So tonight, our recommendation is a contract amendment with Bruce Mcmillan's team.
+--------------------------------------------------
+City Manager:
+Start: 00:18:13.000
+End: 00:18:18.000
+Duration: 5.000 seconds
+Text: And I put up here for a percentage of the design and a solid estimate of construction costs.
+--------------------------------------------------
+City Manager:
+Start: 00:18:18.000
+End: 00:18:24.000
+Duration: 6.000 seconds
+Text: The intent would be to have Bruce Mcmillan's team re-engage with the community.
+--------------------------------------------------
+City Manager:
+Start: 00:18:24.000
+End: 00:18:30.000
+Duration: 6.000 seconds
+Text: Make sure that we are trying to provide the amenities the community would like to see.
+--------------------------------------------------
+City Manager:
+Start: 00:18:30.000
+End: 00:18:40.000
+Duration: 10.000 seconds
+Text: And take that to a 30% design, some things, some conceptual that we can bring back to you with a solid budget estimate.
+--------------------------------------------------
+City Manager:
+Start: 00:18:40.000
+End: 00:18:51.000
+Duration: 11.000 seconds
+Text: And if it's something that you're supportive of, then we would move on to final construction, design documents, and entertain construction of the facility.
+--------------------------------------------------
+City Manager:
+Start: 00:18:51.000
+End: 00:18:59.000
+Duration: 8.000 seconds
+Text: So tonight, the recommendation is a contract amendment for a percentage of design.
+--------------------------------------------------
+City Manager:
+Start: 00:18:59.000
+End: 00:19:12.000
+Duration: 13.000 seconds
+Text: When I say a percentage of design also, in the memo I said, if an elevated track was to be considered, the current design, we could only use 25-30% of that current design.
+--------------------------------------------------
+City Manager:
+Start: 00:19:12.000
+End: 00:19:17.000
+Duration: 5.000 seconds
+Text: I'm talking about bringing back 30% design.
+--------------------------------------------------
+City Manager:
+Start: 00:19:17.000
+End: 00:19:20.000
+Duration: 3.000 seconds
+Text: And Bruce would have to help me out with this a little bit.
+--------------------------------------------------
+City Manager:
+Start: 00:19:20.000
+End: 00:19:27.000
+Duration: 7.000 seconds
+Text: But elevated track would dramatically alter the current design.
+--------------------------------------------------
+City Manager:
+Start: 00:19:27.000
+End: 00:19:30.000
+Duration: 3.000 seconds
+Text: He would have to really look at that facility again.
+--------------------------------------------------
+City Manager:
+Start: 00:19:30.000
+End: 00:19:34.000
+Duration: 4.000 seconds
+Text: He would still be able to use some of the site work design.
+--------------------------------------------------
+City Manager:
+Start: 00:19:34.000
+End: 00:19:44.000
+Duration: 10.000 seconds
+Text: So that's some of the aspects of the 25-30% of the existing design that he would still be able to use with any redesign of this facility.
+--------------------------------------------------
+City Manager:
+Start: 00:19:44.000
+End: 00:19:49.000
+Duration: 5.000 seconds
+Text: But elevated track would cause a dramatic redesign.
+--------------------------------------------------
+City Manager:
+Start: 00:19:49.000
+End: 00:19:56.000
+Duration: 7.000 seconds
+Text: So I would be a good idea to come back with a percentage of design to show that to the commission.
+--------------------------------------------------
+City Manager:
+Start: 00:19:56.000
+End: 00:20:02.000
+Duration: 6.000 seconds
+Text: See if you're supportive before we continue into the final design.
+--------------------------------------------------
+City Manager:
+Start: 00:20:02.000
+End: 00:20:05.000
+Duration: 3.000 seconds
+Text: That's our presentation tonight.
+--------------------------------------------------
+City Manager:
+Start: 00:20:05.000
+End: 00:20:08.000
+Duration: 3.000 seconds
+Text: We're certainly happy to answer questions.
+--------------------------------------------------
+City Manager:
+Start: 00:20:08.000
+End: 00:20:12.000
+Duration: 4.000 seconds
+Text: Bruce McMillan is here in the audience as well.
+--------------------------------------------------
+City Manager:
+Start: 00:20:12.000
+End: 00:20:15.000
+Duration: 3.000 seconds
+Text: And I know the happy to answer any questions as well.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:20:15.000
+End: 00:20:27.000
+Duration: 12.000 seconds
+Text: If I remember right, and I could be wrong about this, or correct me if I'm wrong, with the elevated track, it was estimated that the building was going to be smaller in order to fill in the budget.
+--------------------------------------------------
+City Manager:
+Start: 00:20:27.000
+End: 00:20:31.000
+Duration: 4.000 seconds
+Text: We've looked at a number of different potential designs.
+--------------------------------------------------
+City Manager:
+Start: 00:20:31.000
+End: 00:20:44.000
+Duration: 13.000 seconds
+Text: And some designs could bring that in a little bit, because currently right now, with an at-grade walking track, which adds another 18-20 feet to the size of the facility.
+--------------------------------------------------
+City Manager:
+Start: 00:20:44.000
+End: 00:20:51.000
+Duration: 7.000 seconds
+Text: So I think that's a good idea to accommodate that six feet, nine feet on each side of the courts for an at-grade.
+--------------------------------------------------
+City Manager:
+Start: 00:20:51.000
+End: 00:20:54.000
+Duration: 3.000 seconds
+Text: Yes, in Bruce, you might, I don't want to misspeak.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:20:54.000
+End: 00:21:11.000
+Duration: 17.000 seconds
+Text: I think the issue there, Eddie, was that if we were constrained by a top-line budget of a certain amount, let's say, 3.5 million, that the addition of an elevated track would then constrain the rest of the things in the facility.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:21:11.000
+End: 00:21:13.000
+Duration: 2.000 seconds
+Text: That's my question that are the main for sure.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:21:13.000
+End: 00:21:25.000
+Duration: 12.000 seconds
+Text: That was where I was getting at, is for one, if we're staying, when you bring back this original, this next design, 30%, if it's going to stay in that top-line budget.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:21:25.000
+End: 00:21:30.000
+Duration: 5.000 seconds
+Text: And if it does stay in that top-line budget, does the facility need to be smaller?
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:21:30.000
+End: 00:21:42.000
+Duration: 12.000 seconds
+Text: And I asked that because in our last conversation, I thought that we kind of assumed that doing a race track was going to be more money, and there seemed to be some willingness to do some fundraising efforts.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:21:42.000
+End: 00:21:50.000
+Duration: 8.000 seconds
+Text: So I didn't know if that has been taken off the table or just now staying within the original budget or how we're approaching that.
+--------------------------------------------------
+City Manager:
+Start: 00:21:51.000
+End: 00:22:06.000
+Duration: 15.000 seconds
+Text: We hope that in talking with Bruce, there is the possibility that the facility could come in a little bit, and the savings of that facility and the square footage of that building shrinking could we turn that into an upper track.
+--------------------------------------------------
+City Manager:
+Start: 00:22:06.000
+End: 00:22:23.000
+Duration: 17.000 seconds
+Text: Could we also anticipate there could be 200,000, 250,000 of Davis-Bacon wages that we've considered that if we are not using federal funds, that two or $300,000 also could go into construction of the facility.
+--------------------------------------------------
+City Manager:
+Start: 00:22:23.000
+End: 00:22:32.000
+Duration: 9.000 seconds
+Text: And we're hopeful that those two things potentially would allow us to be able to put that elevated walk-in track.
+--------------------------------------------------
+City Manager:
+Start: 00:22:32.000
+End: 00:22:38.000
+Duration: 6.000 seconds
+Text: We've been working with projections, we're working with estimates.
+--------------------------------------------------
+City Manager:
+Start: 00:22:38.000
+End: 00:22:41.000
+Duration: 3.000 seconds
+Text: You don't know those things until you get bids.
+--------------------------------------------------
+City Manager:
+Start: 00:22:41.000
+End: 00:22:44.000
+Duration: 3.000 seconds
+Text: Bruce, am I accurate with that?
+--------------------------------------------------
+City Clerk:
+Start: 00:22:44.000
+End: 00:22:47.000
+Duration: 3.000 seconds
+Text: What he's explaining is certainly correct.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:47.000
+End: 00:22:52.000
+Duration: 5.000 seconds
+Text: The first Macmillan 555 points I have a new architecture record on the project.
+--------------------------------------------------
+City Clerk:
+Start: 00:22:52.000
+End: 00:23:09.000
+Duration: 17.000 seconds
+Text: The Footprint Commissioner could potentially come in slightly, however, even with a three-lane elevated track, we still have to clear for the most part the courts below.
+--------------------------------------------------
+City Clerk:
+Start: 00:23:09.000
+End: 00:23:33.000
+Duration: 24.000 seconds
+Text: And the options that we have had our structural engineer look at is either a suspended track system from the structure above or a supported track system with an intermediate storage area that actually were spanning between sections around the perimeter of the building.
+--------------------------------------------------
+City Clerk:
+Start: 00:23:33.000
+End: 00:23:44.000
+Duration: 11.000 seconds
+Text: The folks at the Douglas Park have expressed that they would be willing to live with a few, maybe one, maybe two, fewer pickleball courts.
+--------------------------------------------------
+City Clerk:
+Start: 00:23:44.000
+End: 00:23:47.000
+Duration: 3.000 seconds
+Text: That has been a big issue, pickleball courts.
+--------------------------------------------------
+City Clerk:
+Start: 00:23:47.000
+End: 00:23:57.000
+Duration: 10.000 seconds
+Text: And I will let the advisory board members that may be present address that particular item if they care to do so.
+--------------------------------------------------
+City Clerk:
+Start: 00:23:57.000
+End: 00:24:11.000
+Duration: 14.000 seconds
+Text: The Footprint, however, is still going to need to allow for the track above avoid as much overlap of the court areas we can avoid.
+--------------------------------------------------
+City Clerk:
+Start: 00:24:11.000
+End: 00:24:15.000
+Duration: 4.000 seconds
+Text: Your volume might be larger.
+--------------------------------------------------
+City Clerk:
+Start: 00:24:15.000
+End: 00:24:19.000
+Duration: 4.000 seconds
+Text: We're heating and air conditioning more space.
+--------------------------------------------------
+City Clerk:
+Start: 00:24:19.000
+End: 00:24:25.000
+Duration: 6.000 seconds
+Text: The bathrooms because of the occupant load is going to increase.
+--------------------------------------------------
+City Clerk:
+Start: 00:24:25.000
+End: 00:24:32.000
+Duration: 7.000 seconds
+Text: And we will have an elevator or a lift stairs to the proper exiting.
+--------------------------------------------------
+City Clerk:
+Start: 00:24:32.000
+End: 00:24:42.000
+Duration: 10.000 seconds
+Text: So those are all items that we're still going to be considering throughout this entire course of the re-evaluation on the project.
+--------------------------------------------------
+City Clerk:
+Start: 00:24:42.000
+End: 00:24:51.000
+Duration: 9.000 seconds
+Text: So Footprint alone isn't a biomean reduction in cost.
+--------------------------------------------------
+City Clerk:
+Start: 00:24:51.000
+End: 00:24:56.000
+Duration: 5.000 seconds
+Text: So there are balancing things that are going to have to be looked at.
+--------------------------------------------------
+City Manager:
+Start: 00:24:56.000
+End: 00:24:59.000
+Duration: 3.000 seconds
+Text: Thank you, Bruce.
+--------------------------------------------------
+City Manager:
+Start: 00:24:59.000
+End: 00:25:07.000
+Duration: 8.000 seconds
+Text: To consider also, we're trying to focus construction budget on the building itself and utilize community development block grants.
+--------------------------------------------------
+City Manager:
+Start: 00:25:07.000
+End: 00:25:14.000
+Duration: 7.000 seconds
+Text: As I said, with parking aspects, site work aspects, those things were included in that overall budget previously.
+--------------------------------------------------
+City Manager:
+Start: 00:25:14.000
+End: 00:25:17.000
+Duration: 3.000 seconds
+Text: So we're trying to separate those out a little bit.
+--------------------------------------------------
+City Manager:
+Start: 00:25:17.000
+End: 00:25:30.000
+Duration: 13.000 seconds
+Text: So when we talk 3, 3, 3, 5, we're trying to focus that just on the building itself and site, design, parking, trying to break that out until utilized community development block grant funds.
+--------------------------------------------------
+City Clerk:
+Start: 00:25:30.000
+End: 00:25:31.000
+Duration: 1.000 seconds
+Text: Got it.
+--------------------------------------------------
+City Manager:
+Start: 00:25:31.000
+End: 00:25:32.000
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+City Manager:
+Start: 00:25:32.000
+End: 00:25:34.000
+Duration: 2.000 seconds
+Text: Everything's tight. There's no doubt about it.
+--------------------------------------------------
+City Clerk:
+Start: 00:25:34.000
+End: 00:25:37.000
+Duration: 3.000 seconds
+Text: I would like to address that pick-up ball issue.
+--------------------------------------------------
+City Clerk:
+Start: 00:25:37.000
+End: 00:25:44.000
+Duration: 7.000 seconds
+Text: I think the new building, originally we were talking about four pick-up ball courts in the regional plan.
+--------------------------------------------------
+City Clerk:
+Start: 00:25:44.000
+End: 00:25:54.000
+Duration: 10.000 seconds
+Text: And if we took out one, which was put back to three, three in this new building, we still have two pick-up ball courts at the Douglas Center that we use currently now.
+--------------------------------------------------
+City Clerk:
+Start: 00:25:54.000
+End: 00:25:59.000
+Duration: 5.000 seconds
+Text: There's two pick-up ball courts on the basketball court outside.
+--------------------------------------------------
+City Clerk:
+Start: 00:25:59.000
+End: 00:26:03.000
+Duration: 4.000 seconds
+Text: And then we have two here in the city auditorium.
+--------------------------------------------------
+City Clerk:
+Start: 00:26:03.000
+End: 00:26:08.000
+Duration: 5.000 seconds
+Text: And I believe we're going to have some in the new facilities, any other two facilities coming on.
+--------------------------------------------------
+City Clerk:
+Start: 00:26:08.000
+End: 00:26:14.000
+Duration: 6.000 seconds
+Text: So there's going to be more than enough pick-up ball courts in this community as time goes on.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:26:14.000
+End: 00:26:29.000
+Duration: 15.000 seconds
+Text: Originally, when we talked about this, I thought I was hearing it was going to be a walking track.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:26:29.000
+End: 00:26:37.000
+Duration: 8.000 seconds
+Text: And then last night at the Parks and Rec meeting, I heard the two other gins, you're talking about a running track.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:26:37.000
+End: 00:26:43.000
+Duration: 6.000 seconds
+Text: And is there any difference at all? Do we just switch the terminology interchangeably?
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:26:43.000
+End: 00:26:48.000
+Duration: 5.000 seconds
+Text: Is that why you're also now using the term elevated track?
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:26:48.000
+End: 00:26:55.000
+Duration: 7.000 seconds
+Text: Or are the supports the same? It doesn't matter whether it shouldn't matter if it's walking or running.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:26:55.000
+End: 00:26:57.000
+Duration: 2.000 seconds
+Text: I just wanted to know if it's a different track.
+--------------------------------------------------
+City Clerk:
+Start: 00:26:57.000
+End: 00:27:00.000
+Duration: 3.000 seconds
+Text: Well, the elevated track is a track that's going to be on the second floor.
+--------------------------------------------------
+City Clerk:
+Start: 00:27:00.000
+End: 00:27:02.000
+Duration: 2.000 seconds
+Text: And that's primarily for safety reasons.
+--------------------------------------------------
+City Clerk:
+Start: 00:27:02.000
+End: 00:27:05.000
+Duration: 3.000 seconds
+Text: And you have other things going on at the same time.
+--------------------------------------------------
+City Clerk:
+Start: 00:27:05.000
+End: 00:27:09.000
+Duration: 4.000 seconds
+Text: Now, if you want to run on that track, that's probably all you would do.
+--------------------------------------------------
+City Clerk:
+Start: 00:27:09.000
+End: 00:27:12.000
+Duration: 3.000 seconds
+Text: You could designated a special time where you just ran on.
+--------------------------------------------------
+City Clerk:
+Start: 00:27:12.000
+End: 00:27:17.000
+Duration: 5.000 seconds
+Text: But this, Doug, the center, are just going to be probably a little smaller than the other ones.
+--------------------------------------------------
+City Clerk:
+Start: 00:27:17.000
+End: 00:27:20.000
+Duration: 3.000 seconds
+Text: So are there probably be primarily for walking?
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:27:20.000
+End: 00:27:22.000
+Duration: 2.000 seconds
+Text: Because you're just talking about three lanes.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:27:22.000
+End: 00:27:23.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:27:23.000
+End: 00:27:29.000
+Duration: 6.000 seconds
+Text: And I'm thinking about people who really are walking, being runners weaving in and out.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:27:29.000
+End: 00:27:35.000
+Duration: 6.000 seconds
+Text: So I don't, I just wonder about the difference between at the facilities.
+--------------------------------------------------
+City Manager:
+Start: 00:27:35.000
+End: 00:27:37.000
+Duration: 2.000 seconds
+Text: There really isn't a difference.
+--------------------------------------------------
+City Manager:
+Start: 00:27:37.000
+End: 00:27:40.000
+Duration: 3.000 seconds
+Text: You might use them differently at different times.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:27:40.000
+End: 00:27:41.000
+Duration: 1.000 seconds
+Text: Different times.
+--------------------------------------------------
+City Manager:
+Start: 00:27:41.000
+End: 00:27:45.000
+Duration: 4.000 seconds
+Text: But the running walking track at the middle school, similar to what we're talking about,
+--------------------------------------------------
+City Manager:
+Start: 00:27:45.000
+End: 00:27:48.000
+Duration: 3.000 seconds
+Text: running walking track would be at the Douglas Center.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:27:48.000
+End: 00:27:50.000
+Duration: 2.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:27:51.000
+End: 00:27:59.000
+Duration: 8.000 seconds
+Text: Just from my observation, we do have some experience with lifts that don't work.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:27:59.000
+End: 00:28:03.000
+Duration: 4.000 seconds
+Text: So I would like for us to go for the elevator.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:28:03.000
+End: 00:28:12.000
+Duration: 9.000 seconds
+Text: And I appreciate the attention you're giving this and the re-engaging the community too.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:28:12.000
+End: 00:28:18.000
+Duration: 6.000 seconds
+Text: Because we had a budget limit before that we were trying to operate under.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:28:18.000
+End: 00:28:21.000
+Duration: 3.000 seconds
+Text: Because that's what the amount of money we thought we would get.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:28:21.000
+End: 00:28:26.000
+Duration: 5.000 seconds
+Text: And now that's not that that ceiling isn't there anymore.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:28:26.000
+End: 00:28:37.000
+Duration: 11.000 seconds
+Text: So that re-engagement, getting people to think in less constrained terms is important.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:28:37.000
+End: 00:28:42.000
+Duration: 5.000 seconds
+Text: I'm interested in satisfying the need for pickleball.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:28:42.000
+End: 00:28:46.000
+Duration: 4.000 seconds
+Text: I don't know how many we need.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:28:47.000
+End: 00:28:51.000
+Duration: 4.000 seconds
+Text: As a community, we don't know what look up the growth we've had in the last three years.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:28:51.000
+End: 00:28:54.000
+Duration: 3.000 seconds
+Text: We don't know what the growth will be in the future.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:28:54.000
+End: 00:29:00.000
+Duration: 6.000 seconds
+Text: But I don't want to, you know, want the people in the community that have an interest like that
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:29:00.000
+End: 00:29:05.000
+Duration: 5.000 seconds
+Text: to be able to move forward and not be constrained.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:29:05.000
+End: 00:29:15.000
+Duration: 10.000 seconds
+Text: So I just, I'd like to move forward with the application for the community development block grant money.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:29:15.000
+End: 00:29:22.000
+Duration: 7.000 seconds
+Text: And I'd like, if we have to pick a size, is that what we're, you're talking about tonight,
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:29:22.000
+End: 00:29:24.000
+Duration: 2.000 seconds
+Text: a size of a building.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:29:24.000
+End: 00:29:28.000
+Duration: 4.000 seconds
+Text: So you're going to apply for this CDBG or what?
+--------------------------------------------------
+City Manager:
+Start: 00:29:28.000
+End: 00:29:34.000
+Duration: 6.000 seconds
+Text: Tonight we're simply making a recommendation that we do execute a contract amendment
+--------------------------------------------------
+City Manager:
+Start: 00:29:34.000
+End: 00:29:42.000
+Duration: 8.000 seconds
+Text: with Bruce McBillan to re-engage with the community and develop a percentage design of the facility.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:29:43.000
+End: 00:29:45.000
+Duration: 2.000 seconds
+Text: Okay. I understand that.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:29:45.000
+End: 00:29:49.000
+Duration: 4.000 seconds
+Text: I just wanted to be sure that we were all top.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:29:49.000
+End: 00:29:51.000
+Duration: 2.000 seconds
+Text: Same, same thing.
+--------------------------------------------------
+City Clerk:
+Start: 00:29:51.000
+End: 00:29:53.000
+Duration: 2.000 seconds
+Text: I'm going to a couple of questions.
+--------------------------------------------------
+City Clerk:
+Start: 00:29:53.000
+End: 00:29:55.000
+Duration: 2.000 seconds
+Text: The original plan.
+--------------------------------------------------
+City Clerk:
+Start: 00:29:55.000
+End: 00:30:00.000
+Duration: 5.000 seconds
+Text: Could you execute that?
+--------------------------------------------------
+City Manager:
+Start: 00:30:00.000
+End: 00:30:03.000
+Duration: 3.000 seconds
+Text: It certainly could be constructed.
+--------------------------------------------------
+City Manager:
+Start: 00:30:03.000
+End: 00:30:09.000
+Duration: 6.000 seconds
+Text: I think we'll, we've heard to date though, as we've met two public meetings
+--------------------------------------------------
+City Manager:
+Start: 00:30:09.000
+End: 00:30:15.000
+Duration: 6.000 seconds
+Text: and conducted some survey that multipurpose space is very important.
+--------------------------------------------------
+City Manager:
+Start: 00:30:15.000
+End: 00:30:18.000
+Duration: 3.000 seconds
+Text: That's something that we've not included in the current design.
+--------------------------------------------------
+City Manager:
+Start: 00:30:18.000
+End: 00:30:21.000
+Duration: 3.000 seconds
+Text: We weren't able to...
+--------------------------------------------------
+City Clerk:
+Start: 00:30:21.000
+End: 00:30:23.000
+Duration: 2.000 seconds
+Text: I understand the argument on that.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:23.000
+End: 00:30:27.000
+Duration: 4.000 seconds
+Text: But what we did was with the original thing, we went through all kinds of discussion
+--------------------------------------------------
+City Clerk:
+Start: 00:30:27.000
+End: 00:30:31.000
+Duration: 4.000 seconds
+Text: and it was about 40 people here that, you know, we're for the pickle ball thing
+--------------------------------------------------
+City Clerk:
+Start: 00:30:31.000
+End: 00:30:34.000
+Duration: 3.000 seconds
+Text: and didn't much care for the elevated track.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:34.000
+End: 00:30:39.000
+Duration: 5.000 seconds
+Text: And I guess we had the whole thing ready to go and then the funding fell through, right?
+--------------------------------------------------
+City Manager:
+Start: 00:30:39.000
+End: 00:30:41.000
+Duration: 2.000 seconds
+Text: That's correct.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:41.000
+End: 00:30:45.000
+Duration: 4.000 seconds
+Text: So, and what we've decided to do now is since the funding fell through
+--------------------------------------------------
+City Clerk:
+Start: 00:30:45.000
+End: 00:30:52.000
+Duration: 7.000 seconds
+Text: and it was constrained around what 3.3 million that we're going to increase the cost now, right?
+--------------------------------------------------
+City Manager:
+Start: 00:30:52.000
+End: 00:30:56.000
+Duration: 4.000 seconds
+Text: Potentially. I think we have to make that determination.
+--------------------------------------------------
+City Clerk:
+Start: 00:30:56.000
+End: 00:31:00.000
+Duration: 4.000 seconds
+Text: Okay. And what drove this to begin with was the fact that it wasn't going to be property tax.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:00.000
+End: 00:31:04.000
+Duration: 4.000 seconds
+Text: And I guess what troubles me is I didn't have a problem when it fell through, saying,
+--------------------------------------------------
+City Clerk:
+Start: 00:31:04.000
+End: 00:31:08.000
+Duration: 4.000 seconds
+Text: fine, we'll have to commit property tax to the original amount.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:08.000
+End: 00:31:12.000
+Duration: 4.000 seconds
+Text: But when you increase it, you know, all this is going on property tax.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:12.000
+End: 00:31:16.000
+Duration: 4.000 seconds
+Text: And you know, people are saying, oh, we're not constrained by the budget now because it's property tax.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:16.000
+End: 00:31:19.000
+Duration: 3.000 seconds
+Text: Well, we should still be constrained because it is property tax.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:19.000
+End: 00:31:21.000
+Duration: 2.000 seconds
+Text: And that's what troubles me.
+--------------------------------------------------
+City Clerk:
+Start: 00:31:21.000
+End: 00:31:25.000
+Duration: 4.000 seconds
+Text: I mean, it seems like we're going back to revisit all this and it's open-ended
+--------------------------------------------------
+City Clerk:
+Start: 00:31:25.000
+End: 00:31:29.000
+Duration: 4.000 seconds
+Text: and I'm not particularly enthused about it at this point.
+--------------------------------------------------
+City Manager:
+Start: 00:31:29.000
+End: 00:31:38.000
+Duration: 9.000 seconds
+Text: I think we've been trying to maintain a focus of the 3.3 to 3.5 budget for any potential construction.
+--------------------------------------------------
+City Manager:
+Start: 00:31:38.000
+End: 00:31:43.000
+Duration: 5.000 seconds
+Text: When we originally engaged the community, an elevated walk-in track was important to the community.
+--------------------------------------------------
+City Manager:
+Start: 00:31:43.000
+End: 00:31:46.000
+Duration: 3.000 seconds
+Text: It's always been something that the advisory board had been in favor of.
+--------------------------------------------------
+City Manager:
+Start: 00:31:46.000
+End: 00:31:53.000
+Duration: 7.000 seconds
+Text: It simply couldn't be afforded in that budget scenario that we were working with before.
+--------------------------------------------------
+City Manager:
+Start: 00:31:53.000
+End: 00:32:00.000
+Duration: 7.000 seconds
+Text: Again, we feel like if we separate out some site work, separate out some parking, separate out the design,
+--------------------------------------------------
+City Manager:
+Start: 00:32:00.000
+End: 00:32:07.000
+Duration: 7.000 seconds
+Text: not have to utilize Davis Bacon, we feel like potentially if we were able to shrink the building a little bit,
+--------------------------------------------------
+City Manager:
+Start: 00:32:07.000
+End: 00:32:10.000
+Duration: 3.000 seconds
+Text: we need to consider looking at that elevated walk-in track.
+--------------------------------------------------
+City Manager:
+Start: 00:32:10.000
+End: 00:32:15.000
+Duration: 5.000 seconds
+Text: That was something that was desired from our first public meetings that we start having.
+--------------------------------------------------
+City Manager:
+Start: 00:32:15.000
+End: 00:32:20.000
+Duration: 5.000 seconds
+Text: We simply couldn't afford it into that 3.2 that we were working with with HUD funding.
+--------------------------------------------------
+City Clerk:
+Start: 00:32:21.000
+End: 00:32:29.000
+Duration: 8.000 seconds
+Text: I also think one of the other things that's very important is those other two buildings that are online to be built.
+--------------------------------------------------
+City Clerk:
+Start: 00:32:29.000
+End: 00:32:35.000
+Duration: 6.000 seconds
+Text: They're going to have the elevated track and so this building should have everything that those other buildings have.
+--------------------------------------------------
+City Clerk:
+Start: 00:32:35.000
+End: 00:32:41.000
+Duration: 6.000 seconds
+Text: Even if it may be a little smaller, the building should have equal amenities.
+--------------------------------------------------
+City Clerk:
+Start: 00:32:43.000
+End: 00:32:46.000
+Duration: 3.000 seconds
+Text: But still those other buildings were funded through a sales tax.
+--------------------------------------------------
+City Clerk:
+Start: 00:32:47.000
+End: 00:32:52.000
+Duration: 5.000 seconds
+Text: I'm back to the funding source. I'm not concerned about the track or any of that.
+--------------------------------------------------
+City Clerk:
+Start: 00:32:52.000
+End: 00:32:57.000
+Duration: 5.000 seconds
+Text: It's just that what we're fixing to do here is put $3 more million on the property tax rules.
+--------------------------------------------------
+City Clerk:
+Start: 00:32:57.000
+End: 00:32:59.000
+Duration: 2.000 seconds
+Text: That's what we're fixing to do.
+--------------------------------------------------
+City Clerk:
+Start: 00:32:59.000
+End: 00:33:01.000
+Duration: 2.000 seconds
+Text: I'm not so sure that's such a good idea.
+--------------------------------------------------
+City Clerk:
+Start: 00:33:01.000
+End: 00:33:08.000
+Duration: 7.000 seconds
+Text: I 100% supported it when we could use the community block grant money because that wasn't going to affect the property tax.
+--------------------------------------------------
+City Clerk:
+Start: 00:33:09.000
+End: 00:33:11.000
+Duration: 2.000 seconds
+Text: And I understand you can still use some of it.
+--------------------------------------------------
+City Clerk:
+Start: 00:33:11.000
+End: 00:33:14.000
+Duration: 3.000 seconds
+Text: But that's where I'm at.
+--------------------------------------------------
+City Clerk:
+Start: 00:33:14.000
+End: 00:33:18.000
+Duration: 4.000 seconds
+Text: I'm interested in the numbers, not the way that the track is there, not as relevant.
+--------------------------------------------------
+City Clerk:
+Start: 00:33:18.000
+End: 00:33:20.000
+Duration: 2.000 seconds
+Text: I think the fact that this is...
+--------------------------------------------------
+City Manager:
+Start: 00:33:20.000
+End: 00:33:35.000
+Duration: 15.000 seconds
+Text: Since we're not using those community development block grant funds, since we're not using 250,000, 300,000 community development block grant funds for the next 20 years to fund the construction, those funds are going to be returned back into the community for the community to be able to use as they always have...
+--------------------------------------------------
+City Manager:
+Start: 00:33:35.000
+End: 00:33:38.000
+Duration: 3.000 seconds
+Text: Well, Eric's not here as they have in the past years.
+--------------------------------------------------
+City Manager:
+Start: 00:33:38.000
+End: 00:33:44.000
+Duration: 6.000 seconds
+Text: So there's money that always is going to be returned back into the community with those funds.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:33:44.000
+End: 00:33:51.000
+Duration: 7.000 seconds
+Text: Commissioner, we do owe you a financial analysis and a breakdown.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:33:51.000
+End: 00:33:59.000
+Duration: 8.000 seconds
+Text: This evening we were trying to get back in to design, factor in the Davis-Bacon wages coming out of that estimate.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:34:00.000
+End: 00:34:08.000
+Duration: 8.000 seconds
+Text: Our scope with Bruce clearly says $3.5 million, not to exceed that, but to come within a $3.5 million budget.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:34:08.000
+End: 00:34:09.000
+Duration: 1.000 seconds
+Text: But you're right, we do owe you.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:34:09.000
+End: 00:34:14.000
+Duration: 5.000 seconds
+Text: There's some strategies we've talked about with you all that include sales tax.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:34:14.000
+End: 00:34:19.000
+Duration: 5.000 seconds
+Text: There's some strategies we've talked about internally that include special parking rack funds.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:34:19.000
+End: 00:34:27.000
+Duration: 8.000 seconds
+Text: We'll do our best to show you if those don't materialize, then what type of middle levy we'll be looking at.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:34:27.000
+End: 00:34:32.000
+Duration: 5.000 seconds
+Text: In 2023-2024 when those tennotes come off and we go to permanent funding.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:34:32.000
+End: 00:34:41.000
+Duration: 9.000 seconds
+Text: But that is part of a future discussion and especially as we get that budget refined in this product refined, we'll bring those details forward.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:34:41.000
+End: 00:34:56.000
+Duration: 15.000 seconds
+Text: We got discussions coming into February talking about how to handle quite a large amount of debt that we're going to be embracing as we pursue the levy, as we pursue the runway, as we pursue North Campus corridor.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:34:56.000
+End: 00:35:00.000
+Duration: 4.000 seconds
+Text: Aggie though, in this joint maintenance facility.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:35:00.000
+End: 00:35:07.000
+Duration: 7.000 seconds
+Text: Synerex in that list, and it's a list of a lot of projects and a lot of impact financially.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:35:07.000
+End: 00:35:17.000
+Duration: 10.000 seconds
+Text: We have to have a strategy to get there, but it is one of those components that we keep talking about from a sales perspective and going back to the community and asking that question.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:35:17.000
+End: 00:35:20.000
+Duration: 3.000 seconds
+Text: But more detailed breakdown for coming.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:35:27.000
+End: 00:35:35.000
+Duration: 8.000 seconds
+Text: I feel like we as a commission made a commitment for three recreation centers.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:35:35.000
+End: 00:35:42.000
+Duration: 7.000 seconds
+Text: We had a strategy to fund all three of them and one has fallen through.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:35:42.000
+End: 00:35:50.000
+Duration: 8.000 seconds
+Text: We created this situation by only putting two of them in the sales tax ballot initiative.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:35:51.000
+End: 00:35:59.000
+Duration: 8.000 seconds
+Text: We could have put three, but we thought we had another avenue or another way to fund it.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:35:59.000
+End: 00:36:14.000
+Duration: 15.000 seconds
+Text: I look at the North Campus corridor as an example of a project that we just have faith that the staff is going to find a way.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:36:15.000
+End: 00:36:18.000
+Duration: 3.000 seconds
+Text: I want to proceed with the Douglas Center.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:36:18.000
+End: 00:36:26.000
+Duration: 8.000 seconds
+Text: I want to deliver on the commitment that the commission made to the south side of town and deliver a recreation center there.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:36:26.000
+End: 00:36:35.000
+Duration: 9.000 seconds
+Text: I don't want to do property taxes either when.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:36:35.000
+End: 00:36:54.000
+Duration: 19.000 seconds
+Text: I think if we can pull it off on the North Campus corridor and some of these other things that we do, I think we can find a way to at least partially fund the and come up with a strategy to build this activity center.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:36:54.000
+End: 00:37:01.000
+Duration: 7.000 seconds
+Text: I know we said just three years, but I know this has been in the back burner for since I've been on the city commission.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:37:01.000
+End: 00:37:06.000
+Duration: 5.000 seconds
+Text: There's always been conversations about things are going to happen to the Douglas Center and we're going to change it.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:37:06.000
+End: 00:37:07.000
+Duration: 1.000 seconds
+Text: We're going to renovate it.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:37:07.000
+End: 00:37:09.000
+Duration: 2.000 seconds
+Text: It's been there much longer than three years.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:37:09.000
+End: 00:37:12.000
+Duration: 3.000 seconds
+Text: It just didn't have a true champion behind it.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:37:12.000
+End: 00:37:20.000
+Duration: 8.000 seconds
+Text: You don't have a Chamber of Commerce and Kansas State University and school districts like you did for the other projects.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:37:21.000
+End: 00:37:24.000
+Duration: 3.000 seconds
+Text: This is truly a neighborhood champion project.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:37:24.000
+End: 00:37:27.000
+Duration: 3.000 seconds
+Text: I think there's an equity issue.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:37:27.000
+End: 00:37:40.000
+Duration: 13.000 seconds
+Text: If we look at the two middle schools and their rec centers that are going to be developed, they had people advocating for them because they are constituents in those neighborhoods that would utilize them.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:37:40.000
+End: 00:37:43.000
+Duration: 3.000 seconds
+Text: But they also have different types of neighborhoods.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:37:43.000
+End: 00:37:47.000
+Duration: 4.000 seconds
+Text: And we all know that in the Douglas Center, we took the pool away.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:37:47.000
+End: 00:37:50.000
+Duration: 3.000 seconds
+Text: We thought, oh, we'll just put it at City Pool. They don't need a pool anymore.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:37:50.000
+End: 00:38:00.000
+Duration: 10.000 seconds
+Text: And we keep doing things to the Douglas Center area and that neighborhood that are not really pro neighborhood.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:38:00.000
+End: 00:38:12.000
+Duration: 12.000 seconds
+Text: And we need to think about how to keep that community intact, keep the, the, whether it's the senior citizens or the children all coming back to that one spot.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:38:12.000
+End: 00:38:17.000
+Duration: 5.000 seconds
+Text: That's where they meet. That's where they have their functions, events.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:38:17.000
+End: 00:38:20.000
+Duration: 3.000 seconds
+Text: That's where all of us go. My children met. They're many for many years.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:38:20.000
+End: 00:38:22.000
+Duration: 2.000 seconds
+Text: For many several activities.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:38:22.000
+End: 00:38:27.000
+Duration: 5.000 seconds
+Text: We were confined to the CDBG budget because we thought that would take care of it.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:38:27.000
+End: 00:38:31.000
+Duration: 4.000 seconds
+Text: And that's why I think at least myself, I'm not going to speak for other commissioners.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:38:31.000
+End: 00:38:36.000
+Duration: 5.000 seconds
+Text: I was an advocate for the other proposal. I think it was 4.5 million or something of that sort.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:38:36.000
+End: 00:38:47.000
+Duration: 11.000 seconds
+Text: But because CDBG grant had about 3.5 million or 3.3 million, I reduced it just to be just so we don't have to go to another funding source.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:38:47.000
+End: 00:38:52.000
+Duration: 5.000 seconds
+Text: But there was a little boy saying, you know, we should really go for this other piece. That's what they really should have.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:38:52.000
+End: 00:38:55.000
+Duration: 3.000 seconds
+Text: And I think this kind of opens that window to it.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:38:55.000
+End: 00:39:03.000
+Duration: 8.000 seconds
+Text: I think we're all cognizant about expenditures and where all of the revenue sources might be and what kind of funding issues we might have.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:39:03.000
+End: 00:39:07.000
+Duration: 4.000 seconds
+Text: But this is one of the few spots where it's truly a neighborhood center.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:39:07.000
+End: 00:39:10.000
+Duration: 3.000 seconds
+Text: It's not just within the schools, but it is truly for the neighborhood.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:39:10.000
+End: 00:39:15.000
+Duration: 5.000 seconds
+Text: And I think it needs a champion.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:39:15.000
+End: 00:39:19.000
+Duration: 4.000 seconds
+Text: And I think David Baker is a strong champion for the neighborhood center over there.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:39:19.000
+End: 00:39:22.000
+Duration: 3.000 seconds
+Text: And I think that's what we need to do is move forward with it.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:39:22.000
+End: 00:39:28.000
+Duration: 6.000 seconds
+Text: Look at what kind of proposals we do get and make sure it's used appropriately.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:39:28.000
+End: 00:39:31.000
+Duration: 3.000 seconds
+Text: And look at how we can fund it.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:39:31.000
+End: 00:39:34.000
+Duration: 3.000 seconds
+Text: But there's strong, contingent of people that use that facility.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:39:34.000
+End: 00:39:41.000
+Duration: 7.000 seconds
+Text: And even though Pickleball is not there as much, those were the people that came and spoke to us in the first few discussions that we had.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:39:41.000
+End: 00:39:44.000
+Duration: 3.000 seconds
+Text: We might have a Pickleball tournament. I don't know.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:39:44.000
+End: 00:39:47.000
+Duration: 3.000 seconds
+Text: That's what's going on nationally these days.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:39:47.000
+End: 00:39:49.000
+Duration: 2.000 seconds
+Text: But this opens it up for where it needs to be.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:39:49.000
+End: 00:39:56.000
+Duration: 7.000 seconds
+Text: So I'm willing to look at proposals that Bruce McMillan is going to bring forth.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:39:56.000
+End: 00:40:05.000
+Duration: 9.000 seconds
+Text: But I think we need to make this the rec center that it should be for the Douglas Community Area.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:40:05.000
+End: 00:40:09.000
+Duration: 4.000 seconds
+Text: Maybe Jason, you'll be able to answer this.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:40:09.000
+End: 00:40:13.000
+Duration: 4.000 seconds
+Text: But if not, he may be, he and David may be up on it.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:40:13.000
+End: 00:40:25.000
+Duration: 12.000 seconds
+Text: But when we started understanding what the impact of the HUD withdrawal or the inability to do this contract under HUD was,
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:40:25.000
+End: 00:40:31.000
+Duration: 6.000 seconds
+Text: we started putting together kind of the peace parts that could be done under HUD and the ones that could not.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:40:31.000
+End: 00:40:44.000
+Duration: 13.000 seconds
+Text: My understanding was one thing that we could do is we would have the design being done under HUD funds.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:40:44.000
+End: 00:40:56.000
+Duration: 12.000 seconds
+Text: That then in turn would mean we had to do a design bid build instead of a design build, which arguably gives you a little less control over the bid.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:40:56.000
+End: 00:41:00.000
+Duration: 4.000 seconds
+Text: When the bid comes in, that's when we'll know kind of how much it costs.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:41:00.000
+End: 00:41:09.000
+Duration: 9.000 seconds
+Text: Although I'm sure with his experience, Bruce will be able to tell us with some degree of what the expected amount would be.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:41:09.000
+End: 00:41:12.000
+Duration: 3.000 seconds
+Text: Is that basically I'm tracking Jason?
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:41:12.000
+End: 00:41:13.000
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:41:13.000
+End: 00:41:18.000
+Duration: 5.000 seconds
+Text: So, I mean that's something we need to keep in mind.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:41:18.000
+End: 00:41:23.000
+Duration: 5.000 seconds
+Text: That is the design fees that we're considering as 56,000 is under HUD.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:41:23.000
+End: 00:41:35.000
+Duration: 12.000 seconds
+Text: So we're not encountering the city, anything more there except that these would be HUD funds that can't be moved somewhere else right now.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:41:35.000
+End: 00:41:42.000
+Duration: 7.000 seconds
+Text: The other thing has been talked about before and that's one of equity.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:41:42.000
+End: 00:41:52.000
+Duration: 10.000 seconds
+Text: And I think this is the time to make sure that these centers are all to some degree equitable.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:41:52.000
+End: 00:42:00.000
+Duration: 8.000 seconds
+Text: And I'm not quite sure that I understand yet the kinds of things that we want in here.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:00.000
+End: 00:42:05.000
+Duration: 5.000 seconds
+Text: But you know, we've had several meetings. We've had the survey.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:05.000
+End: 00:42:11.000
+Duration: 6.000 seconds
+Text: And so I'm a little unclear why we don't have a little more clarity on that.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:11.000
+End: 00:42:14.000
+Duration: 3.000 seconds
+Text: In other words, we know we have an entryway.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:14.000
+End: 00:42:17.000
+Duration: 3.000 seconds
+Text: We're probably going to have an office. We have open space.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:17.000
+End: 00:42:22.000
+Duration: 5.000 seconds
+Text: We have now a proposal for an elevator track.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:22.000
+End: 00:42:24.000
+Duration: 2.000 seconds
+Text: We have multi-purpose room.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:24.000
+End: 00:42:31.000
+Duration: 7.000 seconds
+Text: I didn't know we've got lettrees and maybe a place for changing clothes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:31.000
+End: 00:42:34.000
+Duration: 3.000 seconds
+Text: So it's big enough.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:34.000
+End: 00:42:38.000
+Duration: 4.000 seconds
+Text: We didn't talk about lockers, but those have to be considered.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:38.000
+End: 00:42:47.000
+Duration: 9.000 seconds
+Text: And then kind of the fitness side of this, which you currently have in the southern part of the existing Douglas.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:47.000
+End: 00:42:54.000
+Duration: 7.000 seconds
+Text: All these things that help people kind of stay in shape, particularly when we're in cold weather.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:42:54.000
+End: 00:43:02.000
+Duration: 8.000 seconds
+Text: So do we have kind of those things identified so that we could plot those on the floor?
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:43:02.000
+End: 00:43:05.000
+Duration: 3.000 seconds
+Text: So we know how kind of the space that we need.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:43:05.000
+End: 00:43:08.000
+Duration: 3.000 seconds
+Text: I mean, is that pretty well clarified to you yet?
+--------------------------------------------------
+City Manager:
+Start: 00:43:08.000
+End: 00:43:13.000
+Duration: 5.000 seconds
+Text: I think that it is clarified, staff wise.
+--------------------------------------------------
+City Manager:
+Start: 00:43:13.000
+End: 00:43:19.000
+Duration: 6.000 seconds
+Text: We've discussed multi-purpose room with Bruce quite a bit.
+--------------------------------------------------
+City Manager:
+Start: 00:43:19.000
+End: 00:43:29.000
+Duration: 10.000 seconds
+Text: Internally, we've reviewed more than 10 different designs of trying to work amenities in and hope that they were affordable in some way.
+--------------------------------------------------
+City Manager:
+Start: 00:43:29.000
+End: 00:43:36.000
+Duration: 7.000 seconds
+Text: We've always known that multi-purpose slash exercise space has always been important for the community.
+--------------------------------------------------
+City Manager:
+Start: 00:43:36.000
+End: 00:43:45.000
+Duration: 9.000 seconds
+Text: We've heard that repeatedly long ago, months ago, years ago, when we first started this process and we first started engaging the community.
+--------------------------------------------------
+City Manager:
+Start: 00:43:45.000
+End: 00:43:55.000
+Duration: 10.000 seconds
+Text: That is what was driving us on those designs previously, but we could not incorporate all those amenities into that budget.
+--------------------------------------------------
+City Manager:
+Start: 00:43:55.000
+End: 00:44:06.000
+Duration: 11.000 seconds
+Text: And so we had to back some things out and backing out multi-purpose space, backing out elevated walking track to the design that you've seen most recent.
+--------------------------------------------------
+City Manager:
+Start: 00:44:06.000
+End: 00:44:10.000
+Duration: 4.000 seconds
+Text: So we have a reasonable feel.
+--------------------------------------------------
+City Manager:
+Start: 00:44:10.000
+End: 00:44:13.000
+Duration: 3.000 seconds
+Text: We want to re-engage with the community and confirm that.
+--------------------------------------------------
+City Manager:
+Start: 00:44:13.000
+End: 00:44:19.000
+Duration: 6.000 seconds
+Text: Multi-purpose exercise, those can be interchangeable.
+--------------------------------------------------
+City Manager:
+Start: 00:44:19.000
+End: 00:44:25.000
+Duration: 6.000 seconds
+Text: Multi-purpose space, exercise space can be pretty much a shared space.
+--------------------------------------------------
+City Manager:
+Start: 00:44:25.000
+End: 00:44:30.000
+Duration: 5.000 seconds
+Text: It's just how it's created, how it's programmed.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:44:30.000
+End: 00:44:37.000
+Duration: 7.000 seconds
+Text: Well, I know we're going to make Bruce's job really hard because we're going to probably have to have a few...
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:44:37.000
+End: 00:44:39.000
+Duration: 2.000 seconds
+Text: I think you'll flip this in.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:44:39.000
+End: 00:44:44.000
+Duration: 5.000 seconds
+Text: You can't have this and so on in order to stay within a reasonable budget.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:44:44.000
+End: 00:44:51.000
+Duration: 7.000 seconds
+Text: I think what you're hearing is we want to, to the degree we can, make these things equitable.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:44:51.000
+End: 00:44:58.000
+Duration: 7.000 seconds
+Text: So that if you go to Douglas Center, if you go to either one of the middle schools, it's relatively the same.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:44:58.000
+End: 00:45:02.000
+Duration: 4.000 seconds
+Text: So we don't kind of have a junior one down here.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:45:02.000
+End: 00:45:07.000
+Duration: 5.000 seconds
+Text: It's predicated on how many people use it, but still, I mean, equity is important.
+--------------------------------------------------
+City Manager:
+Start: 00:45:07.000
+End: 00:45:10.000
+Duration: 3.000 seconds
+Text: I think we have to...
+--------------------------------------------------
+City Manager:
+Start: 00:45:10.000
+End: 00:45:15.000
+Duration: 5.000 seconds
+Text: We have to make sure we understand the prioritization of those spaces as well.
+--------------------------------------------------
+City Manager:
+Start: 00:45:15.000
+End: 00:45:20.000
+Duration: 5.000 seconds
+Text: And that's something that exercise will do with Bruce and the community as well.
+--------------------------------------------------
+City Manager:
+Start: 00:45:20.000
+End: 00:45:23.000
+Duration: 3.000 seconds
+Text: We simply can't put in everything that everybody would like to see.
+--------------------------------------------------
+City Manager:
+Start: 00:45:23.000
+End: 00:45:26.000
+Duration: 3.000 seconds
+Text: Something comes in, something comes out.
+--------------------------------------------------
+City Manager:
+Start: 00:45:26.000
+End: 00:45:36.000
+Duration: 10.000 seconds
+Text: We're going to end up seeing a design with the highest priorities that we feel like that we can fit into that three, five area budget.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:45:36.000
+End: 00:45:43.000
+Duration: 7.000 seconds
+Text: And if something is excluded, we ought to know how much it costs to put it in.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:45:43.000
+End: 00:45:49.000
+Duration: 6.000 seconds
+Text: And that's the kind of decision we have to make.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:45:49.000
+End: 00:45:52.000
+Duration: 3.000 seconds
+Text: Further discussion?
+--------------------------------------------------
+City Clerk:
+Start: 00:45:52.000
+End: 00:46:01.000
+Duration: 9.000 seconds
+Text: The only other thing, I understand we're committing community block grant money, so I can go with that tonight, because that's not property tax.
+--------------------------------------------------
+City Clerk:
+Start: 00:46:01.000
+End: 00:46:07.000
+Duration: 6.000 seconds
+Text: I don't know about the final project. I'm not going to commit to that until I see the final numbers as Jason said.
+--------------------------------------------------
+City Clerk:
+Start: 00:46:07.000
+End: 00:46:10.000
+Duration: 3.000 seconds
+Text: And the other thing, though, is we're talking about a multipurpose room.
+--------------------------------------------------
+City Clerk:
+Start: 00:46:10.000
+End: 00:46:16.000
+Duration: 6.000 seconds
+Text: The difference between these centers, though, is that the Douglas Center already has a couple of buildings.
+--------------------------------------------------
+City Clerk:
+Start: 00:46:16.000
+End: 00:46:23.000
+Duration: 7.000 seconds
+Text: So if you can use your multipurpose room and one of the existing buildings, then you don't need to add it to the new one.
+--------------------------------------------------
+City Clerk:
+Start: 00:46:23.000
+End: 00:46:30.000
+Duration: 7.000 seconds
+Text: Because it's going to be more at the Douglas Center than at the two middle schools when you look at total space.
+--------------------------------------------------
+City Clerk:
+Start: 00:46:30.000
+End: 00:46:40.000
+Duration: 10.000 seconds
+Text: I think all that's got to be considered. It can't be a one for one that we're going to build a new building at the Douglas Center that's going to match the ones at the middle school, because you already have something at the Douglas Center.
+--------------------------------------------------
+City Clerk:
+Start: 00:46:40.000
+End: 00:46:43.000
+Duration: 3.000 seconds
+Text: We have zero at the middle schools right now.
+--------------------------------------------------
+City Clerk:
+Start: 00:46:43.000
+End: 00:46:49.000
+Duration: 6.000 seconds
+Text: So I think you got to look at the total, you know, what you have when you're done.
+--------------------------------------------------
+City Manager:
+Start: 00:46:49.000
+End: 00:46:55.000
+Duration: 6.000 seconds
+Text: We're attempting to do that. I mean, that's why kitchen wise, there is a kitchen already in the complex.
+--------------------------------------------------
+City Manager:
+Start: 00:46:55.000
+End: 00:47:02.000
+Duration: 7.000 seconds
+Text: So could we use future community development block grant funds to enhance that existing kitchen that is in the annex now?
+--------------------------------------------------
+City Manager:
+Start: 00:47:02.000
+End: 00:47:05.000
+Duration: 3.000 seconds
+Text: Yes, we are considering that. We want to make sure that we do not duplicate.
+--------------------------------------------------
+City Manager:
+Start: 00:47:05.000
+End: 00:47:12.000
+Duration: 7.000 seconds
+Text: But it is important that we do have facility that right now at the Douglas Center, you can do basically one thing in there at a time.
+--------------------------------------------------
+City Manager:
+Start: 00:47:12.000
+End: 00:47:14.000
+Duration: 2.000 seconds
+Text: Because that's what the space is.
+--------------------------------------------------
+City Manager:
+Start: 00:47:14.000
+End: 00:47:21.000
+Duration: 7.000 seconds
+Text: Creating a facility that you can have multiple activities at one time is what we're really trying to work towards.
+--------------------------------------------------
+City Manager:
+Start: 00:47:21.000
+End: 00:47:25.000
+Duration: 4.000 seconds
+Text: We're not going to stop using any of the facilities that we have now.
+--------------------------------------------------
+City Manager:
+Start: 00:47:25.000
+End: 00:47:31.000
+Duration: 6.000 seconds
+Text: You know, we're a little bit compressed with our ability to be able to offer because you know, you're there.
+--------------------------------------------------
+City Manager:
+Start: 00:47:31.000
+End: 00:47:38.000
+Duration: 7.000 seconds
+Text: You've seen that. Whenever we have an exercise class, nothing else goes on in there because you can't.
+--------------------------------------------------
+City Manager:
+Start: 00:47:38.000
+End: 00:47:45.000
+Duration: 7.000 seconds
+Text: So trying to create something, multi-purpose space, multi-purpose facilities so that we can have multiple activities.
+--------------------------------------------------
+City Manager:
+Start: 00:47:45.000
+End: 00:47:50.000
+Duration: 5.000 seconds
+Text: We can bring more of the community in at one time to use the facility.
+--------------------------------------------------
+City Manager:
+Start: 00:47:50.000
+End: 00:47:54.000
+Duration: 4.000 seconds
+Text: That's our overall theme with all these facilities.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:47:54.000
+End: 00:47:56.000
+Duration: 2.000 seconds
+Text: I'm sorry, Dave.
+--------------------------------------------------
+City Clerk:
+Start: 00:47:56.000
+End: 00:47:58.000
+Duration: 2.000 seconds
+Text: I was just doing that to what Eddie said.
+--------------------------------------------------
+City Clerk:
+Start: 00:47:58.000
+End: 00:48:00.000
+Duration: 2.000 seconds
+Text: And that time is prime time.
+--------------------------------------------------
+City Clerk:
+Start: 00:48:00.000
+End: 00:48:02.000
+Duration: 2.000 seconds
+Text: Prime time is after work.
+--------------------------------------------------
+City Clerk:
+Start: 00:48:02.000
+End: 00:48:04.000
+Duration: 2.000 seconds
+Text: If when everybody wants to be there.
+--------------------------------------------------
+City Clerk:
+Start: 00:48:04.000
+End: 00:48:09.000
+Duration: 5.000 seconds
+Text: And so that's very important that you can do more than one thing at one time.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:48:10.000
+End: 00:48:13.000
+Duration: 3.000 seconds
+Text: The only thing I wanted to add was similar.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:48:13.000
+End: 00:48:15.000
+Duration: 2.000 seconds
+Text: I think it's important.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:48:15.000
+End: 00:48:22.000
+Duration: 7.000 seconds
+Text: We're talking a lot about equity in the building, but this also has to do with equity of how we treat neighborhoods and communities in Manhattan.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:48:22.000
+End: 00:48:32.000
+Duration: 10.000 seconds
+Text: There are groups deciding right now, actively deciding and guiding the process of what's going to be in the two middle school buildings.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:48:32.000
+End: 00:48:38.000
+Duration: 6.000 seconds
+Text: And largely, the first time we went through this process, the commission kind of decided.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:48:38.000
+End: 00:48:40.000
+Duration: 2.000 seconds
+Text: We're not going to do the elevated track.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:48:40.000
+End: 00:48:41.000
+Duration: 1.000 seconds
+Text: We're going to do the lower track.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:48:41.000
+End: 00:48:44.000
+Duration: 3.000 seconds
+Text: So I'm glad we got to re-engage in this process.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:48:44.000
+End: 00:48:46.000
+Duration: 2.000 seconds
+Text: And so I'm okay with the budget.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:48:46.000
+End: 00:48:48.000
+Duration: 2.000 seconds
+Text: I mean, obviously reasonable.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:48:48.000
+End: 00:48:54.000
+Duration: 6.000 seconds
+Text: But if it goes over our original budget, I think there's opportunities that we can export to potentially find that money elsewhere.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:48:54.000
+End: 00:48:57.000
+Duration: 3.000 seconds
+Text: I've even heard some maybe potential fundraising opportunities.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:48:57.000
+End: 00:49:03.000
+Duration: 6.000 seconds
+Text: So I would rather treat this process similar to how we're treating the other two processes.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:49:03.000
+End: 00:49:09.000
+Duration: 6.000 seconds
+Text: And making sure that the community feels like their feedback was heard, because I'm not sure that that's how they felt the first time.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:49:09.000
+End: 00:49:12.000
+Duration: 3.000 seconds
+Text: And so it's not just an equity issue in the building.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:49:12.000
+End: 00:49:15.000
+Duration: 3.000 seconds
+Text: It's an equity issue in how we treat the communities as well.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:49:15.000
+End: 00:49:19.000
+Duration: 4.000 seconds
+Text: And I want to make sure that we do better this time than we did last time.
+--------------------------------------------------
+City Manager:
+Start: 00:49:19.000
+End: 00:49:22.000
+Duration: 3.000 seconds
+Text: I'll just point out, we didn't provide the data to you tonight.
+--------------------------------------------------
+City Manager:
+Start: 00:49:22.000
+End: 00:49:24.000
+Duration: 2.000 seconds
+Text: We can.
+--------------------------------------------------
+City Manager:
+Start: 00:49:24.000
+End: 00:49:26.000
+Duration: 2.000 seconds
+Text: We conducted an online survey.
+--------------------------------------------------
+City Manager:
+Start: 00:49:26.000
+End: 00:49:29.000
+Duration: 3.000 seconds
+Text: Mr. White Thompson did a great job.
+--------------------------------------------------
+City Manager:
+Start: 00:49:29.000
+End: 00:49:31.000
+Duration: 2.000 seconds
+Text: Engages in community very well.
+--------------------------------------------------
+City Manager:
+Start: 00:49:31.000
+End: 00:49:33.000
+Duration: 2.000 seconds
+Text: 300 responses.
+--------------------------------------------------
+City Manager:
+Start: 00:49:33.000
+End: 00:49:41.000
+Duration: 8.000 seconds
+Text: Interestingly, one of the highest responding neighborhoods was the Northview neighborhood, with over 70 responses from that neighborhood.
+--------------------------------------------------
+City Manager:
+Start: 00:49:41.000
+End: 00:49:44.000
+Duration: 3.000 seconds
+Text: We really got good responses from all over the community.
+--------------------------------------------------
+City Manager:
+Start: 00:49:44.000
+End: 00:49:49.000
+Duration: 5.000 seconds
+Text: It was not just responses from Southeast part of the community.
+--------------------------------------------------
+City Manager:
+Start: 00:49:49.000
+End: 00:49:51.000
+Duration: 2.000 seconds
+Text: So very interesting.
+--------------------------------------------------
+City Manager:
+Start: 00:49:51.000
+End: 00:49:53.000
+Duration: 2.000 seconds
+Text: And we want to continue those types of processes.
+--------------------------------------------------
+City Manager:
+Start: 00:49:53.000
+End: 00:49:57.000
+Duration: 4.000 seconds
+Text: Hosting public meetings sound great.
+--------------------------------------------------
+City Manager:
+Start: 00:49:57.000
+End: 00:50:03.000
+Duration: 6.000 seconds
+Text: But when you get 10-15 people at it and you're making substantial decisions like we're talking about, I would agree.
+--------------------------------------------------
+City Manager:
+Start: 00:50:03.000
+End: 00:50:06.000
+Duration: 3.000 seconds
+Text: Are we really representing the community with our decision making?
+--------------------------------------------------
+City Manager:
+Start: 00:50:06.000
+End: 00:50:12.000
+Duration: 6.000 seconds
+Text: So, why it's done a great job engaging the community and pulling feedback from the entire community.
+--------------------------------------------------
+City Manager:
+Start: 00:50:12.000
+End: 00:50:17.000
+Duration: 5.000 seconds
+Text: We're going to work with Bruce with that information and make sure that community is represented.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:50:17.000
+End: 00:50:20.000
+Duration: 3.000 seconds
+Text: I, yeah, I appreciate the process so far.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:50:20.000
+End: 00:50:26.000
+Duration: 6.000 seconds
+Text: I'm excited to see something come back that represents the amenities wanted by the groups.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:50:26.000
+End: 00:50:29.000
+Duration: 3.000 seconds
+Text: And then we can have a discussion up here about that.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:50:29.000
+End: 00:50:35.000
+Duration: 6.000 seconds
+Text: So, yeah, I'm encouraged by this.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:50:35.000
+End: 00:50:36.000
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:50:36.000
+End: 00:50:39.000
+Duration: 3.000 seconds
+Text: We'll figure out a way to get it done and hold our commitment.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:50:39.000
+End: 00:50:44.000
+Duration: 5.000 seconds
+Text: Just for the record, with regard to your need for support for your recommendation.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:50:44.000
+End: 00:50:51.000
+Duration: 7.000 seconds
+Text: I do support a contract amendment for a percentage of the design and a solid estimate of the construction cost.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:50:51.000
+End: 00:51:01.000
+Duration: 10.000 seconds
+Text: And having in 30 to 60 days engaging the, re-engaging the community I think is a really important part.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:51:01.000
+End: 00:51:04.000
+Duration: 3.000 seconds
+Text: And developing an alternative concept.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:51:04.000
+End: 00:51:06.000
+Duration: 2.000 seconds
+Text: So then you'll return again.
+--------------------------------------------------
+City Clerk:
+Start: 00:51:06.000
+End: 00:51:07.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:51:07.000
+End: 00:51:09.000
+Duration: 2.000 seconds
+Text: Just thank you.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:51:09.000
+End: 00:51:15.000
+Duration: 6.000 seconds
+Text: Without disclosing too much, I happen to know that David went to school there.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:51:15.000
+End: 00:51:22.000
+Duration: 7.000 seconds
+Text: So anybody is trying to do the math in their head to find out how that, what that building is.
+--------------------------------------------------
+City Clerk:
+Start: 00:51:22.000
+End: 00:51:24.000
+Duration: 2.000 seconds
+Text: You're correct.
+--------------------------------------------------
+City Manager:
+Start: 00:51:24.000
+End: 00:51:27.000
+Duration: 3.000 seconds
+Text: You're accurate when you said David Baker is a true champion.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:51:27.000
+End: 00:51:28.000
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+City Manager:
+Start: 00:51:28.000
+End: 00:51:30.000
+Duration: 2.000 seconds
+Text: It's family has a lot of history.
+--------------------------------------------------
+City Manager:
+Start: 00:51:30.000
+End: 00:51:32.000
+Duration: 2.000 seconds
+Text: Get that facility.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:51:32.000
+End: 00:51:37.000
+Duration: 5.000 seconds
+Text: All right. Well, let's see if there's any public comment on this issue if you would.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:51:37.000
+End: 00:51:41.000
+Duration: 4.000 seconds
+Text: So if you have a comment on this issue, we'd love to hear from you.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:51:41.000
+End: 00:51:48.000
+Duration: 7.000 seconds
+Text: So please come forward and state your name, sign in.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:51:48.000
+End: 00:51:52.000
+Duration: 4.000 seconds
+Text: I know many of you have had a chance to comment before.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:51:52.000
+End: 00:51:56.000
+Duration: 4.000 seconds
+Text: So, okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:51:56.000
+End: 00:52:03.000
+Duration: 7.000 seconds
+Text: Seeing no one will come back to any further commission comment or the entertainment of emotion.
+--------------------------------------------------
+City Clerk:
+Start: 00:52:03.000
+End: 00:52:13.000
+Duration: 10.000 seconds
+Text: I'll go ahead and make the make the motion that we authorized the city administration to finalize and mayor and city clerk to execute contract amendment number two.
+--------------------------------------------------
+City Clerk:
+Start: 00:52:13.000
+End: 00:52:27.000
+Duration: 14.000 seconds
+Text: The amount of $56,545 with Bruce McMillan, A.A.I. Architects, PA, Manhattan, Kansas for the redesign of the Southeast neighborhood recreation center at Douglas Park.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:52:27.000
+End: 00:52:30.000
+Duration: 3.000 seconds
+Text: Second.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:52:30.000
+End: 00:52:33.000
+Duration: 3.000 seconds
+Text: Call the roll please.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:52:33.000
+End: 00:52:35.000
+Duration: 2.000 seconds
+Text: Commissioner Reddy.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:52:35.000
+End: 00:52:36.000
+Duration: 1.000 seconds
+Text: Commissioner Butler.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:52:36.000
+End: 00:52:37.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:52:37.000
+End: 00:52:38.000
+Duration: 1.000 seconds
+Text: Commissioner McKee.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:52:38.000
+End: 00:52:39.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:52:39.000
+End: 00:52:40.000
+Duration: 1.000 seconds
+Text: Commissioner Morse.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:52:40.000
+End: 00:52:41.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:52:41.000
+End: 00:52:42.000
+Duration: 1.000 seconds
+Text: Mayor Dodson.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:52:42.000
+End: 00:52:43.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:52:43.000
+End: 00:52:44.000
+Duration: 1.000 seconds
+Text: Motion carries 5-0.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:52:44.000
+End: 00:52:54.000
+Duration: 10.000 seconds
+Text: So we'll move to item B which is to consider resolution number 020519B sitting March the 19th, 2019.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:52:54.000
+End: 00:53:01.000
+Duration: 7.000 seconds
+Text: As a public hearing date to establish the Aggieville tax increment financing boundary or TIFF boundary.
+--------------------------------------------------
+Commissioner Butler:
+Start: 00:53:01.000
+End: 00:53:03.000
+Duration: 2.000 seconds
+Text: And, Jason.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:53:03.000
+End: 00:53:06.000
+Duration: 3.000 seconds
+Text: Good evening commissioners, mayor.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:53:06.000
+End: 00:53:08.000
+Duration: 2.000 seconds
+Text: Wanted to run through our timeline for the TIFF.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:53:08.000
+End: 00:53:13.000
+Duration: 5.000 seconds
+Text: We've had several presentations to you all talking about this.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:53:13.000
+End: 00:53:19.000
+Duration: 6.000 seconds
+Text: But wanted to walk through the dates in the coming months.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:53:19.000
+End: 00:53:25.000
+Duration: 6.000 seconds
+Text: So as you mentioned this evening is a resolution to establish that public hearing to create boundary.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:53:25.000
+End: 00:53:37.000
+Duration: 12.000 seconds
+Text: We'll use the next 30, 45 days to notify all the owners, occupants, the school district and Riley County of that hearing.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:53:37.000
+End: 00:53:40.000
+Duration: 3.000 seconds
+Text: And the hearing is very important.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:53:40.000
+End: 00:53:48.000
+Duration: 8.000 seconds
+Text: It's obviously the time that the public is going to be here or we hope they'll be here to listen to the background on the TIFF.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:53:48.000
+End: 00:54:03.000
+Duration: 15.000 seconds
+Text: And here the approach and understand the boundary and how TIFF actually impacts all owners and occupants and school district and Riley County organizational impacts as well.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:54:03.000
+End: 00:54:16.000
+Duration: 13.000 seconds
+Text: If the commission approves first reading on the March 19th day public hearing date, that starts the 30 day veto period at which Riley County or the school district can take action.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:54:16.000
+End: 00:54:21.000
+Duration: 5.000 seconds
+Text: They are not required to take action by law.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:54:21.000
+End: 00:54:27.000
+Duration: 6.000 seconds
+Text: Right now we have presentations scheduled to both those entities before that 30 day time period.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:54:27.000
+End: 00:54:33.000
+Duration: 6.000 seconds
+Text: They can request us back during that 30 day time period, which we've done in the past.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:54:33.000
+End: 00:54:39.000
+Duration: 6.000 seconds
+Text: As we've discussed TIFF with both entities over the last couple decades.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:54:39.000
+End: 00:54:42.000
+Duration: 3.000 seconds
+Text: Or they can simply let it lie.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:54:42.000
+End: 00:54:51.000
+Duration: 9.000 seconds
+Text: If 30 days pass and they don't take any action, then we can move forward with second reading of that ordinance to establish the boundary.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:54:51.000
+End: 00:54:56.000
+Duration: 5.000 seconds
+Text: The summer is when we anticipate coming back with the redevelopment plan.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:54:56.000
+End: 00:55:05.000
+Duration: 9.000 seconds
+Text: And I would also mention this summer we would, and may possibly even this spring, start to approach you about some design contracts.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:55:05.000
+End: 00:55:12.000
+Duration: 7.000 seconds
+Text: We're starting to recognize the pace at which the hotel at 12th and Blumont is pursuing.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:55:12.000
+End: 00:55:32.000
+Duration: 20.000 seconds
+Text: And in order for us to be there with them to allow them to open with a finished sidewalk and street scape, the potential for us to work through some designs and have contracts let in order to finalize and be complete by the summer of 2020.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:55:32.000
+End: 00:55:37.000
+Duration: 5.000 seconds
+Text: We probably need to start designing soon and getting some input and feedback.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:55:37.000
+End: 00:55:46.000
+Duration: 9.000 seconds
+Text: A lot of that is going to hinge on a water line that we need to build from the hotel south down 12th street to Moro Avenue.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:55:46.000
+End: 00:55:48.000
+Duration: 2.000 seconds
+Text: It's integral to their opening.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:55:48.000
+End: 00:55:54.000
+Duration: 6.000 seconds
+Text: It's integral to them being served with adequate water for their fire suppression.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:55:54.000
+End: 00:56:00.000
+Duration: 6.000 seconds
+Text: So that's a project that since we're going to have the road opened, we're going to have a lot disrupted.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:56:00.000
+End: 00:56:04.000
+Duration: 4.000 seconds
+Text: There's one strategy to come back with a finished product on 12th street.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:56:04.000
+End: 00:56:08.000
+Duration: 4.000 seconds
+Text: So we'll be talking with you later this spring about that as well.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:56:08.000
+End: 00:56:15.000
+Duration: 7.000 seconds
+Text: Just a reminder, we went with the expanded district. So we're out to 10th street on the east, we're on 14th street on the west.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:56:15.000
+End: 00:56:21.000
+Duration: 6.000 seconds
+Text: We have Anderson and Blumont as our northern boundary and then Fremont street as a southern boundary.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:56:21.000
+End: 00:56:29.000
+Duration: 8.000 seconds
+Text: So all the parcels within this boundary are within the proposed tax increment finance district.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:56:29.000
+End: 00:56:32.000
+Duration: 3.000 seconds
+Text: Happy to answer any questions about the process.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:56:32.000
+End: 00:56:39.000
+Duration: 7.000 seconds
+Text: Really looking to the public hearing to have a more robust conversation about the TIFF.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:56:39.000
+End: 00:56:45.000
+Duration: 6.000 seconds
+Text: We have given you a lot of information about some estimates and sizing of bonds and projects.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:56:45.000
+End: 00:56:53.000
+Duration: 8.000 seconds
+Text: But if we can hold a lot of our discussion to that hearing to allow our public to join us, that would be preferred.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:56:53.000
+End: 00:56:57.000
+Duration: 4.000 seconds
+Text: But happy to answer any questions on the timeline.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:56:57.000
+End: 00:57:04.000
+Duration: 7.000 seconds
+Text: Yeah, Jason, I have a question. I understand the boundary. We've talked about this quite a few times.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:57:04.000
+End: 00:57:15.000
+Duration: 11.000 seconds
+Text: And one of the page three of your documents, you know, it says 28 mils of the USD 383, 56.268 mils.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:57:15.000
+End: 00:57:19.000
+Duration: 4.000 seconds
+Text: It excludes the 28 mils because that goes strictly to capital outlay.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:57:19.000
+End: 00:57:23.000
+Duration: 4.000 seconds
+Text: So we're only counting the other 28 mils approximately.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:57:23.000
+End: 00:57:27.000
+Duration: 4.000 seconds
+Text: So I wanted to know since the base year is 2018.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:57:27.000
+End: 00:57:36.000
+Duration: 9.000 seconds
+Text: And they just passed a bond initiative which might increase property taxes to 7.8 mils and some of those.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:57:36.000
+End: 00:57:46.000
+Duration: 10.000 seconds
+Text: Is that 7.8 mils going towards that 28 mils that's for capital outlay or does it go to how is that?
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:57:46.000
+End: 00:57:50.000
+Duration: 4.000 seconds
+Text: Is that part of the base year? It can't be part of the base year because that was last year.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:57:50.000
+End: 00:57:56.000
+Duration: 6.000 seconds
+Text: So how does that calculate into capturing the property taxes and the TIFF district?
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:57:56.000
+End: 00:58:01.000
+Duration: 5.000 seconds
+Text: So there's a couple of questions there. One of which I believe I can answer the other.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:58:01.000
+End: 00:58:05.000
+Duration: 4.000 seconds
+Text: I'll probably need to go to the school district and have them give me some feedback.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:58:05.000
+End: 00:58:13.000
+Duration: 8.000 seconds
+Text: One, just because the TIFF district goes in place and a base year is established, the district will still get all the revenue from that base year.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:58:13.000
+End: 00:58:18.000
+Duration: 5.000 seconds
+Text: So all the mils involved, right from the base year will still go to the school district.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:58:18.000
+End: 00:58:27.000
+Duration: 9.000 seconds
+Text: As the district grows over time, they will not be able to capture 28 essentially if it stays the same.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:58:27.000
+End: 00:58:33.000
+Duration: 6.000 seconds
+Text: It's 20 mils that go to the state of Kansas and that's for funding that goes across the entire state.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:58:33.000
+End: 00:58:37.000
+Duration: 4.000 seconds
+Text: The 8 mils is what for the capital outlay that's reserved.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:58:37.000
+End: 00:58:43.000
+Duration: 6.000 seconds
+Text: The remainder of their mill levy still returns to the school district.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:58:43.000
+End: 00:58:47.000
+Duration: 4.000 seconds
+Text: You just don't capture the increment on that 28th that returns to the school district.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:58:47.000
+End: 00:58:56.000
+Duration: 9.000 seconds
+Text: I'll have to ask Eric just exactly how that capital outlay mill levy is going to adjust over time.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:58:56.000
+End: 00:59:02.000
+Duration: 6.000 seconds
+Text: With 20 going to the state, the 8 is what is currently dedicated to debt.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:59:02.000
+End: 00:59:07.000
+Duration: 5.000 seconds
+Text: And I need to get clarification from Eric just how he anticipates that fluctuating over time.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:59:07.000
+End: 00:59:13.000
+Duration: 6.000 seconds
+Text: Or with the addition of 7.8 is there some being replaced? Is that part of the 28th?
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:59:13.000
+End: 00:59:17.000
+Duration: 4.000 seconds
+Text: I think it is more of a part of the 28 that stays with the district.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:59:17.000
+End: 00:59:21.000
+Duration: 4.000 seconds
+Text: So they won't be able to capture if it is the growth in the district.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:59:21.000
+End: 00:59:26.000
+Duration: 5.000 seconds
+Text: It'll be more absorbed by the rest of the tax base throughout the community.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:59:26.000
+End: 00:59:35.000
+Duration: 9.000 seconds
+Text: But I can get, and he and I have talked, we're going to work on a better example so we can show how the district is impacted by the TIFF.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:59:35.000
+End: 00:59:39.000
+Duration: 4.000 seconds
+Text: Not only for you all, but for those board of education members as well.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:59:39.000
+End: 00:59:44.000
+Duration: 5.000 seconds
+Text: I don't know. I may have gotten lost in how you explained it.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:59:44.000
+End: 00:59:49.000
+Duration: 5.000 seconds
+Text: So of the 28% that goes 28 mills that goes to capital outlay,
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:59:49.000
+End: 00:59:53.000
+Duration: 4.000 seconds
+Text: 28, the only 8 mills of that goes to the school district.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:59:53.000
+End: 00:59:54.000
+Duration: 1.000 seconds
+Text: It's local. Yes.
+--------------------------------------------------
+Mayor Dodson:
+Start: 00:59:54.000
+End: 00:59:55.000
+Duration: 1.000 seconds
+Text: It's local.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:59:55.000
+End: 00:59:57.000
+Duration: 2.000 seconds
+Text: So if that is local.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 00:59:57.000
+End: 01:00:03.000
+Duration: 6.000 seconds
+Text: And then let's say the additional 7.8 mills that's going to be attached, I'm thinking this year,
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:00:03.000
+End: 01:00:08.000
+Duration: 5.000 seconds
+Text: how much of that is going to be, since it's none of this is in the base year,
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:00:08.000
+End: 01:00:14.000
+Duration: 6.000 seconds
+Text: because it's newly implemented, how much of that 7.8 is going to go to capital outlay?
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:00:14.000
+End: 01:00:16.000
+Duration: 2.000 seconds
+Text: And is that what you're going to be talking about?
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:00:16.000
+End: 01:00:17.000
+Duration: 1.000 seconds
+Text: That's what I need to ask him about.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:00:17.000
+End: 01:00:20.000
+Duration: 3.000 seconds
+Text: And then the rest, because that's what we would probably be capturing, is what I'm thinking,
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:00:20.000
+End: 01:00:22.000
+Duration: 2.000 seconds
+Text: the part that doesn't go to capital outlay.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:00:22.000
+End: 01:00:32.000
+Duration: 10.000 seconds
+Text: With the value of the annual today at 20 million, obviously that value will still kick in to help support any increases that still reside.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:00:32.000
+End: 01:00:35.000
+Duration: 3.000 seconds
+Text: With the school district by way of mill levy.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:00:35.000
+End: 01:00:40.000
+Duration: 5.000 seconds
+Text: What I'm going to lean on Eric a little bit to tell me, you know,
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:00:40.000
+End: 01:00:45.000
+Duration: 5.000 seconds
+Text: look into his crystal ball a little bit, as the district grows in valuation,
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:00:45.000
+End: 01:00:49.000
+Duration: 4.000 seconds
+Text: and we capture that growth for the fund.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:00:49.000
+End: 01:00:54.000
+Duration: 5.000 seconds
+Text: How is that going to impact things like the 130 million dollar bond?
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:00:54.000
+End: 01:00:55.000
+Duration: 1.000 seconds
+Text: Exactly.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:00:55.000
+End: 01:00:57.000
+Duration: 2.000 seconds
+Text: That's what I'm interested in.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:00:57.000
+End: 01:01:02.000
+Duration: 5.000 seconds
+Text: And I know he's looked at it preliminary, because when we sat down and talked,
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:01:02.000
+End: 01:01:12.000
+Duration: 10.000 seconds
+Text: we were talking about if the TIFF didn't exist, then the growth in Aguibo would obviously help with that valuation.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:01:12.000
+End: 01:01:19.000
+Duration: 7.000 seconds
+Text: What we were trying to figure out, our mill levy, our mill is worth roughly $550,000.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:01:19.000
+End: 01:01:23.000
+Duration: 4.000 seconds
+Text: Their mill is worth over $700,000.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:01:23.000
+End: 01:01:29.000
+Duration: 6.000 seconds
+Text: So it's over $700 million in terms of total valuation, whereas Aguibo is 20 of that.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:01:29.000
+End: 01:01:34.000
+Duration: 5.000 seconds
+Text: So it's a very low percentage of the overall total,
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:01:34.000
+End: 01:01:42.000
+Duration: 8.000 seconds
+Text: but we should be able to calculate out some incremental growth taking place and how that would impact their local mill option.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:01:42.000
+End: 01:01:50.000
+Duration: 8.000 seconds
+Text: Because we're also anticipating the property valuations to go up because of growth and the redevelopment that might be happening there at the same time.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:01:50.000
+End: 01:01:58.000
+Duration: 8.000 seconds
+Text: So what we do, and we have to factor in not only the growth and Aguibo, but the growth of the entire region and how it impacts.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:01:58.000
+End: 01:02:08.000
+Duration: 10.000 seconds
+Text: And that value of the mill, as you all know, the years you've been on the budget, the value of the mill just keeps increasing because the valuation of the entire broader area goes up.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:02:08.000
+End: 01:02:14.000
+Duration: 6.000 seconds
+Text: So sometimes it's offset, but clearly, if you're going to go from 20 million to 60 million, and Aguibo,
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:02:14.000
+End: 01:02:20.000
+Duration: 6.000 seconds
+Text: three times the value, and we're basically telling them that I can be able to capture that growth for 20 years,
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:02:20.000
+End: 01:02:23.000
+Duration: 3.000 seconds
+Text: it will have an impact on the rest of the tax base.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:02:23.000
+End: 01:02:25.000
+Duration: 2.000 seconds
+Text: I would like that information. Thank you.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:02:25.000
+End: 01:02:28.000
+Duration: 3.000 seconds
+Text: Yep.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:02:28.000
+End: 01:02:32.000
+Duration: 4.000 seconds
+Text: I think we all would.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:02:32.000
+End: 01:02:33.000
+Duration: 1.000 seconds
+Text: You can go ahead.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:02:33.000
+End: 01:02:46.000
+Duration: 13.000 seconds
+Text: I've, you've mentioned the revenue projections, you've tried to come in with a low moderate and high, and the, the estimates are going with is a moderate.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:02:46.000
+End: 01:02:51.000
+Duration: 5.000 seconds
+Text: Is that what we've had spring size our bonds based on?
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:02:52.000
+End: 01:02:57.000
+Duration: 5.000 seconds
+Text: And I think that's important for us, even low, maybe.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:02:57.000
+End: 01:03:03.000
+Duration: 6.000 seconds
+Text: I just think there's a lot of drag right now on the economy, and it's kind of worrisome.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:03:03.000
+End: 01:03:07.000
+Duration: 4.000 seconds
+Text: So the lower expectations, the better.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:03:07.000
+End: 01:03:18.000
+Duration: 11.000 seconds
+Text: Yeah, in our experience with downtown and the TIFF, and even the mall TIFF, 20 years, it's a long time.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:03:18.000
+End: 01:03:21.000
+Duration: 3.000 seconds
+Text: And a lot can happen, obviously, in two decades.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:03:21.000
+End: 01:03:30.000
+Duration: 9.000 seconds
+Text: And we've seen districts withstand economic downturns, and we've also seen districts take advantage of upturns.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:03:30.000
+End: 01:03:35.000
+Duration: 5.000 seconds
+Text: So when these analysts come in, they are very conservative.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:03:35.000
+End: 01:03:41.000
+Duration: 6.000 seconds
+Text: And again, I, I, I will get into this a little bit more deeper on the 19th.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:03:41.000
+End: 01:03:48.000
+Duration: 7.000 seconds
+Text: And we can dive into some of those numbers and some of the, the analytics of it all.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:03:48.000
+End: 01:03:51.000
+Duration: 3.000 seconds
+Text: But yeah, they're fairly conservative than their approach.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:03:56.000
+End: 01:04:00.000
+Duration: 4.000 seconds
+Text: We do have, we'll have a public hearing, right?
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:04:00.000
+End: 01:04:01.000
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:04:02.000
+End: 01:04:07.000
+Duration: 5.000 seconds
+Text: I just wanted to ask about that water line.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:04:07.000
+End: 01:04:12.000
+Duration: 5.000 seconds
+Text: That water line has to be constructed regardless.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:04:12.000
+End: 01:04:18.000
+Duration: 6.000 seconds
+Text: I mean, before the TIFF even enters into it right, I mean, this is part of our, of our upgrade.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:04:18.000
+End: 01:04:23.000
+Duration: 5.000 seconds
+Text: The, the only piece that I didn't understand, Ron and I talked about this a little bit this morning.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:04:23.000
+End: 01:04:30.000
+Duration: 7.000 seconds
+Text: But when we get up to the corner on Blumont, is that link with a pipe going north?
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:04:30.000
+End: 01:04:36.000
+Duration: 6.000 seconds
+Text: Or does it just stop there? And then we have to completely dig up.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:04:36.000
+End: 01:04:41.000
+Duration: 5.000 seconds
+Text: So water or stone water, you dug them water.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:04:41.000
+End: 01:04:42.000
+Duration: 1.000 seconds
+Text: Yeah.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:04:42.000
+End: 01:04:47.000
+Duration: 5.000 seconds
+Text: Well, the water goes back down tomorrow.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:04:47.000
+End: 01:04:53.000
+Duration: 6.000 seconds
+Text: So commissioner eventually, the overall plan is to get from Fremont Street down 12th to Karni.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:04:53.000
+End: 01:04:58.000
+Duration: 5.000 seconds
+Text: There's a large 16 inch water main in Fremont.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:04:59.000
+End: 01:05:02.000
+Duration: 3.000 seconds
+Text: There's a large 12 inch water main in Karni.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:05:02.000
+End: 01:05:07.000
+Duration: 5.000 seconds
+Text: Both of those come directly from the plant, so they're under pretty good pressure, pretty good volumes.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:05:07.000
+End: 01:05:13.000
+Duration: 6.000 seconds
+Text: The goal is to link those two through 12 streets so that we have fire flow for whatever businesses
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:05:13.000
+End: 01:05:18.000
+Duration: 5.000 seconds
+Text: and then whatever fire flow that Scott would need, should you have to go down there and fight a fire.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:05:18.000
+End: 01:05:23.000
+Duration: 5.000 seconds
+Text: We have parallel lines, one running on Morrow, one running on Blumont.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:05:23.000
+End: 01:05:30.000
+Duration: 7.000 seconds
+Text: And as Brian mentioned, we're trying to eventually make this connection, but head south as well.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:05:30.000
+End: 01:05:31.000
+Duration: 1.000 seconds
+Text: Head south to get to Fremont.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:05:31.000
+End: 01:05:36.000
+Duration: 5.000 seconds
+Text: There's a 16 inch water main in Fremont that the goal is to get there eventually.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:05:36.000
+End: 01:05:43.000
+Duration: 7.000 seconds
+Text: If we get underneath 12th street between Morrow and Blumont, we can come back later and make those connections without impacting the hotel.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:05:43.000
+End: 01:05:48.000
+Duration: 5.000 seconds
+Text: And sewer line is okay, going up towards Raton.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:05:48.000
+End: 01:05:56.000
+Duration: 8.000 seconds
+Text: Yeah, so also an associate's about a year ago did a comprehensive sewer storm sewer water plan for Aggieville.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:05:56.000
+End: 01:06:01.000
+Duration: 5.000 seconds
+Text: They identified that the sewer system is in good shape.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:06:01.000
+End: 01:06:11.000
+Duration: 10.000 seconds
+Text: The other thing just kind of a good truest comment here, I think the total valuation of our tax base is something like $550 million.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:06:12.000
+End: 01:06:21.000
+Duration: 9.000 seconds
+Text: So we're talking about maybe the withhold of about 125th of what might normally be collected.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:06:21.000
+End: 01:06:28.000
+Duration: 7.000 seconds
+Text: So I think we're relatively in good shape with the school district and so on.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:06:28.000
+End: 01:06:38.000
+Duration: 10.000 seconds
+Text: And their draw as you pointed out is not only the city, but it extends out into Blue Valley and into Brutty County a little bit.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:06:38.000
+End: 01:06:46.000
+Duration: 8.000 seconds
+Text: So that's why the Nile-Rated Valley valuation is higher than ours.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:06:46.000
+End: 01:06:50.000
+Duration: 4.000 seconds
+Text: The further comments are...
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:06:50.000
+End: 01:06:53.000
+Duration: 3.000 seconds
+Text: Let's ask for public comment.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:06:53.000
+End: 01:07:00.000
+Duration: 7.000 seconds
+Text: Less Trent wants to come forward.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:07:01.000
+End: 01:07:08.000
+Duration: 7.000 seconds
+Text: So no public comment being heard will come back to the commission and see if there's a proposal for motion.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:07:08.000
+End: 01:07:21.000
+Duration: 13.000 seconds
+Text: I would just like to say that I support the broader Aggieville boundary to 10th Street, East to 10th.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:07:22.000
+End: 01:07:29.000
+Duration: 7.000 seconds
+Text: I think it opens up new possibilities for Aggieville to grow in some way.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:07:29.000
+End: 01:07:35.000
+Duration: 6.000 seconds
+Text: Whether it's commercial or residential, it just permits that additional opportunity.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:07:35.000
+End: 01:07:37.000
+Duration: 2.000 seconds
+Text: And I think that's important.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:07:37.000
+End: 01:07:44.000
+Duration: 7.000 seconds
+Text: And of course, you know, this is the kickoff for that future development by adopting the boundaries for this TIFF.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:07:44.000
+End: 01:07:49.000
+Duration: 5.000 seconds
+Text: So if you're ready for a motion, I'd be glad to do that.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:07:49.000
+End: 01:07:53.000
+Duration: 4.000 seconds
+Text: What's others want to speak?
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:07:53.000
+End: 01:08:10.000
+Duration: 17.000 seconds
+Text: Mayor, I moved approval of resolution number 020519-B setting March 19th, 2019 as the date for a public hearing to establish the Aggieville Tax Increment Finance District boundary in Manhattan, Kansas.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:08:10.000
+End: 01:08:12.000
+Duration: 2.000 seconds
+Text: Second.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:08:13.000
+End: 01:08:15.000
+Duration: 2.000 seconds
+Text: Commissioner Butler.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:08:15.000
+End: 01:08:16.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:08:16.000
+End: 01:08:17.000
+Duration: 1.000 seconds
+Text: Commissioner McKee.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:08:17.000
+End: 01:08:18.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:08:18.000
+End: 01:08:19.000
+Duration: 1.000 seconds
+Text: Commissioner Morris.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:08:19.000
+End: 01:08:20.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+City Clerk:
+Start: 01:08:20.000
+End: 01:08:21.000
+Duration: 1.000 seconds
+Text: Mayor Dodson.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:08:21.000
+End: 01:08:22.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:08:22.000
+End: 01:08:23.000
+Duration: 1.000 seconds
+Text: Commissioner Reddy.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:08:23.000
+End: 01:08:24.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:08:24.000
+End: 01:08:25.000
+Duration: 1.000 seconds
+Text: Motion carries 5-0.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:08:25.000
+End: 01:08:30.000
+Duration: 5.000 seconds
+Text: Well, now move into item 7, which is executive session.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:08:30.000
+End: 01:08:37.000
+Duration: 7.000 seconds
+Text: And so I'd like a motion that I think is listed on everyone's agenda.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:08:37.000
+End: 01:08:44.000
+Duration: 7.000 seconds
+Text: And, oh, well, I was going to get to that in the mirror.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:08:44.000
+End: 01:08:48.000
+Duration: 4.000 seconds
+Text: This normally takes about 45 minutes.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:08:48.000
+End: 01:08:49.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:08:49.000
+End: 01:08:51.000
+Duration: 2.000 seconds
+Text: You say 45?
+--------------------------------------------------
+City Clerk:
+Start: 01:08:51.000
+End: 01:08:52.000
+Duration: 1.000 seconds
+Text: I don't know.
+--------------------------------------------------
+City Clerk:
+Start: 01:08:52.000
+End: 01:08:54.000
+Duration: 2.000 seconds
+Text: I'm a discussion.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:08:54.000
+End: 01:08:56.000
+Duration: 2.000 seconds
+Text: What's been there?
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:08:56.000
+End: 01:08:59.000
+Duration: 3.000 seconds
+Text: I can't explain.
+--------------------------------------------------
+City Manager:
+Start: 01:08:59.000
+End: 01:09:02.000
+Duration: 3.000 seconds
+Text: You can't explain.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:09:02.000
+End: 01:09:11.000
+Duration: 9.000 seconds
+Text: What I would propose is that we come back at 845.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:09:11.000
+End: 01:09:12.000
+Duration: 1.000 seconds
+Text: Okay.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:09:12.000
+End: 01:09:17.000
+Duration: 5.000 seconds
+Text: And if you'll embed that in the motion, I'd be great.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:09:17.000
+End: 01:09:18.000
+Duration: 1.000 seconds
+Text: I move.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:09:18.000
+End: 01:09:31.000
+Duration: 13.000 seconds
+Text: We recess into executive session to conduct the annual performance evaluation of the city manager, pursuant to the exceptions at 4th and KSA 75-4319-B1, allowing for discussion of the public hearing.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:09:31.000
+End: 01:09:40.000
+Duration: 9.000 seconds
+Text: And to resume the open meeting at 845 p.m. in the city commission room.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:09:40.000
+End: 01:09:43.000
+Duration: 3.000 seconds
+Text: I second the motion.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:09:43.000
+End: 01:09:44.000
+Duration: 1.000 seconds
+Text: All the roll.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:09:44.000
+End: 01:09:45.000
+Duration: 1.000 seconds
+Text: Commissioner McKee.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:09:45.000
+End: 01:09:46.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:09:46.000
+End: 01:09:47.000
+Duration: 1.000 seconds
+Text: Commissioner Morris.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:09:47.000
+End: 01:09:48.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:09:48.000
+End: 01:09:49.000
+Duration: 1.000 seconds
+Text: Mayor Dodson.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:09:49.000
+End: 01:09:50.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:09:50.000
+End: 01:09:51.000
+Duration: 1.000 seconds
+Text: Commissioner Reddy.
+--------------------------------------------------
+City Clerk:
+Start: 01:09:51.000
+End: 01:09:52.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:09:52.000
+End: 01:09:53.000
+Duration: 1.000 seconds
+Text: Commissioner Butler.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:09:53.000
+End: 01:09:54.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:09:54.000
+End: 01:09:55.000
+Duration: 1.000 seconds
+Text: Motion carries 5-0.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:11:31.000
+End: 01:12:01.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:15:01.000
+End: 01:15:31.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:17:01.000
+End: 01:17:31.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:18:31.000
+End: 01:19:01.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:19:01.000
+End: 01:19:31.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:22:01.000
+End: 01:22:31.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:22:31.000
+End: 01:23:01.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:23:01.000
+End: 01:23:31.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:23:31.000
+End: 01:24:01.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:24:31.000
+End: 01:25:01.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:25:01.000
+End: 01:25:31.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:26:31.000
+End: 01:27:01.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:27:01.000
+End: 01:27:31.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:27:31.000
+End: 01:28:01.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:28:31.000
+End: 01:29:01.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:29:01.000
+End: 01:29:31.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:29:31.000
+End: 01:30:01.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:31:01.000
+End: 01:31:31.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:31:31.000
+End: 01:32:01.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:32:01.000
+End: 01:32:31.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:33:31.000
+End: 01:34:01.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:34:01.000
+End: 01:34:31.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:34:31.000
+End: 01:35:01.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:35:01.000
+End: 01:35:31.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:35:31.000
+End: 01:36:01.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:36:31.000
+End: 01:37:01.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:38:31.000
+End: 01:39:01.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:39:01.000
+End: 01:39:31.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:40:31.000
+End: 01:41:01.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:41:01.000
+End: 01:41:31.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:41:31.000
+End: 01:42:01.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:42:01.000
+End: 01:42:31.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:43:01.000
+End: 01:43:31.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:43:31.000
+End: 01:44:01.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:44:01.000
+End: 01:44:24.000
+Duration: 23.000 seconds
+Text: Motion carries 5-0.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:44:24.000
+End: 01:44:26.000
+Duration: 2.000 seconds
+Text: I move.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:44:26.000
+End: 01:44:27.000
+Duration: 1.000 seconds
+Text: I move.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:44:27.000
+End: 01:44:29.000
+Duration: 2.000 seconds
+Text: We resume and extend.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:44:29.000
+End: 01:44:30.000
+Duration: 1.000 seconds
+Text: Recess.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:44:30.000
+End: 01:44:31.000
+Duration: 1.000 seconds
+Text: Do I read the whole thing again?
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:44:31.000
+End: 01:44:53.000
+Duration: 22.000 seconds
+Text: Recess into executive session to conduct the annual performance evaluation of the city manager, pursuant to the exceptions at 4th and KSA 75-4319-B1, allowing for discussion of personnel matters of non-elected personnel and to resume the open meeting at 9 o'clock p.m.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:44:53.000
+End: 01:44:55.000
+Duration: 2.000 seconds
+Text: And the city commission room.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:44:55.000
+End: 01:44:57.000
+Duration: 2.000 seconds
+Text: Second.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:44:57.000
+End: 01:44:59.000
+Duration: 2.000 seconds
+Text: Call the roll.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:44:59.000
+End: 01:45:00.000
+Duration: 1.000 seconds
+Text: Commissioner Morris.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:45:00.000
+End: 01:45:01.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:45:01.000
+End: 01:45:02.000
+Duration: 1.000 seconds
+Text: Mayor Dodson.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:45:02.000
+End: 01:45:03.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:45:03.000
+End: 01:45:04.000
+Duration: 1.000 seconds
+Text: Commissioner Reddy.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:45:04.000
+End: 01:45:05.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:45:05.000
+End: 01:45:06.000
+Duration: 1.000 seconds
+Text: Commissioner Butler.
+--------------------------------------------------
+Mayor Dodson:
+Start: 01:45:06.000
+End: 01:45:07.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Butler:
+Start: 01:45:07.000
+End: 01:45:08.000
+Duration: 1.000 seconds
+Text: And Commissioner McKee.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:45:08.000
+End: 01:45:09.000
+Duration: 1.000 seconds
+Text: Yes.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:45:09.000
+End: 01:45:10.000
+Duration: 1.000 seconds
+Text: Motion carries 5-0.
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:45:23.000
+End: 01:45:53.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:46:23.000
+End: 01:46:53.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:47:53.000
+End: 01:48:23.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:48:23.000
+End: 01:48:53.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:48:53.000
+End: 01:49:23.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:49:23.000
+End: 01:49:53.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:49:53.000
+End: 01:50:23.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:50:23.000
+End: 01:50:53.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:51:23.000
+End: 01:51:53.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:51:53.000
+End: 01:52:23.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:52:53.000
+End: 01:53:23.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:54:23.000
+End: 01:54:53.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:54:53.000
+End: 01:55:23.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:55:23.000
+End: 01:55:53.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:55:53.000
+End: 01:56:23.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:56:23.000
+End: 01:56:53.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:57:23.000
+End: 01:57:53.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:58:23.000
+End: 01:58:53.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:58:53.000
+End: 01:59:23.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:59:23.000
+End: 01:59:53.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 01:59:53.000
+End: 02:00:23.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 02:00:23.000
+End: 02:00:53.000
+Duration: 30.000 seconds
+Text: 
+--------------------------------------------------
+Commissioner Dodson:
+Start: 02:00:53.000
+End: 02:01:03.000
+Duration: 10.000 seconds
+Text: Motion carries 5-0.
+--------------------------------------------------
+Commissioner Butler:
+Start: 02:01:03.000
+End: 02:01:06.000
+Duration: 3.000 seconds
+Text: After returning from executive session.
+--------------------------------------------------
+Commissioner Butler:
+Start: 02:01:06.000
+End: 02:01:09.000
+Duration: 3.000 seconds
+Text: And we are not going to recess again.
+--------------------------------------------------
+Commissioner Butler:
+Start: 02:01:09.000
+End: 02:01:13.000
+Duration: 4.000 seconds
+Text: Simply state that no binding action was taken during executive session.
+--------------------------------------------------
+Commissioner Butler:
+Start: 02:01:13.000
+End: 02:01:17.000
+Duration: 4.000 seconds
+Text: Therefore no vote in the open meeting is needed.
+--------------------------------------------------
+Commissioner Butler:
+Start: 02:01:17.000
+End: 02:01:20.000
+Duration: 3.000 seconds
+Text: And there being no further business.
+--------------------------------------------------
+Commissioner Butler:
+Start: 02:01:20.000
+End: 02:01:22.000
+Duration: 2.000 seconds
+Text: We will adjourn.
+--------------------------------------------------
