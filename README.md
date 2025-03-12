@@ -174,7 +174,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📬 Contact
 
 Chris@frontiertechstrategies.com
-For questions, suggestions, or collaboration opportunities, please open an issue on this repository.
+For questions, suggestions, or collaboration opportunities, please email me.
 
 ---
 
