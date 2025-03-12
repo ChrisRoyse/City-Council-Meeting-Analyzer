@@ -9,7 +9,7 @@
 
 ## 📝 Description
 
-This project is a comprehensive, multi-agent AI system designed to analyze 7 years of Manhattan, Kansas city council meeting transcripts (900+ GB of data). By leveraging GPT-4 and sophisticated data analysis techniques, this system extracts meaningful insights, patterns, and trends from hundreds of meeting transcripts that would be impractical to analyze manually.
+This project is a comprehensive, multi-agent AI system designed to analyze 7 years of Manhattan, Kansas city council meeting transcripts. By leveraging GPT-4 and sophisticated data analysis techniques, this system extracts meaningful insights, patterns, and trends from hundreds of meeting transcripts that would be impractical to analyze manually. I downloaded videos of 7 years of City Council Meetings totalling 900 GB.  I then transcribed and diarized those videos.  The transcriptions are uploaded in the git repository.
 
 The system performs multi-faceted analysis through parallel AI agents focusing on different analytical perspectives:
 - Open-ended discovery of meeting themes
